@@ -1,0 +1,861 @@
+{
+  "code": 200,
+  "message": "成功",
+  "data": {
+    "playIndexs": [
+      {
+        "date": 1684944000000,
+        "number": 1184,
+        "dateStr": "2023-05-25"
+      },
+      {
+        "date": 1685030400000,
+        "number": 1083,
+        "dateStr": "2023-05-26"
+      },
+      {
+        "date": 1685116800000,
+        "number": 1283,
+        "dateStr": "2023-05-27"
+      },
+      {
+        "date": 1685203200000,
+        "number": 1359,
+        "dateStr": "2023-05-28"
+      },
+      {
+        "date": 1685289600000,
+        "number": 1233,
+        "dateStr": "2023-05-29"
+      },
+      {
+        "date": 1685376000000,
+        "number": 1156,
+        "dateStr": "2023-05-30"
+      },
+      {
+        "date": 1685462400000,
+        "number": 1241,
+        "dateStr": "2023-05-31"
+      },
+      {
+        "date": 1685548800000,
+        "number": 1193,
+        "dateStr": "2023-06-01"
+      },
+      {
+        "date": 1685635200000,
+        "number": 1450,
+        "dateStr": "2023-06-02"
+      },
+      {
+        "date": 1685721600000,
+        "number": 1496,
+        "dateStr": "2023-06-03"
+      },
+      {
+        "date": 1685808000000,
+        "number": 1472,
+        "dateStr": "2023-06-04"
+      },
+      {
+        "date": 1685894400000,
+        "number": 1222,
+        "dateStr": "2023-06-05"
+      },
+      {
+        "date": 1685980800000,
+        "number": 1346,
+        "dateStr": "2023-06-06"
+      },
+      {
+        "date": 1686067200000,
+        "number": 1344,
+        "dateStr": "2023-06-07"
+      },
+      {
+        "date": 1686153600000,
+        "number": 1427,
+        "dateStr": "2023-06-08"
+      },
+      {
+        "date": 1686240000000,
+        "number": 1335,
+        "dateStr": "2023-06-09"
+      },
+      {
+        "date": 1686326400000,
+        "number": 1376,
+        "dateStr": "2023-06-10"
+      },
+      {
+        "date": 1686412800000,
+        "number": 1370,
+        "dateStr": "2023-06-11"
+      },
+      {
+        "date": 1686499200000,
+        "number": 1360,
+        "dateStr": "2023-06-12"
+      },
+      {
+        "date": 1686585600000,
+        "number": 1357,
+        "dateStr": "2023-06-13"
+      },
+      {
+        "date": 1686672000000,
+        "number": 1304,
+        "dateStr": "2023-06-14"
+      },
+      {
+        "date": 1686758400000,
+        "number": 1538,
+        "dateStr": "2023-06-15"
+      },
+      {
+        "date": 1686844800000,
+        "number": 1676,
+        "dateStr": "2023-06-16"
+      },
+      {
+        "date": 1686931200000,
+        "number": 1510,
+        "dateStr": "2023-06-17"
+      },
+      {
+        "date": 1687017600000,
+        "number": 1297,
+        "dateStr": "2023-06-18"
+      },
+      {
+        "date": 1687104000000,
+        "number": 1264,
+        "dateStr": "2023-06-19"
+      },
+      {
+        "date": 1687190400000,
+        "number": 1291,
+        "dateStr": "2023-06-20"
+      },
+      {
+        "date": 1687276800000,
+        "number": 1203,
+        "dateStr": "2023-06-21"
+      },
+      {
+        "date": 1687363200000,
+        "number": 1141,
+        "dateStr": "2023-06-22"
+      },
+      {
+        "date": 1687449600000,
+        "number": 1210,
+        "dateStr": "2023-06-23"
+      }
+    ],
+    "cmtIndexs": [
+      {
+        "date": 1684944000000,
+        "number": 0,
+        "dateStr": "2023-05-25"
+      },
+      {
+        "date": 1685030400000,
+        "number": 0,
+        "dateStr": "2023-05-26"
+      },
+      {
+        "date": 1685116800000,
+        "number": 2,
+        "dateStr": "2023-05-27"
+      },
+      {
+        "date": 1685203200000,
+        "number": 0,
+        "dateStr": "2023-05-28"
+      },
+      {
+        "date": 1685289600000,
+        "number": 0,
+        "dateStr": "2023-05-29"
+      },
+      {
+        "date": 1685376000000,
+        "number": 0,
+        "dateStr": "2023-05-30"
+      },
+      {
+        "date": 1685462400000,
+        "number": 0,
+        "dateStr": "2023-05-31"
+      },
+      {
+        "date": 1685548800000,
+        "number": -6,
+        "dateStr": "2023-06-01"
+      },
+      {
+        "date": 1685635200000,
+        "number": 0,
+        "dateStr": "2023-06-02"
+      },
+      {
+        "date": 1685721600000,
+        "number": 0,
+        "dateStr": "2023-06-03"
+      },
+      {
+        "date": 1685808000000,
+        "number": 0,
+        "dateStr": "2023-06-04"
+      },
+      {
+        "date": 1685894400000,
+        "number": 0,
+        "dateStr": "2023-06-05"
+      },
+      {
+        "date": 1685980800000,
+        "number": 0,
+        "dateStr": "2023-06-06"
+      },
+      {
+        "date": 1686067200000,
+        "number": 0,
+        "dateStr": "2023-06-07"
+      },
+      {
+        "date": 1686153600000,
+        "number": 0,
+        "dateStr": "2023-06-08"
+      },
+      {
+        "date": 1686240000000,
+        "number": 0,
+        "dateStr": "2023-06-09"
+      },
+      {
+        "date": 1686326400000,
+        "number": 0,
+        "dateStr": "2023-06-10"
+      },
+      {
+        "date": 1686412800000,
+        "number": 0,
+        "dateStr": "2023-06-11"
+      },
+      {
+        "date": 1686499200000,
+        "number": 0,
+        "dateStr": "2023-06-12"
+      },
+      {
+        "date": 1686585600000,
+        "number": 0,
+        "dateStr": "2023-06-13"
+      },
+      {
+        "date": 1686672000000,
+        "number": 0,
+        "dateStr": "2023-06-14"
+      },
+      {
+        "date": 1686758400000,
+        "number": 0,
+        "dateStr": "2023-06-15"
+      },
+      {
+        "date": 1686844800000,
+        "number": 0,
+        "dateStr": "2023-06-16"
+      },
+      {
+        "date": 1686931200000,
+        "number": 0,
+        "dateStr": "2023-06-17"
+      },
+      {
+        "date": 1687017600000,
+        "number": 0,
+        "dateStr": "2023-06-18"
+      },
+      {
+        "date": 1687104000000,
+        "number": 0,
+        "dateStr": "2023-06-19"
+      },
+      {
+        "date": 1687190400000,
+        "number": 0,
+        "dateStr": "2023-06-20"
+      },
+      {
+        "date": 1687276800000,
+        "number": 0,
+        "dateStr": "2023-06-21"
+      },
+      {
+        "date": 1687363200000,
+        "number": 1,
+        "dateStr": "2023-06-22"
+      },
+      {
+        "date": 1687449600000,
+        "number": 0,
+        "dateStr": "2023-06-23"
+      }
+    ],
+    "collectICountIndexs": [
+      {
+        "date": 1684944000000,
+        "number": 58,
+        "dateStr": "2023-05-25"
+      },
+      {
+        "date": 1685030400000,
+        "number": 54,
+        "dateStr": "2023-05-26"
+      },
+      {
+        "date": 1685116800000,
+        "number": 67,
+        "dateStr": "2023-05-27"
+      },
+      {
+        "date": 1685203200000,
+        "number": 85,
+        "dateStr": "2023-05-28"
+      },
+      {
+        "date": 1685289600000,
+        "number": 47,
+        "dateStr": "2023-05-29"
+      },
+      {
+        "date": 1685376000000,
+        "number": 52,
+        "dateStr": "2023-05-30"
+      },
+      {
+        "date": 1685462400000,
+        "number": 59,
+        "dateStr": "2023-05-31"
+      },
+      {
+        "date": 1685548800000,
+        "number": 41,
+        "dateStr": "2023-06-01"
+      },
+      {
+        "date": 1685635200000,
+        "number": 45,
+        "dateStr": "2023-06-02"
+      },
+      {
+        "date": 1685721600000,
+        "number": 62,
+        "dateStr": "2023-06-03"
+      },
+      {
+        "date": 1685808000000,
+        "number": 52,
+        "dateStr": "2023-06-04"
+      },
+      {
+        "date": 1685894400000,
+        "number": 64,
+        "dateStr": "2023-06-05"
+      },
+      {
+        "date": 1685980800000,
+        "number": 58,
+        "dateStr": "2023-06-06"
+      },
+      {
+        "date": 1686067200000,
+        "number": 73,
+        "dateStr": "2023-06-07"
+      },
+      {
+        "date": 1686153600000,
+        "number": 53,
+        "dateStr": "2023-06-08"
+      },
+      {
+        "date": 1686240000000,
+        "number": 56,
+        "dateStr": "2023-06-09"
+      },
+      {
+        "date": 1686326400000,
+        "number": 55,
+        "dateStr": "2023-06-10"
+      },
+      {
+        "date": 1686412800000,
+        "number": 78,
+        "dateStr": "2023-06-11"
+      },
+      {
+        "date": 1686499200000,
+        "number": 69,
+        "dateStr": "2023-06-12"
+      },
+      {
+        "date": 1686585600000,
+        "number": 40,
+        "dateStr": "2023-06-13"
+      },
+      {
+        "date": 1686672000000,
+        "number": 63,
+        "dateStr": "2023-06-14"
+      },
+      {
+        "date": 1686758400000,
+        "number": 53,
+        "dateStr": "2023-06-15"
+      },
+      {
+        "date": 1686844800000,
+        "number": 40,
+        "dateStr": "2023-06-16"
+      },
+      {
+        "date": 1686931200000,
+        "number": 70,
+        "dateStr": "2023-06-17"
+      },
+      {
+        "date": 1687017600000,
+        "number": 56,
+        "dateStr": "2023-06-18"
+      },
+      {
+        "date": 1687104000000,
+        "number": 59,
+        "dateStr": "2023-06-19"
+      },
+      {
+        "date": 1687190400000,
+        "number": 52,
+        "dateStr": "2023-06-20"
+      },
+      {
+        "date": 1687276800000,
+        "number": 33,
+        "dateStr": "2023-06-21"
+      },
+      {
+        "date": 1687363200000,
+        "number": 65,
+        "dateStr": "2023-06-22"
+      },
+      {
+        "date": 1687449600000,
+        "number": 64,
+        "dateStr": "2023-06-23"
+      }
+    ],
+    "gradeIndexs": [],
+    "communitySpreadIndexs": [],
+    "cloudShellPromoteIndexs": [
+      {
+        "date": 1684944000000,
+        "promoteCount": 0,
+        "costCloudShellNumber": 0
+      },
+      {
+        "date": 1685030400000,
+        "promoteCount": 0,
+        "costCloudShellNumber": 0
+      },
+      {
+        "date": 1685116800000,
+        "promoteCount": 0,
+        "costCloudShellNumber": 0
+      },
+      {
+        "date": 1685203200000,
+        "promoteCount": 0,
+        "costCloudShellNumber": 0
+      },
+      {
+        "date": 1685289600000,
+        "promoteCount": 0,
+        "costCloudShellNumber": 0
+      },
+      {
+        "date": 1685376000000,
+        "promoteCount": 0,
+        "costCloudShellNumber": 0
+      },
+      {
+        "date": 1685462400000,
+        "promoteCount": 0,
+        "costCloudShellNumber": 0
+      },
+      {
+        "date": 1685548800000,
+        "promoteCount": 0,
+        "costCloudShellNumber": 0
+      },
+      {
+        "date": 1685635200000,
+        "promoteCount": 0,
+        "costCloudShellNumber": 0
+      },
+      {
+        "date": 1685721600000,
+        "promoteCount": 0,
+        "costCloudShellNumber": 0
+      },
+      {
+        "date": 1685808000000,
+        "promoteCount": 0,
+        "costCloudShellNumber": 0
+      },
+      {
+        "date": 1685894400000,
+        "promoteCount": 0,
+        "costCloudShellNumber": 0
+      },
+      {
+        "date": 1685980800000,
+        "promoteCount": 0,
+        "costCloudShellNumber": 0
+      },
+      {
+        "date": 1686067200000,
+        "promoteCount": 0,
+        "costCloudShellNumber": 0
+      },
+      {
+        "date": 1686153600000,
+        "promoteCount": 0,
+        "costCloudShellNumber": 0
+      },
+      {
+        "date": 1686240000000,
+        "promoteCount": 0,
+        "costCloudShellNumber": 0
+      },
+      {
+        "date": 1686326400000,
+        "promoteCount": 0,
+        "costCloudShellNumber": 0
+      },
+      {
+        "date": 1686412800000,
+        "promoteCount": 0,
+        "costCloudShellNumber": 0
+      },
+      {
+        "date": 1686499200000,
+        "promoteCount": 0,
+        "costCloudShellNumber": 0
+      },
+      {
+        "date": 1686585600000,
+        "promoteCount": 0,
+        "costCloudShellNumber": 0
+      },
+      {
+        "date": 1686672000000,
+        "promoteCount": 0,
+        "costCloudShellNumber": 0
+      },
+      {
+        "date": 1686758400000,
+        "promoteCount": 0,
+        "costCloudShellNumber": 0
+      },
+      {
+        "date": 1686844800000,
+        "promoteCount": 0,
+        "costCloudShellNumber": 0
+      },
+      {
+        "date": 1686931200000,
+        "promoteCount": 0,
+        "costCloudShellNumber": 0
+      },
+      {
+        "date": 1687017600000,
+        "promoteCount": 0,
+        "costCloudShellNumber": 0
+      },
+      {
+        "date": 1687104000000,
+        "promoteCount": 0,
+        "costCloudShellNumber": 0
+      },
+      {
+        "date": 1687190400000,
+        "promoteCount": 0,
+        "costCloudShellNumber": 0
+      },
+      {
+        "date": 1687276800000,
+        "promoteCount": 0,
+        "costCloudShellNumber": 0
+      },
+      {
+        "date": 1687363200000,
+        "promoteCount": 0,
+        "costCloudShellNumber": 0
+      },
+      {
+        "date": 1687449600000,
+        "promoteCount": 0,
+        "costCloudShellNumber": 0
+      }
+    ],
+    "cloudShellPlayIndexs": [
+      {
+        "date": 1684944000000,
+        "playCount": 1318
+      },
+      {
+        "date": 1685030400000,
+        "playCount": 1210
+      },
+      {
+        "date": 1685116800000,
+        "playCount": 1429
+      },
+      {
+        "date": 1685203200000,
+        "playCount": 1508
+      },
+      {
+        "date": 1685289600000,
+        "playCount": 1342
+      },
+      {
+        "date": 1685376000000,
+        "playCount": 1280
+      },
+      {
+        "date": 1685462400000,
+        "playCount": 1365
+      },
+      {
+        "date": 1685548800000,
+        "playCount": 1319
+      },
+      {
+        "date": 1685635200000,
+        "playCount": 1579
+      },
+      {
+        "date": 1685721600000,
+        "playCount": 1631
+      },
+      {
+        "date": 1685808000000,
+        "playCount": 1605
+      },
+      {
+        "date": 1685894400000,
+        "playCount": 1343
+      },
+      {
+        "date": 1685980800000,
+        "playCount": 1480
+      },
+      {
+        "date": 1686067200000,
+        "playCount": 1473
+      },
+      {
+        "date": 1686153600000,
+        "playCount": 1576
+      },
+      {
+        "date": 1686240000000,
+        "playCount": 1490
+      },
+      {
+        "date": 1686326400000,
+        "playCount": 1525
+      },
+      {
+        "date": 1686412800000,
+        "playCount": 1517
+      },
+      {
+        "date": 1686499200000,
+        "playCount": 1499
+      },
+      {
+        "date": 1686585600000,
+        "playCount": 1495
+      },
+      {
+        "date": 1686672000000,
+        "playCount": 1457
+      },
+      {
+        "date": 1686758400000,
+        "playCount": 1650
+      },
+      {
+        "date": 1686844800000,
+        "playCount": 1792
+      },
+      {
+        "date": 1686931200000,
+        "playCount": 1640
+      },
+      {
+        "date": 1687017600000,
+        "playCount": 1433
+      },
+      {
+        "date": 1687104000000,
+        "playCount": 1407
+      },
+      {
+        "date": 1687190400000,
+        "playCount": 1418
+      },
+      {
+        "date": 1687276800000,
+        "playCount": 1310
+      },
+      {
+        "date": 1687363200000,
+        "playCount": 1266
+      },
+      {
+        "date": 1687449600000,
+        "playCount": 1347
+      }
+    ],
+    "fansPlayRatio": [
+      {
+        "date": 1684944000000,
+        "fansPlayRatio": "0"
+      },
+      {
+        "date": 1685030400000,
+        "fansPlayRatio": "0"
+      },
+      {
+        "date": 1685116800000,
+        "fansPlayRatio": "0"
+      },
+      {
+        "date": 1685203200000,
+        "fansPlayRatio": "0.01"
+      },
+      {
+        "date": 1685289600000,
+        "fansPlayRatio": "0"
+      },
+      {
+        "date": 1685376000000,
+        "fansPlayRatio": "0"
+      },
+      {
+        "date": 1685462400000,
+        "fansPlayRatio": "0"
+      },
+      {
+        "date": 1685548800000,
+        "fansPlayRatio": "0"
+      },
+      {
+        "date": 1685635200000,
+        "fansPlayRatio": "0"
+      },
+      {
+        "date": 1685721600000,
+        "fansPlayRatio": "0.01"
+      },
+      {
+        "date": 1685808000000,
+        "fansPlayRatio": "0"
+      },
+      {
+        "date": 1685894400000,
+        "fansPlayRatio": "0"
+      },
+      {
+        "date": 1685980800000,
+        "fansPlayRatio": "0"
+      },
+      {
+        "date": 1686067200000,
+        "fansPlayRatio": "0"
+      },
+      {
+        "date": 1686153600000,
+        "fansPlayRatio": "0"
+      },
+      {
+        "date": 1686240000000,
+        "fansPlayRatio": "0.01"
+      },
+      {
+        "date": 1686326400000,
+        "fansPlayRatio": "0"
+      },
+      {
+        "date": 1686412800000,
+        "fansPlayRatio": "0"
+      },
+      {
+        "date": 1686499200000,
+        "fansPlayRatio": "0"
+      },
+      {
+        "date": 1686585600000,
+        "fansPlayRatio": "0"
+      },
+      {
+        "date": 1686672000000,
+        "fansPlayRatio": "0"
+      },
+      {
+        "date": 1686758400000,
+        "fansPlayRatio": "0"
+      },
+      {
+        "date": 1686844800000,
+        "fansPlayRatio": "0.01"
+      },
+      {
+        "date": 1686931200000,
+        "fansPlayRatio": "0"
+      },
+      {
+        "date": 1687017600000,
+        "fansPlayRatio": "0"
+      },
+      {
+        "date": 1687104000000,
+        "fansPlayRatio": "0"
+      },
+      {
+        "date": 1687190400000,
+        "fansPlayRatio": "0"
+      },
+      {
+        "date": 1687276800000,
+        "fansPlayRatio": "0"
+      },
+      {
+        "date": 1687363200000,
+        "fansPlayRatio": "0.01"
+      },
+      {
+        "date": 1687449600000,
+        "fansPlayRatio": "0.01"
+      }
+    ],
+    "songName": "The Breeze Of Dusk"
+  }
+}
