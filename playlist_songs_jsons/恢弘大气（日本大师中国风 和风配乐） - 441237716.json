@@ -1,0 +1,927 @@
+{
+    "playlist_info": {
+        "name": "恢弘大气（日本大师中国风 和风配乐）",
+        "trackcount": 183,
+        "playcount": 576717,
+        "creator": "UniCorn_Adagio",
+        "createDate": "2016-08-11",
+        "heat": 229.0
+    },
+    "songs": [
+        {
+            "name": "Palace Memories",
+            "artist": "S.E.N.S.",
+            "id": 818820
+        },
+        {
+            "name": "大奥メインテーマ",
+            "artist": "村松崇継",
+            "id": 473059
+        },
+        {
+            "name": "映画“大奥”ﾃｰﾏ",
+            "artist": "石田勝範",
+            "id": 413219
+        },
+        {
+            "name": "英雄的黎明",
+            "artist": "横山菁児",
+            "id": 393705
+        },
+        {
+            "name": "命",
+            "artist": "石田勝範",
+            "id": 4881805
+        },
+        {
+            "name": "千年の祈り",
+            "artist": "姫神",
+            "id": 1317062576
+        },
+        {
+            "name": "千年の祈り",
+            "artist": "姫神",
+            "id": 438632
+        },
+        {
+            "name": "雪の女神",
+            "artist": "姫神",
+            "id": 26402262
+        },
+        {
+            "name": "A Water Lily",
+            "artist": "Jia Peng Fang",
+            "id": 537405593
+        },
+        {
+            "name": "Cherry Blossoms",
+            "artist": "Jia Peng Fang",
+            "id": 532151514
+        },
+        {
+            "name": "睡蓮",
+            "artist": "贾鹏芳",
+            "id": 103847
+        },
+        {
+            "name": "五月雨",
+            "artist": "高梨康治",
+            "id": 530507
+        },
+        {
+            "name": "届かぬ人に",
+            "artist": "高梨康治",
+            "id": 423997794
+        },
+        {
+            "name": "ノスタルジア",
+            "artist": "高梨康治",
+            "id": 423997793
+        },
+        {
+            "name": "天命",
+            "artist": "高梨康治",
+            "id": 27949334
+        },
+        {
+            "name": "孤独な巡礼",
+            "artist": "川井憲次",
+            "id": 448065
+        },
+        {
+            "name": "騎士王の誇り",
+            "artist": "川井憲次",
+            "id": 448119
+        },
+        {
+            "name": "いつか帰るところ",
+            "artist": "TSUKINOSORA",
+            "id": 663057
+        },
+        {
+            "name": "SILVER MOON(シルバー・ムーン)",
+            "artist": "恩田直幸",
+            "id": 498633
+        },
+        {
+            "name": "SILVER MOON",
+            "artist": "恩田直幸",
+            "id": 494642127
+        },
+        {
+            "name": "阿西达卡战记",
+            "artist": "久石譲",
+            "id": 28457552
+        },
+        {
+            "name": "The Legend of Ashitaka Theme [End Credit]",
+            "artist": "久石譲",
+            "id": 444229
+        },
+        {
+            "name": "Will to Live",
+            "artist": "久石譲",
+            "id": 444184
+        },
+        {
+            "name": "Silent Love (Main Theme)",
+            "artist": "久石譲",
+            "id": 25942063
+        },
+        {
+            "name": "A Chinese Tall Story",
+            "artist": "久石譲",
+            "id": 441760
+        },
+        {
+            "name": "長安十二時辰",
+            "artist": "村松崇継",
+            "id": 1403633007
+        },
+        {
+            "name": "百鬼夜行抄",
+            "artist": "森英治",
+            "id": 4904996
+        },
+        {
+            "name": "潇湘子",
+            "artist": "川井憲次",
+            "id": 29999529
+        },
+        {
+            "name": "故乡的原风景",
+            "artist": "宗次郎",
+            "id": 393685
+        },
+        {
+            "name": "陰陽師IIメインテーマ",
+            "artist": "梅林茂",
+            "id": 1944531
+        },
+        {
+            "name": "陰陽師・メインテーマ",
+            "artist": "梅林茂",
+            "id": 1944551
+        },
+        {
+            "name": "結ばれませ、さすれば…。",
+            "artist": "増田俊郎",
+            "id": 28411051
+        },
+        {
+            "name": "鬼火の童・鬼切、虎徹にございます!",
+            "artist": "増田俊郎",
+            "id": 28411038
+        },
+        {
+            "name": "時代を超える想い2",
+            "artist": "和田薫",
+            "id": 541131
+        },
+        {
+            "name": "时代を越える想い1",
+            "artist": "和田薫",
+            "id": 539324
+        },
+        {
+            "name": "かごめと犬夜叉",
+            "artist": "和田薫",
+            "id": 541275
+        },
+        {
+            "name": "東山花灯路",
+            "artist": "我々楽",
+            "id": 28302615
+        },
+        {
+            "name": "Luv Letter",
+            "artist": "TSUKINOSORA",
+            "id": 520242026
+        },
+        {
+            "name": "夏祭り、夢花火。",
+            "artist": "妹尾武",
+            "id": 28411784
+        },
+        {
+            "name": "「海境(うなさか)より」",
+            "artist": "増田俊郎",
+            "id": 469873
+        },
+        {
+            "name": "「旅をする沼」",
+            "artist": "増田俊郎",
+            "id": 469888
+        },
+        {
+            "name": "「籠のなか」",
+            "artist": "増田俊郎",
+            "id": 469772
+        },
+        {
+            "name": "風の手枕",
+            "artist": "増田俊郎",
+            "id": 469760
+        },
+        {
+            "name": "日照る雨",
+            "artist": "増田俊郎",
+            "id": 29482202
+        },
+        {
+            "name": "「蟲師」のテーマ",
+            "artist": "増田俊郎",
+            "id": 469843
+        },
+        {
+            "name": "「一夜橋」",
+            "artist": "増田俊郎",
+            "id": 469899
+        },
+        {
+            "name": "cocoon",
+            "artist": "林ゆうき",
+            "id": 499818
+        },
+        {
+            "name": "東方幽靜響 ~introduction~",
+            "artist": "舞風",
+            "id": 26085472
+        },
+        {
+            "name": "おぢいさんのランプ -メインテーマ-",
+            "artist": "羽毛田丈史",
+            "id": 422013
+        },
+        {
+            "name": "妖艶",
+            "artist": "森英治",
+            "id": 469811
+        },
+        {
+            "name": "火宵の月・テーマ~ピアノソロ",
+            "artist": "中村由利子",
+            "id": 625671
+        },
+        {
+            "name": "海神",
+            "artist": "S.E.N.S.",
+            "id": 22815054
+        },
+        {
+            "name": "アフロディーテ",
+            "artist": "S.E.N.S.",
+            "id": 819664
+        },
+        {
+            "name": "望夫女",
+            "artist": "神思者",
+            "id": 29999287
+        },
+        {
+            "name": "踊子プリムロゼのテーマ",
+            "artist": "西木康智",
+            "id": 865857528
+        },
+        {
+            "name": "华の乱",
+            "artist": "石田勝範",
+            "id": 4881802
+        },
+        {
+            "name": "神楽 Part.2",
+            "artist": "増田俊郎",
+            "id": 28411070
+        },
+        {
+            "name": "託された想い",
+            "artist": "増田俊郎",
+            "id": 28411043
+        },
+        {
+            "name": "II quiet romance (杀人考察(前))",
+            "artist": "梶浦由記",
+            "id": 590475
+        },
+        {
+            "name": "春よ、来い（和楽器ver.）",
+            "artist": "AUN J-CLASSIC ORCHESTRA",
+            "id": 683826
+        },
+        {
+            "name": "春よ、来い",
+            "artist": "伍芳",
+            "id": 302358
+        },
+        {
+            "name": "The Last Emperor (Main Title Theme)",
+            "artist": "David Byrne",
+            "id": 5059151
+        },
+        {
+            "name": "Where Is Armo?",
+            "artist": "坂本龍一",
+            "id": 5059144
+        },
+        {
+            "name": "Merry Christmas Mr.Lawrence -THEME- （Live Ver.）",
+            "artist": "坂本龍一",
+            "id": 34509357
+        },
+        {
+            "name": "神田川",
+            "artist": "贾鹏新",
+            "id": 106023
+        },
+        {
+            "name": "フェアリーテイル立つ",
+            "artist": "高梨康治",
+            "id": 32046444
+        },
+        {
+            "name": "私の空、彼女の空",
+            "artist": "mamomo",
+            "id": 33469232
+        },
+        {
+            "name": "兄弟",
+            "artist": "大島ミチル",
+            "id": 636907
+        },
+        {
+            "name": "万里の長城",
+            "artist": "太田美知彦",
+            "id": 492722
+        },
+        {
+            "name": "一代宗师",
+            "artist": "川井憲次",
+            "id": 445388
+        },
+        {
+            "name": "七剑战歌",
+            "artist": "川井憲次",
+            "id": 29999478
+        },
+        {
+            "name": "子の星",
+            "artist": "佐藤康夫",
+            "id": 444552
+        },
+        {
+            "name": "御殿",
+            "artist": "石田勝範",
+            "id": 4882079
+        },
+        {
+            "name": "桜道",
+            "artist": "Jusqu'à Grand-Père",
+            "id": 756112
+        },
+        {
+            "name": "情歌",
+            "artist": "吉松隆",
+            "id": 543266
+        },
+        {
+            "name": "In Memories \"KO.TO.WA.RI”",
+            "artist": "岩崎琢",
+            "id": 417287
+        },
+        {
+            "name": "源氏物语 ~Ancient Love Stories~",
+            "artist": "住友紀人",
+            "id": 516117
+        },
+        {
+            "name": "久遠 ~光と波の記憶~（Arrange Version）",
+            "artist": "松枝賀子",
+            "id": 622872
+        },
+        {
+            "name": "you",
+            "artist": "M.Graveyard",
+            "id": 786262
+        },
+        {
+            "name": "百鬼夜行抄~安息",
+            "artist": "森英治",
+            "id": 469844
+        },
+        {
+            "name": "Sundaland of mind",
+            "artist": "tokyo blue weeps",
+            "id": 854041
+        },
+        {
+            "name": "いのちの祭",
+            "artist": "吉田潔",
+            "id": 25855651
+        },
+        {
+            "name": "ザナルカンドにて",
+            "artist": "植松伸夫",
+            "id": 538777
+        },
+        {
+            "name": "いとおし意",
+            "artist": "吉俣良",
+            "id": 29718894
+        },
+        {
+            "name": "宋家皇朝",
+            "artist": "喜多郎",
+            "id": 443380
+        },
+        {
+            "name": "哀恋歌",
+            "artist": "長岡成貢",
+            "id": 813869
+        },
+        {
+            "name": "里山",
+            "artist": "羽毛田丈史",
+            "id": 423226
+        },
+        {
+            "name": "Up in the Sky",
+            "artist": "松居和",
+            "id": 599305
+        },
+        {
+            "name": "Sign of the Snow Crane",
+            "artist": "松居和",
+            "id": 599293
+        },
+        {
+            "name": "兰",
+            "artist": "群星",
+            "id": 5257693
+        },
+        {
+            "name": "麒麟 Unicorn",
+            "artist": "和平之月",
+            "id": 25918504
+        },
+        {
+            "name": "The Post Modern Life",
+            "artist": "久石譲",
+            "id": 441758
+        },
+        {
+            "name": "忘れじの言の葉 (Instrumental)",
+            "artist": "未来古代楽団",
+            "id": 432698933
+        },
+        {
+            "name": "総触れの日",
+            "artist": "村松崇継",
+            "id": 473136
+        },
+        {
+            "name": "良し",
+            "artist": "吉俣良",
+            "id": 540351
+        },
+        {
+            "name": "在毛毛细雨中飞翔",
+            "artist": "吉田潔",
+            "id": 423406246
+        },
+        {
+            "name": "遥远的旅途",
+            "artist": "吉田潔",
+            "id": 423406252
+        },
+        {
+            "name": "渚",
+            "artist": "麻枝准",
+            "id": 22706980
+        },
+        {
+            "name": "願いが叶う場所 II",
+            "artist": "麻枝准",
+            "id": 22707020
+        },
+        {
+            "name": "存在-e.piano-",
+            "artist": "戸越まごめ",
+            "id": 22707022
+        },
+        {
+            "name": "三葉のテーマ",
+            "artist": "RADWIMPS",
+            "id": 426881500
+        },
+        {
+            "name": "華のワルツ",
+            "artist": "石田勝範",
+            "id": 4882076
+        },
+        {
+            "name": "風の住む街",
+            "artist": "磯村由紀子",
+            "id": 586299
+        },
+        {
+            "name": "サクラ",
+            "artist": "磯村由紀子",
+            "id": 586308
+        },
+        {
+            "name": "Lovers",
+            "artist": "梅林茂",
+            "id": 1944413
+        },
+        {
+            "name": "桜",
+            "artist": "贾鹏芳",
+            "id": 103668
+        },
+        {
+            "name": "悲しみの再会",
+            "artist": "沢田完",
+            "id": 520089
+        },
+        {
+            "name": "暁のかげろう",
+            "artist": "姫神",
+            "id": 439010
+        },
+        {
+            "name": "王都炎上",
+            "artist": "都留教博",
+            "id": 530693
+        },
+        {
+            "name": "LOVE Theme from TIGA <M-2>",
+            "artist": "矢野立美",
+            "id": 4968365
+        },
+        {
+            "name": "夏の终り",
+            "artist": "京田誠一",
+            "id": 456559
+        },
+        {
+            "name": "晴れた日に(魔女の宅急便)",
+            "artist": "AUN J-CLASSIC ORCHESTRA",
+            "id": 683853
+        },
+        {
+            "name": "人生のメリーゴーランド(ハウルの動く城)",
+            "artist": "AUN J-CLASSIC ORCHESTRA",
+            "id": 683857
+        },
+        {
+            "name": "時の旅人",
+            "artist": "上妻宏光",
+            "id": 25879279
+        },
+        {
+            "name": "夜明",
+            "artist": "佐藤康夫",
+            "id": 29047169
+        },
+        {
+            "name": "Picking Up Brides",
+            "artist": "坂本龍一",
+            "id": 5059145
+        },
+        {
+            "name": "The Last Emperor (Theme)",
+            "artist": "坂本龍一",
+            "id": 5059150
+        },
+        {
+            "name": "旅立ち",
+            "artist": "石田勝範",
+            "id": 4882078
+        },
+        {
+            "name": "散りゆく桜",
+            "artist": "森英治",
+            "id": 469303
+        },
+        {
+            "name": "Matsuri",
+            "artist": "喜多郎",
+            "id": 18881532
+        },
+        {
+            "name": "Matsuri",
+            "artist": "吉田潔",
+            "id": 25918286
+        },
+        {
+            "name": "風の如く",
+            "artist": "吉田潔",
+            "id": 540025
+        },
+        {
+            "name": "风の誓い",
+            "artist": "梁邦彦",
+            "id": 1872367
+        },
+        {
+            "name": "Lovers",
+            "artist": "梅林茂",
+            "id": 1944408
+        },
+        {
+            "name": "望乡",
+            "artist": "和平之月",
+            "id": 25702097
+        },
+        {
+            "name": "望乡",
+            "artist": "贾鹏芳",
+            "id": 103914
+        },
+        {
+            "name": "夏影",
+            "artist": "麻枝准",
+            "id": 761088
+        },
+        {
+            "name": "Koi (Live)",
+            "artist": "喜多郎",
+            "id": 531020354
+        },
+        {
+            "name": "桜色舞うころ",
+            "artist": "AUN J-CLASSIC ORCHESTRA",
+            "id": 683799
+        },
+        {
+            "name": "睡莲",
+            "artist": "贾鹏芳",
+            "id": 103903
+        },
+        {
+            "name": "M01",
+            "artist": "梶浦由記",
+            "id": 591797
+        },
+        {
+            "name": "Asian road",
+            "artist": "藤原いくろう",
+            "id": 418438
+        },
+        {
+            "name": "南十字星",
+            "artist": "S.E.N.S.",
+            "id": 819651
+        },
+        {
+            "name": "大河悠久",
+            "artist": "TOGI+BAO",
+            "id": 4904991
+        },
+        {
+            "name": "蒼き海の道",
+            "artist": "東儀秀樹",
+            "id": 527081
+        },
+        {
+            "name": "もらい泣き",
+            "artist": "武部聡志",
+            "id": 526854
+        },
+        {
+            "name": "浮世音",
+            "artist": "佐藤康夫",
+            "id": 444588
+        },
+        {
+            "name": "きみが呼ぶなまえ~夢のつづき",
+            "artist": "吉森信",
+            "id": 541844
+        },
+        {
+            "name": "春を知らせるもの~続 夏目友人帳のテーマ",
+            "artist": "吉森信",
+            "id": 541928
+        },
+        {
+            "name": "いとはかなし",
+            "artist": "吉森信",
+            "id": 541887
+        },
+        {
+            "name": "コナンのテーマ~バラード・ヴァージョン",
+            "artist": "大野克夫",
+            "id": 28188293
+        },
+        {
+            "name": "夕焼け",
+            "artist": "経田康子",
+            "id": 4912919
+        },
+        {
+            "name": "アクア",
+            "artist": "経田康子",
+            "id": 4912909
+        },
+        {
+            "name": "桜",
+            "artist": "経田康子",
+            "id": 4912915
+        },
+        {
+            "name": "都",
+            "artist": "城之内ミサ",
+            "id": 4912905
+        },
+        {
+            "name": "サクラ サクラ (Instrumental With 尺八・三味线)",
+            "artist": "Rin'",
+            "id": 803892
+        },
+        {
+            "name": "さんぽ(となりのトトロ)",
+            "artist": "AUN J-CLASSIC ORCHESTRA",
+            "id": 683845
+        },
+        {
+            "name": "十二幻夢曲（Full Version）",
+            "artist": "梁邦彦",
+            "id": 1871952
+        },
+        {
+            "name": "异邦人の刃",
+            "artist": "佐藤直紀",
+            "id": 508793
+        },
+        {
+            "name": "运命(さだめ)",
+            "artist": "佐藤直紀",
+            "id": 510956
+        },
+        {
+            "name": "さらい屋五叶",
+            "artist": "MOKA☆",
+            "id": 782617
+        },
+        {
+            "name": "Heart",
+            "artist": "S.E.N.S.",
+            "id": 22815066
+        },
+        {
+            "name": "やまない雨",
+            "artist": "林有三",
+            "id": 463730
+        },
+        {
+            "name": "あいぞめ piano version",
+            "artist": "高梨康治",
+            "id": 532802
+        },
+        {
+            "name": "You",
+            "artist": "菅野よう子",
+            "id": 589656
+        },
+        {
+            "name": "ヨスガノソラ メインテーマ -遠い空へ-",
+            "artist": "市川淳",
+            "id": 477913
+        },
+        {
+            "name": "君と僕、届かぬ想い",
+            "artist": "佐橋俊彦",
+            "id": 499692
+        },
+        {
+            "name": "高雅~メインテーマ",
+            "artist": "S.E.N.S.",
+            "id": 816893
+        },
+        {
+            "name": "一人静",
+            "artist": "姫神",
+            "id": 25917069
+        },
+        {
+            "name": "宿命",
+            "artist": "高梨康治",
+            "id": 22642380
+        },
+        {
+            "name": "FAIRY TAIL メインテーマ　2014",
+            "artist": "高梨康治",
+            "id": 32046426
+        },
+        {
+            "name": "if...",
+            "artist": "DAISHI DANCE",
+            "id": 406360
+        },
+        {
+            "name": "Promise",
+            "artist": "山岡晃",
+            "id": 18861490
+        },
+        {
+            "name": "マツリウタ(红叶ヴァージョン)",
+            "artist": "川井憲次",
+            "id": 4878727
+        },
+        {
+            "name": "久遠寺有珠",
+            "artist": "深澤秀行",
+            "id": 501660
+        },
+        {
+            "name": "謎の少女、再び",
+            "artist": "迷宮",
+            "id": 29005779
+        },
+        {
+            "name": "悲運の巫女 桔梗",
+            "artist": "和田薫",
+            "id": 541260
+        },
+        {
+            "name": "君をのせて(天空の城ラピュタ)",
+            "artist": "AUN J-CLASSIC ORCHESTRA",
+            "id": 683883
+        },
+        {
+            "name": "湫之重生",
+            "artist": "吉田潔",
+            "id": 423407272
+        },
+        {
+            "name": "椿之梦",
+            "artist": "吉田潔",
+            "id": 423407265
+        },
+        {
+            "name": "桜花抄",
+            "artist": "天門",
+            "id": 528283
+        },
+        {
+            "name": "Through the Years&Far Away",
+            "artist": "Eminence Symphony Orchestra",
+            "id": 527602
+        },
+        {
+            "name": "絲綢之路",
+            "artist": "喜多郎",
+            "id": 444200
+        },
+        {
+            "name": "中国の街中",
+            "artist": "三宅一徳",
+            "id": 4929188
+        },
+        {
+            "name": "ゆめの想い",
+            "artist": "三宅一徳",
+            "id": 32465838
+        },
+        {
+            "name": "生",
+            "artist": "吉田潔",
+            "id": 423406253
+        },
+        {
+            "name": "飨宴",
+            "artist": "喜多郎",
+            "id": 30031071
+        },
+        {
+            "name": "孙文与庆龄",
+            "artist": "喜多郎",
+            "id": 393696
+        },
+        {
+            "name": "“冬のソナタ”~初めから今まで",
+            "artist": "中村由利子",
+            "id": 625568
+        },
+        {
+            "name": "明日を信じて(フィルムバージョン)",
+            "artist": "西村由紀江",
+            "id": 668667
+        },
+        {
+            "name": "Palace Memories - Denouement",
+            "artist": "S.E.N.S.",
+            "id": 818847
+        },
+        {
+            "name": "Palace Memories - Sunset",
+            "artist": "S.E.N.S.",
+            "id": 818834
+        },
+        {
+            "name": "Lovers",
+            "artist": "女子十二乐坊",
+            "id": 369459
+        }
+    ]
+}

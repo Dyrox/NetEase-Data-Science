@@ -25,9 +25,16 @@ def generate_playlist_json(playlist_link):
         os.mkdir(folder_name)
     playlist_id = playlist_id_extractor(playlist_link)
     playlist_info = get_playlist_info(playlist_id)
-    print(playlist_info['playlist'])
 
     playlist_name = playlist_info['playlist']['name']
+
+    file_name = f'{playlist_name} - {playlist_id}.json'
+    file_name = file_name.replace('/', '')
+
+    if os.path.exists(os.path.join(folder_name, file_name)):
+        print(f'\033[92m {playlist_link}已存在\033[0m')
+        return
+    
     playlist_trackcount = playlist_info['playlist']['trackCount']
     playlist_playcount = playlist_info['playlist']['playCount']
     playlist_creator = playlist_info['playlist']['creator']['nickname']
@@ -36,11 +43,7 @@ def generate_playlist_json(playlist_link):
     playlist_heat = playlist_playcount // playlist_age_days
     playlist_createDate = convert_timestamp_to_date(playlist_createTimeStamp)
 
-    file_name = f'{playlist_name} - {playlist_id}.json'
-
-    if os.path.exists(os.path.join(folder_name, file_name)):
-        print(f'\033[92m {playlist_link}已存在\033[0m')
-        return
+    
     
 
     playlist_json = {

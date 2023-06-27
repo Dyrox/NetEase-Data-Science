@@ -17,12 +17,14 @@ for csv_file in csv_files:
             playlist_links.append(playlist_link)
 
 count = 0
-while count <100:
+while count <200:
+    count += 1
     playlist_link = playlist_links[count]
     
     print(f'\033[92m 正在处理{playlist_link}...\033[0m')
     generate_playlist_json(playlist_link)
     print(f'\033[93m {playlist_link}处理完毕\033[0m')
-    count += 1
+    print(f'\033[94m {count}个歌单已处理\033[0m')
+    
     
 
