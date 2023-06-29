@@ -1,0 +1,512 @@
+{
+    "playlist_info": {
+        "name": "「摇滚」我的温柔希望你能听见",
+        "trackcount": 100,
+        "playcount": 268161,
+        "creator": "早起头发会炸毛",
+        "createDate": "2022-10-17",
+        "heat": 1053.0
+    },
+    "songs": [
+        {
+            "name": "精卫",
+            "artist": "30年前，50年后",
+            "id": 1951069525
+        },
+        {
+            "name": "唯一",
+            "artist": "告五人",
+            "id": 1807799505
+        },
+        {
+            "name": "凄美地",
+            "artist": "郭顶",
+            "id": 436346833
+        },
+        {
+            "name": "想去海边",
+            "artist": "夏日入侵企画",
+            "id": 1413863166
+        },
+        {
+            "name": "给你一瓶魔法药水",
+            "artist": "告五人",
+            "id": 1959667345
+        },
+        {
+            "name": "小半",
+            "artist": "陈粒",
+            "id": 421423806
+        },
+        {
+            "name": "新地球",
+            "artist": "林俊杰",
+            "id": 29774171
+        },
+        {
+            "name": "夜空中最亮的星",
+            "artist": "逃跑计划",
+            "id": 25706282
+        },
+        {
+            "name": "光辉岁月",
+            "artist": "Beyond",
+            "id": 346576
+        },
+        {
+            "name": "日落大道",
+            "artist": "梁博",
+            "id": 36392029
+        },
+        {
+            "name": "灰色轨迹",
+            "artist": "Beyond",
+            "id": 32701152
+        },
+        {
+            "name": "万千花蕊慈母悲哀",
+            "artist": "珂拉琪",
+            "id": 1903991886
+        },
+        {
+            "name": "荒废的一天",
+            "artist": "新裤子",
+            "id": 2033879001
+        },
+        {
+            "name": "克林",
+            "artist": "棱镜乐队",
+            "id": 549320309
+        },
+        {
+            "name": "悲伤朋克",
+            "artist": "新裤子",
+            "id": 2033877109
+        },
+        {
+            "name": "东海老人",
+            "artist": "裁缝铺",
+            "id": 1991332315
+        },
+        {
+            "name": "最差的记忆",
+            "artist": "新裤子",
+            "id": 2033877110
+        },
+        {
+            "name": "无情派对",
+            "artist": "新裤子",
+            "id": 2033879000
+        },
+        {
+            "name": "isahini",
+            "artist": "LÜCY",
+            "id": 1954146692
+        },
+        {
+            "name": "没有理想的人不伤心",
+            "artist": "新裤子",
+            "id": 28009051
+        },
+        {
+            "name": "曾经的你",
+            "artist": "许巍",
+            "id": 1960403857
+        },
+        {
+            "name": "百年孤寂",
+            "artist": "王菲",
+            "id": 299650
+        },
+        {
+            "name": "皮囊",
+            "artist": "犬儒乐队",
+            "id": 2014917358
+        },
+        {
+            "name": "我用什么把你留住 (Live)",
+            "artist": "福禄寿FloruitShow",
+            "id": 1481100356
+        },
+        {
+            "name": "胶己",
+            "artist": "王以诺",
+            "id": 1917154673
+        },
+        {
+            "name": "自由行走的花",
+            "artist": "萨顶顶",
+            "id": 286699
+        },
+        {
+            "name": "志铭",
+            "artist": "犬儒乐队",
+            "id": 2005708456
+        },
+        {
+            "name": "病",
+            "artist": "犬儒乐队",
+            "id": 2023931078
+        },
+        {
+            "name": "送流水",
+            "artist": "声音碎片乐队",
+            "id": 1365208495
+        },
+        {
+            "name": "赞美诗",
+            "artist": "贊詩",
+            "id": 1928429852
+        },
+        {
+            "name": "她说她要杀了我",
+            "artist": "Sunken Boat 沉舟乐队",
+            "id": 1891887518
+        },
+        {
+            "name": "我要开花",
+            "artist": "二手玫瑰",
+            "id": 1328892588
+        },
+        {
+            "name": "西充",
+            "artist": "麻园诗人",
+            "id": 2032784247
+        },
+        {
+            "name": "东方之海",
+            "artist": "雾也至",
+            "id": 1955247902
+        },
+        {
+            "name": "新长征路上的摇滚",
+            "artist": "崔健",
+            "id": 1962385461
+        },
+        {
+            "name": "迟来的毕业",
+            "artist": "Bo Peep",
+            "id": 2028309378
+        },
+        {
+            "name": "美好的事可不可以发生在我身上",
+            "artist": "康士坦的变化球",
+            "id": 1499917735
+        },
+        {
+            "name": "假酒兑烟灰",
+            "artist": "普信主义",
+            "id": 1970987777
+        },
+        {
+            "name": "水手公园",
+            "artist": "GALA",
+            "id": 1304922069
+        },
+        {
+            "name": "潮疑（Ask The Waves What To Do）",
+            "artist": "弱水WeakWaves",
+            "id": 1895116778
+        },
+        {
+            "name": "黑色柳丁",
+            "artist": "陶喆",
+            "id": 150552
+        },
+        {
+            "name": "北戴河之歌",
+            "artist": "GALA",
+            "id": 1972354534
+        },
+        {
+            "name": "问题",
+            "artist": "许钧",
+            "id": 1887031459
+        },
+        {
+            "name": "送别 (Live)",
+            "artist": "朴树",
+            "id": 500665351
+        },
+        {
+            "name": "CACTUS",
+            "artist": "LÜCY",
+            "id": 1954144215
+        },
+        {
+            "name": "Αφροδίτη",
+            "artist": "椅子乐团 The Chairs",
+            "id": 1996632979
+        },
+        {
+            "name": "就让我坠入海底（Sink Into A Deep Sea）",
+            "artist": "Sunken Boat 沉舟乐队",
+            "id": 1447840399
+        },
+        {
+            "name": "妙法莲华经",
+            "artist": "贊詩",
+            "id": 1996320292
+        },
+        {
+            "name": "假行僧",
+            "artist": "崔健",
+            "id": 1962385456
+        },
+        {
+            "name": "真的爱你 (Live)",
+            "artist": "Beyond",
+            "id": 28875156
+        },
+        {
+            "name": "剪刀刺客",
+            "artist": "大主宰乐团TheMaster",
+            "id": 559735257
+        },
+        {
+            "name": "灰色轨迹",
+            "artist": "Beyond",
+            "id": 473042622
+        },
+        {
+            "name": "可怜兮兮",
+            "artist": "The Oddity",
+            "id": 1896229176
+        },
+        {
+            "name": "灰色轨迹(Live 1991)",
+            "artist": "Beyond",
+            "id": 346588
+        },
+        {
+            "name": "清河",
+            "artist": "白皮书乐队",
+            "id": 1473369225
+        },
+        {
+            "name": "妖怪人間",
+            "artist": "郑宜农",
+            "id": 1809751401
+        },
+        {
+            "name": "吕梦江",
+            "artist": "南青乐队",
+            "id": 1430064345
+        },
+        {
+            "name": "灰色轨迹",
+            "artist": "Beyond",
+            "id": 346080
+        },
+        {
+            "name": "光辉岁月 (Live)",
+            "artist": "Beyond",
+            "id": 28875158
+        },
+        {
+            "name": "不听话的嘴",
+            "artist": "歪歪歪",
+            "id": 1374661014
+        },
+        {
+            "name": "明天的报纸上刊登我死去的消息",
+            "artist": "南青乐队",
+            "id": 2021132280
+        },
+        {
+            "name": "大地雷公",
+            "artist": "回春丹",
+            "id": 1997294929
+        },
+        {
+            "name": "生门",
+            "artist": "狮童乐队",
+            "id": 1464449782
+        },
+        {
+            "name": "八荒祭",
+            "artist": "张典",
+            "id": 1805049388
+        },
+        {
+            "name": "关于青春",
+            "artist": "VH (Vast & Hazy)",
+            "id": 409830420
+        },
+        {
+            "name": "致我的迷茫兄弟",
+            "artist": "声音碎片乐队",
+            "id": 1847986667
+        },
+        {
+            "name": "狗城",
+            "artist": "王喂马",
+            "id": 1474159145
+        },
+        {
+            "name": "像一条狗",
+            "artist": "达闻西乐队",
+            "id": 1989132305
+        },
+        {
+            "name": "我想去跨越你离我很近但又像相隔一万里的河",
+            "artist": "悲伤玩具",
+            "id": 2008082644
+        },
+        {
+            "name": "放空",
+            "artist": "老破麻 O.S.D",
+            "id": 1352820723
+        },
+        {
+            "name": "软弱",
+            "artist": "Schoolgirl byebye",
+            "id": 1479507541
+        },
+        {
+            "name": "我在三月的早晨看到了七月的黄昏",
+            "artist": "南青乐队",
+            "id": 1430056760
+        },
+        {
+            "name": "我相信",
+            "artist": "哦漏",
+            "id": 1448553788
+        },
+        {
+            "name": "玻璃",
+            "artist": "自由散漫乐团",
+            "id": 478987241
+        },
+        {
+            "name": "万物起舞",
+            "artist": "兰音Reine",
+            "id": 1989618454
+        },
+        {
+            "name": "说再见",
+            "artist": "本能實業",
+            "id": 1982501157
+        },
+        {
+            "name": "带我去找夜生活",
+            "artist": "告五人",
+            "id": 1410647903
+        },
+        {
+            "name": "私有黄昏",
+            "artist": "陈麒名",
+            "id": 1940785796
+        },
+        {
+            "name": "我用什么把你留住",
+            "artist": "福禄寿FloruitShow",
+            "id": 1306923998
+        },
+        {
+            "name": "爱人错过",
+            "artist": "告五人",
+            "id": 1368754688
+        },
+        {
+            "name": "破云",
+            "artist": "八三夭",
+            "id": 1443916433
+        },
+        {
+            "name": "浴室",
+            "artist": "deca joins",
+            "id": 483378334
+        },
+        {
+            "name": "方舟遗留物",
+            "artist": "昨夜派对（L.N Party）",
+            "id": 1852027037
+        },
+        {
+            "name": "Oh It's You",
+            "artist": "babychair",
+            "id": 1829144572
+        },
+        {
+            "name": "Children of the Dark (2021)",
+            "artist": "Mono Inc.",
+            "id": 1880401005
+        },
+        {
+            "name": "CACTUS",
+            "artist": "LÜCY",
+            "id": 1813801764
+        },
+        {
+            "name": "Komorebi",
+            "artist": "Craft Spells",
+            "id": 28624258
+        },
+        {
+            "name": "dramatic",
+            "artist": "Cat & Calmell",
+            "id": 1811825803
+        },
+        {
+            "name": "夏日物语",
+            "artist": "卓越",
+            "id": 1840440193
+        },
+        {
+            "name": "Duvet",
+            "artist": "Bôa",
+            "id": 3956911
+        },
+        {
+            "name": "你不爱我我就爱别人",
+            "artist": "Peace Hotel(和平饭店)",
+            "id": 1415576908
+        },
+        {
+            "name": "Lost Summer Day Dreaming",
+            "artist": "別野加奈",
+            "id": 1305762566
+        },
+        {
+            "name": "填海",
+            "artist": "马良",
+            "id": 1893350762
+        },
+        {
+            "name": "关闭太阳",
+            "artist": "血肉果汁机",
+            "id": 1393382498
+        },
+        {
+            "name": "Teeth",
+            "artist": "5 Seconds of Summer",
+            "id": 1474585867
+        },
+        {
+            "name": "复写 (More)",
+            "artist": "VH (Vast & Hazy)",
+            "id": 1907752574
+        },
+        {
+            "name": "Nothing’s Gonna Stop Us Now",
+            "artist": "Starship",
+            "id": 21680418
+        },
+        {
+            "name": "Demons",
+            "artist": "Imagine Dragons",
+            "id": 1500388166
+        },
+        {
+            "name": "该死的车站",
+            "artist": "Bad Sweetheart",
+            "id": 1822995790
+        },
+        {
+            "name": "Don't Wanna Know",
+            "artist": "Maroon 5",
+            "id": 508068430
+        }
+    ]
+}

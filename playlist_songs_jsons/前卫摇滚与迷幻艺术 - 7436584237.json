@@ -1,0 +1,837 @@
+{
+    "playlist_info": {
+        "name": "前卫摇滚与迷幻艺术",
+        "trackcount": 165,
+        "playcount": 49423,
+        "creator": "TheZombies_",
+        "createDate": "2022-05-15",
+        "heat": 120.0
+    },
+    "songs": [
+        {
+            "name": "Believe Again",
+            "artist": "Yes",
+            "id": 28715542
+        },
+        {
+            "name": "The Game",
+            "artist": "Yes",
+            "id": 28715543
+        },
+        {
+            "name": "Step Beyond",
+            "artist": "Yes",
+            "id": 28715544
+        },
+        {
+            "name": "To Ascend",
+            "artist": "Yes",
+            "id": 28715545
+        },
+        {
+            "name": "In a World of Our Own",
+            "artist": "Yes",
+            "id": 28715546
+        },
+        {
+            "name": "Light of the Ages",
+            "artist": "Yes",
+            "id": 28715547
+        },
+        {
+            "name": "It Was All We Knew",
+            "artist": "Yes",
+            "id": 28715548
+        },
+        {
+            "name": "Subway Walls",
+            "artist": "Yes",
+            "id": 28715549
+        },
+        {
+            "name": "Fear of a Blank Planet",
+            "artist": "Porcupine Tree",
+            "id": 18300139
+        },
+        {
+            "name": "Bugs",
+            "artist": "Miriodor",
+            "id": 21181749
+        },
+        {
+            "name": "On We Sail",
+            "artist": "The Samurai of Prog",
+            "id": 485607705
+        },
+        {
+            "name": "Dripping Sun",
+            "artist": "Kikagaku Moyo",
+            "id": 1321424152
+        },
+        {
+            "name": "Cruisin'",
+            "artist": "Al di Meola",
+            "id": 19402034
+        },
+        {
+            "name": "Passion, Grace & Fire",
+            "artist": "Al di Meola",
+            "id": 19402033
+        },
+        {
+            "name": "Electric Rendezvous",
+            "artist": "Al di Meola",
+            "id": 19402032
+        },
+        {
+            "name": "God Bird Change",
+            "artist": "Al di Meola",
+            "id": 19402031
+        },
+        {
+            "name": "Bordel 1900",
+            "artist": "Al di Meola",
+            "id": 996471
+        },
+        {
+            "name": "Tango Suite, Pt. III",
+            "artist": "Al di Meola",
+            "id": 996457
+        },
+        {
+            "name": "Tango Suite, Pt. I",
+            "artist": "Al di Meola",
+            "id": 996453
+        },
+        {
+            "name": "Siberiana",
+            "artist": "Al di Meola",
+            "id": 995598
+        },
+        {
+            "name": "Milonga Noctiva",
+            "artist": "Al di Meola",
+            "id": 554121786
+        },
+        {
+            "name": "Dancing With The Moonlit Knight (Remastered 2008)",
+            "artist": "Genesis",
+            "id": 22539970
+        },
+        {
+            "name": "Joe’s Garage (Live At The Palladium, New York City, 10/31/81 - Show 2)",
+            "artist": "Frank Zappa",
+            "id": 1478354523
+        },
+        {
+            "name": "Emperor In His War-room: The Emperor/The Room (2005 Digital Remaster)",
+            "artist": "Van Der Graaf Generator",
+            "id": 20677643
+        },
+        {
+            "name": "Killer (2005 Digital Remaster)",
+            "artist": "Van Der Graaf Generator",
+            "id": 20677641
+        },
+        {
+            "name": "A Plague Of Lighthouse Keepers (Medley) (2005 Digital Remaster)",
+            "artist": "Van Der Graaf Generator",
+            "id": 20677635
+        },
+        {
+            "name": "Man-Erg (2005 Digital Remaster)",
+            "artist": "Van Der Graaf Generator",
+            "id": 20677634
+        },
+        {
+            "name": "Lemmings (Including Cog) (2005 Digital Remaster)",
+            "artist": "Van Der Graaf Generator",
+            "id": 20677633
+        },
+        {
+            "name": "A Louse Is Not A Home (Live, 2005 Digital Remaster)",
+            "artist": "Van Der Graaf Generator",
+            "id": 20677632
+        },
+        {
+            "name": "The Sleepwalkers (2005 Digital Remaster)",
+            "artist": "Van Der Graaf Generator",
+            "id": 20677630
+        },
+        {
+            "name": "Arrow (2005 Digital Remaster)",
+            "artist": "Van Der Graaf Generator",
+            "id": 20677629
+        },
+        {
+            "name": "Scorched Earth (2005 Digital Remaster)",
+            "artist": "Van Der Graaf Generator",
+            "id": 20677628
+        },
+        {
+            "name": "The Undercover Man (2005 Digital Remaster)",
+            "artist": "Van Der Graaf Generator",
+            "id": 20677627
+        },
+        {
+            "name": "Exiles",
+            "artist": "King Crimson",
+            "id": 20045609
+        },
+        {
+            "name": "Easy Money",
+            "artist": "King Crimson",
+            "id": 20045610
+        },
+        {
+            "name": "The Talking Drum",
+            "artist": "King Crimson",
+            "id": 20045611
+        },
+        {
+            "name": "Larks' Tongues in Aspic, Pt. 2",
+            "artist": "King Crimson",
+            "id": 20045612
+        },
+        {
+            "name": "Book of Saturday",
+            "artist": "King Crimson",
+            "id": 20045608
+        },
+        {
+            "name": "Larks' Tongues in Aspic, Pt. 1",
+            "artist": "King Crimson",
+            "id": 20045607
+        },
+        {
+            "name": "And You and I (2003 Remaster)",
+            "artist": "Yes",
+            "id": 20789562
+        },
+        {
+            "name": "Siberian Khatru (2003 Remaster)",
+            "artist": "Yes",
+            "id": 20789563
+        },
+        {
+            "name": "America (2003 Remaster)",
+            "artist": "Yes",
+            "id": 20789564
+        },
+        {
+            "name": "Total Mass Retain (2003 Remaster)",
+            "artist": "Yes",
+            "id": 20789565
+        },
+        {
+            "name": "And You and I (Alternate Version)",
+            "artist": "Yes",
+            "id": 20789566
+        },
+        {
+            "name": "Siberia (Studio Run-Through of Siberian Khatru)",
+            "artist": "Yes",
+            "id": 20789567
+        },
+        {
+            "name": "Close to the Edge (i. The Solid Time of Change, ii. Total Mass Retain, iii. I Get up I Get Down, iv. Seasons of Man) [2003 Remaster]",
+            "artist": "Yes",
+            "id": 20789561
+        },
+        {
+            "name": "Prelude - Nightmare (Mono Version)",
+            "artist": "Arthur Brown",
+            "id": 1033075
+        },
+        {
+            "name": "Fanfare - Fire Poem (Mono Version)",
+            "artist": "Arthur Brown",
+            "id": 1033079
+        },
+        {
+            "name": "Fire (Mono Version)",
+            "artist": "Arthur Brown",
+            "id": 1033083
+        },
+        {
+            "name": "Come And Buy (Mono Version)",
+            "artist": "Arthur Brown",
+            "id": 1033088
+        },
+        {
+            "name": "Time / Confusion (Mono Version)",
+            "artist": "Arthur Brown",
+            "id": 1033093
+        },
+        {
+            "name": "Prelude - Nightmare",
+            "artist": "Arthur Brown",
+            "id": 1033098
+        },
+        {
+            "name": "Fanfare - Fire Poem",
+            "artist": "Arthur Brown",
+            "id": 1033104
+        },
+        {
+            "name": "Come And Buy",
+            "artist": "Arthur Brown",
+            "id": 1033116
+        },
+        {
+            "name": "Time / Confusion",
+            "artist": "Arthur Brown",
+            "id": 1033122
+        },
+        {
+            "name": "I Put A Spell On You",
+            "artist": "Arthur Brown",
+            "id": 1033128
+        },
+        {
+            "name": "Spontaneous Apple Creation",
+            "artist": "Arthur Brown",
+            "id": 1033134
+        },
+        {
+            "name": "Rest Cure",
+            "artist": "Arthur Brown",
+            "id": 1033139
+        },
+        {
+            "name": "I've Got Money",
+            "artist": "Arthur Brown",
+            "id": 1033143
+        },
+        {
+            "name": "Child Of My Kingdom",
+            "artist": "Arthur Brown",
+            "id": 1033146
+        },
+        {
+            "name": "Fire",
+            "artist": "Arthur Brown",
+            "id": 1033110
+        },
+        {
+            "name": "It Would Be So Nice",
+            "artist": "Pink Floyd",
+            "id": 27453005
+        },
+        {
+            "name": "Julia Dream",
+            "artist": "Pink Floyd",
+            "id": 27453006
+        },
+        {
+            "name": "Money",
+            "artist": "Pink Floyd",
+            "id": 4238119
+        },
+        {
+            "name": "Atom Heart Mother",
+            "artist": "Pink Floyd",
+            "id": 4238344
+        },
+        {
+            "name": "Fat Old Sun",
+            "artist": "Pink Floyd",
+            "id": 4238355
+        },
+        {
+            "name": "Alan's Psychedelic Breakfast",
+            "artist": "Pink Floyd",
+            "id": 4238358
+        },
+        {
+            "name": "Summer '68",
+            "artist": "Pink Floyd",
+            "id": 4238352
+        },
+        {
+            "name": "If",
+            "artist": "Pink Floyd",
+            "id": 4238349
+        },
+        {
+            "name": "One Of These Days",
+            "artist": "Pink Floyd",
+            "id": 33394055
+        },
+        {
+            "name": "San Tropez",
+            "artist": "Pink Floyd",
+            "id": 33394058
+        },
+        {
+            "name": "Seamus",
+            "artist": "Pink Floyd",
+            "id": 33394059
+        },
+        {
+            "name": "Echoes",
+            "artist": "Pink Floyd",
+            "id": 33394060
+        },
+        {
+            "name": "One Of These Days(2011 Remastered)",
+            "artist": "Pink Floyd",
+            "id": 33394061
+        },
+        {
+            "name": "A Pillow Of Winds(2011 Remastered)",
+            "artist": "Pink Floyd",
+            "id": 33394062
+        },
+        {
+            "name": "Fearless(2011 Remastered)",
+            "artist": "Pink Floyd",
+            "id": 33394063
+        },
+        {
+            "name": "San Tropez(2011 Remastered)",
+            "artist": "Pink Floyd",
+            "id": 33394064
+        },
+        {
+            "name": "Seamus(2011 Remastered)",
+            "artist": "Pink Floyd",
+            "id": 33394065
+        },
+        {
+            "name": "Echoes(2011 Remastered)",
+            "artist": "Pink Floyd",
+            "id": 33394066
+        },
+        {
+            "name": "Fearless",
+            "artist": "Pink Floyd",
+            "id": 33394057
+        },
+        {
+            "name": "A Pillow Of Winds",
+            "artist": "Pink Floyd",
+            "id": 33394056
+        },
+        {
+            "name": "Shine On You Crazy Diamond (Pts. 1-5)",
+            "artist": "Pink Floyd",
+            "id": 4237911
+        },
+        {
+            "name": "Welcome to the Machine",
+            "artist": "Pink Floyd",
+            "id": 4237914
+        },
+        {
+            "name": "Have a Cigar",
+            "artist": "Pink Floyd",
+            "id": 4237918
+        },
+        {
+            "name": "Wish You Were Here",
+            "artist": "Pink Floyd",
+            "id": 4237923
+        },
+        {
+            "name": "Shine On You Crazy Diamond (Pts. 6-9)",
+            "artist": "Pink Floyd",
+            "id": 4237927
+        },
+        {
+            "name": "Time",
+            "artist": "Pink Floyd",
+            "id": 4238109
+        },
+        {
+            "name": "The Dark Side of the Moon",
+            "artist": "Pink Floyd",
+            "id": 31738245
+        },
+        {
+            "name": "In the Flesh?",
+            "artist": "Pink Floyd",
+            "id": 4237787
+        },
+        {
+            "name": "The Thin Ice",
+            "artist": "Pink Floyd",
+            "id": 4237791
+        },
+        {
+            "name": "Another Brick in the Wall, Pt. 1",
+            "artist": "Pink Floyd",
+            "id": 4237795
+        },
+        {
+            "name": "The Happiest Days of Our Lives",
+            "artist": "Pink Floyd",
+            "id": 4237799
+        },
+        {
+            "name": "Another Brick in the Wall, Pt. 2",
+            "artist": "Pink Floyd",
+            "id": 4237803
+        },
+        {
+            "name": "Mother",
+            "artist": "Pink Floyd",
+            "id": 4237806
+        },
+        {
+            "name": "Goodbye Blue Sky",
+            "artist": "Pink Floyd",
+            "id": 4237809
+        },
+        {
+            "name": "Empty Spaces",
+            "artist": "Pink Floyd",
+            "id": 4237811
+        },
+        {
+            "name": "Young Lust",
+            "artist": "Pink Floyd",
+            "id": 4237814
+        },
+        {
+            "name": "One of My Turns",
+            "artist": "Pink Floyd",
+            "id": 4237817
+        },
+        {
+            "name": "Don't Leave Me Now",
+            "artist": "Pink Floyd",
+            "id": 4237821
+        },
+        {
+            "name": "Another Brick in the Wall, Pt. 3",
+            "artist": "Pink Floyd",
+            "id": 4237824
+        },
+        {
+            "name": "Goodbye Cruel World",
+            "artist": "Pink Floyd",
+            "id": 4237827
+        },
+        {
+            "name": "Hey You",
+            "artist": "Pink Floyd",
+            "id": 4237830
+        },
+        {
+            "name": "Is There Anybody Out There?",
+            "artist": "Pink Floyd",
+            "id": 4237832
+        },
+        {
+            "name": "Nobody Home",
+            "artist": "Pink Floyd",
+            "id": 4237835
+        },
+        {
+            "name": "Vera",
+            "artist": "Pink Floyd",
+            "id": 4237838
+        },
+        {
+            "name": "Bring the Boys Back Home",
+            "artist": "Pink Floyd",
+            "id": 4237842
+        },
+        {
+            "name": "The Show Must Go On",
+            "artist": "Pink Floyd",
+            "id": 4237850
+        },
+        {
+            "name": "In the Flesh",
+            "artist": "Pink Floyd",
+            "id": 4237854
+        },
+        {
+            "name": "Run Like Hell",
+            "artist": "Pink Floyd",
+            "id": 4237858
+        },
+        {
+            "name": "Waiting for the Worms",
+            "artist": "Pink Floyd",
+            "id": 4237862
+        },
+        {
+            "name": "Stop",
+            "artist": "Pink Floyd",
+            "id": 4237865
+        },
+        {
+            "name": "The Trial",
+            "artist": "Pink Floyd",
+            "id": 4237868
+        },
+        {
+            "name": "Outside the Wall",
+            "artist": "Pink Floyd",
+            "id": 4237871
+        },
+        {
+            "name": "Comfortably Numb",
+            "artist": "Pink Floyd",
+            "id": 4237846
+        },
+        {
+            "name": "Jordrök",
+            "artist": "Änglagård",
+            "id": 2151830
+        },
+        {
+            "name": "Vandringar I Vilsenhet",
+            "artist": "Änglagård",
+            "id": 2151834
+        },
+        {
+            "name": "Ifrån Klarhet Till Klarhet",
+            "artist": "Änglagård",
+            "id": 2151837
+        },
+        {
+            "name": "Kung Bore",
+            "artist": "Änglagård",
+            "id": 2151840
+        },
+        {
+            "name": "Gånglåt Från Knapptibble",
+            "artist": "Änglagård",
+            "id": 2151843
+        },
+        {
+            "name": "Flight Over Rio",
+            "artist": "Al di Meola",
+            "id": 19402003
+        },
+        {
+            "name": "Midnight Tango",
+            "artist": "Al di Meola",
+            "id": 19402004
+        },
+        {
+            "name": "Mediterranean Sundance",
+            "artist": "Al di Meola",
+            "id": 19402005
+        },
+        {
+            "name": "Race With Devil On Spanish Highway",
+            "artist": "Al di Meola",
+            "id": 19402006
+        },
+        {
+            "name": "Lady of Rome, Sister of Brazil",
+            "artist": "Al di Meola",
+            "id": 19402007
+        },
+        {
+            "name": "Elegant Gypsy Suite",
+            "artist": "Al di Meola",
+            "id": 19402008
+        },
+        {
+            "name": "Elephant Talk",
+            "artist": "King Crimson",
+            "id": 20045632
+        },
+        {
+            "name": "Starless",
+            "artist": "King Crimson",
+            "id": 20045625
+        },
+        {
+            "name": "Peace - A Beginning",
+            "artist": "King Crimson",
+            "id": 20045583
+        },
+        {
+            "name": "Pictures Of A City",
+            "artist": "King Crimson",
+            "id": 20045584
+        },
+        {
+            "name": "In The Wake Of Poseidon",
+            "artist": "King Crimson",
+            "id": 20045586
+        },
+        {
+            "name": "Peace - A Theme",
+            "artist": "King Crimson",
+            "id": 20045587
+        },
+        {
+            "name": "Cat Food",
+            "artist": "King Crimson",
+            "id": 20045588
+        },
+        {
+            "name": "The Devils Triangle",
+            "artist": "King Crimson",
+            "id": 20045589
+        },
+        {
+            "name": "Peace - An End",
+            "artist": "King Crimson",
+            "id": 20045590
+        },
+        {
+            "name": "Cat Food (single version)",
+            "artist": "King Crimson",
+            "id": 1806317559
+        },
+        {
+            "name": "Groon (single B-side)",
+            "artist": "King Crimson",
+            "id": 1806317560
+        },
+        {
+            "name": "Cadence And Cascade (Greg Lake guide vocal)",
+            "artist": "King Crimson",
+            "id": 1806324402
+        },
+        {
+            "name": "Cirkus (including Entry of the Chameleons)",
+            "artist": "King Crimson",
+            "id": 20045591
+        },
+        {
+            "name": "Indoor Games",
+            "artist": "King Crimson",
+            "id": 20045592
+        },
+        {
+            "name": "Happy Family",
+            "artist": "King Crimson",
+            "id": 20045593
+        },
+        {
+            "name": "Lizard (Prince Rupert Awakes/Bolero/The Battle of Glass Tears/Big Top)",
+            "artist": "King Crimson",
+            "id": 20045595
+        },
+        {
+            "name": "Cadence and Cascade",
+            "artist": "King Crimson",
+            "id": 20045585
+        },
+        {
+            "name": "Lady of the Dancing Water",
+            "artist": "King Crimson",
+            "id": 20045594
+        },
+        {
+            "name": "I Talk To The Wind",
+            "artist": "King Crimson",
+            "id": 4143719
+        },
+        {
+            "name": "Epitaph",
+            "artist": "King Crimson",
+            "id": 4143723
+        },
+        {
+            "name": "Moonchild",
+            "artist": "King Crimson",
+            "id": 4143727
+        },
+        {
+            "name": "The Court Of The Crimson King",
+            "artist": "King Crimson",
+            "id": 4143731
+        },
+        {
+            "name": "Wind Session",
+            "artist": "King Crimson",
+            "id": 4143664
+        },
+        {
+            "name": "21st Century Schizoid Man",
+            "artist": "King Crimson",
+            "id": 4143692
+        },
+        {
+            "name": "21st Century Schizoid Man (2009 Stereo Mix)",
+            "artist": "King Crimson",
+            "id": 4143634
+        },
+        {
+            "name": "Candy And A Current Bun",
+            "artist": "Pink Floyd",
+            "id": 27449971
+        },
+        {
+            "name": "Arnold Layne",
+            "artist": "Pink Floyd",
+            "id": 27449970
+        },
+        {
+            "name": "Paint Box",
+            "artist": "Pink Floyd",
+            "id": 27302807
+        },
+        {
+            "name": "Apples And Oranges",
+            "artist": "Pink Floyd",
+            "id": 27302806
+        },
+        {
+            "name": "Astronomy Domine",
+            "artist": "Pink Floyd",
+            "id": 4238581
+        },
+        {
+            "name": "Lucifer Sam",
+            "artist": "Pink Floyd",
+            "id": 4238585
+        },
+        {
+            "name": "Matilda Mother",
+            "artist": "Pink Floyd",
+            "id": 4238589
+        },
+        {
+            "name": "Flaming",
+            "artist": "Pink Floyd",
+            "id": 4238593
+        },
+        {
+            "name": "Pow R. Toc H.",
+            "artist": "Pink Floyd",
+            "id": 4238596
+        },
+        {
+            "name": "Take Up Thy Stethoscope and Walk",
+            "artist": "Pink Floyd",
+            "id": 4238599
+        },
+        {
+            "name": "Interstellar Overdrive",
+            "artist": "Pink Floyd",
+            "id": 4238602
+        },
+        {
+            "name": "The Gnome",
+            "artist": "Pink Floyd",
+            "id": 4238606
+        },
+        {
+            "name": "Chapter 24",
+            "artist": "Pink Floyd",
+            "id": 4238610
+        },
+        {
+            "name": "The Scarecrow",
+            "artist": "Pink Floyd",
+            "id": 4238613
+        },
+        {
+            "name": "Bike",
+            "artist": "Pink Floyd",
+            "id": 4238616
+        }
+    ]
+}

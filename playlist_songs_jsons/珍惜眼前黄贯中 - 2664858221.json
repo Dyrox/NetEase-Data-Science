@@ -1,0 +1,907 @@
+{
+    "playlist_info": {
+        "name": "珍惜眼前黄贯中",
+        "trackcount": 179,
+        "playcount": 7768,
+        "creator": "Paul的睡火山",
+        "createDate": "2019-02-12",
+        "heat": 4.0
+    },
+    "songs": [
+        {
+            "name": "永远等待+Talking (Live)",
+            "artist": "Beyond",
+            "id": 28875226
+        },
+        {
+            "name": "农民 (Live)",
+            "artist": "Beyond",
+            "id": 28875151
+        },
+        {
+            "name": "夜夜夜夜+幻觉+别来纠缠我+不再犹豫 (Live)",
+            "artist": "Ricky",
+            "id": 1869260499
+        },
+        {
+            "name": "大地",
+            "artist": "黄贯中",
+            "id": 1899903505
+        },
+        {
+            "name": "没有",
+            "artist": "黄贯中",
+            "id": 95086
+        },
+        {
+            "name": "大时代",
+            "artist": "Beyond",
+            "id": 5276923
+        },
+        {
+            "name": "冷雨没暂停~Dancing in the Rain~",
+            "artist": "Beyond",
+            "id": 347137
+        },
+        {
+            "name": "继续沉醉",
+            "artist": "Beyond",
+            "id": 347513
+        },
+        {
+            "name": "人间蒸发",
+            "artist": "黄贯中",
+            "id": 94937
+        },
+        {
+            "name": "爸爸妈妈",
+            "artist": "Beyond",
+            "id": 347232
+        },
+        {
+            "name": "打不死 (live 99)",
+            "artist": "Beyond",
+            "id": 346313
+        },
+        {
+            "name": "情人 (live 99)",
+            "artist": "Beyond",
+            "id": 346296
+        },
+        {
+            "name": "情人 (Live)",
+            "artist": "Beyond",
+            "id": 28875178
+        },
+        {
+            "name": "天使",
+            "artist": "黄贯中",
+            "id": 94842
+        },
+        {
+            "name": "存在",
+            "artist": "黄贯中",
+            "id": 94835
+        },
+        {
+            "name": "我在存在",
+            "artist": "黄贯中",
+            "id": 94853
+        },
+        {
+            "name": "别轻视爱",
+            "artist": "黄贯中",
+            "id": 94826
+        },
+        {
+            "name": "Lady",
+            "artist": "黄贯中",
+            "id": 95006
+        },
+        {
+            "name": "离开我吧",
+            "artist": "黄贯中",
+            "id": 95017
+        },
+        {
+            "name": "何车",
+            "artist": "黄贯中",
+            "id": 1379656590
+        },
+        {
+            "name": "原罪犯",
+            "artist": "黄贯中",
+            "id": 379349
+        },
+        {
+            "name": "牡羊座",
+            "artist": "黄贯中",
+            "id": 543965675
+        },
+        {
+            "name": "吓, 讲乜嘢话?",
+            "artist": "Beyond",
+            "id": 346794
+        },
+        {
+            "name": "Run Free",
+            "artist": "Beyond",
+            "id": 5273268
+        },
+        {
+            "name": "Love Our Way (北京语ヴア—ヅヨソ)",
+            "artist": "Beyond",
+            "id": 346553
+        },
+        {
+            "name": "我害怕",
+            "artist": "Beyond",
+            "id": 5273277
+        },
+        {
+            "name": "阿博二世",
+            "artist": "黄贯中",
+            "id": 25694577
+        },
+        {
+            "name": "Can't bring me down",
+            "artist": "黄贯中",
+            "id": 25694570
+        },
+        {
+            "name": "红黑红红黑",
+            "artist": "黄贯中",
+            "id": 25694567
+        },
+        {
+            "name": "故事",
+            "artist": "黄贯中",
+            "id": 94731
+        },
+        {
+            "name": "一念之间(国)",
+            "artist": "黄贯中",
+            "id": 94695
+        },
+        {
+            "name": "目空一切",
+            "artist": "黄贯中",
+            "id": 94691
+        },
+        {
+            "name": "Can't Bring Me Down",
+            "artist": "黄贯中",
+            "id": 94688
+        },
+        {
+            "name": "这是我姿势",
+            "artist": "黄贯中",
+            "id": 94681
+        },
+        {
+            "name": "In The Name Of Rock",
+            "artist": "黄贯中",
+            "id": 94684
+        },
+        {
+            "name": "爱又怎么样",
+            "artist": "黄贯中",
+            "id": 94677
+        },
+        {
+            "name": "AM900序曲",
+            "artist": "黄贯中",
+            "id": 94673
+        },
+        {
+            "name": "太多",
+            "artist": "黄贯中",
+            "id": 94767
+        },
+        {
+            "name": "我就是这样的",
+            "artist": "黄贯中",
+            "id": 94771
+        },
+        {
+            "name": "别误解爱",
+            "artist": "黄贯中",
+            "id": 94780
+        },
+        {
+            "name": "镜子",
+            "artist": "黄贯中",
+            "id": 94748
+        },
+        {
+            "name": "带走你的回忆",
+            "artist": "黄贯中",
+            "id": 94756
+        },
+        {
+            "name": "季节",
+            "artist": "黄贯中",
+            "id": 94759
+        },
+        {
+            "name": "驶乜死(Live Version)",
+            "artist": "黄贯中",
+            "id": 94811
+        },
+        {
+            "name": "深紫色高跟鞋(Live Version)",
+            "artist": "黄贯中",
+            "id": 94807
+        },
+        {
+            "name": "逃",
+            "artist": "黄贯中",
+            "id": 94799
+        },
+        {
+            "name": "彩色世界",
+            "artist": "黄贯中",
+            "id": 94803
+        },
+        {
+            "name": "阿博二世",
+            "artist": "黄贯中",
+            "id": 94796
+        },
+        {
+            "name": "原罪犯",
+            "artist": "黄贯中",
+            "id": 94793
+        },
+        {
+            "name": "踩界",
+            "artist": "黄贯中",
+            "id": 94790
+        },
+        {
+            "name": "背起他",
+            "artist": "黄贯中",
+            "id": 94839
+        },
+        {
+            "name": "Too Many",
+            "artist": "黄贯中",
+            "id": 94845
+        },
+        {
+            "name": "6000000",
+            "artist": "黄贯中",
+            "id": 94850
+        },
+        {
+            "name": "无得比",
+            "artist": "黄贯中",
+            "id": 94890
+        },
+        {
+            "name": "汗",
+            "artist": "黄贯中",
+            "id": 94878
+        },
+        {
+            "name": "你最够姜",
+            "artist": "黄贯中",
+            "id": 94951
+        },
+        {
+            "name": "太平山上",
+            "artist": "黄贯中",
+            "id": 94947
+        },
+        {
+            "name": "PLAY IT LOUD",
+            "artist": "黄贯中",
+            "id": 94940
+        },
+        {
+            "name": "孩子",
+            "artist": "黄贯中",
+            "id": 94960
+        },
+        {
+            "name": "Lady With Purple High Heels(But Ugly Face Mix)",
+            "artist": "黄贯中",
+            "id": 94983
+        },
+        {
+            "name": "同根",
+            "artist": "黄贯中",
+            "id": 94994
+        },
+        {
+            "name": "驶乜死",
+            "artist": "黄贯中",
+            "id": 94980
+        },
+        {
+            "name": "有钱真系好",
+            "artist": "黄贯中",
+            "id": 94990
+        },
+        {
+            "name": "黑白",
+            "artist": "黄贯中",
+            "id": 94976
+        },
+        {
+            "name": "你懂不懂？",
+            "artist": "黄贯中",
+            "id": 95021
+        },
+        {
+            "name": "忧书",
+            "artist": "黄贯中",
+            "id": 95018
+        },
+        {
+            "name": "自由人",
+            "artist": "黄贯中",
+            "id": 95015
+        },
+        {
+            "name": "爆",
+            "artist": "黄贯中",
+            "id": 95012
+        },
+        {
+            "name": "深紫色高跟鞋",
+            "artist": "黄贯中",
+            "id": 95009
+        },
+        {
+            "name": "初哥",
+            "artist": "黄贯中",
+            "id": 95003
+        },
+        {
+            "name": "废墟",
+            "artist": "黄贯中",
+            "id": 95099
+        },
+        {
+            "name": "贯中的动物园",
+            "artist": "黄贯中",
+            "id": 95094
+        },
+        {
+            "name": "香港晚安",
+            "artist": "黄贯中",
+            "id": 95097
+        },
+        {
+            "name": "睡火山",
+            "artist": "黄贯中",
+            "id": 95074
+        },
+        {
+            "name": "某日",
+            "artist": "黄贯中",
+            "id": 95071
+        },
+        {
+            "name": "丢架",
+            "artist": "黄贯中",
+            "id": 95067
+        },
+        {
+            "name": "无得比",
+            "artist": "黄贯中",
+            "id": 95061
+        },
+        {
+            "name": "夜长梦多 (live 99)",
+            "artist": "Beyond",
+            "id": 346288
+        },
+        {
+            "name": "雾 (live 99)",
+            "artist": "Beyond",
+            "id": 346284
+        },
+        {
+            "name": "荒谬",
+            "artist": "Beyond",
+            "id": 346470
+        },
+        {
+            "name": "然后",
+            "artist": "Beyond",
+            "id": 346463
+        },
+        {
+            "name": "洗衣粉",
+            "artist": "Beyond",
+            "id": 346461
+        },
+        {
+            "name": "十八",
+            "artist": "Beyond",
+            "id": 346457
+        },
+        {
+            "name": "Good Time",
+            "artist": "Beyond",
+            "id": 346451
+        },
+        {
+            "name": "Phantom Power",
+            "artist": "Beyond",
+            "id": 346741
+        },
+        {
+            "name": "奉信",
+            "artist": "Beyond",
+            "id": 346740
+        },
+        {
+            "name": "不见不散",
+            "artist": "Beyond",
+            "id": 346738
+        },
+        {
+            "name": "太完美",
+            "artist": "Beyond",
+            "id": 346735
+        },
+        {
+            "name": "讨厌",
+            "artist": "Beyond",
+            "id": 346734
+        },
+        {
+            "name": "蚊",
+            "artist": "Beyond",
+            "id": 346732
+        },
+        {
+            "name": "星期天",
+            "artist": "Beyond",
+            "id": 346730
+        },
+        {
+            "name": "我不信",
+            "artist": "Beyond",
+            "id": 346765
+        },
+        {
+            "name": "别怪我",
+            "artist": "Beyond",
+            "id": 346781
+        },
+        {
+            "name": "Paradise(英)",
+            "artist": "Beyond",
+            "id": 346838
+        },
+        {
+            "name": "情人(国)",
+            "artist": "Beyond",
+            "id": 346828
+        },
+        {
+            "name": "管我(国)",
+            "artist": "Beyond",
+            "id": 346822
+        },
+        {
+            "name": "想你(国)",
+            "artist": "Beyond",
+            "id": 346818
+        },
+        {
+            "name": "管我",
+            "artist": "Beyond",
+            "id": 346864
+        },
+        {
+            "name": "惊喜",
+            "artist": "Beyond",
+            "id": 346861
+        },
+        {
+            "name": "雾",
+            "artist": "Beyond",
+            "id": 346859
+        },
+        {
+            "name": "回家",
+            "artist": "Beyond",
+            "id": 346858
+        },
+        {
+            "name": "旧历(纯音乐演奏)",
+            "artist": "Beyond",
+            "id": 346880
+        },
+        {
+            "name": "我的知己",
+            "artist": "Beyond",
+            "id": 346878
+        },
+        {
+            "name": "我的知己在街头",
+            "artist": "Beyond",
+            "id": 346877
+        },
+        {
+            "name": "请将手放开",
+            "artist": "Beyond",
+            "id": 346871
+        },
+        {
+            "name": "游戏(prelude)",
+            "artist": "Beyond",
+            "id": 346868
+        },
+        {
+            "name": "海阔天空(live 1996)",
+            "artist": "Beyond",
+            "id": 347033
+        },
+        {
+            "name": "活着便精彩(live 1996)",
+            "artist": "Beyond",
+            "id": 347031
+        },
+        {
+            "name": "声音(live 1996)",
+            "artist": "Beyond",
+            "id": 347030
+        },
+        {
+            "name": "情人(live 1996)",
+            "artist": "Beyond",
+            "id": 347027
+        },
+        {
+            "name": "金属狂人(Drum Solo)(live 1996)",
+            "artist": "Beyond",
+            "id": 347021
+        },
+        {
+            "name": "太空(Guitar Solo)(live 1996)",
+            "artist": "Beyond",
+            "id": 347012
+        },
+        {
+            "name": "门外看(live 1996)",
+            "artist": "Beyond",
+            "id": 347009
+        },
+        {
+            "name": "Love (live 1996)",
+            "artist": "Beyond",
+            "id": 346997
+        },
+        {
+            "name": "Paradise (live 1996)",
+            "artist": "Beyond",
+            "id": 346993
+        },
+        {
+            "name": "大地 (live 1996)",
+            "artist": "Beyond",
+            "id": 346991
+        },
+        {
+            "name": "困兽斗(live 1996)",
+            "artist": "Beyond",
+            "id": 346985
+        },
+        {
+            "name": "罪(live 1996)",
+            "artist": "Beyond",
+            "id": 346984
+        },
+        {
+            "name": "夜长梦多",
+            "artist": "Beyond",
+            "id": 347038
+        },
+        {
+            "name": "罪",
+            "artist": "Beyond",
+            "id": 347037
+        },
+        {
+            "name": "活着便精彩",
+            "artist": "Beyond",
+            "id": 347036
+        },
+        {
+            "name": "太空",
+            "artist": "Beyond",
+            "id": 347035
+        },
+        {
+            "name": "想你",
+            "artist": "Beyond",
+            "id": 347034
+        },
+        {
+            "name": "叹息",
+            "artist": "Beyond",
+            "id": 347069
+        },
+        {
+            "name": "门外看",
+            "artist": "Beyond",
+            "id": 347067
+        },
+        {
+            "name": "声音",
+            "artist": "Beyond",
+            "id": 347063
+        },
+        {
+            "name": "阿博",
+            "artist": "Beyond",
+            "id": 347061
+        },
+        {
+            "name": "缺口",
+            "artist": "Beyond",
+            "id": 347060
+        },
+        {
+            "name": "Paradise",
+            "artist": "Beyond",
+            "id": 347154
+        },
+        {
+            "name": "爱得太错",
+            "artist": "Beyond",
+            "id": 347221
+        },
+        {
+            "name": "冷雨没暂停",
+            "artist": "Beyond",
+            "id": 347219
+        },
+        {
+            "name": "遥远的Paradise",
+            "artist": "Beyond",
+            "id": 347208
+        },
+        {
+            "name": "温暖的家乡(国)",
+            "artist": "Beyond",
+            "id": 347422
+        },
+        {
+            "name": "温暖的家乡",
+            "artist": "Beyond",
+            "id": 347510
+        },
+        {
+            "name": "妄想",
+            "artist": "Beyond",
+            "id": 406243289
+        },
+        {
+            "name": "和平与爱",
+            "artist": "Beyond",
+            "id": 406243285
+        },
+        {
+            "name": "爸爸妈妈",
+            "artist": "Beyond",
+            "id": 406243284
+        },
+        {
+            "name": "我是愤怒",
+            "artist": "Beyond",
+            "id": 406243283
+        },
+        {
+            "name": "怀念你",
+            "artist": "Beyond",
+            "id": 347551
+        },
+        {
+            "name": "未曾后悔",
+            "artist": "Beyond",
+            "id": 347547
+        },
+        {
+            "name": "报答一生",
+            "artist": "Beyond",
+            "id": 347530
+        },
+        {
+            "name": "大地(Live)",
+            "artist": "Beyond",
+            "id": 347582
+        },
+        {
+            "name": "愿我能(Live)",
+            "artist": "Beyond",
+            "id": 347567
+        },
+        {
+            "name": "我早应该习惯(Live)",
+            "artist": "Beyond",
+            "id": 347562
+        },
+        {
+            "name": "俾面派对(Live)",
+            "artist": "Beyond",
+            "id": 347557
+        },
+        {
+            "name": "谁来主宰",
+            "artist": "Beyond",
+            "id": 347604
+        },
+        {
+            "name": "我早应该习惯",
+            "artist": "Beyond",
+            "id": 347599
+        },
+        {
+            "name": "系要听ROCK'N ROLL",
+            "artist": "Beyond",
+            "id": 347598
+        },
+        {
+            "name": "怀念你,忘记你",
+            "artist": "Beyond",
+            "id": 347626
+        },
+        {
+            "name": "请你让我来决定我的路",
+            "artist": "Beyond",
+            "id": 347615
+        },
+        {
+            "name": "撒旦的诅咒(国)",
+            "artist": "Beyond",
+            "id": 347613
+        },
+        {
+            "name": "撒旦的诅咒",
+            "artist": "Beyond",
+            "id": 347657
+        },
+        {
+            "name": "怀念你",
+            "artist": "Beyond",
+            "id": 347647
+        },
+        {
+            "name": "俾面派对",
+            "artist": "Beyond",
+            "id": 347643
+        },
+        {
+            "name": "和自己的心比赛",
+            "artist": "Beyond",
+            "id": 347692
+        },
+        {
+            "name": "短暂的温柔",
+            "artist": "Beyond",
+            "id": 347679
+        },
+        {
+            "name": "战胜心魔",
+            "artist": "Beyond",
+            "id": 347698
+        },
+        {
+            "name": "未曾后悔",
+            "artist": "Beyond",
+            "id": 347704
+        },
+        {
+            "name": "无名的歌",
+            "artist": "Beyond",
+            "id": 347715
+        },
+        {
+            "name": "千金一刻",
+            "artist": "Beyond",
+            "id": 347714
+        },
+        {
+            "name": "明日世界",
+            "artist": "Beyond",
+            "id": 347707
+        },
+        {
+            "name": "大地(伴奏)",
+            "artist": "Beyond",
+            "id": 347719
+        },
+        {
+            "name": "最后的对话",
+            "artist": "Beyond",
+            "id": 347730
+        },
+        {
+            "name": "午夜迷墙",
+            "artist": "Beyond",
+            "id": 347727
+        },
+        {
+            "name": "爆裂都市",
+            "artist": "Beyond",
+            "id": 347726
+        },
+        {
+            "name": "逝去日子",
+            "artist": "Beyond",
+            "id": 347721
+        },
+        {
+            "name": "与你共行",
+            "artist": "Beyond",
+            "id": 347725
+        },
+        {
+            "name": "原谅我今天",
+            "artist": "Beyond",
+            "id": 347729
+        },
+        {
+            "name": "大地 (国)",
+            "artist": "Beyond",
+            "id": 473441475
+        },
+        {
+            "name": "愿我能",
+            "artist": "Beyond",
+            "id": 347766
+        },
+        {
+            "name": "每段路",
+            "artist": "Beyond",
+            "id": 347762
+        },
+        {
+            "name": "大地",
+            "artist": "Beyond",
+            "id": 347758
+        },
+        {
+            "name": "未知赛事的长跑",
+            "artist": "Beyond",
+            "id": 347756
+        },
+        {
+            "name": "Once Again",
+            "artist": "Beyond",
+            "id": 347780
+        },
+        {
+            "name": "午夜流浪",
+            "artist": "Beyond",
+            "id": 347779
+        },
+        {
+            "name": "沙丘魔女",
+            "artist": "Beyond",
+            "id": 347791
+        },
+        {
+            "name": "东方宝藏",
+            "artist": "Beyond",
+            "id": 347789
+        },
+        {
+            "name": "亚拉伯跳舞女郎",
+            "artist": "Beyond",
+            "id": 347790
+        },
+        {
+            "name": "The Other Door",
+            "artist": "Beyond",
+            "id": 347826
+        }
+    ]
+}

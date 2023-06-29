@@ -1,0 +1,922 @@
+{
+    "playlist_info": {
+        "name": "蒲公英的约定 纯音乐",
+        "trackcount": 182,
+        "playcount": 284044,
+        "creator": "兰亭与之",
+        "createDate": "2018-06-07",
+        "heat": 153.0
+    },
+    "songs": [
+        {
+            "name": "写在风中的信（吉他版）",
+            "artist": "Jazzzcz",
+            "id": 2026783884
+        },
+        {
+            "name": "Star star star.",
+            "artist": "橘猫深巷",
+            "id": 1960878363
+        },
+        {
+            "name": "春树里",
+            "artist": "猫小柚",
+            "id": 2003606759
+        },
+        {
+            "name": "Blue",
+            "artist": "李爱恩",
+            "id": 1437628059
+        },
+        {
+            "name": "透过云层的光束",
+            "artist": "一只影子YZYZ",
+            "id": 1964938783
+        },
+        {
+            "name": "我会在雨过天晴的公园等你",
+            "artist": "Aismu",
+            "id": 1934352359
+        },
+        {
+            "name": "来自Venus的晚安",
+            "artist": "一只影子YZYZ",
+            "id": 1939548064
+        },
+        {
+            "name": "The Breeze Of Dusk",
+            "artist": "Polaranica",
+            "id": 1474891634
+        },
+        {
+            "name": "Evening Star",
+            "artist": "Winter Garden",
+            "id": 28062403
+        },
+        {
+            "name": "圣诞的白色幕布",
+            "artist": "JINBAO",
+            "id": 1409040927
+        },
+        {
+            "name": "唯一",
+            "artist": "昼夜",
+            "id": 1997202688
+        },
+        {
+            "name": "买辣椒也用券-起风了 （钢琴版）（柳轻颂 remix）",
+            "artist": "柳轻颂",
+            "id": 1441615130
+        },
+        {
+            "name": "群星-偏爱（唯美钢琴版）（李好 remix）",
+            "artist": "李好",
+            "id": 1357848351
+        },
+        {
+            "name": "阿拉斯加海湾（钢琴版）（Cover 菲道尔）",
+            "artist": "柳轻颂",
+            "id": 1820930532
+        },
+        {
+            "name": "【钢琴】Secret Base 未闻花名ED",
+            "artist": "昼夜",
+            "id": 470293313
+        },
+        {
+            "name": "君の明日について",
+            "artist": "春野杉卉",
+            "id": 1404691013
+        },
+        {
+            "name": "拾忆（唯美钢琴版）（翻自 赵世聪） ",
+            "artist": "李好",
+            "id": 1310361916
+        },
+        {
+            "name": "这个世界那么多人（钢琴版）",
+            "artist": "柳轻颂",
+            "id": 1892795600
+        },
+        {
+            "name": "【钢琴】刻在我心底的名字",
+            "artist": "昼夜",
+            "id": 1812008612
+        },
+        {
+            "name": "時間が止まる",
+            "artist": "春野杉卉",
+            "id": 1822338481
+        },
+        {
+            "name": "心を伝える",
+            "artist": "春野杉卉",
+            "id": 1471233829
+        },
+        {
+            "name": "心做し（唯美钢琴版）",
+            "artist": "李好",
+            "id": 1310373595
+        },
+        {
+            "name": "可惜我們不會再見了",
+            "artist": "Seto",
+            "id": 1465084366
+        },
+        {
+            "name": "后来的我们钢琴版",
+            "artist": "蒋大哲",
+            "id": 555318652
+        },
+        {
+            "name": "风，吹动我的思念",
+            "artist": "换你一包薯条",
+            "id": 1816767892
+        },
+        {
+            "name": "下雨天Piano ver.",
+            "artist": "锦鲤",
+            "id": 1424621347
+        },
+        {
+            "name": "时间飞行 吉他版",
+            "artist": "黎栩晴",
+            "id": 863766185
+        },
+        {
+            "name": "山有木兮｜钢琴",
+            "artist": "何小樂",
+            "id": 1341439580
+        },
+        {
+            "name": "遇见-钢琴版",
+            "artist": "锦鲤",
+            "id": 1298781643
+        },
+        {
+            "name": "雲のむこう",
+            "artist": "春野杉卉",
+            "id": 1817107020
+        },
+        {
+            "name": "萱草花-钢琴版（电影《你好，李焕英》主题曲）",
+            "artist": "锦鲤",
+            "id": 1822602095
+        },
+        {
+            "name": "落日归山海，陪伴成告白",
+            "artist": "Seto",
+            "id": 1379215363
+        },
+        {
+            "name": "梦里花&时间煮雨丨钢琴",
+            "artist": "何小樂",
+            "id": 530412216
+        },
+        {
+            "name": "雨 因你而下，于你而止",
+            "artist": "Seto",
+            "id": 1377807992
+        },
+        {
+            "name": "【钢琴】Valder Fields",
+            "artist": "昼夜",
+            "id": 459944978
+        },
+        {
+            "name": "微风轻起，我喜欢你",
+            "artist": "马路通",
+            "id": 555422283
+        },
+        {
+            "name": "最美的时光（钢琴版）",
+            "artist": "曲涛",
+            "id": 862328081
+        },
+        {
+            "name": "卡农（经典钢琴版）",
+            "artist": "dylanf",
+            "id": 478507889
+        },
+        {
+            "name": "想和你漫步在午后",
+            "artist": "夏小调",
+            "id": 1463366746
+        },
+        {
+            "name": "【钢琴】你好不好",
+            "artist": "昼夜",
+            "id": 455792223
+        },
+        {
+            "name": "去你的城市呼吸",
+            "artist": "JINBAO",
+            "id": 1320600690
+        },
+        {
+            "name": "一整碗的 · 雲",
+            "artist": "一束",
+            "id": 1878255657
+        },
+        {
+            "name": "听雨（纯音乐）",
+            "artist": "长风",
+            "id": 1389477355
+        },
+        {
+            "name": "静かな夏",
+            "artist": "春野杉卉",
+            "id": 1380556360
+        },
+        {
+            "name": "おやすみ,東京",
+            "artist": "JINBAO",
+            "id": 1351183830
+        },
+        {
+            "name": "雨宿り亭",
+            "artist": "春野杉卉",
+            "id": 1426851706
+        },
+        {
+            "name": "雨を待ってる",
+            "artist": "Peak A Soul+",
+            "id": 4922735
+        },
+        {
+            "name": "雨上がりの空",
+            "artist": "glassmoon",
+            "id": 35504049
+        },
+        {
+            "name": "风吹过的瞬间",
+            "artist": "郑旭杭",
+            "id": 1417313693
+        },
+        {
+            "name": "这就是爱吗",
+            "artist": "魏欣宸",
+            "id": 1420349595
+        },
+        {
+            "name": "水星上的鲸",
+            "artist": "hui sonata",
+            "id": 535093555
+        },
+        {
+            "name": "约定的彼岸",
+            "artist": "La.Warden",
+            "id": 1452420319
+        },
+        {
+            "name": "大鱼 钢琴版",
+            "artist": "昼夜",
+            "id": 414706265
+        },
+        {
+            "name": "東方萃夢想",
+            "artist": "TAMUSIC",
+            "id": 849739
+        },
+        {
+            "name": "平静的生活",
+            "artist": "JINBAO",
+            "id": 1410211913
+        },
+        {
+            "name": "森林自习室",
+            "artist": "森水垚",
+            "id": 1481551217
+        },
+        {
+            "name": "遥远的地方",
+            "artist": "UM",
+            "id": 1870088518
+        },
+        {
+            "name": "第一个清晨",
+            "artist": "JINBAO",
+            "id": 1454251819
+        },
+        {
+            "name": "所念皆星河",
+            "artist": "CMJ",
+            "id": 1384026889
+        },
+        {
+            "name": "浮生若梦",
+            "artist": "Infinite Mask",
+            "id": 1460650981
+        },
+        {
+            "name": "失落岛屿",
+            "artist": "青魚小子",
+            "id": 1439432418
+        },
+        {
+            "name": "积木森林",
+            "artist": "魏琮霏",
+            "id": 422429426
+        },
+        {
+            "name": "好久不见",
+            "artist": "JINBAO",
+            "id": 1819655911
+        },
+        {
+            "name": "我好想你",
+            "artist": "陈戈",
+            "id": 428390694
+        },
+        {
+            "name": "云烟成雨",
+            "artist": "姜创钢琴",
+            "id": 568442050
+        },
+        {
+            "name": "空山·新雨",
+            "artist": "関立",
+            "id": 1376164786
+        },
+        {
+            "name": "往忆点滴",
+            "artist": "八云轨",
+            "id": 1418478350
+        },
+        {
+            "name": "星河清梦",
+            "artist": "TLK天翔",
+            "id": 1429250789
+        },
+        {
+            "name": "星辰未若",
+            "artist": "寒柴",
+            "id": 1453614745
+        },
+        {
+            "name": "海边的梦",
+            "artist": "陈越龙",
+            "id": 1447721226
+        },
+        {
+            "name": "吟鱼落尽",
+            "artist": "smile丶轩",
+            "id": 496095230
+        },
+        {
+            "name": "风的小径",
+            "artist": "万能日记",
+            "id": 1455273374
+        },
+        {
+            "name": "封存记忆",
+            "artist": "JINBAO",
+            "id": 1824489555
+        },
+        {
+            "name": "黄昏空",
+            "artist": "Peak A Soul+",
+            "id": 1364646165
+        },
+        {
+            "name": "青石巷",
+            "artist": "魏琮霏",
+            "id": 422429425
+        },
+        {
+            "name": "日暮里",
+            "artist": "JINBAO",
+            "id": 1351183637
+        },
+        {
+            "name": "桜色舞",
+            "artist": "周诗颖",
+            "id": 444075986
+        },
+        {
+            "name": "南极星",
+            "artist": "视星等",
+            "id": 1321947842
+        },
+        {
+            "name": "那些年",
+            "artist": "姜创钢琴",
+            "id": 572912887
+        },
+        {
+            "name": "傘が泣",
+            "artist": "月海花千野",
+            "id": 1428038847
+        },
+        {
+            "name": "旅立ち",
+            "artist": "久石譲",
+            "id": 443106
+        },
+        {
+            "name": "雪解け",
+            "artist": "mamomo",
+            "id": 33469245
+        },
+        {
+            "name": "あの夏へ",
+            "artist": "久石譲",
+            "id": 443794
+        },
+        {
+            "name": "自由が丘",
+            "artist": "JINBAO",
+            "id": 1351182980
+        },
+        {
+            "name": "言の叶",
+            "artist": "春野杉卉",
+            "id": 1401353332
+        },
+        {
+            "name": "東京タワー",
+            "artist": "JINBAO",
+            "id": 1351182680
+        },
+        {
+            "name": "海の形",
+            "artist": "昙轩",
+            "id": 535056564
+        },
+        {
+            "name": "風の手紙",
+            "artist": "春野杉卉",
+            "id": 1401354249
+        },
+        {
+            "name": "桜舞い",
+            "artist": "世间满樱花",
+            "id": 444803658
+        },
+        {
+            "name": "心 愿 ✍",
+            "artist": "一束",
+            "id": 1880940388
+        },
+        {
+            "name": "落山（piano）",
+            "artist": "陈越龙",
+            "id": 1427728658
+        },
+        {
+            "name": "晚霞",
+            "artist": "Kryust",
+            "id": 1460003986
+        },
+        {
+            "name": "私は",
+            "artist": "爱喝柠檬茶的喵",
+            "id": 863552267
+        },
+        {
+            "name": "初日",
+            "artist": "陈越龙",
+            "id": 1474956928
+        },
+        {
+            "name": "告白",
+            "artist": "ANANT-GARDE EYES",
+            "id": 36307270
+        },
+        {
+            "name": "晨雾",
+            "artist": "Cicada",
+            "id": 350129
+        },
+        {
+            "name": "落叶",
+            "artist": "JINBAO",
+            "id": 1483222436
+        },
+        {
+            "name": "浮槎",
+            "artist": "MT1990",
+            "id": 1366031349
+        },
+        {
+            "name": "方舟",
+            "artist": "蔡嘉瑞",
+            "id": 1927925587
+        },
+        {
+            "name": "雨幕",
+            "artist": "灵空音乐",
+            "id": 411356494
+        },
+        {
+            "name": "知足",
+            "artist": "陈戈",
+            "id": 428390681
+        },
+        {
+            "name": "星尘",
+            "artist": "温野",
+            "id": 1345821920
+        },
+        {
+            "name": "惜别",
+            "artist": "姜创钢琴",
+            "id": 407039430
+        },
+        {
+            "name": "时而",
+            "artist": "苗三川",
+            "id": 1438167162
+        },
+        {
+            "name": "电影",
+            "artist": "JINBAO",
+            "id": 1422220866
+        },
+        {
+            "name": "而我",
+            "artist": "AQ",
+            "id": 1428436607
+        },
+        {
+            "name": "甜",
+            "artist": "CMJ",
+            "id": 516300084
+        },
+        {
+            "name": "寻",
+            "artist": "邱有句",
+            "id": 471589421
+        },
+        {
+            "name": "岸",
+            "artist": "魏琮霏",
+            "id": 422429427
+        },
+        {
+            "name": "屿",
+            "artist": "郑物尘",
+            "id": 1400844438
+        },
+        {
+            "name": "独",
+            "artist": "紫夜黑海",
+            "id": 527855652
+        },
+        {
+            "name": "风（wind）",
+            "artist": "陈越龙",
+            "id": 1437233087
+        },
+        {
+            "name": "零",
+            "artist": "mamomo",
+            "id": 1332439975
+        },
+        {
+            "name": "η",
+            "artist": "α·Pav",
+            "id": 29137871
+        },
+        {
+            "name": "ζ",
+            "artist": "α·Pav",
+            "id": 29137872
+        },
+        {
+            "name": "ο",
+            "artist": "α·Pav",
+            "id": 498373270
+        },
+        {
+            "name": "Ø",
+            "artist": "the tumbled sea",
+            "id": 4346235
+        },
+        {
+            "name": "υ",
+            "artist": "α·Pav",
+            "id": 498372619
+        },
+        {
+            "name": "ki",
+            "artist": "hideyuki hashimoto",
+            "id": 28679464
+        },
+        {
+            "name": "rain",
+            "artist": "ねこぼーろ",
+            "id": 29713218
+        },
+        {
+            "name": "inori",
+            "artist": "hideyuki hashimoto",
+            "id": 1464394068
+        },
+        {
+            "name": "You",
+            "artist": "小瀬村晶",
+            "id": 458238835
+        },
+        {
+            "name": "umi",
+            "artist": "hideyuki hashimoto",
+            "id": 28679440
+        },
+        {
+            "name": "nop",
+            "artist": "陈越龙",
+            "id": 1427725543
+        },
+        {
+            "name": "One.",
+            "artist": "Goldmund",
+            "id": 2640765
+        },
+        {
+            "name": "Dear",
+            "artist": "まらしぃ",
+            "id": 22678650
+        },
+        {
+            "name": "vimn",
+            "artist": "1n",
+            "id": 1406881870
+        },
+        {
+            "name": "omoi",
+            "artist": "1n",
+            "id": 1495130395
+        },
+        {
+            "name": "tsuki-",
+            "artist": "yuiko",
+            "id": 675470
+        },
+        {
+            "name": "Dusk",
+            "artist": "Peter Jeremias",
+            "id": 36953776
+        },
+        {
+            "name": "Gifts",
+            "artist": "Goldmund",
+            "id": 18057492
+        },
+        {
+            "name": "Ending",
+            "artist": "Candy_Wind",
+            "id": 440355309
+        },
+        {
+            "name": "Ⅰ.ʀᴀɪɴ.",
+            "artist": "WinniezZ",
+            "id": 1405986843
+        },
+        {
+            "name": "Siente",
+            "artist": "Robert J. P. Oberg",
+            "id": 1924496
+        },
+        {
+            "name": "Gentle",
+            "artist": "Isaac Shepard",
+            "id": 19934751
+        },
+        {
+            "name": "May Be",
+            "artist": "Yiruma",
+            "id": 22829925
+        },
+        {
+            "name": "Do You?",
+            "artist": "Yiruma",
+            "id": 22829926
+        },
+        {
+            "name": "Love Me",
+            "artist": "Yiruma",
+            "id": 22829931
+        },
+        {
+            "name": "yura yura",
+            "artist": "hideyuki hashimoto",
+            "id": 28679445
+        },
+        {
+            "name": "pure heart",
+            "artist": "松田彬人",
+            "id": 4946902
+        },
+        {
+            "name": "SUMIRE_02",
+            "artist": "mamomo",
+            "id": 1452668341
+        },
+        {
+            "name": "canon in d",
+            "artist": "Brian Crain",
+            "id": 1091088
+        },
+        {
+            "name": "Secret love",
+            "artist": "MUSE XHIRO",
+            "id": 1441732084
+        },
+        {
+            "name": "Old Memory",
+            "artist": "蓝云木",
+            "id": 559227860
+        },
+        {
+            "name": "Love Theme",
+            "artist": "小瀬村晶",
+            "id": 26135327
+        },
+        {
+            "name": "Cyan Summer",
+            "artist": "Zocean",
+            "id": 1435649250
+        },
+        {
+            "name": "もつれる言葉",
+            "artist": "松田彬人",
+            "id": 4946907
+        },
+        {
+            "name": "Old Memories",
+            "artist": "叶轻衣",
+            "id": 1429934718
+        },
+        {
+            "name": "初めてのデート",
+            "artist": "SimorE",
+            "id": 475774775
+        },
+        {
+            "name": "Sweet Escape",
+            "artist": "Paul Cardall",
+            "id": 3301964
+        },
+        {
+            "name": "feel your heart",
+            "artist": "松田彬人",
+            "id": 4946873
+        },
+        {
+            "name": "Where Are You?",
+            "artist": "Painless Destiny",
+            "id": 28692585
+        },
+        {
+            "name": "Born a Stranger",
+            "artist": "Kan R. Gao",
+            "id": 1645108
+        },
+        {
+            "name": "pure imagination",
+            "artist": "Rook1e",
+            "id": 494858498
+        },
+        {
+            "name": "shizukana umi",
+            "artist": "松田光由",
+            "id": 475563
+        },
+        {
+            "name": "Autumn Journey",
+            "artist": "Eric Chiryoku",
+            "id": 26137944
+        },
+        {
+            "name": "Looking for a star",
+            "artist": "Kryust",
+            "id": 1927994066
+        },
+        {
+            "name": "Sense of the Light",
+            "artist": "久石譲",
+            "id": 22655944
+        },
+        {
+            "name": "With You, In Spirit",
+            "artist": "Joe Bongiorno",
+            "id": 27784332
+        },
+        {
+            "name": "デート2 (1n Cover)",
+            "artist": "1n",
+            "id": 435305771
+        },
+        {
+            "name": "わたしなりの生き方",
+            "artist": "mamomo",
+            "id": 1332440912
+        },
+        {
+            "name": "Cedars of Lebanon",
+            "artist": "Steve Barakatt",
+            "id": 1992360
+        },
+        {
+            "name": "《一番の宝物》吉他",
+            "artist": "Sheepy_Chan",
+            "id": 463127069
+        },
+        {
+            "name": "さみしさひとかけら",
+            "artist": "川田瑠夏",
+            "id": 29848757
+        },
+        {
+            "name": "アイロニ(piano ver)",
+            "artist": "1n",
+            "id": 863983741
+        },
+        {
+            "name": "Cherry Wood Paddle",
+            "artist": "Dan Gibson",
+            "id": 1217186
+        },
+        {
+            "name": "止まない雨はないから",
+            "artist": "Wiredscape",
+            "id": 31134338
+        },
+        {
+            "name": "Luv Poem (Piano ver.)",
+            "artist": "dylanf",
+            "id": 1420218751
+        },
+        {
+            "name": "But you're already gone",
+            "artist": "Xeuphoria",
+            "id": 436355381
+        },
+        {
+            "name": "Adagio for Summer Wind",
+            "artist": "Key Sounds Label",
+            "id": 760037
+        },
+        {
+            "name": "リフレイン ~Piano Version~",
+            "artist": "Famishin",
+            "id": 28838680
+        },
+        {
+            "name": "Memory of the world(Inst)",
+            "artist": "レトクオリア",
+            "id": 32977723
+        },
+        {
+            "name": "call of silence（Cover Piano）",
+            "artist": "向晚丶",
+            "id": 505307631
+        },
+        {
+            "name": "Wedding In The Forest(林中约定）",
+            "artist": "小新",
+            "id": 1816837864
+        },
+        {
+            "name": "theme of SSS -Piano Arrange Ver.-",
+            "artist": "Key Sounds Label",
+            "id": 34014163
+        },
+        {
+            "name": "《三叶主题/黄昏之时》吉他曲-你的名字OST",
+            "artist": "Sheepy_Chan",
+            "id": 448274120
+        },
+        {
+            "name": "あなたと一緒に夏を過ごしたい",
+            "artist": "春野杉卉",
+            "id": 1445342841
+        },
+        {
+            "name": "夏、バス停、君を待つ",
+            "artist": "ヨルシカ",
+            "id": 557581318
+        },
+        {
+            "name": "Secret Base (吉他版)",
+            "artist": "uBio高尾和树",
+            "id": 33875750
+        },
+        {
+            "name": "16 years already owned and the last 4 years",
+            "artist": "La.Warden",
+            "id": 1456908362
+        },
+        {
+            "name": "ハナミズキ (Originally Performed by 一青窈)",
+            "artist": "広橋真紀子",
+            "id": 26128303
+        },
+        {
+            "name": "月花 (Acoustic Ver.)",
+            "artist": "中西亮輔",
+            "id": 26584144
+        }
+    ]
+}

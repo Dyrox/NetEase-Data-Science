@@ -1,0 +1,507 @@
+{
+    "playlist_info": {
+        "name": "英伦摇滚 I 五十支乐队五十种难舍情怀",
+        "trackcount": 99,
+        "playcount": 3876084,
+        "creator": "山河暮归",
+        "createDate": "2017-07-10",
+        "heat": 1778.0
+    },
+    "songs": [
+        {
+            "name": "Made Of Stone",
+            "artist": "The Stone Roses",
+            "id": 4338895
+        },
+        {
+            "name": "Going Down",
+            "artist": "The Stone Roses",
+            "id": 21942066
+        },
+        {
+            "name": "Everything Will Flow",
+            "artist": "Suede",
+            "id": 4279075
+        },
+        {
+            "name": "So Young",
+            "artist": "Suede",
+            "id": 4279445
+        },
+        {
+            "name": "Fool's Day",
+            "artist": "Blur",
+            "id": 3951074
+        },
+        {
+            "name": "Tender",
+            "artist": "Blur",
+            "id": 16882031
+        },
+        {
+            "name": "Wonderwall (Remastered)",
+            "artist": "Oasis",
+            "id": 17822714
+        },
+        {
+            "name": "Don't Look Back in Anger (Remastered)",
+            "artist": "Oasis",
+            "id": 17822715
+        },
+        {
+            "name": "Bitter Sweet Symphony",
+            "artist": "The Verve",
+            "id": 22567646
+        },
+        {
+            "name": "Space And Time",
+            "artist": "The Verve",
+            "id": 22567652
+        },
+        {
+            "name": "Yellow",
+            "artist": "Coldplay",
+            "id": 17177324
+        },
+        {
+            "name": "Fix You",
+            "artist": "Coldplay",
+            "id": 3986326
+        },
+        {
+            "name": "Fake Plastic Trees",
+            "artist": "Radiohead",
+            "id": 18795423
+        },
+        {
+            "name": "Creep",
+            "artist": "Radiohead",
+            "id": 22605222
+        },
+        {
+            "name": "Explorers",
+            "artist": "Muse",
+            "id": 21255844
+        },
+        {
+            "name": "Unintended",
+            "artist": "Muse",
+            "id": 21256075
+        },
+        {
+            "name": "Underwear",
+            "artist": "Pulp",
+            "id": 18304520
+        },
+        {
+            "name": "Sorted For E's & Wizz",
+            "artist": "Pulp",
+            "id": 18304518
+        },
+        {
+            "name": "Twenty Years",
+            "artist": "Placebo",
+            "id": 22557327
+        },
+        {
+            "name": "Special Needs",
+            "artist": "Placebo",
+            "id": 4236060
+        },
+        {
+            "name": "Run",
+            "artist": "Snow Patrol",
+            "id": 21730469
+        },
+        {
+            "name": "Set Down Your Glass",
+            "artist": "Snow Patrol",
+            "id": 21730601
+        },
+        {
+            "name": "2:1 (Album Version)",
+            "artist": "Elastica",
+            "id": 17698012
+        },
+        {
+            "name": "Connection",
+            "artist": "Elastica",
+            "id": 17698003
+        },
+        {
+            "name": "Soundtrack 4 2 Lovers",
+            "artist": "Mansun",
+            "id": 17319388
+        },
+        {
+            "name": "Wide Open Space",
+            "artist": "Mansun",
+            "id": 4175483
+        },
+        {
+            "name": "Do No Wrong",
+            "artist": "Thirteen Senses",
+            "id": 19282073
+        },
+        {
+            "name": "Lights Out",
+            "artist": "Thirteen Senses",
+            "id": 27511197
+        },
+        {
+            "name": "Four to the Floor",
+            "artist": "Starsailor",
+            "id": 22622207
+        },
+        {
+            "name": "Fever",
+            "artist": "Starsailor",
+            "id": 21611771
+        },
+        {
+            "name": "Turn",
+            "artist": "Travis",
+            "id": 21973324
+        },
+        {
+            "name": "Walking In The Sun",
+            "artist": "Travis",
+            "id": 21973418
+        },
+        {
+            "name": "Old Yellow Bricks",
+            "artist": "Arctic Monkeys",
+            "id": 16502046
+        },
+        {
+            "name": "Knee Socks",
+            "artist": "Arctic Monkeys",
+            "id": 27737240
+        },
+        {
+            "name": "Sea Fog",
+            "artist": "Keane",
+            "id": 19045928
+        },
+        {
+            "name": "Somewhere Only We Know",
+            "artist": "Keane",
+            "id": 19047042
+        },
+        {
+            "name": "The Beat Goes On",
+            "artist": "Beady Eye",
+            "id": 16821632
+        },
+        {
+            "name": "For Anyone",
+            "artist": "Beady Eye",
+            "id": 16821624
+        },
+        {
+            "name": "There She Goes",
+            "artist": "The La's",
+            "id": 19576058
+        },
+        {
+            "name": "Son Of A Gun",
+            "artist": "The La's",
+            "id": 19576054
+        },
+        {
+            "name": "Monday Morning 5.19",
+            "artist": "Rialto",
+            "id": 20272707
+        },
+        {
+            "name": "Summer's Over",
+            "artist": "Rialto",
+            "id": 20272710
+        },
+        {
+            "name": "Lake and Ocean",
+            "artist": "The Coral Sea",
+            "id": 26177038
+        },
+        {
+            "name": "Under the Westway",
+            "artist": "The Coral Sea",
+            "id": 26177033
+        },
+        {
+            "name": "Forgive & Forget (Oliver Nelson Remix)",
+            "artist": "The Kooks",
+            "id": 29499290
+        },
+        {
+            "name": "Seaside",
+            "artist": "The Kooks",
+            "id": 19548896
+        },
+        {
+            "name": "Just For Tonight",
+            "artist": "One Night Only",
+            "id": 17751408
+        },
+        {
+            "name": "Say You Don't Want It",
+            "artist": "One Night Only",
+            "id": 17751480
+        },
+        {
+            "name": "Alright",
+            "artist": "Supergrass",
+            "id": 21699467
+        },
+        {
+            "name": "Sad Girl",
+            "artist": "Supergrass",
+            "id": 22239414
+        },
+        {
+            "name": "Blackened Blue Eyes",
+            "artist": "The Charlatans",
+            "id": 21794577
+        },
+        {
+            "name": "One to Another",
+            "artist": "The Charlatans",
+            "id": 21794649
+        },
+        {
+            "name": "Sleeping In",
+            "artist": "Menswear",
+            "id": 5163343
+        },
+        {
+            "name": "Can't Smile Without You",
+            "artist": "Menswear",
+            "id": 27182090
+        },
+        {
+            "name": "Joel",
+            "artist": "The Boo Radleys",
+            "id": 21875051
+        },
+        {
+            "name": "Lazarus",
+            "artist": "The Boo Radleys",
+            "id": 21875099
+        },
+        {
+            "name": "Atomic",
+            "artist": "Sleeper",
+            "id": 5056911
+        },
+        {
+            "name": "What Do I Do Now?",
+            "artist": "Sleeper",
+            "id": 404720845
+        },
+        {
+            "name": "The Ghost Of You",
+            "artist": "The Tears",
+            "id": 21857223
+        },
+        {
+            "name": "Song for the Migrant Worker",
+            "artist": "The Tears",
+            "id": 3778360
+        },
+        {
+            "name": "On and On",
+            "artist": "Longpigs",
+            "id": 5057045
+        },
+        {
+            "name": "She Said",
+            "artist": "Longpigs",
+            "id": 28866375
+        },
+        {
+            "name": "Waterfall",
+            "artist": "James",
+            "id": 18656597
+        },
+        {
+            "name": "Sit Down",
+            "artist": "James",
+            "id": 29129991
+        },
+        {
+            "name": "Melodies Haunt You",
+            "artist": "Dodgy",
+            "id": 17358037
+        },
+        {
+            "name": "Good Enough",
+            "artist": "Dodgy",
+            "id": 5162387
+        },
+        {
+            "name": "There Goes The Fear",
+            "artist": "Doves",
+            "id": 5041849
+        },
+        {
+            "name": "Ambition",
+            "artist": "Doves",
+            "id": 22598884
+        },
+        {
+            "name": "Your Love, It Lies",
+            "artist": "Gene",
+            "id": 18081268
+        },
+        {
+            "name": "London, Can You Wait",
+            "artist": "Gene",
+            "id": 18081300
+        },
+        {
+            "name": "Hush",
+            "artist": "Kula Shaker",
+            "id": 5056191
+        },
+        {
+            "name": "Mystical Machine Gun (Edit)",
+            "artist": "Kula Shaker",
+            "id": 19001008
+        },
+        {
+            "name": "Caldey",
+            "artist": "Manic Street Preachers",
+            "id": 28804591
+        },
+        {
+            "name": "Some Kind of Nothingness",
+            "artist": "Manic Street Preachers",
+            "id": 21269700
+        },
+        {
+            "name": "Waste Of Space",
+            "artist": "Delays",
+            "id": 17228947
+        },
+        {
+            "name": "Nearer Than Heaven",
+            "artist": "Delays",
+            "id": 17228951
+        },
+        {
+            "name": "I Stopped To Fill My Car Up",
+            "artist": "Stereophonics",
+            "id": 21723646
+        },
+        {
+            "name": "Since I Told You It's Over",
+            "artist": "Stereophonics",
+            "id": 21723633
+        },
+        {
+            "name": "Car Fiction",
+            "artist": "Echobelly",
+            "id": 17536184
+        },
+        {
+            "name": "King of the Kerb",
+            "artist": "Echobelly",
+            "id": 17536185
+        },
+        {
+            "name": "Junk Shop Clothes",
+            "artist": "The Auteurs",
+            "id": 22509993
+        },
+        {
+            "name": "Idiot Brother",
+            "artist": "The Auteurs",
+            "id": 22509999
+        },
+        {
+            "name": "Folk Song",
+            "artist": "Ash",
+            "id": 3883997
+        },
+        {
+            "name": "For Eternity",
+            "artist": "Ash",
+            "id": 32272167
+        },
+        {
+            "name": "I Have The Moon",
+            "artist": "Lush",
+            "id": 21041582
+        },
+        {
+            "name": "Desire Lines",
+            "artist": "Lush",
+            "id": 21041612
+        },
+        {
+            "name": "Shore Leave",
+            "artist": "Catatonia",
+            "id": 17101188
+        },
+        {
+            "name": "Gravity",
+            "artist": "Embrace",
+            "id": 17616212
+        },
+        {
+            "name": "Nature's Law",
+            "artist": "Embrace",
+            "id": 17616091
+        },
+        {
+            "name": "Still Falling",
+            "artist": "Saybia",
+            "id": 19068199
+        },
+        {
+            "name": "Angel",
+            "artist": "Saybia",
+            "id": 19068246
+        },
+        {
+            "name": "Places",
+            "artist": "Ours",
+            "id": 17734929
+        },
+        {
+            "name": "Dizzy",
+            "artist": "Ours",
+            "id": 17734910
+        },
+        {
+            "name": "If...",
+            "artist": "The Bluetones",
+            "id": 19414188
+        },
+        {
+            "name": "Slight Return",
+            "artist": "The Bluetones",
+            "id": 19414421
+        },
+        {
+            "name": "Three Lions",
+            "artist": "The Lightning Seeds",
+            "id": 2009370
+        },
+        {
+            "name": "You Showed Me",
+            "artist": "The Lightning Seeds",
+            "id": 2009326
+        },
+        {
+            "name": "If I Had A Gun…",
+            "artist": "Noel Gallagher's High Flying Birds",
+            "id": 29239661
+        },
+        {
+            "name": "Dead In The Water (Live At RTÉ 2FM Studios, Dublin)",
+            "artist": "Noel Gallagher's High Flying Birds",
+            "id": 520537267
+        }
+    ]
+}

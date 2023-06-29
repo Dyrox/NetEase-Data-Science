@@ -1,0 +1,1397 @@
+{
+    "playlist_info": {
+        "name": "Coldplay【酷玩乐队全收录】",
+        "trackcount": 277,
+        "playcount": 137397,
+        "creator": "马山芋的Parachutes",
+        "createDate": "2017-04-18",
+        "heat": 60.0
+    },
+    "songs": [
+        {
+            "name": "Viva La Vida (Live)",
+            "artist": "Chris Martin",
+            "id": 26293060
+        },
+        {
+            "name": "Lethal Drug（翻自 Avicii） ",
+            "artist": "LVICII",
+            "id": 1436247717
+        },
+        {
+            "name": "Help Is Round the Corner",
+            "artist": "Coldplay",
+            "id": 17177325
+        },
+        {
+            "name": "No More Keeping My Feet on the Ground",
+            "artist": "Coldplay",
+            "id": 17177326
+        },
+        {
+            "name": "2000 Miles",
+            "artist": "Coldplay",
+            "id": 1932194808
+        },
+        {
+            "name": "Atlas",
+            "artist": "Coldplay",
+            "id": 27698083
+        },
+        {
+            "name": "Angel Time",
+            "artist": "Chris Martin",
+            "id": 26708810
+        },
+        {
+            "name": "Monsters You Made (feat. Chris Martin)",
+            "artist": "Burna Boy",
+            "id": 1470680821
+        },
+        {
+            "name": "Church",
+            "artist": "Coldplay",
+            "id": 1404823964
+        },
+        {
+            "name": "I Ran Away",
+            "artist": "Coldplay",
+            "id": 17177369
+        },
+        {
+            "name": "1.36",
+            "artist": "Coldplay",
+            "id": 17177368
+        },
+        {
+            "name": "Postcards From Far Away",
+            "artist": "Coldplay",
+            "id": 22459471
+        },
+        {
+            "name": "Prospekt's March/Poppyfields",
+            "artist": "Coldplay",
+            "id": 22366623
+        },
+        {
+            "name": "Different is Ok",
+            "artist": "Huillo",
+            "id": 1911992415
+        },
+        {
+            "name": "Lukas",
+            "artist": "Natalie Imbruglia",
+            "id": 17586653
+        },
+        {
+            "name": "Fun",
+            "artist": "Natalie Imbruglia",
+            "id": 17586654
+        },
+        {
+            "name": "🪐",
+            "artist": "Coldplay",
+            "id": 1886744222
+        },
+        {
+            "name": "Higher Power",
+            "artist": "Coldplay",
+            "id": 1886744223
+        },
+        {
+            "name": "Humankind",
+            "artist": "Coldplay",
+            "id": 1886744224
+        },
+        {
+            "name": "✨",
+            "artist": "Coldplay",
+            "id": 1886744225
+        },
+        {
+            "name": "Let Somebody Go",
+            "artist": "Coldplay",
+            "id": 1886744226
+        },
+        {
+            "name": "❤️",
+            "artist": "Coldplay",
+            "id": 1886744227
+        },
+        {
+            "name": "People of The Pride",
+            "artist": "Coldplay",
+            "id": 1886744947
+        },
+        {
+            "name": "Biutyful",
+            "artist": "Coldplay",
+            "id": 1886744948
+        },
+        {
+            "name": "🌎",
+            "artist": "Coldplay",
+            "id": 1886744950
+        },
+        {
+            "name": "My Universe",
+            "artist": "Coldplay",
+            "id": 1886744231
+        },
+        {
+            "name": "♾️",
+            "artist": "Coldplay",
+            "id": 1886744233
+        },
+        {
+            "name": "Coloratura",
+            "artist": "Coldplay",
+            "id": 1886744951
+        },
+        {
+            "name": "How You See The World",
+            "artist": "Coldplay",
+            "id": 5183920
+        },
+        {
+            "name": "Coloratura",
+            "artist": "Coldplay",
+            "id": 1863276540
+        },
+        {
+            "name": "My Universe",
+            "artist": "Coldplay",
+            "id": 1880282417
+        },
+        {
+            "name": "My Universe (Acoustic Version)",
+            "artist": "Coldplay",
+            "id": 1880885065
+        },
+        {
+            "name": "Overtura (Music Of The Spheres album trailer)",
+            "artist": "Coldplay",
+            "id": 1861893617
+        },
+        {
+            "name": "Higher Power",
+            "artist": "Coldplay",
+            "id": 1842286694
+        },
+        {
+            "name": "Flags",
+            "artist": "Coldplay",
+            "id": 1805378330
+        },
+        {
+            "name": "Talk",
+            "artist": "Coldplay",
+            "id": 27142811
+        },
+        {
+            "name": "Champion Of The World (Live at NPR's Tiny Desk)",
+            "artist": "Coldplay",
+            "id": 1430511693
+        },
+        {
+            "name": "Glass of Water (Live in Sydney, 2009)",
+            "artist": "Coldplay",
+            "id": 3985856
+        },
+        {
+            "name": "42 (Live in Madrid, 2008)",
+            "artist": "Coldplay",
+            "id": 3985860
+        },
+        {
+            "name": "Clocks (Live in Madrid, 2008)",
+            "artist": "Coldplay",
+            "id": 3985862
+        },
+        {
+            "name": "Strawberry Swing (Live in Madrid, 2008)",
+            "artist": "Coldplay",
+            "id": 3985865
+        },
+        {
+            "name": "The Hardest Part / Postcards from Far Away (Live in Sydney, 2009)",
+            "artist": "Coldplay",
+            "id": 3985867
+        },
+        {
+            "name": "Viva La Vida (Live in Paris, 2008)",
+            "artist": "Coldplay",
+            "id": 3985869
+        },
+        {
+            "name": "Death Will Never Conquer (Live in Sydney, 2009)",
+            "artist": "Coldplay",
+            "id": 3985871
+        },
+        {
+            "name": "Fix You (Live in Sydney, 2009)",
+            "artist": "Coldplay",
+            "id": 3985875
+        },
+        {
+            "name": "Death and All His Friends (Live in Madrid, 2008)",
+            "artist": "Coldplay",
+            "id": 3985878
+        },
+        {
+            "name": "Everyday Life",
+            "artist": "Coldplay",
+            "id": 1400554329
+        },
+        {
+            "name": "Champion Of The World",
+            "artist": "Coldplay",
+            "id": 1404261422
+        },
+        {
+            "name": "Daddy",
+            "artist": "Coldplay",
+            "id": 1404259877
+        },
+        {
+            "name": "Orphans",
+            "artist": "Coldplay",
+            "id": 1398695168
+        },
+        {
+            "name": "Sunrise",
+            "artist": "Coldplay",
+            "id": 1404820541
+        },
+        {
+            "name": "Church",
+            "artist": "Coldplay",
+            "id": 1404820542
+        },
+        {
+            "name": "Trouble In Town",
+            "artist": "Coldplay",
+            "id": 1404819940
+        },
+        {
+            "name": "BrokEn",
+            "artist": "Coldplay",
+            "id": 1404820543
+        },
+        {
+            "name": "WOTW / POTP",
+            "artist": "Coldplay",
+            "id": 1404820544
+        },
+        {
+            "name": "When I Need A Friend",
+            "artist": "Coldplay",
+            "id": 1404820545
+        },
+        {
+            "name": "Guns",
+            "artist": "Coldplay",
+            "id": 1404820546
+        },
+        {
+            "name": "Èkó",
+            "artist": "Coldplay",
+            "id": 1404820547
+        },
+        {
+            "name": "Cry Cry Cry",
+            "artist": "Coldplay",
+            "id": 1404820548
+        },
+        {
+            "name": "Old Friends",
+            "artist": "Coldplay",
+            "id": 1404820549
+        },
+        {
+            "name": "بنی آدم",
+            "artist": "Coldplay",
+            "id": 1404820550
+        },
+        {
+            "name": "Arabesque",
+            "artist": "Coldplay",
+            "id": 1398695169
+        },
+        {
+            "name": "Trouble (2 Meter Session)",
+            "artist": "Coldplay",
+            "id": 1398743938
+        },
+        {
+            "name": "Heaven",
+            "artist": "Avicii",
+            "id": 1370108692
+        },
+        {
+            "name": "Every Teardrop Is A Waterfall (Avicii's 'Tour' Mix).",
+            "artist": "Avicii",
+            "id": 26801862
+        },
+        {
+            "name": "E-Lo",
+            "artist": "Los Unidades",
+            "id": 1329269731
+        },
+        {
+            "name": "A L I E N S (Markus Dravs Remix)",
+            "artist": "Coldplay",
+            "id": 491950245
+        },
+        {
+            "name": "Timbuktu (feat. Stormzy & Jess Kent)",
+            "artist": "Cassper Nyovest",
+            "id": 1329888070
+        },
+        {
+            "name": "Pour Me - Live @ The Hollywood Bowl",
+            "artist": "Coldplay",
+            "id": 3986385
+        },
+        {
+            "name": "Voodoo (feat. Tiwa Savage, Wizkid, Danny Ocean & David Guetta)",
+            "artist": "StarGate",
+            "id": 1329888071
+        },
+        {
+            "name": "Us Against the World (Live)",
+            "artist": "Coldplay",
+            "id": 26830949
+        },
+        {
+            "name": "In My Place (Live in Buenos Aires)",
+            "artist": "Coldplay",
+            "id": 1331650379
+        },
+        {
+            "name": "End Credits (Live in Buenos Aires)",
+            "artist": "Coldplay",
+            "id": 1331652295
+        },
+        {
+            "name": "Amor Argentina (Live in Buenos Aires)",
+            "artist": "Coldplay",
+            "id": 1331650380
+        },
+        {
+            "name": "De Música Ligera (Live in Buenos Aires)",
+            "artist": "Coldplay",
+            "id": 1331652293
+        },
+        {
+            "name": "Lips Like Sugar(Live)",
+            "artist": "Coldplay",
+            "id": 3986645
+        },
+        {
+            "name": "Magic (Live)",
+            "artist": "Coldplay",
+            "id": 33187389
+        },
+        {
+            "name": "The Goldrush",
+            "artist": "Coldplay",
+            "id": 17177372
+        },
+        {
+            "name": "True Believer",
+            "artist": "Avicii",
+            "id": 35090542
+        },
+        {
+            "name": "Homesick",
+            "artist": "Dua Lipa",
+            "id": 481537723
+        },
+        {
+            "name": "Losing My Religion (Feat. Michael Stipe) (Live)",
+            "artist": "Chris Martin",
+            "id": 26293062
+        },
+        {
+            "name": "Viva La Vida (Live in Buenos Aires)",
+            "artist": "Coldplay",
+            "id": 1318772624
+        },
+        {
+            "name": "Yellow",
+            "artist": "Coldplay",
+            "id": 26827602
+        },
+        {
+            "name": "Fix You (Live in Buenos Aires)",
+            "artist": "Coldplay",
+            "id": 1322121991
+        },
+        {
+            "name": "We All Fall In Love Sometimes",
+            "artist": "Coldplay",
+            "id": 550684333
+        },
+        {
+            "name": "Up in Flames",
+            "artist": "Coldplay",
+            "id": 17177244
+        },
+        {
+            "name": "Lhuna",
+            "artist": "Kylie Minogue",
+            "id": 3985903
+        },
+        {
+            "name": "Only Superstition",
+            "artist": "Coldplay",
+            "id": 17177323
+        },
+        {
+            "name": "Clocks (Live)",
+            "artist": "Coldplay",
+            "id": 27431571
+        },
+        {
+            "name": "Mylo Xyloto",
+            "artist": "Coldplay",
+            "id": 17177234
+        },
+        {
+            "name": "Hurts Like Heaven",
+            "artist": "Coldplay",
+            "id": 17177235
+        },
+        {
+            "name": "M.M.I.X.",
+            "artist": "Coldplay",
+            "id": 17177239
+        },
+        {
+            "name": "Every Teardrop Is a Waterfall",
+            "artist": "Coldplay",
+            "id": 3985804
+        },
+        {
+            "name": "A Hopeful Transmission",
+            "artist": "Coldplay",
+            "id": 17177245
+        },
+        {
+            "name": "Don't Let It Break Your Heart",
+            "artist": "Coldplay",
+            "id": 17177246
+        },
+        {
+            "name": "Up with the Birds",
+            "artist": "Coldplay",
+            "id": 17177247
+        },
+        {
+            "name": "Life in Technicolor",
+            "artist": "Coldplay",
+            "id": 3985995
+        },
+        {
+            "name": "Miracles (Someone Special)",
+            "artist": "Coldplay",
+            "id": 490453059
+        },
+        {
+            "name": "Hypnotised (EP Mix)",
+            "artist": "Coldplay",
+            "id": 490453061
+        },
+        {
+            "name": "Ladder To The Sun (live)",
+            "artist": "Coldplay",
+            "id": 3986147
+        },
+        {
+            "name": "Easy To Please",
+            "artist": "Coldplay",
+            "id": 3986121
+        },
+        {
+            "name": "Your Love Means Everything Part 2",
+            "artist": "Faultline",
+            "id": 22248631
+        },
+        {
+            "name": "A L I E N S",
+            "artist": "Coldplay",
+            "id": 488965867
+        },
+        {
+            "name": "Pour Me (live)",
+            "artist": "Coldplay",
+            "id": 3986133
+        },
+        {
+            "name": "Yellow (Acoustic Version From Jo Whiley's Lunchtime Social)",
+            "artist": "Coldplay",
+            "id": 3987106
+        },
+        {
+            "name": "Shiver (Live)",
+            "artist": "Coldplay",
+            "id": 32803495
+        },
+        {
+            "name": "Shiver (Acoustic)",
+            "artist": "Coldplay",
+            "id": 33187357
+        },
+        {
+            "name": "Us Against the World",
+            "artist": "Coldplay",
+            "id": 17177238
+        },
+        {
+            "name": "Yellow (Acoustic)",
+            "artist": "Coldplay",
+            "id": 33187358
+        },
+        {
+            "name": "You Only Live Twice (Glastonbury 2000)",
+            "artist": "Coldplay",
+            "id": 33187361
+        },
+        {
+            "name": "Yellow (The Alpha Remix)",
+            "artist": "Coldplay",
+            "id": 3986992
+        },
+        {
+            "name": "In the Sun (Recorded Live At Austin City Limits)",
+            "artist": "Michael Stipe",
+            "id": 34770583
+        },
+        {
+            "name": "Where Is My Boy?",
+            "artist": "Faultline",
+            "id": 22248620
+        },
+        {
+            "name": "Reign of Love",
+            "artist": "Coldplay",
+            "id": 30398481
+        },
+        {
+            "name": "Homecoming",
+            "artist": "Kanye West",
+            "id": 18969163
+        },
+        {
+            "name": "Bigger Stronger",
+            "artist": "Coldplay",
+            "id": 22448960
+        },
+        {
+            "name": "Murder",
+            "artist": "Coldplay",
+            "id": 3986636
+        },
+        {
+            "name": "Electricity",
+            "artist": "David Brent",
+            "id": 426852382
+        },
+        {
+            "name": "Princess of China (Acoustic)",
+            "artist": "Coldplay",
+            "id": 17177384
+        },
+        {
+            "name": "Don't Panic",
+            "artist": "Coldplay",
+            "id": 22448961
+        },
+        {
+            "name": "Moving to Mars",
+            "artist": "Coldplay",
+            "id": 3985814
+        },
+        {
+            "name": "Pour Me (Live At The Hollywood Bowl)",
+            "artist": "Coldplay",
+            "id": 17177359
+        },
+        {
+            "name": "In the Sun (Gulf Coast Relief)",
+            "artist": "Michael Stipe",
+            "id": 34770579
+        },
+        {
+            "name": "Clocks (Live @ Ahoy)",
+            "artist": "Coldplay",
+            "id": 3986711
+        },
+        {
+            "name": "For You",
+            "artist": "Coldplay",
+            "id": 17177343
+        },
+        {
+            "name": "2000 Miles",
+            "artist": "Coldplay",
+            "id": 27182075
+        },
+        {
+            "name": "Politik (Live in Sydney)",
+            "artist": "Coldplay",
+            "id": 17177262
+        },
+        {
+            "name": "Fix You (Live)",
+            "artist": "Coldplay",
+            "id": 28638727
+        },
+        {
+            "name": "God Put a Smile upon Your Face (Live in Sydney)",
+            "artist": "Coldplay",
+            "id": 17177263
+        },
+        {
+            "name": "A Rush of Blood to the Head (Live in Sydney)",
+            "artist": "Coldplay",
+            "id": 17177264
+        },
+        {
+            "name": "One I Love (Live in Sydney)",
+            "artist": "Coldplay",
+            "id": 17177265
+        },
+        {
+            "name": "See You Soon (Live in Sydney)",
+            "artist": "Coldplay",
+            "id": 17177266
+        },
+        {
+            "name": "Shiver (Live in Sydney)",
+            "artist": "Coldplay",
+            "id": 17177267
+        },
+        {
+            "name": "Everything's Not Lost (Live in Sydney)",
+            "artist": "Coldplay",
+            "id": 17177268
+        },
+        {
+            "name": "Moses (Live in Sydney)",
+            "artist": "Coldplay",
+            "id": 17177269
+        },
+        {
+            "name": "Yellow (Live in Sydney)",
+            "artist": "Coldplay",
+            "id": 17177270
+        },
+        {
+            "name": "Clocks (Live in Sydney)",
+            "artist": "Coldplay",
+            "id": 17177271
+        },
+        {
+            "name": "In My Place (Live in Sydney)",
+            "artist": "Coldplay",
+            "id": 17177272
+        },
+        {
+            "name": "Amsterdam (Live in Sydney)",
+            "artist": "Coldplay",
+            "id": 17177273
+        },
+        {
+            "name": "Careful Where You Stand",
+            "artist": "Coldplay",
+            "id": 17177344
+        },
+        {
+            "name": "What a Wonderful World (Live)",
+            "artist": "Coldplay",
+            "id": 32803502
+        },
+        {
+            "name": "Have Yourself a Merry Little Christmas (Jo Whiley, BBC Radio 1 Session)",
+            "artist": "Coldplay",
+            "id": 3986988
+        },
+        {
+            "name": "I Bloom Blaum",
+            "artist": "Coldplay",
+            "id": 17177363
+        },
+        {
+            "name": "Everglow (Single Version)",
+            "artist": "Coldplay",
+            "id": 440317634
+        },
+        {
+            "name": "Now My Feet Won't Touch The Ground",
+            "artist": "Coldplay",
+            "id": 22459477
+        },
+        {
+            "name": "Careful Where You Stand",
+            "artist": "Coldplay",
+            "id": 3987104
+        },
+        {
+            "name": "All I Can Think About Is You",
+            "artist": "Coldplay",
+            "id": 484638725
+        },
+        {
+            "name": "Lovers In Japan(Acoustic Version)",
+            "artist": "Coldplay",
+            "id": 32196011
+        },
+        {
+            "name": "Crests Of Waves",
+            "artist": "Coldplay",
+            "id": 3986727
+        },
+        {
+            "name": "Animals",
+            "artist": "Coldplay",
+            "id": 3986731
+        },
+        {
+            "name": "Such a Rush",
+            "artist": "Coldplay",
+            "id": 3987170
+        },
+        {
+            "name": "For You (New Song)",
+            "artist": "Coldplay",
+            "id": 33187350
+        },
+        {
+            "name": "Harmless (New Song)",
+            "artist": "Coldplay",
+            "id": 33187344
+        },
+        {
+            "name": "Spies",
+            "artist": "Coldplay",
+            "id": 17177276
+        },
+        {
+            "name": "Parachutes",
+            "artist": "Coldplay",
+            "id": 17177280
+        },
+        {
+            "name": "High Speed",
+            "artist": "Coldplay",
+            "id": 17177281
+        },
+        {
+            "name": "We Never Change",
+            "artist": "Coldplay",
+            "id": 17177282
+        },
+        {
+            "name": "Everything's Not Lost",
+            "artist": "Coldplay",
+            "id": 17177283
+        },
+        {
+            "name": "God Put a Smile upon Your Face",
+            "artist": "Coldplay",
+            "id": 17177308
+        },
+        {
+            "name": "Daylight",
+            "artist": "Coldplay",
+            "id": 17177311
+        },
+        {
+            "name": "Green Eyes",
+            "artist": "Coldplay",
+            "id": 17177312
+        },
+        {
+            "name": "A Whisper",
+            "artist": "Coldplay",
+            "id": 17177314
+        },
+        {
+            "name": "Bigger stronger",
+            "artist": "Coldplay",
+            "id": 3986517
+        },
+        {
+            "name": "No more keeping my feet on the ground",
+            "artist": "Coldplay",
+            "id": 3986522
+        },
+        {
+            "name": "Such a rush",
+            "artist": "Coldplay",
+            "id": 3986526
+        },
+        {
+            "name": "Don't panic",
+            "artist": "Coldplay",
+            "id": 3986531
+        },
+        {
+            "name": "Brothers and sisters",
+            "artist": "Coldplay",
+            "id": 3986536
+        },
+        {
+            "name": "Easy to please",
+            "artist": "Coldplay",
+            "id": 3986539
+        },
+        {
+            "name": "See you soon",
+            "artist": "Coldplay",
+            "id": 3986547
+        },
+        {
+            "name": "Help Is Round the Corner",
+            "artist": "Coldplay",
+            "id": 3986551
+        },
+        {
+            "name": "Careful where you stand",
+            "artist": "Coldplay",
+            "id": 3986562
+        },
+        {
+            "name": "For you",
+            "artist": "Coldplay",
+            "id": 3986567
+        },
+        {
+            "name": "I bloom blaum",
+            "artist": "Coldplay",
+            "id": 3986583
+        },
+        {
+            "name": "One I Love",
+            "artist": "Coldplay",
+            "id": 17177362
+        },
+        {
+            "name": "36",
+            "artist": "Coldplay",
+            "id": 3986595
+        },
+        {
+            "name": "I ran away",
+            "artist": "Coldplay",
+            "id": 3986599
+        },
+        {
+            "name": "The scientist",
+            "artist": "Coldplay",
+            "id": 3986603
+        },
+        {
+            "name": "Gold in them hills",
+            "artist": "Coldplay",
+            "id": 3986606
+        },
+        {
+            "name": "Hunting high and low",
+            "artist": "Coldplay",
+            "id": 3986609
+        },
+        {
+            "name": "Death Will Never Conquer",
+            "artist": "Coldplay",
+            "id": 3986030
+        },
+        {
+            "name": "Major Minus",
+            "artist": "Coldplay",
+            "id": 17177241
+        },
+        {
+            "name": "Ode To Deodorant",
+            "artist": "Coldplay",
+            "id": 3987184
+        },
+        {
+            "name": "We Found Love(Live)",
+            "artist": "Coldplay",
+            "id": 29375502
+        },
+        {
+            "name": "Yes",
+            "artist": "Coldplay",
+            "id": 3986013
+        },
+        {
+            "name": "All Your Friends",
+            "artist": "Coldplay",
+            "id": 28585160
+        },
+        {
+            "name": "Only superstition",
+            "artist": "Coldplay",
+            "id": 3986543
+        },
+        {
+            "name": "Postcards From Far Away",
+            "artist": "Coldplay",
+            "id": 22366620
+        },
+        {
+            "name": "Lost+ (with Jay-Z)",
+            "artist": "Coldplay",
+            "id": 22366624
+        },
+        {
+            "name": "Lovers In Japan (Osaka Sun Mix)",
+            "artist": "Coldplay",
+            "id": 22366625
+        },
+        {
+            "name": "Glass Of Water",
+            "artist": "Coldplay",
+            "id": 22366621
+        },
+        {
+            "name": "Rainy Day",
+            "artist": "Coldplay",
+            "id": 22366622
+        },
+        {
+            "name": "U.F.O.",
+            "artist": "Coldplay",
+            "id": 17177242
+        },
+        {
+            "name": "Yellow (Live)",
+            "artist": "Coldplay",
+            "id": 26830942
+        },
+        {
+            "name": "God Put a Smile upon Your Face (Live)",
+            "artist": "Coldplay",
+            "id": 26830943
+        },
+        {
+            "name": "Hurts Like Heaven (Live)",
+            "artist": "Coldplay",
+            "id": 26830939
+        },
+        {
+            "name": "Major Minus (Live)",
+            "artist": "Coldplay",
+            "id": 26830941
+        },
+        {
+            "name": "In My Place (Live 2012)",
+            "artist": "Coldplay",
+            "id": 26830940
+        },
+        {
+            "name": "Princess of China (Live)",
+            "artist": "Coldplay",
+            "id": 26830944
+        },
+        {
+            "name": "Up in Flames (Live)",
+            "artist": "Coldplay",
+            "id": 26830945
+        },
+        {
+            "name": "Viva La Vida (Live)",
+            "artist": "Coldplay",
+            "id": 26830946
+        },
+        {
+            "name": "Charlie Brown (Live)",
+            "artist": "Coldplay",
+            "id": 26830947
+        },
+        {
+            "name": "Mylo Xyloto (Live)",
+            "artist": "Coldplay",
+            "id": 26830938
+        },
+        {
+            "name": "True Love",
+            "artist": "Coldplay",
+            "id": 32977571
+        },
+        {
+            "name": "Shiver (Live)",
+            "artist": "Coldplay",
+            "id": 30398913
+        },
+        {
+            "name": "Viva la Vida",
+            "artist": "Coldplay",
+            "id": 3986040
+        },
+        {
+            "name": "Death and All His Friends",
+            "artist": "Coldplay",
+            "id": 17177214
+        },
+        {
+            "name": "Strawberry Swing",
+            "artist": "Coldplay",
+            "id": 22589422
+        },
+        {
+            "name": "Ink (Live at Le Casino De Paris, Paris)",
+            "artist": "Coldplay",
+            "id": 29561169
+        },
+        {
+            "name": "Hypnotised",
+            "artist": "Coldplay",
+            "id": 463014554
+        },
+        {
+            "name": "Warning Sign",
+            "artist": "Coldplay",
+            "id": 17177313
+        },
+        {
+            "name": "Amsterdam",
+            "artist": "Coldplay",
+            "id": 17177316
+        },
+        {
+            "name": "Death and All His Friends",
+            "artist": "Coldplay",
+            "id": 3986025
+        },
+        {
+            "name": "Lovers in Japan / Reign of Love",
+            "artist": "Coldplay",
+            "id": 3986012
+        },
+        {
+            "name": "Cemeteries of London",
+            "artist": "Coldplay",
+            "id": 3985998
+        },
+        {
+            "name": "Politik",
+            "artist": "Coldplay",
+            "id": 17177306
+        },
+        {
+            "name": "Shiver",
+            "artist": "Coldplay",
+            "id": 17177275
+        },
+        {
+            "name": "Sparks",
+            "artist": "Coldplay",
+            "id": 17177277
+        },
+        {
+            "name": "A Rush of Blood to the Head",
+            "artist": "Coldplay",
+            "id": 17177315
+        },
+        {
+            "name": "Oceans",
+            "artist": "Coldplay",
+            "id": 28535294
+        },
+        {
+            "name": "Violet Hill",
+            "artist": "Coldplay",
+            "id": 3986020
+        },
+        {
+            "name": "Speed of Sound",
+            "artist": "Coldplay",
+            "id": 22627000
+        },
+        {
+            "name": "Charlie Brown",
+            "artist": "Coldplay",
+            "id": 17177237
+        },
+        {
+            "name": "Wish I Was Here",
+            "artist": "Coldplay",
+            "id": 28773544
+        },
+        {
+            "name": "42",
+            "artist": "Coldplay",
+            "id": 3986005
+        },
+        {
+            "name": "Lost?",
+            "artist": "Coldplay",
+            "id": 3986027
+        },
+        {
+            "name": "Lost!",
+            "artist": "Coldplay",
+            "id": 3986001
+        },
+        {
+            "name": "Another's Arms",
+            "artist": "Coldplay",
+            "id": 28528998
+        },
+        {
+            "name": "O (Part 2/Reprise)",
+            "artist": "Coldplay",
+            "id": 28585162
+        },
+        {
+            "name": "Trouble",
+            "artist": "Coldplay",
+            "id": 3987001
+        },
+        {
+            "name": "Ghost Story",
+            "artist": "Coldplay",
+            "id": 28585161
+        },
+        {
+            "name": "In My Place",
+            "artist": "Coldplay",
+            "id": 17177361
+        },
+        {
+            "name": "Life in Technicolor ii",
+            "artist": "Coldplay",
+            "id": 17177370
+        },
+        {
+            "name": "Always in My Head",
+            "artist": "Coldplay",
+            "id": 28535291
+        },
+        {
+            "name": "Clocks",
+            "artist": "Coldplay",
+            "id": 17177310
+        },
+        {
+            "name": "Princess of China",
+            "artist": "Coldplay",
+            "id": 17177243
+        },
+        {
+            "name": "Midnight",
+            "artist": "Coldplay",
+            "id": 28282515
+        },
+        {
+            "name": "O",
+            "artist": "Coldplay",
+            "id": 28535295
+        },
+        {
+            "name": "Ink",
+            "artist": "Coldplay",
+            "id": 28535292
+        },
+        {
+            "name": "Christmas Lights",
+            "artist": "Coldplay",
+            "id": 22425130
+        },
+        {
+            "name": "Miracles",
+            "artist": "Coldplay",
+            "id": 29802587
+        },
+        {
+            "name": "Magic",
+            "artist": "Coldplay",
+            "id": 28285776
+        },
+        {
+            "name": "The Scientist",
+            "artist": "Coldplay",
+            "id": 17177367
+        },
+        {
+            "name": "Paradise",
+            "artist": "Coldplay",
+            "id": 17177380
+        },
+        {
+            "name": "Everglow",
+            "artist": "Coldplay",
+            "id": 37239018
+        },
+        {
+            "name": "A Sky Full of Stars",
+            "artist": "Coldplay",
+            "id": 28528999
+        },
+        {
+            "name": "Adventure of a Lifetime",
+            "artist": "Coldplay",
+            "id": 36308623
+        },
+        {
+            "name": "Yellow",
+            "artist": "Coldplay",
+            "id": 17177324
+        },
+        {
+            "name": "Square One",
+            "artist": "Coldplay",
+            "id": 3986312
+        },
+        {
+            "name": "What If",
+            "artist": "Coldplay",
+            "id": 3986317
+        },
+        {
+            "name": "White Shadows",
+            "artist": "Coldplay",
+            "id": 3986322
+        },
+        {
+            "name": "Fix You",
+            "artist": "Coldplay",
+            "id": 3986326
+        },
+        {
+            "name": "Talk",
+            "artist": "Coldplay",
+            "id": 3986331
+        },
+        {
+            "name": "X&Y",
+            "artist": "Coldplay",
+            "id": 3986338
+        },
+        {
+            "name": "A Message",
+            "artist": "Coldplay",
+            "id": 3986349
+        },
+        {
+            "name": "Low",
+            "artist": "Coldplay",
+            "id": 3986353
+        },
+        {
+            "name": "The Hardest Part",
+            "artist": "Coldplay",
+            "id": 3986357
+        },
+        {
+            "name": "Swallowed in the Sea",
+            "artist": "Coldplay",
+            "id": 3986362
+        },
+        {
+            "name": "Twisted Logic",
+            "artist": "Coldplay",
+            "id": 3986367
+        },
+        {
+            "name": "Til Kingdom Come",
+            "artist": "Coldplay",
+            "id": 3986372
+        },
+        {
+            "name": "Gravity",
+            "artist": "Coldplay",
+            "id": 3986376
+        },
+        {
+            "name": "Sleeping Sun",
+            "artist": "Coldplay",
+            "id": 3986380
+        },
+        {
+            "name": "The World Turned Upside Down",
+            "artist": "Coldplay",
+            "id": 3986390
+        },
+        {
+            "name": "Proof",
+            "artist": "Coldplay",
+            "id": 3986395
+        },
+        {
+            "name": "Things I Don't Understand",
+            "artist": "Coldplay",
+            "id": 3986401
+        },
+        {
+            "name": "A Head Full Of Dreams",
+            "artist": "Coldplay",
+            "id": 37240628
+        },
+        {
+            "name": "Birds",
+            "artist": "Coldplay",
+            "id": 37239639
+        },
+        {
+            "name": "Hymn For The Weekend",
+            "artist": "Coldplay",
+            "id": 37240629
+        },
+        {
+            "name": "Everglow",
+            "artist": "Coldplay",
+            "id": 37240630
+        },
+        {
+            "name": "Adventure Of A Lifetime",
+            "artist": "Coldplay",
+            "id": 37239640
+        },
+        {
+            "name": "Fun",
+            "artist": "Coldplay",
+            "id": 37240631
+        },
+        {
+            "name": "Kaleidoscope",
+            "artist": "Coldplay",
+            "id": 37239641
+        },
+        {
+            "name": "Army Of One",
+            "artist": "Coldplay",
+            "id": 37240632
+        },
+        {
+            "name": "Amazing Day",
+            "artist": "Coldplay",
+            "id": 37239642
+        },
+        {
+            "name": "Colour Spectrum",
+            "artist": "Coldplay",
+            "id": 37240633
+        },
+        {
+            "name": "Up&Up",
+            "artist": "Coldplay",
+            "id": 37239643
+        },
+        {
+            "name": "Miracles",
+            "artist": "Coldplay",
+            "id": 37240634
+        },
+        {
+            "name": "Now My Feet Won't Touch The Ground",
+            "artist": "Coldplay",
+            "id": 22366626
+        }
+    ]
+}

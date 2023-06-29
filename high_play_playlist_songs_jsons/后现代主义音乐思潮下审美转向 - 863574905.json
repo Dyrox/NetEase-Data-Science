@@ -1,0 +1,897 @@
+{
+    "playlist_info": {
+        "name": "后现代主义音乐思潮下审美转向",
+        "trackcount": 177,
+        "playcount": 867739,
+        "creator": "夕阳下的盛宴",
+        "createDate": "2017-08-01",
+        "heat": 401.0
+    },
+    "songs": [
+        {
+            "name": "In A Landscape (1948)",
+            "artist": "John Cage",
+            "id": 1501879
+        },
+        {
+            "name": "Music For Marcel Duchamp (1947)",
+            "artist": "John Cage",
+            "id": 1501882
+        },
+        {
+            "name": "Dream (1948)",
+            "artist": "John Cage",
+            "id": 1501903
+        },
+        {
+            "name": "Organ2/ASLSP",
+            "artist": "John Cage",
+            "id": 27766532
+        },
+        {
+            "name": "Miserere Paraphrase",
+            "artist": "Michael Nyman",
+            "id": 1717881
+        },
+        {
+            "name": "The Disposition Of The Linen",
+            "artist": "Michael Nyman",
+            "id": 1718094
+        },
+        {
+            "name": "Drowning by Number 3",
+            "artist": "Michael Nyman",
+            "id": 1718045
+        },
+        {
+            "name": "Gruppen",
+            "artist": "Karlheinz Stockhausen",
+            "id": 452837
+        },
+        {
+            "name": "Gesang Der Jünglinge",
+            "artist": "Karlheinz Stockhausen",
+            "id": 453012
+        },
+        {
+            "name": "Stop",
+            "artist": "Karlheinz Stockhausen",
+            "id": 452903
+        },
+        {
+            "name": "Double Sextet: I. Fast",
+            "artist": "Eighth Blackbird",
+            "id": 21599543
+        },
+        {
+            "name": "Double Sextet: II. Slow",
+            "artist": "Eighth Blackbird",
+            "id": 21599544
+        },
+        {
+            "name": "Double Sextet: III. Fast",
+            "artist": "Eighth Blackbird",
+            "id": 21599545
+        },
+        {
+            "name": "The Lamb (For String Orchestra)",
+            "artist": "John Tavener",
+            "id": 412570090
+        },
+        {
+            "name": "The Protecting Veil: The Protecting Veil",
+            "artist": "Steven Isserlis",
+            "id": 22551171
+        },
+        {
+            "name": "The Protecting Veil: The Nativity of the Mother of God",
+            "artist": "Steven Isserlis",
+            "id": 22551172
+        },
+        {
+            "name": "The Protecting Veil: The Annunciation",
+            "artist": "Steven Isserlis",
+            "id": 22551173
+        },
+        {
+            "name": "The Protecting Veil, for Cello and Strings: IV. The Incarnation",
+            "artist": "Steven Isserlis",
+            "id": 22551174
+        },
+        {
+            "name": "The Protecting Veil: The Lament of the Mother of God at the Cross",
+            "artist": "Steven Isserlis",
+            "id": 22551175
+        },
+        {
+            "name": "Section I",
+            "artist": "Luciano Berio",
+            "id": 27746668
+        },
+        {
+            "name": "Section II",
+            "artist": "Luciano Berio",
+            "id": 27746669
+        },
+        {
+            "name": "Section III",
+            "artist": "Luciano Berio",
+            "id": 27746670
+        },
+        {
+            "name": "Section IV",
+            "artist": "Luciano Berio",
+            "id": 27746671
+        },
+        {
+            "name": "Meholalot",
+            "artist": "John Zorn",
+            "id": 1488724
+        },
+        {
+            "name": "Grand Guignol",
+            "artist": "John Zorn",
+            "id": 1490984
+        },
+        {
+            "name": "Ghosts Of Thelema",
+            "artist": "John Zorn",
+            "id": 18583225
+        },
+        {
+            "name": "The Sicilian Clan",
+            "artist": "John Zorn",
+            "id": 18583008
+        },
+        {
+            "name": "Piano Sonata:I. Maestoso, grand",
+            "artist": "Beata Moon",
+            "id": 465362252
+        },
+        {
+            "name": "Piano Sonata:II. Easygoing",
+            "artist": "Beata Moon",
+            "id": 465362253
+        },
+        {
+            "name": "Piano Sonata:III. Placid, simply",
+            "artist": "Beata Moon",
+            "id": 465362254
+        },
+        {
+            "name": "Piano Sonata:IV. Robust",
+            "artist": "Beata Moon",
+            "id": 465362255
+        },
+        {
+            "name": "Friends",
+            "artist": "Robert Ashley",
+            "id": 5326661
+        },
+        {
+            "name": "The Priest",
+            "artist": "Robert Ashley",
+            "id": 5326664
+        },
+        {
+            "name": "Tevot, Op. 24",
+            "artist": "Berliner Philharmoniker",
+            "id": 22370726
+        },
+        {
+            "name": "La chute d'Icare",
+            "artist": "Michele Marelli",
+            "id": 415739148
+        },
+        {
+            "name": "Esprit Rude, Esprit Doux For Flute And Clarinet",
+            "artist": "Elliott Carter",
+            "id": 1331189
+        },
+        {
+            "name": "Enchanted Preludes For Flute And Violoncello",
+            "artist": "Elliott Carter",
+            "id": 1331192
+        },
+        {
+            "name": "Riconoscenza Per Goffredo Petrassi For Solo Violin",
+            "artist": "Elliott Carter",
+            "id": 1331194
+        },
+        {
+            "name": "Triple Duo",
+            "artist": "Elliott Carter",
+            "id": 1331197
+        },
+        {
+            "name": "Different Trains:America, Before the War",
+            "artist": "Judith Sherman",
+            "id": 21599627
+        },
+        {
+            "name": "Different Trains:Europe, During the War",
+            "artist": "Judith Sherman",
+            "id": 21599628
+        },
+        {
+            "name": "Different Trains:After the War",
+            "artist": "Judith Sherman",
+            "id": 21599629
+        },
+        {
+            "name": "Symphonia: Sum Fluxae Pretium Spei:1. Partita",
+            "artist": "BBC Symphony Orchestra",
+            "id": 473143658
+        },
+        {
+            "name": "Symphonia: Sum Fluxae Pretium Spei:2. Adagio tenebroso",
+            "artist": "BBC Symphony Orchestra",
+            "id": 473143659
+        },
+        {
+            "name": "Symphonia: Sum Fluxae Pretium Spei:3. Allegro scorrevole",
+            "artist": "BBC Symphony Orchestra",
+            "id": 473143660
+        },
+        {
+            "name": "Three Pieces for Orchestra, Op. 6: I. Präludium",
+            "artist": "Pierre Boulez",
+            "id": 491237246
+        },
+        {
+            "name": "Three Pieces for Orchestra, Op. 6: II. Reigen",
+            "artist": "Pierre Boulez",
+            "id": 491237247
+        },
+        {
+            "name": "Three Pieces for Orchestra, Op. 6: III. Marsch",
+            "artist": "Pierre Boulez",
+            "id": 491237248
+        },
+        {
+            "name": "Short Ride in a Fast Machine",
+            "artist": "John Coolidge Adams",
+            "id": 27933940
+        },
+        {
+            "name": "Asyla, Op. 17:I. —",
+            "artist": "City of Birmingham Symphony Orchestra",
+            "id": 22484966
+        },
+        {
+            "name": "Asyla, Op. 17:II. —",
+            "artist": "City of Birmingham Symphony Orchestra",
+            "id": 22484967
+        },
+        {
+            "name": "Asyla, Op. 17:III. Ecstasio",
+            "artist": "City of Birmingham Symphony Orchestra",
+            "id": 22484968
+        },
+        {
+            "name": "Asyla, Op. 17:IV. —",
+            "artist": "City of Birmingham Symphony Orchestra",
+            "id": 22484969
+        },
+        {
+            "name": "Nickolaievski Soldat",
+            "artist": "Annie Gosfield",
+            "id": 16386136
+        },
+        {
+            "name": "Four Roses",
+            "artist": "Annie Gosfield",
+            "id": 16386140
+        },
+        {
+            "name": "Jagden und Formen (1995 - 2001):b. 1",
+            "artist": "Ensemble Modern",
+            "id": 473293182
+        },
+        {
+            "name": "Jagden und Formen (1995 - 2001):b. 142",
+            "artist": "Ensemble Modern",
+            "id": 473293183
+        },
+        {
+            "name": "Jagden und Formen (1995 - 2001):b. 161",
+            "artist": "Ensemble Modern",
+            "id": 473293184
+        },
+        {
+            "name": "Jagden und Formen (1995 - 2001):b. 189",
+            "artist": "Ensemble Modern",
+            "id": 473293185
+        },
+        {
+            "name": "Jagden und Formen (1995 - 2001):b. 254",
+            "artist": "Ensemble Modern",
+            "id": 473293186
+        },
+        {
+            "name": "Concerto For Piano And Orchestra No.2:1. Moderato",
+            "artist": "Christoph Eschenbach",
+            "id": 472959087
+        },
+        {
+            "name": "Concerto For Piano And Orchestra No.2:2. Vivace - Meno mosso - Tempo",
+            "artist": "Christoph Eschenbach",
+            "id": 472959088
+        },
+        {
+            "name": "Concerto For Piano And Orchestra No.2:3. Moderato",
+            "artist": "Christoph Eschenbach",
+            "id": 472959089
+        },
+        {
+            "name": "Symphony No. 7: I.       Tanz - Lebhaft und beseelt",
+            "artist": "City of Birmingham Symphony Orchestra",
+            "id": 22403832
+        },
+        {
+            "name": "Symphony No. 7: II.      Ruhig bewegt",
+            "artist": "City of Birmingham Symphony Orchestra",
+            "id": 22403833
+        },
+        {
+            "name": "Symphony No. 7: III.     Unablässig in Bewegung",
+            "artist": "City of Birmingham Symphony Orchestra",
+            "id": 22403834
+        },
+        {
+            "name": "Symphony No. 7: IV.    Ruhig, verhalten",
+            "artist": "City of Birmingham Symphony Orchestra",
+            "id": 22403835
+        },
+        {
+            "name": "Como una ola de fuerza y luz:Piano entry",
+            "artist": "Maurizio Pollini",
+            "id": 403806555
+        },
+        {
+            "name": "Masse:Omaggio a Edgar Varese",
+            "artist": "Maurizio Pollini",
+            "id": 403806560
+        },
+        {
+            "name": "....Sofferte onde serene....for piano and magnetic tape",
+            "artist": "Maurizio Pollini",
+            "id": 403806559
+        },
+        {
+            "name": "Como una ola de fuerza y luz:Orchestra entry",
+            "artist": "Maurizio Pollini",
+            "id": 403806557
+        },
+        {
+            "name": "I. Moderato",
+            "artist": "Alfred Schnittke",
+            "id": 1020210
+        },
+        {
+            "name": "II. In Tempo Di Valse",
+            "artist": "Alfred Schnittke",
+            "id": 1020215
+        },
+        {
+            "name": "III. Andante",
+            "artist": "Alfred Schnittke",
+            "id": 1020219
+        },
+        {
+            "name": "IV. Lento",
+            "artist": "Alfred Schnittke",
+            "id": 1020224
+        },
+        {
+            "name": "Andante",
+            "artist": "Alfred Schnittke",
+            "id": 1020187
+        },
+        {
+            "name": "Moderato",
+            "artist": "Alfred Schnittke",
+            "id": 1020191
+        },
+        {
+            "name": "Presto",
+            "artist": "Alfred Schnittke",
+            "id": 1020195
+        },
+        {
+            "name": "Nunc dimittis",
+            "artist": "Alfred Schnittke",
+            "id": 1020198
+        },
+        {
+            "name": "Four Proverbs:1. Better a Dish",
+            "artist": "Michael Torke",
+            "id": 422390500
+        },
+        {
+            "name": "Four Proverbs:2. Drink Water",
+            "artist": "Michael Torke",
+            "id": 422390501
+        },
+        {
+            "name": "Four Proverbs:3. One Man Pretends",
+            "artist": "Michael Torke",
+            "id": 422390502
+        },
+        {
+            "name": "Four Proverbs:4. There Is Joy",
+            "artist": "Michael Torke",
+            "id": 422390503
+        },
+        {
+            "name": "Delusion of the Fury: Exordium: The Beginning of a Web",
+            "artist": "Harry Partch",
+            "id": 1438652
+        },
+        {
+            "name": "Delusion of the Fury: Chorus of Shadows",
+            "artist": "Harry Partch",
+            "id": 1438655
+        },
+        {
+            "name": "Delusion of the Fury: The Pilgrimage",
+            "artist": "Harry Partch",
+            "id": 1438658
+        },
+        {
+            "name": "Delusion of the Fury: Emergence of the Spirit",
+            "artist": "Harry Partch",
+            "id": 1438661
+        },
+        {
+            "name": "Delusion of the Fury: A Son in Search of His Father's Face",
+            "artist": "Harry Partch",
+            "id": 1438664
+        },
+        {
+            "name": "Pierced (Gil Rose/ Real Quiet / Boston Modern Orchestra Project)",
+            "artist": "David Lang",
+            "id": 28748104
+        },
+        {
+            "name": "Cheating, Lying, Stealing (Evan Ziporyn)",
+            "artist": "David Lang",
+            "id": 28748106
+        },
+        {
+            "name": "How to Pray (Real Quiet)",
+            "artist": "David Lang",
+            "id": 28748107
+        },
+        {
+            "name": "Wed (Andrew Russo)",
+            "artist": "David Lang",
+            "id": 28748108
+        },
+        {
+            "name": "Second Violin Sonata : In The Barn, Presto, Allegro Moderato",
+            "artist": "Charles Edward Ives",
+            "id": 1196119
+        },
+        {
+            "name": "Second Violin Sonata : The Revival, Largo, Allegretto",
+            "artist": "Charles Edward Ives",
+            "id": 1196122
+        },
+        {
+            "name": "Adams: Harmonium (for large orchestra and chorus) - Part 1 - Negative Love",
+            "artist": "John Coolidge Adams",
+            "id": 1544988
+        },
+        {
+            "name": "Adams: Harmonium (for large orchestra and chorus) - Part 2 - Because I Could Not Stop For Death - Wild Nights",
+            "artist": "John Coolidge Adams",
+            "id": 1544993
+        },
+        {
+            "name": "On the Transmigration of Souls",
+            "artist": "John Coolidge Adams",
+            "id": 18570649
+        },
+        {
+            "name": "Violin Concerto:Introduction",
+            "artist": "Peter Sheppard Skærved",
+            "id": 465267531
+        },
+        {
+            "name": "Violin Concerto:Intermezzo A",
+            "artist": "Peter Sheppard Skærved",
+            "id": 465267532
+        },
+        {
+            "name": "Symphony No. 2:I. Declamando",
+            "artist": "Saarbrücken Radio Symphony Orchestra",
+            "id": 465267926
+        },
+        {
+            "name": "Symphony No. 2:II. Allegro scherzoso",
+            "artist": "Saarbrücken Radio Symphony Orchestra",
+            "id": 465267927
+        },
+        {
+            "name": "Symphony No. 2:III. Adagio",
+            "artist": "Saarbrücken Radio Symphony Orchestra",
+            "id": 465267928
+        },
+        {
+            "name": "Symphony No. 1:Apologue: Of Rage and Remembrance",
+            "artist": "Leonard Slatkin",
+            "id": 463919688
+        },
+        {
+            "name": "Symphony No. 1:Tarantella",
+            "artist": "Leonard Slatkin",
+            "id": 463919689
+        },
+        {
+            "name": "Symphony No. 1:Chaconne: Giulio's Song",
+            "artist": "Leonard Slatkin",
+            "id": 463919690
+        },
+        {
+            "name": "Symphony No. 1:Epilogue",
+            "artist": "Leonard Slatkin",
+            "id": 463919691
+        },
+        {
+            "name": "Eno: Music For Airports - 1/1",
+            "artist": "Bang on a Can",
+            "id": 473235271
+        },
+        {
+            "name": "Metastasis",
+            "artist": "Iannis Xenakis",
+            "id": 28798198
+        },
+        {
+            "name": "Persephassa (Fin)",
+            "artist": "Iannis Xenakis",
+            "id": 28798205
+        },
+        {
+            "name": "Synaphai",
+            "artist": "Iannis Xenakis",
+            "id": 27795732
+        },
+        {
+            "name": "Aroura",
+            "artist": "Iannis Xenakis",
+            "id": 27795733
+        },
+        {
+            "name": "Antikhthon",
+            "artist": "Iannis Xenakis",
+            "id": 27795734
+        },
+        {
+            "name": "Keqrops",
+            "artist": "Iannis Xenakis",
+            "id": 27795735
+        },
+        {
+            "name": "A Rainbow In Curved Air (Instrumental)",
+            "artist": "Terry Riley",
+            "id": 19271387
+        },
+        {
+            "name": "Poppy Nogood and the Phantom Band (Instrumental)",
+            "artist": "Terry Riley",
+            "id": 19271388
+        },
+        {
+            "name": "Requiem for Adam: 2. Cortejo Funebre en el Monte Diablo",
+            "artist": "Terry Riley",
+            "id": 2027120
+        },
+        {
+            "name": "For Philip Guston I (Tilbury, Rees, Allen)",
+            "artist": "Morton Feldman",
+            "id": 28327484
+        },
+        {
+            "name": "For Philip Guston II (Tilbury, Rees, Allen)",
+            "artist": "Morton Feldman",
+            "id": 28327483
+        },
+        {
+            "name": "For Philip Guston III (Tilbury, Rees, Allen)",
+            "artist": "Morton Feldman",
+            "id": 28327482
+        },
+        {
+            "name": "For Philip Guston IV (Tilbury, Rees, Allen)",
+            "artist": "Morton Feldman",
+            "id": 28327481
+        },
+        {
+            "name": "In Revolving Ash Light",
+            "artist": "John Oswald",
+            "id": 29023719
+        },
+        {
+            "name": "Clouds Cast",
+            "artist": "John Oswald",
+            "id": 29023718
+        },
+        {
+            "name": "Fault Forces",
+            "artist": "John Oswald",
+            "id": 29023721
+        },
+        {
+            "name": "Liturgien",
+            "artist": "Romain Bischoff",
+            "id": 465341100
+        },
+        {
+            "name": "Szenario",
+            "artist": "Mauricio Kagel",
+            "id": 465341093
+        },
+        {
+            "name": "Thursday Afternoon (2005 Digital Remaster)",
+            "artist": "Brian Eno",
+            "id": 1084534
+        },
+        {
+            "name": "Iced World",
+            "artist": "Brian Eno",
+            "id": 1084079
+        },
+        {
+            "name": "13 I 73 5:35-6:14:03 PM NYC",
+            "artist": "La Monte Young",
+            "id": 1679366
+        },
+        {
+            "name": "Drift Study 14 VII 73 9:27:27-10:06:41 PM NYC From Map Of 49's Dream Th",
+            "artist": "La Monte Young",
+            "id": 1679370
+        },
+        {
+            "name": "Messiaen: Méditations Sur Le Mystère De La Sainte Trinité - Méditation I",
+            "artist": "Olivier Messiaen",
+            "id": 5354197
+        },
+        {
+            "name": "Messiaen: Méditations Sur Le Mystère De La Sainte Trinité - Méditation II",
+            "artist": "Olivier Messiaen",
+            "id": 5354199
+        },
+        {
+            "name": "Messiaen: Méditations Sur Le Mystère De La Sainte Trinité - Méditation III",
+            "artist": "Olivier Messiaen",
+            "id": 5354201
+        },
+        {
+            "name": "Messiaen: Méditations Sur Le Mystère De La Sainte Trinité - Méditation IV",
+            "artist": "Olivier Messiaen",
+            "id": 5354203
+        },
+        {
+            "name": "Messiaen: Méditations Sur Le Mystère De La Sainte Trinité - Méditation V",
+            "artist": "Olivier Messiaen",
+            "id": 5354205
+        },
+        {
+            "name": "Symphony No. 3: I. Lento - Sostenuto Tranquillo Ma Cantabile",
+            "artist": "Henryk Gorecki",
+            "id": 401642700
+        },
+        {
+            "name": "Symphony No. 3: II. Lento E Largo - Tranquillissimo",
+            "artist": "Henryk Gorecki",
+            "id": 401642701
+        },
+        {
+            "name": "Symphony No. 3: III. Lento - Cantablile Semplice",
+            "artist": "Henryk Gorecki",
+            "id": 401642702
+        },
+        {
+            "name": "Samedi, 28. juin",
+            "artist": "Heiner Goebbels",
+            "id": 2705573
+        },
+        {
+            "name": "Jeudi, 3. juillet",
+            "artist": "Heiner Goebbels",
+            "id": 2705583
+        },
+        {
+            "name": "Verkommenes Ufer",
+            "artist": "Heiner Goebbels",
+            "id": 2705760
+        },
+        {
+            "name": "The Italian Concerto Writing II",
+            "artist": "Heiner Goebbels",
+            "id": 2705224
+        },
+        {
+            "name": "Ou Bien Sunyatta",
+            "artist": "Heiner Goebbels",
+            "id": 2705227
+        },
+        {
+            "name": "The Ring Dance of the Nazarene",
+            "artist": "Harrison Birtwistle",
+            "id": 28701129
+        },
+        {
+            "name": "I. O bone Jesu",
+            "artist": "Harrison Birtwistle",
+            "id": 28701130
+        },
+        {
+            "name": "II. Pange lingua",
+            "artist": "Harrison Birtwistle",
+            "id": 28701131
+        },
+        {
+            "name": "III. In supremae nocte cenae",
+            "artist": "Harrison Birtwistle",
+            "id": 28701132
+        },
+        {
+            "name": "Sinfonia for 8 Voices and Orchestra:3. In ruhig fließender Bewegung",
+            "artist": "Electric Phoenix",
+            "id": 399350606
+        },
+        {
+            "name": "Weather One",
+            "artist": "Michael Gordon",
+            "id": 16940458
+        },
+        {
+            "name": "Weather Two",
+            "artist": "Michael Gordon",
+            "id": 16940459
+        },
+        {
+            "name": "Tinge",
+            "artist": "Michael Gordon",
+            "id": 405680806
+        },
+        {
+            "name": "Light Is Calling",
+            "artist": "Michael Gordon",
+            "id": 405680811
+        },
+        {
+            "name": "Solo with accompaniment",
+            "artist": "Cornelius Cardew",
+            "id": 1189985
+        },
+        {
+            "name": "Second String Trio",
+            "artist": "Cornelius Cardew",
+            "id": 1190011
+        },
+        {
+            "name": "Autumn '60 [Version LL]",
+            "artist": "Cornelius Cardew",
+            "id": 1190022
+        },
+        {
+            "name": "November 1952",
+            "artist": "Earle Brown",
+            "id": 2545712
+        },
+        {
+            "name": "December 1952",
+            "artist": "Earle Brown",
+            "id": 2545714
+        },
+        {
+            "name": "Four Systems 1954",
+            "artist": "Earle Brown",
+            "id": 2545716
+        },
+        {
+            "name": "Lepton",
+            "artist": "Charles Wuorinen",
+            "id": 16954150
+        },
+        {
+            "name": "New York Notes I Part I",
+            "artist": "Charles Wuorinen",
+            "id": 16954151
+        },
+        {
+            "name": "New York Notes Ii Part Ii",
+            "artist": "Charles Wuorinen",
+            "id": 16954152
+        },
+        {
+            "name": "New York Notes Iii Part Iii",
+            "artist": "Charles Wuorinen",
+            "id": 16954153
+        },
+        {
+            "name": "Time Perspectives",
+            "artist": "Pauline Oliveros",
+            "id": 18215128
+        },
+        {
+            "name": "Duo for Accordion & Bandoneon",
+            "artist": "Pauline Oliveros",
+            "id": 3242342
+        },
+        {
+            "name": "Burdocks",
+            "artist": "Christian Wolff",
+            "id": 16939218
+        },
+        {
+            "name": "Trio Iii I Movement 1",
+            "artist": "Christian Wolff",
+            "id": 16939220
+        },
+        {
+            "name": "Trio Iii Ii Movement 2",
+            "artist": "Christian Wolff",
+            "id": 16939221
+        },
+        {
+            "name": "Trio Iii Iii Movement 3",
+            "artist": "Christian Wolff",
+            "id": 16939222
+        },
+        {
+            "name": "Trio Iii Iv Movement 4",
+            "artist": "Christian Wolff",
+            "id": 16939223
+        },
+        {
+            "name": "Atmospheres",
+            "artist": "György Ligeti",
+            "id": 27602863
+        },
+        {
+            "name": "Apparitions, for orchestra: 1. Lento",
+            "artist": "György Ligeti",
+            "id": 28718355
+        },
+        {
+            "name": "Apparitions, for orchestra: 2. Agitato",
+            "artist": "György Ligeti",
+            "id": 28718356
+        },
+        {
+            "name": "György Ligeti: Poème Symphonique For 100 Metronomes (1962)",
+            "artist": "Françoise Terrioux",
+            "id": 28718536
+        },
+        {
+            "name": "Sentire …",
+            "artist": "Robert Schenck",
+            "id": 465884112
+        },
+        {
+            "name": "Neither nor",
+            "artist": "Ingegerd Tyrenius",
+            "id": 465884113
+        },
+        {
+            "name": "Sonata for Flute Solo",
+            "artist": "Alf Andersen",
+            "id": 465884114
+        },
+        {
+            "name": "Synaptic Island",
+            "artist": "Maryanne Amacher",
+            "id": 3117567
+        },
+        {
+            "name": "A Step into It, Imagining 1001 Years",
+            "artist": "Maryanne Amacher",
+            "id": 3117579
+        }
+    ]
+}

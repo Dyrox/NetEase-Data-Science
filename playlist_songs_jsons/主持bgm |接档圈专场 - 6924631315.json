@@ -1,0 +1,962 @@
+{
+    "playlist_info": {
+        "name": "主持bgm |接档圈专场",
+        "trackcount": 190,
+        "playcount": 5794,
+        "creator": "希不是小学生",
+        "createDate": "2021-08-18",
+        "heat": 8.0
+    },
+    "songs": [
+        {
+            "name": "Gee",
+            "artist": "少女时代",
+            "id": 26082036
+        },
+        {
+            "name": "WHO YOU?",
+            "artist": "G-DRAGON",
+            "id": 30854101
+        },
+        {
+            "name": "위아래",
+            "artist": "EXID",
+            "id": 29011143
+        },
+        {
+            "name": "上瘾 (Overdose)",
+            "artist": "EXO-M",
+            "id": 28497217
+        },
+        {
+            "name": "CALL ME BABY",
+            "artist": "EXO",
+            "id": 31191712
+        },
+        {
+            "name": "Baby, Don't Cry (人鱼的眼泪)",
+            "artist": "EXO",
+            "id": 26428032
+        },
+        {
+            "name": "Alive",
+            "artist": "张艺兴",
+            "id": 2047743493
+        },
+        {
+            "name": "I NEED U(Japanese Ver.)",
+            "artist": "BTS (防弹少年团)",
+            "id": 39224196
+        },
+        {
+            "name": "하루하루",
+            "artist": "BIGBANG",
+            "id": 22673504
+        },
+        {
+            "name": "IF YOU",
+            "artist": "BIGBANG",
+            "id": 32922450
+        },
+        {
+            "name": "Heaven",
+            "artist": "顾湫风",
+            "id": 2053321635
+        },
+        {
+            "name": "LEFT RIGHT",
+            "artist": "XG",
+            "id": 2014227030
+        },
+        {
+            "name": "落泪",
+            "artist": "康熙",
+            "id": 2021434589
+        },
+        {
+            "name": "3d girl沒有愛ฅ۶•ﻌ•♡（Prod By RoyalBoi）",
+            "artist": "kellomiii",
+            "id": 1869405094
+        },
+        {
+            "name": "翠花",
+            "artist": "DP龙猪",
+            "id": 2046829307
+        },
+        {
+            "name": "You are mine",
+            "artist": "鱼骨妹",
+            "id": 1977513740
+        },
+        {
+            "name": "你的crush降临了吗",
+            "artist": "歪歪超",
+            "id": 2008014761
+        },
+        {
+            "name": "午夜恰恰",
+            "artist": "邓典",
+            "id": 1992997073
+        },
+        {
+            "name": "Rude Boy",
+            "artist": "Rihanna",
+            "id": 3313757
+        },
+        {
+            "name": "我的爱如烈火",
+            "artist": "xxxmiracle",
+            "id": 2024654768
+        },
+        {
+            "name": "回答",
+            "artist": "YOUNG",
+            "id": 1994863874
+        },
+        {
+            "name": "雪 Distance",
+            "artist": "Capper",
+            "id": 2026224214
+        },
+        {
+            "name": "苦咖啡·唯一",
+            "artist": "那奇沃夫",
+            "id": 2023954033
+        },
+        {
+            "name": "街头爱",
+            "artist": "KIV",
+            "id": 1958727888
+        },
+        {
+            "name": "Sweetest Pie Sped",
+            "artist": "Ealle",
+            "id": 1982909126
+        },
+        {
+            "name": "我不想取名freestyle",
+            "artist": "SSr",
+            "id": 1936282940
+        },
+        {
+            "name": "Not Too Late",
+            "artist": "ljz329",
+            "id": 2024913097
+        },
+        {
+            "name": "Last Day",
+            "artist": "ljz329",
+            "id": 2025185099
+        },
+        {
+            "name": "Rapping freestyle",
+            "artist": "ICE杨长青",
+            "id": 1948756996
+        },
+        {
+            "name": "streets x kiss it better - sped up",
+            "artist": "INDRAGERSN",
+            "id": 2017227958
+        },
+        {
+            "name": "RELAX",
+            "artist": "满舒克",
+            "id": 1301575841
+        },
+        {
+            "name": "循迹",
+            "artist": "王子健",
+            "id": 2018432856
+        },
+        {
+            "name": "恶作剧",
+            "artist": "林依晨",
+            "id": 255574
+        },
+        {
+            "name": "九九八十一（翻自 乐正绫 / 洛天依）",
+            "artist": "双笙（陈元汐）",
+            "id": 409649830
+        },
+        {
+            "name": "Розовое вино",
+            "artist": "Элджей",
+            "id": 506092958
+        },
+        {
+            "name": "A Nonsense Christmas",
+            "artist": "Sabrina Carpenter",
+            "id": 2005133691
+        },
+        {
+            "name": "给你的爱Luv4U",
+            "artist": "Jum80TrebleZ",
+            "id": 2002696994
+        },
+        {
+            "name": "GOOD PUSS",
+            "artist": "COBRAH",
+            "id": 1858020063
+        },
+        {
+            "name": "Move Your Feet",
+            "artist": "Mike Candys",
+            "id": 1962116655
+        },
+        {
+            "name": "What You Want",
+            "artist": "Ilkay Sencan",
+            "id": 1335350266
+        },
+        {
+            "name": "招牌 Swing",
+            "artist": "LEGGO",
+            "id": 1857270974
+        },
+        {
+            "name": "红包大作战",
+            "artist": "ONER",
+            "id": 1954406182
+        },
+        {
+            "name": "满汉全席",
+            "artist": "ONER",
+            "id": 1818818840
+        },
+        {
+            "name": "大貔貅",
+            "artist": "ONER",
+            "id": 2014304695
+        },
+        {
+            "name": "Celebrate",
+            "artist": "Ingrid Michaelson",
+            "id": 1444926073
+        },
+        {
+            "name": "Bombshell",
+            "artist": "弹壳Danko",
+            "id": 1961990680
+        },
+        {
+            "name": "衔尾蛇",
+            "artist": "Capper",
+            "id": 1908083436
+        },
+        {
+            "name": "柑橘乌云",
+            "artist": "Capper",
+            "id": 1908083479
+        },
+        {
+            "name": "克什米尔山羊",
+            "artist": "Capper",
+            "id": 1908487538
+        },
+        {
+            "name": "DAWAI",
+            "artist": "ДЕТИ RAVE",
+            "id": 1975811775
+        },
+        {
+            "name": "精卫",
+            "artist": "30年前，50年后",
+            "id": 1951069525
+        },
+        {
+            "name": "Step Back!",
+            "artist": "1nonly",
+            "id": 1977106849
+        },
+        {
+            "name": "比巴卜",
+            "artist": "Credit",
+            "id": 1859709339
+        },
+        {
+            "name": "天使俱乐部",
+            "artist": "Capper",
+            "id": 1908081400
+        },
+        {
+            "name": "大举进攻",
+            "artist": "幸存者联盟",
+            "id": 1806342356
+        },
+        {
+            "name": "年轻的国王们",
+            "artist": "Capper",
+            "id": 1908081373
+        },
+        {
+            "name": "王位",
+            "artist": "杨和苏KeyNG",
+            "id": 1980472718
+        },
+        {
+            "name": "星空叙爱曲",
+            "artist": "法老",
+            "id": 1969908030
+        },
+        {
+            "name": "无限月读",
+            "artist": "那奇沃夫",
+            "id": 1947125887
+        },
+        {
+            "name": "会魔法的老人",
+            "artist": "法老",
+            "id": 1988564487
+        },
+        {
+            "name": "黑曼巴",
+            "artist": "BrAnTB白景屹",
+            "id": 2007359512
+        },
+        {
+            "name": "他在乎（我去世了，然后...）",
+            "artist": "Spylent",
+            "id": 1924072773
+        },
+        {
+            "name": "123",
+            "artist": "SSr",
+            "id": 2002753297
+        },
+        {
+            "name": "晚安 Good Nite (LIVE版)",
+            "artist": "Capper",
+            "id": 1958961030
+        },
+        {
+            "name": "嘻哈帝国 (Empire)",
+            "artist": "Higher Brothers",
+            "id": 1492886323
+        },
+        {
+            "name": "一瓶子不满半罐子晃",
+            "artist": "黄旭",
+            "id": 1885943495
+        },
+        {
+            "name": "忏悔录",
+            "artist": "KKECHO",
+            "id": 1970396862
+        },
+        {
+            "name": "五百二十赫兹",
+            "artist": "Capper",
+            "id": 1948572170
+        },
+        {
+            "name": "Mamma Mia",
+            "artist": "Hugel",
+            "id": 1359232604
+        },
+        {
+            "name": "Xanadu",
+            "artist": "Ummet Ozcan",
+            "id": 1971291768
+        },
+        {
+            "name": "No Love",
+            "artist": "АДЛИН",
+            "id": 1879469323
+        },
+        {
+            "name": "牛马Disco",
+            "artist": "Chenyu陈鱼！",
+            "id": 1953816264
+        },
+        {
+            "name": "Feel Right Now (feat. Nonô)",
+            "artist": "Parx",
+            "id": 1451122329
+        },
+        {
+            "name": "Queen Bee (Radio Edit)",
+            "artist": "SURA",
+            "id": 1901011580
+        },
+        {
+            "name": "鸟酱",
+            "artist": "SipSu小口酥",
+            "id": 1461418000
+        },
+        {
+            "name": "6ackPack",
+            "artist": "GALI",
+            "id": 1921262342
+        },
+        {
+            "name": "Sweetest Pie",
+            "artist": "Megan Thee Stallion",
+            "id": 1926770874
+        },
+        {
+            "name": "No Lie",
+            "artist": "Sean Paul",
+            "id": 441491066
+        },
+        {
+            "name": "Tiktok Baby",
+            "artist": "947.ASH",
+            "id": 1948907975
+        },
+        {
+            "name": "Yellow Tower",
+            "artist": "Nasr Jackson",
+            "id": 1935853137
+        },
+        {
+            "name": "RAVE",
+            "artist": "Dxrk ダーク",
+            "id": 1924995800
+        },
+        {
+            "name": "The Minimal Beat",
+            "artist": "Strong R.",
+            "id": 1426075426
+        },
+        {
+            "name": "Super Freaky Girl",
+            "artist": "Nicki Minaj",
+            "id": 1971665079
+        },
+        {
+            "name": "Cure For Me",
+            "artist": "AURORA",
+            "id": 1880747297
+        },
+        {
+            "name": "Jiggle Jiggle",
+            "artist": "Duke & Jones",
+            "id": 1946751557
+        },
+        {
+            "name": "Sweet Dreams (Mixed)",
+            "artist": "Breathe Carolina",
+            "id": 1334248867
+        },
+        {
+            "name": "坏 女 人",
+            "artist": "尤超白",
+            "id": 1424191469
+        },
+        {
+            "name": "最渣男主角",
+            "artist": "Shooter",
+            "id": 1894316939
+        },
+        {
+            "name": "Aladin (Devochka & Douth! Remix)",
+            "artist": "Mandragora",
+            "id": 1436359941
+        },
+        {
+            "name": "Right Now (Na Na Na) （0.7X）",
+            "artist": "Wangzihui",
+            "id": 1916381020
+        },
+        {
+            "name": "Smoke (G-HOUSE)",
+            "artist": "Akif Sarıkaya",
+            "id": 1374044628
+        },
+        {
+            "name": "Breathin(Remix)",
+            "artist": "宋善恩",
+            "id": 1831812154
+        },
+        {
+            "name": "Changes",
+            "artist": "No Hopes",
+            "id": 451113381
+        },
+        {
+            "name": "Touch",
+            "artist": "3LAU",
+            "id": 534228257
+        },
+        {
+            "name": "奇迹再现",
+            "artist": "毛华锋",
+            "id": 1461256747
+        },
+        {
+            "name": "会刷全麦（PROD BY GOATCREW）",
+            "artist": "摇头风",
+            "id": 1806195961
+        },
+        {
+            "name": "名模之路（Prod By FireX）",
+            "artist": "之青",
+            "id": 1805219986
+        },
+        {
+            "name": "One B-Boy",
+            "artist": "DJ Pablo",
+            "id": 17271830
+        },
+        {
+            "name": "Angels",
+            "artist": "Vicetone",
+            "id": 31566626
+        },
+        {
+            "name": "要命",
+            "artist": "JoJo是JoJo",
+            "id": 1865457478
+        },
+        {
+            "name": "No77",
+            "artist": "Kc",
+            "id": 1836406163
+        },
+        {
+            "name": "Super Freaky Girl",
+            "artist": "Nicki Minaj",
+            "id": 1971665666
+        },
+        {
+            "name": "姐姐",
+            "artist": "DouDou",
+            "id": 1909447693
+        },
+        {
+            "name": "인싸아싸 (Inssa Assa)",
+            "artist": "Turbotronic",
+            "id": 1405089020
+        },
+        {
+            "name": "Taped Up Heart",
+            "artist": "KREAM",
+            "id": 435417785
+        },
+        {
+            "name": "One Kiss",
+            "artist": "Calvin Harris",
+            "id": 549800783
+        },
+        {
+            "name": "Scars To Your Beautiful",
+            "artist": "Alessia Cara",
+            "id": 406407033
+        },
+        {
+            "name": "ZOOM",
+            "artist": "野生三十",
+            "id": 1938618421
+        },
+        {
+            "name": "燕子 没有你我要怎么活",
+            "artist": "小麻M.Refre$H",
+            "id": 1945319218
+        },
+        {
+            "name": "Catch (Radio Edit)",
+            "artist": "Will Sparks",
+            "id": 28497005
+        },
+        {
+            "name": "Work That Body",
+            "artist": "Toomanylefthands",
+            "id": 1484259880
+        },
+        {
+            "name": "B.L.O.W.",
+            "artist": "Kongsted",
+            "id": 536917576
+        },
+        {
+            "name": "Beggin'",
+            "artist": "Måneskin",
+            "id": 523003357
+        },
+        {
+            "name": "11",
+            "artist": "队长",
+            "id": 1907766514
+        },
+        {
+            "name": "Boom (Remix)",
+            "artist": "Lea",
+            "id": 1910122452
+        },
+        {
+            "name": "Без повода",
+            "artist": "Сява",
+            "id": 1393121310
+        },
+        {
+            "name": "Make That Ass Shake (ILLYA 2.0 Litefeet edit)",
+            "artist": "Groove Dealers",
+            "id": 1320523106
+        },
+        {
+            "name": "Nobody",
+            "artist": "INNA",
+            "id": 1454282909
+        },
+        {
+            "name": "Murder",
+            "artist": "Soulji",
+            "id": 556204163
+        },
+        {
+            "name": "Diamonds",
+            "artist": "Rihanna",
+            "id": 21563184
+        },
+        {
+            "name": "WHAT",
+            "artist": "Rnbstylerz",
+            "id": 1448260853
+        },
+        {
+            "name": "Living for the Moment (Croatia Squad Radio Mix)",
+            "artist": "Me & My Toothbrush",
+            "id": 562122079
+        },
+        {
+            "name": "Jason.c - Bolumback(Jason.c Extended Mix)",
+            "artist": "Jason.c",
+            "id": 487387212
+        },
+        {
+            "name": "STRESSIN",
+            "artist": "Hedegaard",
+            "id": 1370162681
+        },
+        {
+            "name": "Loco Papi",
+            "artist": "Sevenn",
+            "id": 1387530299
+        },
+        {
+            "name": "Vidlik",
+            "artist": "ONUKA",
+            "id": 465527023
+        },
+        {
+            "name": "TIME BACK",
+            "artist": "DJ韩洋",
+            "id": 1886116660
+        },
+        {
+            "name": "Not the One x",
+            "artist": "Vietnam",
+            "id": 1497155218
+        },
+        {
+            "name": "Morze",
+            "artist": "Slider & Magnit",
+            "id": 1369658060
+        },
+        {
+            "name": "Từ Chối Nhẹ Nhàng (Prog Mix)",
+            "artist": "GneHHHc",
+            "id": 1853975042
+        },
+        {
+            "name": "Lake Arrowhead X Rolling In The Deep (Otrov Mashup)",
+            "artist": "Otrov",
+            "id": 1808388545
+        },
+        {
+            "name": "Uber",
+            "artist": "Sevenn",
+            "id": 1425270553
+        },
+        {
+            "name": "Salt",
+            "artist": "Amy Peters",
+            "id": 1384056805
+        },
+        {
+            "name": "All for my girl",
+            "artist": "Lambert",
+            "id": 1442576664
+        },
+        {
+            "name": "大唐Gang （prod by.Fantom）",
+            "artist": "倒悬的橘子",
+            "id": 1810577953
+        },
+        {
+            "name": "我不押了",
+            "artist": "OWEN欧阳子文",
+            "id": 1393575868
+        },
+        {
+            "name": "Work This Out",
+            "artist": "Frank Pole",
+            "id": 522510373
+        },
+        {
+            "name": "High Days ",
+            "artist": "Hoved",
+            "id": 1338495341
+        },
+        {
+            "name": "Follow Me",
+            "artist": "Pink Panda",
+            "id": 476324207
+        },
+        {
+            "name": "Don't Stop Now",
+            "artist": "Ben Phipps",
+            "id": 536396243
+        },
+        {
+            "name": "Heartless",
+            "artist": "Nick Peters",
+            "id": 1309715770
+        },
+        {
+            "name": "2002",
+            "artist": "Anne-Marie",
+            "id": 554146736
+        },
+        {
+            "name": "Ain't My Fault",
+            "artist": "Zara Larsson",
+            "id": 428375694
+        },
+        {
+            "name": "Wassuh",
+            "artist": "AQVOL",
+            "id": 526099067
+        },
+        {
+            "name": "Hey Mama",
+            "artist": "Monk",
+            "id": 1830799856
+        },
+        {
+            "name": "All That",
+            "artist": "Drama Relax",
+            "id": 1384477887
+        },
+        {
+            "name": "16 Shots",
+            "artist": "Stefflon Don",
+            "id": 447281871
+        },
+        {
+            "name": "Used To",
+            "artist": "James Carter",
+            "id": 1347814906
+        },
+        {
+            "name": "Real Love",
+            "artist": "illstrtd",
+            "id": 1382547411
+        },
+        {
+            "name": "Westcoast",
+            "artist": "YULTRON",
+            "id": 1387516693
+        },
+        {
+            "name": "Space",
+            "artist": "Famba",
+            "id": 499465427
+        },
+        {
+            "name": "River",
+            "artist": "Bishop Briggs",
+            "id": 402070513
+        },
+        {
+            "name": "You",
+            "artist": "Regard",
+            "id": 1835950126
+        },
+        {
+            "name": "My Bass",
+            "artist": "Cevith",
+            "id": 862417811
+        },
+        {
+            "name": "Riot",
+            "artist": "珞三",
+            "id": 1851819039
+        },
+        {
+            "name": "One casual song(Remix)",
+            "artist": "GLWestRoad",
+            "id": 1426851731
+        },
+        {
+            "name": "动感光波",
+            "artist": "KUEI",
+            "id": 1834438002
+        },
+        {
+            "name": "失去控制 Lose control (feat. KnowKnow)",
+            "artist": "PSY.P",
+            "id": 1449821006
+        },
+        {
+            "name": "过",
+            "artist": "王嘉尔",
+            "id": 1804879213
+        },
+        {
+            "name": "Herside Story",
+            "artist": "GoldLink",
+            "id": 467590342
+        },
+        {
+            "name": "MORE-MIRACLE（翻自 KDA）",
+            "artist": "逗子",
+            "id": 1493808273
+        },
+        {
+            "name": "Feel The Fire (Egzod Remix)",
+            "artist": "Pluto",
+            "id": 444324932
+        },
+        {
+            "name": "罗生门（Follow）",
+            "artist": "梨冻紧",
+            "id": 1456890009
+        },
+        {
+            "name": "棕旨",
+            "artist": "Ice Paper",
+            "id": 1321929928
+        },
+        {
+            "name": "Riding on the elephant",
+            "artist": "J GOD",
+            "id": 1479497842
+        },
+        {
+            "name": "最炫民族风(Live)",
+            "artist": "凤凰传奇",
+            "id": 29418062
+        },
+        {
+            "name": "Do Somethin'",
+            "artist": "Britney Spears",
+            "id": 20515728
+        },
+        {
+            "name": "SeaKaSoul",
+            "artist": "二狗子Saddoggy",
+            "id": 1477098436
+        },
+        {
+            "name": "We Don't Talk Anymore",
+            "artist": "Charlie Puth",
+            "id": 401249910
+        },
+        {
+            "name": "Good Form",
+            "artist": "Nicki Minaj",
+            "id": 1329840586
+        },
+        {
+            "name": "There For You",
+            "artist": "Uzller",
+            "id": 1468878443
+        },
+        {
+            "name": "Beggin' (Feat. C Dot Castro)",
+            "artist": "Logic",
+            "id": 29717114
+        },
+        {
+            "name": "Falling",
+            "artist": "Trevor Daniel",
+            "id": 1317116094
+        },
+        {
+            "name": "Loco Papi",
+            "artist": "Sevenn",
+            "id": 1371508067
+        },
+        {
+            "name": "Champagne",
+            "artist": "Adoo",
+            "id": 470211564
+        },
+        {
+            "name": "Me Too",
+            "artist": "Meghan Trainor",
+            "id": 411921480
+        },
+        {
+            "name": "사뿐사뿐",
+            "artist": "AOA",
+            "id": 29719782
+        },
+        {
+            "name": "Ibiza",
+            "artist": "Tyga",
+            "id": 1458224876
+        },
+        {
+            "name": "Take It Off",
+            "artist": "Kesha",
+            "id": 2918956
+        },
+        {
+            "name": "Trouble Maker",
+            "artist": "Trouble Maker",
+            "id": 22843672
+        },
+        {
+            "name": "筱天才-幻术摇摆（筱天才 remix）",
+            "artist": "筱天才",
+            "id": 1497402673
+        },
+        {
+            "name": "YEU 5 (Rhymastic's Remix)",
+            "artist": "F-tidal night",
+            "id": 1807286296
+        },
+        {
+            "name": "Drop That Skirt（抖音）",
+            "artist": "无需关风月",
+            "id": 1864447613
+        },
+        {
+            "name": "Boom沙卡拉卡",
+            "artist": "Hertz赫兹",
+            "id": 1440620621
+        },
+        {
+            "name": "M to the B",
+            "artist": "Millie B",
+            "id": 1479658204
+        },
+        {
+            "name": "血、汗、涙 (Japanese ver.)",
+            "artist": "BTS (防弹少年团)",
+            "id": 477458044
+        },
+        {
+            "name": "★kiss me baby☆（吻我，宝）",
+            "artist": "Victor☆",
+            "id": 1835009703
+        },
+        {
+            "name": "头顶天脚踩地，听这曲就有多霸气",
+            "artist": "Mc苏刚",
+            "id": 29793229
+        },
+        {
+            "name": "Say My Name",
+            "artist": "NIKI",
+            "id": 565841054
+        },
+        {
+            "name": "东北浩室（prod by 孙次郎）",
+            "artist": "CBG藏宝阁",
+            "id": 1418357544
+        }
+    ]
+}

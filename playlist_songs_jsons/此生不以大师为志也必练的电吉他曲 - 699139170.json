@@ -1,0 +1,617 @@
+{
+    "playlist_info": {
+        "name": "此生不以大师为志也必练的电吉他曲",
+        "trackcount": 121,
+        "playcount": 138044,
+        "creator": "聿戎",
+        "createDate": "2017-04-16",
+        "heat": 60.0
+    },
+    "songs": [
+        {
+            "name": "Whales Of Atlantis",
+            "artist": "Aschera",
+            "id": 16250922
+        },
+        {
+            "name": "Still Loving You",
+            "artist": "Kfir Ochaion",
+            "id": 1445154050
+        },
+        {
+            "name": "The Wind That Shakes the Heart",
+            "artist": "Andy James",
+            "id": 1435280621
+        },
+        {
+            "name": "Rock You Like a Hurricane",
+            "artist": "Kfir Ochaion",
+            "id": 1914048682
+        },
+        {
+            "name": "Still Got the Blues",
+            "artist": "Kfir Ochaion",
+            "id": 1501908906
+        },
+        {
+            "name": "The House of the Rising Sun",
+            "artist": "Kfir Ochaion",
+            "id": 1501908902
+        },
+        {
+            "name": "Chandelier (Metal)",
+            "artist": "Kfir Ochaion",
+            "id": 1501908903
+        },
+        {
+            "name": "Careless Whisper (Metal)",
+            "artist": "Kfir Ochaion",
+            "id": 1501911675
+        },
+        {
+            "name": "Hotel California",
+            "artist": "Kfir Ochaion",
+            "id": 1501908898
+        },
+        {
+            "name": "Mr. Crowley",
+            "artist": "Yngwie Malmsteen",
+            "id": 536850579
+        },
+        {
+            "name": "Esperança",
+            "artist": "Ozielzinho",
+            "id": 1359357250
+        },
+        {
+            "name": "Amanhecer",
+            "artist": "Ozielzinho",
+            "id": 1359356584
+        },
+        {
+            "name": "여행을 떠나요 (Instrumental)",
+            "artist": "金世晃",
+            "id": 537804998
+        },
+        {
+            "name": "Silent Night, Holy Night (Going Home)",
+            "artist": "金世晃",
+            "id": 537804992
+        },
+        {
+            "name": "Nostalgia",
+            "artist": "金世晃",
+            "id": 480583124
+        },
+        {
+            "name": "Farewell Ballad",
+            "artist": "Black Label Society",
+            "id": 1898113104
+        },
+        {
+            "name": "James Franco",
+            "artist": "Polyphia",
+            "id": 28983126
+        },
+        {
+            "name": "Mind Control (feat. Marco Sfogli)",
+            "artist": "Carlos Cruz Project",
+            "id": 1918818359
+        },
+        {
+            "name": "Until The Next time",
+            "artist": "Dave Meniketti",
+            "id": 17342852
+        },
+        {
+            "name": "Scuttle Buttin'",
+            "artist": "Stevie Ray Vaughan",
+            "id": 1939910
+        },
+        {
+            "name": "Wild Hearts",
+            "artist": "春畑道哉",
+            "id": 33391880
+        },
+        {
+            "name": "I'll Play The Blues For You",
+            "artist": "Jeff Golub",
+            "id": 1592371
+        },
+        {
+            "name": "Altitudes",
+            "artist": "Jason Becker",
+            "id": 1497056
+        },
+        {
+            "name": "My Heart Sometimes",
+            "artist": "Arch Echo",
+            "id": 479219281
+        },
+        {
+            "name": "Culture Shock",
+            "artist": "Polyphia",
+            "id": 407000138
+        },
+        {
+            "name": "Esperança",
+            "artist": "Ozielzinho",
+            "id": 1359356564
+        },
+        {
+            "name": "Amanhecer",
+            "artist": "Ozielzinho",
+            "id": 1359357249
+        },
+        {
+            "name": "Meridian",
+            "artist": "Intervals",
+            "id": 40047168
+        },
+        {
+            "name": "Sunset 1986",
+            "artist": "Project Gemini And The Space Donkeys",
+            "id": 33872376
+        },
+        {
+            "name": "Sweet Tooth",
+            "artist": "Intervals",
+            "id": 40047165
+        },
+        {
+            "name": "Jaws Of Life",
+            "artist": "John Petrucci",
+            "id": 1482505
+        },
+        {
+            "name": "Still Hurts",
+            "artist": "Marco Sfogli",
+            "id": 1771332
+        },
+        {
+            "name": "Light",
+            "artist": "Polyphia",
+            "id": 407000139
+        },
+        {
+            "name": "Libra",
+            "artist": "Intervals",
+            "id": 40047169
+        },
+        {
+            "name": "Belvedere",
+            "artist": "Intervals",
+            "id": 522631199
+        },
+        {
+            "name": "Intermezzo Liberté",
+            "artist": "Arch Enemy",
+            "id": 16505195
+        },
+        {
+            "name": "String Theory",
+            "artist": "Intervals",
+            "id": 1480366772
+        },
+        {
+            "name": "Bittersweet",
+            "artist": "Polyphia",
+            "id": 407000143
+        },
+        {
+            "name": "川",
+            "artist": "纪元",
+            "id": 25923413
+        },
+        {
+            "name": "Miles of Machines",
+            "artist": "Jeff Loomis",
+            "id": 18611638
+        },
+        {
+            "name": "Trilogy Suite Op: 5",
+            "artist": "Yngwie Malmsteen",
+            "id": 2104019
+        },
+        {
+            "name": "City Sunrise",
+            "artist": "Gary Hoey",
+            "id": 17942773
+        },
+        {
+            "name": "旧历",
+            "artist": "Beyond",
+            "id": 346798
+        },
+        {
+            "name": "17th Century Chicken Pickin'",
+            "artist": "Impellitteri",
+            "id": 19943679
+        },
+        {
+            "name": "Lock & Key",
+            "artist": "Intervals",
+            "id": 1480344666
+        },
+        {
+            "name": "Starry Night",
+            "artist": "Joe Satriani",
+            "id": 18621916
+        },
+        {
+            "name": "Northern Breeze",
+            "artist": "Elias Viljanen",
+            "id": 1338582
+        },
+        {
+            "name": "No Gravity (Full length Version)",
+            "artist": "Kiko Loureiro",
+            "id": 18961648
+        },
+        {
+            "name": "Fiesta Funk",
+            "artist": "Jose De Castro",
+            "id": 1600023
+        },
+        {
+            "name": "Wishful Thinking",
+            "artist": "John Petrucci",
+            "id": 1482523
+        },
+        {
+            "name": "The Fire and the Fury",
+            "artist": "Firewind",
+            "id": 17789779
+        },
+        {
+            "name": "No Boundaries",
+            "artist": "Michael Angelo",
+            "id": 1702487
+        },
+        {
+            "name": "Gemini 16",
+            "artist": "Project Gemini And The Space Donkeys",
+            "id": 33872374
+        },
+        {
+            "name": "Pixel Invasion (feat. Andy James)",
+            "artist": "Jason Kui",
+            "id": 1420908223
+        },
+        {
+            "name": "Moyra",
+            "artist": "Marcel Coenen",
+            "id": 1734319
+        },
+        {
+            "name": "Waterslide",
+            "artist": "CHON",
+            "id": 480163462
+        },
+        {
+            "name": "Bipolarity",
+            "artist": "Vitalism",
+            "id": 1369394342
+        },
+        {
+            "name": "California Dreamin'",
+            "artist": "Gary Hoey",
+            "id": 17942888
+        },
+        {
+            "name": "Loud",
+            "artist": "Polyphia",
+            "id": 559735794
+        },
+        {
+            "name": "Sweet",
+            "artist": "George Gorostiza",
+            "id": 1416991041
+        },
+        {
+            "name": "Over The Rainbow",
+            "artist": "Impellitteri",
+            "id": 2751183
+        },
+        {
+            "name": "Pink Champagne Sparkle",
+            "artist": "Andy Timmons",
+            "id": 1003564
+        },
+        {
+            "name": "Gone",
+            "artist": "Andy James",
+            "id": 476630054
+        },
+        {
+            "name": "And Then...",
+            "artist": "David Gilmour",
+            "id": 34770163
+        },
+        {
+            "name": "Safari Inn",
+            "artist": "Myles Kennedy",
+            "id": 29344369
+        },
+        {
+            "name": "Slabo Day",
+            "artist": "Gregor Hilden",
+            "id": 444392341
+        },
+        {
+            "name": "Rain",
+            "artist": "Vinnie Moore",
+            "id": 2069904
+        },
+        {
+            "name": "SUPER NOVE",
+            "artist": "山本恭司",
+            "id": 549195
+        },
+        {
+            "name": "Blessing",
+            "artist": "SYU",
+            "id": 1340981422
+        },
+        {
+            "name": "Race Wish",
+            "artist": "HIZAKI grace project",
+            "id": 424956236
+        },
+        {
+            "name": "So Far",
+            "artist": "石冢智昭",
+            "id": 495511
+        },
+        {
+            "name": "Follow Me",
+            "artist": "XecsNoin",
+            "id": 29809723
+        },
+        {
+            "name": "Love Story",
+            "artist": "N.EX.T",
+            "id": 5386047
+        },
+        {
+            "name": "Sea Of Tears",
+            "artist": "Kelly Simonz's Blind Faith",
+            "id": 473573620
+        },
+        {
+            "name": "Deliver Us",
+            "artist": "Andy Timmons",
+            "id": 1003500
+        },
+        {
+            "name": "Purple Rain",
+            "artist": "Andy Timmons",
+            "id": 27037954
+        },
+        {
+            "name": "Electric Gypsy",
+            "artist": "Andy Timmons",
+            "id": 1003582
+        },
+        {
+            "name": "Reflective",
+            "artist": "Kiko Loureiro",
+            "id": 18961638
+        },
+        {
+            "name": "Satellites",
+            "artist": "Andy James",
+            "id": 1470388063
+        },
+        {
+            "name": "Sangre Se Preciso For",
+            "artist": "Ozielzinho",
+            "id": 865729553
+        },
+        {
+            "name": "Time and Time Again",
+            "artist": "Andy James",
+            "id": 28661733
+        },
+        {
+            "name": "FUTURE DESTINATION",
+            "artist": "Kelly Simonz's Blind Faith",
+            "id": 1427978119
+        },
+        {
+            "name": "Eudaimonia Overture",
+            "artist": "Paul Gilbert",
+            "id": 18210385
+        },
+        {
+            "name": "Padmasana",
+            "artist": "Buckethead",
+            "id": 16606704
+        },
+        {
+            "name": "Blues for Elise",
+            "artist": "Wolf Hoffmann",
+            "id": 2100029
+        },
+        {
+            "name": "Made of Tears",
+            "artist": "Joe Satriani",
+            "id": 18621784
+        },
+        {
+            "name": "Signs",
+            "artist": "DC Slater",
+            "id": 1290470
+        },
+        {
+            "name": "Shimmering Highs (Album Version)",
+            "artist": "John Norum",
+            "id": 18582775
+        },
+        {
+            "name": "Seven",
+            "artist": "Marco Sfogli",
+            "id": 1771342
+        },
+        {
+            "name": "Lost Without You",
+            "artist": "John Petrucci",
+            "id": 1482540
+        },
+        {
+            "name": "Jetaime",
+            "artist": "Joe Stump",
+            "id": 1518080
+        },
+        {
+            "name": "Ddd",
+            "artist": "John 5",
+            "id": 463842366
+        },
+        {
+            "name": "Emotions",
+            "artist": "Galneryus",
+            "id": 22793797
+        },
+        {
+            "name": "La Grange",
+            "artist": "Vinnie Moore",
+            "id": 484249796
+        },
+        {
+            "name": "If I Could Fly",
+            "artist": "Joe Satriani",
+            "id": 18621736
+        },
+        {
+            "name": "As It Fades",
+            "artist": "DC Slater",
+            "id": 1290478
+        },
+        {
+            "name": "Revenge of the Nerd",
+            "artist": "Pete Thorn",
+            "id": 1866992
+        },
+        {
+            "name": "Little Wing",
+            "artist": "Stevie Ray Vaughan",
+            "id": 1939512
+        },
+        {
+            "name": "Valley of Fire",
+            "artist": "Jason Becker",
+            "id": 1316136684
+        },
+        {
+            "name": "Claymation Courtyard",
+            "artist": "Buckethead",
+            "id": 28533584
+        },
+        {
+            "name": "I Wont Forget",
+            "artist": "Thomas Blug",
+            "id": 39227247
+        },
+        {
+            "name": "Waves",
+            "artist": "Guthrie Govan",
+            "id": 19869931
+        },
+        {
+            "name": "Emotive Ballad",
+            "artist": "Guthrie Govan",
+            "id": 1416264
+        },
+        {
+            "name": "S.R.V.",
+            "artist": "Eric Johnson",
+            "id": 17571356
+        },
+        {
+            "name": "教父（Cover Slash）",
+            "artist": "幻乐队",
+            "id": 464090030
+        },
+        {
+            "name": "Tender Surrender",
+            "artist": "Steve Vai",
+            "id": 1937150
+        },
+        {
+            "name": "Fire (Live San Diego Sports Arena, May 25, 1969)",
+            "artist": "Jimi Hendrix",
+            "id": 1478605
+        },
+        {
+            "name": "Welcome to the Jungle",
+            "artist": "John 5",
+            "id": 18615012
+        },
+        {
+            "name": "Beat It",
+            "artist": "John 5",
+            "id": 1478051
+        },
+        {
+            "name": "Little Wing",
+            "artist": "Jimi Hendrix",
+            "id": 20363339
+        },
+        {
+            "name": "Prison Blues",
+            "artist": "Jimmy Page",
+            "id": 18809949
+        },
+        {
+            "name": "Brothers",
+            "artist": "Yngwie Malmsteen",
+            "id": 20741510
+        },
+        {
+            "name": "Far Beyond The Sun",
+            "artist": "Yngwie Malmsteen",
+            "id": 20741597
+        },
+        {
+            "name": "The Loner (Remastered 2002)",
+            "artist": "Gary Moore",
+            "id": 1375847
+        },
+        {
+            "name": "Parisienne Walkways",
+            "artist": "Gary Moore",
+            "id": 1377222
+        },
+        {
+            "name": "Ten Words (Live at The Grove, Anaheim, CA - May 2006)",
+            "artist": "Joe Satriani",
+            "id": 18621752
+        },
+        {
+            "name": "Song For Home",
+            "artist": "Neil Zaza",
+            "id": 1802869
+        },
+        {
+            "name": "For the Love of God",
+            "artist": "Steve Vai",
+            "id": 1937140
+        },
+        {
+            "name": "Thunder March",
+            "artist": "Marty Friedman",
+            "id": 1705714
+        },
+        {
+            "name": "Marie's Mood",
+            "artist": "Walter Trout",
+            "id": 19798152
+        },
+        {
+            "name": "The Bluest Blues",
+            "artist": "Alvin Lee",
+            "id": 2130769
+        }
+    ]
+}

@@ -1,0 +1,732 @@
+{
+    "playlist_info": {
+        "name": "Strawberry 音乐节让我们一起摇摆",
+        "trackcount": 144,
+        "playcount": 56,
+        "creator": "cherry0310",
+        "createDate": "2023-05-16",
+        "heat": 1.0
+    },
+    "songs": [
+        {
+            "name": "Spy",
+            "artist": "Joyside",
+            "id": 360899
+        },
+        {
+            "name": "她是爱",
+            "artist": "Joyside",
+            "id": 1868420383
+        },
+        {
+            "name": "Too Fast To Love",
+            "artist": "Joyside",
+            "id": 360909
+        },
+        {
+            "name": "太空浪子",
+            "artist": "Joyside",
+            "id": 1411784746
+        },
+        {
+            "name": "Not My Time To Die",
+            "artist": "Joyside",
+            "id": 1409357527
+        },
+        {
+            "name": "Dong Dong Dong",
+            "artist": "Joyside",
+            "id": 360912
+        },
+        {
+            "name": "Silly Girl",
+            "artist": "Joyside",
+            "id": 360866
+        },
+        {
+            "name": "Good Night",
+            "artist": "Joyside",
+            "id": 1355025152
+        },
+        {
+            "name": "If There Is A Tomorrow",
+            "artist": "Joyside",
+            "id": 1449369129
+        },
+        {
+            "name": "Your City Is a Desert to Me",
+            "artist": "Joyside",
+            "id": 1355025111
+        },
+        {
+            "name": "Out Of Time",
+            "artist": "Joyside",
+            "id": 360906
+        },
+        {
+            "name": "Fire",
+            "artist": "Joyside",
+            "id": 360924
+        },
+        {
+            "name": "Maybe Tonight",
+            "artist": "Joyside",
+            "id": 1355025108
+        },
+        {
+            "name": "Lover D",
+            "artist": "Joyside",
+            "id": 360915
+        },
+        {
+            "name": "The Last Song For The Endless Party",
+            "artist": "Joyside",
+            "id": 360878
+        },
+        {
+            "name": "Booze At Dawn",
+            "artist": "Joyside",
+            "id": 360921
+        },
+        {
+            "name": "i want to see you smile",
+            "artist": "边远",
+            "id": 41670164
+        },
+        {
+            "name": "love me tender",
+            "artist": "边远",
+            "id": 415085729
+        },
+        {
+            "name": "fire",
+            "artist": "边远",
+            "id": 415085728
+        },
+        {
+            "name": "褪色",
+            "artist": "Peace Hotel(和平饭店)",
+            "id": 2032485981
+        },
+        {
+            "name": "今年一定带你去看海",
+            "artist": "Peace Hotel(和平饭店)",
+            "id": 1939457246
+        },
+        {
+            "name": "胜利",
+            "artist": "Peace Hotel(和平饭店)",
+            "id": 1932881687
+        },
+        {
+            "name": "回答",
+            "artist": "Peace Hotel(和平饭店)",
+            "id": 1932881653
+        },
+        {
+            "name": "过敏",
+            "artist": "Peace Hotel(和平饭店)",
+            "id": 1932880740
+        },
+        {
+            "name": "平衡",
+            "artist": "Peace Hotel(和平饭店)",
+            "id": 1932878567
+        },
+        {
+            "name": "尾巴",
+            "artist": "Peace Hotel(和平饭店)",
+            "id": 1888902677
+        },
+        {
+            "name": "失眠症",
+            "artist": "Peace Hotel(和平饭店)",
+            "id": 1397679134
+        },
+        {
+            "name": "Six Boy",
+            "artist": "Peace Hotel(和平饭店)",
+            "id": 1390082672
+        },
+        {
+            "name": "在时间的答案里",
+            "artist": "Peace Hotel(和平饭店)",
+            "id": 1415576894
+        },
+        {
+            "name": "Out of control",
+            "artist": "Peace Hotel(和平饭店)",
+            "id": 1415576907
+        },
+        {
+            "name": "你不爱我我就爱别人",
+            "artist": "Peace Hotel(和平饭店)",
+            "id": 1415576908
+        },
+        {
+            "name": "黎明前出发",
+            "artist": "Peace Hotel(和平饭店)",
+            "id": 1415579638
+        },
+        {
+            "name": "Six Boy",
+            "artist": "Peace Hotel(和平饭店)",
+            "id": 1415579657
+        },
+        {
+            "name": "人生模版",
+            "artist": "Peace Hotel(和平饭店)",
+            "id": 1415579658
+        },
+        {
+            "name": "最后难过的人不是我",
+            "artist": "Peace Hotel(和平饭店)",
+            "id": 1415579662
+        },
+        {
+            "name": "太阳是解药",
+            "artist": "Peace Hotel(和平饭店)",
+            "id": 1860681327
+        },
+        {
+            "name": "失眠症",
+            "artist": "Peace Hotel(和平饭店)",
+            "id": 1860681561
+        },
+        {
+            "name": "Beautiful Order",
+            "artist": "Peace Hotel(和平饭店)",
+            "id": 1860678581
+        },
+        {
+            "name": "伤心2020",
+            "artist": "Peace Hotel(和平饭店)",
+            "id": 1809381129
+        },
+        {
+            "name": "最后难过的人不是我",
+            "artist": "Peace Hotel(和平饭店)",
+            "id": 1878858992
+        },
+        {
+            "name": "天下没有不散的筵席",
+            "artist": "Peace Hotel(和平饭店)",
+            "id": 1876996388
+        },
+        {
+            "name": "太阳是解药",
+            "artist": "Peace Hotel(和平饭店)",
+            "id": 1871145897
+        },
+        {
+            "name": "在时间的答案里",
+            "artist": "Peace Hotel(和平饭店)",
+            "id": 1869097032
+        },
+        {
+            "name": "漫步人生路",
+            "artist": "Peace Hotel(和平饭店)",
+            "id": 1867107838
+        },
+        {
+            "name": "你不爱我我就爱别人",
+            "artist": "Peace Hotel(和平饭店)",
+            "id": 1861583359
+        },
+        {
+            "name": "喜欢",
+            "artist": "阿肆",
+            "id": 526464145
+        },
+        {
+            "name": "世界上的另一个我",
+            "artist": "阿肆",
+            "id": 514765154
+        },
+        {
+            "name": "我在人民广场吃炸鸡",
+            "artist": "阿肆",
+            "id": 206730
+        },
+        {
+            "name": "热爱105°C的你",
+            "artist": "阿肆",
+            "id": 1840459406
+        },
+        {
+            "name": "致姗姗来迟的你",
+            "artist": "阿肆",
+            "id": 432506809
+        },
+        {
+            "name": "预谋邂逅",
+            "artist": "阿肆",
+            "id": 27501813
+        },
+        {
+            "name": "Get Up",
+            "artist": "阿肆",
+            "id": 27501811
+        },
+        {
+            "name": "嘿，关于爱",
+            "artist": "阿肆",
+            "id": 33054294
+        },
+        {
+            "name": "野火",
+            "artist": "声音碎片乐队",
+            "id": 1952018809
+        },
+        {
+            "name": "西南之南",
+            "artist": "声音碎片乐队",
+            "id": 1838934930
+        },
+        {
+            "name": "致我的迷茫兄弟",
+            "artist": "声音碎片乐队",
+            "id": 1847986667
+        },
+        {
+            "name": "望星空",
+            "artist": "声音碎片乐队",
+            "id": 1365209194
+        },
+        {
+            "name": "愿你旅途漫长",
+            "artist": "声音碎片乐队",
+            "id": 1970869119
+        },
+        {
+            "name": "优美的低于生活",
+            "artist": "声音碎片乐队",
+            "id": 375694
+        },
+        {
+            "name": "情歌而已",
+            "artist": "声音碎片乐队",
+            "id": 375682
+        },
+        {
+            "name": "把光芒洒向开阔之地(2021 Version)",
+            "artist": "声音碎片乐队",
+            "id": 1847982023
+        },
+        {
+            "name": "陌生城市的早晨",
+            "artist": "声音碎片乐队",
+            "id": 375656
+        },
+        {
+            "name": "黄金时代",
+            "artist": "声音碎片乐队",
+            "id": 1836021414
+        },
+        {
+            "name": "送流水",
+            "artist": "声音碎片乐队",
+            "id": 1365208495
+        },
+        {
+            "name": "有限身",
+            "artist": "声音碎片乐队",
+            "id": 1970869993
+        },
+        {
+            "name": "迷途相聚",
+            "artist": "声音碎片乐队",
+            "id": 1970869122
+        },
+        {
+            "name": "迷恋",
+            "artist": "梅卡德尔",
+            "id": 28819359
+        },
+        {
+            "name": "寻找多莉",
+            "artist": "梅卡德尔",
+            "id": 28625172
+        },
+        {
+            "name": "狗女孩",
+            "artist": "梅卡德尔",
+            "id": 28819357
+        },
+        {
+            "name": "死亡与堕落",
+            "artist": "梅卡德尔",
+            "id": 28819361
+        },
+        {
+            "name": "梅卡德尔",
+            "artist": "梅卡德尔",
+            "id": 28625173
+        },
+        {
+            "name": "黑夜的秘密",
+            "artist": "梅卡德尔",
+            "id": 1334247540
+        },
+        {
+            "name": "我无法停止幻想",
+            "artist": "梅卡德尔",
+            "id": 28625176
+        },
+        {
+            "name": "寻找多莉",
+            "artist": "梅卡德尔",
+            "id": 28819356
+        },
+        {
+            "name": "奇妙能力歌",
+            "artist": "陈粒",
+            "id": 29431066
+        },
+        {
+            "name": "易燃易爆炸",
+            "artist": "陈粒",
+            "id": 30431376
+        },
+        {
+            "name": "历历万乡",
+            "artist": "陈粒",
+            "id": 29535531
+        },
+        {
+            "name": "走马",
+            "artist": "陈粒",
+            "id": 29414037
+        },
+        {
+            "name": "光",
+            "artist": "陈粒",
+            "id": 30431364
+        },
+        {
+            "name": "奇妙能力歌",
+            "artist": "陈粒",
+            "id": 30431366
+        },
+        {
+            "name": "性空山",
+            "artist": "陈粒",
+            "id": 30051774
+        },
+        {
+            "name": "远辰",
+            "artist": "陈粒",
+            "id": 33525647
+        },
+        {
+            "name": "祝星",
+            "artist": "陈粒",
+            "id": 29753832
+        },
+        {
+            "name": "如也",
+            "artist": "陈粒",
+            "id": 30431374
+        },
+        {
+            "name": "祝星",
+            "artist": "陈粒",
+            "id": 30431368
+        },
+        {
+            "name": "走马",
+            "artist": "陈粒",
+            "id": 30431367
+        },
+        {
+            "name": "历历万乡",
+            "artist": "陈粒",
+            "id": 30431375
+        },
+        {
+            "name": "时间宣言",
+            "artist": "马赛克",
+            "id": 1329719693
+        },
+        {
+            "name": "回到未来",
+            "artist": "马赛克",
+            "id": 1329719694
+        },
+        {
+            "name": "Need Somebody To Love",
+            "artist": "马赛克",
+            "id": 1947101254
+        },
+        {
+            "name": "假面舞曲",
+            "artist": "马赛克",
+            "id": 1329719700
+        },
+        {
+            "name": "夜猫",
+            "artist": "马赛克",
+            "id": 454069877
+        },
+        {
+            "name": "莫里森与杂货铺",
+            "artist": "马赛克",
+            "id": 34509586
+        },
+        {
+            "name": "亼乐之城",
+            "artist": "马赛克",
+            "id": 1329719701
+        },
+        {
+            "name": "恋曲2016",
+            "artist": "马赛克",
+            "id": 459720412
+        },
+        {
+            "name": "回到未來",
+            "artist": "马赛克",
+            "id": 1327682481
+        },
+        {
+            "name": "Love Light",
+            "artist": "马赛克",
+            "id": 1846274140
+        },
+        {
+            "name": "霓虹甜心",
+            "artist": "马赛克",
+            "id": 1324880066
+        },
+        {
+            "name": "魔方大厦",
+            "artist": "马赛克",
+            "id": 458711234
+        },
+        {
+            "name": "为你唱首歌",
+            "artist": "痛仰乐队",
+            "id": 381858
+        },
+        {
+            "name": "公路之歌",
+            "artist": "痛仰乐队",
+            "id": 381825
+        },
+        {
+            "name": "再见杰克",
+            "artist": "痛仰乐队",
+            "id": 381821
+        },
+        {
+            "name": "西湖",
+            "artist": "痛仰乐队",
+            "id": 381849
+        },
+        {
+            "name": "安阳",
+            "artist": "痛仰乐队",
+            "id": 381838
+        },
+        {
+            "name": "扎西德勒",
+            "artist": "痛仰乐队",
+            "id": 28949121
+        },
+        {
+            "name": "两个人的假期",
+            "artist": "痛仰乐队",
+            "id": 28949129
+        },
+        {
+            "name": "不要停止我的音乐",
+            "artist": "痛仰乐队",
+            "id": 381861
+        },
+        {
+            "name": "空隙",
+            "artist": "痛仰乐队",
+            "id": 381758
+        },
+        {
+            "name": "愿爱无忧",
+            "artist": "痛仰乐队",
+            "id": 28949131
+        },
+        {
+            "name": "美丽新世界",
+            "artist": "痛仰乐队",
+            "id": 28949128
+        },
+        {
+            "name": "太阳照常升起",
+            "artist": "痛仰乐队",
+            "id": 28949127
+        },
+        {
+            "name": "生命中最美丽的一天",
+            "artist": "痛仰乐队",
+            "id": 381760
+        },
+        {
+            "name": "哈利路亚",
+            "artist": "痛仰乐队",
+            "id": 28949122
+        },
+        {
+            "name": "盛开",
+            "artist": "痛仰乐队",
+            "id": 381747
+        },
+        {
+            "name": "空城",
+            "artist": "痛仰乐队",
+            "id": 381843
+        },
+        {
+            "name": "敢问路在何方",
+            "artist": "痛仰乐队",
+            "id": 27538248
+        },
+        {
+            "name": "Downtown",
+            "artist": "痛仰乐队",
+            "id": 434550551
+        },
+        {
+            "name": "如期",
+            "artist": "痛仰乐队",
+            "id": 439121267
+        },
+        {
+            "name": "不",
+            "artist": "痛仰乐队",
+            "id": 28860051
+        },
+        {
+            "name": "冲锋队",
+            "artist": "痛仰乐队",
+            "id": 437246030
+        },
+        {
+            "name": "今日青年",
+            "artist": "痛仰乐队",
+            "id": 439122273
+        },
+        {
+            "name": "异乡",
+            "artist": "痛仰乐队",
+            "id": 381854
+        },
+        {
+            "name": "最后一班列车",
+            "artist": "痛仰乐队",
+            "id": 381756
+        },
+        {
+            "name": "四相",
+            "artist": "痛仰乐队",
+            "id": 439121264
+        },
+        {
+            "name": "午夜芭蕾 ",
+            "artist": "痛仰乐队",
+            "id": 431260006
+        },
+        {
+            "name": "博卡拉",
+            "artist": "痛仰乐队",
+            "id": 381750
+        },
+        {
+            "name": "夏天",
+            "artist": "痛仰乐队",
+            "id": 28949123
+        },
+        {
+            "name": "思疆调",
+            "artist": "痛仰乐队",
+            "id": 28949130
+        },
+        {
+            "name": "TA",
+            "artist": "脑浊乐队",
+            "id": 32574979
+        },
+        {
+            "name": "改变你的生活",
+            "artist": "痛仰乐队",
+            "id": 381753
+        },
+        {
+            "name": "戴着镣铐起舞",
+            "artist": "痛仰乐队",
+            "id": 28949125
+        },
+        {
+            "name": "好梦",
+            "artist": "痛仰乐队",
+            "id": 439121268
+        },
+        {
+            "name": "坚定的信念",
+            "artist": "痛仰乐队",
+            "id": 28860050
+        },
+        {
+            "name": "自由吧电台",
+            "artist": "痛仰乐队",
+            "id": 439121266
+        },
+        {
+            "name": "黑名单上的人",
+            "artist": "痛仰乐队",
+            "id": 439121265
+        },
+        {
+            "name": "在路上",
+            "artist": "痛仰乐队",
+            "id": 28860054
+        },
+        {
+            "name": "低处穿巡",
+            "artist": "痛仰乐队",
+            "id": 381829
+        },
+        {
+            "name": "支离 ",
+            "artist": "痛仰乐队",
+            "id": 427142240
+        },
+        {
+            "name": "野歌",
+            "artist": "痛仰乐队",
+            "id": 28656269
+        },
+        {
+            "name": "Intro",
+            "artist": "痛仰乐队",
+            "id": 28949120
+        },
+        {
+            "name": "汪洋中的一条船",
+            "artist": "痛仰乐队",
+            "id": 28949126
+        },
+        {
+            "name": "角色",
+            "artist": "痛仰乐队",
+            "id": 381833
+        },
+        {
+            "name": "黄皮肤的吉普赛",
+            "artist": "痛仰乐队",
+            "id": 439122274
+        },
+        {
+            "name": "枷锁",
+            "artist": "痛仰乐队",
+            "id": 28860052
+        }
+    ]
+}

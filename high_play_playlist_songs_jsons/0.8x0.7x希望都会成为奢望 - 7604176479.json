@@ -1,0 +1,932 @@
+{
+    "playlist_info": {
+        "name": "0.8x0.7x希望都会成为奢望",
+        "trackcount": 184,
+        "playcount": 1118590,
+        "creator": "我的180805",
+        "createDate": "2022-08-23",
+        "heat": 3608.0
+    },
+    "songs": [
+        {
+            "name": "玫瑰花的葬礼(0.8x)",
+            "artist": "Cubi",
+            "id": 1973058747
+        },
+        {
+            "name": "雪 distance 0.8 emo钢琴",
+            "artist": "幺二二",
+            "id": 2031071908
+        },
+        {
+            "name": "梦醒（x0.75）",
+            "artist": "Anuo.",
+            "id": 1962079068
+        },
+        {
+            "name": "逃离雨天孤独",
+            "artist": "雯到你心",
+            "id": 2046047884
+        },
+        {
+            "name": "浪漫血液（0.8x）",
+            "artist": "心动",
+            "id": 1994851569
+        },
+        {
+            "name": "难 過 也 只 是 暫 時",
+            "artist": "雯到你心",
+            "id": 2031414209
+        },
+        {
+            "name": "倒数（0.8x）",
+            "artist": "后厂痴情组",
+            "id": 1970539602
+        },
+        {
+            "name": "All My People（0.8X）",
+            "artist": "BOND-邦",
+            "id": 1943978046
+        },
+        {
+            "name": "Maps (慢调 0.8）",
+            "artist": "江來__9",
+            "id": 1918643640
+        },
+        {
+            "name": "相约在下世",
+            "artist": "Forest龙楠林",
+            "id": 1984836305
+        },
+        {
+            "name": "心跳的证明(0.8x)",
+            "artist": "呢喃",
+            "id": 1957492947
+        },
+        {
+            "name": "Memories（0.8）",
+            "artist": "_秋刀鱼是什么鱼",
+            "id": 1937372851
+        },
+        {
+            "name": "待在我身边",
+            "artist": "Forest龙楠林",
+            "id": 1443937011
+        },
+        {
+            "name": "恋爱告急（0.8x）",
+            "artist": "WF_Liang",
+            "id": 1957342072
+        },
+        {
+            "name": "人间浪漫",
+            "artist": "Forest龙楠林",
+            "id": 1898038197
+        },
+        {
+            "name": "春娇与志明（0.9x变速降调）",
+            "artist": "SongLong",
+            "id": 1986771025
+        },
+        {
+            "name": "终挣不脱岁月追赶",
+            "artist": "Forest龙楠林",
+            "id": 1897439735
+        },
+        {
+            "name": "王力宏-改变自己0.8x（抓不住的秋 remix）",
+            "artist": "Mr.6",
+            "id": 1999878178
+        },
+        {
+            "name": "铸梦",
+            "artist": "Forest龙楠林",
+            "id": 1895426424
+        },
+        {
+            "name": "lordly（0.9x）",
+            "artist": "昱",
+            "id": 1927748002
+        },
+        {
+            "name": "Sweet Dreams×0.8（remix）",
+            "artist": "Kim Jisoo",
+            "id": 1984130777
+        },
+        {
+            "name": "The Best Of Me[Slowed]",
+            "artist": "kokou",
+            "id": 1987733400
+        },
+        {
+            "name": "WILD（0.8×）",
+            "artist": "XXXDAION",
+            "id": 1929494011
+        },
+        {
+            "name": "定格时间",
+            "artist": "Forest龙楠林",
+            "id": 2031987807
+        },
+        {
+            "name": "Scopin(0.9x)",
+            "artist": "我是展正",
+            "id": 1996049378
+        },
+        {
+            "name": "Gravity（0.9x）",
+            "artist": "昱",
+            "id": 1924732227
+        },
+        {
+            "name": "室内系的Track Maker 0.8x",
+            "artist": "恋梦辰",
+            "id": 1976239823
+        },
+        {
+            "name": "夏日旅行",
+            "artist": "Forest龙楠林",
+            "id": 2038498704
+        },
+        {
+            "name": "Call on Me (0.8x)",
+            "artist": "Eleven",
+            "id": 1974210458
+        },
+        {
+            "name": "DoIt 0.9X",
+            "artist": "Young Music House",
+            "id": 1958148146
+        },
+        {
+            "name": "Hey （0.8x）",
+            "artist": "WF_Liang",
+            "id": 1949037681
+        },
+        {
+            "name": "Geisha (×0.8环绕 Mix)",
+            "artist": "S.Meiwen",
+            "id": 1942740685
+        },
+        {
+            "name": "Hold On Slowed（NO 3D）",
+            "artist": "AD_概",
+            "id": 1862246532
+        },
+        {
+            "name": "粉色告白信",
+            "artist": "Forest龙楠林",
+            "id": 1833106566
+        },
+        {
+            "name": "Some（0.9X）",
+            "artist": "xxxCr3",
+            "id": 1909339376
+        },
+        {
+            "name": "YOSEMITE（×0.8）",
+            "artist": "子晨",
+            "id": 1947592155
+        },
+        {
+            "name": "11（0.8x）",
+            "artist": "WF_Liang",
+            "id": 1952086849
+        },
+        {
+            "name": "情人节",
+            "artist": "Forest龙楠林",
+            "id": 1897678158
+        },
+        {
+            "name": "心做（0.8x）",
+            "artist": "给我温柔一刀",
+            "id": 1974228177
+        },
+        {
+            "name": "Serendipity（0.8x）",
+            "artist": "古瑞斯Graps",
+            "id": 1990080484
+        },
+        {
+            "name": "Breathin (0.8x)",
+            "artist": "Right",
+            "id": 1952535032
+        },
+        {
+            "name": "忆回老友录",
+            "artist": "Forest龙楠林",
+            "id": 1897456654
+        },
+        {
+            "name": "Summertime Sadness（0.8x）",
+            "artist": "Winter",
+            "id": 1937030336
+        },
+        {
+            "name": "Shots（Slowed remix）",
+            "artist": "Murphy",
+            "id": 1923196409
+        },
+        {
+            "name": "梦想站在聚光灯下",
+            "artist": "Forest龙楠林",
+            "id": 1964510434
+        },
+        {
+            "name": "Talk Dirty（Slowed）",
+            "artist": "CampNouu",
+            "id": 1918056228
+        },
+        {
+            "name": "散场盛夏",
+            "artist": "Forest龙楠林",
+            "id": 1499892134
+        },
+        {
+            "name": "Яхочу（0.8x）",
+            "artist": "文",
+            "id": 1929611246
+        },
+        {
+            "name": "BonBon(0.8x)",
+            "artist": "錒坤",
+            "id": 1946726131
+        },
+        {
+            "name": "风雪",
+            "artist": "Forest龙楠林",
+            "id": 1898044638
+        },
+        {
+            "name": "Festival de Buda(0.8x)",
+            "artist": "刺客",
+            "id": 1960785980
+        },
+        {
+            "name": "Infinity 0.75X",
+            "artist": "Young Music House",
+            "id": 1958683818
+        },
+        {
+            "name": "24K Magic(0.8x)",
+            "artist": "刺客",
+            "id": 1961228076
+        },
+        {
+            "name": "压力好大（0.8x）",
+            "artist": "小爷睡不饱",
+            "id": 1964807919
+        },
+        {
+            "name": "七月七日晴0.8x",
+            "artist": "DJ川渝",
+            "id": 1970338296
+        },
+        {
+            "name": "Cupid",
+            "artist": "D$B Breezy",
+            "id": 1937287106
+        },
+        {
+            "name": "她离开我的时候（0.8x）",
+            "artist": "WF_Liang",
+            "id": 1970659836
+        },
+        {
+            "name": "再等冬天（emo慢版）",
+            "artist": "圈圈菌",
+            "id": 1958119516
+        },
+        {
+            "name": "我常常都很后悔",
+            "artist": "Forest龙楠林",
+            "id": 2012726202
+        },
+        {
+            "name": "坏女孩(0.8x)",
+            "artist": "薇薇",
+            "id": 1968429904
+        },
+        {
+            "name": "Letting Go（0.8）",
+            "artist": "Felix-zor",
+            "id": 1983501304
+        },
+        {
+            "name": "防（0.8X）",
+            "artist": "Wangzihui",
+            "id": 1917852233
+        },
+        {
+            "name": "Lightning Moment（0.6x）",
+            "artist": "Kings",
+            "id": 1966399373
+        },
+        {
+            "name": "Sahara (Slowed)",
+            "artist": "Hensonn",
+            "id": 1901238237
+        },
+        {
+            "name": "outside - slowed + reverb",
+            "artist": "allsortsofstuff",
+            "id": 1882104177
+        },
+        {
+            "name": "Live Another Day (Slowed + Reverb)",
+            "artist": "Kordhell",
+            "id": 1897790169
+        },
+        {
+            "name": "This Feeling (Slowed & Reverb)",
+            "artist": "my!lane",
+            "id": 1904700622
+        },
+        {
+            "name": "Don't want know Slowed(带3D)（AD_Gai）",
+            "artist": "AD_概",
+            "id": 1842485187
+        },
+        {
+            "name": "写在风中的信",
+            "artist": "鲸鱼",
+            "id": 1925500681
+        },
+        {
+            "name": "不如不见面(0.85x)",
+            "artist": "呢喃",
+            "id": 1960557746
+        },
+        {
+            "name": "哎呦喂（0.8x）",
+            "artist": "WF_Liang",
+            "id": 1959207292
+        },
+        {
+            "name": "Come Back ×0.8",
+            "artist": "L17hope",
+            "id": 1955462801
+        },
+        {
+            "name": "Vicetone_Meron Ryan—Walk Thru Fire (Slowed)",
+            "artist": "AD_概",
+            "id": 1848567257
+        },
+        {
+            "name": "Moody（0.7x）",
+            "artist": "男明星",
+            "id": 1927475268
+        },
+        {
+            "name": "Marting Solveg-Intoxicated（Low Speed）",
+            "artist": "Speak",
+            "id": 1898900015
+        },
+        {
+            "name": "Immortals(slow) ",
+            "artist": "mArXaL",
+            "id": 1935816802
+        },
+        {
+            "name": "Умри если меня не любишь",
+            "artist": "AnimeVibe",
+            "id": 862741536
+        },
+        {
+            "name": "Slow Down (0.8x)",
+            "artist": "绪酱",
+            "id": 1927049477
+        },
+        {
+            "name": "Close Eyes (Slowed + Reverb)",
+            "artist": "DVRST",
+            "id": 1861101583
+        },
+        {
+            "name": "Positions",
+            "artist": "Magix",
+            "id": 1497855310
+        },
+        {
+            "name": "Coolin'",
+            "artist": "Dub'L U",
+            "id": 1501639416
+        },
+        {
+            "name": "RANDALL-Wahran（Low Speed）",
+            "artist": "Speak",
+            "id": 1890285449
+        },
+        {
+            "name": "黄阿慈-Falling U【0.8x】（ksii remix）",
+            "artist": "ksii",
+            "id": 1928981740
+        },
+        {
+            "name": "Shaba（slowed）",
+            "artist": "Nova",
+            "id": 1941384752
+        },
+        {
+            "name": "We Can Be Together（Slowed）",
+            "artist": "CampNouu",
+            "id": 1916224270
+        },
+        {
+            "name": "3 Stirkes（X0.8）",
+            "artist": "Yanggg",
+            "id": 1917137875
+        },
+        {
+            "name": "Hold On(0.8x)",
+            "artist": "swagger",
+            "id": 1940359218
+        },
+        {
+            "name": "一样的月光（×0.8）",
+            "artist": "朴永纯",
+            "id": 1948007389
+        },
+        {
+            "name": "戚薇-你是对的人（0.8x）",
+            "artist": "宇",
+            "id": 1962438244
+        },
+        {
+            "name": "The Truth That You Levae（REBORN Edit）",
+            "artist": "REBORN",
+            "id": 1938759503
+        },
+        {
+            "name": "We Don't Talk Any more Slowed（带环绕）（AD_Gai）",
+            "artist": "AD_概",
+            "id": 1842488843
+        },
+        {
+            "name": "TRA$H-BeatsNowForSale（降调）（Tender remix）",
+            "artist": "Tender",
+            "id": 1940584057
+        },
+        {
+            "name": "待宰的羔羊x-Polozhenie（待宰的羔羊x remix）",
+            "artist": "待宰的羔羊x",
+            "id": 1949706773
+        },
+        {
+            "name": "****ed It Up (Gas Gas Remix)",
+            "artist": "Rony Rex",
+            "id": 1910994022
+        },
+        {
+            "name": "Baby (80s Remix)",
+            "artist": "TRONICBOX",
+            "id": 1806742684
+        },
+        {
+            "name": "爱",
+            "artist": "DDCRA",
+            "id": 1933636665
+        },
+        {
+            "name": "我好想你（0.8X) 完整版",
+            "artist": "-伍i",
+            "id": 1941362417
+        },
+        {
+            "name": "在你的身边 (慢放)",
+            "artist": "慢热的气球",
+            "id": 1963213163
+        },
+        {
+            "name": "Polozhenie(0.8x)",
+            "artist": "kexil",
+            "id": 1951743583
+        },
+        {
+            "name": "Phone Kisses（0.8×）",
+            "artist": "WaN",
+            "id": 1920606151
+        },
+        {
+            "name": "沉沦与遐想（0.8x）",
+            "artist": "WF_Liang",
+            "id": 1954924353
+        },
+        {
+            "name": "在你的身边 (0.8x)",
+            "artist": "慢热的气球",
+            "id": 1963213974
+        },
+        {
+            "name": "sex money feelings die (slowed version)",
+            "artist": "Lykke Li",
+            "id": 1397319755
+        },
+        {
+            "name": "Morze（0.77x）",
+            "artist": "Kings",
+            "id": 1946322486
+        },
+        {
+            "name": "Outside（0.7x）",
+            "artist": "Kings",
+            "id": 1959097756
+        },
+        {
+            "name": "Stay The Night(0.8速)",
+            "artist": "果味纯氧",
+            "id": 1932198958
+        },
+        {
+            "name": "Where Is Your Love（0.8X）",
+            "artist": "北方的烛",
+            "id": 1917175590
+        },
+        {
+            "name": "Meant to be（0.8x）",
+            "artist": "BnZeE",
+            "id": 1940529605
+        },
+        {
+            "name": "power(0.7x)",
+            "artist": "CyberLINK",
+            "id": 1918285793
+        },
+        {
+            "name": "Go Solo（0.8x）",
+            "artist": "Kings",
+            "id": 1951571171
+        },
+        {
+            "name": "Zerky,Liu - Temple Slowed",
+            "artist": "AD_概",
+            "id": 1865699309
+        },
+        {
+            "name": "请务必一直爱我（Hãy luôn luôn yêu em）",
+            "artist": "氡",
+            "id": 1837825698
+        },
+        {
+            "name": "Kiss Me More (Slowed)",
+            "artist": "Aji Studio",
+            "id": 1839259635
+        },
+        {
+            "name": "遗失的心跳 0.8x 完整版",
+            "artist": "薇薇",
+            "id": 1954223039
+        },
+        {
+            "name": "江南style（0.85X）",
+            "artist": "老公",
+            "id": 1955196401
+        },
+        {
+            "name": "The way i still love You (remix)",
+            "artist": "恩赐",
+            "id": 1876264029
+        },
+        {
+            "name": "我看过（0.8x）",
+            "artist": "CO1",
+            "id": 1934359973
+        },
+        {
+            "name": "Lose control（slowed remix）",
+            "artist": "XXXDAION",
+            "id": 1958523178
+        },
+        {
+            "name": "全部都是你(0.75 -3)",
+            "artist": "雾无眠",
+            "id": 1927963832
+        },
+        {
+            "name": "kiss me baby（3d+×0.8）（原唱：椅子不够酷）",
+            "artist": "澜兰",
+            "id": 1929710352
+        },
+        {
+            "name": "Here Slowed （NO 3D）",
+            "artist": "AD_概",
+            "id": 1862364803
+        },
+        {
+            "name": "Right Now（0.8X）",
+            "artist": "Jerry1",
+            "id": 1916982993
+        },
+        {
+            "name": "Rather Be(一条淡淡水鱼)",
+            "artist": "一条淡淡水鱼",
+            "id": 1909022819
+        },
+        {
+            "name": "Anatomy（Slowed）",
+            "artist": "7NpcTt",
+            "id": 1951420661
+        },
+        {
+            "name": "Tengi（Slowed）",
+            "artist": "7NpcTt",
+            "id": 1942194856
+        },
+        {
+            "name": "Seve (Slow Version)",
+            "artist": "Tez Cadey",
+            "id": 1862906474
+        },
+        {
+            "name": "Adam Bü-Lose Control（x0.75）（Anuo. remix）",
+            "artist": "Anuo.",
+            "id": 1925328415
+        },
+        {
+            "name": "【Slowed】EverySummertime-NIKI",
+            "artist": "i8",
+            "id": 1913585791
+        },
+        {
+            "name": "Natalie0.8",
+            "artist": "sakura",
+            "id": 1955636847
+        },
+        {
+            "name": "Alone（Slowed）",
+            "artist": "7NpcTt",
+            "id": 1941704943
+        },
+        {
+            "name": "剩下的盛夏 (变速版)",
+            "artist": "宋善恩",
+            "id": 1928712984
+        },
+        {
+            "name": "darling0.8（remix）",
+            "artist": "听不完的wyy",
+            "id": 1951960912
+        },
+        {
+            "name": "YEU 5 (Slowed)",
+            "artist": "7NpcTt",
+            "id": 1943132557
+        },
+        {
+            "name": "EA7 Rozovoe（0.8×）",
+            "artist": "男明星",
+            "id": 1924343211
+        },
+        {
+            "name": "别让我放不下（slowed）",
+            "artist": "sn1b4",
+            "id": 1949949331
+        },
+        {
+            "name": "BrooklynBloodPop! (Slowed)",
+            "artist": "DJ Espinos",
+            "id": 1843740546
+        },
+        {
+            "name": "Like I Would（0.8x）",
+            "artist": "昱",
+            "id": 1922955269
+        },
+        {
+            "name": "Because Of You",
+            "artist": "川",
+            "id": 1925246647
+        },
+        {
+            "name": "Gimme on up（Remix）",
+            "artist": "一纸鸢歌",
+            "id": 1939778049
+        },
+        {
+            "name": "Emily",
+            "artist": "Tucci",
+            "id": 1922468169
+        },
+        {
+            "name": "Show me(0.8x)",
+            "artist": "錒坤",
+            "id": 1922982152
+        },
+        {
+            "name": "A Style（0.8x）",
+            "artist": "文",
+            "id": 1946488888
+        },
+        {
+            "name": "Dancer In The Dark(75%)",
+            "artist": "雾无眠",
+            "id": 1928979160
+        },
+        {
+            "name": "Ass Like That（Slowed）",
+            "artist": "CampNouu",
+            "id": 1916893637
+        },
+        {
+            "name": "流浪",
+            "artist": "江辰",
+            "id": 1941265858
+        },
+        {
+            "name": "念念不忘必有回响7.0",
+            "artist": "斌",
+            "id": 1942588602
+        },
+        {
+            "name": "灰色轨迹(尾奏变速版)",
+            "artist": "05L.",
+            "id": 1899521702
+        },
+        {
+            "name": "In The Shadow Of THe Sun(0.85×）",
+            "artist": "WaN",
+            "id": 1920658259
+        },
+        {
+            "name": "Once Upon a Time（0.8x）",
+            "artist": "BnZeE",
+            "id": 1939979967
+        },
+        {
+            "name": "小苹果（×0.8）",
+            "artist": "朴永纯",
+            "id": 1948514479
+        },
+        {
+            "name": "I Took A Pill In ibza（0.8x）",
+            "artist": "Kings",
+            "id": 1939878025
+        },
+        {
+            "name": "Glosses（0.8X）",
+            "artist": "xxxCr3",
+            "id": 1910475145
+        },
+        {
+            "name": "Japanese Main Current（0.8X）",
+            "artist": "xxxCr3",
+            "id": 1881007136
+        },
+        {
+            "name": "Booty Call（0.8X）",
+            "artist": "xxxCr3",
+            "id": 1908016056
+        },
+        {
+            "name": "Hoang Thuy Linh-environmental（See Tình ）SLOWED（Ksii remix）",
+            "artist": "sn1b4",
+            "id": 1950872006
+        },
+        {
+            "name": "Lolita（Slowed）",
+            "artist": "黑空",
+            "id": 1934451068
+        },
+        {
+            "name": "Fahrenheit前奏（xxxRayi remix）",
+            "artist": "xxxRayi",
+            "id": 1896749968
+        },
+        {
+            "name": "Walk off the Earth-Bet On Me（0.8x）（黑空 remix）",
+            "artist": "黑空",
+            "id": 1949247126
+        },
+        {
+            "name": "太一-间奏0.4%（韩涪睇的love remix）",
+            "artist": "韩涪睇的love",
+            "id": 1947409099
+        },
+        {
+            "name": "命运（0.8x）",
+            "artist": "文",
+            "id": 1947780316
+        },
+        {
+            "name": "干物女(WeiWei)×0.8",
+            "artist": "朴永纯",
+            "id": 1945417412
+        },
+        {
+            "name": "Meant To Be Slowed",
+            "artist": "Ichigo",
+            "id": 1902576307
+        },
+        {
+            "name": "不说(slow)",
+            "artist": "016Asuka",
+            "id": 1942076881
+        },
+        {
+            "name": "TiK ToK (0.9x+0.8x+混响)",
+            "artist": "绪酱",
+            "id": 1929539549
+        },
+        {
+            "name": "Insomnia（불면증）",
+            "artist": "彭小羽",
+            "id": 1931564486
+        },
+        {
+            "name": "Matvey Emerson-Into You（Low Speed）",
+            "artist": "Speak",
+            "id": 1898855202
+        },
+        {
+            "name": "特别的人（降调版）",
+            "artist": "电音老傅",
+            "id": 1406174734
+        },
+        {
+            "name": "群星-一笑倾城（YaNcyP1e0 remix）",
+            "artist": "YaNcyP1e0",
+            "id": 1923562641
+        },
+        {
+            "name": "SexyBack (slowdown)",
+            "artist": "sssssuxin",
+            "id": 1927491783
+        },
+        {
+            "name": "h3R3-他只是经过（YaNcyP1e0 remix）",
+            "artist": "YaNcyP1e0",
+            "id": 1924817966
+        },
+        {
+            "name": "给陌生的你听（0.8x）",
+            "artist": "CO1",
+            "id": 1944123716
+        },
+        {
+            "name": "Not the One（0.7X）",
+            "artist": "Wangzihui",
+            "id": 1922121049
+        },
+        {
+            "name": "Solo Dance（0.7X）",
+            "artist": "Wangzihui",
+            "id": 1911848706
+        },
+        {
+            "name": "Bruno Mars-treasure（0.8x）（ksii remix）",
+            "artist": "ksii",
+            "id": 1930165395
+        },
+        {
+            "name": "Shed a Light（0.8x）",
+            "artist": "文",
+            "id": 1941531320
+        },
+        {
+            "name": "for ya（x0.74）",
+            "artist": "Anuo.",
+            "id": 1926873649
+        },
+        {
+            "name": "Call You Tonight（0.8X）",
+            "artist": "xxxCr3",
+            "id": 1909326368
+        },
+        {
+            "name": "OUI（1.2X）",
+            "artist": "xxxCr3",
+            "id": 1912353043
+        },
+        {
+            "name": "love scenario（0.7X）",
+            "artist": "Wangzihui",
+            "id": 1916463494
+        },
+        {
+            "name": "The Cure (0.8x)",
+            "artist": "昱",
+            "id": 1923167380
+        },
+        {
+            "name": "love9（0.8×）",
+            "artist": "愛",
+            "id": 1933594385
+        },
+        {
+            "name": "PLASTIC（半环绕+0.7x）",
+            "artist": "绪酱",
+            "id": 1927049160
+        },
+        {
+            "name": "落空（emo慢版）",
+            "artist": "朱兴东",
+            "id": 1925262041
+        },
+        {
+            "name": "Watch Me Work（0.7x）3D",
+            "artist": "后厂痴情组",
+            "id": 1907462482
+        }
+    ]
+}

@@ -1,0 +1,977 @@
+{
+    "playlist_info": {
+        "name": "Hip-hop | 少女心狙击手",
+        "trackcount": 193,
+        "playcount": 28773760,
+        "creator": "迟到情书",
+        "createDate": "2018-07-31",
+        "heat": 16034.0
+    },
+    "songs": [
+        {
+            "name": "Pump Up",
+            "artist": "朱婧汐Akini Jing",
+            "id": 2028246349
+        },
+        {
+            "name": "头头是道",
+            "artist": "王以太",
+            "id": 1876179152
+        },
+        {
+            "name": "想",
+            "artist": "Ak圣",
+            "id": 2007753942
+        },
+        {
+            "name": "无人及你",
+            "artist": "翟宇锋",
+            "id": 2007391312
+        },
+        {
+            "name": "别离开",
+            "artist": "庄淇文(29#)",
+            "id": 1986498195
+        },
+        {
+            "name": "玫瑰牛仔",
+            "artist": "翟宇锋",
+            "id": 1853293739
+        },
+        {
+            "name": "嘿",
+            "artist": "Blue dream",
+            "id": 1904775189
+        },
+        {
+            "name": "嘟嘟嘟",
+            "artist": "Kui Kui",
+            "id": 1866548104
+        },
+        {
+            "name": "走好不送",
+            "artist": "维克多多",
+            "id": 1902160591
+        },
+        {
+            "name": "想念你（Prod By ATTBeat）",
+            "artist": "LeeY_3",
+            "id": 1501781717
+        },
+        {
+            "name": "demo",
+            "artist": "Lsiyusk",
+            "id": 1888464956
+        },
+        {
+            "name": "把鲜花装进枪里",
+            "artist": "翟宇锋",
+            "id": 1886166351
+        },
+        {
+            "name": "浪漫感知",
+            "artist": "Blue dream",
+            "id": 1890495074
+        },
+        {
+            "name": "无可比拟【Prod.By Dorren】",
+            "artist": "Blue dream",
+            "id": 1859504863
+        },
+        {
+            "name": "Call me（Prod.by 煊煊）",
+            "artist": "Blue dream",
+            "id": 1866630894
+        },
+        {
+            "name": "海棠湾竞速Top1",
+            "artist": "齐齐哈尔网友",
+            "id": 1883135701
+        },
+        {
+            "name": "光",
+            "artist": "FH",
+            "id": 1862539494
+        },
+        {
+            "name": "银河穿越计划",
+            "artist": "RUNCII",
+            "id": 1841965057
+        },
+        {
+            "name": "Time to",
+            "artist": "YOUNG KILL",
+            "id": 1874462017
+        },
+        {
+            "name": "粉色陷阱（feat.BlackC)",
+            "artist": "RUNCII",
+            "id": 1882088978
+        },
+        {
+            "name": "温热",
+            "artist": "前男友",
+            "id": 1881519241
+        },
+        {
+            "name": "恋爱白痴",
+            "artist": "Blue dream",
+            "id": 1871294143
+        },
+        {
+            "name": "Wild Side",
+            "artist": "Normani",
+            "id": 1861313741
+        },
+        {
+            "name": "你走之后",
+            "artist": "FH",
+            "id": 1454417190
+        },
+        {
+            "name": "侵入",
+            "artist": "Ice tear",
+            "id": 1875330716
+        },
+        {
+            "name": "I will",
+            "artist": "lazytsaidyeah@懶",
+            "id": 1869391523
+        },
+        {
+            "name": "想要谈恋爱！",
+            "artist": "十方Ten w",
+            "id": 1859801466
+        },
+        {
+            "name": "Bad boy（Prod.by HYPERMUSIC）",
+            "artist": "killerJ",
+            "id": 1429787640
+        },
+        {
+            "name": "沦陷",
+            "artist": "Bubble",
+            "id": 1862906909
+        },
+        {
+            "name": "Cold",
+            "artist": "雷西Lil Lazy",
+            "id": 1858890552
+        },
+        {
+            "name": "黑马王子",
+            "artist": "马思唯",
+            "id": 1426022013
+        },
+        {
+            "name": "怎么办",
+            "artist": "乔竹禾",
+            "id": 1856478223
+        },
+        {
+            "name": "沉沦与遐想",
+            "artist": "C.HØPE",
+            "id": 1492584510
+        },
+        {
+            "name": "GAME OVA",
+            "artist": "ajoey91",
+            "id": 1846047630
+        },
+        {
+            "name": "每个天气与你",
+            "artist": "蓝帽",
+            "id": 1822568719
+        },
+        {
+            "name": "慢热",
+            "artist": "满舒克",
+            "id": 1824025894
+        },
+        {
+            "name": "Dat Breathe",
+            "artist": "李沐冉LitRyan",
+            "id": 1843690365
+        },
+        {
+            "name": "花,太阳,彩虹,你",
+            "artist": "Mai",
+            "id": 1826189041
+        },
+        {
+            "name": "游离",
+            "artist": "RUNCII",
+            "id": 1499365648
+        },
+        {
+            "name": "鱼缸",
+            "artist": "浦东老农民",
+            "id": 1822280895
+        },
+        {
+            "name": "不会说谎的恰恰 (Live)",
+            "artist": "马思唯",
+            "id": 1830686586
+        },
+        {
+            "name": "累了(prod.tower B)",
+            "artist": "吕叶子",
+            "id": 1806843109
+        },
+        {
+            "name": "一无所有",
+            "artist": "HARIKIRI",
+            "id": 1462875616
+        },
+        {
+            "name": "磁场电化学（feat.BlackC）",
+            "artist": "RUNCII",
+            "id": 1406858225
+        },
+        {
+            "name": "不怪她",
+            "artist": "HARIKIRI",
+            "id": 1462875618
+        },
+        {
+            "name": "不想你难过",
+            "artist": "FH",
+            "id": 1482217196
+        },
+        {
+            "name": "Mood",
+            "artist": "24kGoldn",
+            "id": 1464325108
+        },
+        {
+            "name": "蝴蝶效应",
+            "artist": "JuiceZ",
+            "id": 1486573870
+        },
+        {
+            "name": "今夜不想你一人走",
+            "artist": "浦东老农民",
+            "id": 1481948521
+        },
+        {
+            "name": "花花公子 (feat. step.jad)",
+            "artist": "马思唯",
+            "id": 1426022018
+        },
+        {
+            "name": "星河",
+            "artist": "Judy Zzzz",
+            "id": 1444466311
+        },
+        {
+            "name": "Morning Call（Feat.FH)",
+            "artist": "三水",
+            "id": 1468988540
+        },
+        {
+            "name": "Promise",
+            "artist": "HARIKIRI",
+            "id": 1823305772
+        },
+        {
+            "name": "Perfume",
+            "artist": "浦东老农民",
+            "id": 1472471287
+        },
+        {
+            "name": "他只是经过",
+            "artist": "h3R3",
+            "id": 1443838552
+        },
+        {
+            "name": "Best Friend (Remix) 好朋友",
+            "artist": "A Few Good Kids Records",
+            "id": 1848204642
+        },
+        {
+            "name": "pinky baby",
+            "artist": "浦东老农民",
+            "id": 1417288752
+        },
+        {
+            "name": "Baby 我只想...(Prod.By Mai)",
+            "artist": "FH",
+            "id": 1345711869
+        },
+        {
+            "name": "上天入地",
+            "artist": "活死人",
+            "id": 1326219439
+        },
+        {
+            "name": "悔",
+            "artist": "FH",
+            "id": 1419280123
+        },
+        {
+            "name": "Being Left",
+            "artist": "BorderWalker",
+            "id": 1443747932
+        },
+        {
+            "name": "星河私藏家",
+            "artist": "刘仁昊",
+            "id": 1408403869
+        },
+        {
+            "name": "小敏(prod.vicious)",
+            "artist": "吕叶子",
+            "id": 1439814150
+        },
+        {
+            "name": "最甜情歌 (女生版) ",
+            "artist": "一玟",
+            "id": 1409329655
+        },
+        {
+            "name": "让一让",
+            "artist": "宫阁",
+            "id": 1407408448
+        },
+        {
+            "name": "Much Love",
+            "artist": "巴音汗",
+            "id": 560830364
+        },
+        {
+            "name": "Tonight",
+            "artist": "Lambert",
+            "id": 1457345780
+        },
+        {
+            "name": "On The Way",
+            "artist": "FRANKY",
+            "id": 1422768418
+        },
+        {
+            "name": "最甜情歌",
+            "artist": "红人馆",
+            "id": 1408220694
+        },
+        {
+            "name": "零几年听的情歌",
+            "artist": "AY楊佬叁",
+            "id": 1415829224
+        },
+        {
+            "name": "小可爱与小领带",
+            "artist": "G.G张思源",
+            "id": 544000206
+        },
+        {
+            "name": "风的颜色",
+            "artist": "NINEONE#赵馨玥",
+            "id": 1355896807
+        },
+        {
+            "name": "I don't wanna see u anymore",
+            "artist": "NINEONE#赵馨玥",
+            "id": 528326686
+        },
+        {
+            "name": "娅咪（feat 尔玛娜依）",
+            "artist": "小爱",
+            "id": 1392752940
+        },
+        {
+            "name": "可可",
+            "artist": "DouDou",
+            "id": 517933613
+        },
+        {
+            "name": "同样",
+            "artist": "Lambert",
+            "id": 1432156509
+        },
+        {
+            "name": "爱(LOVE.)",
+            "artist": "FOX胡天渝",
+            "id": 865048685
+        },
+        {
+            "name": "7 %",
+            "artist": "XMASwu(吴骜)",
+            "id": 1423241987
+        },
+        {
+            "name": "不得不爱",
+            "artist": "Lambert",
+            "id": 1384527426
+        },
+        {
+            "name": "李佳隆-berry（吕叶子 Remix）",
+            "artist": "吕叶子",
+            "id": 1405303949
+        },
+        {
+            "name": "R&B All Night",
+            "artist": "KnowKnow",
+            "id": 1408941731
+        },
+        {
+            "name": "太阳雨(SUNNY RAIN)",
+            "artist": "吕叶子",
+            "id": 1384941357
+        },
+        {
+            "name": "把最甜的都给你",
+            "artist": "兄弟本色",
+            "id": 473873638
+        },
+        {
+            "name": "Who I Wanna Be",
+            "artist": "FH",
+            "id": 1393615052
+        },
+        {
+            "name": "很高兴认识你",
+            "artist": "C-BLOCK",
+            "id": 1318571230
+        },
+        {
+            "name": "傍晚的风",
+            "artist": "Lionzed",
+            "id": 1384960885
+        },
+        {
+            "name": "Lonely Like The Moon",
+            "artist": "FH",
+            "id": 1358865094
+        },
+        {
+            "name": "纯情的玩少",
+            "artist": "FH",
+            "id": 1371608471
+        },
+        {
+            "name": "Colorful World",
+            "artist": "Vinida (万妮达)",
+            "id": 405253317
+        },
+        {
+            "name": "与你",
+            "artist": "Yee",
+            "id": 41657124
+        },
+        {
+            "name": "My boo",
+            "artist": "Vinida (万妮达)",
+            "id": 405253318
+        },
+        {
+            "name": "It's all ok (outro) (Prod.By Mai)",
+            "artist": "FH",
+            "id": 1325119463
+        },
+        {
+            "name": "想你",
+            "artist": "DouDou",
+            "id": 512418299
+        },
+        {
+            "name": "You be my love",
+            "artist": "李迦南Doc",
+            "id": 459938112
+        },
+        {
+            "name": "7",
+            "artist": "KG",
+            "id": 470164051
+        },
+        {
+            "name": "想把你留在这里",
+            "artist": "Tizzy T",
+            "id": 542691145
+        },
+        {
+            "name": "剪影",
+            "artist": "Bluso说唱团体",
+            "id": 1363553305
+        },
+        {
+            "name": "灯塔",
+            "artist": "C-BLOCK",
+            "id": 1411328772
+        },
+        {
+            "name": "湖",
+            "artist": "李棒棒Muti",
+            "id": 1321631043
+        },
+        {
+            "name": "粉色苏打",
+            "artist": "安全着陆",
+            "id": 1309833126
+        },
+        {
+            "name": "感谢你曾来过",
+            "artist": "周思涵",
+            "id": 460578140
+        },
+        {
+            "name": "野狼disco",
+            "artist": "宝石Gem",
+            "id": 1357785909
+        },
+        {
+            "name": "哪吒",
+            "artist": "GAI周延",
+            "id": 1378085345
+        },
+        {
+            "name": "马思唯（MASIWEI)-暴风雨（刘思达 Remix）",
+            "artist": "刘思达LOFTHESTAR",
+            "id": 555395231
+        },
+        {
+            "name": "莫名我就喜欢你",
+            "artist": "C-BLOCK",
+            "id": 28830157
+        },
+        {
+            "name": "拥抱你一整晚",
+            "artist": "李迦南Doc",
+            "id": 455604999
+        },
+        {
+            "name": "R.",
+            "artist": "李子豪(HtFR)",
+            "id": 1310728498
+        },
+        {
+            "name": "好想你回到我身边",
+            "artist": "顾帅Gs",
+            "id": 521272666
+        },
+        {
+            "name": "假的颗粒",
+            "artist": "Lil Jet",
+            "id": 1431276726
+        },
+        {
+            "name": "心如止水",
+            "artist": "Ice Paper",
+            "id": 1349292048
+        },
+        {
+            "name": "陪你吧",
+            "artist": "大能人(雷智皓)",
+            "id": 472493221
+        },
+        {
+            "name": "到我怀里",
+            "artist": "Pro-Z",
+            "id": 538227434
+        },
+        {
+            "name": "别说话 吻我",
+            "artist": "Yinu Boy",
+            "id": 1358124720
+        },
+        {
+            "name": "Artist (Live)",
+            "artist": "Lil Ghost小鬼",
+            "id": 543987405
+        },
+        {
+            "name": "特别",
+            "artist": "李佳隆",
+            "id": 1298898548
+        },
+        {
+            "name": "♡",
+            "artist": "Yee",
+            "id": 458943753
+        },
+        {
+            "name": "两个人的沙漠",
+            "artist": "Lil Jet",
+            "id": 553815236
+        },
+        {
+            "name": "习惯你",
+            "artist": "3Bangz",
+            "id": 538920912
+        },
+        {
+            "name": "❤那你呢❤ ",
+            "artist": "穿校服的饶舌歌手（牛牛）",
+            "id": 516240264
+        },
+        {
+            "name": "Almost Home",
+            "artist": "余佳运",
+            "id": 501220106
+        },
+        {
+            "name": "不 会 是 你 男 友",
+            "artist": "廖效浓",
+            "id": 413074253
+        },
+        {
+            "name": "给陌生的你听",
+            "artist": "G.G张思源",
+            "id": 562594322
+        },
+        {
+            "name": "住你耳朵里",
+            "artist": "Jony J",
+            "id": 419374860
+        },
+        {
+            "name": "情歌一首",
+            "artist": "Kc",
+            "id": 455304006
+        },
+        {
+            "name": "陪着你走",
+            "artist": "Gibb-Z",
+            "id": 497034035
+        },
+        {
+            "name": "坠落",
+            "artist": "李佳隆",
+            "id": 1306497504
+        },
+        {
+            "name": "She Luv This 1",
+            "artist": "CTrent陈土炮",
+            "id": 571475240
+        },
+        {
+            "name": "哪一种女孩",
+            "artist": "李迦南Doc",
+            "id": 455543831
+        },
+        {
+            "name": "夢裡面",
+            "artist": "Tizzy T",
+            "id": 41651207
+        },
+        {
+            "name": "好喜欢你",
+            "artist": "Eddie Wu",
+            "id": 1340012987
+        },
+        {
+            "name": "足够",
+            "artist": "周星星",
+            "id": 557667045
+        },
+        {
+            "name": "就这样",
+            "artist": "幼稚园杀手",
+            "id": 33223202
+        },
+        {
+            "name": "MOM",
+            "artist": "蜡笔小心",
+            "id": 1387581250
+        },
+        {
+            "name": "慢慢来",
+            "artist": "Jony J",
+            "id": 436667978
+        },
+        {
+            "name": "Swimming Pool",
+            "artist": "88rising",
+            "id": 1294910051
+        },
+        {
+            "name": "小鹿乱撞",
+            "artist": "永彬Ryan.B",
+            "id": 864100958
+        },
+        {
+            "name": "乌云中 (Live)",
+            "artist": "艾热 AIR",
+            "id": 1306498832
+        },
+        {
+            "name": "为了你",
+            "artist": "幼稚园杀手",
+            "id": 33223201
+        },
+        {
+            "name": "Wanan",
+            "artist": "齐悦",
+            "id": 533465371
+        },
+        {
+            "name": "一点点",
+            "artist": "lilMoGo",
+            "id": 1320341933
+        },
+        {
+            "name": "走心小卖家",
+            "artist": "张雪飞",
+            "id": 493784861
+        },
+        {
+            "name": "☻",
+            "artist": "齐悦",
+            "id": 471862162
+        },
+        {
+            "name": "28",
+            "artist": "Jony J",
+            "id": 1325898283
+        },
+        {
+            "name": "翅膀呀 (Prod.By Mai)",
+            "artist": "FH",
+            "id": 1305747544
+        },
+        {
+            "name": "跟我去蹦迪",
+            "artist": "AY楊佬叁",
+            "id": 472240694
+        },
+        {
+            "name": "星球杯",
+            "artist": "李佳隆",
+            "id": 464976941
+        },
+        {
+            "name": "当我",
+            "artist": "Fi9江澈",
+            "id": 482659529
+        },
+        {
+            "name": "做我女朋友",
+            "artist": "扬科YANGK",
+            "id": 503819010
+        },
+        {
+            "name": "甜",
+            "artist": "李迦南Doc",
+            "id": 465183718
+        },
+        {
+            "name": "星球坠落 (Live)",
+            "artist": "艾热 AIR",
+            "id": 1296583188
+        },
+        {
+            "name": "对你的感觉",
+            "artist": "Dom.T",
+            "id": 475073085
+        },
+        {
+            "name": "最佳男友 (Which One)",
+            "artist": "大能人(雷智皓)",
+            "id": 517738440
+        },
+        {
+            "name": "你说",
+            "artist": "李迦南Doc",
+            "id": 454556889
+        },
+        {
+            "name": "山楂树の恋",
+            "artist": "大能人(雷智皓)",
+            "id": 446557635
+        },
+        {
+            "name": "My Hot Girl",
+            "artist": "Gibb-Z",
+            "id": 528094899
+        },
+        {
+            "name": "WANT IT ",
+            "artist": "CLOUDWANG 王云",
+            "id": 434550921
+        },
+        {
+            "name": "My Man",
+            "artist": "Jony J",
+            "id": 1325896303
+        },
+        {
+            "name": "Lover Boy 88",
+            "artist": "Higher Brothers",
+            "id": 864647456
+        },
+        {
+            "name": "她",
+            "artist": "JAEFOREAL",
+            "id": 495633501
+        },
+        {
+            "name": "那一天",
+            "artist": "Toy王奕",
+            "id": 528270630
+        },
+        {
+            "name": "当妮走了",
+            "artist": "徐真真",
+            "id": 430793721
+        },
+        {
+            "name": "新鲜感",
+            "artist": "大能人(雷智皓)",
+            "id": 446627373
+        },
+        {
+            "name": "LOVE OR HATE",
+            "artist": "Yee",
+            "id": 503656412
+        },
+        {
+            "name": "全世界最温暖的情歌",
+            "artist": "性感的拖鞋OneFly",
+            "id": 26608973
+        },
+        {
+            "name": "买条街",
+            "artist": "$唐老师",
+            "id": 573843002
+        },
+        {
+            "name": "7538(Me U-Remix)",
+            "artist": "KT",
+            "id": 486111543
+        },
+        {
+            "name": "谁的情人劫 (Remix-Fisherman)",
+            "artist": "AY楊佬叁",
+            "id": 459977866
+        },
+        {
+            "name": "猫",
+            "artist": "王极",
+            "id": 469845117
+        },
+        {
+            "name": "短发",
+            "artist": "lámpo",
+            "id": 1293951568
+        },
+        {
+            "name": "有点远",
+            "artist": "执纸大魔王",
+            "id": 502253082
+        },
+        {
+            "name": "NO ONE ELSE LIKE YOU",
+            "artist": "VC°",
+            "id": 864748163
+        },
+        {
+            "name": "love9",
+            "artist": "江辰",
+            "id": 525086802
+        },
+        {
+            "name": "想你(Prod. Truman)",
+            "artist": "王极",
+            "id": 570466462
+        },
+        {
+            "name": "一个人",
+            "artist": "幼稚园杀手",
+            "id": 28987167
+        },
+        {
+            "name": "7400",
+            "artist": "Rainbow Pony",
+            "id": 514502793
+        },
+        {
+            "name": "做我的女孩",
+            "artist": "DouDou",
+            "id": 1295717199
+        },
+        {
+            "name": "她",
+            "artist": "张雪飞",
+            "id": 446557013
+        },
+        {
+            "name": "你嫌命太长(feat.胡梦周)",
+            "artist": "Mr.Trouble麻烦先生",
+            "id": 29910064
+        },
+        {
+            "name": "美少女醉士",
+            "artist": "大D(DLyn)",
+            "id": 524364691
+        },
+        {
+            "name": "失眠症晚期",
+            "artist": "DouDou",
+            "id": 475755896
+        },
+        {
+            "name": "I'm with you",
+            "artist": "kim23",
+            "id": 443967885
+        },
+        {
+            "name": "爱你哟",
+            "artist": "Y.A",
+            "id": 862098202
+        },
+        {
+            "name": "Firewalking (Live)",
+            "artist": "ONER灵超",
+            "id": 545590290
+        },
+        {
+            "name": "目不转睛",
+            "artist": "王以太",
+            "id": 546279760
+        },
+        {
+            "name": "Lover Boy 88",
+            "artist": "88rising",
+            "id": 1293951985
+        },
+        {
+            "name": "再也没有",
+            "artist": "永彬Ryan.B",
+            "id": 480580003
+        },
+        {
+            "name": "燃",
+            "artist": "满舒克",
+            "id": 562597376
+        },
+        {
+            "name": "NiceGirl",
+            "artist": "IIYC",
+            "id": 482670609
+        },
+        {
+            "name": "你",
+            "artist": "NaCho",
+            "id": 536094407
+        },
+        {
+            "name": "Venus",
+            "artist": "Lil Jet",
+            "id": 536623272
+        },
+        {
+            "name": "只想对你说",
+            "artist": "掌嘴",
+            "id": 488532353
+        },
+        {
+            "name": "你泡的茶",
+            "artist": "刘明宇Lil-7",
+            "id": 552279187
+        },
+        {
+            "name": "MILKETEA",
+            "artist": "JAEFOREAL",
+            "id": 490264177
+        }
+    ]
+}

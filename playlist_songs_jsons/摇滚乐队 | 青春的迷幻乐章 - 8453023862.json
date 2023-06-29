@@ -1,0 +1,377 @@
+{
+    "playlist_info": {
+        "name": "摇滚乐队 | 青春的迷幻乐章",
+        "trackcount": 73,
+        "playcount": 31,
+        "creator": "雾醉野",
+        "createDate": "2023-06-03",
+        "heat": 1.0
+    },
+    "songs": [
+        {
+            "name": "在2103公里之间",
+            "artist": "icyball 冰球乐团",
+            "id": 1806104881
+        },
+        {
+            "name": "她说她要杀了我",
+            "artist": "Sunken Boat 沉舟乐队",
+            "id": 1891887518
+        },
+        {
+            "name": "My Type",
+            "artist": "Saint Motel",
+            "id": 28946656
+        },
+        {
+            "name": "秋日苦难",
+            "artist": "南青乐队",
+            "id": 1872448528
+        },
+        {
+            "name": "爱是我们必经的辛苦",
+            "artist": "Crispy脆乐团",
+            "id": 1977496761
+        },
+        {
+            "name": "Good Goodbye",
+            "artist": "ONE OK ROCK",
+            "id": 34928126
+        },
+        {
+            "name": "一次成像（Best Scene）",
+            "artist": "橘子海 (Orange Ocean)",
+            "id": 2051707056
+        },
+        {
+            "name": "明天的报纸上刊登我死去的消息",
+            "artist": "南青乐队",
+            "id": 2021132280
+        },
+        {
+            "name": "但",
+            "artist": "草东没有派对",
+            "id": 2035320743
+        },
+        {
+            "name": "我要让你心碎",
+            "artist": "达闻西乐队",
+            "id": 1404845902
+        },
+        {
+            "name": "走吧",
+            "artist": "棱镜乐队",
+            "id": 562597267
+        },
+        {
+            "name": "Lost Deer",
+            "artist": "棱镜乐队",
+            "id": 430026034
+        },
+        {
+            "name": "花园 (Perfume)",
+            "artist": "温和治疗(MILDCURE)",
+            "id": 1481688592
+        },
+        {
+            "name": "Let Me Let You Go (Japanese Version)",
+            "artist": "ONE OK ROCK",
+            "id": 1975967142
+        },
+        {
+            "name": "Jaded (feat. Alex Gaskarth)",
+            "artist": "ONE OK ROCK",
+            "id": 441102542
+        },
+        {
+            "name": "One Way Ticket",
+            "artist": "ONE OK ROCK",
+            "id": 441102548
+        },
+        {
+            "name": "美好的事可不可以发生在我身上",
+            "artist": "康士坦的变化球",
+            "id": 1501530173
+        },
+        {
+            "name": "Two Straight Lines",
+            "artist": "Walking On Cars",
+            "id": 1358213473
+        },
+        {
+            "name": "大风吹",
+            "artist": "草东没有派对",
+            "id": 411314657
+        },
+        {
+            "name": "逝去的歌",
+            "artist": "旅行团乐队",
+            "id": 36199725
+        },
+        {
+            "name": "独角兽",
+            "artist": "告五人",
+            "id": 511920319
+        },
+        {
+            "name": "哑牛",
+            "artist": "蛙池",
+            "id": 1834727583
+        },
+        {
+            "name": "远方",
+            "artist": "点灯人（Lamplighters）",
+            "id": 521169975
+        },
+        {
+            "name": "永远都会在",
+            "artist": "旅行团乐队",
+            "id": 486999662
+        },
+        {
+            "name": "来到你身边",
+            "artist": "反光镜",
+            "id": 424264438
+        },
+        {
+            "name": "Go Downstairs to the Blue Moon, Buy Some Fried Chicken",
+            "artist": "Bubble Tea and Cigarettes",
+            "id": 1464952919
+        },
+        {
+            "name": "精卫",
+            "artist": "30年前，50年后",
+            "id": 1951069525
+        },
+        {
+            "name": "愿望交换商店",
+            "artist": "夏日入侵企画",
+            "id": 1335980476
+        },
+        {
+            "name": "Episode 33",
+            "artist": "She Her Her Hers",
+            "id": 1400424646
+        },
+        {
+            "name": "Arrows",
+            "artist": "She Her Her Hers",
+            "id": 1859866020
+        },
+        {
+            "name": "Bloody Mary Girl",
+            "artist": "She Her Her Hers",
+            "id": 1400424017
+        },
+        {
+            "name": "天空是灰色你是蓝色",
+            "artist": "GALA",
+            "id": 1380905486
+        },
+        {
+            "name": "无人的海边",
+            "artist": "霓虹花园",
+            "id": 1388674995
+        },
+        {
+            "name": "缸",
+            "artist": "草东没有派对",
+            "id": 2046562196
+        },
+        {
+            "name": "初恋",
+            "artist": "回春丹",
+            "id": 1873049720
+        },
+        {
+            "name": "你出现时",
+            "artist": "帆布小镇",
+            "id": 1906016163
+        },
+        {
+            "name": "夏日漱石 (Summer Cozy Rock)",
+            "artist": "橘子海 (Orange Ocean)",
+            "id": 1359818052
+        },
+        {
+            "name": "Alpha",
+            "artist": "橘子海 (Orange Ocean)",
+            "id": 1359815265
+        },
+        {
+            "name": "能不能和我留在台北（陪我几天）",
+            "artist": "icyball 冰球乐团",
+            "id": 2008524195
+        },
+        {
+            "name": "给你一瓶魔法药水",
+            "artist": "告五人",
+            "id": 1959667345
+        },
+        {
+            "name": "碎星",
+            "artist": "白色海岸The White Coast",
+            "id": 2028884728
+        },
+        {
+            "name": "Love Is Love",
+            "artist": "昨夜派对（L.N Party）",
+            "id": 1864902904
+        },
+        {
+            "name": "又到天黑",
+            "artist": "告五人",
+            "id": 2015647807
+        },
+        {
+            "name": "红",
+            "artist": "告五人",
+            "id": 1368756097
+        },
+        {
+            "name": "相爱就是说了100次对不起",
+            "artist": "Crispy脆乐团",
+            "id": 1981999919
+        },
+        {
+            "name": "黑暗的尽头",
+            "artist": "Crispy脆乐团",
+            "id": 1803590868
+        },
+        {
+            "name": "我要你好好的",
+            "artist": "帆布小镇",
+            "id": 1438463386
+        },
+        {
+            "name": "日落海岸线",
+            "artist": "浪旅LongTravel",
+            "id": 1904678833
+        },
+        {
+            "name": "唯一",
+            "artist": "告五人",
+            "id": 1807799505
+        },
+        {
+            "name": "海浪",
+            "artist": "deca joins",
+            "id": 1320101152
+        },
+        {
+            "name": "在我二十岁的时候，我回到了爸爸的小村庄，那是我的乌托邦",
+            "artist": "悲伤玩具",
+            "id": 1381161677
+        },
+        {
+            "name": "我想去跨越你离我很近但又像相隔一万里的河",
+            "artist": "悲伤玩具",
+            "id": 2008082644
+        },
+        {
+            "name": "白色海岸(The White Coast)",
+            "artist": "白色海岸The White Coast",
+            "id": 1940595821
+        },
+        {
+            "name": "海浪",
+            "artist": "红白色乐队",
+            "id": 514774334
+        },
+        {
+            "name": "无法拥有的人要好好道别",
+            "artist": "棱镜乐队",
+            "id": 1473721141
+        },
+        {
+            "name": "背上悲伤北上",
+            "artist": "Crispy脆乐团",
+            "id": 1981999125
+        },
+        {
+            "name": "不说可惜",
+            "artist": "棱镜乐队",
+            "id": 2042984221
+        },
+        {
+            "name": "人间萤火",
+            "artist": "夏日入侵企画",
+            "id": 1954090536
+        },
+        {
+            "name": "鬼",
+            "artist": "草东没有派对",
+            "id": 411315635
+        },
+        {
+            "name": "How to...",
+            "artist": "橘子海 (Orange Ocean)",
+            "id": 1833848187
+        },
+        {
+            "name": "晚安昨日",
+            "artist": "对角巷乐队",
+            "id": 1357692846
+        },
+        {
+            "name": "我凭什么快乐",
+            "artist": "新学校废物合唱团",
+            "id": 1986992790
+        },
+        {
+            "name": "Jellyfish (feat. Michael Seyer)",
+            "artist": "落日飞车",
+            "id": 1967753523
+        },
+        {
+            "name": "这是我一生中最勇敢的瞬间",
+            "artist": "棱镜乐队",
+            "id": 1366216050
+        },
+        {
+            "name": "Sona",
+            "artist": "橘子海 (Orange Ocean)",
+            "id": 1906232662
+        },
+        {
+            "name": "梵高曾经对我说",
+            "artist": "橘子海 (Orange Ocean)",
+            "id": 1462913210
+        },
+        {
+            "name": "zeitgeist",
+            "artist": "She Her Her Hers",
+            "id": 1810044891
+        },
+        {
+            "name": "Mo ai ni",
+            "artist": "She Her Her Hers",
+            "id": 2048698404
+        },
+        {
+            "name": "爱上这样的疯狂",
+            "artist": "旅行团乐队",
+            "id": 2047065263
+        },
+        {
+            "name": "岛屿",
+            "artist": "棱镜乐队",
+            "id": 1418131335
+        },
+        {
+            "name": "搁浅的人",
+            "artist": "康士坦的变化球",
+            "id": 447925725
+        },
+        {
+            "name": "醉后喜欢我",
+            "artist": "icyball 冰球乐团",
+            "id": 1903991816
+        },
+        {
+            "name": "床",
+            "artist": "草东没有派对",
+            "id": 2035279723
+        }
+    ]
+}

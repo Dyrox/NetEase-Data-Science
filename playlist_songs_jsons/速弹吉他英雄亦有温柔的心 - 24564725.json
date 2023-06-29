@@ -1,0 +1,922 @@
+{
+    "playlist_info": {
+        "name": "速弹吉他英雄亦有温柔的心",
+        "trackcount": 182,
+        "playcount": 313041,
+        "creator": "MISFITS88",
+        "createDate": "2014-08-13",
+        "heat": 96.0
+    },
+    "songs": [
+        {
+            "name": "Electric Sea",
+            "artist": "Buckethead",
+            "id": 1080415
+        },
+        {
+            "name": "Beyond the Knowing",
+            "artist": "Buckethead",
+            "id": 1080421
+        },
+        {
+            "name": "Swamee Swan",
+            "artist": "Buckethead",
+            "id": 1080426
+        },
+        {
+            "name": "Point Doom",
+            "artist": "Buckethead",
+            "id": 1080431
+        },
+        {
+            "name": "El Indio",
+            "artist": "Buckethead",
+            "id": 1080436
+        },
+        {
+            "name": "La Wally",
+            "artist": "Buckethead",
+            "id": 1080441
+        },
+        {
+            "name": "La Gavotte",
+            "artist": "Buckethead",
+            "id": 1080444
+        },
+        {
+            "name": "Bachethead",
+            "artist": "Buckethead",
+            "id": 1080447
+        },
+        {
+            "name": "Yokohama",
+            "artist": "Buckethead",
+            "id": 1080451
+        },
+        {
+            "name": "Gateless Gate",
+            "artist": "Buckethead",
+            "id": 1080455
+        },
+        {
+            "name": "Homing Beacon",
+            "artist": "Buckethead",
+            "id": 1080458
+        },
+        {
+            "name": "Cliffs Of Dover (Instrumental)",
+            "artist": "Eric Johnson",
+            "id": 17571435
+        },
+        {
+            "name": "Little Wing",
+            "artist": "Stevie Ray Vaughan",
+            "id": 1939512
+        },
+        {
+            "name": "Scuttle Buttin'",
+            "artist": "Stevie Ray Vaughan",
+            "id": 1939910
+        },
+        {
+            "name": "Wayne",
+            "artist": "John Frusciante",
+            "id": 26193499
+        },
+        {
+            "name": "Tender Surrender",
+            "artist": "Steve Vai",
+            "id": 1937150
+        },
+        {
+            "name": "Emotive Ballad",
+            "artist": "Guthrie Govan",
+            "id": 1416264
+        },
+        {
+            "name": "Doobie Vibe",
+            "artist": "Guthrie Govan",
+            "id": 1416262
+        },
+        {
+            "name": "Pike 43, Pt. 6",
+            "artist": "Buckethead",
+            "id": 28252896
+        },
+        {
+            "name": "Track 02",
+            "artist": "Buckethead",
+            "id": 27584182
+        },
+        {
+            "name": "Whitewash",
+            "artist": "Buckethead",
+            "id": 22581012
+        },
+        {
+            "name": "Ghost",
+            "artist": "Buckethead",
+            "id": 22581014
+        },
+        {
+            "name": "Big Sur Moon",
+            "artist": "Buckethead",
+            "id": 22581016
+        },
+        {
+            "name": "Ascending Soul",
+            "artist": "Buckethead",
+            "id": 28153191
+        },
+        {
+            "name": "Claymation Courtyard",
+            "artist": "Buckethead",
+            "id": 28533584
+        },
+        {
+            "name": "The Left Panel",
+            "artist": "Buckethead",
+            "id": 31140336
+        },
+        {
+            "name": "Hills Of Eternity",
+            "artist": "Buckethead",
+            "id": 22581015
+        },
+        {
+            "name": "For Mom",
+            "artist": "Buckethead",
+            "id": 22581013
+        },
+        {
+            "name": "Colma",
+            "artist": "Buckethead",
+            "id": 22581024
+        },
+        {
+            "name": "Machete",
+            "artist": "Buckethead",
+            "id": 22581017
+        },
+        {
+            "name": "Nasty (feat. Jason Richardson)",
+            "artist": "Polyphia",
+            "id": 1316778033
+        },
+        {
+            "name": "Belvedere",
+            "artist": "Intervals",
+            "id": 522631199
+        },
+        {
+            "name": "Scatterbrain",
+            "artist": "Jeff Beck",
+            "id": 18604260
+        },
+        {
+            "name": "Kashmir",
+            "artist": "Escala",
+            "id": 17625648
+        },
+        {
+            "name": "Bittersweet",
+            "artist": "Polyphia",
+            "id": 407000143
+        },
+        {
+            "name": "Crush",
+            "artist": "Polyphia",
+            "id": 407000148
+        },
+        {
+            "name": "Drown",
+            "artist": "Polyphia",
+            "id": 1316777148
+        },
+        {
+            "name": "Satellites",
+            "artist": "Periphery",
+            "id": 1356157596
+        },
+        {
+            "name": "G.O.A.T.",
+            "artist": "Polyphia",
+            "id": 570010342
+        },
+        {
+            "name": "Big D's Touch",
+            "artist": "Buckethead",
+            "id": 1081412
+        },
+        {
+            "name": "Coat Of Charms",
+            "artist": "Buckethead",
+            "id": 28152997
+        },
+        {
+            "name": "Noche Acosador",
+            "artist": "John 5",
+            "id": 1478006
+        },
+        {
+            "name": "Wonderful Slippery Thing",
+            "artist": "Guthrie Govan",
+            "id": 19869933
+        },
+        {
+            "name": "For the Love of God",
+            "artist": "Steve Vai",
+            "id": 21592359
+        },
+        {
+            "name": "If I Could Fly",
+            "artist": "Joe Satriani",
+            "id": 18621736
+        },
+        {
+            "name": "Ten Words",
+            "artist": "Joe Satriani",
+            "id": 18621780
+        },
+        {
+            "name": "Starry Night",
+            "artist": "Joe Satriani",
+            "id": 18621916
+        },
+        {
+            "name": "Elysium",
+            "artist": "Chelsea Grin",
+            "id": 17155022
+        },
+        {
+            "name": "Scar Tissue",
+            "artist": "Red Hot Chili Peppers",
+            "id": 21536212
+        },
+        {
+            "name": "James Franco",
+            "artist": "Polyphia",
+            "id": 28983126
+        },
+        {
+            "name": "Champagne",
+            "artist": "Polyphia",
+            "id": 28983120
+        },
+        {
+            "name": "Eyes of the World",
+            "artist": "Andy James",
+            "id": 28661726
+        },
+        {
+            "name": "Culture Shock",
+            "artist": "Polyphia",
+            "id": 407000138
+        },
+        {
+            "name": "Florence",
+            "artist": "Polyphia",
+            "id": 407000140
+        },
+        {
+            "name": "Ivory",
+            "artist": "Polyphia",
+            "id": 407000145
+        },
+        {
+            "name": "Light",
+            "artist": "Polyphia",
+            "id": 407000139
+        },
+        {
+            "name": "Nightmare",
+            "artist": "Polyphia",
+            "id": 407000141
+        },
+        {
+            "name": "Storm",
+            "artist": "Polyphia",
+            "id": 407000142
+        },
+        {
+            "name": "Symmetry",
+            "artist": "Polyphia",
+            "id": 407000144
+        },
+        {
+            "name": "Paradise",
+            "artist": "Polyphia",
+            "id": 407000146
+        },
+        {
+            "name": "Amour",
+            "artist": "Polyphia",
+            "id": 407000147
+        },
+        {
+            "name": "Euphoria",
+            "artist": "Polyphia",
+            "id": 407000149
+        },
+        {
+            "name": "Sharing Space",
+            "artist": "Buckethead",
+            "id": 28153192
+        },
+        {
+            "name": "Fog rain/雾雨",
+            "artist": "直惘乐队",
+            "id": 509888368
+        },
+        {
+            "name": "87",
+            "artist": "Polyphia",
+            "id": 28983118
+        },
+        {
+            "name": "Sweet Tea",
+            "artist": "Polyphia",
+            "id": 28983119
+        },
+        {
+            "name": "Aviator",
+            "artist": "Polyphia",
+            "id": 28983121
+        },
+        {
+            "name": "The Jungle",
+            "artist": "Polyphia",
+            "id": 28983122
+        },
+        {
+            "name": "Memory",
+            "artist": "Polyphia",
+            "id": 28983123
+        },
+        {
+            "name": "Mood Swing",
+            "artist": "Polyphia",
+            "id": 28983124
+        },
+        {
+            "name": "Hourglass",
+            "artist": "Polyphia",
+            "id": 28983125
+        },
+        {
+            "name": "Baditude",
+            "artist": "Polyphia",
+            "id": 28983127
+        },
+        {
+            "name": "Finale",
+            "artist": "Polyphia",
+            "id": 28983128
+        },
+        {
+            "name": "Bella Kiss",
+            "artist": "John 5",
+            "id": 18615010
+        },
+        {
+            "name": "Wishful Thinking",
+            "artist": "John Petrucci",
+            "id": 1482523
+        },
+        {
+            "name": "Sweet Child O' Mine",
+            "artist": "Guns N' Roses",
+            "id": 18095043
+        },
+        {
+            "name": "Loud",
+            "artist": "Polyphia",
+            "id": 559735794
+        },
+        {
+            "name": "Icronic",
+            "artist": "Polyphia",
+            "id": 559735795
+        },
+        {
+            "name": "Goose",
+            "artist": "Polyphia",
+            "id": 559735796
+        },
+        {
+            "name": "Crosty",
+            "artist": "Polyphia",
+            "id": 559735798
+        },
+        {
+            "name": "The Worst",
+            "artist": "Polyphia",
+            "id": 559735799
+        },
+        {
+            "name": "40oz",
+            "artist": "Polyphia",
+            "id": 559735797
+        },
+        {
+            "name": "Yas",
+            "artist": "Polyphia",
+            "id": 1308720088
+        },
+        {
+            "name": "Fives",
+            "artist": "Guthrie Govan",
+            "id": 19869935
+        },
+        {
+            "name": "Ner Ner",
+            "artist": "Guthrie Govan",
+            "id": 19869934
+        },
+        {
+            "name": "Like an Angel",
+            "artist": "Yngwie Malmsteen",
+            "id": 2103706
+        },
+        {
+            "name": "Song For Home",
+            "artist": "Neil Zaza",
+            "id": 1802869
+        },
+        {
+            "name": "Cold Winter",
+            "artist": "Guthrie Govan",
+            "id": 1416306
+        },
+        {
+            "name": "The Cost Of Loving",
+            "artist": "Guthrie Govan",
+            "id": 26569320
+        },
+        {
+            "name": "Beautiful Imperfection - Jam track",
+            "artist": "Guthrie Govan",
+            "id": 26569304
+        },
+        {
+            "name": "LA Acoustic",
+            "artist": "Guthrie Govan",
+            "id": 1416274
+        },
+        {
+            "name": "Good Enough",
+            "artist": "Guthrie Govan",
+            "id": 1416269
+        },
+        {
+            "name": "Country Road",
+            "artist": "Guthrie Govan",
+            "id": 1416261
+        },
+        {
+            "name": "Lights of Heaven",
+            "artist": "Joe Satriani",
+            "id": 1477356
+        },
+        {
+            "name": "Just Look Up",
+            "artist": "Joe Satriani",
+            "id": 18621738
+        },
+        {
+            "name": "Always With Me, Always With You",
+            "artist": "Joe Satriani",
+            "id": 18621791
+        },
+        {
+            "name": "The Homing Beacon(Michael Jackson Tribute)",
+            "artist": "Buckethead",
+            "id": 1081308
+        },
+        {
+            "name": "Infinity of the Spheres",
+            "artist": "Buckethead",
+            "id": 31165132
+        },
+        {
+            "name": "Rain",
+            "artist": "Jason Becker",
+            "id": 1496693
+        },
+        {
+            "name": "River of Longing",
+            "artist": "Jason Becker",
+            "id": 1496697
+        },
+        {
+            "name": "Images",
+            "artist": "Jason Becker",
+            "id": 1496701
+        },
+        {
+            "name": "End of the Beginning",
+            "artist": "Jason Becker",
+            "id": 1496725
+        },
+        {
+            "name": "Dweller in the Cellar",
+            "artist": "Jason Becker",
+            "id": 1497082
+        },
+        {
+            "name": "Air",
+            "artist": "Jason Becker",
+            "id": 1497071
+        },
+        {
+            "name": "Liquid Mantis",
+            "artist": "Buckethead",
+            "id": 31165133
+        },
+        {
+            "name": "Hang 11",
+            "artist": "John Petrucci",
+            "id": 1482586
+        },
+        {
+            "name": "Truth",
+            "artist": "John Petrucci",
+            "id": 1482569
+        },
+        {
+            "name": "Lost Without You",
+            "artist": "John Petrucci",
+            "id": 1482540
+        },
+        {
+            "name": "Liberty (Naked)",
+            "artist": "Steve Vai",
+            "id": 1936589
+        },
+        {
+            "name": "The Crying Machine (Naked)",
+            "artist": "Steve Vai",
+            "id": 1936656
+        },
+        {
+            "name": "For The Love Of God (Naked)",
+            "artist": "Steve Vai",
+            "id": 1936600
+        },
+        {
+            "name": "Melissa's Garden",
+            "artist": "Steve Vai",
+            "id": 1937155
+        },
+        {
+            "name": "Touching Tongues",
+            "artist": "Steve Vai",
+            "id": 1937143
+        },
+        {
+            "name": "Marine Layer",
+            "artist": "Paul Gilbert",
+            "id": 18210359
+        },
+        {
+            "name": "I Cannot Tell a Lie",
+            "artist": "Paul Gilbert",
+            "id": 18210388
+        },
+        {
+            "name": "W.T.R.O",
+            "artist": "Paul Gilbert",
+            "id": 3229445
+        },
+        {
+            "name": "My Girl",
+            "artist": "Paul Gilbert",
+            "id": 28870267
+        },
+        {
+            "name": "Hey Joe",
+            "artist": "Paul Gilbert",
+            "id": 3229991
+        },
+        {
+            "name": "Goodbye Yellow Brick Road",
+            "artist": "Paul Gilbert",
+            "id": 28870262
+        },
+        {
+            "name": "To Be with You (Live)",
+            "artist": "Paul Gilbert",
+            "id": 3229818
+        },
+        {
+            "name": "Shimmering Highs (Album Version)",
+            "artist": "John Norum",
+            "id": 18582775
+        },
+        {
+            "name": "All Along The Watchtower",
+            "artist": "Michael Angelo",
+            "id": 1465401961
+        },
+        {
+            "name": "Dream On",
+            "artist": "Michael Angelo",
+            "id": 1465406273
+        },
+        {
+            "name": "Song For George (Instrumental)",
+            "artist": "Eric Johnson",
+            "id": 17571441
+        },
+        {
+            "name": "Angel",
+            "artist": "Neil Zaza",
+            "id": 1802821
+        },
+        {
+            "name": "Clothes of Sand",
+            "artist": "Nick Drake",
+            "id": 1787373
+        },
+        {
+            "name": "Prelude to April",
+            "artist": "Yngwie Malmsteen",
+            "id": 2103733
+        },
+        {
+            "name": "Sorrow",
+            "artist": "Yngwie Malmsteen",
+            "id": 2103730
+        },
+        {
+            "name": "Miracle of Life",
+            "artist": "Yngwie Malmsteen",
+            "id": 2103727
+        },
+        {
+            "name": "Ocean Sonata",
+            "artist": "Yngwie Malmsteen",
+            "id": 2103724
+        },
+        {
+            "name": "Save Our Love",
+            "artist": "Yngwie Malmsteen",
+            "id": 2103722
+        },
+        {
+            "name": "Memories",
+            "artist": "Yngwie Malmsteen",
+            "id": 2103719
+        },
+        {
+            "name": "Brothers",
+            "artist": "Yngwie Malmsteen",
+            "id": 2103715
+        },
+        {
+            "name": "Crying",
+            "artist": "Yngwie Malmsteen",
+            "id": 2103712
+        },
+        {
+            "name": "Forever One",
+            "artist": "Yngwie Malmsteen",
+            "id": 2103703
+        },
+        {
+            "name": "Black Star",
+            "artist": "Yngwie Malmsteen",
+            "id": 20741596
+        },
+        {
+            "name": "Watching The Boats With My Dad",
+            "artist": "Buckethead",
+            "id": 22581022
+        },
+        {
+            "name": "Wondering",
+            "artist": "Buckethead",
+            "id": 22581021
+        },
+        {
+            "name": "Wishing Well",
+            "artist": "Buckethead",
+            "id": 22581018
+        },
+        {
+            "name": "Lone Sal Bug",
+            "artist": "Buckethead",
+            "id": 22581019
+        },
+        {
+            "name": "Springtime Groove",
+            "artist": "Thomas Leeb",
+            "id": 2059378
+        },
+        {
+            "name": "riddle",
+            "artist": "Thomas Leeb",
+            "id": 2059377
+        },
+        {
+            "name": "Eva",
+            "artist": "Dominic Miller",
+            "id": 28659199
+        },
+        {
+            "name": "Chanson II",
+            "artist": "Dominic Miller",
+            "id": 17236123
+        },
+        {
+            "name": "Chanson I",
+            "artist": "Dominic Miller",
+            "id": 17236121
+        },
+        {
+            "name": "Last Dance",
+            "artist": "Dominic Miller",
+            "id": 1226093
+        },
+        {
+            "name": "Do You Want Me",
+            "artist": "Dominic Miller",
+            "id": 1226084
+        },
+        {
+            "name": "Dali",
+            "artist": "Frank Gambale",
+            "id": 1349242
+        },
+        {
+            "name": "Pike 43, Pt. 1",
+            "artist": "Buckethead",
+            "id": 28252891
+        },
+        {
+            "name": "Pike 43, Pt. 2",
+            "artist": "Buckethead",
+            "id": 28252892
+        },
+        {
+            "name": "Pike 43, Pt. 3",
+            "artist": "Buckethead",
+            "id": 28252893
+        },
+        {
+            "name": "Pike 43, Pt. 5",
+            "artist": "Buckethead",
+            "id": 28252895
+        },
+        {
+            "name": "Track 01",
+            "artist": "Buckethead",
+            "id": 27584181
+        },
+        {
+            "name": "Track 03",
+            "artist": "Buckethead",
+            "id": 27584183
+        },
+        {
+            "name": "Track 04",
+            "artist": "Buckethead",
+            "id": 27584184
+        },
+        {
+            "name": "Track 05",
+            "artist": "Buckethead",
+            "id": 27584185
+        },
+        {
+            "name": "Track 06",
+            "artist": "Buckethead",
+            "id": 27584186
+        },
+        {
+            "name": "Track 07",
+            "artist": "Buckethead",
+            "id": 27584187
+        },
+        {
+            "name": "Track 08",
+            "artist": "Buckethead",
+            "id": 27584188
+        },
+        {
+            "name": "The Castle",
+            "artist": "John 5",
+            "id": 1478038
+        },
+        {
+            "name": "Behind the Nut Love",
+            "artist": "John 5",
+            "id": 18614986
+        },
+        {
+            "name": "Geinwith Envy",
+            "artist": "John 5",
+            "id": 18614984
+        },
+        {
+            "name": "Pity Belt",
+            "artist": "John 5",
+            "id": 1478182
+        },
+        {
+            "name": "Can I Live Again",
+            "artist": "John 5",
+            "id": 18615035
+        },
+        {
+            "name": "Stray Bullets",
+            "artist": "The Nightwatchman",
+            "id": 27103587
+        },
+        {
+            "name": "The Dogs Of Tijuana",
+            "artist": "The Nightwatchman",
+            "id": 27103580
+        },
+        {
+            "name": "The King of Hell",
+            "artist": "Tom Morello",
+            "id": 4391733
+        },
+        {
+            "name": "Slash Solo + The Godfather",
+            "artist": "Slash",
+            "id": 1975678
+        },
+        {
+            "name": "The Godfather Solo",
+            "artist": "Slash",
+            "id": 19086999
+        },
+        {
+            "name": "Here's To Us",
+            "artist": "Halestorm",
+            "id": 26347026
+        },
+        {
+            "name": "Gotten",
+            "artist": "Slash",
+            "id": 19086960
+        },
+        {
+            "name": "Heart of Gold",
+            "artist": "Black Label Society",
+            "id": 1093028
+        },
+        {
+            "name": "Angel of Mercy",
+            "artist": "Black Label Society",
+            "id": 28391164
+        },
+        {
+            "name": "I Never Dreamed",
+            "artist": "Black Label Society",
+            "id": 16603476
+        },
+        {
+            "name": "Cry Me a River",
+            "artist": "Zakk Wylde",
+            "id": 3862125
+        },
+        {
+            "name": "Sold My Soul",
+            "artist": "Zakk Wylde",
+            "id": 19920819
+        },
+        {
+            "name": "Going Inside (Album Version)",
+            "artist": "John Frusciante",
+            "id": 18622581
+        },
+        {
+            "name": "A Corner (EP Version)",
+            "artist": "John Frusciante",
+            "id": 18622488
+        },
+        {
+            "name": "Dissolve (EP Version)",
+            "artist": "John Frusciante",
+            "id": 18622486
+        },
+        {
+            "name": "Outside Space",
+            "artist": "John Frusciante",
+            "id": 27473640
+        },
+        {
+            "name": "Murderers (Album Version)",
+            "artist": "John Frusciante",
+            "id": 18622590
+        },
+        {
+            "name": "Omission",
+            "artist": "John Frusciante",
+            "id": 1509257
+        }
+    ]
+}

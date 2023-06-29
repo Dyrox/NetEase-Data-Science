@@ -1,0 +1,582 @@
+{
+    "playlist_info": {
+        "name": "轻快节奏｜理想的生活需要热爱和心动",
+        "trackcount": 114,
+        "playcount": 65501,
+        "creator": "谨慎的勇士",
+        "createDate": "2023-02-17",
+        "heat": 497.0
+    },
+    "songs": [
+        {
+            "name": "concussion",
+            "artist": "southernwade",
+            "id": 1995356955
+        },
+        {
+            "name": "Brand New",
+            "artist": "Public Library Commute",
+            "id": 1871345560
+        },
+        {
+            "name": "EASY ON ME",
+            "artist": "HONNE",
+            "id": 1888191983
+        },
+        {
+            "name": "Reasons You Should Care",
+            "artist": "Fiji Blue",
+            "id": 1833855913
+        },
+        {
+            "name": "12 Hours",
+            "artist": "Chris James",
+            "id": 1952396683
+        },
+        {
+            "name": "POLAROID FILM",
+            "artist": "Kayden",
+            "id": 1960525723
+        },
+        {
+            "name": "dirty white chucks",
+            "artist": "Nightly",
+            "id": 1985630372
+        },
+        {
+            "name": "Look What God Gave Her",
+            "artist": "Thomas Rhett",
+            "id": 1368694712
+        },
+        {
+            "name": "The Cool Kid",
+            "artist": "Chris James",
+            "id": 1952396680
+        },
+        {
+            "name": "feel the same",
+            "artist": "The Millennial Club",
+            "id": 1438531129
+        },
+        {
+            "name": "The Race",
+            "artist": "Chris James",
+            "id": 2017118831
+        },
+        {
+            "name": "Window Shopping",
+            "artist": "Yorke",
+            "id": 1847912611
+        },
+        {
+            "name": "Headstrong",
+            "artist": "Fintan",
+            "id": 1350705977
+        },
+        {
+            "name": "What's Been On Your Mind?",
+            "artist": "Surfaces",
+            "id": 1954893167
+        },
+        {
+            "name": "Think Back",
+            "artist": "Nolie",
+            "id": 1853784299
+        },
+        {
+            "name": "Walk Away",
+            "artist": "Mina Okabe",
+            "id": 1832570178
+        },
+        {
+            "name": "Late Night Friends",
+            "artist": "Nathan Trent",
+            "id": 1910857769
+        },
+        {
+            "name": "break up with that guy.",
+            "artist": "Virginia To Vegas",
+            "id": 2001513148
+        },
+        {
+            "name": "Different Lives",
+            "artist": "Fly By Midnight",
+            "id": 2025563160
+        },
+        {
+            "name": "r.i.p.",
+            "artist": "Virginia To Vegas",
+            "id": 2023187618
+        },
+        {
+            "name": "Better Alone",
+            "artist": "Peder Elias",
+            "id": 1937096438
+        },
+        {
+            "name": "Less Than You",
+            "artist": "Tep No",
+            "id": 1887091329
+        },
+        {
+            "name": "Brokenhearted",
+            "artist": "KAIRO",
+            "id": 1989946335
+        },
+        {
+            "name": "Can You Love Me Tonight?",
+            "artist": "KAIRO",
+            "id": 1949886777
+        },
+        {
+            "name": "Over",
+            "artist": "KAIRO",
+            "id": 1996073777
+        },
+        {
+            "name": "Wake Up Call",
+            "artist": "Mel Blue",
+            "id": 1817136575
+        },
+        {
+            "name": "You Know What?",
+            "artist": "Madeline Juno",
+            "id": 37906423
+        },
+        {
+            "name": "GROWING UP IS ____",
+            "artist": "Ruel",
+            "id": 1897230151
+        },
+        {
+            "name": "Lion",
+            "artist": "Hearts & Colors",
+            "id": 1491054227
+        },
+        {
+            "name": "Don't Rush",
+            "artist": "Chris James",
+            "id": 1485809892
+        },
+        {
+            "name": "BIG PLANS",
+            "artist": "Why Don't We",
+            "id": 1339550105
+        },
+        {
+            "name": "I Wanna Be with You",
+            "artist": "Chris James",
+            "id": 1999119695
+        },
+        {
+            "name": "Black Coffee",
+            "artist": "AVIV",
+            "id": 1830897694
+        },
+        {
+            "name": "SOCIETY",
+            "artist": "Valley",
+            "id": 1882959983
+        },
+        {
+            "name": "Got You",
+            "artist": "Matt Terry",
+            "id": 520525413
+        },
+        {
+            "name": "In The Night",
+            "artist": "Fly By Midnight",
+            "id": 1972532365
+        },
+        {
+            "name": "Dance When You Cry",
+            "artist": "Fiji Blue",
+            "id": 1948717759
+        },
+        {
+            "name": "Addicted",
+            "artist": "Alex Parker",
+            "id": 1387592826
+        },
+        {
+            "name": "Yellow Bus",
+            "artist": "77 Bombay Street",
+            "id": 1849193322
+        },
+        {
+            "name": "Slow Down",
+            "artist": "Why Don't We",
+            "id": 1837093064
+        },
+        {
+            "name": "kiss cam",
+            "artist": "Zachary Knowles",
+            "id": 2041112146
+        },
+        {
+            "name": "Start Again",
+            "artist": "Connor Price",
+            "id": 1956990495
+        },
+        {
+            "name": "outerspace",
+            "artist": "Virginia To Vegas",
+            "id": 1917549282
+        },
+        {
+            "name": "If You Go",
+            "artist": "Wildflowers",
+            "id": 1408865549
+        },
+        {
+            "name": "Everything's Good",
+            "artist": "Phil Good",
+            "id": 1451252177
+        },
+        {
+            "name": "Tell A Son",
+            "artist": "Peder Elias",
+            "id": 1992088710
+        },
+        {
+            "name": "you won't be there for me",
+            "artist": "slchld",
+            "id": 1865059166
+        },
+        {
+            "name": "Weekend",
+            "artist": "Clubhouse",
+            "id": 1447055560
+        },
+        {
+            "name": "TWFNO",
+            "artist": "Tiffany Day",
+            "id": 1433561390
+        },
+        {
+            "name": "January",
+            "artist": "Alexander Oscar",
+            "id": 1810258988
+        },
+        {
+            "name": "Be The One",
+            "artist": "Bree Runway",
+            "id": 2041040416
+        },
+        {
+            "name": "Yards / Gardens",
+            "artist": "Kate Bollinger",
+            "id": 1915457104
+        },
+        {
+            "name": "mems",
+            "artist": "Bri Tolani",
+            "id": 1825129718
+        },
+        {
+            "name": "stranger to me",
+            "artist": "Zachary Knowles",
+            "id": 1856228636
+        },
+        {
+            "name": "dna",
+            "artist": "LANY",
+            "id": 1892513908
+        },
+        {
+            "name": "I Wanna Feel Good",
+            "artist": "Chris James",
+            "id": 2028512258
+        },
+        {
+            "name": "Sucks Being Sober",
+            "artist": "Annika Wells",
+            "id": 1811376825
+        },
+        {
+            "name": "Eyes On You",
+            "artist": "Nicky Youre",
+            "id": 1998535052
+        },
+        {
+            "name": "Honeymoon",
+            "artist": "Stephanie Poetri",
+            "id": 1928356828
+        },
+        {
+            "name": "Wake Me Up",
+            "artist": "Mason Murphy",
+            "id": 1837136714
+        },
+        {
+            "name": "endlessly",
+            "artist": "bixby",
+            "id": 1893650613
+        },
+        {
+            "name": "Colorado",
+            "artist": "Reneé Rapp",
+            "id": 1997473993
+        },
+        {
+            "name": "Chance Of Rain",
+            "artist": "Strandels",
+            "id": 439037221
+        },
+        {
+            "name": "Friends",
+            "artist": "Why Don't We",
+            "id": 1305823453
+        },
+        {
+            "name": "Icee Pop",
+            "artist": "Nic D",
+            "id": 1869588481
+        },
+        {
+            "name": "Cotton Candy",
+            "artist": "Nic D",
+            "id": 1939097919
+        },
+        {
+            "name": "Love Drunk",
+            "artist": "Faime",
+            "id": 1880414022
+        },
+        {
+            "name": "we made it.",
+            "artist": "david hugo",
+            "id": 1860048664
+        },
+        {
+            "name": "Growing Up",
+            "artist": "Thomas Rhett",
+            "id": 1824930284
+        },
+        {
+            "name": "Rock Witchu",
+            "artist": "PRETTYMUCH",
+            "id": 1384357934
+        },
+        {
+            "name": "Sunroof",
+            "artist": "Nicky Youre",
+            "id": 1970735771
+        },
+        {
+            "name": "WRONG SIDE",
+            "artist": "Zachary Knowles",
+            "id": 1989339205
+        },
+        {
+            "name": "CRUSH",
+            "artist": "Zachary Knowles",
+            "id": 2019512027
+        },
+        {
+            "name": "Hand Me Down",
+            "artist": "MyKey",
+            "id": 1463045481
+        },
+        {
+            "name": "Palm Springs (the way you made me feel)",
+            "artist": "Virginia To Vegas",
+            "id": 1480251493
+        },
+        {
+            "name": "You Don't Know Me",
+            "artist": "Ofenbach",
+            "id": 399354184
+        },
+        {
+            "name": "Hey It's Me",
+            "artist": "Chris James",
+            "id": 1827686454
+        },
+        {
+            "name": "Lovers On The Moon",
+            "artist": "AJ Mitchell",
+            "id": 1883276835
+        },
+        {
+            "name": "WGYG",
+            "artist": "John Splithoff",
+            "id": 1833791381
+        },
+        {
+            "name": "June",
+            "artist": "Surfaces",
+            "id": 1875169011
+        },
+        {
+            "name": "Girlfriend",
+            "artist": "dori",
+            "id": 1926538218
+        },
+        {
+            "name": "I'm Done",
+            "artist": "Mina Okabe",
+            "id": 1873222939
+        },
+        {
+            "name": "The Cool Kid",
+            "artist": "Chris James",
+            "id": 1896526371
+        },
+        {
+            "name": "I Never Learned",
+            "artist": "Chris James",
+            "id": 1449268223
+        },
+        {
+            "name": "Roommates",
+            "artist": "Isac Elliot",
+            "id": 1836025841
+        },
+        {
+            "name": "Sick Of You",
+            "artist": "Mason Murphy",
+            "id": 1889843111
+        },
+        {
+            "name": "heart to spare",
+            "artist": "Maro",
+            "id": 1830331962
+        },
+        {
+            "name": "Just Friends",
+            "artist": "Why Don't We",
+            "id": 1946228497
+        },
+        {
+            "name": "29",
+            "artist": "Chris James",
+            "id": 1926466384
+        },
+        {
+            "name": "I Can't Be Myself",
+            "artist": "Justin Bieber",
+            "id": 1832597822
+        },
+        {
+            "name": "Throwback Tears",
+            "artist": "Valley",
+            "id": 2013921191
+        },
+        {
+            "name": "Slow It Down",
+            "artist": "Charlie Puth",
+            "id": 557583014
+        },
+        {
+            "name": "no excuses",
+            "artist": "Virginia To Vegas",
+            "id": 1917549952
+        },
+        {
+            "name": "West Coast",
+            "artist": "OneRepublic",
+            "id": 1923385373
+        },
+        {
+            "name": "come on come on",
+            "artist": "almost monday",
+            "id": 1451644842
+        },
+        {
+            "name": "Bloom",
+            "artist": "Troye Sivan",
+            "id": 559875171
+        },
+        {
+            "name": "nevermind",
+            "artist": "Valley",
+            "id": 1803517026
+        },
+        {
+            "name": "Feel Something",
+            "artist": "Fiji Blue",
+            "id": 1935906706
+        },
+        {
+            "name": "I Believe",
+            "artist": "Jonas Brothers",
+            "id": 1370202554
+        },
+        {
+            "name": "Make the Move",
+            "artist": "Chris James",
+            "id": 1451525481
+        },
+        {
+            "name": "MIA",
+            "artist": "Forrest Nolan",
+            "id": 1882281283
+        },
+        {
+            "name": "Numb",
+            "artist": "Marshmello",
+            "id": 1952734362
+        },
+        {
+            "name": "These Are The Words",
+            "artist": "James Blunt",
+            "id": 18658920
+        },
+        {
+            "name": "Think I'm Crazy",
+            "artist": "Two Feet",
+            "id": 1478202766
+        },
+        {
+            "name": "Sick Of You",
+            "artist": "Mason Murphy",
+            "id": 1936154986
+        },
+        {
+            "name": "Summer Feelings (feat. Charlie Puth)",
+            "artist": "Lennon Stella",
+            "id": 1447007316
+        },
+        {
+            "name": "Die Right Here",
+            "artist": "david hugo",
+            "id": 1863509811
+        },
+        {
+            "name": "Obsessed",
+            "artist": "Calvin Harris",
+            "id": 1969214333
+        },
+        {
+            "name": "Go Wrong",
+            "artist": "Hauskey",
+            "id": 1819806743
+        },
+        {
+            "name": "2 O' CLOCK",
+            "artist": "dori",
+            "id": 1917076630
+        },
+        {
+            "name": "rocket science",
+            "artist": "vaultboy",
+            "id": 1903273721
+        },
+        {
+            "name": "Last Birthday",
+            "artist": "Valley",
+            "id": 1911199013
+        },
+        {
+            "name": "Frankenstein",
+            "artist": "Claire Rosinkranz",
+            "id": 1844660535
+        },
+        {
+            "name": "Somewhere in New York",
+            "artist": "John Splithoff",
+            "id": 1994703074
+        }
+    ]
+}

@@ -1,0 +1,902 @@
+{
+    "playlist_info": {
+        "name": "摇滚女声 ‖ 温柔与呐喊 摇滚界的巾帼英雄",
+        "trackcount": 178,
+        "playcount": 1253422,
+        "creator": "Panicman",
+        "createDate": "2016-04-20",
+        "heat": 477.0
+    },
+    "songs": [
+        {
+            "name": "Iodine",
+            "artist": "Icon For Hire",
+            "id": 18412646
+        },
+        {
+            "name": "Missile",
+            "artist": "DOROTHY",
+            "id": 41636233
+        },
+        {
+            "name": "Get Out",
+            "artist": "I Nine",
+            "id": 2758398
+        },
+        {
+            "name": "The Fire",
+            "artist": "Tonight Alive",
+            "id": 27648600
+        },
+        {
+            "name": "Rock Show",
+            "artist": "Halestorm",
+            "id": 18284720
+        },
+        {
+            "name": "I Remember",
+            "artist": "Stalingrad Cowgirls",
+            "id": 19173318
+        },
+        {
+            "name": "Make a Move",
+            "artist": "Icon For Hire",
+            "id": 18412635
+        },
+        {
+            "name": "Close My Eyes",
+            "artist": "All Ends",
+            "id": 16473421
+        },
+        {
+            "name": "Break the Rules",
+            "artist": "Butterfly Boucher",
+            "id": 519354940
+        },
+        {
+            "name": "Angels Like You",
+            "artist": "Miley Cyrus",
+            "id": 1497981568
+        },
+        {
+            "name": "You've Got Time",
+            "artist": "Regina Spektor",
+            "id": 26609515
+        },
+        {
+            "name": "I Miss The Misery",
+            "artist": "Halestorm",
+            "id": 18284715
+        },
+        {
+            "name": "How You Love Me Now",
+            "artist": "Hey Monday",
+            "id": 18332672
+        },
+        {
+            "name": "You Don't Owe Me Anything",
+            "artist": "Tonight Alive",
+            "id": 27648606
+        },
+        {
+            "name": "No One Sleeps When I’m Awake",
+            "artist": "The Sounds",
+            "id": 21925121
+        },
+        {
+            "name": "The Beginning (Against The Current Cover)",
+            "artist": "Against the Current",
+            "id": 408277200
+        },
+        {
+            "name": "Kiss Me Like The World Is Ending",
+            "artist": "Avril Lavigne",
+            "id": 1922668153
+        },
+        {
+            "name": "So What (Main Version)",
+            "artist": "P!nk",
+            "id": 21373929
+        },
+        {
+            "name": "Wrapped In Your Arms",
+            "artist": "Fireflight",
+            "id": 17781685
+        },
+        {
+            "name": "No More Days to Waste",
+            "artist": "Aloha from Hell",
+            "id": 16470382
+        },
+        {
+            "name": "Oh My (Album Version)",
+            "artist": "Gin Wigmore",
+            "id": 2697573
+        },
+        {
+            "name": "Children of the Night",
+            "artist": "Doro",
+            "id": 2427663
+        },
+        {
+            "name": "Stay Here Forever",
+            "artist": "The Material",
+            "id": 4391090
+        },
+        {
+            "name": "Now That It's Over",
+            "artist": "Laos",
+            "id": 4170361
+        },
+        {
+            "name": "Part Time Lover",
+            "artist": "New Years Day",
+            "id": 17578554
+        },
+        {
+            "name": "One More Night",
+            "artist": "Laos",
+            "id": 4170375
+        },
+        {
+            "name": "Let You Down",
+            "artist": "The Material",
+            "id": 4391095
+        },
+        {
+            "name": "Weatherman",
+            "artist": "Dead Sara",
+            "id": 4042862
+        },
+        {
+            "name": "It's The Fear",
+            "artist": "Within Temptation",
+            "id": 20715578
+        },
+        {
+            "name": "Come Back",
+            "artist": "Lesley Roy",
+            "id": 2925298
+        },
+        {
+            "name": "Prowokacja",
+            "artist": "Doda",
+            "id": 17334802
+        },
+        {
+            "name": "Love/Hate",
+            "artist": "Betty Blowtorch",
+            "id": 19565757
+        },
+        {
+            "name": "Mountain",
+            "artist": "Nubian Rose",
+            "id": 4224221
+        },
+        {
+            "name": "Fire Fire",
+            "artist": "Flyleaf",
+            "id": 27001336
+        },
+        {
+            "name": "Closer",
+            "artist": "Tonight Alive",
+            "id": 4382357
+        },
+        {
+            "name": "Hello",
+            "artist": "Courtney Love",
+            "id": 22516580
+        },
+        {
+            "name": "24/7",
+            "artist": "Sister Sin",
+            "id": 19187825
+        },
+        {
+            "name": "F.U.",
+            "artist": "Avril Lavigne",
+            "id": 1922669677
+        },
+        {
+            "name": "25",
+            "artist": "The Pretty Reckless",
+            "id": 1490814059
+        },
+        {
+            "name": "4ever",
+            "artist": "The Veronicas",
+            "id": 5048071
+        },
+        {
+            "name": "Decode (Twilight Soundtrack Version)",
+            "artist": "Paramore",
+            "id": 5042915
+        },
+        {
+            "name": "The Grey",
+            "artist": "Icon For Hire",
+            "id": 18412638
+        },
+        {
+            "name": "Single Girl",
+            "artist": "Lush",
+            "id": 401277505
+        },
+        {
+            "name": "Ignorance",
+            "artist": "Paramore",
+            "id": 1820649
+        },
+        {
+            "name": "Move Over",
+            "artist": "Chrissy Steele",
+            "id": 22325331
+        },
+        {
+            "name": "Lieber Gott",
+            "artist": "LaFee",
+            "id": 22494629
+        },
+        {
+            "name": "Turn It Loud",
+            "artist": "The Headpins",
+            "id": 20376233
+        },
+        {
+            "name": "I Am the Fire",
+            "artist": "Halestorm",
+            "id": 31426416
+        },
+        {
+            "name": "And We Run",
+            "artist": "Within Temptation",
+            "id": 28211184
+        },
+        {
+            "name": "Face to Face",
+            "artist": "Dead Sara",
+            "id": 4042873
+        },
+        {
+            "name": "House on a Hill",
+            "artist": "The Pretty Reckless",
+            "id": 29829150
+        },
+        {
+            "name": "He's on My Side",
+            "artist": "Fiona",
+            "id": 2633452
+        },
+        {
+            "name": "Girl With One Eye",
+            "artist": "Florence + The Machine",
+            "id": 2589619
+        },
+        {
+            "name": "Cry Myself To Sleep",
+            "artist": "Chrissy Steele",
+            "id": 22325339
+        },
+        {
+            "name": "Revenge & It's Thrills",
+            "artist": "Tonight Alive",
+            "id": 4382340
+        },
+        {
+            "name": "I Want My Tears Back",
+            "artist": "Nightwish",
+            "id": 21311956
+        },
+        {
+            "name": "I Want You To Rock Me",
+            "artist": "Vixen",
+            "id": 22546730
+        },
+        {
+            "name": "I Hate Myself for Loving You",
+            "artist": "Joan Jett & the Blackhearts",
+            "id": 4132379
+        },
+        {
+            "name": "This Is What Rock N Roll Looks",
+            "artist": "Porcelain Black",
+            "id": 29999668
+        },
+        {
+            "name": "I Want The World... And Everything In It",
+            "artist": "Battle Beast",
+            "id": 31081028
+        },
+        {
+            "name": "Everyday (Jessie Daniels Album Version)",
+            "artist": "Jessie Daniels",
+            "id": 18776747
+        },
+        {
+            "name": "Need You Now (How Many Times)",
+            "artist": "Plumb",
+            "id": 26234486
+        },
+        {
+            "name": "Let Us Burn (Demo Version)",
+            "artist": "Within Temptation",
+            "id": 27776241
+        },
+        {
+            "name": "Better Sorry Than Safe",
+            "artist": "Halestorm",
+            "id": 18284739
+        },
+        {
+            "name": "Kick Start My Heart",
+            "artist": "Alannah Myles",
+            "id": 16430874
+        },
+        {
+            "name": "Hush (New Version)",
+            "artist": "Automatic Loveletter",
+            "id": 3890590
+        },
+        {
+            "name": "Moaning Lisa Smile",
+            "artist": "Wolf Alice",
+            "id": 28591421
+        },
+        {
+            "name": "A Dangerous Mind",
+            "artist": "Within Temptation",
+            "id": 28442163
+        },
+        {
+            "name": "Tangled Up In Me",
+            "artist": "Skye Sweetnam",
+            "id": 22516843
+        },
+        {
+            "name": "Girls Gone Wild",
+            "artist": "Adrenaline Rush",
+            "id": 29040909
+        },
+        {
+            "name": "Leave Me Alone",
+            "artist": "The Veronicas",
+            "id": 21947889
+        },
+        {
+            "name": "Cherry Bomb",
+            "artist": "The Runaways",
+            "id": 3608125
+        },
+        {
+            "name": "U + Ur Hand",
+            "artist": "P!nk",
+            "id": 21373939
+        },
+        {
+            "name": "Unbeautiful",
+            "artist": "Lesley Roy",
+            "id": 2925271
+        },
+        {
+            "name": "Cannonball",
+            "artist": "Avril Lavigne",
+            "id": 1922668151
+        },
+        {
+            "name": "Lonely Girl",
+            "artist": "Tonight Alive",
+            "id": 27648597
+        },
+        {
+            "name": "Rock Me",
+            "artist": "Liz Phair",
+            "id": 16612537
+        },
+        {
+            "name": "Halo",
+            "artist": "Haley James Scott",
+            "id": 5048147
+        },
+        {
+            "name": "On Top",
+            "artist": "Lilyjets",
+            "id": 16576013
+        },
+        {
+            "name": "Drifting",
+            "artist": "Plumb",
+            "id": 26234480
+        },
+        {
+            "name": "Mr Man",
+            "artist": "Exilia",
+            "id": 17640478
+        },
+        {
+            "name": "Promises",
+            "artist": "The Cranberries",
+            "id": 4330199
+        },
+        {
+            "name": "Don't Wait",
+            "artist": "Addison Road",
+            "id": 16465846
+        },
+        {
+            "name": "Familiar Hell",
+            "artist": "Battle Beast",
+            "id": 460043602
+        },
+        {
+            "name": "Life’s a *****",
+            "artist": "Skew Siskin",
+            "id": 36578368
+        },
+        {
+            "name": "Cold Blooded",
+            "artist": "Ida Maria",
+            "id": 28459285
+        },
+        {
+            "name": "Carry Me Home",
+            "artist": "We Are The In Crowd",
+            "id": 4430195
+        },
+        {
+            "name": "Shot in the Dark",
+            "artist": "Within Temptation",
+            "id": 20715547
+        },
+        {
+            "name": "She's My Religion",
+            "artist": "Pale Waves",
+            "id": 1485070505
+        },
+        {
+            "name": "Guano Apes - Open Your Eyes.",
+            "artist": "Guano Apes",
+            "id": 26691363
+        },
+        {
+            "name": "Don't Gimme That (Video Version)",
+            "artist": "Aloha from Hell",
+            "id": 16470384
+        },
+        {
+            "name": "Thank You & Goodnight (EP Version)",
+            "artist": "Tonight Alive",
+            "id": 4382343
+        },
+        {
+            "name": "I Knew You Were Trouble (Taylor Swift Cover)",
+            "artist": "The Animal In Me",
+            "id": 28100070
+        },
+        {
+            "name": "This Will Be the Day (feat. Casey Lee Williams)",
+            "artist": "Jeff Williams",
+            "id": 26937602
+        },
+        {
+            "name": "Back To The Middle (New Album Version)",
+            "artist": "Vedera",
+            "id": 19721674
+        },
+        {
+            "name": "Stronger (What Doesn't Kill You)",
+            "artist": "Kelly Clarkson",
+            "id": 2870985
+        },
+        {
+            "name": "Greater Than (Album Version)",
+            "artist": "Vedera",
+            "id": 19721669
+        },
+        {
+            "name": "So Alone Together",
+            "artist": "Doro",
+            "id": 2427690
+        },
+        {
+            "name": "Shut Up & Kiss Me",
+            "artist": "Orianthi",
+            "id": 17736634
+        },
+        {
+            "name": "This Is Goodbye",
+            "artist": "The Material",
+            "id": 4391097
+        },
+        {
+            "name": "This Is The Day",
+            "artist": "The Cranberries",
+            "id": 21971064
+        },
+        {
+            "name": "Slow Goodbye",
+            "artist": "Lesley Roy",
+            "id": 2925270
+        },
+        {
+            "name": "Jump the Gun",
+            "artist": "Halestorm",
+            "id": 31426428
+        },
+        {
+            "name": "Still Breathing",
+            "artist": "Allison Iraheta",
+            "id": 5039534
+        },
+        {
+            "name": "Don't Wanna",
+            "artist": "I Nine",
+            "id": 2758386
+        },
+        {
+            "name": "Beast Within",
+            "artist": "In This Moment",
+            "id": 18348862
+        },
+        {
+            "name": "The Edge",
+            "artist": "Tonight Alive",
+            "id": 28341912
+        },
+        {
+            "name": "Be Strong",
+            "artist": "Fefe Dobson",
+            "id": 2614069
+        },
+        {
+            "name": "7 Things",
+            "artist": "Miley Cyrus",
+            "id": 17217966
+        },
+        {
+            "name": "BEcause",
+            "artist": "DREAMCATCHER",
+            "id": 1863403590
+        },
+        {
+            "name": "Blood",
+            "artist": "In This Moment",
+            "id": 18348853
+        },
+        {
+            "name": "Thief",
+            "artist": "Alexander Jean",
+            "id": 416700928
+        },
+        {
+            "name": "24 Hours",
+            "artist": "The Sounds",
+            "id": 21925215
+        },
+        {
+            "name": "St. Patrick",
+            "artist": "PVRIS",
+            "id": 28761308
+        },
+        {
+            "name": "My Medicine",
+            "artist": "The Pretty Reckless",
+            "id": 4377971
+        },
+        {
+            "name": "Sick Like Me",
+            "artist": "In This Moment",
+            "id": 29357177
+        },
+        {
+            "name": "Digital World",
+            "artist": "Amaranthe",
+            "id": 29537955
+        },
+        {
+            "name": "All Around Me",
+            "artist": "Flyleaf",
+            "id": 17814463
+        },
+        {
+            "name": "Bring Me To Life",
+            "artist": "Evanescence",
+            "id": 4049506
+        },
+        {
+            "name": "Brand New Day",
+            "artist": "Fireflight",
+            "id": 17781678
+        },
+        {
+            "name": "Prove Me Wrong",
+            "artist": "Fireflight",
+            "id": 17781661
+        },
+        {
+            "name": "Hello Cold World",
+            "artist": "Paramore",
+            "id": 1820516
+        },
+        {
+            "name": "Love Bites (So Do I)",
+            "artist": "Halestorm",
+            "id": 18284713
+        },
+        {
+            "name": "Awful (Album Version)",
+            "artist": "Hole",
+            "id": 18217262
+        },
+        {
+            "name": "Turn It Off (Album Version)",
+            "artist": "Paramore",
+            "id": 18009885
+        },
+        {
+            "name": "I Hate Myself for Loving You",
+            "artist": "Joan Jett & the Blackhearts",
+            "id": 18738582
+        },
+        {
+            "name": "Monster (Transformers Soundtrack Version)",
+            "artist": "Paramore",
+            "id": 18009902
+        },
+        {
+            "name": "I Cry Myself to Sleep at Night",
+            "artist": "Romeo's Daughter",
+            "id": 4276605
+        },
+        {
+            "name": "Price Tag - (Jessie J)",
+            "artist": "Reachback",
+            "id": 26478600
+        },
+        {
+            "name": "According To You",
+            "artist": "Orianthi",
+            "id": 17736633
+        },
+        {
+            "name": "Misery Business",
+            "artist": "Paramore",
+            "id": 1820870
+        },
+        {
+            "name": "Under the Water",
+            "artist": "The Pretty Reckless",
+            "id": 4377882
+        },
+        {
+            "name": "Don't Abuse Me",
+            "artist": "Joan Jett",
+            "id": 2774753
+        },
+        {
+            "name": "I Like It Heavy",
+            "artist": "Halestorm",
+            "id": 31426427
+        },
+        {
+            "name": "Just A Friend",
+            "artist": "All Ends",
+            "id": 16473431
+        },
+        {
+            "name": "Playing God",
+            "artist": "Paramore",
+            "id": 1820531
+        },
+        {
+            "name": "My Medicine",
+            "artist": "The Pretty Reckless",
+            "id": 4377910
+        },
+        {
+            "name": "Just Tonight",
+            "artist": "The Pretty Reckless",
+            "id": 19564883
+        },
+        {
+            "name": "Black Sheep",
+            "artist": "Gin Wigmore",
+            "id": 18056663
+        },
+        {
+            "name": "Memories",
+            "artist": "Within Temptation",
+            "id": 4424930
+        },
+        {
+            "name": "Apologize",
+            "artist": "All Ends",
+            "id": 3915548
+        },
+        {
+            "name": "Zombie",
+            "artist": "The Cranberries",
+            "id": 4330114
+        },
+        {
+            "name": "Try",
+            "artist": "P!nk",
+            "id": 21373644
+        },
+        {
+            "name": "I Want It",
+            "artist": "Laos",
+            "id": 4170356
+        },
+        {
+            "name": "Someday",
+            "artist": "LP",
+            "id": 28619320
+        },
+        {
+            "name": "Long Shot",
+            "artist": "Kelly Clarkson",
+            "id": 16232652
+        },
+        {
+            "name": "Lost In Life",
+            "artist": "Sirenia",
+            "id": 19184896
+        },
+        {
+            "name": "Who Knew",
+            "artist": "P!nk",
+            "id": 21373813
+        },
+        {
+            "name": "Going Under",
+            "artist": "Evanescence",
+            "id": 4049526
+        },
+        {
+            "name": "Disconnected",
+            "artist": "Lindsay Lohan",
+            "id": 16596851
+        },
+        {
+            "name": "Dying For Your Love",
+            "artist": "Fireflight",
+            "id": 17781662
+        },
+        {
+            "name": "Daughters Of Darkness",
+            "artist": "Halestorm",
+            "id": 18284721
+        },
+        {
+            "name": "Wild Child (W.A.S.P. cover)",
+            "artist": "Battle Beast",
+            "id": 31081042
+        },
+        {
+            "name": "Boys On The Radio (Album Version)",
+            "artist": "Hole",
+            "id": 18217273
+        },
+        {
+            "name": "Have You Ever Seen the Rain?",
+            "artist": "Joan Jett",
+            "id": 18847943
+        },
+        {
+            "name": "You Should Get Over Me",
+            "artist": "Jessica Wolff",
+            "id": 27528003
+        },
+        {
+            "name": "Make Me Wanna Die",
+            "artist": "The Pretty Reckless",
+            "id": 19564889
+        },
+        {
+            "name": "Nothing Left To Lose",
+            "artist": "The Pretty Reckless",
+            "id": 4377940
+        },
+        {
+            "name": "Touch In The Night",
+            "artist": "Battle Beast",
+            "id": 31081032
+        },
+        {
+            "name": "crushcrushcrush",
+            "artist": "Paramore",
+            "id": 1820884
+        },
+        {
+            "name": "Heaven Knows",
+            "artist": "The Pretty Reckless",
+            "id": 28302272
+        },
+        {
+            "name": "******' Perfect",
+            "artist": "P!nk",
+            "id": 3226004
+        },
+        {
+            "name": "Unbreakable",
+            "artist": "Fireflight",
+            "id": 17781676
+        },
+        {
+            "name": "Here's To Us",
+            "artist": "Halestorm",
+            "id": 26347026
+        },
+        {
+            "name": "Best of Me",
+            "artist": "The Letter Black",
+            "id": 4371944
+        },
+        {
+            "name": "Ich Bin Ich",
+            "artist": "LaFee",
+            "id": 22494625
+        },
+        {
+            "name": "Break You",
+            "artist": "Marion Raven",
+            "id": 3031395
+        },
+        {
+            "name": "I Will Stay",
+            "artist": "We Are the Fallen",
+            "id": 19832187
+        },
+        {
+            "name": "Boyfriend",
+            "artist": "Ashlee Simpson",
+            "id": 16430074
+        },
+        {
+            "name": "Under",
+            "artist": "Alex Hepburn",
+            "id": 26379062
+        },
+        {
+            "name": "Fighter",
+            "artist": "Christina Aguilera",
+            "id": 36732528
+        },
+        {
+            "name": "Mz. Hyde",
+            "artist": "Halestorm",
+            "id": 18284714
+        },
+        {
+            "name": "Innocence",
+            "artist": "Avril Lavigne",
+            "id": 16431842
+        },
+        {
+            "name": "Rock N Roll",
+            "artist": "Avril Lavigne",
+            "id": 27090060
+        },
+        {
+            "name": "Don't Tell Me",
+            "artist": "Avril Lavigne",
+            "id": 16431924
+        },
+        {
+            "name": "Danse Macabre",
+            "artist": "Delain",
+            "id": 427373629
+        },
+        {
+            "name": "When You're Gone",
+            "artist": "Avril Lavigne",
+            "id": 16432049
+        },
+        {
+            "name": "Wish You Were Here",
+            "artist": "Avril Lavigne",
+            "id": 16432043
+        }
+    ]
+}

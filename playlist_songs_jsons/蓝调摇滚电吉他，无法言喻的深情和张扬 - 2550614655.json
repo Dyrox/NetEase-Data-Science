@@ -1,0 +1,662 @@
+{
+    "playlist_info": {
+        "name": "蓝调摇滚电吉他，无法言喻的深情和张扬",
+        "trackcount": 130,
+        "playcount": 728812,
+        "creator": "找不回的艾迪",
+        "createDate": "2018-12-09",
+        "heat": 438.0
+    },
+    "songs": [
+        {
+            "name": "5 A.M.",
+            "artist": "David Gilmour",
+            "id": 34770154
+        },
+        {
+            "name": "Sweet Dreams",
+            "artist": "Roy Buchanan",
+            "id": 533368000
+        },
+        {
+            "name": "While We Cry (Live)",
+            "artist": "Kenny Wayne Shepherd",
+            "id": 1622956
+        },
+        {
+            "name": "Local Hero / Wild Theme (Live Version)",
+            "artist": "Dire Straits",
+            "id": 17449166
+        },
+        {
+            "name": "Albatross",
+            "artist": "Fleetwood Mac",
+            "id": 17786282
+        },
+        {
+            "name": "roots",
+            "artist": "Thomas Blug",
+            "id": 39224230
+        },
+        {
+            "name": "Holy Grail",
+            "artist": "Greg Koch",
+            "id": 484487595
+        },
+        {
+            "name": "Lotus Feet",
+            "artist": "Steve Vai",
+            "id": 21592112
+        },
+        {
+            "name": "Wayfaring Pilgrim",
+            "artist": "Roy Buchanan",
+            "id": 18683763
+        },
+        {
+            "name": "Over and Over",
+            "artist": "Black Merda",
+            "id": 3962286
+        },
+        {
+            "name": "Slabo Day",
+            "artist": "Peter Green",
+            "id": 17950430
+        },
+        {
+            "name": "****** Harassment In The Workplace",
+            "artist": "Frank Zappa",
+            "id": 27243453
+        },
+        {
+            "name": "Marooned",
+            "artist": "David Gilmour",
+            "id": 27279490
+        },
+        {
+            "name": "She's a Woman",
+            "artist": "Jeff Beck",
+            "id": 18604147
+        },
+        {
+            "name": "Guitar Player",
+            "artist": "B.B. King",
+            "id": 26689905
+        },
+        {
+            "name": "the witching hour",
+            "artist": "Thomas Blug",
+            "id": 39227211
+        },
+        {
+            "name": "Free Bird",
+            "artist": "Allen Collins Band",
+            "id": 5116241
+        },
+        {
+            "name": "Raise My Rent (Album Version)",
+            "artist": "David Gilmour",
+            "id": 17275794
+        },
+        {
+            "name": "This Is Science",
+            "artist": "Mark Knopfler",
+            "id": 408615787
+        },
+        {
+            "name": "Red House",
+            "artist": "Jimi Hendrix",
+            "id": 27197025
+        },
+        {
+            "name": "Spank It",
+            "artist": "Greg Koch",
+            "id": 484487594
+        },
+        {
+            "name": "Tracks and Lines (2000 Remaster)",
+            "artist": "Eric Clapton",
+            "id": 1299177
+        },
+        {
+            "name": "Blue Street",
+            "artist": "Chris Rea",
+            "id": 26816521
+        },
+        {
+            "name": "longing",
+            "artist": "Thomas Blug",
+            "id": 39224227
+        },
+        {
+            "name": "You And I",
+            "artist": "Santana",
+            "id": 409830298
+        },
+        {
+            "name": "Until The Next time",
+            "artist": "Dave Meniketti",
+            "id": 17342852
+        },
+        {
+            "name": "Chief's Blues",
+            "artist": "Greg Koch",
+            "id": 484487598
+        },
+        {
+            "name": "Windsong",
+            "artist": "Black Merda",
+            "id": 3962301
+        },
+        {
+            "name": "Catalunya",
+            "artist": "Tinsley Ellis",
+            "id": 26243170
+        },
+        {
+            "name": "5 A.M. (Live At Pompeii 2016)",
+            "artist": "David Gilmour",
+            "id": 509633302
+        },
+        {
+            "name": "Down for You",
+            "artist": "Peter Garstenauer Band",
+            "id": 484437101
+        },
+        {
+            "name": "Altamira",
+            "artist": "Mark Knopfler",
+            "id": 408615780
+        },
+        {
+            "name": "Chicago Smokeshop",
+            "artist": "Roy Buchanan",
+            "id": 18683643
+        },
+        {
+            "name": "Pike 43, Pt. 2",
+            "artist": "Buckethead",
+            "id": 28252892
+        },
+        {
+            "name": "The Prophet",
+            "artist": "Gary Moore",
+            "id": 17970300
+        },
+        {
+            "name": "Proud Pinto",
+            "artist": "Peter Green",
+            "id": 17950436
+        },
+        {
+            "name": "Auld Lang Syne",
+            "artist": "Gary Hoey",
+            "id": 17942882
+        },
+        {
+            "name": "Late Nite (Album Version)",
+            "artist": "Neal Schon",
+            "id": 17439815
+        },
+        {
+            "name": "missin´you already",
+            "artist": "Thomas Blug",
+            "id": 39227215
+        },
+        {
+            "name": "Slabo Day",
+            "artist": "Gregor Hilden",
+            "id": 444392341
+        },
+        {
+            "name": "Green Onions",
+            "artist": "Tom Petty",
+            "id": 2006551
+        },
+        {
+            "name": "Already Out There",
+            "artist": "MattRach",
+            "id": 21114550
+        },
+        {
+            "name": "Little Wing",
+            "artist": "Stevie Ray Vaughan",
+            "id": 1939512
+        },
+        {
+            "name": "Guitar Concerto",
+            "artist": "Timo Tolkki",
+            "id": 2005333
+        },
+        {
+            "name": "Albert's Shuffle",
+            "artist": "Michael Bloomfield",
+            "id": 1735282
+        },
+        {
+            "name": "Lost In Love",
+            "artist": "Alvin Lee",
+            "id": 2130791
+        },
+        {
+            "name": "The B. P. Blues",
+            "artist": "Larry Carlton",
+            "id": 5219254
+        },
+        {
+            "name": "Brush with the Blues",
+            "artist": "Jeff Beck",
+            "id": 18604089
+        },
+        {
+            "name": "From The Valley",
+            "artist": "Joe Bonamassa",
+            "id": 18643726
+        },
+        {
+            "name": "Parisienne Walkways",
+            "artist": "Blind Faith",
+            "id": 865491276
+        },
+        {
+            "name": "My Dearest",
+            "artist": "Neil Zaza",
+            "id": 1802678
+        },
+        {
+            "name": "Signs",
+            "artist": "DC Slater",
+            "id": 1290470
+        },
+        {
+            "name": "Riviera Paradise",
+            "artist": "Stevie Ray Vaughan",
+            "id": 1939731
+        },
+        {
+            "name": "Wish You Were Mine",
+            "artist": "Robin Trower",
+            "id": 18751641
+        },
+        {
+            "name": "I Wont Forget",
+            "artist": "Thomas Blug",
+            "id": 39227247
+        },
+        {
+            "name": "On Your Way Sweet Soul",
+            "artist": "Andy Timmons",
+            "id": 434732472
+        },
+        {
+            "name": "Blues for Elise",
+            "artist": "Wolf Hoffmann",
+            "id": 2100029
+        },
+        {
+            "name": "Blue Clouds",
+            "artist": "Gregor Hilden",
+            "id": 444624272
+        },
+        {
+            "name": "Cluster One",
+            "artist": "Pink Floyd",
+            "id": 4237132
+        },
+        {
+            "name": "Dollar Blues",
+            "artist": "Michael Lee Firkins",
+            "id": 555685956
+        },
+        {
+            "name": "Tender Surrender",
+            "artist": "Steve Vai",
+            "id": 1937150
+        },
+        {
+            "name": "Altitudes",
+            "artist": "Jason Becker",
+            "id": 1497056
+        },
+        {
+            "name": "There Are No Words",
+            "artist": "Andy Timmons",
+            "id": 1003764
+        },
+        {
+            "name": "Emotive Ballad",
+            "artist": "Guthrie Govan",
+            "id": 1416264
+        },
+        {
+            "name": "I'll Play The Blues For You",
+            "artist": "Jeff Golub",
+            "id": 1592371
+        },
+        {
+            "name": "Wild Hearts",
+            "artist": "春畑道哉",
+            "id": 33391880
+        },
+        {
+            "name": "Another Place",
+            "artist": "Jeff Beck",
+            "id": 18604104
+        },
+        {
+            "name": "The Road",
+            "artist": "Mark Knopfler",
+            "id": 21172013
+        },
+        {
+            "name": "Ten Words",
+            "artist": "Joe Satriani",
+            "id": 18621780
+        },
+        {
+            "name": "Vielleicht Das Nachster Mal",
+            "artist": "Rainbow",
+            "id": 21565029
+        },
+        {
+            "name": "Electric Gypsy",
+            "artist": "Andy Timmons",
+            "id": 1003582
+        },
+        {
+            "name": "California Dreamin'",
+            "artist": "Gary Hoey",
+            "id": 17942888
+        },
+        {
+            "name": "Scuttle Buttin'",
+            "artist": "Stevie Ray Vaughan",
+            "id": 1939910
+        },
+        {
+            "name": "Burnable (Live)",
+            "artist": "Larry Carlton",
+            "id": 523926347
+        },
+        {
+            "name": "Steelin'",
+            "artist": "Jeff Beck",
+            "id": 26640770
+        },
+        {
+            "name": "The Loner (Remastered 2002)",
+            "artist": "Gary Moore",
+            "id": 1375847
+        },
+        {
+            "name": "Going Home (Theme From The Local Hero)",
+            "artist": "Mark Knopfler",
+            "id": 4017215
+        },
+        {
+            "name": "who´s who",
+            "artist": "Thomas Blug",
+            "id": 39227212
+        },
+        {
+            "name": "Forever",
+            "artist": "Chris Rea",
+            "id": 1151112
+        },
+        {
+            "name": "Where Were You (Album Version)",
+            "artist": "Jeff Beck",
+            "id": 1492940
+        },
+        {
+            "name": "Swamee Swan",
+            "artist": "Buckethead",
+            "id": 1080426
+        },
+        {
+            "name": "Endgame",
+            "artist": "MattRach",
+            "id": 21114540
+        },
+        {
+            "name": "Time and Time Again",
+            "artist": "Andy James",
+            "id": 28661733
+        },
+        {
+            "name": "Shimmering Highs (Album Version)",
+            "artist": "John Norum",
+            "id": 18582775
+        },
+        {
+            "name": "Lost Without You",
+            "artist": "John Petrucci",
+            "id": 1482540
+        },
+        {
+            "name": "February on My Mind",
+            "artist": "Fran Soler",
+            "id": 17834359
+        },
+        {
+            "name": "Surfing with the Alien",
+            "artist": "Joe Satriani",
+            "id": 18621539
+        },
+        {
+            "name": "Purple Rain",
+            "artist": "Andy Timmons",
+            "id": 27037954
+        },
+        {
+            "name": "Valley of Fire",
+            "artist": "Jason Becker",
+            "id": 1316136684
+        },
+        {
+            "name": "Mercy, Mercy, Mercy",
+            "artist": "Joe Zawinul",
+            "id": 484870560
+        },
+        {
+            "name": "Into The Sunset",
+            "artist": "Vinnie Moore",
+            "id": 19660692
+        },
+        {
+            "name": "While My Guitar Gently Weeps",
+            "artist": "Hank Marvin",
+            "id": 18240430
+        },
+        {
+            "name": "Brothers",
+            "artist": "Yngwie Malmsteen",
+            "id": 20741510
+        },
+        {
+            "name": "City Sunrise",
+            "artist": "Gary Hoey",
+            "id": 17942773
+        },
+        {
+            "name": "Cause We've Ended as Lovers",
+            "artist": "Jeff Beck",
+            "id": 18604154
+        },
+        {
+            "name": "For the Love of God",
+            "artist": "Steve Vai",
+            "id": 1937140
+        },
+        {
+            "name": "Soothsayer (dedicated to Aunt Suzie)",
+            "artist": "Buckethead",
+            "id": 1082484
+        },
+        {
+            "name": "That Road (Unplugged)",
+            "artist": "Larry Carlton",
+            "id": 26368525
+        },
+        {
+            "name": "River Of Longing",
+            "artist": "Jason Becker",
+            "id": 1331378080
+        },
+        {
+            "name": "Rain Forest",
+            "artist": "Concerto Moon",
+            "id": 29444227
+        },
+        {
+            "name": "Lirtson Nostril",
+            "artist": "Buckethead",
+            "id": 28365679
+        },
+        {
+            "name": "As It Fades",
+            "artist": "DC Slater",
+            "id": 1290478
+        },
+        {
+            "name": "Lenny",
+            "artist": "Stevie Ray Vaughan",
+            "id": 1940023
+        },
+        {
+            "name": "Marie's Mood",
+            "artist": "Walter Trout",
+            "id": 19798152
+        },
+        {
+            "name": "Sketches of Spain (for Miles)",
+            "artist": "Buckethead",
+            "id": 16606703
+        },
+        {
+            "name": "Hollywood Woman",
+            "artist": "Guthrie Govan",
+            "id": 26569310
+        },
+        {
+            "name": "Florence Streets",
+            "artist": "Chris Rea",
+            "id": 1151105
+        },
+        {
+            "name": "Wish You Were Here",
+            "artist": "The Chill-Out Orchestra",
+            "id": 27758856
+        },
+        {
+            "name": "On That Morning",
+            "artist": "Robben Ford",
+            "id": 28828050
+        },
+        {
+            "name": "Europa",
+            "artist": "Santana",
+            "id": 5206569
+        },
+        {
+            "name": "Air",
+            "artist": "Jason Becker",
+            "id": 1497071
+        },
+        {
+            "name": "Saint Agnes and the Burning Train",
+            "artist": "Sting",
+            "id": 1935962
+        },
+        {
+            "name": "Jeff's Blues",
+            "artist": "Eric Clapton",
+            "id": 1299044
+        },
+        {
+            "name": "S.R.V.",
+            "artist": "Eric Johnson",
+            "id": 17571356
+        },
+        {
+            "name": "The New Canon Rock",
+            "artist": "MattRach",
+            "id": 26245161
+        },
+        {
+            "name": "C",
+            "artist": "Buckethead",
+            "id": 28733481
+        },
+        {
+            "name": "Images",
+            "artist": "Jason Becker",
+            "id": 1496701
+        },
+        {
+            "name": "Theme of Laura",
+            "artist": "山岡晃",
+            "id": 18861460
+        },
+        {
+            "name": "In My Dreams",
+            "artist": "Neil Zaza",
+            "id": 1802669
+        },
+        {
+            "name": "For the Love of God",
+            "artist": "Steve Vai",
+            "id": 21592359
+        },
+        {
+            "name": "If I Could Fly",
+            "artist": "Joe Satriani",
+            "id": 18621736
+        },
+        {
+            "name": "Cry for You",
+            "artist": "Andy Timmons",
+            "id": 1003741
+        },
+        {
+            "name": "All New Materials (Instrumental)",
+            "artist": "Periphery",
+            "id": 4250189
+        },
+        {
+            "name": "The Left Panel",
+            "artist": "Buckethead",
+            "id": 31140336
+        },
+        {
+            "name": "Wishful Thinking",
+            "artist": "John Petrucci",
+            "id": 1482523
+        },
+        {
+            "name": "Grenouilleinlove",
+            "artist": "Paul Personne",
+            "id": 483926793
+        },
+        {
+            "name": "Noche Acosador",
+            "artist": "John 5",
+            "id": 1478006
+        },
+        {
+            "name": "Dark Paradise",
+            "artist": "MattRach",
+            "id": 26245169
+        },
+        {
+            "name": "Claymation Courtyard",
+            "artist": "Buckethead",
+            "id": 28533584
+        },
+        {
+            "name": "川",
+            "artist": "纪元",
+            "id": 25923413
+        }
+    ]
+}

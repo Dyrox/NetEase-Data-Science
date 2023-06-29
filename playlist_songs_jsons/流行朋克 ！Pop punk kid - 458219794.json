@@ -1,0 +1,932 @@
+{
+    "playlist_info": {
+        "name": "流行朋克 ！Pop punk kid",
+        "trackcount": 184,
+        "playcount": 538367,
+        "creator": "Starl615",
+        "createDate": "2016-09-04",
+        "heat": 216.0
+    },
+    "songs": [
+        {
+            "name": "December (again)",
+            "artist": "Neck Deep",
+            "id": 1328056869
+        },
+        {
+            "name": "Loser Kid 2.0 (feat. Simple Plan)",
+            "artist": "Busted",
+            "id": 2032439693
+        },
+        {
+            "name": "你的要求我做不到",
+            "artist": "再循环乐队",
+            "id": 485068318
+        },
+        {
+            "name": "god save me",
+            "artist": "Machine Gun Kelly",
+            "id": 1931494899
+        },
+        {
+            "name": "In Too Deep",
+            "artist": "Sum 41",
+            "id": 4278416
+        },
+        {
+            "name": "杯中酒（最初版）",
+            "artist": "隔壁团乐队",
+            "id": 1980549859
+        },
+        {
+            "name": "All I Want Is Everything",
+            "artist": "Blitz Kids",
+            "id": 28263182
+        },
+        {
+            "name": "Mountain Top",
+            "artist": "ELLEGARDEN",
+            "id": 1980070580
+        },
+        {
+            "name": "EDGING",
+            "artist": "blink-182",
+            "id": 1988718833
+        },
+        {
+            "name": "Sky, Ocean, You and I",
+            "artist": "一日赢家（ONE DAY WINNER）",
+            "id": 1872454821
+        },
+        {
+            "name": "30岁",
+            "artist": "隔壁团乐队",
+            "id": 498331726
+        },
+        {
+            "name": "夏天海边",
+            "artist": "隔壁团乐队",
+            "id": 28923457
+        },
+        {
+            "name": "无聊的星期天",
+            "artist": "放学别跑乐队",
+            "id": 1966450051
+        },
+        {
+            "name": "Try (EP Version)",
+            "artist": "Simple Plan",
+            "id": 28029289
+        },
+        {
+            "name": "DAMN",
+            "artist": "SeanNAES",
+            "id": 1952885740
+        },
+        {
+            "name": "Lame Guy",
+            "artist": "ANT NIRVANA",
+            "id": 1926840509
+        },
+        {
+            "name": "不悔此生Never Regret",
+            "artist": "遗失愿望清单MissingWishes",
+            "id": 1951999100
+        },
+        {
+            "name": "Ruin My Life (feat. Deryck Whibley)",
+            "artist": "Simple Plan",
+            "id": 1904708392
+        },
+        {
+            "name": "The Antidote",
+            "artist": "Simple Plan",
+            "id": 1886565473
+        },
+        {
+            "name": "넌 내게 반했어(Original Ver.)",
+            "artist": "No Brain",
+            "id": 30432116
+        },
+        {
+            "name": "Semi-charmed Life",
+            "artist": "Third Eye Blind",
+            "id": 27108548
+        },
+        {
+            "name": "Summertime",
+            "artist": "Bachelor Number One",
+            "id": 5054894
+        },
+        {
+            "name": "Gold Steps",
+            "artist": "Neck Deep",
+            "id": 33933850
+        },
+        {
+            "name": "Acetate",
+            "artist": "American Hi-Fi",
+            "id": 3887767
+        },
+        {
+            "name": "迷途未返",
+            "artist": "葡萄不愤怒",
+            "id": 29369011
+        },
+        {
+            "name": "Dammit",
+            "artist": "blink-182",
+            "id": 19580051
+        },
+        {
+            "name": "只有音乐才是我的解药",
+            "artist": "反光镜",
+            "id": 25843040
+        },
+        {
+            "name": "Bob 北京男孩",
+            "artist": "Summer Sunshine",
+            "id": 1378690481
+        },
+        {
+            "name": "Wish Myself Away",
+            "artist": "Eleventyseven",
+            "id": 1296302532
+        },
+        {
+            "name": "I Was a Teenage Teenager",
+            "artist": "Green Day",
+            "id": 1420915005
+        },
+        {
+            "name": "Graffitia",
+            "artist": "Green Day",
+            "id": 1420911882
+        },
+        {
+            "name": "All Signs Point To Lauderdale",
+            "artist": "A Day to Remember",
+            "id": 16321057
+        },
+        {
+            "name": "The Middle",
+            "artist": "Jimmy Eat World",
+            "id": 20006063
+        },
+        {
+            "name": "Macy's Day Parade",
+            "artist": "Green Day",
+            "id": 18127310
+        },
+        {
+            "name": "Deadbeat Holiday",
+            "artist": "Green Day",
+            "id": 18127294
+        },
+        {
+            "name": "S-S-S-Saturday",
+            "artist": "Bowling for Soup",
+            "id": 16873685
+        },
+        {
+            "name": "Never There",
+            "artist": "Sum 41",
+            "id": 1378814002
+        },
+        {
+            "name": "Astronaut",
+            "artist": "Simple Plan",
+            "id": 21609170
+        },
+        {
+            "name": "No Brains (Acoustic)",
+            "artist": "Sum 41",
+            "id": 31066849
+        },
+        {
+            "name": "All The Small Things",
+            "artist": "blink-182",
+            "id": 19577956
+        },
+        {
+            "name": "Summer (Original Version)",
+            "artist": "葡萄不愤怒",
+            "id": 29369013
+        },
+        {
+            "name": "Pieces",
+            "artist": "Sum 41",
+            "id": 21724400
+        },
+        {
+            "name": "I Fought The Law",
+            "artist": "Green Day",
+            "id": 4083772
+        },
+        {
+            "name": "Baby You're a Haunted House",
+            "artist": "Gerard Way",
+            "id": 1320064364
+        },
+        {
+            "name": "Theres No Solution (Acoustic)",
+            "artist": "Sum 41",
+            "id": 31066852
+        },
+        {
+            "name": "The Kids from Yesterday",
+            "artist": "My Chemical Romance",
+            "id": 1695347
+        },
+        {
+            "name": "Conan",
+            "artist": "Eleventyseven",
+            "id": 1309121
+        },
+        {
+            "name": "Kids in the Dark",
+            "artist": "All Time Low",
+            "id": 33668819
+        },
+        {
+            "name": "All Kinds Of Time",
+            "artist": "Fountains of Wayne",
+            "id": 22518179
+        },
+        {
+            "name": "Saying Goodbye",
+            "artist": "Sugarcult",
+            "id": 19162487
+        },
+        {
+            "name": "So Obvious",
+            "artist": "Runner Runner",
+            "id": 4268874
+        },
+        {
+            "name": "Tidal Wave",
+            "artist": "Taking Back Sunday",
+            "id": 431534439
+        },
+        {
+            "name": "Basket Case",
+            "artist": "Green Day",
+            "id": 4085062
+        },
+        {
+            "name": "Walkin' On The Sun",
+            "artist": "Smash Mouth",
+            "id": 27108551
+        },
+        {
+            "name": "All Signs Point Home",
+            "artist": "The SpacePimps",
+            "id": 27550958
+        },
+        {
+            "name": "Here's To Us",
+            "artist": "Halestorm",
+            "id": 26347026
+        },
+        {
+            "name": "Somewhere",
+            "artist": "Useless ID",
+            "id": 19579439
+        },
+        {
+            "name": "Dumb Reminders",
+            "artist": "No Use for a Name",
+            "id": 21308053
+        },
+        {
+            "name": "Change",
+            "artist": "Mest",
+            "id": 3037722
+        },
+        {
+            "name": "Stuck In America",
+            "artist": "Sugarcult",
+            "id": 27094725
+        },
+        {
+            "name": "LOTR",
+            "artist": "These Hearts",
+            "id": 26595631
+        },
+        {
+            "name": "¡Viva La Gloria!",
+            "artist": "Green Day",
+            "id": 18127616
+        },
+        {
+            "name": "Lay with Me",
+            "artist": "Goodnight Nurse",
+            "id": 4093533
+        },
+        {
+            "name": "Indebted",
+            "artist": "Forever Came Calling",
+            "id": 29475686
+        },
+        {
+            "name": "Stuck",
+            "artist": "Allister",
+            "id": 16413868
+        },
+        {
+            "name": "I Forgive You",
+            "artist": "Every Avenue",
+            "id": 17678213
+        },
+        {
+            "name": "Breaking Me Again",
+            "artist": "FM Static",
+            "id": 17837806
+        },
+        {
+            "name": "Online Disease",
+            "artist": "Innerlogics",
+            "id": 4126032
+        },
+        {
+            "name": "She Looks So Perfect (Mikey Demo Vocal)",
+            "artist": "5 Seconds of Summer",
+            "id": 28306077
+        },
+        {
+            "name": "Famous Last Words",
+            "artist": "My Chemical Romance",
+            "id": 21162706
+        },
+        {
+            "name": "**** You",
+            "artist": "Rancid",
+            "id": 27525589
+        },
+        {
+            "name": "Shoebox Memories (normal)",
+            "artist": "Better Luck Next Time",
+            "id": 16603112
+        },
+        {
+            "name": "F**k You (Cee Lo Green)",
+            "artist": "Kid Liberty",
+            "id": 27506590
+        },
+        {
+            "name": "The Rock Show",
+            "artist": "blink-182",
+            "id": 19580057
+        },
+        {
+            "name": "First Call",
+            "artist": "NOFX",
+            "id": 21315843
+        },
+        {
+            "name": "High Regard",
+            "artist": "The Story So Far",
+            "id": 19393254
+        },
+        {
+            "name": "Ocean Avenue",
+            "artist": "Yellowcard",
+            "id": 20752309
+        },
+        {
+            "name": "Disenchanted",
+            "artist": "My Chemical Romance",
+            "id": 21162705
+        },
+        {
+            "name": "Thunder (Album Version)",
+            "artist": "Boys Like Girls",
+            "id": 16854338
+        },
+        {
+            "name": "Self Esteem",
+            "artist": "The Offspring",
+            "id": 21965072
+        },
+        {
+            "name": "Lie Low, Lilo",
+            "artist": "Mike TV",
+            "id": 17323549
+        },
+        {
+            "name": "My Summer Obsession",
+            "artist": "Last Day Before Holiday",
+            "id": 16666834
+        },
+        {
+            "name": "Tokyo Sunrise",
+            "artist": "Allister",
+            "id": 2140473
+        },
+        {
+            "name": "Jesus of Suburbia",
+            "artist": "Green Day",
+            "id": 18127318
+        },
+        {
+            "name": "Teenagers",
+            "artist": "My Chemical Romance",
+            "id": 21162704
+        },
+        {
+            "name": "Year 3000",
+            "artist": "Busted",
+            "id": 16646071
+        },
+        {
+            "name": "********",
+            "artist": "blink-182",
+            "id": 19577949
+        },
+        {
+            "name": "A Collect Call To Arms",
+            "artist": "Farewell",
+            "id": 17843288
+        },
+        {
+            "name": "Wish You Were Here",
+            "artist": "Hey Monday",
+            "id": 4102960
+        },
+        {
+            "name": "Do You Remember",
+            "artist": "The Summer Obsession",
+            "id": 19510678
+        },
+        {
+            "name": "King For A Day",
+            "artist": "Forever the Sickest Kids",
+            "id": 17835833
+        },
+        {
+            "name": "Sleepless Nights (Never Let Her Go)",
+            "artist": "Faber Drive",
+            "id": 1346276
+        },
+        {
+            "name": "Somewhere in Neverland",
+            "artist": "All Time Low",
+            "id": 27793436
+        },
+        {
+            "name": "Coast to Coast",
+            "artist": "Hit the Lights",
+            "id": 1429824
+        },
+        {
+            "name": "All the Old Things (feat. Christina Rotondo)",
+            "artist": "Sunrise Skater Kids",
+            "id": 409102015
+        },
+        {
+            "name": "Hopeless Case",
+            "artist": "Roam",
+            "id": 41643739
+        },
+        {
+            "name": "Dear Maria, Count Me In",
+            "artist": "All Time Low",
+            "id": 16472439
+        },
+        {
+            "name": "Boy Moves To A New Town With Optimistic Outlook",
+            "artist": "FM Static",
+            "id": 22370811
+        },
+        {
+            "name": "Welcome To Wherever You Are",
+            "artist": "Ten Second Epic",
+            "id": 4344598
+        },
+        {
+            "name": "Activate",
+            "artist": "Stellar Kart",
+            "id": 1958099
+        },
+        {
+            "name": "Can't Complain",
+            "artist": "Relient K",
+            "id": 26492802
+        },
+        {
+            "name": "Silly things",
+            "artist": "GLORY HILL",
+            "id": 735122
+        },
+        {
+            "name": "Right Where You Want Me To Be",
+            "artist": "A Day to Remember",
+            "id": 994991
+        },
+        {
+            "name": "Be Somebody",
+            "artist": "Thousand Foot Krutch",
+            "id": 2009803
+        },
+        {
+            "name": "Hold On",
+            "artist": "Neverstore",
+            "id": 21314348
+        },
+        {
+            "name": "Friends of the Enemy",
+            "artist": "No Use for a Name",
+            "id": 21308041
+        },
+        {
+            "name": "My Friends Over You",
+            "artist": "New Found Glory",
+            "id": 17624757
+        },
+        {
+            "name": "My Own Worst Enemy",
+            "artist": "Lit",
+            "id": 26942796
+        },
+        {
+            "name": "You're Gonna Go Far, Kid",
+            "artist": "The Offspring",
+            "id": 21965211
+        },
+        {
+            "name": "Cool and Unusual Punishment",
+            "artist": "NOFX",
+            "id": 21316054
+        },
+        {
+            "name": "Who Are You Gonna Run To",
+            "artist": "Matt Willis",
+            "id": 17026944
+        },
+        {
+            "name": "The General's Boombox",
+            "artist": "Street Dogs",
+            "id": 19165077
+        },
+        {
+            "name": "Some People",
+            "artist": "Rehab",
+            "id": 3370294
+        },
+        {
+            "name": "Boulevard Of Broken Dreams",
+            "artist": "Green Day",
+            "id": 5159464
+        },
+        {
+            "name": "Often",
+            "artist": "As It Is",
+            "id": 27774302
+        },
+        {
+            "name": "Where My Mouth Is",
+            "artist": "Taking Back Sunday",
+            "id": 21809133
+        },
+        {
+            "name": "December",
+            "artist": "Neck Deep",
+            "id": 33933856
+        },
+        {
+            "name": "Let Her Go",
+            "artist": "Less Than Jake",
+            "id": 20952626
+        },
+        {
+            "name": "The Rest of My Life",
+            "artist": "Less Than Jake",
+            "id": 20952624
+        },
+        {
+            "name": "In The End",
+            "artist": "Destine",
+            "id": 4028675
+        },
+        {
+            "name": "It's Not Your Fault",
+            "artist": "New Found Glory",
+            "id": 17624818
+        },
+        {
+            "name": "Gone So Young",
+            "artist": "Amber Pacific",
+            "id": 16462838
+        },
+        {
+            "name": "Mr. Feather",
+            "artist": "ELLEGARDEN",
+            "id": 22692139
+        },
+        {
+            "name": "Welcome to the Black Parade",
+            "artist": "My Chemical Romance",
+            "id": 21162695
+        },
+        {
+            "name": "All Star",
+            "artist": "Smash Mouth",
+            "id": 19157795
+        },
+        {
+            "name": "Devastation and Reform",
+            "artist": "Relient K",
+            "id": 22453879
+        },
+        {
+            "name": "So Cool",
+            "artist": "Teenage Bottlerocket",
+            "id": 19419174
+        },
+        {
+            "name": "Slacker",
+            "artist": "Son of Dork",
+            "id": 19131586
+        },
+        {
+            "name": "The Other Line",
+            "artist": "Chunk! No, Captain Chunk!",
+            "id": 32214541
+        },
+        {
+            "name": "Thank You & Goodnight (EP Version)",
+            "artist": "Tonight Alive",
+            "id": 4382343
+        },
+        {
+            "name": "Island In The Sun",
+            "artist": "Weezer",
+            "id": 20705824
+        },
+        {
+            "name": "Still into You",
+            "artist": "Paramore",
+            "id": 26145006
+        },
+        {
+            "name": "Dammit",
+            "artist": "blink-182",
+            "id": 26329421
+        },
+        {
+            "name": "T.G.I. Goodbye (normal)",
+            "artist": "Better Luck Next Time",
+            "id": 16603114
+        },
+        {
+            "name": "Mona Lisa (When The World Comes Down)",
+            "artist": "The All-American Rejects",
+            "id": 19594266
+        },
+        {
+            "name": "Back To Me",
+            "artist": "The All-American Rejects",
+            "id": 19594270
+        },
+        {
+            "name": "The Anthem",
+            "artist": "Good Charlotte",
+            "id": 18086021
+        },
+        {
+            "name": "40 oz. Dream",
+            "artist": "Good Charlotte",
+            "id": 408532972
+        },
+        {
+            "name": "Awakening",
+            "artist": "Yellowcard",
+            "id": 20752194
+        },
+        {
+            "name": "Miserable At Best",
+            "artist": "Mayday Parade",
+            "id": 21255825
+        },
+        {
+            "name": "Tell Me",
+            "artist": "Goldfinger",
+            "id": 18065980
+        },
+        {
+            "name": "How You Love Me Now",
+            "artist": "Hey Monday",
+            "id": 18332672
+        },
+        {
+            "name": "Why Don't You Get a Job?",
+            "artist": "The Offspring",
+            "id": 21965156
+        },
+        {
+            "name": "Liquid Confidence (Nothing To Lose)",
+            "artist": "You Me At Six",
+            "id": 22458881
+        },
+        {
+            "name": "Last One To Die",
+            "artist": "Rancid",
+            "id": 18707775
+        },
+        {
+            "name": "Saturday (Album Version)",
+            "artist": "Kids in Glass Houses",
+            "id": 18941676
+        },
+        {
+            "name": "Still Breathing",
+            "artist": "Green Day",
+            "id": 431855284
+        },
+        {
+            "name": "Just the Girl",
+            "artist": "The Click Five",
+            "id": 19537041
+        },
+        {
+            "name": "Hit or Miss",
+            "artist": "New Found Glory",
+            "id": 4208146
+        },
+        {
+            "name": "American Psycho",
+            "artist": "Treble Charger",
+            "id": 19363049
+        },
+        {
+            "name": "Ohio (Come Back to Texas)",
+            "artist": "Bowling for Soup",
+            "id": 26676067
+        },
+        {
+            "name": "Stacy's Mom",
+            "artist": "Fountains of Wayne",
+            "id": 22568951
+        },
+        {
+            "name": "Check Yes, Juliet",
+            "artist": "We the Kings",
+            "id": 22518996
+        },
+        {
+            "name": "Sugar, We're Goin Down",
+            "artist": "Fall Out Boy",
+            "id": 17803984
+        },
+        {
+            "name": "Coming Home",
+            "artist": "New Found Glory",
+            "id": 17624799
+        },
+        {
+            "name": "Best Day of My Life",
+            "artist": "American Authors",
+            "id": 28285968
+        },
+        {
+            "name": "If Only You Knew",
+            "artist": "A Rocket to the Moon",
+            "id": 3888993
+        },
+        {
+            "name": "Susan",
+            "artist": "The Exit",
+            "id": 5053096
+        },
+        {
+            "name": "Smokescreen",
+            "artist": "Flying Blind",
+            "id": 5053094
+        },
+        {
+            "name": "Thunder",
+            "artist": "Boys Like Girls",
+            "id": 5142102
+        },
+        {
+            "name": "Risque",
+            "artist": "Cute Is What We Aim For",
+            "id": 20539485
+        },
+        {
+            "name": "Basket Case",
+            "artist": "Green Day",
+            "id": 18127427
+        },
+        {
+            "name": "Year 3000 (Single Version)",
+            "artist": "Busted",
+            "id": 16646165
+        },
+        {
+            "name": "Tongue Tied",
+            "artist": "Faber Drive",
+            "id": 1346261
+        },
+        {
+            "name": "Somewhere On Fullerton",
+            "artist": "Allister",
+            "id": 16413864
+        },
+        {
+            "name": "The Rock Show",
+            "artist": "blink-182",
+            "id": 26329423
+        },
+        {
+            "name": "Breathing",
+            "artist": "Yellowcard",
+            "id": 20752308
+        },
+        {
+            "name": "The Hell Song (Live)",
+            "artist": "Sum 41",
+            "id": 4278459
+        },
+        {
+            "name": "Sweet Sweet Thing (Acoustic)",
+            "artist": "MxPx",
+            "id": 3035307
+        },
+        {
+            "name": "Dear Maria, Count Me In",
+            "artist": "All Time Low",
+            "id": 16472447
+        },
+        {
+            "name": "The Rest of Us (EP Version)",
+            "artist": "Simple Plan",
+            "id": 28029284
+        },
+        {
+            "name": "1979",
+            "artist": "Good Charlotte",
+            "id": 18086016
+        },
+        {
+            "name": "Tell Me I'm A Wreck",
+            "artist": "Every Avenue",
+            "id": 17678201
+        },
+        {
+            "name": "Semi-Charmed Life",
+            "artist": "Third Eye Blind",
+            "id": 19391378
+        },
+        {
+            "name": "Memory",
+            "artist": "Sugarcult",
+            "id": 5050062
+        },
+        {
+            "name": "The Middle",
+            "artist": "Jimmy Eat World",
+            "id": 27004087
+        },
+        {
+            "name": "Good Day",
+            "artist": "The Click Five",
+            "id": 19537040
+        },
+        {
+            "name": "Stay Young",
+            "artist": "We the Kings",
+            "id": 22518997
+        },
+        {
+            "name": "Welcome to My Life",
+            "artist": "Simple Plan",
+            "id": 21609243
+        },
+        {
+            "name": "I Just Wanna Run",
+            "artist": "The Downtown Fiction",
+            "id": 4386589
+        },
+        {
+            "name": "1985",
+            "artist": "Bowling for Soup",
+            "id": 16873873
+        },
+        {
+            "name": "Why Don't You Get a Job?",
+            "artist": "The Offspring",
+            "id": 21965125
+        },
+        {
+            "name": "Pieces",
+            "artist": "Sum 41",
+            "id": 4278743
+        },
+        {
+            "name": "First Date",
+            "artist": "blink-182",
+            "id": 19580058
+        }
+    ]
+}

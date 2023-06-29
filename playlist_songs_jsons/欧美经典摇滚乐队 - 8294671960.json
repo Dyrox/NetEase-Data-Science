@@ -1,0 +1,357 @@
+{
+    "playlist_info": {
+        "name": "欧美经典摇滚乐队",
+        "trackcount": 69,
+        "playcount": 11,
+        "creator": "knpdawn",
+        "createDate": "2023-04-12",
+        "heat": 0.0
+    },
+    "songs": [
+        {
+            "name": "Viva La Vida",
+            "artist": "Coldplay",
+            "id": 5141647
+        },
+        {
+            "name": "Fix You",
+            "artist": "Coldplay",
+            "id": 27203574
+        },
+        {
+            "name": "Yellow (Acoustic Version From Jo Whiley's Lunchtime Social)",
+            "artist": "Coldplay",
+            "id": 3987106
+        },
+        {
+            "name": "Viva La Vida",
+            "artist": "Coldplay",
+            "id": 1806488770
+        },
+        {
+            "name": "Viva la Vida",
+            "artist": "Coldplay",
+            "id": 3986040
+        },
+        {
+            "name": "Fix You",
+            "artist": "Coldplay",
+            "id": 3986326
+        },
+        {
+            "name": "Yellow",
+            "artist": "Coldplay",
+            "id": 17177324
+        },
+        {
+            "name": "21 Guns",
+            "artist": "Green Day",
+            "id": 18127555
+        },
+        {
+            "name": "Wake Me Up When September Ends",
+            "artist": "Green Day",
+            "id": 26795437
+        },
+        {
+            "name": "21 Guns",
+            "artist": "Green Day",
+            "id": 18127640
+        },
+        {
+            "name": "Wake Me up When September Ends",
+            "artist": "Green Day",
+            "id": 18127334
+        },
+        {
+            "name": "Maps",
+            "artist": "Maroon 5",
+            "id": 29019223
+        },
+        {
+            "name": "Love Somebody",
+            "artist": "Maroon 5",
+            "id": 26387153
+        },
+        {
+            "name": "One More Night",
+            "artist": "Maroon 5",
+            "id": 21253958
+        },
+        {
+            "name": "Payphone",
+            "artist": "Maroon 5",
+            "id": 28635797
+        },
+        {
+            "name": "Payphone (Explicit Version)",
+            "artist": "Maroon 5",
+            "id": 21253807
+        },
+        {
+            "name": "Don't Wanna Know",
+            "artist": "Maroon 5",
+            "id": 461544126
+        },
+        {
+            "name": "Don't Wanna Know (BRAVVO Remix)",
+            "artist": "Kendrick Lamar",
+            "id": 451502128
+        },
+        {
+            "name": "Animals",
+            "artist": "Maroon 5",
+            "id": 29019224
+        },
+        {
+            "name": "Sugar",
+            "artist": "Maroon 5",
+            "id": 31877208
+        },
+        {
+            "name": "This Love  (album Version)",
+            "artist": "Maroon 5",
+            "id": 4173550
+        },
+        {
+            "name": "One More Night",
+            "artist": "Maroon 5",
+            "id": 21253806
+        },
+        {
+            "name": "Payphone",
+            "artist": "Maroon 5",
+            "id": 4172700
+        },
+        {
+            "name": "Animals",
+            "artist": "Maroon 5",
+            "id": 28987626
+        },
+        {
+            "name": "Moves Like Jagger",
+            "artist": "Maroon 5",
+            "id": 21253966
+        },
+        {
+            "name": "Makes Me Wonder",
+            "artist": "Maroon 5",
+            "id": 4173309
+        },
+        {
+            "name": "Sugar",
+            "artist": "Maroon 5",
+            "id": 29019227
+        },
+        {
+            "name": "This Love",
+            "artist": "Maroon 5",
+            "id": 21253947
+        },
+        {
+            "name": "What I've Done",
+            "artist": "Linkin Park",
+            "id": 5045762
+        },
+        {
+            "name": "In the End",
+            "artist": "Linkin Park",
+            "id": 26165125
+        },
+        {
+            "name": "Numb",
+            "artist": "Linkin Park",
+            "id": 26165117
+        },
+        {
+            "name": "In The End",
+            "artist": "Linkin Park",
+            "id": 4153632
+        },
+        {
+            "name": "In the End",
+            "artist": "Linkin Park",
+            "id": 1485311809
+        },
+        {
+            "name": "In the End",
+            "artist": "Linkin Park",
+            "id": 16686537
+        },
+        {
+            "name": "Numb",
+            "artist": "Linkin Park",
+            "id": 1426246314
+        },
+        {
+            "name": "Numb",
+            "artist": "Linkin Park",
+            "id": 16686526
+        },
+        {
+            "name": "Numb",
+            "artist": "Linkin Park",
+            "id": 4153366
+        },
+        {
+            "name": "Satisfaction",
+            "artist": "The Rolling Stones",
+            "id": 2031875107
+        },
+        {
+            "name": "Tumbling Dice",
+            "artist": "The Rolling Stones",
+            "id": 21968694
+        },
+        {
+            "name": "Zombie (Full Length Album Version)",
+            "artist": "The Cranberries",
+            "id": 26777811
+        },
+        {
+            "name": "Linger (LP Version)",
+            "artist": "The Cranberries",
+            "id": 26923841
+        },
+        {
+            "name": "Dreams",
+            "artist": "The Cranberries",
+            "id": 26880581
+        },
+        {
+            "name": "Tequila Sunrise",
+            "artist": "Eagles",
+            "id": 27000293
+        },
+        {
+            "name": "How Long (Single Version)",
+            "artist": "Eagles",
+            "id": 473105425
+        },
+        {
+            "name": "Love Will Keep Us Alive",
+            "artist": "Eagles",
+            "id": 4049385
+        },
+        {
+            "name": "Hotel California (Live on MTV, 1994)",
+            "artist": "Eagles",
+            "id": 4049399
+        },
+        {
+            "name": "Hotel California",
+            "artist": "Eagles",
+            "id": 5264843
+        },
+        {
+            "name": "Hotel California",
+            "artist": "Eagles",
+            "id": 27000303
+        },
+        {
+            "name": "Sweet Child O' Mine",
+            "artist": "Guns N' Roses",
+            "id": 18095043
+        },
+        {
+            "name": "Don't Cry (Original)",
+            "artist": "Guns N' Roses",
+            "id": 1997442942
+        },
+        {
+            "name": "Don't Cry (Original)",
+            "artist": "Guns N' Roses",
+            "id": 1997424375
+        },
+        {
+            "name": "Don't Cry (Alternate Lyrics)",
+            "artist": "Guns N' Roses",
+            "id": 18095081
+        },
+        {
+            "name": "November Rain (2022 Version)",
+            "artist": "Guns N' Roses",
+            "id": 1997439178
+        },
+        {
+            "name": "November Rain (2022 Version)",
+            "artist": "Guns N' Roses",
+            "id": 1997424378
+        },
+        {
+            "name": "Love Will Keep Us Alive (Single Edit)",
+            "artist": "Scorpions",
+            "id": 1302905756
+        },
+        {
+            "name": "Still Loving You",
+            "artist": "Scorpions",
+            "id": 4280800
+        },
+        {
+            "name": "Still Loving You (Live at Madison Square Garden 1984)",
+            "artist": "Scorpions",
+            "id": 1455280725
+        },
+        {
+            "name": "Still Loving You (Demo Version)",
+            "artist": "Scorpions",
+            "id": 1455280720
+        },
+        {
+            "name": "Still Loving You",
+            "artist": "Scorpions",
+            "id": 4281159
+        },
+        {
+            "name": "Wind Of Change",
+            "artist": "Scorpions",
+            "id": 512648170
+        },
+        {
+            "name": "Queen at Live Aid 1985",
+            "artist": "Queen",
+            "id": 27342242
+        },
+        {
+            "name": "Bohemian Rhapsody",
+            "artist": "Queen",
+            "id": 1868553
+        },
+        {
+            "name": "We Are the Champions",
+            "artist": "Queen",
+            "id": 1868480
+        },
+        {
+            "name": "We Will Rock You",
+            "artist": "Queen",
+            "id": 1869271
+        },
+        {
+            "name": "Don't Cry (Original)",
+            "artist": "Guns N' Roses",
+            "id": 18094913
+        },
+        {
+            "name": "November Rain",
+            "artist": "Guns N' Roses",
+            "id": 18094919
+        },
+        {
+            "name": "Bohemian Rhapsody",
+            "artist": "Queen",
+            "id": 26857703
+        },
+        {
+            "name": "We Are the Champions",
+            "artist": "Queen",
+            "id": 471968700
+        },
+        {
+            "name": "We Will Rock You",
+            "artist": "Queen",
+            "id": 471969699
+        }
+    ]
+}

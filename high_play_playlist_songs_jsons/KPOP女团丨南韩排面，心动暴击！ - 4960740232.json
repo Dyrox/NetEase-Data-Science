@@ -1,0 +1,587 @@
+{
+    "playlist_info": {
+        "name": "KPOP女团丨南韩排面，心动暴击！",
+        "trackcount": 115,
+        "playcount": 6437552,
+        "creator": "云音乐VIP",
+        "createDate": "2020-04-10",
+        "heat": 5475.0
+    },
+    "songs": [
+        {
+            "name": "POP/STARS",
+            "artist": "K/DA",
+            "id": 1321385655
+        },
+        {
+            "name": "비밀정원",
+            "artist": "OH MY GIRL",
+            "id": 529391264
+        },
+        {
+            "name": "Universe",
+            "artist": "本月少女",
+            "id": 1486520860
+        },
+        {
+            "name": "Into The New World",
+            "artist": "少女时代",
+            "id": 28925261
+        },
+        {
+            "name": "안할래",
+            "artist": "DIA",
+            "id": 1352830432
+        },
+        {
+            "name": "데려다줄래",
+            "artist": "EXID",
+            "id": 414979801
+        },
+        {
+            "name": "看看 (Look)",
+            "artist": "Red Velvet",
+            "id": 519250359
+        },
+        {
+            "name": "Everyday Love",
+            "artist": "少女时代",
+            "id": 28075468
+        },
+        {
+            "name": "ICONIC",
+            "artist": "aespa",
+            "id": 1885142051
+        },
+        {
+            "name": "Only one",
+            "artist": "少女时代",
+            "id": 495542097
+        },
+        {
+            "name": "Rookie",
+            "artist": "Red Velvet",
+            "id": 455311480
+        },
+        {
+            "name": "Doughnut",
+            "artist": "TWICE",
+            "id": 1899617630
+        },
+        {
+            "name": "牵手相望 (Eyes Locked, Hands Locked)",
+            "artist": "Red Velvet",
+            "id": 1411582604
+        },
+        {
+            "name": "Real Love",
+            "artist": "OH MY GIRL",
+            "id": 1929324698
+        },
+        {
+            "name": "Gone",
+            "artist": "ROSÉ",
+            "id": 1827038717
+        },
+        {
+            "name": "손톱달(Crescendo)",
+            "artist": "DIA",
+            "id": 1352831556
+        },
+        {
+            "name": "Forever (约定)",
+            "artist": "aespa",
+            "id": 1818068309
+        },
+        {
+            "name": "Lucky Girl",
+            "artist": "Red Velvet",
+            "id": 429210073
+        },
+        {
+            "name": "ME&YOU",
+            "artist": "EXID",
+            "id": 1365384206
+        },
+        {
+            "name": "Perfect 10",
+            "artist": "Red Velvet",
+            "id": 533455465
+        },
+        {
+            "name": "아니길 (Hope Not)",
+            "artist": "BLACKPINK",
+            "id": 1357113627
+        },
+        {
+            "name": "DON'T TEXT ME",
+            "artist": "(G)I-DLE",
+            "id": 556207085
+        },
+        {
+            "name": "Hot Summer",
+            "artist": "f(x)",
+            "id": 22735492
+        },
+        {
+            "name": "NU 예삐오 (NU ABO)",
+            "artist": "f(x)",
+            "id": 22735518
+        },
+        {
+            "name": "SOLO",
+            "artist": "JENNIE",
+            "id": 1324880131
+        },
+        {
+            "name": "Mr.Mr.",
+            "artist": "少女时代",
+            "id": 28274502
+        },
+        {
+            "name": "火花 (Spark)",
+            "artist": "太妍",
+            "id": 1416756907
+        },
+        {
+            "name": "Celebrate",
+            "artist": "TWICE",
+            "id": 1963067148
+        },
+        {
+            "name": "Life's Too Short (English Ver.)",
+            "artist": "aespa",
+            "id": 1958690911
+        },
+        {
+            "name": "Queendom",
+            "artist": "Red Velvet",
+            "id": 1869975831
+        },
+        {
+            "name": "The Weekend",
+            "artist": "88rising",
+            "id": 1886090296
+        },
+        {
+            "name": "한 (一)",
+            "artist": "(G)I-DLE",
+            "id": 1300885831
+        },
+        {
+            "name": "Ready For Love",
+            "artist": "BLACKPINK",
+            "id": 1981814203
+        },
+        {
+            "name": "Feel My Rhythm",
+            "artist": "Red Velvet",
+            "id": 1930242671
+        },
+        {
+            "name": "怪火 (Illusion)",
+            "artist": "aespa",
+            "id": 1952507458
+        },
+        {
+            "name": "열이올라요 (Heart Burn)",
+            "artist": "宣美",
+            "id": 1958105903
+        },
+        {
+            "name": "베베 (BABE)",
+            "artist": "泫雅",
+            "id": 502238344
+        },
+        {
+            "name": "4 Walls",
+            "artist": "f(x)",
+            "id": 35956186
+        },
+        {
+            "name": "내가 제일 잘 나가",
+            "artist": "2NE1",
+            "id": 22789468
+        },
+        {
+            "name": "I Love You",
+            "artist": "2NE1",
+            "id": 5415898
+        },
+        {
+            "name": "Lollipop",
+            "artist": "BIGBANG",
+            "id": 5367010
+        },
+        {
+            "name": "Come Back Home",
+            "artist": "2NE1",
+            "id": 28283324
+        },
+        {
+            "name": "그리워해요",
+            "artist": "2NE1",
+            "id": 27984996
+        },
+        {
+            "name": "Lonely",
+            "artist": "2NE1",
+            "id": 22789467
+        },
+        {
+            "name": "안녕",
+            "artist": "2NE1",
+            "id": 454730915
+        },
+        {
+            "name": "Fire",
+            "artist": "2NE1",
+            "id": 5416299
+        },
+        {
+            "name": "너 아님 안돼 (GOTTA BE YOU)",
+            "artist": "2NE1",
+            "id": 28283332
+        },
+        {
+            "name": "I Don't Care",
+            "artist": "2NE1",
+            "id": 5416301
+        },
+        {
+            "name": "UGLY",
+            "artist": "2NE1",
+            "id": 22789469
+        },
+        {
+            "name": "Lovesick Girls",
+            "artist": "BLACKPINK",
+            "id": 1484052706
+        },
+        {
+            "name": "Kill This Love",
+            "artist": "BLACKPINK",
+            "id": 1357116203
+        },
+        {
+            "name": "How You Like That",
+            "artist": "BLACKPINK",
+            "id": 1484052702
+        },
+        {
+            "name": "BOOMBAYAH",
+            "artist": "BLACKPINK",
+            "id": 424474635
+        },
+        {
+            "name": "뚜두뚜두 (DDU-DU DDU-DU)",
+            "artist": "BLACKPINK",
+            "id": 573577071
+        },
+        {
+            "name": "Don't Know What To Do",
+            "artist": "BLACKPINK",
+            "id": 1357116204
+        },
+        {
+            "name": "Sour Candy",
+            "artist": "Lady Gaga",
+            "id": 1451492235
+        },
+        {
+            "name": "Pretty Savage",
+            "artist": "BLACKPINK",
+            "id": 1484052704
+        },
+        {
+            "name": "Crazy Over You",
+            "artist": "BLACKPINK",
+            "id": 1484052739
+        },
+        {
+            "name": "红色味道 (Red Flavor)",
+            "artist": "Red Velvet",
+            "id": 489037240
+        },
+        {
+            "name": "Ice Cream Cake",
+            "artist": "Red Velvet",
+            "id": 31010805
+        },
+        {
+            "name": "俄罗斯轮盘 (Russian Roulette)",
+            "artist": "Red Velvet",
+            "id": 429210072
+        },
+        {
+            "name": "躲猫猫 (Peek-A-Boo)",
+            "artist": "Red Velvet",
+            "id": 519250358
+        },
+        {
+            "name": "Bad Boy",
+            "artist": "Red Velvet",
+            "id": 533455456
+        },
+        {
+            "name": "Just Believe In Love",
+            "artist": "Mamamoo",
+            "id": 1817140849
+        },
+        {
+            "name": "AYA -Japanese ver.-",
+            "artist": "Mamamoo",
+            "id": 1815107422
+        },
+        {
+            "name": "Dingga -Japanese ver.-",
+            "artist": "Mamamoo",
+            "id": 1817140848
+        },
+        {
+            "name": "DDU-DU DDU-DU",
+            "artist": "BLACKPINK",
+            "id": 1325896374
+        },
+        {
+            "name": "AS IF IT’S YOUR LAST",
+            "artist": "BLACKPINK",
+            "id": 1325898352
+        },
+        {
+            "name": "WHISTLE",
+            "artist": "BLACKPINK",
+            "id": 1325898350
+        },
+        {
+            "name": "라비앙로즈 (Live)",
+            "artist": "IZ*ONE",
+            "id": 1337836264
+        },
+        {
+            "name": "O' My! (Live)",
+            "artist": "IZ*ONE",
+            "id": 1337831453
+        },
+        {
+            "name": "FOREVER YOUNG",
+            "artist": "BLACKPINK",
+            "id": 1325897389
+        },
+        {
+            "name": "Rise",
+            "artist": "Jonas Blue",
+            "id": 1350629176
+        },
+        {
+            "name": "LATATA",
+            "artist": "(G)I-DLE",
+            "id": 556203085
+        },
+        {
+            "name": "Uh-Oh",
+            "artist": "(G)I-DLE",
+            "id": 1374217593
+        },
+        {
+            "name": "SOLO (BLACKPINK ARENA TOUR 2018 \"SPECIAL FINAL IN KYOCERA DOME OSAKA\")",
+            "artist": "JENNIE",
+            "id": 1352975734
+        },
+        {
+            "name": "Dolphin",
+            "artist": "OH MY GIRL",
+            "id": 1442010549
+        },
+        {
+            "name": "살짝 설렜어 (Nonstop)",
+            "artist": "OH MY GIRL",
+            "id": 1442013358
+        },
+        {
+            "name": "다섯 번째 계절 (SSFWL)",
+            "artist": "OH MY GIRL",
+            "id": 1363948696
+        },
+        {
+            "name": "HIP -Japanese ver.-",
+            "artist": "Mamamoo",
+            "id": 1421990254
+        },
+        {
+            "name": "Shampoo",
+            "artist": "Mamamoo",
+            "id": 1431611042
+        },
+        {
+            "name": "Red Velvet",
+            "artist": "Red Velvet",
+            "id": 499644116
+        },
+        {
+            "name": "Bar Bar Bar",
+            "artist": "Crayon Pop",
+            "id": 506339101
+        },
+        {
+            "name": "L.I.E",
+            "artist": "EXID",
+            "id": 414979799
+        },
+        {
+            "name": "위아래",
+            "artist": "EXID",
+            "id": 29011143
+        },
+        {
+            "name": "알러뷰",
+            "artist": "EXID",
+            "id": 1326027044
+        },
+        {
+            "name": "사랑한다 말할까 (Playful Kiss) (Inst.)",
+            "artist": "Sistar",
+            "id": 5394983
+        },
+        {
+            "name": "Darling (JPN ver.)",
+            "artist": "Girl's Day",
+            "id": 35253001
+        },
+        {
+            "name": "큐피트",
+            "artist": "Girl's Day",
+            "id": 5397650
+        },
+        {
+            "name": "감싸줄게요",
+            "artist": "DIA",
+            "id": 1456166407
+        },
+        {
+            "name": "우와",
+            "artist": "DIA",
+            "id": 1352830413
+        },
+        {
+            "name": "5분만",
+            "artist": "DIA",
+            "id": 1352830414
+        },
+        {
+            "name": "DAY BY DAY (Japanese Ver.)",
+            "artist": "T-ara",
+            "id": 26089233
+        },
+        {
+            "name": "Just Now",
+            "artist": "T-ara",
+            "id": 28535356
+        },
+        {
+            "name": "NUMBER NINE (Japanese ver.)",
+            "artist": "T-ara",
+            "id": 28009077
+        },
+        {
+            "name": "Roly Poly",
+            "artist": "T-ara",
+            "id": 1337268383
+        },
+        {
+            "name": "Cry Cry (Japanese Version)",
+            "artist": "T-ara",
+            "id": 22704419
+        },
+        {
+            "name": "낮과 밤",
+            "artist": "T-ara",
+            "id": 29095660
+        },
+        {
+            "name": "Breakthrough",
+            "artist": "TWICE",
+            "id": 1401296066
+        },
+        {
+            "name": "Fake & True",
+            "artist": "TWICE",
+            "id": 1396979632
+        },
+        {
+            "name": "BDZ",
+            "artist": "TWICE",
+            "id": 1301777364
+        },
+        {
+            "name": "Wind flower -Japanese ver.-",
+            "artist": "Mamamoo",
+            "id": 1406500058
+        },
+        {
+            "name": "gogobebe -Japanese ver.-",
+            "artist": "Mamamoo",
+            "id": 1406509080
+        },
+        {
+            "name": "Double Trouble Couple",
+            "artist": "Mamamoo",
+            "id": 467166663
+        },
+        {
+            "name": "Patay Sindi",
+            "artist": "Stellar",
+            "id": 509636572
+        },
+        {
+            "name": "비가 내리면",
+            "artist": "Brave Girls",
+            "id": 22833782
+        },
+        {
+            "name": "요즘 너",
+            "artist": "Brave Girls",
+            "id": 22833773
+        },
+        {
+            "name": "For You",
+            "artist": "Brave Girls",
+            "id": 27676299
+        },
+        {
+            "name": "자꾸자꾸",
+            "artist": "SONAMOO",
+            "id": 486194759
+        },
+        {
+            "name": "빵빵",
+            "artist": "Pocket Girls",
+            "id": 31384825
+        },
+        {
+            "name": "쓸애기",
+            "artist": "Pocket Girls",
+            "id": 514761145
+        },
+        {
+            "name": "빵빵 (Inst.)",
+            "artist": "Pocket Girls",
+            "id": 31384826
+        },
+        {
+            "name": "Fantasy",
+            "artist": "Pink Fantasy",
+            "id": 1382314598
+        },
+        {
+            "name": "이리와",
+            "artist": "Pink Fantasy",
+            "id": 1319676229
+        },
+        {
+            "name": "소꿉장난",
+            "artist": "Pink Fantasy",
+            "id": 1400376957
+        }
+    ]
+}

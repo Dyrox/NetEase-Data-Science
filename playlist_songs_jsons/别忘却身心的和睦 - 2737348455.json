@@ -1,0 +1,972 @@
+{
+    "playlist_info": {
+        "name": "别忘却身心的和睦",
+        "trackcount": 191,
+        "playcount": 13306,
+        "creator": "鸧罱",
+        "createDate": "2019-04-02",
+        "heat": 8.0
+    },
+    "songs": [
+        {
+            "name": "Candlelight (feat. OHHYUK)",
+            "artist": "落日飞车",
+            "id": 1483521142
+        },
+        {
+            "name": "野草",
+            "artist": "椿乐队",
+            "id": 2054517809
+        },
+        {
+            "name": "赤绫",
+            "artist": "小雨乐队",
+            "id": 552458359
+        },
+        {
+            "name": "不归女孩",
+            "artist": "Sunken Boat 沉舟乐队",
+            "id": 1852937662
+        },
+        {
+            "name": "山海",
+            "artist": "草东没有派对",
+            "id": 411314659
+        },
+        {
+            "name": "烂泥",
+            "artist": "草东没有派对",
+            "id": 411314656
+        },
+        {
+            "name": "大风吹",
+            "artist": "草东没有派对",
+            "id": 411314657
+        },
+        {
+            "name": "情歌",
+            "artist": "草东没有派对",
+            "id": 411314660
+        },
+        {
+            "name": "缸",
+            "artist": "草东没有派对",
+            "id": 2046562196
+        },
+        {
+            "name": "但",
+            "artist": "草东没有派对",
+            "id": 2035320743
+        },
+        {
+            "name": "借酒",
+            "artist": "聲無哀樂",
+            "id": 1465226554
+        },
+        {
+            "name": "秦皇岛",
+            "artist": "万能青年旅店",
+            "id": 386835
+        },
+        {
+            "name": "Veil",
+            "artist": "The fin.",
+            "id": 29775870
+        },
+        {
+            "name": "Till Dawn",
+            "artist": "The fin.",
+            "id": 29775873
+        },
+        {
+            "name": "If There Is A Tomorrow",
+            "artist": "Joyside",
+            "id": 1449369129
+        },
+        {
+            "name": "Still Waiting",
+            "artist": "Sum 41",
+            "id": 4278394
+        },
+        {
+            "name": "相爱",
+            "artist": "脆莓(Brickleberry)",
+            "id": 2029903045
+        },
+        {
+            "name": "你的故事",
+            "artist": "黑色收音机派对",
+            "id": 1360807373
+        },
+        {
+            "name": "三十年",
+            "artist": "山人乐队",
+            "id": 376346
+        },
+        {
+            "name": "蚂蚁",
+            "artist": "谢天笑",
+            "id": 491943214
+        },
+        {
+            "name": "窗外",
+            "artist": "谢天笑",
+            "id": 167619
+        },
+        {
+            "name": "L.O.V.E",
+            "artist": "脑浊乐队",
+            "id": 1920197341
+        },
+        {
+            "name": "灯塔",
+            "artist": "法兹乐队 FAZI",
+            "id": 1929355349
+        },
+        {
+            "name": "我要你的命",
+            "artist": "黑色收音机派对",
+            "id": 1409201828
+        },
+        {
+            "name": "迷恋",
+            "artist": "梅卡德尔",
+            "id": 28819359
+        },
+        {
+            "name": "还你",
+            "artist": "新学校废物合唱团",
+            "id": 550231922
+        },
+        {
+            "name": "命运还是巧合",
+            "artist": "谢天笑",
+            "id": 25731674
+        },
+        {
+            "name": "把夜晚染黑",
+            "artist": "谢天笑",
+            "id": 25731670
+        },
+        {
+            "name": "潮起潮落是什么都不为",
+            "artist": "谢天笑",
+            "id": 167561
+        },
+        {
+            "name": "红毛树",
+            "artist": "Kawa乐队",
+            "id": 482395055
+        },
+        {
+            "name": "干酒醉",
+            "artist": "Kawa乐队",
+            "id": 482395046
+        },
+        {
+            "name": "你要来呢嘎！",
+            "artist": "Kawa乐队",
+            "id": 574924491
+        },
+        {
+            "name": "Take Care",
+            "artist": "窦唯",
+            "id": 543607314
+        },
+        {
+            "name": "水仙斗活佛 - 情书记 （cover：没cover）",
+            "artist": "BRO",
+            "id": 1938220997
+        },
+        {
+            "name": "Bohemian Rhapsody",
+            "artist": "Queen",
+            "id": 1868553
+        },
+        {
+            "name": "最后，我们会一起去海边",
+            "artist": "刺猬",
+            "id": 348074
+        },
+        {
+            "name": "愿你旅途漫长",
+            "artist": "声音碎片乐队",
+            "id": 1970869119
+        },
+        {
+            "name": "说再见",
+            "artist": "本能實業",
+            "id": 1982501157
+        },
+        {
+            "name": "致我的迷茫兄弟",
+            "artist": "声音碎片乐队",
+            "id": 1847986667
+        },
+        {
+            "name": "乌鸦",
+            "artist": "破碎乐队",
+            "id": 40255375
+        },
+        {
+            "name": "The Gunner's Dream",
+            "artist": "Pink Floyd",
+            "id": 4237412
+        },
+        {
+            "name": "官封弼马温",
+            "artist": "苏阳",
+            "id": 27538249
+        },
+        {
+            "name": "三峰",
+            "artist": "布衣乐队",
+            "id": 26494853
+        },
+        {
+            "name": "再见琳尼尔",
+            "artist": "新学校废物合唱团",
+            "id": 485413811
+        },
+        {
+            "name": "星尘往事",
+            "artist": "苏紫旭&The Paramecia",
+            "id": 36471601
+        },
+        {
+            "name": "盛开",
+            "artist": "痛仰乐队",
+            "id": 381747
+        },
+        {
+            "name": "我在三月的早晨看到了七月的黄昏",
+            "artist": "南青乐队",
+            "id": 1430056760
+        },
+        {
+            "name": "醉花音/ Enchanted by the Blooming Echo ",
+            "artist": "DeepMountains深山",
+            "id": 407759359
+        },
+        {
+            "name": "吕梦江",
+            "artist": "南青乐队",
+            "id": 1430064345
+        },
+        {
+            "name": "赞美诗",
+            "artist": "贊詩",
+            "id": 1928429852
+        },
+        {
+            "name": "送别（LIVE）",
+            "artist": "DeepMountains深山",
+            "id": 1810966684
+        },
+        {
+            "name": "叫魂",
+            "artist": "刘森",
+            "id": 2000710986
+        },
+        {
+            "name": "送流水",
+            "artist": "声音碎片乐队",
+            "id": 1365208495
+        },
+        {
+            "name": "情歌而已 (Live)",
+            "artist": "声音碎片乐队",
+            "id": 28936066
+        },
+        {
+            "name": "秋天",
+            "artist": "布衣乐队",
+            "id": 5265626
+        },
+        {
+            "name": "Dripping Sun",
+            "artist": "Kikagaku Moyo",
+            "id": 1321424152
+        },
+        {
+            "name": "优美的低于生活",
+            "artist": "声音碎片乐队",
+            "id": 375694
+        },
+        {
+            "name": "南京之声（Live）",
+            "artist": "野外合作社",
+            "id": 1378461396
+        },
+        {
+            "name": "南风吹吹",
+            "artist": "还潮",
+            "id": 1373500909
+        },
+        {
+            "name": "断了气",
+            "artist": "腰",
+            "id": 5208128
+        },
+        {
+            "name": "記一位井邊的拙樸少年(feat.劉濤)",
+            "artist": "白水",
+            "id": 1935990481
+        },
+        {
+            "name": "未定名（公路之光 另一版本）",
+            "artist": "腰乐队",
+            "id": 1386735594
+        },
+        {
+            "name": "爱是昂贵的",
+            "artist": "声音玩具",
+            "id": 1840927022
+        },
+        {
+            "name": "New Generation Genocide",
+            "artist": "过失",
+            "id": 1317351826
+        },
+        {
+            "name": "A Wolf At the Door",
+            "artist": "Radiohead",
+            "id": 18795387
+        },
+        {
+            "name": "我爱你",
+            "artist": "腰乐队",
+            "id": 1409911804
+        },
+        {
+            "name": "My Exodus",
+            "artist": "萨满",
+            "id": 384396
+        },
+        {
+            "name": "没有人能够比我们更接近对方",
+            "artist": "声音玩具",
+            "id": 1468592465
+        },
+        {
+            "name": "Sweet Dreams (Are made of This)",
+            "artist": "Marilyn Manson",
+            "id": 4174272
+        },
+        {
+            "name": "我哈你",
+            "artist": "五条人",
+            "id": 30841845
+        },
+        {
+            "name": "海风",
+            "artist": "五条人",
+            "id": 30841837
+        },
+        {
+            "name": "晚上好 春天小姐",
+            "artist": "五条人",
+            "id": 30841846
+        },
+        {
+            "name": "烂尾楼",
+            "artist": "五条人",
+            "id": 1302084347
+        },
+        {
+            "name": "匈奴王",
+            "artist": "五条人",
+            "id": 1347488635
+        },
+        {
+            "name": "石牌桥",
+            "artist": "五条人",
+            "id": 446512035
+        },
+        {
+            "name": "初恋",
+            "artist": "五条人",
+            "id": 440411621
+        },
+        {
+            "name": "广东姑娘",
+            "artist": "五条人",
+            "id": 30841839
+        },
+        {
+            "name": "玫瑰往事",
+            "artist": "昨夜派对（L.N Party）",
+            "id": 1340627237
+        },
+        {
+            "name": "伙伴",
+            "artist": "王宝与正午阳光",
+            "id": 394816
+        },
+        {
+            "name": "旧社会顶穷的人",
+            "artist": "还潮",
+            "id": 1373500911
+        },
+        {
+            "name": "爱情的枪",
+            "artist": "左小祖咒",
+            "id": 1478028488
+        },
+        {
+            "name": "To The Sky",
+            "artist": "The Cure",
+            "id": 21969945
+        },
+        {
+            "name": "左边的鱼",
+            "artist": "麻园诗人",
+            "id": 469065897
+        },
+        {
+            "name": "你的街头在燃烧",
+            "artist": "腰乐队",
+            "id": 1386735592
+        },
+        {
+            "name": "你一定听到了",
+            "artist": "腰乐队",
+            "id": 1386737245
+        },
+        {
+            "name": "独子的悲歌",
+            "artist": "还潮",
+            "id": 1320128320
+        },
+        {
+            "name": "阿拉永远ok",
+            "artist": "还潮",
+            "id": 571471702
+        },
+        {
+            "name": "未来的宝藏",
+            "artist": "C.S.B.Q乐队",
+            "id": 1815701955
+        },
+        {
+            "name": "惊蛰记",
+            "artist": "水仙斗活佛",
+            "id": 1432898602
+        },
+        {
+            "name": "榻榻米",
+            "artist": "麻园诗人",
+            "id": 469073824
+        },
+        {
+            "name": "我们",
+            "artist": "许巍",
+            "id": 167747
+        },
+        {
+            "name": "深海之光",
+            "artist": "麻园诗人",
+            "id": 409647016
+        },
+        {
+            "name": "晚上好 春天小姐",
+            "artist": "仁科",
+            "id": 143742
+        },
+        {
+            "name": "九月嬉皮",
+            "artist": "脆莓(Brickleberry)",
+            "id": 1481131484
+        },
+        {
+            "name": "我们 你们 他们",
+            "artist": "仁科",
+            "id": 143750
+        },
+        {
+            "name": "焰火青年",
+            "artist": "刘森",
+            "id": 1459783374
+        },
+        {
+            "name": "永无尽头的约会",
+            "artist": "还潮",
+            "id": 1373500906
+        },
+        {
+            "name": "菊花夜行军",
+            "artist": "交工乐队",
+            "id": 360697
+        },
+        {
+            "name": "不是爱情的枪",
+            "artist": "左小祖咒",
+            "id": 1387440670
+        },
+        {
+            "name": "愿爱无忧（台版）",
+            "artist": "痛仰乐队",
+            "id": 1445214028
+        },
+        {
+            "name": "点石成金",
+            "artist": "痛仰乐队",
+            "id": 865040688
+        },
+        {
+            "name": "为你唱首歌",
+            "artist": "痛仰乐队",
+            "id": 381858
+        },
+        {
+            "name": "控制 (2016版)",
+            "artist": "法兹乐队 FAZI",
+            "id": 1317365420
+        },
+        {
+            "name": "吃掉我",
+            "artist": "歪歪歪",
+            "id": 495556671
+        },
+        {
+            "name": "敕勒川",
+            "artist": "野孩子",
+            "id": 570332048
+        },
+        {
+            "name": "道山靓仔",
+            "artist": "五条人",
+            "id": 28587844
+        },
+        {
+            "name": "如果我现在死去(Live)",
+            "artist": "高旗&超载乐队",
+            "id": 356471
+        },
+        {
+            "name": "若你心年轻",
+            "artist": "寸铁",
+            "id": 1456446166
+        },
+        {
+            "name": "我讲给你一个笑话",
+            "artist": "寸铁",
+            "id": 1456446167
+        },
+        {
+            "name": "我正在忘了你",
+            "artist": "寸铁",
+            "id": 1456445961
+        },
+        {
+            "name": "目击你刚刚完成这一跳",
+            "artist": "寸铁",
+            "id": 1456446168
+        },
+        {
+            "name": "旅途愉快",
+            "artist": "寸铁",
+            "id": 1456446169
+        },
+        {
+            "name": "我所感受到的是你的悲伤吗",
+            "artist": "寸铁",
+            "id": 1456446170
+        },
+        {
+            "name": "请坚信他曾经坚信的诗篇正在短波中消散",
+            "artist": "寸铁",
+            "id": 1456445962
+        },
+        {
+            "name": "道别时想说些什么",
+            "artist": "寸铁",
+            "id": 1456446171
+        },
+        {
+            "name": "无题",
+            "artist": "寸铁",
+            "id": 1456446172
+        },
+        {
+            "name": "草莓",
+            "artist": "海朋森",
+            "id": 1383782457
+        },
+        {
+            "name": "完美夏天(Live)",
+            "artist": "高旗&超载乐队",
+            "id": 356480
+        },
+        {
+            "name": "十七岁少女金色心",
+            "artist": "脆莓(Brickleberry)",
+            "id": 1404715631
+        },
+        {
+            "name": "慈城公园交谊舞",
+            "artist": "还潮",
+            "id": 1307385071
+        },
+        {
+            "name": "1.2 X人她的一生调",
+            "artist": "周二下午谁没来",
+            "id": 31544740
+        },
+        {
+            "name": "在这宁静的水坑路",
+            "artist": "腰乐队",
+            "id": 1386735587
+        },
+        {
+            "name": "高山下的花环",
+            "artist": "腰乐队",
+            "id": 1386735591
+        },
+        {
+            "name": "问题出现我再告诉大家",
+            "artist": "五条人",
+            "id": 28587850
+        },
+        {
+            "name": "走",
+            "artist": "康姆士COM'Z",
+            "id": 458360071
+        },
+        {
+            "name": "生命中最美丽的一天",
+            "artist": "痛仰乐队",
+            "id": 28860055
+        },
+        {
+            "name": "回衫",
+            "artist": "景德镇文艺复兴",
+            "id": 405343120
+        },
+        {
+            "name": "4.7 X人新年快乐调",
+            "artist": "周二下午谁没来",
+            "id": 475864050
+        },
+        {
+            "name": "4.2 X人孟夏幽蓝调",
+            "artist": "周二下午谁没来",
+            "id": 31544764
+        },
+        {
+            "name": "Sugar Girl",
+            "artist": "The Cure",
+            "id": 21969941
+        },
+        {
+            "name": "Stairway to Heaven (Remaster)",
+            "artist": "Led Zeppelin",
+            "id": 29719536
+        },
+        {
+            "name": "十年水流东，十年水流西",
+            "artist": "五条人",
+            "id": 28587843
+        },
+        {
+            "name": "鲜花在岸上开",
+            "artist": "五条人",
+            "id": 28587869
+        },
+        {
+            "name": "城市找猪",
+            "artist": "五条人",
+            "id": 28587867
+        },
+        {
+            "name": "高级动物",
+            "artist": "窦唯",
+            "id": 77470
+        },
+        {
+            "name": "硬汉",
+            "artist": "腰乐队",
+            "id": 28768120
+        },
+        {
+            "name": "High Hopes (Early Version, Unreleased 1994 Recording)",
+            "artist": "Pink Floyd",
+            "id": 1393345080
+        },
+        {
+            "name": "High Hopes",
+            "artist": "Pink Floyd",
+            "id": 4235833
+        },
+        {
+            "name": "Smells Like Teen Spirit",
+            "artist": "Nirvana",
+            "id": 4208530
+        },
+        {
+            "name": "She's Lost Control",
+            "artist": "Joy Division",
+            "id": 18860378
+        },
+        {
+            "name": "Love Will Tear Us Apart",
+            "artist": "Joy Division",
+            "id": 4133455
+        },
+        {
+            "name": "揪心的玩笑与漫长的白日梦",
+            "artist": "万能青年旅店",
+            "id": 386829
+        },
+        {
+            "name": "世界呢分钟",
+            "artist": "腰乐队",
+            "id": 1386737247
+        },
+        {
+            "name": "今夜还吹着风",
+            "artist": "腰乐队",
+            "id": 1386735593
+        },
+        {
+            "name": "公路之光",
+            "artist": "腰乐队",
+            "id": 1386737246
+        },
+        {
+            "name": "ユラユラウゴク",
+            "artist": "ゆらゆら帝国",
+            "id": 22684158
+        },
+        {
+            "name": "晚春",
+            "artist": "腰乐队",
+            "id": 28768123
+        },
+        {
+            "name": "生之响往",
+            "artist": "刺猬",
+            "id": 554241255
+        },
+        {
+            "name": "In My Life",
+            "artist": "Ozzy Osbourne",
+            "id": 1808144
+        },
+        {
+            "name": "Here for You",
+            "artist": "Ozzy Osbourne",
+            "id": 21318156
+        },
+        {
+            "name": "Side 1",
+            "artist": "Pink Floyd",
+            "id": 32189906
+        },
+        {
+            "name": "妈妈一起飞吧，妈妈一起摇滚吧",
+            "artist": "舌头",
+            "id": 28870198
+        },
+        {
+            "name": "诚实假日酒店",
+            "artist": "野外合作社",
+            "id": 565890722
+        },
+        {
+            "name": "Side 2",
+            "artist": "Pink Floyd",
+            "id": 32189907
+        },
+        {
+            "name": "情书",
+            "artist": "腰乐队",
+            "id": 28768107
+        },
+        {
+            "name": "没有理想的人不伤心 (Remix版)",
+            "artist": "新裤子",
+            "id": 1305364671
+        },
+        {
+            "name": "火车驶向云外，梦安魂于九霄",
+            "artist": "刺猬",
+            "id": 528272281
+        },
+        {
+            "name": "不只是南方",
+            "artist": "腰乐队",
+            "id": 28768108
+        },
+        {
+            "name": "Minutes in the World 世界呢分钟",
+            "artist": "Kidney 腰乐队",
+            "id": 1302518613
+        },
+        {
+            "name": "小怪物去天国",
+            "artist": "哪吒乐队",
+            "id": 368920
+        },
+        {
+            "name": "闹海",
+            "artist": "哪吒乐队",
+            "id": 368913
+        },
+        {
+            "name": "梦",
+            "artist": "面孔乐队",
+            "id": 366156
+        },
+        {
+            "name": "Sitting Here In Silence (On My Own)",
+            "artist": "Oasis",
+            "id": 17822810
+        },
+        {
+            "name": "Don't Look Back In Anger",
+            "artist": "Oasis",
+            "id": 4226232
+        },
+        {
+            "name": "一千万 <预>",
+            "artist": "迟木",
+            "id": 461453850
+        },
+        {
+            "name": "像个傻X一样活着",
+            "artist": "侯牧人",
+            "id": 451126370
+        },
+        {
+            "name": "十万嬉皮",
+            "artist": "万能青年旅店",
+            "id": 386837
+        },
+        {
+            "name": "杀死那个石家庄人",
+            "artist": "万能青年旅店",
+            "id": 386844
+        },
+        {
+            "name": "极恶都市",
+            "artist": "夏日入侵企画",
+            "id": 570340213
+        },
+        {
+            "name": "像风一样自由",
+            "artist": "许巍",
+            "id": 167880
+        },
+        {
+            "name": "故乡",
+            "artist": "许巍",
+            "id": 168053
+        },
+        {
+            "name": "旅行",
+            "artist": "许巍",
+            "id": 167802
+        },
+        {
+            "name": "Forever (live)",
+            "artist": "Stratovarius",
+            "id": 1935920
+        },
+        {
+            "name": "Wish You Were Here",
+            "artist": "Pink Floyd",
+            "id": 4237923
+        },
+        {
+            "name": "Comfortably Numb",
+            "artist": "Pink Floyd",
+            "id": 4237846
+        },
+        {
+            "name": "Another Brick in the Wall, Pt. 2",
+            "artist": "Pink Floyd",
+            "id": 4237803
+        },
+        {
+            "name": "Time",
+            "artist": "Pink Floyd",
+            "id": 4238109
+        },
+        {
+            "name": "Lost for Words",
+            "artist": "Pink Floyd",
+            "id": 4237164
+        },
+        {
+            "name": "Hey You",
+            "artist": "Pink Floyd",
+            "id": 4237830
+        },
+        {
+            "name": "If",
+            "artist": "Pink Floyd",
+            "id": 4238349
+        },
+        {
+            "name": "南方",
+            "artist": "达达乐队",
+            "id": 350838
+        },
+        {
+            "name": "期待",
+            "artist": "轮回乐队",
+            "id": 363409
+        },
+        {
+            "name": "天鹅之死",
+            "artist": "紫环",
+            "id": 396120
+        },
+        {
+            "name": "向阳花",
+            "artist": "谢天笑",
+            "id": 167595
+        },
+        {
+            "name": "纯洁2016",
+            "artist": "木马乐队",
+            "id": 417859076
+        },
+        {
+            "name": "双姝记",
+            "artist": "水仙斗活佛",
+            "id": 563198318
+        },
+        {
+            "name": "[外]",
+            "artist": "水仙斗活佛",
+            "id": 534165778
+        },
+        {
+            "name": "结婚记",
+            "artist": "水仙斗活佛",
+            "id": 437387265
+        },
+        {
+            "name": "西湖",
+            "artist": "痛仰乐队",
+            "id": 381849
+        },
+        {
+            "name": "安阳",
+            "artist": "痛仰乐队",
+            "id": 381838
+        },
+        {
+            "name": "公路之歌",
+            "artist": "痛仰乐队",
+            "id": 381825
+        },
+        {
+            "name": "再见杰克",
+            "artist": "痛仰乐队",
+            "id": 381821
+        }
+    ]
+}

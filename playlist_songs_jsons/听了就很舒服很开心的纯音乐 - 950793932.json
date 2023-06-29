@@ -1,0 +1,702 @@
+{
+    "playlist_info": {
+        "name": "听了就很舒服很开心的纯音乐",
+        "trackcount": 138,
+        "playcount": 4325080,
+        "creator": "新鲜的南瓜粥",
+        "createDate": "2017-10-08",
+        "heat": 2069.0
+    },
+    "songs": [
+        {
+            "name": "ひだまりの郷",
+            "artist": "八乙女葦菜",
+            "id": 4956882
+        },
+        {
+            "name": "得似旧时",
+            "artist": "忘乡",
+            "id": 1352004027
+        },
+        {
+            "name": "せつなさフレーバー",
+            "artist": "Foxtail-Grass Studio",
+            "id": 454711342
+        },
+        {
+            "name": "家族の時間",
+            "artist": "RADWIMPS",
+            "id": 1378491294
+        },
+        {
+            "name": "エリカ",
+            "artist": "MANYO",
+            "id": 32823134
+        },
+        {
+            "name": "乙女日和",
+            "artist": "松田彬人",
+            "id": 4946875
+        },
+        {
+            "name": "午後ならやっぱり?",
+            "artist": "Foxtail-Grass Studio",
+            "id": 454730238
+        },
+        {
+            "name": "小松鼠（Little Squirrel）",
+            "artist": "MT1990",
+            "id": 477969525
+        },
+        {
+            "name": "那些美好的小事",
+            "artist": "拾光",
+            "id": 1869983773
+        },
+        {
+            "name": "森閑のまえは",
+            "artist": "やなぎなぎ",
+            "id": 571059424
+        },
+        {
+            "name": "First Light",
+            "artist": "Kryust",
+            "id": 2011353564
+        },
+        {
+            "name": "春潮の約束",
+            "artist": "赵大鼾",
+            "id": 1823909341
+        },
+        {
+            "name": "夏风微凉",
+            "artist": "忘乡",
+            "id": 1294799290
+        },
+        {
+            "name": "这个夏天，我想和你在一起",
+            "artist": "夏小调",
+            "id": 1458958359
+        },
+        {
+            "name": "我这么可爱你为什么不喜欢我",
+            "artist": "温野",
+            "id": 863265903
+        },
+        {
+            "name": "让我再睡5分钟",
+            "artist": "爱喝柠檬茶的喵",
+            "id": 1302155722
+        },
+        {
+            "name": "桜色コントレイル",
+            "artist": "Foxtail-Grass Studio",
+            "id": 477839698
+        },
+        {
+            "name": "風待ち",
+            "artist": "伍々慧",
+            "id": 26450093
+        },
+        {
+            "name": "陽菜と、走る帆高",
+            "artist": "RADWIMPS",
+            "id": 1378492144
+        },
+        {
+            "name": "書店ガール (Positive ver.)",
+            "artist": "横山克",
+            "id": 32857745
+        },
+        {
+            "name": "フンフンフン♪だよ、らき☆すた",
+            "artist": "神前暁",
+            "id": 462494
+        },
+        {
+            "name": "This Place Is a Shelter",
+            "artist": "Ólafur Arnalds",
+            "id": 16139397
+        },
+        {
+            "name": "君の膵臓をたべたい -Prologue",
+            "artist": "松谷卓",
+            "id": 494865339
+        },
+        {
+            "name": "点星（Point The Star）",
+            "artist": "MT1990",
+            "id": 505688656
+        },
+        {
+            "name": "皇家萌卫",
+            "artist": "灵空音乐",
+            "id": 412319569
+        },
+        {
+            "name": "月花 (Acoustic Ver.)",
+            "artist": "中西亮輔",
+            "id": 26584144
+        },
+        {
+            "name": "机嫌の良いはかせ",
+            "artist": "野見祐二",
+            "id": 28708708
+        },
+        {
+            "name": "星茶会",
+            "artist": "灰澈",
+            "id": 492390949
+        },
+        {
+            "name": "Just Our Lullaby (Intro)",
+            "artist": "Said The Sky",
+            "id": 1301861946
+        },
+        {
+            "name": "いま,会いにゆきます/時を超えて",
+            "artist": "松谷卓",
+            "id": 27514069
+        },
+        {
+            "name": "初の晴れ女バイト",
+            "artist": "RADWIMPS",
+            "id": 1378492137
+        },
+        {
+            "name": "春",
+            "artist": "卢明俊",
+            "id": 468998937
+        },
+        {
+            "name": "My Memory ~“冬のソナタ”より",
+            "artist": "広橋真紀子",
+            "id": 578064
+        },
+        {
+            "name": "きっと彼女は。",
+            "artist": "石濱翔",
+            "id": 26629683
+        },
+        {
+            "name": "晴云",
+            "artist": "忘乡",
+            "id": 1808372495
+        },
+        {
+            "name": "reflexion,allegretto,you",
+            "artist": "牛尾憲輔",
+            "id": 554245317
+        },
+        {
+            "name": "きっとまたいつか（album version）",
+            "artist": "DEPAPEPE",
+            "id": 22688472
+        },
+        {
+            "name": "ハナミズキ/一青 窈",
+            "artist": "広橋真紀子",
+            "id": 578013
+        },
+        {
+            "name": "沢の河城工務店",
+            "artist": "Foxtail-Grass Studio",
+            "id": 26537202
+        },
+        {
+            "name": "猫的舞步",
+            "artist": "Candy_Wind",
+            "id": 523902194
+        },
+        {
+            "name": "雛菊と鈴掛",
+            "artist": "浅野隼人",
+            "id": 28854285
+        },
+        {
+            "name": "出発！！",
+            "artist": "HJLL",
+            "id": 1449566959
+        },
+        {
+            "name": "春之行",
+            "artist": "灰澈",
+            "id": 547780876
+        },
+        {
+            "name": "夏之风",
+            "artist": "阿铭",
+            "id": 479494742
+        },
+        {
+            "name": "初夏的夜晚",
+            "artist": "Hea2t",
+            "id": 561876887
+        },
+        {
+            "name": "最後の夏が終わる前に",
+            "artist": "Snail's House",
+            "id": 1293951819
+        },
+        {
+            "name": "Music",
+            "artist": "Kevin Penkin",
+            "id": 571339492
+        },
+        {
+            "name": "Papillon",
+            "artist": "Secret Garden",
+            "id": 28798648
+        },
+        {
+            "name": "いつもの風景",
+            "artist": "神前暁",
+            "id": 29849547
+        },
+        {
+            "name": "東京タワー",
+            "artist": "JINBAO",
+            "id": 1351182680
+        },
+        {
+            "name": "特別な一日",
+            "artist": "コーコーヤ",
+            "id": 27514091
+        },
+        {
+            "name": "小さな好日",
+            "artist": "松田彬人",
+            "id": 4946881
+        },
+        {
+            "name": "伴 Company",
+            "artist": "赖康康",
+            "id": 468659357
+        },
+        {
+            "name": "素敵な出会い",
+            "artist": "宝野聡史",
+            "id": 464035547
+        },
+        {
+            "name": "Whisper Bless",
+            "artist": "水月陵",
+            "id": 36019328
+        },
+        {
+            "name": "Like A Star",
+            "artist": "Youngso Kim",
+            "id": 1357582780
+        },
+        {
+            "name": "セツナツ",
+            "artist": "大隅知宇",
+            "id": 407679924
+        },
+        {
+            "name": "愛言葉 -instrumental- (カバー)",
+            "artist": "DECO*27",
+            "id": 41666362
+        },
+        {
+            "name": "本当の優しさとは…",
+            "artist": "渡辺俊幸",
+            "id": 537645
+        },
+        {
+            "name": "abbandone",
+            "artist": "やなぎなぎ",
+            "id": 571059458
+        },
+        {
+            "name": "Wedding Bell",
+            "artist": "DEPAPEPE",
+            "id": 22688493
+        },
+        {
+            "name": "キリマンジャロだね",
+            "artist": "川田瑠夏",
+            "id": 29848734
+        },
+        {
+            "name": "託された想い",
+            "artist": "増田俊郎",
+            "id": 28411043
+        },
+        {
+            "name": "夏Style",
+            "artist": "LIKPIA",
+            "id": 523660700
+        },
+        {
+            "name": "夏、バス停、君を待つ",
+            "artist": "ヨルシカ",
+            "id": 557581318
+        },
+        {
+            "name": "サンタクロウスの空",
+            "artist": "妹尾武",
+            "id": 26212423
+        },
+        {
+            "name": "日暮里",
+            "artist": "JINBAO",
+            "id": 1351183637
+        },
+        {
+            "name": "小手鞠",
+            "artist": "浅野隼人",
+            "id": 28854262
+        },
+        {
+            "name": "私に恋をさせてくれないか",
+            "artist": "横山克",
+            "id": 548525
+        },
+        {
+            "name": "uzumakinoharu",
+            "artist": "sasakure.UK",
+            "id": 515337
+        },
+        {
+            "name": "青春ブタ野郎",
+            "artist": "fox capture plan",
+            "id": 1326596082
+        },
+        {
+            "name": "麻衣さん",
+            "artist": "fox capture plan",
+            "id": 1326594003
+        },
+        {
+            "name": "Country Hymn",
+            "artist": "Adam Young",
+            "id": 428375150
+        },
+        {
+            "name": "二人の時間",
+            "artist": "渡辺俊幸",
+            "id": 537612
+        },
+        {
+            "name": "新学期スタート！",
+            "artist": "山下康介",
+            "id": 26212723
+        },
+        {
+            "name": "breathing",
+            "artist": "yutaka hirasaka",
+            "id": 22792375
+        },
+        {
+            "name": "hometown",
+            "artist": "mamomo",
+            "id": 33469292
+        },
+        {
+            "name": "√48色の虹が映った水たまり",
+            "artist": "オーギュスト棒",
+            "id": 772079
+        },
+        {
+            "name": "いのちの名前",
+            "artist": "川本比佐志",
+            "id": 32102187
+        },
+        {
+            "name": "黄昏のゆりかご",
+            "artist": "松岡純也",
+            "id": 4988864
+        },
+        {
+            "name": "あの夏の坂道",
+            "artist": "池頼広",
+            "id": 420693
+        },
+        {
+            "name": "であい",
+            "artist": "七瀬光",
+            "id": 414118718
+        },
+        {
+            "name": "明日を信じて",
+            "artist": "西村由紀江",
+            "id": 668847
+        },
+        {
+            "name": "明日を信じて(フィルムバージョン)",
+            "artist": "西村由紀江",
+            "id": 668667
+        },
+        {
+            "name": "明日晴れるかな (Piano & Strings Version)",
+            "artist": "吉川慶",
+            "id": 543022
+        },
+        {
+            "name": "陽だまり道",
+            "artist": "水谷広実",
+            "id": 28167020
+        },
+        {
+            "name": "heaven sunshine",
+            "artist": "Foxtail-Grass Studio",
+            "id": 29784761
+        },
+        {
+            "name": "たまゆら～メインテーマ",
+            "artist": "中島ノブユキ",
+            "id": 4930449
+        },
+        {
+            "name": "fish in the pool ・花屋敷",
+            "artist": "ヘクとパスカル",
+            "id": 31861269
+        },
+        {
+            "name": "It's Going to be The Special ～Piano ver.～",
+            "artist": "山谷知明",
+            "id": 31514653
+        },
+        {
+            "name": "木幡真琴",
+            "artist": "出羽良彰",
+            "id": 414826603
+        },
+        {
+            "name": "「旅行青蛙 」marimba ft.piano",
+            "artist": "司鼓君",
+            "id": 532770842
+        },
+        {
+            "name": "Adagio for Summer Wind",
+            "artist": "Key Sounds Label",
+            "id": 760037
+        },
+        {
+            "name": "阳だまりにて和む猫",
+            "artist": "Falcom Sound Team J.D.K.",
+            "id": 731250
+        },
+        {
+            "name": "メインテーマ「永遠の一瞬」",
+            "artist": "伊藤賢治",
+            "id": 27514120
+        },
+        {
+            "name": "風見鶏",
+            "artist": "DEPAPEPE",
+            "id": 22688487
+        },
+        {
+            "name": "靴下をはいた猫",
+            "artist": "Foxtail-Grass Studio",
+            "id": 29087154
+        },
+        {
+            "name": "逝",
+            "artist": "闫东炜",
+            "id": 477851901
+        },
+        {
+            "name": "春、来る (Haru Kitaru)",
+            "artist": "岸部眞明",
+            "id": 441520
+        },
+        {
+            "name": "pure heart",
+            "artist": "松田彬人",
+            "id": 4946902
+        },
+        {
+            "name": "誠に遺憾ながら、知り合い?",
+            "artist": "高橋邦幸",
+            "id": 26629688
+        },
+        {
+            "name": "みとれてマーブルチーク",
+            "artist": "Foxtail-Grass Studio",
+            "id": 454711341
+        },
+        {
+            "name": "Pleasant days",
+            "artist": "平沢敦士",
+            "id": 28442736
+        },
+        {
+            "name": "Happy End",
+            "artist": "百石元",
+            "id": 26202108
+        },
+        {
+            "name": "Bloom of Youth",
+            "artist": "Key Sounds Label",
+            "id": 760058
+        },
+        {
+            "name": "いい日だったね。",
+            "artist": "DEPAPEPE",
+            "id": 22688491
+        },
+        {
+            "name": "小さな国の城下街",
+            "artist": "柳川和樹",
+            "id": 31587748
+        },
+        {
+            "name": "風の止まり木",
+            "artist": "水月陵",
+            "id": 36103287
+        },
+        {
+            "name": "桜・咲くころ",
+            "artist": "押尾コータロー",
+            "id": 22822538
+        },
+        {
+            "name": "水辺に映る白い鳥",
+            "artist": "Ciela",
+            "id": 689649
+        },
+        {
+            "name": "The des Alizes",
+            "artist": "Foxtail-Grass Studio",
+            "id": 41416746
+        },
+        {
+            "name": "春蝉",
+            "artist": "ゴンチチ",
+            "id": 757546
+        },
+        {
+            "name": "先輩ルート",
+            "artist": "信澤宣明",
+            "id": 470795827
+        },
+        {
+            "name": "Rain in the Park",
+            "artist": "Marika Takeuchi",
+            "id": 31452733
+        },
+        {
+            "name": "きらめく湖畔",
+            "artist": "加藤達也",
+            "id": 30245354
+        },
+        {
+            "name": "明日を信じて(フィルムバージョン)",
+            "artist": "西村由紀江",
+            "id": 668405
+        },
+        {
+            "name": "流れ行く云 (Nagareyuku Kumo)",
+            "artist": "岸部眞明",
+            "id": 441532
+        },
+        {
+            "name": "Beauteous Rain",
+            "artist": "Ciela",
+            "id": 689657
+        },
+        {
+            "name": "Christmas",
+            "artist": "徐梦圆",
+            "id": 40249016
+        },
+        {
+            "name": "日陰と帽子と風鈴と",
+            "artist": "Foxtail-Grass Studio",
+            "id": 730806
+        },
+        {
+            "name": "約束の海",
+            "artist": "伍々慧",
+            "id": 26450084
+        },
+        {
+            "name": "氷だらけのアイスコーヒー",
+            "artist": "Foxtail-Grass Studio",
+            "id": 730810
+        },
+        {
+            "name": "Here Comes the Sweater Weather",
+            "artist": "Lullatone",
+            "id": 27860419
+        },
+        {
+            "name": "ひやむぎ、そーめん、时々うどん",
+            "artist": "ハム",
+            "id": 785793
+        },
+        {
+            "name": "ARIGATOU",
+            "artist": "DEPAPEPE",
+            "id": 22688502
+        },
+        {
+            "name": "童年",
+            "artist": "徐梦圆",
+            "id": 34779256
+        },
+        {
+            "name": "风笛",
+            "artist": "DDBY",
+            "id": 715960
+        },
+        {
+            "name": "In The Fall Of My Heart（Cover 《请回答1988》）",
+            "artist": "白金",
+            "id": 520055579
+        },
+        {
+            "name": "おセンチたまこ",
+            "artist": "片岡知子",
+            "id": 26534724
+        },
+        {
+            "name": "Dreams",
+            "artist": "Kevin Penkin",
+            "id": 571339487
+        },
+        {
+            "name": "私は",
+            "artist": "爱喝柠檬茶的喵",
+            "id": 863552267
+        },
+        {
+            "name": "人间风景",
+            "artist": "忘乡",
+            "id": 1454884913
+        },
+        {
+            "name": "signs and wonders",
+            "artist": "やなぎなぎ",
+            "id": 571059454
+        },
+        {
+            "name": "手つかずの感情",
+            "artist": "中山真斗",
+            "id": 26215042
+        },
+        {
+            "name": "静かな夏",
+            "artist": "春野杉卉",
+            "id": 1380556360
+        },
+        {
+            "name": "恋のエチュード",
+            "artist": "松田彬人",
+            "id": 4946882
+        },
+        {
+            "name": "Bluebird",
+            "artist": "伍々慧",
+            "id": 36924021
+        },
+        {
+            "name": "夏休み",
+            "artist": "Neko on'Nanoko*emoji",
+            "id": 1371757865
+        }
+    ]
+}

@@ -1,0 +1,587 @@
+{
+    "playlist_info": {
+        "name": "「纯音乐」学习/安静/放松/解压/治愈",
+        "trackcount": 115,
+        "playcount": 6357,
+        "creator": "降温木",
+        "createDate": "2021-01-27",
+        "heat": 7.0
+    },
+    "songs": [
+        {
+            "name": "Shut up My Moms Calling ((Sped Up))",
+            "artist": "Hotel Ugly",
+            "id": 1980856355
+        },
+        {
+            "name": "いのちの名前",
+            "artist": "広橋真紀子",
+            "id": 578090
+        },
+        {
+            "name": "夜晚的海滨小镇",
+            "artist": "皮璐宇",
+            "id": 411259788
+        },
+        {
+            "name": "那些你很冒险的梦 piano ver.",
+            "artist": "杨骏",
+            "id": 1817788239
+        },
+        {
+            "name": "秋风细雨，你我皆是过客",
+            "artist": "叶轻衣",
+            "id": 1412209212
+        },
+        {
+            "name": "入目无别人 四下皆是你",
+            "artist": "Yzz",
+            "id": 1474494568
+        },
+        {
+            "name": "「 沒 有 感 同 身 受 」",
+            "artist": "Slitmy7",
+            "id": 1443022767
+        },
+        {
+            "name": "pure imagination",
+            "artist": "Rook1e",
+            "id": 494858498
+        },
+        {
+            "name": "风居住的街道（钢琴）",
+            "artist": "李勤舍",
+            "id": 567563817
+        },
+        {
+            "name": "风带走的时间",
+            "artist": "N.K.杨凯",
+            "id": 1396138270
+        },
+        {
+            "name": "总是被拒绝，也挺难过的。",
+            "artist": "拿花负荷",
+            "id": 1411402304
+        },
+        {
+            "name": "浮生若梦",
+            "artist": "Infinite Mask",
+            "id": 1460650981
+        },
+        {
+            "name": "很難受吧突然就陌生了",
+            "artist": "会心疼我嘛",
+            "id": 1487659896
+        },
+        {
+            "name": "安静的午后",
+            "artist": "Pianoboy高至豪",
+            "id": 139730
+        },
+        {
+            "name": "希望你以后遇见的人值得你错过我",
+            "artist": "会心疼我嘛",
+            "id": 1491714569
+        },
+        {
+            "name": "忙しい生活「人山人海」",
+            "artist": "时空储蓄罐",
+            "id": 1877526024
+        },
+        {
+            "name": "小水鲸",
+            "artist": "Maple暖枫",
+            "id": 1835048360
+        },
+        {
+            "name": "Hanabi",
+            "artist": "Sharman Rock",
+            "id": 28578763
+        },
+        {
+            "name": "Puddles",
+            "artist": "Jay-Lounge",
+            "id": 1348598388
+        },
+        {
+            "name": "我 做 了 个 很 长 很 长 的 梦",
+            "artist": "美 梦 领 取 屋",
+            "id": 1846272603
+        },
+        {
+            "name": "【钢琴】Secret Base 未闻花名ED",
+            "artist": "昼夜",
+            "id": 470293313
+        },
+        {
+            "name": "这就是爱吗",
+            "artist": "魏欣宸",
+            "id": 1420349595
+        },
+        {
+            "name": "flower.",
+            "artist": "L1VET..",
+            "id": 1441250313
+        },
+        {
+            "name": "﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌",
+            "artist": "HOPERUI",
+            "id": 1873575452
+        },
+        {
+            "name": "寄给你全宇宙的爱和自太古至永劫的思念（钢琴版）（翻自TAVOS）",
+            "artist": "柳轻颂",
+            "id": 1811118529
+        },
+        {
+            "name": "夏の日 (interlude)",
+            "artist": "Rook1e",
+            "id": 494407056
+        },
+        {
+            "name": "不遗憾 (钢琴版)",
+            "artist": "Jesse T",
+            "id": 1862657290
+        },
+        {
+            "name": "雨 因你而下，于你而止",
+            "artist": "Seto",
+            "id": 1377807992
+        },
+        {
+            "name": "Tender Like Water（Jay给吴昕的三键成曲）",
+            "artist": "文鱼",
+            "id": 1932379731
+        },
+        {
+            "name": "woke up twice in the night",
+            "artist": "minicat",
+            "id": 1468004556
+        },
+        {
+            "name": "新年快乐，你好2023！",
+            "artist": "无名之爱",
+            "id": 1808552088
+        },
+        {
+            "name": "日暮里",
+            "artist": "JINBAO",
+            "id": 1351183637
+        },
+        {
+            "name": "云烟成雨",
+            "artist": "姜创钢琴",
+            "id": 568442050
+        },
+        {
+            "name": "死在人海",
+            "artist": "雾江月",
+            "id": 1870361148
+        },
+        {
+            "name": "遇见（钢琴版）（翻自 孙燕姿）",
+            "artist": "柳轻颂",
+            "id": 1451960107
+        },
+        {
+            "name": "永不失联的爱-伴奏-钢琴版（翻自 群星）",
+            "artist": "解宁",
+            "id": 1501212823
+        },
+        {
+            "name": "请 允 许 我 成 为 你 的 夏 季",
+            "artist": "Yzz",
+            "id": 1454797701
+        },
+        {
+            "name": "三葉のテーマ",
+            "artist": "九月橙",
+            "id": 521161203
+        },
+        {
+            "name": "Blue Dragon(piano&guitarver)",
+            "artist": "澤野弘之",
+            "id": 501829
+        },
+        {
+            "name": "η",
+            "artist": "α·Pav",
+            "id": 29137871
+        },
+        {
+            "name": "【钢琴】北京东路的日子",
+            "artist": "昼夜",
+            "id": 481598409
+        },
+        {
+            "name": "别念",
+            "artist": "Funton",
+            "id": 552560922
+        },
+        {
+            "name": "If I could",
+            "artist": "洛仃洋",
+            "id": 1345692093
+        },
+        {
+            "name": "夏日漱石 (Summer Cozy Rock)",
+            "artist": "橘子海 (Orange Ocean)",
+            "id": 1359818052
+        },
+        {
+            "name": "Love Is Gone（钢琴版）（翻自 SLANDER）",
+            "artist": "柳轻颂",
+            "id": 1458236782
+        },
+        {
+            "name": "心做し（唯美钢琴版）",
+            "artist": "李好",
+            "id": 1310373595
+        },
+        {
+            "name": "Morning Routine",
+            "artist": "Frand",
+            "id": 1474420526
+        },
+        {
+            "name": "いつも何度でも",
+            "artist": "宗次郎",
+            "id": 480353
+        },
+        {
+            "name": "剩下的盛夏 (纯音乐)",
+            "artist": "six nine",
+            "id": 1814081146
+        },
+        {
+            "name": "撒野（钢琴版）",
+            "artist": "柳轻颂",
+            "id": 1806367719
+        },
+        {
+            "name": "Fallin Flower（钢琴版）（翻自 SEVENTEEN）",
+            "artist": "柳轻颂",
+            "id": 1461711022
+        },
+        {
+            "name": "张芸京-偏爱（钢琴版）（柳轻颂 remix）",
+            "artist": "柳轻颂",
+            "id": 1441239490
+        },
+        {
+            "name": "浮槎",
+            "artist": "MT1990",
+            "id": 1366031349
+        },
+        {
+            "name": "大鱼 钢琴版",
+            "artist": "昼夜",
+            "id": 414706265
+        },
+        {
+            "name": "可惜我們不會再見了",
+            "artist": "Seto",
+            "id": 1465084366
+        },
+        {
+            "name": "The Way I Still Love You",
+            "artist": "ALisa",
+            "id": 1474400749
+        },
+        {
+            "name": "Moon and You",
+            "artist": "Kryust",
+            "id": 1452083740
+        },
+        {
+            "name": "时间煮雨（钢琴）",
+            "artist": "杨章隐",
+            "id": 1293825852
+        },
+        {
+            "name": "打上花火（钢琴版）",
+            "artist": "柳轻颂",
+            "id": 1451778670
+        },
+        {
+            "name": "青石巷",
+            "artist": "魏琮霏",
+            "id": 422429425
+        },
+        {
+            "name": "Way Back Home(伴奏)-钢琴版（翻自 群星） ",
+            "artist": "解宁",
+            "id": 1335701031
+        },
+        {
+            "name": "起风了 伴奏-钢琴版（翻自 群星）",
+            "artist": "解宁",
+            "id": 1500511792
+        },
+        {
+            "name": "一天一天（钢琴版）（翻自 Various Artists）",
+            "artist": "柳轻颂",
+            "id": 1449463159
+        },
+        {
+            "name": "偏爱 伴奏-钢琴版（翻自 群星）",
+            "artist": "解宁",
+            "id": 1501212319
+        },
+        {
+            "name": "我再没见过 像你一般的星空",
+            "artist": "Seto",
+            "id": 1821787672
+        },
+        {
+            "name": "We made 25 turns in the ferris wheel that day .",
+            "artist": "Seto",
+            "id": 1432174098
+        },
+        {
+            "name": "愛",
+            "artist": "Seto",
+            "id": 1828063556
+        },
+        {
+            "name": "【FREE】lucky",
+            "artist": "Salder4cash",
+            "id": 1392600538
+        },
+        {
+            "name": "Time Stop",
+            "artist": "BlackDD",
+            "id": 1992712131
+        },
+        {
+            "name": "《瞬间的永恒》夜色钢琴曲",
+            "artist": "赵海洋",
+            "id": 31134621
+        },
+        {
+            "name": "《夜色钢琴曲》莫斯科郊外的晚上",
+            "artist": "赵海洋",
+            "id": 31134613
+        },
+        {
+            "name": "满目星河",
+            "artist": "CMJ",
+            "id": 1399869906
+        },
+        {
+            "name": "EXO-人鱼的眼泪（寒枫 remix）",
+            "artist": "寒枫",
+            "id": 1379255011
+        },
+        {
+            "name": "浮生皆纵 恍如一梦",
+            "artist": "白鸿",
+            "id": 1417465877
+        },
+        {
+            "name": "✘ 按 下 暫 停 你 將 變 的 清 醒 且 墮 落",
+            "artist": "Mei",
+            "id": 1413460561
+        },
+        {
+            "name": "落日归山海，陪伴成告白",
+            "artist": "Seto",
+            "id": 1379215363
+        },
+        {
+            "name": "AME TO SAKURA",
+            "artist": "Seto",
+            "id": 1384311632
+        },
+        {
+            "name": "Ô",
+            "artist": "NORMALBOI4LUV",
+            "id": 1841674536
+        },
+        {
+            "name": "山河皆似你",
+            "artist": "Perseids",
+            "id": 1852266901
+        },
+        {
+            "name": "À",
+            "artist": "NORMALBOI4LUV",
+            "id": 1841676322
+        },
+        {
+            "name": "Windy Hill",
+            "artist": "羽肿",
+            "id": 427606780
+        },
+        {
+            "name": "10%",
+            "artist": "SynBlazer",
+            "id": 425100824
+        },
+        {
+            "name": "ヽ｀、｀ヽ｀ヽ",
+            "artist": "Yzz",
+            "id": 1424537126
+        },
+        {
+            "name": "Elaineylly",
+            "artist": "HOPERUI",
+            "id": 1453614559
+        },
+        {
+            "name": "菊次郎的夏天（纯钢琴）",
+            "artist": "Masque_Jupiter",
+            "id": 541326593
+        },
+        {
+            "name": "DJ Okawari - Flower Dance（钢琴版）",
+            "artist": "Oturans",
+            "id": 515788042
+        },
+        {
+            "name": "仲夏夜的猫",
+            "artist": "Hea2t",
+            "id": 1444781647
+        },
+        {
+            "name": "☾",
+            "artist": "沙皮",
+            "id": 1348688293
+        },
+        {
+            "name": "Melody In Dream",
+            "artist": "刘博洋",
+            "id": 1494559931
+        },
+        {
+            "name": "夜的钢琴曲五",
+            "artist": "Leon不太冷",
+            "id": 558261233
+        },
+        {
+            "name": "雪之梦重混版",
+            "artist": "Sound River",
+            "id": 465301792
+        },
+        {
+            "name": "【钢琴】雨的印记（Kiss The Rain）（Cover YIRUMA）",
+            "artist": "昼夜",
+            "id": 415085696
+        },
+        {
+            "name": "卡农（经典钢琴版）",
+            "artist": "dylanf",
+            "id": 478507889
+        },
+        {
+            "name": "Star in your dream(星河入梦)",
+            "artist": "dylanf",
+            "id": 1487256705
+        },
+        {
+            "name": "Starry Sky(满天星河)",
+            "artist": "dylanf",
+            "id": 1812282112
+        },
+        {
+            "name": "¿",
+            "artist": "Funton",
+            "id": 1320860898
+        },
+        {
+            "name": "Way Back Home 【吉他】",
+            "artist": "林屿森LIN",
+            "id": 1312017438
+        },
+        {
+            "name": "从你的全世界路过",
+            "artist": "路灰气球",
+            "id": 1466953210
+        },
+        {
+            "name": "萤火之森",
+            "artist": "CMJ",
+            "id": 1415706303
+        },
+        {
+            "name": "痕",
+            "artist": "白鸿",
+            "id": 1430652175
+        },
+        {
+            "name": "海の形",
+            "artist": "昙轩",
+            "id": 535056564
+        },
+        {
+            "name": "溯（钢琴版）",
+            "artist": "柳轻颂",
+            "id": 1433584979
+        },
+        {
+            "name": "告白之夜（纯音乐）",
+            "artist": "CMJ",
+            "id": 1353301300
+        },
+        {
+            "name": "Flower Dance（钢琴版I）",
+            "artist": "PianoPanda",
+            "id": 552194857
+        },
+        {
+            "name": "Bloom of Youth",
+            "artist": "Key Sounds Label",
+            "id": 760058
+        },
+        {
+            "name": "烟花落",
+            "artist": "DarkSpirit",
+            "id": 1314010312
+        },
+        {
+            "name": "千本樱（纯钢琴）",
+            "artist": "愚人幽篁里",
+            "id": 1339421617
+        },
+        {
+            "name": "梦江南（钢琴版）",
+            "artist": "音乐人小笨喵",
+            "id": 501061949
+        },
+        {
+            "name": "星茶会",
+            "artist": "灰澈",
+            "id": 492390949
+        },
+        {
+            "name": "城南花已开",
+            "artist": "三亩地",
+            "id": 468176711
+        },
+        {
+            "name": "灯火不完美",
+            "artist": "smile丶轩",
+            "id": 1313474211
+        },
+        {
+            "name": "所爱隔山海",
+            "artist": "CMJ",
+            "id": 1348896822
+        },
+        {
+            "name": "山海不可平",
+            "artist": "CMJ",
+            "id": 1352045760
+        },
+        {
+            "name": "所念皆星河",
+            "artist": "CMJ",
+            "id": 1384026889
+        },
+        {
+            "name": "星河不可及",
+            "artist": "CMJ",
+            "id": 1409136605
+        }
+    ]
+}

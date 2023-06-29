@@ -1,0 +1,612 @@
+{
+    "playlist_info": {
+        "name": "【柔情金属】硬汉们的似水柔情，无尽悲伤",
+        "trackcount": 120,
+        "playcount": 6824579,
+        "creator": "夕阳下的盛宴",
+        "createDate": "2016-09-30",
+        "heat": 2770.0
+    },
+    "songs": [
+        {
+            "name": "She's Gone",
+            "artist": "Steelheart",
+            "id": 19182546
+        },
+        {
+            "name": "The last rain(最后的雨)",
+            "artist": "ASH",
+            "id": 2051317829
+        },
+        {
+            "name": "Walk with the love(与爱同行)",
+            "artist": "ASH",
+            "id": 2046186033
+        },
+        {
+            "name": "Still Loving You (Live)",
+            "artist": "Scorpions",
+            "id": 21733610
+        },
+        {
+            "name": "Don't Close Your Eyes",
+            "artist": "Kix",
+            "id": 2887490
+        },
+        {
+            "name": "Love Song (Live At The Trocadero / 1990)",
+            "artist": "Tesla",
+            "id": 21925692
+        },
+        {
+            "name": "When I Find Love",
+            "artist": "XYZ",
+            "id": 3851408
+        },
+        {
+            "name": "I'd Die for You",
+            "artist": "Bon Jovi",
+            "id": 3951298
+        },
+        {
+            "name": "Carrie",
+            "artist": "Europe",
+            "id": 2532727
+        },
+        {
+            "name": "Hey Hey My My",
+            "artist": "Axel Rudi Pell",
+            "id": 28246850
+        },
+        {
+            "name": "Here for You",
+            "artist": "Ozzy Osbourne",
+            "id": 21318156
+        },
+        {
+            "name": "Don't Cry (Original)",
+            "artist": "Guns N' Roses",
+            "id": 18094989
+        },
+        {
+            "name": "What Love Can Be",
+            "artist": "Kingdom Come",
+            "id": 20036697
+        },
+        {
+            "name": "House of Pain",
+            "artist": "Faster Pussycat",
+            "id": 2604360
+        },
+        {
+            "name": "You're All I Need",
+            "artist": "Mötley Crüe",
+            "id": 4176868
+        },
+        {
+            "name": "Dream On",
+            "artist": "Ronnie James Dio",
+            "id": 25322878
+        },
+        {
+            "name": "Crying",
+            "artist": "The Poodles",
+            "id": 19526131
+        },
+        {
+            "name": "Save Your Love",
+            "artist": "Great White",
+            "id": 27502991
+        },
+        {
+            "name": "Don't Be Afraid Of The Dark",
+            "artist": "Y&T",
+            "id": 35440337
+        },
+        {
+            "name": "Community Property",
+            "artist": "Steel Panther",
+            "id": 19191622
+        },
+        {
+            "name": "Promise The Moon",
+            "artist": "Dangerous Toys",
+            "id": 17329662
+        },
+        {
+            "name": "Catch The Rainbow",
+            "artist": "Rainbow",
+            "id": 21564967
+        },
+        {
+            "name": "Earth & Sky",
+            "artist": "Steel Prophet",
+            "id": 5214988
+        },
+        {
+            "name": "I Still Love You",
+            "artist": "KISS",
+            "id": 2873410
+        },
+        {
+            "name": "F#9",
+            "artist": "Bulletboys",
+            "id": 16716862
+        },
+        {
+            "name": "Forever and One (Neverland)",
+            "artist": "Helloween",
+            "id": 1425151
+        },
+        {
+            "name": "Too Late For Love",
+            "artist": "Def Leppard",
+            "id": 2416998
+        },
+        {
+            "name": "A Song for the Broken Hearted",
+            "artist": "Negative",
+            "id": 17559693
+        },
+        {
+            "name": "When I Look into Your Eyes",
+            "artist": "Firehouse",
+            "id": 17803654
+        },
+        {
+            "name": "Can't Find My Way",
+            "artist": "Hardline",
+            "id": 18188297
+        },
+        {
+            "name": "On A Day Like Today",
+            "artist": "Winger",
+            "id": 19808204
+        },
+        {
+            "name": "Million Miles Away",
+            "artist": "Hanoi Rocks",
+            "id": 18311806
+        },
+        {
+            "name": "By Your Side",
+            "artist": "Sebastian Bach",
+            "id": 22320668
+        },
+        {
+            "name": "Bad for Each Other",
+            "artist": "Shark Island",
+            "id": 20346830
+        },
+        {
+            "name": "Streets Of Broken Hearts",
+            "artist": "Slaughter",
+            "id": 19182792
+        },
+        {
+            "name": "Don't Care 'Bout Nothin'",
+            "artist": "Shotgun Messiah",
+            "id": 20323255
+        },
+        {
+            "name": "Nobody's Fool",
+            "artist": "Cinderella",
+            "id": 20535509
+        },
+        {
+            "name": "A Fine Line",
+            "artist": "Fastway",
+            "id": 2604071
+        },
+        {
+            "name": "FOREVER YOURS",
+            "artist": "Impellitteri",
+            "id": 19943740
+        },
+        {
+            "name": "I Wanna Be With You",
+            "artist": "Pretty Boy Floyd",
+            "id": 3253743
+        },
+        {
+            "name": "Blue Tears",
+            "artist": "Blue Tears",
+            "id": 2280614
+        },
+        {
+            "name": "Every Rose Has Its Thorn",
+            "artist": "Poison",
+            "id": 5119066
+        },
+        {
+            "name": "Close Your Eyes (Album Version)",
+            "artist": "Pink Cream 69",
+            "id": 4247461
+        },
+        {
+            "name": "No More Tears",
+            "artist": "Julliet",
+            "id": 4140012
+        },
+        {
+            "name": "When the Love Is Over",
+            "artist": "Shy",
+            "id": 3498752
+        },
+        {
+            "name": "Love Of My Life(B-Side)",
+            "artist": "Extreme",
+            "id": 1303206
+        },
+        {
+            "name": "When the Crowds Are Gone",
+            "artist": "Savatage",
+            "id": 21683261
+        },
+        {
+            "name": "One Way Ticket",
+            "artist": "L.A. Guns",
+            "id": 1656176
+        },
+        {
+            "name": "High Enough",
+            "artist": "Damn Yankees",
+            "id": 2436434
+        },
+        {
+            "name": "Dear God",
+            "artist": "Avenged Sevenfold",
+            "id": 20503641
+        },
+        {
+            "name": "Love Ain't Enough",
+            "artist": "Southgang",
+            "id": 3498127
+        },
+        {
+            "name": "I Remember You",
+            "artist": "Skid Row",
+            "id": 4279879
+        },
+        {
+            "name": "In A Darkened Room",
+            "artist": "Skid Row",
+            "id": 21716064
+        },
+        {
+            "name": "Don't Walk Away",
+            "artist": "Danger Danger",
+            "id": 2457357
+        },
+        {
+            "name": "I Never Cry",
+            "artist": "Alice Cooper",
+            "id": 997995
+        },
+        {
+            "name": "Angel",
+            "artist": "Aerosmith",
+            "id": 20506496
+        },
+        {
+            "name": "Strange World (1998 Digital Remaster)",
+            "artist": "Iron Maiden",
+            "id": 22449229
+        },
+        {
+            "name": "Back Again",
+            "artist": "Dynazty",
+            "id": 17442417
+        },
+        {
+            "name": "Just Take My Heart",
+            "artist": "Mr. Big",
+            "id": 1699322
+        },
+        {
+            "name": "I Can't Make You Love Me",
+            "artist": "Quiet Riot",
+            "id": 3312050
+        },
+        {
+            "name": "So Far Away",
+            "artist": "Avenged Sevenfold",
+            "id": 20503676
+        },
+        {
+            "name": "Amy's On the Run",
+            "artist": "Thunder",
+            "id": 3784541
+        },
+        {
+            "name": "Don't Go",
+            "artist": "Nitro",
+            "id": 4212011
+        },
+        {
+            "name": "Love Is on the Way",
+            "artist": "Saigon Kick",
+            "id": 19081424
+        },
+        {
+            "name": "Givin' Yourself Away",
+            "artist": "Ratt",
+            "id": 3317332
+        },
+        {
+            "name": "Forever",
+            "artist": "Vince Neil",
+            "id": 19671189
+        },
+        {
+            "name": "No One Like You",
+            "artist": "Scorpions",
+            "id": 21733585
+        },
+        {
+            "name": "Tomorrow",
+            "artist": "Edguy",
+            "id": 17568388
+        },
+        {
+            "name": "Anywhere",
+            "artist": "Avantasia",
+            "id": 16502776
+        },
+        {
+            "name": "Crown of Thorns",
+            "artist": "SINNER",
+            "id": 5198598
+        },
+        {
+            "name": "Courage",
+            "artist": "Manowar",
+            "id": 27253281
+        },
+        {
+            "name": "Angel",
+            "artist": "Judas Priest",
+            "id": 18697648
+        },
+        {
+            "name": "Look In My Eyes",
+            "artist": "Crystal Ball",
+            "id": 5203624
+        },
+        {
+            "name": "Broken Dreams",
+            "artist": "Fifth Angel",
+            "id": 19795592
+        },
+        {
+            "name": "Save the Weak",
+            "artist": "Britny Fox",
+            "id": 2229915
+        },
+        {
+            "name": "I Remember",
+            "artist": "Dokken",
+            "id": 26062238
+        },
+        {
+            "name": "You Make Me Feel",
+            "artist": "Bonfire",
+            "id": 16710472
+        },
+        {
+            "name": "Baby Loves You",
+            "artist": "Enuff Z'nuff",
+            "id": 2550507
+        },
+        {
+            "name": "I Don't Love You Anymore",
+            "artist": "The Quireboys",
+            "id": 21761474
+        },
+        {
+            "name": "Key to the Universe",
+            "artist": "Timo Tolkki",
+            "id": 19275242
+        },
+        {
+            "name": "Goodbye",
+            "artist": "Grave Digger",
+            "id": 5198609
+        },
+        {
+            "name": "Because The Night",
+            "artist": "Keel",
+            "id": 2899781
+        },
+        {
+            "name": "Beauty Has Come",
+            "artist": "Kotipelto",
+            "id": 18919298
+        },
+        {
+            "name": "Spread My Wings",
+            "artist": "Thunderstone",
+            "id": 5203622
+        },
+        {
+            "name": "Love Kills (Remastered)",
+            "artist": "Vinnie Vincent Invasion",
+            "id": 22494284
+        },
+        {
+            "name": "So Savage the Heart",
+            "artist": "Babylon A.D.",
+            "id": 1127641
+        },
+        {
+            "name": "You're All I Need",
+            "artist": "White Lion",
+            "id": 4424575
+        },
+        {
+            "name": "Don't Cry",
+            "artist": "Like A Storm",
+            "id": 4161231
+        },
+        {
+            "name": "Another Day From Heaven",
+            "artist": "House of Lords",
+            "id": 2727447
+        },
+        {
+            "name": "The Show Must Go On",
+            "artist": "Grim Reaper",
+            "id": 2656269
+        },
+        {
+            "name": "Omega",
+            "artist": "Bruce Dickinson",
+            "id": 16636345
+        },
+        {
+            "name": "In the Morning (Remastered)",
+            "artist": "Halford",
+            "id": 1452789
+        },
+        {
+            "name": "Seventh Angel (Acoustic Version)",
+            "artist": "Threshold",
+            "id": 3745099
+        },
+        {
+            "name": "Out Of Love (Album Version)",
+            "artist": "Blue Murder",
+            "id": 2254076
+        },
+        {
+            "name": "Doesn't Matter",
+            "artist": "Killer Dwarfs",
+            "id": 2895766
+        },
+        {
+            "name": "It's Over",
+            "artist": "Legenda Aurea",
+            "id": 4163936
+        },
+        {
+            "name": "Someone Like You",
+            "artist": "Bang Tango",
+            "id": 1127985
+        },
+        {
+            "name": "Destiny",
+            "artist": "Pegazus",
+            "id": 18215590
+        },
+        {
+            "name": "Slowly",
+            "artist": "Silverlane",
+            "id": 19187192
+        },
+        {
+            "name": "Where You Goin' Now",
+            "artist": "Damn Yankees",
+            "id": 36059627
+        },
+        {
+            "name": "The Unforgiven II",
+            "artist": "Metallica",
+            "id": 21162419
+        },
+        {
+            "name": "Kill The Pain",
+            "artist": "Accept",
+            "id": 16501666
+        },
+        {
+            "name": "More Than Words Can Say",
+            "artist": "Alias",
+            "id": 22607218
+        },
+        {
+            "name": "Return To Serenity",
+            "artist": "Testament",
+            "id": 4343085
+        },
+        {
+            "name": "À Tout Le Monde [Set Me Free] (Album Version)",
+            "artist": "Megadeth",
+            "id": 21162906
+        },
+        {
+            "name": "Losing You",
+            "artist": "Dream Evil",
+            "id": 17224444
+        },
+        {
+            "name": "Who Am I",
+            "artist": "Firewind",
+            "id": 2591772
+        },
+        {
+            "name": "The Misery",
+            "artist": "Sonata Arctica",
+            "id": 21724658
+        },
+        {
+            "name": "Through Ages",
+            "artist": "Rage",
+            "id": 18831731
+        },
+        {
+            "name": "Silent Tears",
+            "artist": "Catharsis",
+            "id": 27083051
+        },
+        {
+            "name": "Love",
+            "artist": "Labyrinth",
+            "id": 1657887
+        },
+        {
+            "name": "On And On",
+            "artist": "Trixter",
+            "id": 19378640
+        },
+        {
+            "name": "Dying To See You",
+            "artist": "Giant",
+            "id": 18096418
+        },
+        {
+            "name": "Don't Leave Me",
+            "artist": "Axxis",
+            "id": 16325373
+        },
+        {
+            "name": "Lost in Your Love",
+            "artist": "At Vance",
+            "id": 16476182
+        },
+        {
+            "name": "Run In You",
+            "artist": "Stryper",
+            "id": 19167164
+        },
+        {
+            "name": "Live for My Own",
+            "artist": "Innerwish",
+            "id": 4125439
+        },
+        {
+            "name": "Moonlight Romance",
+            "artist": "Highlord",
+            "id": 4109908
+        },
+        {
+            "name": "I Saw Red",
+            "artist": "Warrant",
+            "id": 19817117
+        },
+        {
+            "name": "Fjara",
+            "artist": "Sólstafir",
+            "id": 4322620
+        }
+    ]
+}

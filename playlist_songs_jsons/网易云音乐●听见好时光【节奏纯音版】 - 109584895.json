@@ -1,0 +1,957 @@
+{
+    "playlist_info": {
+        "name": "网易云音乐●听见好时光【节奏纯音版】",
+        "trackcount": 189,
+        "playcount": 65405,
+        "creator": "心情的河流",
+        "createDate": "2015-09-23",
+        "heat": 23.0
+    },
+    "songs": [
+        {
+            "name": "Windy Hill",
+            "artist": "羽肿",
+            "id": 427606780
+        },
+        {
+            "name": "感谢生活 (伴奏)",
+            "artist": "水木年华",
+            "id": 1846048056
+        },
+        {
+            "name": "so weak（正版）",
+            "artist": "李柄桦",
+            "id": 472167986
+        },
+        {
+            "name": "大国无疆",
+            "artist": "彭答（答答）",
+            "id": 1348210695
+        },
+        {
+            "name": "A New Day No Mel",
+            "artist": "Mark Petrie",
+            "id": 1783916
+        },
+        {
+            "name": "穿越时空的思念 (DiESi Remix)",
+            "artist": "DiESi",
+            "id": 1345395655
+        },
+        {
+            "name": "Last Reunion",
+            "artist": "Peter Roe",
+            "id": 1304860054
+        },
+        {
+            "name": "A New Day",
+            "artist": "Fabrizio",
+            "id": 5199457
+        },
+        {
+            "name": "Anesthesia",
+            "artist": "Vexento",
+            "id": 31721419
+        },
+        {
+            "name": "faded钢琴演奏版",
+            "artist": "残影月",
+            "id": 544862861
+        },
+        {
+            "name": "Léto (Original Mix)",
+            "artist": "Timmo Hendriks",
+            "id": 36578423
+        },
+        {
+            "name": "Age of Desire",
+            "artist": "Nick Murray",
+            "id": 29751204
+        },
+        {
+            "name": "See You Later",
+            "artist": "Elyonbeats",
+            "id": 27707279
+        },
+        {
+            "name": "樱花雨",
+            "artist": "傅许",
+            "id": 409649727
+        },
+        {
+            "name": "Don Coi (Instrumental)",
+            "artist": "Truong Quynh Anh",
+            "id": 29747816
+        },
+        {
+            "name": "Sky High",
+            "artist": "Thomas Prime",
+            "id": 2060546
+        },
+        {
+            "name": "Inspire",
+            "artist": "Capo Productions",
+            "id": 16846091
+        },
+        {
+            "name": "青空",
+            "artist": "Candy_Wind",
+            "id": 32717172
+        },
+        {
+            "name": "Rags To Rings",
+            "artist": "英雄联盟",
+            "id": 28949242
+        },
+        {
+            "name": "Clannad (Remix)",
+            "artist": "Kondor",
+            "id": 1638500
+        },
+        {
+            "name": "You Are Truth",
+            "artist": "Anima",
+            "id": 36190446
+        },
+        {
+            "name": "雨夜",
+            "artist": "四季音色",
+            "id": 410181618
+        },
+        {
+            "name": "Sleepwalking",
+            "artist": "7AND5",
+            "id": 2116595
+        },
+        {
+            "name": "One last dance",
+            "artist": "Noicybino",
+            "id": 34183393
+        },
+        {
+            "name": "Flowers in wind",
+            "artist": "Chinsta",
+            "id": 27599592
+        },
+        {
+            "name": "Coming In",
+            "artist": "7AND5",
+            "id": 2116596
+        },
+        {
+            "name": "Who's Lovin' You",
+            "artist": "October",
+            "id": 28957127
+        },
+        {
+            "name": "03：03AM(interlude2)",
+            "artist": "Aosaki",
+            "id": 34187062
+        },
+        {
+            "name": "踏雪迎霜",
+            "artist": "西皮士",
+            "id": 29848081
+        },
+        {
+            "name": "For my girl friend",
+            "artist": "未泯",
+            "id": 32743966
+        },
+        {
+            "name": "小河",
+            "artist": "饭碗的彼岸",
+            "id": 409649038
+        },
+        {
+            "name": "夏夜",
+            "artist": "四季音色",
+            "id": 410042763
+        },
+        {
+            "name": "春日",
+            "artist": "四季音色",
+            "id": 409649183
+        },
+        {
+            "name": "Journey",
+            "artist": "Capo Productions",
+            "id": 16846088
+        },
+        {
+            "name": "Good Life",
+            "artist": "Epistra",
+            "id": 28949436
+        },
+        {
+            "name": "Serenade",
+            "artist": "Jim Brickman",
+            "id": 18582321
+        },
+        {
+            "name": "花言葉",
+            "artist": "α·Pav",
+            "id": 139286
+        },
+        {
+            "name": "A Little Story",
+            "artist": "Valentin",
+            "id": 857896
+        },
+        {
+            "name": "Tassel",
+            "artist": "Cymophane",
+            "id": 357126
+        },
+        {
+            "name": "Fell for U",
+            "artist": "Noicybino",
+            "id": 39635710
+        },
+        {
+            "name": "Sunset Avenue",
+            "artist": "Guido Negraszus",
+            "id": 1391951
+        },
+        {
+            "name": "Winter Tone",
+            "artist": "α·Pav",
+            "id": 26487960
+        },
+        {
+            "name": "十一月风",
+            "artist": "Candy_Wind",
+            "id": 32717168
+        },
+        {
+            "name": "Flower Dance",
+            "artist": "DJ Okawari",
+            "id": 406238
+        },
+        {
+            "name": "Love home",
+            "artist": "夏小舟",
+            "id": 404459321
+        },
+        {
+            "name": "Intro",
+            "artist": "The xx",
+            "id": 4341314
+        },
+        {
+            "name": "Aspiration (no choir)",
+            "artist": "Future World Music",
+            "id": 1354750
+        },
+        {
+            "name": "Entering Twin Falls",
+            "artist": "Nicholas Gunn",
+            "id": 17446939
+        },
+        {
+            "name": "Whisper Of Hope (Main)",
+            "artist": "Gothic Storm",
+            "id": 29103341
+        },
+        {
+            "name": "The Beginning",
+            "artist": "Capo Productions",
+            "id": 31830765
+        },
+        {
+            "name": "Between the Stars",
+            "artist": "Elyonbeats",
+            "id": 29043512
+        },
+        {
+            "name": "Serenata(No Choir)",
+            "artist": "Immediate Music",
+            "id": 1463406
+        },
+        {
+            "name": "Revolutions",
+            "artist": "Capo Productions",
+            "id": 4010799
+        },
+        {
+            "name": "Melody",
+            "artist": "Capo Productions",
+            "id": 4010873
+        },
+        {
+            "name": "Neptune Illusion",
+            "artist": "Dennis Kuo",
+            "id": 1293036
+        },
+        {
+            "name": "Fade",
+            "artist": "Alan Walker",
+            "id": 29947420
+        },
+        {
+            "name": "New Light",
+            "artist": "Mark Petrie",
+            "id": 29045492
+        },
+        {
+            "name": "Heaven",
+            "artist": "Ronan Hardiman",
+            "id": 21510474
+        },
+        {
+            "name": "A New Day No Drums",
+            "artist": "Mark Petrie",
+            "id": 1783913
+        },
+        {
+            "name": "Abstract Moments",
+            "artist": "Avens",
+            "id": 26224443
+        },
+        {
+            "name": "At Times",
+            "artist": "Capo Productions",
+            "id": 16846092
+        },
+        {
+            "name": "Legends Of Time",
+            "artist": "Capo Productions",
+            "id": 4010734
+        },
+        {
+            "name": "A New Day",
+            "artist": "Mark Petrie",
+            "id": 1783906
+        },
+        {
+            "name": "You're My Angel",
+            "artist": "단비",
+            "id": 5330920
+        },
+        {
+            "name": "A First Hello",
+            "artist": "Soulostar",
+            "id": 27580684
+        },
+        {
+            "name": "Free Mind",
+            "artist": "Avens",
+            "id": 28103391
+        },
+        {
+            "name": "Dark Island",
+            "artist": "Alborada Del Inka",
+            "id": 3934965
+        },
+        {
+            "name": "My Soul",
+            "artist": "July",
+            "id": 5308028
+        },
+        {
+            "name": "Bluebird Story",
+            "artist": "DJ Okawari",
+            "id": 5112926
+        },
+        {
+            "name": "Mythological Space",
+            "artist": "姫神",
+            "id": 26167639
+        },
+        {
+            "name": "Condor Pasa",
+            "artist": "Pakarina",
+            "id": 4472273
+        },
+        {
+            "name": "Crossing Winds (Inspired by The xx - Intro)",
+            "artist": "Jacoo",
+            "id": 32451978
+        },
+        {
+            "name": "Princess",
+            "artist": "α·Pav",
+            "id": 357023
+        },
+        {
+            "name": "Clouds of sunset",
+            "artist": "Waynawari",
+            "id": 2100004
+        },
+        {
+            "name": "Love Mountain",
+            "artist": "Alborada Del Inka",
+            "id": 3934968
+        },
+        {
+            "name": "Dream Of A Dream",
+            "artist": "Epistra",
+            "id": 28949431
+        },
+        {
+            "name": "Wheels",
+            "artist": "Various Artists",
+            "id": 5207703
+        },
+        {
+            "name": "Sunguyman",
+            "artist": "Mato Grosso",
+            "id": 4200800
+        },
+        {
+            "name": "The Last Mohican",
+            "artist": "Alborada Del Inka",
+            "id": 3934961
+        },
+        {
+            "name": "Sounds of Silence",
+            "artist": "Wayra Nan",
+            "id": 4434703
+        },
+        {
+            "name": "Valley of tears",
+            "artist": "Chris Wonderful",
+            "id": 28828303
+        },
+        {
+            "name": "Ocean Dreams",
+            "artist": "Sine",
+            "id": 26494482
+        },
+        {
+            "name": "Song of the River",
+            "artist": "Ah Nee Mah",
+            "id": 3894287
+        },
+        {
+            "name": "Make It (instrumental)",
+            "artist": "SoundzImage",
+            "id": 805461
+        },
+        {
+            "name": "White Buffalo",
+            "artist": "Mato Grosso",
+            "id": 4200785
+        },
+        {
+            "name": "Ode to Okawari",
+            "artist": "Senpai",
+            "id": 29047219
+        },
+        {
+            "name": "木灵",
+            "artist": "喵步小雨中",
+            "id": 29047198
+        },
+        {
+            "name": "Spring is coming",
+            "artist": "笛在月明楼",
+            "id": 29047201
+        },
+        {
+            "name": "Driving",
+            "artist": "Guido Negraszus",
+            "id": 1391918
+        },
+        {
+            "name": "Staring At My Journey",
+            "artist": "Sean Houston",
+            "id": 28949440
+        },
+        {
+            "name": "Song in Gentle Breeze (Instrumental)",
+            "artist": "Aosaki",
+            "id": 357120
+        },
+        {
+            "name": "Lazy Afternoon",
+            "artist": "Niazura",
+            "id": 1806782
+        },
+        {
+            "name": "Espiritu blanco",
+            "artist": "Alborada Del Inka",
+            "id": 3934810
+        },
+        {
+            "name": "Wonderland by Night",
+            "artist": "Various Artists",
+            "id": 5207705
+        },
+        {
+            "name": "Hunting for Dragons",
+            "artist": "Thomas Prime",
+            "id": 5086188
+        },
+        {
+            "name": "Best Moments (feat. Kondor)",
+            "artist": "Blazo",
+            "id": 698479
+        },
+        {
+            "name": "Friend (Radar Detector Remix)",
+            "artist": "Radar Detector",
+            "id": 30398378
+        },
+        {
+            "name": "August Night",
+            "artist": "Martian",
+            "id": 17272601
+        },
+        {
+            "name": "Моменты жизни-2 (Детство)",
+            "artist": "Amure",
+            "id": 27984559
+        },
+        {
+            "name": "Abstract Moments",
+            "artist": "Avens",
+            "id": 16280589
+        },
+        {
+            "name": "雨空",
+            "artist": "α·Pav",
+            "id": 139206
+        },
+        {
+            "name": "Love Planet",
+            "artist": "Stive Morgan",
+            "id": 1998134
+        },
+        {
+            "name": "House of the Spirit",
+            "artist": "Ah Nee Mah",
+            "id": 3894281
+        },
+        {
+            "name": "Believe In Yourself",
+            "artist": "CMA",
+            "id": 26233195
+        },
+        {
+            "name": "Lost Dreams (CMA & nExow)",
+            "artist": "CMA",
+            "id": 26473575
+        },
+        {
+            "name": "Rain (Original Mix)",
+            "artist": "Blackmill",
+            "id": 31191109
+        },
+        {
+            "name": "Autum",
+            "artist": "Elyonbeats",
+            "id": 29724444
+        },
+        {
+            "name": "To You",
+            "artist": "Martian",
+            "id": 17272597
+        },
+        {
+            "name": "friend",
+            "artist": "Blackmill",
+            "id": 29746336
+        },
+        {
+            "name": "Life Goes On",
+            "artist": "CMA",
+            "id": 29836744
+        },
+        {
+            "name": "Calcutta",
+            "artist": "Various Artists",
+            "id": 5207709
+        },
+        {
+            "name": "Into The Embers",
+            "artist": "OverHertz",
+            "id": 26234609
+        },
+        {
+            "name": "낙엽소리",
+            "artist": "July",
+            "id": 35729185
+        },
+        {
+            "name": "Love Mountain",
+            "artist": "Mato Grosso",
+            "id": 4200797
+        },
+        {
+            "name": "予感",
+            "artist": "Sensitive Heart",
+            "id": 836406
+        },
+        {
+            "name": "Jewel in the Crown",
+            "artist": "Mike Oldfield",
+            "id": 21173901
+        },
+        {
+            "name": "Cave Town",
+            "artist": "Di-Du-La",
+            "id": 1285606
+        },
+        {
+            "name": "Melody of autumn",
+            "artist": "Nega music project",
+            "id": 1806828
+        },
+        {
+            "name": "Small Losses",
+            "artist": "CMA",
+            "id": 26233206
+        },
+        {
+            "name": "Stones Over Styx (Thomas Prime Remix)",
+            "artist": "Senpai",
+            "id": 1994904
+        },
+        {
+            "name": "사랑이 꽃을 닮아",
+            "artist": "단비",
+            "id": 5330707
+        },
+        {
+            "name": "Good Morning",
+            "artist": "Mario M",
+            "id": 28054761
+        },
+        {
+            "name": "Lucid Dreamer",
+            "artist": "Paul Lawler",
+            "id": 1861833
+        },
+        {
+            "name": "Hoi Tong Gets Married",
+            "artist": "Noel Quinlan",
+            "id": 1793254
+        },
+        {
+            "name": "カノン",
+            "artist": "DJ Okawari",
+            "id": 4894309
+        },
+        {
+            "name": "Selena's Song (Blue Mix)",
+            "artist": "Koan",
+            "id": 26366325
+        },
+        {
+            "name": "Spirit of the Earth",
+            "artist": "Stive Morgan",
+            "id": 28690482
+        },
+        {
+            "name": "Just The Sea",
+            "artist": "D. Batistatos",
+            "id": 5088639
+        },
+        {
+            "name": "Girl From Heavens",
+            "artist": "Koan",
+            "id": 4150310
+        },
+        {
+            "name": "Aurora",
+            "artist": "Capo Productions",
+            "id": 4010717
+        },
+        {
+            "name": "Event Horizon",
+            "artist": "Nega music project",
+            "id": 1806825
+        },
+        {
+            "name": "Time Between Us",
+            "artist": "Ryan Farish",
+            "id": 1878826
+        },
+        {
+            "name": "Oceans",
+            "artist": "Capo Productions",
+            "id": 4010899
+        },
+        {
+            "name": "These Nights",
+            "artist": "Soulostar",
+            "id": 27580692
+        },
+        {
+            "name": "This Sacred Land",
+            "artist": "Ah Nee Mah",
+            "id": 3894300
+        },
+        {
+            "name": "Where Is the Love",
+            "artist": "Josh Vietti",
+            "id": 28828076
+        },
+        {
+            "name": "Witch Dance",
+            "artist": "Stive Morgan",
+            "id": 1998319
+        },
+        {
+            "name": "There, where spring",
+            "artist": "Nega music project",
+            "id": 1806844
+        },
+        {
+            "name": "A Step to Heaven",
+            "artist": "Niazura",
+            "id": 1806808
+        },
+        {
+            "name": "Real",
+            "artist": "Capo Productions",
+            "id": 4010892
+        },
+        {
+            "name": "Radioactive",
+            "artist": "William Joseph",
+            "id": 27903692
+        },
+        {
+            "name": "Nanjing 2014",
+            "artist": "3ASiC",
+            "id": 28854235
+        },
+        {
+            "name": "Hope",
+            "artist": "Avens",
+            "id": 1071399
+        },
+        {
+            "name": "Do Not Forget Love",
+            "artist": "Avens",
+            "id": 16280588
+        },
+        {
+            "name": "Shunpuu Sai - Toono Monogatari He No Tabi",
+            "artist": "姫神",
+            "id": 438568
+        },
+        {
+            "name": "You Were My Everything (伴奏)",
+            "artist": "Various Artists",
+            "id": 27901210
+        },
+        {
+            "name": "Intro",
+            "artist": "Dreamtale",
+            "id": 4017240
+        },
+        {
+            "name": "Mallow Flower",
+            "artist": "Otokaze",
+            "id": 22802176
+        },
+        {
+            "name": "Beyond The Memory",
+            "artist": "July",
+            "id": 26303656
+        },
+        {
+            "name": "With Me",
+            "artist": "Capo Productions",
+            "id": 4010902
+        },
+        {
+            "name": "Tweet",
+            "artist": "VEE",
+            "id": 5333426
+        },
+        {
+            "name": "Without You",
+            "artist": "CMA",
+            "id": 26399085
+        },
+        {
+            "name": "Time To Love",
+            "artist": "October",
+            "id": 28912659
+        },
+        {
+            "name": "Perfect World",
+            "artist": "Akinobu",
+            "id": 403646
+        },
+        {
+            "name": "Five Spirits",
+            "artist": "Mato Grosso",
+            "id": 4200779
+        },
+        {
+            "name": "If You Only Knew",
+            "artist": "Jacoo",
+            "id": 29737641
+        },
+        {
+            "name": "Never Give Up",
+            "artist": "Niazura",
+            "id": 1806720
+        },
+        {
+            "name": "Tornero",
+            "artist": "Wayra Nan",
+            "id": 4434710
+        },
+        {
+            "name": "올해도 니가 그리운 날",
+            "artist": "단비",
+            "id": 5330971
+        },
+        {
+            "name": "Breath and Life",
+            "artist": "Audiomachine",
+            "id": 3935139
+        },
+        {
+            "name": "Letter",
+            "artist": "iris",
+            "id": 26620638
+        },
+        {
+            "name": "Oblivion",
+            "artist": "Capo Productions",
+            "id": 4010720
+        },
+        {
+            "name": "Dream The Relaxation",
+            "artist": "Inka Projection",
+            "id": 4131777
+        },
+        {
+            "name": "Forgive Me",
+            "artist": "CMA",
+            "id": 26233203
+        },
+        {
+            "name": "Fireflies",
+            "artist": "Ryan Farish",
+            "id": 25791607
+        },
+        {
+            "name": "Destiny",
+            "artist": "Rainy Day",
+            "id": 27580009
+        },
+        {
+            "name": "Inspire",
+            "artist": "Capo Productions",
+            "id": 4010812
+        },
+        {
+            "name": "春よ、来い",
+            "artist": "SMOOTH J",
+            "id": 511369
+        },
+        {
+            "name": "꿈속에서",
+            "artist": "단비",
+            "id": 5330831
+        },
+        {
+            "name": "Astral Light",
+            "artist": "Niazura",
+            "id": 29108160
+        },
+        {
+            "name": "Lovers",
+            "artist": "Martin Mittone",
+            "id": 30148320
+        },
+        {
+            "name": "El Dorado (Dubstep Remix)",
+            "artist": "Two Steps From Hell",
+            "id": 27406244
+        },
+        {
+            "name": "Ghost In The Pyramids",
+            "artist": "Koan",
+            "id": 4150303
+        },
+        {
+            "name": "Lone Wanderer",
+            "artist": "Rameses B",
+            "id": 26794481
+        },
+        {
+            "name": "Entangled Love",
+            "artist": "good machine oil",
+            "id": 357277
+        },
+        {
+            "name": "Surrounding Reality (Instrumental)",
+            "artist": "Avens",
+            "id": 26224452
+        },
+        {
+            "name": "Remember Times",
+            "artist": "Avens",
+            "id": 5081011
+        },
+        {
+            "name": "Nuves del Atardecer D.R.",
+            "artist": "Alborada Del Inka",
+            "id": 3934736
+        },
+        {
+            "name": "White Arrows",
+            "artist": "Leo Rojas",
+            "id": 16313116
+        },
+        {
+            "name": "En Aranjuez Con Tu Amor",
+            "artist": "Leo Rojas",
+            "id": 16313117
+        },
+        {
+            "name": "El Condor Pasa",
+            "artist": "Leo Rojas",
+            "id": 16313118
+        },
+        {
+            "name": "Der letzte Mohikaner",
+            "artist": "Leo Rojas",
+            "id": 16313119
+        },
+        {
+            "name": "Der einsame Hirte",
+            "artist": "Leo Rojas",
+            "id": 16313121
+        },
+        {
+            "name": "The Rose",
+            "artist": "Leo Rojas",
+            "id": 16313122
+        },
+        {
+            "name": "There Is A Place",
+            "artist": "Leo Rojas",
+            "id": 16313123
+        },
+        {
+            "name": "Matsuri",
+            "artist": "Leo Rojas",
+            "id": 16313124
+        },
+        {
+            "name": "Silent Rain (Part 2)",
+            "artist": "Leo Rojas",
+            "id": 16313125
+        },
+        {
+            "name": "Refrain",
+            "artist": "阿南亮子",
+            "id": 22712173
+        },
+        {
+            "name": "秋～華恋～",
+            "artist": "α·Pav",
+            "id": 139177
+        }
+    ]
+}

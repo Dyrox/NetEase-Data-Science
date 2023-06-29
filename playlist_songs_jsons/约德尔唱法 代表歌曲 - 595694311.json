@@ -1,0 +1,472 @@
+{
+    "playlist_info": {
+        "name": "约德尔唱法 代表歌曲",
+        "trackcount": 92,
+        "playcount": 1552015,
+        "creator": "月光下的铁线莲",
+        "createDate": "2017-02-09",
+        "heat": 665.0
+    },
+    "songs": [
+        {
+            "name": "幽谷传声（翻自 贺兰） ",
+            "artist": "陆通",
+            "id": 1315877219
+        },
+        {
+            "name": "世界约德尔日",
+            "artist": "陆通",
+            "id": 1324476277
+        },
+        {
+            "name": "美丽的约德尔姑娘",
+            "artist": "陆通",
+            "id": 454954272
+        },
+        {
+            "name": "膨胀",
+            "artist": "陆通",
+            "id": 1296558060
+        },
+        {
+            "name": "Hy Leer My Om Te Jodel",
+            "artist": "Janette",
+            "id": 2864089
+        },
+        {
+            "name": "Chicken Attack",
+            "artist": "Takeo Ischi",
+            "id": 456175170
+        },
+        {
+            "name": "【约德尔山歌】She Taught Me How To Yodel（Cover frank ifield）",
+            "artist": "泥鳅Niko",
+            "id": 407761395
+        },
+        {
+            "name": "Auf Und Auf Voll Lebenslust",
+            "artist": "Franzl Lang",
+            "id": 1371159
+        },
+        {
+            "name": "The Lonely Goatheard (Remastered)",
+            "artist": "Rodgers & Hammerstein",
+            "id": 3377289
+        },
+        {
+            "name": "Ku-Ku Jodel",
+            "artist": "Oesch’s die Dritten",
+            "id": 39745751
+        },
+        {
+            "name": "Zirkusjodel",
+            "artist": "Oesch’s die Dritten",
+            "id": 399356899
+        },
+        {
+            "name": "Zillertaler Bravourjodler",
+            "artist": "Oesch’s die Dritten",
+            "id": 39745756
+        },
+        {
+            "name": "Bärgsee",
+            "artist": "Oesch’s die Dritten",
+            "id": 438580021
+        },
+        {
+            "name": "Vom Berg hallt ein Jodler",
+            "artist": "Oesch’s die Dritten",
+            "id": 39745752
+        },
+        {
+            "name": "Heli-Pilot Samuel",
+            "artist": "Oesch’s die Dritten",
+            "id": 39745753
+        },
+        {
+            "name": "Autofahrt",
+            "artist": "Oesch’s die Dritten",
+            "id": 39745754
+        },
+        {
+            "name": "Seemann-Medley",
+            "artist": "Oesch’s die Dritten",
+            "id": 39745755
+        },
+        {
+            "name": "Typisch Oesch",
+            "artist": "Oesch’s die Dritten",
+            "id": 39745757
+        },
+        {
+            "name": "Glücks-Jodler",
+            "artist": "Oesch’s die Dritten",
+            "id": 39745758
+        },
+        {
+            "name": "Jetzt wird's lustig",
+            "artist": "Oesch’s die Dritten",
+            "id": 39745759
+        },
+        {
+            "name": "Der alte Jäger",
+            "artist": "Oesch’s die Dritten",
+            "id": 39745760
+        },
+        {
+            "name": "Durch's Seeland",
+            "artist": "Oesch’s die Dritten",
+            "id": 39745761
+        },
+        {
+            "name": "Der weisse Mond von Maratonga",
+            "artist": "Oesch’s die Dritten",
+            "id": 39745762
+        },
+        {
+            "name": "Jodler-Bueb (Orig.: A Steirermadl a Tirolerbua)",
+            "artist": "Oesch’s die Dritten",
+            "id": 39745763
+        },
+        {
+            "name": "Ski Twist",
+            "artist": "Oesch’s die Dritten",
+            "id": 39745764
+        },
+        {
+            "name": "Zirkusjodel (Mundart Version)",
+            "artist": "Oesch’s die Dritten",
+            "id": 438580010
+        },
+        {
+            "name": "Butterfly (Französische Version)",
+            "artist": "Oesch’s die Dritten",
+            "id": 438580011
+        },
+        {
+            "name": "Ziggi u Zaggi",
+            "artist": "Oesch’s die Dritten",
+            "id": 424155495
+        },
+        {
+            "name": "Trou di eifach",
+            "artist": "Oesch’s die Dritten",
+            "id": 438580013
+        },
+        {
+            "name": "Waldtanz",
+            "artist": "Oesch’s die Dritten",
+            "id": 438580014
+        },
+        {
+            "name": "Blue Eyes Crying In The Rain",
+            "artist": "Oesch’s die Dritten",
+            "id": 438580015
+        },
+        {
+            "name": "Wenn du einmal traurig bist",
+            "artist": "Oesch’s die Dritten",
+            "id": 438580016
+        },
+        {
+            "name": "On est fait pour s’entendre",
+            "artist": "Oesch’s die Dritten",
+            "id": 438580017
+        },
+        {
+            "name": "Sieben Tränen",
+            "artist": "Oesch’s die Dritten",
+            "id": 438580018
+        },
+        {
+            "name": "Sing ganz laut",
+            "artist": "Oesch’s die Dritten",
+            "id": 438580019
+        },
+        {
+            "name": "Mis liebe Müeti (Mei liabes Muaterl)",
+            "artist": "Oesch’s die Dritten",
+            "id": 438580020
+        },
+        {
+            "name": "Appelle-moi",
+            "artist": "Oesch’s die Dritten",
+            "id": 438580022
+        },
+        {
+            "name": "Butterfly (Deutsche Version)",
+            "artist": "Oesch’s die Dritten",
+            "id": 438580023
+        },
+        {
+            "name": "Trouver de l’or",
+            "artist": "Oesch’s die Dritten",
+            "id": 438580024
+        },
+        {
+            "name": "She Taught Me How To Yodel",
+            "artist": "Kenny Roberts",
+            "id": 2890951
+        },
+        {
+            "name": "Chime Bells",
+            "artist": "Kenny Roberts",
+            "id": 2890914
+        },
+        {
+            "name": "Just a Yodel for Me",
+            "artist": "Kenny Roberts",
+            "id": 20021418
+        },
+        {
+            "name": "Tavern Town",
+            "artist": "Kenny Roberts",
+            "id": 2890935
+        },
+        {
+            "name": "Maybe I'll Cry Over You",
+            "artist": "Kenny Roberts",
+            "id": 2890917
+        },
+        {
+            "name": "Guitar Ringing",
+            "artist": "Kenny Roberts",
+            "id": 2890927
+        },
+        {
+            "name": "Choc'late Ice Cream Cone",
+            "artist": "Kenny Roberts",
+            "id": 20021415
+        },
+        {
+            "name": "Broken Teen Age Heart",
+            "artist": "Kenny Roberts",
+            "id": 20021391
+        },
+        {
+            "name": "The Arizona Yodeler",
+            "artist": "Kenny Roberts",
+            "id": 20021394
+        },
+        {
+            "name": "Ding Dong Bells (Are Ringing Again)",
+            "artist": "Kenny Roberts",
+            "id": 20021404
+        },
+        {
+            "name": "Newsboy",
+            "artist": "Kenny Roberts",
+            "id": 20021392
+        },
+        {
+            "name": "I'm Looking for the Bully of the Town",
+            "artist": "Kenny Roberts",
+            "id": 20021393
+        },
+        {
+            "name": "I Never See Maggie Alone",
+            "artist": "Kenny Roberts",
+            "id": 20021395
+        },
+        {
+            "name": "Wedding Bells",
+            "artist": "Kenny Roberts",
+            "id": 20021396
+        },
+        {
+            "name": "Boogie Woogie Yodel Song",
+            "artist": "Kenny Roberts",
+            "id": 20021397
+        },
+        {
+            "name": "One Way Ticket",
+            "artist": "Kenny Roberts",
+            "id": 20021398
+        },
+        {
+            "name": "I Believe I'm Entitled to You",
+            "artist": "Kenny Roberts",
+            "id": 20021399
+        },
+        {
+            "name": "I Miss My Swiss",
+            "artist": "Kenny Roberts",
+            "id": 20021400
+        },
+        {
+            "name": "I'd Like to Kiss Susie Again",
+            "artist": "Kenny Roberts",
+            "id": 20021401
+        },
+        {
+            "name": "A Mighty Pretty Waltz",
+            "artist": "Kenny Roberts",
+            "id": 20021402
+        },
+        {
+            "name": "The Yodel Polka",
+            "artist": "Kenny Roberts",
+            "id": 20021403
+        },
+        {
+            "name": "When I'd Yoo-Hoo in the Valley",
+            "artist": "Kenny Roberts",
+            "id": 20021405
+        },
+        {
+            "name": "Choo Choo Ch'Boogie",
+            "artist": "Kenny Roberts",
+            "id": 20021406
+        },
+        {
+            "name": "F.O.B. Tennessee",
+            "artist": "Kenny Roberts",
+            "id": 20021408
+        },
+        {
+            "name": "Billy and Nanny Goat",
+            "artist": "Kenny Roberts",
+            "id": 20021409
+        },
+        {
+            "name": "The Same Ol' Tune",
+            "artist": "Kenny Roberts",
+            "id": 20021410
+        },
+        {
+            "name": "Hillbilly Style",
+            "artist": "Kenny Roberts",
+            "id": 20021411
+        },
+        {
+            "name": "Cry Baby Blues",
+            "artist": "Kenny Roberts",
+            "id": 20021412
+        },
+        {
+            "name": "River of Tears",
+            "artist": "Kenny Roberts",
+            "id": 20021413
+        },
+        {
+            "name": "I've Got the Blues",
+            "artist": "Kenny Roberts",
+            "id": 20021414
+        },
+        {
+            "name": "Honky Tonk Sweetheart",
+            "artist": "Kenny Roberts",
+            "id": 20021416
+        },
+        {
+            "name": "Hillbilly Fever",
+            "artist": "Kenny Roberts",
+            "id": 20021417
+        },
+        {
+            "name": "I Finally Got Maggie Alone",
+            "artist": "Kenny Roberts",
+            "id": 20021419
+        },
+        {
+            "name": "Just Look Don't Touch",
+            "artist": "Kenny Roberts",
+            "id": 2890920
+        },
+        {
+            "name": "Tying The Leaves",
+            "artist": "Kenny Roberts",
+            "id": 2890923
+        },
+        {
+            "name": "Listen To The Mockingbird",
+            "artist": "Kenny Roberts",
+            "id": 2890931
+        },
+        {
+            "name": "Indian Love Call",
+            "artist": "Kenny Roberts",
+            "id": 2890939
+        },
+        {
+            "name": "Please Don't Turn Around",
+            "artist": "Kenny Roberts",
+            "id": 2890942
+        },
+        {
+            "name": "If I'm Blue",
+            "artist": "Kenny Roberts",
+            "id": 2890948
+        },
+        {
+            "name": "Aus Freude Am Leben",
+            "artist": "Franzl Lang",
+            "id": 1371163
+        },
+        {
+            "name": "Komm Mit In Die Berge",
+            "artist": "Franzl Lang",
+            "id": 1371181
+        },
+        {
+            "name": "Auf Geht's Beim Schichtl",
+            "artist": "Franzl Lang",
+            "id": 1371155
+        },
+        {
+            "name": "Goldene Sonne, Goldene Berge",
+            "artist": "Franzl Lang",
+            "id": 1371173
+        },
+        {
+            "name": "Bergvagabunden",
+            "artist": "Franzl Lang",
+            "id": 1371167
+        },
+        {
+            "name": "Mir Geht's Guat",
+            "artist": "Franzl Lang",
+            "id": 1371187
+        },
+        {
+            "name": "Der Kuckucksjodler",
+            "artist": "Franzl Lang",
+            "id": 1371171
+        },
+        {
+            "name": "Hoch Auf Dem Gelben Wagen",
+            "artist": "Franzl Lang",
+            "id": 1371177
+        },
+        {
+            "name": "Ohne Di', Da Bin I Wia A Blattl Im Wind",
+            "artist": "Franzl Lang",
+            "id": 1371192
+        },
+        {
+            "name": "Schützenliesl",
+            "artist": "Franzl Lang",
+            "id": 1371199
+        },
+        {
+            "name": "Tiroler Holzhackerbuam",
+            "artist": "Franzl Lang",
+            "id": 1371203
+        },
+        {
+            "name": "La Montanara - Das Lied Der Berge",
+            "artist": "Franzl Lang",
+            "id": 1371184
+        },
+        {
+            "name": "Wir Kameraden Der Berge",
+            "artist": "Franzl Lang",
+            "id": 1371207
+        },
+        {
+            "name": "Weihnachtliches Glockengel?ut der Friedenskirche München:Trudering",
+            "artist": "Franzl Lang",
+            "id": 5212142
+        }
+    ]
+}

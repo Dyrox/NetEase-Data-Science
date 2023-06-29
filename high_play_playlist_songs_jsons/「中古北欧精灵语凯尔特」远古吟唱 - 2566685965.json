@@ -1,0 +1,772 @@
+{
+    "playlist_info": {
+        "name": "「中古/北欧/精灵语/凯尔特」远古吟唱",
+        "trackcount": 152,
+        "playcount": 820078,
+        "creator": "虚明之火",
+        "createDate": "2018-12-21",
+        "heat": 496.0
+    },
+    "songs": [
+        {
+            "name": "Gently As She Goes",
+            "artist": "Alan Silvestri",
+            "id": 1000152
+        },
+        {
+            "name": "Valse des Ondines",
+            "artist": "Cécile Corbel",
+            "id": 2324731
+        },
+        {
+            "name": "Es Ist Ein Schnee Gefallen",
+            "artist": "Adaro",
+            "id": 3880911
+        },
+        {
+            "name": "EXEC_COSMOFLIPS/.",
+            "artist": "KOKIA",
+            "id": 4940455
+        },
+        {
+            "name": "Wigen wagen",
+            "artist": "Adaro",
+            "id": 3880988
+        },
+        {
+            "name": "Scarborough Fair",
+            "artist": "Sarah Brightman",
+            "id": 3405868
+        },
+        {
+            "name": "Sleepyhead",
+            "artist": "Galen Crew",
+            "id": 27588470
+        },
+        {
+            "name": "Enchanters",
+            "artist": "Raney Shockne",
+            "id": 31529024
+        },
+        {
+            "name": "Woods Eternal",
+            "artist": "Shine Dion",
+            "id": 4281104
+        },
+        {
+            "name": "Tavern(Intro Cue)",
+            "artist": "Jason Hayes",
+            "id": 2060304
+        },
+        {
+            "name": "Roses and Gold",
+            "artist": "Robin Jackson",
+            "id": 1933598
+        },
+        {
+            "name": "Daily Growing",
+            "artist": "Altan",
+            "id": 22554252
+        },
+        {
+            "name": "Take me hand",
+            "artist": "DAISHI DANCE",
+            "id": 26092806
+        },
+        {
+            "name": "Fields Of Deeley",
+            "artist": "Urban Trad",
+            "id": 4407374
+        },
+        {
+            "name": "Le bal des chats",
+            "artist": "Cécile Corbel",
+            "id": 1353354266
+        },
+        {
+            "name": "Bring mich nach Haus",
+            "artist": "Faun",
+            "id": 27562663
+        },
+        {
+            "name": "O son do ar",
+            "artist": "Luar Na Lubre",
+            "id": 4153266
+        },
+        {
+            "name": "Luna Sefardita",
+            "artist": "Ana Alcaide",
+            "id": 29049823
+        },
+        {
+            "name": "Last Rose Of Summer/Walking In The Air (Medley)",
+            "artist": "Celtic Woman",
+            "id": 17121787
+        },
+        {
+            "name": "The Green Fields of Canada",
+            "artist": "Cherish the Ladies",
+            "id": 25181069
+        },
+        {
+            "name": "What Child Is This?",
+            "artist": "Orla Fallon",
+            "id": 3225595
+        },
+        {
+            "name": "Los Duendes Del Reloj",
+            "artist": "Trobar De Morte",
+            "id": 3573541
+        },
+        {
+            "name": "Vagabond (Make A Princess Of Me)",
+            "artist": "Blackmore's Night",
+            "id": 16866864
+        },
+        {
+            "name": "Neige",
+            "artist": "Cécile Corbel",
+            "id": 36019606
+        },
+        {
+            "name": "The Sound of Silence",
+            "artist": "Simon & Garfunkel",
+            "id": 1935095
+        },
+        {
+            "name": "An Die Sterne",
+            "artist": "Nenia C'Alladhan",
+            "id": 3201449
+        },
+        {
+            "name": "Petit fantôme",
+            "artist": "Cécile Corbel",
+            "id": 1346050160
+        },
+        {
+            "name": "Como La Luna Y El Sol",
+            "artist": "Ana Alcaide",
+            "id": 16408996
+        },
+        {
+            "name": "En La Mar",
+            "artist": "Cécile Corbel",
+            "id": 2324651
+        },
+        {
+            "name": "Down By The Sally Gardens",
+            "artist": "Orla Fallon",
+            "id": 17121714
+        },
+        {
+            "name": "Songs And Silhouettes",
+            "artist": "齐豫",
+            "id": 284718
+        },
+        {
+            "name": "Roter Mond",
+            "artist": "Irrlichter",
+            "id": 2749689
+        },
+        {
+            "name": "Star of the County Down",
+            "artist": "Rosheen",
+            "id": 4273642
+        },
+        {
+            "name": "Cras numquam scire (TV-Size)",
+            "artist": "Yucca",
+            "id": 533223
+        },
+        {
+            "name": "Rakes of Kildare / Swallow's Nest",
+            "artist": "Greg Joy",
+            "id": 17949108
+        },
+        {
+            "name": "Tourdion",
+            "artist": "Die Streuner",
+            "id": 2422687
+        },
+        {
+            "name": "主題歌Arrietty's Song",
+            "artist": "Cécile Corbel",
+            "id": 2324487
+        },
+        {
+            "name": "Saltarello (Italy, anon. XIV)",
+            "artist": "DROLLS",
+            "id": 4031442
+        },
+        {
+            "name": "Allez y Donc",
+            "artist": "Die Streuner",
+            "id": 2422499
+        },
+        {
+            "name": "Ivory Tower",
+            "artist": "Blackmore's Night",
+            "id": 16866854
+        },
+        {
+            "name": "Messenger",
+            "artist": "Galen Crew",
+            "id": 1423285
+        },
+        {
+            "name": "empty ocean",
+            "artist": "encounter+",
+            "id": 721559
+        },
+        {
+            "name": "A Maid in Bedlam",
+            "artist": "Méav",
+            "id": 20152472
+        },
+        {
+            "name": "Weight of the World (Nouveau-FR Version)",
+            "artist": "Emi Evans",
+            "id": 468490607
+        },
+        {
+            "name": "Winter, Fire And Snow",
+            "artist": "Orla Fallon",
+            "id": 3225617
+        },
+        {
+            "name": "Better Than a Fairy Tale",
+            "artist": "Galen Crew",
+            "id": 1423305
+        },
+        {
+            "name": "le Long De l'Eau",
+            "artist": "Cécile Corbel",
+            "id": 26574193
+        },
+        {
+            "name": "METHOD_METAFALICA/.",
+            "artist": "志方あきこ",
+            "id": 26377624
+        },
+        {
+            "name": "Mary",
+            "artist": "Cécile Corbel",
+            "id": 2324639
+        },
+        {
+            "name": "The Foggy Dew",
+            "artist": "Patrick Ball",
+            "id": 3289223
+        },
+        {
+            "name": "The Willow Maid",
+            "artist": "Erutan",
+            "id": 28838924
+        },
+        {
+            "name": "Utopiosphere -Platonism-",
+            "artist": "Mili",
+            "id": 435166264
+        },
+        {
+            "name": "Scarborough Fair",
+            "artist": "Nolwenn Leroy",
+            "id": 28872140
+        },
+        {
+            "name": "Era Oscuro",
+            "artist": "Ana Alcaide",
+            "id": 16409003
+        },
+        {
+            "name": "La Fiancée",
+            "artist": "Cécile Corbel",
+            "id": 36019609
+        },
+        {
+            "name": "The Fairy Ring",
+            "artist": "David Arkenstone",
+            "id": 1233934
+        },
+        {
+            "name": "Die Gärten der Feen",
+            "artist": "Carved in Stone",
+            "id": 17075985
+        },
+        {
+            "name": "Jardin secret",
+            "artist": "Cécile Corbel",
+            "id": 36019604
+        },
+        {
+            "name": "God Rest Ye Merry Gentlemen",
+            "artist": "Aimee Mann",
+            "id": 2118025
+        },
+        {
+            "name": "La Lettre",
+            "artist": "Cécile Corbel",
+            "id": 36019607
+        },
+        {
+            "name": "Da Bhfaigheann Mo Rogha De Thriur Acu / Dhannsamaid Le Ailean / Cairistion' Nigh'n Eoghainn",
+            "artist": "Éamon Doorley",
+            "id": 5142623
+        },
+        {
+            "name": "Vendredi",
+            "artist": "Tamas Wells",
+            "id": 2001321
+        },
+        {
+            "name": "Ballerina",
+            "artist": "Cécile Corbel",
+            "id": 36019605
+        },
+        {
+            "name": "My Lullaby",
+            "artist": "Cécile Corbel",
+            "id": 2324405
+        },
+        {
+            "name": "La chanson de la mer (berceuse)",
+            "artist": "Nolwenn Leroy",
+            "id": 29849051
+        },
+        {
+            "name": "Setlon",
+            "artist": "Eluveitie",
+            "id": 17666108
+        },
+        {
+            "name": "荒れた庭",
+            "artist": "Cécile Corbel",
+            "id": 2324512
+        },
+        {
+            "name": "Amhrán na farraige",
+            "artist": "Lisa Hannigan",
+            "id": 29849049
+        },
+        {
+            "name": "Siuil A Ruin",
+            "artist": "Nolwenn Leroy",
+            "id": 28872145
+        },
+        {
+            "name": "Isara",
+            "artist": "Eluveitie",
+            "id": 17666104
+        },
+        {
+            "name": "Le chant de la mer",
+            "artist": "Nolwenn Leroy",
+            "id": 29849027
+        },
+        {
+            "name": "Mary",
+            "artist": "Cécile Corbel",
+            "id": 2324590
+        },
+        {
+            "name": "The Stolen Child",
+            "artist": "Kate Price",
+            "id": 2908351
+        },
+        {
+            "name": "What If I Loved You",
+            "artist": "Galen Crew",
+            "id": 27588467
+        },
+        {
+            "name": "Tief verborgen",
+            "artist": "Hel",
+            "id": 18288339
+        },
+        {
+            "name": "Blau im Blau",
+            "artist": "Yvonne Catterfeld",
+            "id": 20745879
+        },
+        {
+            "name": "METHOD_METAFALICA/. #Infel extracting",
+            "artist": "但野ひと",
+            "id": 26480791
+        },
+        {
+            "name": "Sigurdlied",
+            "artist": "Faun",
+            "id": 17860001
+        },
+        {
+            "name": "Long Long Journey",
+            "artist": "Enya",
+            "id": 17645944
+        },
+        {
+            "name": "Moonlight Shadow",
+            "artist": "Nolwenn Leroy",
+            "id": 28872139
+        },
+        {
+            "name": "荒れた庭",
+            "artist": "Cécile Corbel",
+            "id": 2324420
+        },
+        {
+            "name": "Your Bones",
+            "artist": "Of Monsters And Men",
+            "id": 17810607
+        },
+        {
+            "name": "Je Ne Serai Jamais Ta Parisienne",
+            "artist": "Nolwenn Leroy",
+            "id": 3164992
+        },
+        {
+            "name": "Les Capitaines",
+            "artist": "Cécile Corbel",
+            "id": 26574186
+        },
+        {
+            "name": "Jardin secret (Edit)",
+            "artist": "Cécile Corbel",
+            "id": 473166261
+        },
+        {
+            "name": "Entendez-vous",
+            "artist": "Cécile Corbel",
+            "id": 29027219
+        },
+        {
+            "name": "さよならの夏",
+            "artist": "Cécile Corbel",
+            "id": 1329891953
+        },
+        {
+            "name": "Vent frais",
+            "artist": "Cécile Corbel",
+            "id": 1333327298
+        },
+        {
+            "name": "La Fille Du Miroir",
+            "artist": "Cécile Corbel",
+            "id": 36019608
+        },
+        {
+            "name": "Von Den Elben",
+            "artist": "Faun",
+            "id": 27728244
+        },
+        {
+            "name": "Ocean Rose",
+            "artist": "Shine Dion",
+            "id": 4281062
+        },
+        {
+            "name": "Her Mantle So Green",
+            "artist": "Sinéad O'Connor",
+            "id": 22072788
+        },
+        {
+            "name": "Siúil a Rún",
+            "artist": "Celtic Woman",
+            "id": 36190914
+        },
+        {
+            "name": "predge",
+            "artist": "五十嵐裕美",
+            "id": 35270198
+        },
+        {
+            "name": "METHOD_HYMME_STAUROLITE/.sync_with.YEqejyu",
+            "artist": "stellatram",
+            "id": 471403216
+        },
+        {
+            "name": "Loibere Risen",
+            "artist": "Faun",
+            "id": 17859947
+        },
+        {
+            "name": "廃狱のロア",
+            "artist": "秣本瑳羅",
+            "id": 814896
+        },
+        {
+            "name": "遠天、とある忘れ物",
+            "artist": "encounter+",
+            "id": 721243
+        },
+        {
+            "name": "Echo",
+            "artist": "Reol",
+            "id": 28941714
+        },
+        {
+            "name": "England Had a Queen",
+            "artist": "Tamas Wells",
+            "id": 2001276
+        },
+        {
+            "name": "Sacramentum:Unaccompanied Hymn for Torino",
+            "artist": "Mili",
+            "id": 29418292
+        },
+        {
+            "name": "Weight of the World/the End of YoRHa",
+            "artist": "YoRHa",
+            "id": 468490608
+        },
+        {
+            "name": "El Rey Nimrod",
+            "artist": "Annwn",
+            "id": 16284910
+        },
+        {
+            "name": "Turn Loose the Mermaids",
+            "artist": "Nightwish",
+            "id": 21311959
+        },
+        {
+            "name": "Tishri",
+            "artist": "Ana Alcaide",
+            "id": 16409002
+        },
+        {
+            "name": "Walking In the Air",
+            "artist": "Celtic Woman",
+            "id": 3986445
+        },
+        {
+            "name": "While Your Lips Are Still Red (Theme from the Movie \"Lieksa!\")",
+            "artist": "Nightwish",
+            "id": 21312012
+        },
+        {
+            "name": "Memoria da noite",
+            "artist": "Luar Na Lubre",
+            "id": 16653848
+        },
+        {
+            "name": "Greensleeves",
+            "artist": "Rosalind McAllister",
+            "id": 5127576
+        },
+        {
+            "name": "The Humming...",
+            "artist": "Enya",
+            "id": 36664728
+        },
+        {
+            "name": "I Am A Thousand Winds",
+            "artist": "Hayley Westenra",
+            "id": 2699889
+        },
+        {
+            "name": "The Gift of Love",
+            "artist": "Phil Rey",
+            "id": 34749354
+        },
+        {
+            "name": "Von den Elben 2003",
+            "artist": "Faun",
+            "id": 17860124
+        },
+        {
+            "name": "Down by the Salley Gardens",
+            "artist": "藤田恵美",
+            "id": 571257
+        },
+        {
+            "name": "Canto de andar (con Andrea Sechi)",
+            "artist": "Luar Na Lubre",
+            "id": 16653767
+        },
+        {
+            "name": "Play Minstrel Play",
+            "artist": "Blackmore's Night",
+            "id": 16866707
+        },
+        {
+            "name": "Light of the Seven",
+            "artist": "Ramin Djawadi",
+            "id": 418550511
+        },
+        {
+            "name": "Lullaby",
+            "artist": "Adas",
+            "id": 16466542
+        },
+        {
+            "name": "Federkleid",
+            "artist": "Faun",
+            "id": 426493140
+        },
+        {
+            "name": "The Song (Bonus Track)",
+            "artist": "Sagittarius",
+            "id": 21586676
+        },
+        {
+            "name": "Under A Violet Moon",
+            "artist": "Blackmore's Night",
+            "id": 16866785
+        },
+        {
+            "name": "Catherine Howard's Fate",
+            "artist": "Blackmore's Night",
+            "id": 16866796
+        },
+        {
+            "name": "Stonefire",
+            "artist": "David Arkenstone",
+            "id": 1234853
+        },
+        {
+            "name": "The Harp of Dagda",
+            "artist": "Trobar De Morte",
+            "id": 3573486
+        },
+        {
+            "name": "Scotland the Brave 苏格兰勇士",
+            "artist": "群星",
+            "id": 5271785
+        },
+        {
+            "name": "Polska",
+            "artist": "Sava",
+            "id": 3420616
+        },
+        {
+            "name": "As I Roved Out",
+            "artist": "Altan",
+            "id": 16462264
+        },
+        {
+            "name": "Head credits",
+            "artist": "Nolwenn Leroy",
+            "id": 29849038
+        },
+        {
+            "name": "Main Title",
+            "artist": "Ramin Djawadi",
+            "id": 26664325
+        },
+        {
+            "name": "Only Time",
+            "artist": "Enya",
+            "id": 2530213
+        },
+        {
+            "name": "Star Of The Sea",
+            "artist": "Mediæval Bæbes",
+            "id": 4352174
+        },
+        {
+            "name": "Sera",
+            "artist": "Raney Shockne",
+            "id": 31529030
+        },
+        {
+            "name": "Riverside",
+            "artist": "Agnes Obel",
+            "id": 16426485
+        },
+        {
+            "name": "May It Be",
+            "artist": "Enya",
+            "id": 2530225
+        },
+        {
+            "name": "Ihr so nah",
+            "artist": "Versengold",
+            "id": 3797226
+        },
+        {
+            "name": "Spirits",
+            "artist": "KOKIA",
+            "id": 32069326
+        },
+        {
+            "name": "Flying Squirrel Creek",
+            "artist": "Matthew Lien",
+            "id": 1696813
+        },
+        {
+            "name": "One by One",
+            "artist": "Enya",
+            "id": 17645929
+        },
+        {
+            "name": "We Wish You a Merry Christmas",
+            "artist": "Enya",
+            "id": 2530154
+        },
+        {
+            "name": "Inquisitor",
+            "artist": "Raney Shockne",
+            "id": 468587664
+        },
+        {
+            "name": "Once We Were",
+            "artist": "Raney Shockne",
+            "id": 31529028
+        },
+        {
+            "name": "Empress of Fire",
+            "artist": "Raney Shockne",
+            "id": 31529026
+        },
+        {
+            "name": "Origins (Intro, MFIT)",
+            "artist": "Eluveitie",
+            "id": 28864854
+        },
+        {
+            "name": "The Call Of The Mountains (MFIT)",
+            "artist": "Eluveitie",
+            "id": 28864860
+        },
+        {
+            "name": "Everybody Loves You",
+            "artist": "Galen Crew",
+            "id": 27588469
+        },
+        {
+            "name": "Smiling Down On Me",
+            "artist": "Galen Crew",
+            "id": 1423294
+        },
+        {
+            "name": "Dream",
+            "artist": "Galen Crew",
+            "id": 27588473
+        },
+        {
+            "name": "God Rest Ye Merry Gentlemen",
+            "artist": "Lisa Lynne",
+            "id": 3020460
+        },
+        {
+            "name": "Ade Mein Lieb",
+            "artist": "Dunkelschon",
+            "id": 4031262
+        },
+        {
+            "name": "Óró sé do bheatha 'bhaile",
+            "artist": "Celtic Woman",
+            "id": 36190921
+        },
+        {
+            "name": "Fengari",
+            "artist": "Ataraxia",
+            "id": 3885322
+        },
+        {
+            "name": "Visions From The Ancient Times",
+            "artist": "Narsilion",
+            "id": 3167058
+        }
+    ]
+}

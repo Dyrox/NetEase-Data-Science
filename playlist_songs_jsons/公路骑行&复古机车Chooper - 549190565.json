@@ -1,0 +1,337 @@
+{
+    "playlist_info": {
+        "name": "公路骑行&复古机车Chooper",
+        "trackcount": 65,
+        "playcount": 7767,
+        "creator": "列侬的AK",
+        "createDate": "2016-12-27",
+        "heat": 3.0
+    },
+    "songs": [
+        {
+            "name": "Travelin Band",
+            "artist": "Creedence Clearwater Revival",
+            "id": 20544861
+        },
+        {
+            "name": "Eye of the Tiger",
+            "artist": "Survivor",
+            "id": 5058385
+        },
+        {
+            "name": "Touch Too Much",
+            "artist": "AC/DC",
+            "id": 3880729
+        },
+        {
+            "name": "Burning Heart (From \"Rocky IV\" Soundtrack)",
+            "artist": "Survivor",
+            "id": 5058382
+        },
+        {
+            "name": "Old Time Rock and Roll",
+            "artist": "Bob Seger",
+            "id": 1098827
+        },
+        {
+            "name": "Fortunate Son",
+            "artist": "Creedence Clearwater Revival",
+            "id": 20544892
+        },
+        {
+            "name": "My Mood Swings",
+            "artist": "Elvis Costello",
+            "id": 5055917
+        },
+        {
+            "name": "A Horse with No Name",
+            "artist": "America",
+            "id": 26764163
+        },
+        {
+            "name": "Mr. Blue Sky",
+            "artist": "Electric Light Orchestra",
+            "id": 473602850
+        },
+        {
+            "name": "Love Me Two Times",
+            "artist": "The Doors",
+            "id": 4332605
+        },
+        {
+            "name": "Fried My Little Brains",
+            "artist": "The Kills",
+            "id": 21973891
+        },
+        {
+            "name": "Green River",
+            "artist": "Creedence Clearwater Revival",
+            "id": 1142657
+        },
+        {
+            "name": "Paranoid",
+            "artist": "Black Sabbath",
+            "id": 16837172
+        },
+        {
+            "name": "Long Cool Woman (In a Black Dress)",
+            "artist": "The Hollies",
+            "id": 5187041
+        },
+        {
+            "name": "Lonely Boy",
+            "artist": "The Black Keys",
+            "id": 19292547
+        },
+        {
+            "name": "Call It Rock N' Roll",
+            "artist": "Great White",
+            "id": 18099908
+        },
+        {
+            "name": "He Can't Control You",
+            "artist": "Mando Diao",
+            "id": 1379581439
+        },
+        {
+            "name": "Too Old to Die Young",
+            "artist": "Brother Dege",
+            "id": 1381305169
+        },
+        {
+            "name": "Slow Ride",
+            "artist": "Foghat",
+            "id": 5187053
+        },
+        {
+            "name": "It Came Out Of The Sky",
+            "artist": "Creedence Clearwater Revival",
+            "id": 20544888
+        },
+        {
+            "name": "Apple Blossom",
+            "artist": "The White Stripes",
+            "id": 39449212
+        },
+        {
+            "name": "Red Hot",
+            "artist": "Jimmy Barnes",
+            "id": 2865408
+        },
+        {
+            "name": "Joey",
+            "artist": "Concrete Blonde",
+            "id": 2309623
+        },
+        {
+            "name": "99 Problems",
+            "artist": "Hugo",
+            "id": 18299274
+        },
+        {
+            "name": "Down On Me",
+            "artist": "Jackyl",
+            "id": 18864298
+        },
+        {
+            "name": "Born To Be Wild",
+            "artist": "Steppenwolf",
+            "id": 29897834
+        },
+        {
+            "name": "Girls, Girls, Girls",
+            "artist": "Mötley Crüe",
+            "id": 4176861
+        },
+        {
+            "name": "Dark Night",
+            "artist": "The Blasters",
+            "id": 5057124
+        },
+        {
+            "name": "Psycho Killer",
+            "artist": "Talking Heads",
+            "id": 3563411
+        },
+        {
+            "name": "Whole Lotta Love",
+            "artist": "Led Zeppelin",
+            "id": 1646233
+        },
+        {
+            "name": "Amphetamine Annie",
+            "artist": "Canned Heat",
+            "id": 26775150
+        },
+        {
+            "name": "Have You Ever Seen the Rain?",
+            "artist": "Creedence Clearwater Revival",
+            "id": 1142600
+        },
+        {
+            "name": "Motorcycle Song",
+            "artist": "The Backsliders",
+            "id": 473155169
+        },
+        {
+            "name": "Hotel California",
+            "artist": "Gipsy Kings",
+            "id": 5055926
+        },
+        {
+            "name": "Hard Row",
+            "artist": "The Black Keys",
+            "id": 19292533
+        },
+        {
+            "name": "Blood, Sweat and Murder",
+            "artist": "Scott H. Biram",
+            "id": 427242437
+        },
+        {
+            "name": "Down To The Bottom",
+            "artist": "DOROTHY",
+            "id": 523030149
+        },
+        {
+            "name": "Tush (2006 Remaster)",
+            "artist": "ZZ Top",
+            "id": 3863382
+        },
+        {
+            "name": "Mountain Climbing",
+            "artist": "Joe Bonamassa",
+            "id": 408328267
+        },
+        {
+            "name": "Route 66",
+            "artist": "John Mayer",
+            "id": 1883026
+        },
+        {
+            "name": "Gimme All Your Lovin'",
+            "artist": "ZZ Top",
+            "id": 3863027
+        },
+        {
+            "name": "Hot Love (A Side)",
+            "artist": "T. Rex",
+            "id": 402429835
+        },
+        {
+            "name": "Country Road",
+            "artist": "The Maytals",
+            "id": 26798956
+        },
+        {
+            "name": "Stare It Cold",
+            "artist": "The Black Crowes",
+            "id": 19290197
+        },
+        {
+            "name": "I'm A Man",
+            "artist": "Black Strobe",
+            "id": 5043177
+        },
+        {
+            "name": "Someday",
+            "artist": "Eric Clapton",
+            "id": 28851135
+        },
+        {
+            "name": "Old Friend",
+            "artist": "The Allman Brothers Band",
+            "id": 19563544
+        },
+        {
+            "name": "Doom And Gloom (Jeff Bhasker Mix)",
+            "artist": "The Rolling Stones",
+            "id": 21968530
+        },
+        {
+            "name": "Bad Moon Rising",
+            "artist": "Creedence Clearwater Revival",
+            "id": 1142540
+        },
+        {
+            "name": "Exodus",
+            "artist": "Eagles",
+            "id": 567168899
+        },
+        {
+            "name": "Who Did That to You?",
+            "artist": "John Legend",
+            "id": 26145425
+        },
+        {
+            "name": "When It Comes To You",
+            "artist": "Dire Straits",
+            "id": 17449141
+        },
+        {
+            "name": "Prisoners of War",
+            "artist": "Mighty Mo Rodgers",
+            "id": 16942884
+        },
+        {
+            "name": "La Grange",
+            "artist": "ZZ Top",
+            "id": 3863411
+        },
+        {
+            "name": "Travelin' Band",
+            "artist": "Creedence Clearwater Revival",
+            "id": 1142673
+        },
+        {
+            "name": "Roadhouse Blues",
+            "artist": "The Doors",
+            "id": 21978533
+        },
+        {
+            "name": "Jailbreak",
+            "artist": "AC/DC",
+            "id": 3881101
+        },
+        {
+            "name": "I Heard It Through the Grapevine",
+            "artist": "Creedence Clearwater Revival",
+            "id": 1142443
+        },
+        {
+            "name": "Highway to Hell",
+            "artist": "AC/DC",
+            "id": 3880720
+        },
+        {
+            "name": "Move",
+            "artist": "Keb' Mo'",
+            "id": 28455013
+        },
+        {
+            "name": "Stiff Upper Lip",
+            "artist": "AC/DC",
+            "id": 3879780
+        },
+        {
+            "name": "A Horse With No Name",
+            "artist": "America",
+            "id": 5049664
+        },
+        {
+            "name": "Been down so Long",
+            "artist": "The Doors",
+            "id": 4333909
+        },
+        {
+            "name": "Back In Black",
+            "artist": "AC/DC",
+            "id": 3880161
+        },
+        {
+            "name": "Run Through The Jungle",
+            "artist": "Creedence Clearwater Revival",
+            "id": 20544864
+        }
+    ]
+}

@@ -1,0 +1,512 @@
+{
+    "playlist_info": {
+        "name": "乐队的夏天 | 嘿,这些乐队值得一听",
+        "trackcount": 100,
+        "playcount": 340580,
+        "creator": "网易云音乐",
+        "createDate": "2023-01-05",
+        "heat": 1950.0
+    },
+    "songs": [
+        {
+            "name": "她是黯淡星 (Live)",
+            "artist": "周深",
+            "id": 1486450541
+        },
+        {
+            "name": "Last Dance (Live)",
+            "artist": "五条人",
+            "id": 1471708598
+        },
+        {
+            "name": "火车驶向云外，梦安魂于九霄 (Live)",
+            "artist": "刺猬",
+            "id": 1370871521
+        },
+        {
+            "name": "Bye Bye (Live)",
+            "artist": "旅行团乐队",
+            "id": 1378017610
+        },
+        {
+            "name": "艾瑞巴迪 (Live)",
+            "artist": "新裤子",
+            "id": 1376647672
+        },
+        {
+            "name": "生活因你而火热 (Live)",
+            "artist": "新裤子",
+            "id": 1378015948
+        },
+        {
+            "name": "道山靓仔 (Live)",
+            "artist": "五条人",
+            "id": 1467957341
+        },
+        {
+            "name": "青春再见 (Live)",
+            "artist": "水木年华",
+            "id": 1467957337
+        },
+        {
+            "name": "爱情买卖 (Live)",
+            "artist": "大波浪",
+            "id": 1471708600
+        },
+        {
+            "name": "阿珍爱上了阿强 (Live)",
+            "artist": "五条人",
+            "id": 1482657575
+        },
+        {
+            "name": "西湖 (Live)",
+            "artist": "痛仰乐队",
+            "id": 1379410355
+        },
+        {
+            "name": "后来 (Live)",
+            "artist": "木马乐队",
+            "id": 1473544947
+        },
+        {
+            "name": "你要如何，我们就如何 (Live)",
+            "artist": "康姆士COM'Z",
+            "id": 1469768565
+        },
+        {
+            "name": "竹枝词 (Live)",
+            "artist": "野孩子",
+            "id": 1473544951
+        },
+        {
+            "name": "白日梦蓝 (Live)",
+            "artist": "刺猬",
+            "id": 1375468475
+        },
+        {
+            "name": "5:10a.m. (Live)",
+            "artist": "傻子与白痴",
+            "id": 1467957339
+        },
+        {
+            "name": "一生所爱 (Live)",
+            "artist": "重塑雕像的权利",
+            "id": 1475303225
+        },
+        {
+            "name": "旧城之王 (Live)",
+            "artist": "木马乐队",
+            "id": 1467954817
+        },
+        {
+            "name": "没有理想的人不伤心 (Live)",
+            "artist": "新裤子",
+            "id": 1382314403
+        },
+        {
+            "name": "再谈记忆(Say It Again) (Live)",
+            "artist": "盘尼西林",
+            "id": 1376647671
+        },
+        {
+            "name": "南方 (Live)",
+            "artist": "达达乐队",
+            "id": 1469768571
+        },
+        {
+            "name": "No Fear In My Heart (Live)",
+            "artist": "朴树",
+            "id": 1383505534
+        },
+        {
+            "name": "Where Are You Going (Live)",
+            "artist": "海龟先生",
+            "id": 1378015942
+        },
+        {
+            "name": "伤痕 (Live)",
+            "artist": "遗忘俱乐部",
+            "id": 1475301463
+        },
+        {
+            "name": "霓虹甜心 (Live)",
+            "artist": "马赛克",
+            "id": 1467957338
+        },
+        {
+            "name": "世界的理想 (Live)",
+            "artist": "五条人",
+            "id": 1485815091
+        },
+        {
+            "name": "男孩别哭 (Live)",
+            "artist": "RiCH BOOM",
+            "id": 1475301469
+        },
+        {
+            "name": "校花和流川枫 (Live)",
+            "artist": "黑撒",
+            "id": 1375469442
+        },
+        {
+            "name": "夏日终曲 (Live)",
+            "artist": "新裤子",
+            "id": 1382323050
+        },
+        {
+            "name": "亲爱的，我想做你女朋友 (Live)",
+            "artist": "刺猬",
+            "id": 1376648942
+        },
+        {
+            "name": "PIGS IN THE RIVER (Live)",
+            "artist": "重塑雕像的权利",
+            "id": 1467954841
+        },
+        {
+            "name": "咿呀呀 (Live)",
+            "artist": "海龟先生",
+            "id": 1376648943
+        },
+        {
+            "name": "生之响往 (Live)",
+            "artist": "刺猬",
+            "id": 1382323065
+        },
+        {
+            "name": "地球仪 (Live)",
+            "artist": "五条人",
+            "id": 1486450534
+        },
+        {
+            "name": "光阴·流年·夏恋 (Live)",
+            "artist": "刺猬",
+            "id": 1382323078
+        },
+        {
+            "name": "24小时摇滚聚会 (Live)",
+            "artist": "刺猬",
+            "id": 1378017609
+        },
+        {
+            "name": "清河 (Live)",
+            "artist": "白皮书乐队",
+            "id": 1473545642
+        },
+        {
+            "name": "再见杰克 (Live)",
+            "artist": "痛仰乐队",
+            "id": 1370871541
+        },
+        {
+            "name": "Biggest part (Live)",
+            "artist": "遗忘俱乐部",
+            "id": 1467954820
+        },
+        {
+            "name": "公路之歌 (Live)",
+            "artist": "痛仰乐队",
+            "id": 1382323111
+        },
+        {
+            "name": "追光者 (Live)",
+            "artist": "达达乐队",
+            "id": 1479198429
+        },
+        {
+            "name": "papillon (Live)",
+            "artist": "HAYA乐团",
+            "id": 1473544944
+        },
+        {
+            "name": "控制 (Live)",
+            "artist": "法兹乐队 FAZI",
+            "id": 1467957346
+        },
+        {
+            "name": "Song F (Live)",
+            "artist": "达达乐队",
+            "id": 1475301468
+        },
+        {
+            "name": "sounds for celebration (Live)",
+            "artist": "重塑雕像的权利",
+            "id": 1486449944
+        },
+        {
+            "name": "梦 (Live)",
+            "artist": "面孔乐队",
+            "id": 1370869631
+        },
+        {
+            "name": "问题出现我再告诉大家 (Live)",
+            "artist": "五条人",
+            "id": 1475303230
+        },
+        {
+            "name": "雨夜曼彻斯特 (Live)",
+            "artist": "盘尼西林",
+            "id": 1370869633
+        },
+        {
+            "name": "马马嘟嘟骑 (Live)",
+            "artist": "斯斯与帆",
+            "id": 1370871505
+        },
+        {
+            "name": "我的爱如此渺小，你要不要 (Live)",
+            "artist": "VOGUE 5",
+            "id": 1379410363
+        },
+        {
+            "name": "你要跳舞吗 (Live)",
+            "artist": "新裤子",
+            "id": 1375468479
+        },
+        {
+            "name": "奇妙夏日 (Live)",
+            "artist": "痛仰乐队",
+            "id": 1382323112
+        },
+        {
+            "name": "幻觉 (Live)",
+            "artist": "面孔乐队",
+            "id": 1375468478
+        },
+        {
+            "name": "别再问我什么是迪斯科 (Live)",
+            "artist": "新裤子",
+            "id": 1370871520
+        },
+        {
+            "name": "噢！乖 (Live)",
+            "artist": "Carsick Cars",
+            "id": 1473544949
+        },
+        {
+            "name": "心要野 (Live)",
+            "artist": "后海大鲨鱼",
+            "id": 1482657572
+        },
+        {
+            "name": "莫欺少年穷 (Live)",
+            "artist": "九连真人",
+            "id": 1370871540
+        },
+        {
+            "name": "男孩别哭 (Live)",
+            "artist": "海龟先生",
+            "id": 1370871523
+        },
+        {
+            "name": "Echo (Live)",
+            "artist": "Mandarin",
+            "id": 1467957340
+        },
+        {
+            "name": "黄河谣 (Live)",
+            "artist": "野孩子",
+            "id": 1467954847
+        },
+        {
+            "name": "AT MOSP HERE (Live)",
+            "artist": "重塑雕像的权利",
+            "id": 1477249345
+        },
+        {
+            "name": "周末玩具 (Live)",
+            "artist": "旅行团乐队",
+            "id": 1376648944
+        },
+        {
+            "name": "港湾 (Live)",
+            "artist": "面孔乐队",
+            "id": 1378015940
+        },
+        {
+            "name": "白鸽 (Live)",
+            "artist": "Mandarin",
+            "id": 1473545639
+        },
+        {
+            "name": "生命中最美丽的一天 (Live)",
+            "artist": "痛仰乐队",
+            "id": 1383511210
+        },
+        {
+            "name": "太空浪子 (Live)",
+            "artist": "Joyside",
+            "id": 1467954818
+        },
+        {
+            "name": "Dong Dong Dong (Live)",
+            "artist": "Joyside",
+            "id": 1477249332
+        },
+        {
+            "name": "大富翁Monopoly (Live)",
+            "artist": "Hyper Slash",
+            "id": 1467954815
+        },
+        {
+            "name": "北风 (Live)",
+            "artist": "九连真人",
+            "id": 1378017612
+        },
+        {
+            "name": "追梦人 (Live)",
+            "artist": "岛屿心情",
+            "id": 1471708597
+        },
+        {
+            "name": "蠢梦 (Live)",
+            "artist": "白日梦症候群",
+            "id": 1467957343
+        },
+        {
+            "name": "No Such Disease (Live)",
+            "artist": "大波浪",
+            "id": 1467954846
+        },
+        {
+            "name": "群星闪耀时 (Live)",
+            "artist": "盘尼西林",
+            "id": 1378015943
+        },
+        {
+            "name": "Get Funky (Live)",
+            "artist": "Click#15",
+            "id": 1370869637
+        },
+        {
+            "name": "晚安北京 (Live)",
+            "artist": "汪峰",
+            "id": 1486450543
+        },
+        {
+            "name": "逝去的歌 (Live)",
+            "artist": "旅行团乐队",
+            "id": 1370869630
+        },
+        {
+            "name": "大都会 (Live)",
+            "artist": "达闻西乐队",
+            "id": 1467957377
+        },
+        {
+            "name": "一浪 (Live)",
+            "artist": "九连真人",
+            "id": 1382323113
+        },
+        {
+            "name": "老鼠 (Live)",
+            "artist": "白皮书乐队",
+            "id": 1469769369
+        },
+        {
+            "name": "纯洁 (Live)",
+            "artist": "木马乐队",
+            "id": 1482657574
+        },
+        {
+            "name": "猛犸 (Live)",
+            "artist": "后海大鲨鱼",
+            "id": 1469769373
+        },
+        {
+            "name": "Rollin' On (Live)",
+            "artist": "椅子乐团 The Chairs",
+            "id": 1467954853
+        },
+        {
+            "name": "After Party (Live)",
+            "artist": "欧阳娜娜",
+            "id": 1383511212
+        },
+        {
+            "name": "盼暖春来 (Live)",
+            "artist": "刺猬",
+            "id": 1379416063
+        },
+        {
+            "name": "欢乐颂 (Live)",
+            "artist": "面孔乐队",
+            "id": 1376647670
+        },
+        {
+            "name": "愿爱无忧 (Live)",
+            "artist": "痛仰乐队",
+            "id": 1479199254
+        },
+        {
+            "name": "千年等一回 (Live)",
+            "artist": "HAYA乐团",
+            "id": 1479199250
+        },
+        {
+            "name": "即兴3（爱、夏、酸歌词动机）五条人 (Live)",
+            "artist": "五条人",
+            "id": 1469769376
+        },
+        {
+            "name": "骑上我心爱的小摩托 (Live)",
+            "artist": "椅子乐团 The Chairs",
+            "id": 1486106184
+        },
+        {
+            "name": "8+8=8 (Live)",
+            "artist": "岛屿心情",
+            "id": 1469769371
+        },
+        {
+            "name": "两个恰恰好 (Live)",
+            "artist": "旺福",
+            "id": 1370869673
+        },
+        {
+            "name": "明天你依旧在我身旁 (Live)",
+            "artist": "声音玩具",
+            "id": 1469768569
+        },
+        {
+            "name": "天竺少女 (Live)",
+            "artist": "后海大鲨鱼",
+            "id": 1471708599
+        },
+        {
+            "name": "如果这些都可以 (Live)",
+            "artist": "黑撒",
+            "id": 1375469441
+        },
+        {
+            "name": "春风十里 (Live)",
+            "artist": "鹿先森乐队",
+            "id": 1370869636
+        },
+        {
+            "name": "嘿！姑娘 (Live)",
+            "artist": "反光镜",
+            "id": 1370869626
+        },
+        {
+            "name": "芒种 (Live)",
+            "artist": "Hyper Slash",
+            "id": 1473545640
+        },
+        {
+            "name": "夜猫 (Live)",
+            "artist": "马赛克",
+            "id": 1477249334
+        },
+        {
+            "name": "Jerry Says 杰瑞说 (Live)",
+            "artist": "Mandarin",
+            "id": 1475301464
+        },
+        {
+            "name": "舞步 (Live)",
+            "artist": "木马乐队",
+            "id": 1475303233
+        }
+    ]
+}

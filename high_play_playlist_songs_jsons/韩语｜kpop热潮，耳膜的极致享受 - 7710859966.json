@@ -1,0 +1,817 @@
+{
+    "playlist_info": {
+        "name": "韩语｜kpop热潮，耳膜的极致享受",
+        "trackcount": 161,
+        "playcount": 1791761,
+        "creator": "玫瑰cyz",
+        "createDate": "2022-10-27",
+        "heat": 7301.0
+    },
+    "songs": [
+        {
+            "name": "SMARTPHONE",
+            "artist": "YENA (崔叡娜)",
+            "id": 1968827661
+        },
+        {
+            "name": "Spicy",
+            "artist": "aespa",
+            "id": 2045931417
+        },
+        {
+            "name": "Allergy",
+            "artist": "(G)I-DLE",
+            "id": 2046817458
+        },
+        {
+            "name": "퀸카 (Queencard)",
+            "artist": "(G)I-DLE",
+            "id": 2046817456
+        },
+        {
+            "name": "오늘 뭐해",
+            "artist": "4MINUTE",
+            "id": 28306404
+        },
+        {
+            "name": "니가내가",
+            "artist": "敏雅",
+            "id": 28643277
+        },
+        {
+            "name": "Lay Low",
+            "artist": "YooA",
+            "id": 1995503903
+        },
+        {
+            "name": "Reset",
+            "artist": "(G)I-DLE",
+            "id": 1989382316
+        },
+        {
+            "name": "완전 미쳤네 (Korean Ver.)",
+            "artist": "T-ara",
+            "id": 33682508
+        },
+        {
+            "name": "Cry Cry",
+            "artist": "T-ara",
+            "id": 1459169342
+        },
+        {
+            "name": "Roly Poly",
+            "artist": "T-ara",
+            "id": 25864248
+        },
+        {
+            "name": "DAY BY DAY",
+            "artist": "T-ara",
+            "id": 22704409
+        },
+        {
+            "name": "DAHLIA",
+            "artist": "(G)I-DLE",
+            "id": 1811118564
+        },
+        {
+            "name": "Kiss and Make Up (BLACKPINK ARENA TOUR 2018 \"SPECIAL FINAL IN KYOCERA DOME OSAKA\")",
+            "artist": "BLACKPINK",
+            "id": 1352968942
+        },
+        {
+            "name": "World is One",
+            "artist": "Bryn",
+            "id": 1467091269
+        },
+        {
+            "name": "Spice",
+            "artist": "ITZY",
+            "id": 1934264670
+        },
+        {
+            "name": "Voltage",
+            "artist": "ITZY",
+            "id": 1929600235
+        },
+        {
+            "name": "ICU (避风港)",
+            "artist": "aespa",
+            "id": 1962313151
+        },
+        {
+            "name": "New History",
+            "artist": "李泳知",
+            "id": 1401673704
+        },
+        {
+            "name": "Cupid",
+            "artist": "FIFTY FIFTY",
+            "id": 2025227742
+        },
+        {
+            "name": "Advice",
+            "artist": "泰民",
+            "id": 1845740923
+        },
+        {
+            "name": "INVU",
+            "artist": "太妍",
+            "id": 1920339780
+        },
+        {
+            "name": "TWO FACE",
+            "artist": "JENNIE",
+            "id": 1969591754
+        },
+        {
+            "name": "HATE ME (Prod. WOOGIE)",
+            "artist": "李泳知",
+            "id": 1869749208
+        },
+        {
+            "name": "Until I Found You",
+            "artist": "ROSÉ",
+            "id": 2022289151
+        },
+        {
+            "name": "불장난",
+            "artist": "BLACKPINK",
+            "id": 437856611
+        },
+        {
+            "name": "If You_One Of These Night",
+            "artist": "VLHS",
+            "id": 1952330086
+        },
+        {
+            "name": "DUN DUN",
+            "artist": "EVERGLOW",
+            "id": 1419772602
+        },
+        {
+            "name": "Adios",
+            "artist": "EVERGLOW",
+            "id": 1384999802
+        },
+        {
+            "name": "Light+Energetic (Live)",
+            "artist": "Wanna One",
+            "id": 1385552563
+        },
+        {
+            "name": "Burn It Up (Live)",
+            "artist": "Wanna One",
+            "id": 1385551980
+        },
+        {
+            "name": "Child",
+            "artist": "MARK",
+            "id": 1918616320
+        },
+        {
+            "name": "Hard to Love",
+            "artist": "BLACKPINK",
+            "id": 1981814200
+        },
+        {
+            "name": "Love Me Like This (Band LIVE)",
+            "artist": "NMIXX",
+            "id": 2033809518
+        },
+        {
+            "name": "손만 잡을게",
+            "artist": "DinDin",
+            "id": 28283090
+        },
+        {
+            "name": "Blacklist",
+            "artist": "泫雅",
+            "id": 28850661
+        },
+        {
+            "name": "Mmmh",
+            "artist": "KAI",
+            "id": 1499319921
+        },
+        {
+            "name": "Hot & Cold (温差)",
+            "artist": "KAI",
+            "id": 2009587800
+        },
+        {
+            "name": "김예지 - 긴긴밤 (Long Black Night)",
+            "artist": "Socand1ce",
+            "id": 2030001315
+        },
+        {
+            "name": "Swan",
+            "artist": "OH MY GIRL",
+            "id": 1842019186
+        },
+        {
+            "name": "Heaven",
+            "artist": "田木子",
+            "id": 1968584689
+        },
+        {
+            "name": "덜덜덜",
+            "artist": "EXID",
+            "id": 516358747
+        },
+        {
+            "name": "봄여름가을겨울",
+            "artist": "BIGBANG",
+            "id": 1935204089
+        },
+        {
+            "name": "화(火花)",
+            "artist": "(G)I-DLE",
+            "id": 1811118551
+        },
+        {
+            "name": "건물 사이에 피어난 장미 (Rose Blossom)",
+            "artist": "H1-KEY",
+            "id": 2008901013
+        },
+        {
+            "name": "Bubble Pop!",
+            "artist": "泫雅",
+            "id": 5348853
+        },
+        {
+            "name": "Narcissism",
+            "artist": "宣美",
+            "id": 1863138479
+        },
+        {
+            "name": "Check-In",
+            "artist": "S.COUPS",
+            "id": 438466079
+        },
+        {
+            "name": "Crush On You",
+            "artist": "Crush",
+            "id": 26099908
+        },
+        {
+            "name": "날 찾아서",
+            "artist": "YooA",
+            "id": 1475994088
+        },
+        {
+            "name": "In The Novel",
+            "artist": "MINNIE",
+            "id": 2013195821
+        },
+        {
+            "name": "POPPY",
+            "artist": "STAYC",
+            "id": 1998874975
+        },
+        {
+            "name": "ㅜㅜ",
+            "artist": "BE'O",
+            "id": 1476054907
+        },
+        {
+            "name": "SMILEY",
+            "artist": "YENA (崔叡娜)",
+            "id": 1912898406
+        },
+        {
+            "name": "MIDDLE OF THE NIGHT",
+            "artist": "MONSTA X",
+            "id": 1407767394
+        },
+        {
+            "name": "FOREVER 1",
+            "artist": "少女时代",
+            "id": 1969327238
+        },
+        {
+            "name": "Is this bad b****** number?",
+            "artist": "田小娟",
+            "id": 1858811233
+        },
+        {
+            "name": "The Weekend",
+            "artist": "88rising",
+            "id": 1886090296
+        },
+        {
+            "name": "SOLO",
+            "artist": "JENNIE",
+            "id": 1324880131
+        },
+        {
+            "name": "On The Ground",
+            "artist": "ROSÉ",
+            "id": 1827038716
+        },
+        {
+            "name": "Darl+ing (Holiday ver.)",
+            "artist": "SEVENTEEN",
+            "id": 1996714082
+        },
+        {
+            "name": "Electric Shock",
+            "artist": "f(x)",
+            "id": 22735485
+        },
+        {
+            "name": "Hot Summer",
+            "artist": "f(x)",
+            "id": 22735492
+        },
+        {
+            "name": "NU 예삐오 (NU ABO)",
+            "artist": "f(x)",
+            "id": 22735518
+        },
+        {
+            "name": "Chu~♡",
+            "artist": "f(x)",
+            "id": 5381329
+        },
+        {
+            "name": "HOT PINK",
+            "artist": "EXID",
+            "id": 36841019
+        },
+        {
+            "name": "리본 (Ribbon)",
+            "artist": "Beast",
+            "id": 419596437
+        },
+        {
+            "name": "Lonely",
+            "artist": "2NE1",
+            "id": 22789467
+        },
+        {
+            "name": "안녕",
+            "artist": "2NE1",
+            "id": 454730915
+        },
+        {
+            "name": "Sweet Girl",
+            "artist": "B1A4",
+            "id": 33789123
+        },
+        {
+            "name": "SOLO DAY",
+            "artist": "B1A4",
+            "id": 28798478
+        },
+        {
+            "name": "Hype Boy (电台清唱版)",
+            "artist": "NewJeans",
+            "id": 1998959185
+        },
+        {
+            "name": "다라리 (DARARI)",
+            "artist": "TREASURE",
+            "id": 1920863738
+        },
+        {
+            "name": "내일은 없어",
+            "artist": "Trouble Maker",
+            "id": 27896639
+        },
+        {
+            "name": "Trouble Maker",
+            "artist": "Trouble Maker",
+            "id": 22843672
+        },
+        {
+            "name": "RETRO FUTURE",
+            "artist": "Triple H",
+            "id": 1294556650
+        },
+        {
+            "name": "365 FRESH",
+            "artist": "Triple H",
+            "id": 475207742
+        },
+        {
+            "name": "Hot Issue",
+            "artist": "4MINUTE",
+            "id": 26355212
+        },
+        {
+            "name": "미쳐",
+            "artist": "4MINUTE",
+            "id": 30569115
+        },
+        {
+            "name": "BOOMERANG (Live)",
+            "artist": "Wanna One",
+            "id": 1337836311
+        },
+        {
+            "name": "I'm sorry",
+            "artist": "CNBLUE",
+            "id": 28242084
+        },
+        {
+            "name": "괜찮아",
+            "artist": "N.Flying",
+            "id": 1410666831
+        },
+        {
+            "name": "Given-Taken",
+            "artist": "ENHYPEN",
+            "id": 1496481221
+        },
+        {
+            "name": "Mango",
+            "artist": "SUPER JUNIOR",
+            "id": 1963400037
+        },
+        {
+            "name": "Dreams Come True",
+            "artist": "aespa",
+            "id": 1905106688
+        },
+        {
+            "name": "Savage",
+            "artist": "aespa",
+            "id": 1885142049
+        },
+        {
+            "name": "Black Mamba",
+            "artist": "aespa",
+            "id": 1496086378
+        },
+        {
+            "name": "Girls",
+            "artist": "aespa",
+            "id": 1962315917
+        },
+        {
+            "name": "怪火 (Illusion)",
+            "artist": "aespa",
+            "id": 1952507458
+        },
+        {
+            "name": "Next Level",
+            "artist": "aespa",
+            "id": 1845452960
+        },
+        {
+            "name": "살짝 설렜어 (Nonstop)",
+            "artist": "OH MY GIRL",
+            "id": 1442013358
+        },
+        {
+            "name": "Dun Dun Dance",
+            "artist": "OH MY GIRL",
+            "id": 1842022715
+        },
+        {
+            "name": "Dolphin",
+            "artist": "OH MY GIRL",
+            "id": 1442010549
+        },
+        {
+            "name": "LOVE",
+            "artist": "(G)I-DLE",
+            "id": 1989385009
+        },
+        {
+            "name": "한 (一)",
+            "artist": "(G)I-DLE",
+            "id": 1300885831
+        },
+        {
+            "name": "LION",
+            "artist": "(G)I-DLE",
+            "id": 1435996622
+        },
+        {
+            "name": "Uh-Oh",
+            "artist": "(G)I-DLE",
+            "id": 1374217593
+        },
+        {
+            "name": "LATATA",
+            "artist": "(G)I-DLE",
+            "id": 556203085
+        },
+        {
+            "name": "TOMBOY",
+            "artist": "(G)I-DLE",
+            "id": 1927421969
+        },
+        {
+            "name": "Nxde",
+            "artist": "(G)I-DLE",
+            "id": 1989385007
+        },
+        {
+            "name": "PARTY",
+            "artist": "少女时代",
+            "id": 33035717
+        },
+        {
+            "name": "Lion Heart",
+            "artist": "少女时代",
+            "id": 33991953
+        },
+        {
+            "name": "The Boys",
+            "artist": "少女时代",
+            "id": 5376351
+        },
+        {
+            "name": "Oh!",
+            "artist": "少女时代",
+            "id": 22735051
+        },
+        {
+            "name": "Black Suit",
+            "artist": "SUPER JUNIOR",
+            "id": 516358600
+        },
+        {
+            "name": "너라고 (It`s You)",
+            "artist": "SUPER JUNIOR",
+            "id": 5391858
+        },
+        {
+            "name": "U",
+            "artist": "SUPER JUNIOR",
+            "id": 5392355
+        },
+        {
+            "name": "SORRY, SORRY",
+            "artist": "SUPER JUNIOR",
+            "id": 5391914
+        },
+        {
+            "name": "约定",
+            "artist": "EXO",
+            "id": 32408458
+        },
+        {
+            "name": "History",
+            "artist": "EXO",
+            "id": 29814565
+        },
+        {
+            "name": "전야 (前夜) (The Eve)",
+            "artist": "EXO",
+            "id": 491484150
+        },
+        {
+            "name": "初雪",
+            "artist": "EXO",
+            "id": 28068785
+        },
+        {
+            "name": "蝴蝶少女 (Don't Go)",
+            "artist": "EXO",
+            "id": 26428033
+        },
+        {
+            "name": "Love Shot",
+            "artist": "EXO",
+            "id": 1332662879
+        },
+        {
+            "name": "顺其自然 (Been Through)",
+            "artist": "EXO",
+            "id": 526081121
+        },
+        {
+            "name": "View",
+            "artist": "SHINee",
+            "id": 32102385
+        },
+        {
+            "name": "Ring Ding Dong",
+            "artist": "SHINee",
+            "id": 22761945
+        },
+        {
+            "name": "누난 너무 예뻐 (Replay)",
+            "artist": "SHINee",
+            "id": 22761985
+        },
+        {
+            "name": "北极星 (Never Goodbye)",
+            "artist": "NCT DREAM",
+            "id": 1932560427
+        },
+        {
+            "name": "Beautiful",
+            "artist": "NCT 2021",
+            "id": 1903396680
+        },
+        {
+            "name": "八音盒 (Life Is Still Going On)",
+            "artist": "NCT DREAM",
+            "id": 1857054605
+        },
+        {
+            "name": "BOSS",
+            "artist": "NCT U",
+            "id": 545350352
+        },
+        {
+            "name": "Beatbox",
+            "artist": "NCT DREAM",
+            "id": 1952009654
+        },
+        {
+            "name": "英雄 (Kick It)",
+            "artist": "NCT 127",
+            "id": 1428746773
+        },
+        {
+            "name": "MANIAC -Japanese ver.-",
+            "artist": "Stray Kids",
+            "id": 1947126193
+        },
+        {
+            "name": "IDOL",
+            "artist": "BTS (防弹少年团)",
+            "id": 1303027537
+        },
+        {
+            "name": "Boy With Luv feat. Halsey",
+            "artist": "BTS (防弹少年团)",
+            "id": 1357652429
+        },
+        {
+            "name": "Waste It On Me",
+            "artist": "Steve Aoki",
+            "id": 1320185104
+        },
+        {
+            "name": "HOME;RUN (Japanese ver.)",
+            "artist": "SEVENTEEN",
+            "id": 1837486600
+        },
+        {
+            "name": "HIT (Live)",
+            "artist": "SEVENTEEN",
+            "id": 1416322162
+        },
+        {
+            "name": "DARARI",
+            "artist": "TREASURE",
+            "id": 1927381477
+        },
+        {
+            "name": "AIRPLANE",
+            "artist": "iKON",
+            "id": 399340397
+        },
+        {
+            "name": "MY TYPE (취향저격)",
+            "artist": "iKON",
+            "id": 34614970
+        },
+        {
+            "name": "사랑을 했다 (LOVE SCENARIO)",
+            "artist": "iKON",
+            "id": 1336789882
+        },
+        {
+            "name": "MILLIONS",
+            "artist": "WINNER",
+            "id": 1334270184
+        },
+        {
+            "name": "LOVE ME LOVE ME",
+            "artist": "WINNER",
+            "id": 495468595
+        },
+        {
+            "name": "ISLAND",
+            "artist": "WINNER",
+            "id": 495468596
+        },
+        {
+            "name": "EVERYDAY",
+            "artist": "WINNER",
+            "id": 549941375
+        },
+        {
+            "name": "I LOVE U",
+            "artist": "WINNER",
+            "id": 1961529467
+        },
+        {
+            "name": "REALLY REALLY",
+            "artist": "WINNER",
+            "id": 469699065
+        },
+        {
+            "name": "Fire",
+            "artist": "2NE1",
+            "id": 5416299
+        },
+        {
+            "name": "내가 제일 잘 나가",
+            "artist": "2NE1",
+            "id": 30431629
+        },
+        {
+            "name": "BAE BAE",
+            "artist": "BIGBANG",
+            "id": 445844852
+        },
+        {
+            "name": "FXXK IT(에라 모르겠다)",
+            "artist": "BIGBANG",
+            "id": 445845796
+        },
+        {
+            "name": "WE LIKE 2 PARTY",
+            "artist": "BIGBANG",
+            "id": 445844853
+        },
+        {
+            "name": "SOBER",
+            "artist": "BIGBANG",
+            "id": 32922451
+        },
+        {
+            "name": "FANTASTIC BABY",
+            "artist": "BIGBANG",
+            "id": 5366197
+        },
+        {
+            "name": "뱅뱅뱅 (BANG BANG BANG)",
+            "artist": "BIGBANG",
+            "id": 32408002
+        },
+        {
+            "name": "Pink Venom",
+            "artist": "BLACKPINK",
+            "id": 1973633315
+        },
+        {
+            "name": "DDU-DU DDU-DU",
+            "artist": "BLACKPINK",
+            "id": 1325896374
+        },
+        {
+            "name": "BOOMBAYAH",
+            "artist": "BLACKPINK",
+            "id": 1325711419
+        },
+        {
+            "name": "Lovesick Girls",
+            "artist": "BLACKPINK",
+            "id": 1484052706
+        },
+        {
+            "name": "Pretty Savage",
+            "artist": "BLACKPINK",
+            "id": 1484052704
+        },
+        {
+            "name": "WHISTLE",
+            "artist": "BLACKPINK",
+            "id": 424477572
+        },
+        {
+            "name": "Kill This Love",
+            "artist": "BLACKPINK",
+            "id": 1357116203
+        },
+        {
+            "name": "Sour Candy",
+            "artist": "Lady Gaga",
+            "id": 1451492235
+        },
+        {
+            "name": "Love To Hate Me",
+            "artist": "BLACKPINK",
+            "id": 1484050925
+        },
+        {
+            "name": "Ice Cream (with Selena Gomez)",
+            "artist": "BLACKPINK",
+            "id": 1474621418
+        },
+        {
+            "name": "Kiss and Make Up",
+            "artist": "Dua Lipa",
+            "id": 1351582527
+        },
+        {
+            "name": "BOOMBAYAH",
+            "artist": "BLACKPINK",
+            "id": 424474635
+        },
+        {
+            "name": "STAY",
+            "artist": "BLACKPINK",
+            "id": 1325711421
+        }
+    ]
+}

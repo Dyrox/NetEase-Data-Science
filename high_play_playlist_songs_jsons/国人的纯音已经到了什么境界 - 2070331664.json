@@ -1,0 +1,722 @@
+{
+    "playlist_info": {
+        "name": "国人的纯音已经到了什么境界",
+        "trackcount": 142,
+        "playcount": 3880562,
+        "creator": "薄暮消",
+        "createDate": "2018-01-23",
+        "heat": 1956.0
+    },
+    "songs": [
+        {
+            "name": "开启新征程2(remix)",
+            "artist": "阿鲲",
+            "id": 2015571034
+        },
+        {
+            "name": "单程票",
+            "artist": "阿鲲",
+            "id": 2015570898
+        },
+        {
+            "name": "孤寂绝尘（高能版）",
+            "artist": "侯暄楠",
+            "id": 1844624433
+        },
+        {
+            "name": "天下第一",
+            "artist": "麦振鸿",
+            "id": 29999488
+        },
+        {
+            "name": "Lachesism",
+            "artist": "赵一航",
+            "id": 1420555001
+        },
+        {
+            "name": "Daylight",
+            "artist": "Seredris",
+            "id": 1372188635
+        },
+        {
+            "name": "青城",
+            "artist": "王三溥",
+            "id": 28828019
+        },
+        {
+            "name": "梯度消失",
+            "artist": "Revol",
+            "id": 1410716593
+        },
+        {
+            "name": "Freeze Over（冰封）",
+            "artist": "Xwirok",
+            "id": 1442893018
+        },
+        {
+            "name": "梦",
+            "artist": "大宇",
+            "id": 409654241
+        },
+        {
+            "name": "祭",
+            "artist": "RAiNBOW计划",
+            "id": 30284675
+        },
+        {
+            "name": "她",
+            "artist": "闫月",
+            "id": 319354
+        },
+        {
+            "name": "光",
+            "artist": "OYRH",
+            "id": 520581397
+        },
+        {
+            "name": "白色",
+            "artist": "灰澈",
+            "id": 494992638
+        },
+        {
+            "name": "City",
+            "artist": "羽肿",
+            "id": 451319227
+        },
+        {
+            "name": "镜夜",
+            "artist": "V.K克",
+            "id": 155847
+        },
+        {
+            "name": "浮槎",
+            "artist": "MT1990",
+            "id": 1366031349
+        },
+        {
+            "name": "最初",
+            "artist": "逆时针向",
+            "id": 477417503
+        },
+        {
+            "name": "独行",
+            "artist": "whtlook",
+            "id": 410710596
+        },
+        {
+            "name": "江南",
+            "artist": "胡波涛",
+            "id": 108029
+        },
+        {
+            "name": "烟云",
+            "artist": "Infinite Mask",
+            "id": 1445585886
+        },
+        {
+            "name": "船票",
+            "artist": "MyT1aN",
+            "id": 480341703
+        },
+        {
+            "name": "清明",
+            "artist": "詹昊晁 Zhan.H.C",
+            "id": 469545781
+        },
+        {
+            "name": "青楼",
+            "artist": "从",
+            "id": 492017532
+        },
+        {
+            "name": "成都",
+            "artist": "AT.H",
+            "id": 1320024432
+        },
+        {
+            "name": "余烬",
+            "artist": "杨天光",
+            "id": 465523529
+        },
+        {
+            "name": "清月",
+            "artist": "忘乡",
+            "id": 410714365
+        },
+        {
+            "name": "清雪",
+            "artist": "Aosaki",
+            "id": 28100910
+        },
+        {
+            "name": "葬花",
+            "artist": "THT",
+            "id": 503426999
+        },
+        {
+            "name": "夜光",
+            "artist": "逆时针向",
+            "id": 493319719
+        },
+        {
+            "name": "火灵",
+            "artist": "喵步小雨中",
+            "id": 28754282
+        },
+        {
+            "name": "山鬼",
+            "artist": "F.Be.I",
+            "id": 31477887
+        },
+        {
+            "name": "夏夜",
+            "artist": "四季音色",
+            "id": 410042763
+        },
+        {
+            "name": "青空",
+            "artist": "Candy_Wind",
+            "id": 32717172
+        },
+        {
+            "name": "流云",
+            "artist": "西皮士",
+            "id": 427609546
+        },
+        {
+            "name": "锦里",
+            "artist": "HOPE-T",
+            "id": 441617611
+        },
+        {
+            "name": "寂川",
+            "artist": "忘乡",
+            "id": 487864613
+        },
+        {
+            "name": "幽梦",
+            "artist": "阿铭",
+            "id": 437752427
+        },
+        {
+            "name": "焚梦",
+            "artist": "十指流玉",
+            "id": 416388365
+        },
+        {
+            "name": "秦淮",
+            "artist": "冯石叶",
+            "id": 487929846
+        },
+        {
+            "name": "小樱",
+            "artist": "饭碗的彼岸",
+            "id": 406070435
+        },
+        {
+            "name": "白露",
+            "artist": "羽肿",
+            "id": 475311996
+        },
+        {
+            "name": "落微",
+            "artist": "F.Be.I",
+            "id": 31477885
+        },
+        {
+            "name": "烟花",
+            "artist": "OYRH",
+            "id": 517848757
+        },
+        {
+            "name": "ACE",
+            "artist": "HOYO-MiX",
+            "id": 484056614
+        },
+        {
+            "name": "Glow",
+            "artist": "千坂",
+            "id": 469889836
+        },
+        {
+            "name": "雨桜_",
+            "artist": "S9ryne",
+            "id": 41656794
+        },
+        {
+            "name": "White",
+            "artist": "丁可",
+            "id": 28912536
+        },
+        {
+            "name": "Grace",
+            "artist": "Jannik",
+            "id": 528423473
+        },
+        {
+            "name": "mirror",
+            "artist": "DELA",
+            "id": 411988621
+        },
+        {
+            "name": "Planet",
+            "artist": "Noicybino",
+            "id": 533084692
+        },
+        {
+            "name": "风信子",
+            "artist": "瑞德",
+            "id": 1429393901
+        },
+        {
+            "name": "漫游者",
+            "artist": "蓝云木",
+            "id": 544733584
+        },
+        {
+            "name": "金子陵",
+            "artist": "霹雳布袋戏",
+            "id": 376994
+        },
+        {
+            "name": "武侯祠",
+            "artist": "闫东炜",
+            "id": 477841196
+        },
+        {
+            "name": "Ending",
+            "artist": "Candy_Wind",
+            "id": 440355309
+        },
+        {
+            "name": "I'm f̶i̶n̶e",
+            "artist": "Yzz",
+            "id": 1442081548
+        },
+        {
+            "name": "CHINA-2",
+            "artist": "Sand",
+            "id": 548633609
+        },
+        {
+            "name": "China-3",
+            "artist": "Tiger Feng",
+            "id": 553770065
+        },
+        {
+            "name": "Forward",
+            "artist": "K kure",
+            "id": 454757785
+        },
+        {
+            "name": "samsara",
+            "artist": "蔡的理想",
+            "id": 41652026
+        },
+        {
+            "name": "Love(爱）",
+            "artist": "HankJerry",
+            "id": 518307255
+        },
+        {
+            "name": "Princess",
+            "artist": "α·Pav",
+            "id": 357023
+        },
+        {
+            "name": "梦寻古镇",
+            "artist": "羽翼深蓝Wings",
+            "id": 556717614
+        },
+        {
+            "name": "China2.0",
+            "artist": "Liang-LDOaVnEa-LY",
+            "id": 1353696755
+        },
+        {
+            "name": "真正的王",
+            "artist": "高铭",
+            "id": 448317185
+        },
+        {
+            "name": "The End?",
+            "artist": "清风至",
+            "id": 488490964
+        },
+        {
+            "name": "Tomorrow",
+            "artist": "Czwen",
+            "id": 498542341
+        },
+        {
+            "name": "Asphyxia",
+            "artist": "逆时针向",
+            "id": 454035505
+        },
+        {
+            "name": "Fell for U",
+            "artist": "Noicybino",
+            "id": 39635710
+        },
+        {
+            "name": "Miss You",
+            "artist": "未泯",
+            "id": 33850506
+        },
+        {
+            "name": "Windy Hill",
+            "artist": "羽肿",
+            "id": 427606780
+        },
+        {
+            "name": "四月樱花",
+            "artist": "dylanf",
+            "id": 1355079681
+        },
+        {
+            "name": "国色天香",
+            "artist": "魏小涵",
+            "id": 392384
+        },
+        {
+            "name": "盛夏光年",
+            "artist": "R7CKY",
+            "id": 488958365
+        },
+        {
+            "name": "水墨兰亭",
+            "artist": "李志辉",
+            "id": 30413344
+        },
+        {
+            "name": "浮生若梦",
+            "artist": "蔡的理想",
+            "id": 479692918
+        },
+        {
+            "name": "莫失莫忘",
+            "artist": "麦振鸿",
+            "id": 29999506
+        },
+        {
+            "name": "片头音乐",
+            "artist": "阿鲲",
+            "id": 25640073
+        },
+        {
+            "name": "拂晓车站",
+            "artist": "Candy_Wind",
+            "id": 32717164
+        },
+        {
+            "name": "思之如狂",
+            "artist": "王三溥",
+            "id": 528271503
+        },
+        {
+            "name": "孤星独吟",
+            "artist": "周思贤",
+            "id": 28665884
+        },
+        {
+            "name": "寂静之空",
+            "artist": "傅许",
+            "id": 461074907
+        },
+        {
+            "name": "夏の喚く",
+            "artist": "邱有句",
+            "id": 434871406
+        },
+        {
+            "name": "哄你入睡",
+            "artist": "昼夜",
+            "id": 537510088
+        },
+        {
+            "name": "谷雨 伴奏",
+            "artist": "桑葚上的猴子",
+            "id": 410161058
+        },
+        {
+            "name": "Glassy Sky",
+            "artist": "TAVOS",
+            "id": 493490427
+        },
+        {
+            "name": "Love home",
+            "artist": "夏小舟",
+            "id": 404459321
+        },
+        {
+            "name": "开启新征程",
+            "artist": "阿鲲",
+            "id": 1343461538
+        },
+        {
+            "name": "Gypsophila",
+            "artist": "MoreanP",
+            "id": 517346741
+        },
+        {
+            "name": "无已恋君时",
+            "artist": "明日未来",
+            "id": 532124658
+        },
+        {
+            "name": "救难观世音",
+            "artist": "武聆音雄",
+            "id": 30031890
+        },
+        {
+            "name": "云村的告别",
+            "artist": "邱有句",
+            "id": 523863496
+        },
+        {
+            "name": "赴任遭祸变",
+            "artist": "许镜清",
+            "id": 29810140
+        },
+        {
+            "name": "繁华的寂静",
+            "artist": "文武贝",
+            "id": 40257852
+        },
+        {
+            "name": "繁华的风景",
+            "artist": "Candy_Wind",
+            "id": 522202385
+        },
+        {
+            "name": "初秋与七夕",
+            "artist": "闫东炜",
+            "id": 502218792
+        },
+        {
+            "name": "城南花已开",
+            "artist": "三亩地",
+            "id": 468176711
+        },
+        {
+            "name": "Longing for",
+            "artist": "Kemiro",
+            "id": 1314160278
+        },
+        {
+            "name": "Lost In Love",
+            "artist": "蓝云木",
+            "id": 521597063
+        },
+        {
+            "name": "At The Edge",
+            "artist": "千坂",
+            "id": 448596416
+        },
+        {
+            "name": "China-Opera",
+            "artist": "小悦悦",
+            "id": 457053283
+        },
+        {
+            "name": "An Old Song",
+            "artist": "MoreanP",
+            "id": 462177081
+        },
+        {
+            "name": "Dusky World",
+            "artist": "MoreanP",
+            "id": 519604416
+        },
+        {
+            "name": "三个人的时光",
+            "artist": "吴欣叡",
+            "id": 165614
+        },
+        {
+            "name": "古奈纯钢琴版",
+            "artist": "MT1990",
+            "id": 866059719
+        },
+        {
+            "name": "和煦的糖果风",
+            "artist": "Candy_Wind",
+            "id": 439142564
+        },
+        {
+            "name": "Dancing Work",
+            "artist": "叶轻衣",
+            "id": 1407959962
+        },
+        {
+            "name": "Under the Sea",
+            "artist": "Jannik",
+            "id": 419077273
+        },
+        {
+            "name": "Where are you",
+            "artist": "AniFace",
+            "id": 453843751
+        },
+        {
+            "name": "A Story of Fate",
+            "artist": "Jannik",
+            "id": 512989806
+        },
+        {
+            "name": "Edge of the Sky",
+            "artist": "洛仃洋",
+            "id": 442837723
+        },
+        {
+            "name": "水(Original Mix)",
+            "artist": "LeeAlive",
+            "id": 460793376
+        },
+        {
+            "name": "将进酒 (器乐版)",
+            "artist": "燕池",
+            "id": 31445416
+        },
+        {
+            "name": "Bamboo Dance",
+            "artist": "邵容",
+            "id": 34509364
+        },
+        {
+            "name": "踏过樱华第几桥",
+            "artist": "王俊雄",
+            "id": 29437822
+        },
+        {
+            "name": "二十二桥枫别雨",
+            "artist": "墨明棋妙",
+            "id": 366419
+        },
+        {
+            "name": "恍惚交错的记忆",
+            "artist": "余日秋山",
+            "id": 456310390
+        },
+        {
+            "name": "只是当时已惘然",
+            "artist": "十指流玉",
+            "id": 423058573
+        },
+        {
+            "name": "Feeling The Rain",
+            "artist": "MoreanP",
+            "id": 496774187
+        },
+        {
+            "name": "冰菊物语(古筝版)",
+            "artist": "周桃桃",
+            "id": 29097540
+        },
+        {
+            "name": "Somnambulating",
+            "artist": "羽肿",
+            "id": 427015054
+        },
+        {
+            "name": "流浪地球主题音乐",
+            "artist": "阿鲲",
+            "id": 1343455977
+        },
+        {
+            "name": "Subbass of China",
+            "artist": "mAjorHon",
+            "id": 29553029
+        },
+        {
+            "name": "SkyCity(天空之城)",
+            "artist": "Forwe兰斯",
+            "id": 456658875
+        },
+        {
+            "name": "Love Of The Night",
+            "artist": "Matt吕彦良",
+            "id": 549090514
+        },
+        {
+            "name": "子归 (Original Mix)",
+            "artist": "ZE1A",
+            "id": 510648929
+        },
+        {
+            "name": "Last Reincarnation",
+            "artist": "AniFace",
+            "id": 451543833
+        },
+        {
+            "name": "Illusionary Daytime",
+            "artist": "Shirfine",
+            "id": 28907016
+        },
+        {
+            "name": "无人不冤  有情皆孽",
+            "artist": "谜谀",
+            "id": 31673854
+        },
+        {
+            "name": "优美的小调(钢琴曲)",
+            "artist": "张宇桦",
+            "id": 28160230
+        },
+        {
+            "name": "风吹草动，风云飞扬",
+            "artist": "周思贤",
+            "id": 201871
+        },
+        {
+            "name": "Miss U the 715th time",
+            "artist": "AniFace",
+            "id": 553738818
+        },
+        {
+            "name": "The Lonely Starseeker（孤独的逐星人)",
+            "artist": "张斯函",
+            "id": 545860715
+        },
+        {
+            "name": "Normand Corbeil - 暴雨",
+            "artist": "三亩地",
+            "id": 474502626
+        },
+        {
+            "name": "The truth that you leave",
+            "artist": "Pianoboy高至豪",
+            "id": 139774
+        },
+        {
+            "name": "Autumn rain（未修改版）",
+            "artist": "3_key",
+            "id": 430053309
+        },
+        {
+            "name": "风云榜(二胡.排笛独奏曲)",
+            "artist": "周思贤",
+            "id": 27808169
+        },
+        {
+            "name": "Morning Haze Rearrange",
+            "artist": "1n",
+            "id": 453107183
+        },
+        {
+            "name": "May I see U again-I love you 3000 times（翻自 MT1990） ",
+            "artist": "MappleZS",
+            "id": 1386495856
+        },
+        {
+            "name": "当安静的公园披上了夜网, 东方的夜莺徒然向玫瑰花歌唱",
+            "artist": "饭碗的彼岸",
+            "id": 435307995
+        },
+        {
+            "name": "Rosabel【The red Coronation Rearrange】",
+            "artist": "Cre-sc3NT",
+            "id": 450400215
+        }
+    ]
+}

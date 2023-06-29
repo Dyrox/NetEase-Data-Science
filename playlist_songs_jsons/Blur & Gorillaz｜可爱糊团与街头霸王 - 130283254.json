@@ -1,0 +1,612 @@
+{
+    "playlist_info": {
+        "name": "Blur & Gorillaz｜可爱糊团与街头霸王",
+        "trackcount": 120,
+        "playcount": 20780,
+        "creator": "骞骞晚星",
+        "createDate": "2015-11-22",
+        "heat": 7.0
+    },
+    "songs": [
+        {
+            "name": "I Need A Gun",
+            "artist": "Damon Albarn",
+            "id": 1217048
+        },
+        {
+            "name": "I Miss You",
+            "artist": "Damon Albarn",
+            "id": 1217069
+        },
+        {
+            "name": "The Selfish Giant",
+            "artist": "Damon Albarn",
+            "id": 28432523
+        },
+        {
+            "name": "Waterloo Sunset",
+            "artist": "Ray Davies",
+            "id": 26648851
+        },
+        {
+            "name": "Mr Tembo",
+            "artist": "Damon Albarn",
+            "id": 28432521
+        },
+        {
+            "name": "Walking All Day",
+            "artist": "Graham Coxon",
+            "id": 530967642
+        },
+        {
+            "name": "Standing On My Own Again",
+            "artist": "Graham Coxon",
+            "id": 18006098
+        },
+        {
+            "name": "I Can't Look At Your Skin",
+            "artist": "Graham Coxon",
+            "id": 18006099
+        },
+        {
+            "name": "Just A State Of Mind",
+            "artist": "Graham Coxon",
+            "id": 18006101
+        },
+        {
+            "name": "You & I",
+            "artist": "Graham Coxon",
+            "id": 18006102
+        },
+        {
+            "name": "What's He Got?",
+            "artist": "Graham Coxon",
+            "id": 18006108
+        },
+        {
+            "name": "See A Better Day",
+            "artist": "Graham Coxon",
+            "id": 18006110
+        },
+        {
+            "name": "Meanwhile (feat. Jelani Blackman & Barrington Levy)",
+            "artist": "Gorillaz",
+            "id": 1872733946
+        },
+        {
+            "name": "Jimmy Jimmy (feat. AJ Tracey)",
+            "artist": "Gorillaz",
+            "id": 1872735974
+        },
+        {
+            "name": "Chalk Tablet Towers (feat. St Vincent)",
+            "artist": "Gorillaz",
+            "id": 1488934725
+        },
+        {
+            "name": "Tranz",
+            "artist": "Gorillaz",
+            "id": 1309438370
+        },
+        {
+            "name": "Humility",
+            "artist": "Gorillaz",
+            "id": 565924887
+        },
+        {
+            "name": "Hollywood",
+            "artist": "Gorillaz",
+            "id": 573673965
+        },
+        {
+            "name": "Lake Zurich",
+            "artist": "Gorillaz",
+            "id": 566595084
+        },
+        {
+            "name": "Ascension (feat. Vince Staples)",
+            "artist": "Gorillaz",
+            "id": 467665032
+        },
+        {
+            "name": "Strobelite (feat. Peven Everett)",
+            "artist": "Gorillaz",
+            "id": 467665033
+        },
+        {
+            "name": "Andromeda (feat. DRAM)",
+            "artist": "Gorillaz",
+            "id": 467665040
+        },
+        {
+            "name": "Busted and Blue",
+            "artist": "Gorillaz",
+            "id": 467665041
+        },
+        {
+            "name": "Let Me Out (feat. Mavis Staples & Pusha T)",
+            "artist": "Gorillaz",
+            "id": 467665044
+        },
+        {
+            "name": "She's My Collar (feat. Kali Uchis)",
+            "artist": "Gorillaz",
+            "id": 467665047
+        },
+        {
+            "name": "We Got the Power (feat. Jehnny Beth)",
+            "artist": "Gorillaz",
+            "id": 467665050
+        },
+        {
+            "name": "19-2000",
+            "artist": "Gorillaz",
+            "id": 18137245
+        },
+        {
+            "name": "Amarillo",
+            "artist": "Gorillaz",
+            "id": 18137372
+        },
+        {
+            "name": "Rhinestone Eyes",
+            "artist": "Gorillaz",
+            "id": 18137261
+        },
+        {
+            "name": "Some Kind of Nature (feat. Lou Reed)",
+            "artist": "Gorillaz",
+            "id": 18137266
+        },
+        {
+            "name": "Broken",
+            "artist": "Gorillaz",
+            "id": 18137268
+        },
+        {
+            "name": "Pirate Jet",
+            "artist": "Gorillaz",
+            "id": 18137273
+        },
+        {
+            "name": "Stylo (feat. Mos Def and Bobby Womack)",
+            "artist": "Gorillaz",
+            "id": 22583265
+        },
+        {
+            "name": "We Are Happy Landfill",
+            "artist": "Gorillaz",
+            "id": 22305173
+        },
+        {
+            "name": "Bill Murray",
+            "artist": "Gorillaz",
+            "id": 22305177
+        },
+        {
+            "name": "Dirty Harry (Schtung Chinese New Year Remix)",
+            "artist": "Gorillaz",
+            "id": 22305190
+        },
+        {
+            "name": "Kids with Guns",
+            "artist": "Gorillaz",
+            "id": 18137218
+        },
+        {
+            "name": "O Green World",
+            "artist": "Gorillaz",
+            "id": 18137219
+        },
+        {
+            "name": "Dirty Harry",
+            "artist": "Gorillaz",
+            "id": 18137220
+        },
+        {
+            "name": "November Has Come",
+            "artist": "Gorillaz",
+            "id": 18137224
+        },
+        {
+            "name": "White Light",
+            "artist": "Gorillaz",
+            "id": 18137226
+        },
+        {
+            "name": "DARE",
+            "artist": "Gorillaz",
+            "id": 18137227
+        },
+        {
+            "name": "Fire Coming out of the Monkey's Head",
+            "artist": "Gorillaz",
+            "id": 18137228
+        },
+        {
+            "name": "Don't Get Lost in Heaven",
+            "artist": "Gorillaz",
+            "id": 18137229
+        },
+        {
+            "name": "Demon Days",
+            "artist": "Gorillaz",
+            "id": 18137230
+        },
+        {
+            "name": "The Sounder",
+            "artist": "Gorillaz",
+            "id": 22505328
+        },
+        {
+            "name": "19/2000 (Soulchild Remix)",
+            "artist": "Gorillaz",
+            "id": 27303732
+        },
+        {
+            "name": "5/4",
+            "artist": "Gorillaz",
+            "id": 22542246
+        },
+        {
+            "name": "Tomorrow Comes Today",
+            "artist": "Gorillaz",
+            "id": 22542247
+        },
+        {
+            "name": "Sound Check (Gravity)",
+            "artist": "Gorillaz",
+            "id": 22542252
+        },
+        {
+            "name": "Latin Simone",
+            "artist": "Gorillaz",
+            "id": 4083748
+        },
+        {
+            "name": "On Melancholy Hill",
+            "artist": "Gorillaz",
+            "id": 22253585
+        },
+        {
+            "name": "Sleeping Powder",
+            "artist": "Gorillaz",
+            "id": 484633807
+        },
+        {
+            "name": "Feel Good Inc.",
+            "artist": "Gorillaz",
+            "id": 18137221
+        },
+        {
+            "name": "Clint Eastwood",
+            "artist": "Gorillaz",
+            "id": 22542887
+        },
+        {
+            "name": "The Valley of The Pagans (feat. Beck)",
+            "artist": "Gorillaz",
+            "id": 1490250615
+        },
+        {
+            "name": "Alex's Song (Demo)",
+            "artist": "Blur",
+            "id": 3950921
+        },
+        {
+            "name": "The Wassailing Song (Andy Partridge Versions)",
+            "artist": "Blur",
+            "id": 3950872
+        },
+        {
+            "name": "Sing",
+            "artist": "Blur",
+            "id": 5056914
+        },
+        {
+            "name": "Y'All Doomed",
+            "artist": "Blur",
+            "id": 31704049
+        },
+        {
+            "name": "Lonesome Street",
+            "artist": "Blur",
+            "id": 31134078
+        },
+        {
+            "name": "New World Towers",
+            "artist": "Blur",
+            "id": 31246692
+        },
+        {
+            "name": "Go Out",
+            "artist": "Blur",
+            "id": 31090267
+        },
+        {
+            "name": "Thought I Was a Spaceman",
+            "artist": "Blur",
+            "id": 31246697
+        },
+        {
+            "name": "I Broadcast",
+            "artist": "Blur",
+            "id": 31246698
+        },
+        {
+            "name": "My Terracotta Heart",
+            "artist": "Blur",
+            "id": 31246694
+        },
+        {
+            "name": "There Are Too Many of Us",
+            "artist": "Blur",
+            "id": 31090268
+        },
+        {
+            "name": "Ghost Ship",
+            "artist": "Blur",
+            "id": 31246699
+        },
+        {
+            "name": "Pyongyang",
+            "artist": "Blur",
+            "id": 31246703
+        },
+        {
+            "name": "Ong Ong",
+            "artist": "Blur",
+            "id": 31246695
+        },
+        {
+            "name": "Mirrorball",
+            "artist": "Blur",
+            "id": 31246700
+        },
+        {
+            "name": "Under the Westway",
+            "artist": "Blur",
+            "id": 16882076
+        },
+        {
+            "name": "Under the Westway (Acoustic)",
+            "artist": "Blur",
+            "id": 33522304
+        },
+        {
+            "name": "Fool's Day",
+            "artist": "Blur",
+            "id": 3951074
+        },
+        {
+            "name": "Brothers and Sisters",
+            "artist": "Blur",
+            "id": 3951368
+        },
+        {
+            "name": "Caravan",
+            "artist": "Blur",
+            "id": 3951371
+        },
+        {
+            "name": "Sweet Song",
+            "artist": "Blur",
+            "id": 3951381
+        },
+        {
+            "name": "Jets",
+            "artist": "Blur",
+            "id": 3951385
+        },
+        {
+            "name": "Battery in Your Leg (Includes 'Me, White Noise')",
+            "artist": "Blur",
+            "id": 3951393
+        },
+        {
+            "name": "Beetlebum",
+            "artist": "Blur",
+            "id": 3951464
+        },
+        {
+            "name": "Song 2",
+            "artist": "Blur",
+            "id": 3951467
+        },
+        {
+            "name": "There's No Other Way (Single Version)",
+            "artist": "Blur",
+            "id": 3951469
+        },
+        {
+            "name": "Coffee & TV (Radio Edit)",
+            "artist": "Blur",
+            "id": 3951475
+        },
+        {
+            "name": "Girls & Boys",
+            "artist": "Blur",
+            "id": 3951491
+        },
+        {
+            "name": "Charmless Man",
+            "artist": "Blur",
+            "id": 3951494
+        },
+        {
+            "name": "Country House",
+            "artist": "Blur",
+            "id": 3951501
+        },
+        {
+            "name": "Tender",
+            "artist": "Blur",
+            "id": 16882031
+        },
+        {
+            "name": "Swamp Song",
+            "artist": "Blur",
+            "id": 16882034
+        },
+        {
+            "name": "Mellow Song",
+            "artist": "Blur",
+            "id": 16882038
+        },
+        {
+            "name": "No Distance Left to Run",
+            "artist": "Blur",
+            "id": 16882042
+        },
+        {
+            "name": "Red Necks",
+            "artist": "Blur",
+            "id": 3951888
+        },
+        {
+            "name": "Alex's Song",
+            "artist": "Blur",
+            "id": 3951892
+        },
+        {
+            "name": "Country Sad Ballad Man (2012 Remaster)",
+            "artist": "Blur",
+            "id": 16880994
+        },
+        {
+            "name": "On Your Own (2012 Remaster)",
+            "artist": "Blur",
+            "id": 16880996
+        },
+        {
+            "name": "You're so Great (2012 Remaster)",
+            "artist": "Blur",
+            "id": 16880998
+        },
+        {
+            "name": "Death of a Party (2012 Remaster)",
+            "artist": "Blur",
+            "id": 16880999
+        },
+        {
+            "name": "Movin' On (2012 Remaster)",
+            "artist": "Blur",
+            "id": 16882004
+        },
+        {
+            "name": "The Universal",
+            "artist": "Blur",
+            "id": 3952149
+        },
+        {
+            "name": "Stereotypes (2012 Remaster)",
+            "artist": "Blur",
+            "id": 16880803
+        },
+        {
+            "name": "Best Days (2012 Remaster)",
+            "artist": "Blur",
+            "id": 16880805
+        },
+        {
+            "name": "Top Man (2012 Remaster)",
+            "artist": "Blur",
+            "id": 16880808
+        },
+        {
+            "name": "It Could Be You (2012 Remaster)",
+            "artist": "Blur",
+            "id": 16880812
+        },
+        {
+            "name": "Entertain Me (2012 Remaster)",
+            "artist": "Blur",
+            "id": 16880816
+        },
+        {
+            "name": "Tracy Jacks (2012 Remaster)",
+            "artist": "Blur",
+            "id": 16880945
+        },
+        {
+            "name": "End of a Century (2012 Remaster)",
+            "artist": "Blur",
+            "id": 16880946
+        },
+        {
+            "name": "Parklife (2012 Remaster)",
+            "artist": "Blur",
+            "id": 16880947
+        },
+        {
+            "name": "Bank Holiday (2012 Remaster)",
+            "artist": "Blur",
+            "id": 16880948
+        },
+        {
+            "name": "Badhead (2012 Remaster)",
+            "artist": "Blur",
+            "id": 16880949
+        },
+        {
+            "name": "To the End (2012 Remaster)",
+            "artist": "Blur",
+            "id": 16880952
+        },
+        {
+            "name": "London Loves (2012 Remaster)",
+            "artist": "Blur",
+            "id": 16880953
+        },
+        {
+            "name": "Clover Over Dover (2012 Remaster)",
+            "artist": "Blur",
+            "id": 16880955
+        },
+        {
+            "name": "Magic America (2012 Remaster)",
+            "artist": "Blur",
+            "id": 16880956
+        },
+        {
+            "name": "Jubilee (2012 Remaster)",
+            "artist": "Blur",
+            "id": 16880957
+        },
+        {
+            "name": "For Tomorrow (2012 Remaster)",
+            "artist": "Blur",
+            "id": 16880864
+        },
+        {
+            "name": "Sunday Sunday (2012 Remaster)",
+            "artist": "Blur",
+            "id": 16880871
+        },
+        {
+            "name": "When The Cows Come Home",
+            "artist": "Blur",
+            "id": 3952710
+        },
+        {
+            "name": "She's So High (2012 Remaster)",
+            "artist": "Blur",
+            "id": 16880878
+        },
+        {
+            "name": "Sing (2012 Remaster)",
+            "artist": "Blur",
+            "id": 16880883
+        },
+        {
+            "name": "I Know",
+            "artist": "Blur",
+            "id": 3952851
+        },
+        {
+            "name": "Intermission",
+            "artist": "Blur",
+            "id": 486069578
+        }
+    ]
+}

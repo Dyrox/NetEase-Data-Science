@@ -1,0 +1,977 @@
+{
+    "playlist_info": {
+        "name": "学习睡觉时听的治愈音乐",
+        "trackcount": 193,
+        "playcount": 188175,
+        "creator": "事与愿相违",
+        "createDate": "2019-08-15",
+        "heat": 133.0
+    },
+    "songs": [
+        {
+            "name": "当我再次遇见你",
+            "artist": "拾光",
+            "id": 1825035396
+        },
+        {
+            "name": "夕阳下小心翼翼的你",
+            "artist": "拾光",
+            "id": 1818352568
+        },
+        {
+            "name": "在流星消失前许愿",
+            "artist": "拾光",
+            "id": 1817702891
+        },
+        {
+            "name": "睡前故事(outro)",
+            "artist": "拾光",
+            "id": 1818353447
+        },
+        {
+            "name": "追逐繁星的孩子",
+            "artist": "拾光",
+            "id": 1816835537
+        },
+        {
+            "name": "序言(intro)",
+            "artist": "拾光",
+            "id": 1818353441
+        },
+        {
+            "name": "粉色妖精小姐♪",
+            "artist": "七鯉夕",
+            "id": 2031243666
+        },
+        {
+            "name": "可憐雪月花",
+            "artist": "七鯉夕",
+            "id": 2048891732
+        },
+        {
+            "name": "也许很久以前我们就在湖边见过了...",
+            "artist": "拿花负荷",
+            "id": 2047425444
+        },
+        {
+            "name": "有 空 一 起 去 看 花",
+            "artist": "阳光橙子YGCZ",
+            "id": 2040866745
+        },
+        {
+            "name": "有 空 一 起 去 看 雪",
+            "artist": "阳光橙子YGCZ",
+            "id": 2041487435
+        },
+        {
+            "name": "樱 花 搁 浅 了 距 离",
+            "artist": "拿花负荷",
+            "id": 2040108825
+        },
+        {
+            "name": "so in love",
+            "artist": "cherrymint",
+            "id": 2038544847
+        },
+        {
+            "name": "forest",
+            "artist": "cherrymint",
+            "id": 2038544845
+        },
+        {
+            "name": "浅浅飞萤入夏夜",
+            "artist": "Fanhuaz",
+            "id": 2035094765
+        },
+        {
+            "name": "岁月安稳，时光静好",
+            "artist": "Fanhuaz",
+            "id": 2039053863
+        },
+        {
+            "name": "Exhausted tenderness",
+            "artist": "Fanhuaz",
+            "id": 2037195703
+        },
+        {
+            "name": "小羊睡不着的时候也会数我吗",
+            "artist": "Wanque",
+            "id": 1984951094
+        },
+        {
+            "name": "温柔の晚风",
+            "artist": "星空物语",
+            "id": 1990770877
+        },
+        {
+            "name": "清晨，树林，幺小喵",
+            "artist": "花飞飞",
+            "id": 1485796242
+        },
+        {
+            "name": "Dream of Clover",
+            "artist": "DesLee",
+            "id": 1453607429
+        },
+        {
+            "name": "森林旅人与跳舞的精灵（Forest Waltz）",
+            "artist": "林樹河",
+            "id": 1926653869
+        },
+        {
+            "name": "一轩明月上帘栊",
+            "artist": "MT1990",
+            "id": 1817913949
+        },
+        {
+            "name": "等 晚 风 拂 过 夜 色",
+            "artist": "拿花负荷",
+            "id": 1831541175
+        },
+        {
+            "name": "哪有人喜歡孤單不過是受够了失望",
+            "artist": "酥羽梨",
+            "id": 1924614915
+        },
+        {
+            "name": "Night Star",
+            "artist": "Volta",
+            "id": 1932537451
+        },
+        {
+            "name": "Lost rain",
+            "artist": "Volta",
+            "id": 1927347641
+        },
+        {
+            "name": "星夜",
+            "artist": "Aismu",
+            "id": 1928211107
+        },
+        {
+            "name": "Summer memories",
+            "artist": "Aismu",
+            "id": 1928211902
+        },
+        {
+            "name": "Fiee",
+            "artist": "cloud",
+            "id": 1911271459
+        },
+        {
+            "name": "Kismet",
+            "artist": "cloud",
+            "id": 1895142710
+        },
+        {
+            "name": "寻溺",
+            "artist": "cloud",
+            "id": 1912489987
+        },
+        {
+            "name": "Halcyon",
+            "artist": "cloud",
+            "id": 1907213239
+        },
+        {
+            "name": "萤火虫落在枝上温柔了月光下的你",
+            "artist": "酥羽梨",
+            "id": 1924851593
+        },
+        {
+            "name": "Ocean",
+            "artist": "凤凰院零零",
+            "id": 1915990963
+        },
+        {
+            "name": "那就在一起 共度四季",
+            "artist": "白菜",
+            "id": 1861872266
+        },
+        {
+            "name": "ʕ • ᴥ • ʔ",
+            "artist": "白菜",
+            "id": 1915094436
+        },
+        {
+            "name": "流年",
+            "artist": "Alice",
+            "id": 1874977550
+        },
+        {
+            "name": "Lntano.",
+            "artist": "Ash",
+            "id": 1857862978
+        },
+        {
+            "name": "Aholic.",
+            "artist": "Ash",
+            "id": 1857039194
+        },
+        {
+            "name": "Submerge.",
+            "artist": "Ash",
+            "id": 1862807232
+        },
+        {
+            "name": "心动",
+            "artist": "音乐人小笨喵",
+            "id": 1863624504
+        },
+        {
+            "name": "无法想念，愈发想念",
+            "artist": "万古",
+            "id": 1844004527
+        },
+        {
+            "name": "独 守 烟 花 渐 凉",
+            "artist": "万古",
+            "id": 1841408508
+        },
+        {
+            "name": "落日陪山海 而我陪你",
+            "artist": "拿花负荷",
+            "id": 1828051159
+        },
+        {
+            "name": "Tassel",
+            "artist": "Cymophane",
+            "id": 357126
+        },
+        {
+            "name": "失眠星球",
+            "artist": "福合埕在逃牛肉丸",
+            "id": 1821918089
+        },
+        {
+            "name": "Нестај",
+            "artist": "Esther",
+            "id": 1805171828
+        },
+        {
+            "name": "梦江南（钢琴版）",
+            "artist": "音乐人小笨喵",
+            "id": 501061949
+        },
+        {
+            "name": "沉迷初遇",
+            "artist": "若汐",
+            "id": 1807172257
+        },
+        {
+            "name": "宇宙无星河",
+            "artist": "福合埕在逃牛肉丸",
+            "id": 1497053691
+        },
+        {
+            "name": "虹",
+            "artist": "JINBAO",
+            "id": 1351183481
+        },
+        {
+            "name": "夜落熙凤湖",
+            "artist": "紫竹笛韵",
+            "id": 1315931316
+        },
+        {
+            "name": "Changing Winds",
+            "artist": "Alexandra Streliski",
+            "id": 1294236950
+        },
+        {
+            "name": "弟みたいな存在～PianoSolo",
+            "artist": "横山克",
+            "id": 30245059
+        },
+        {
+            "name": "Momentary",
+            "artist": "小瀬村晶",
+            "id": 416554194
+        },
+        {
+            "name": "Marching Through Georgia",
+            "artist": "Goldmund",
+            "id": 2640823
+        },
+        {
+            "name": "A Minute For The End",
+            "artist": "Endless Melancholy",
+            "id": 4064255
+        },
+        {
+            "name": "星寂",
+            "artist": "青魚小子",
+            "id": 1488386180
+        },
+        {
+            "name": "寻、一等星、二町目",
+            "artist": "電車逃跑路線",
+            "id": 1476187545
+        },
+        {
+            "name": "失落游乐园",
+            "artist": "三石阿",
+            "id": 1479546239
+        },
+        {
+            "name": "Cloudy Day",
+            "artist": "今人落淚",
+            "id": 1432477820
+        },
+        {
+            "name": "歩いても 歩いても",
+            "artist": "ゴンチチ",
+            "id": 757761
+        },
+        {
+            "name": "年",
+            "artist": "吴宇深",
+            "id": 540194032
+        },
+        {
+            "name": "雨 因你而下，于你而止",
+            "artist": "Seto",
+            "id": 1377807992
+        },
+        {
+            "name": "ふるさとの匂い",
+            "artist": "吉森信",
+            "id": 541853
+        },
+        {
+            "name": "Bloom of Youth",
+            "artist": "Key Sounds Label",
+            "id": 760058
+        },
+        {
+            "name": "28",
+            "artist": "ゴンチチ",
+            "id": 758092
+        },
+        {
+            "name": "星星的轨迹",
+            "artist": "itmusicstudio",
+            "id": 1366755870
+        },
+        {
+            "name": "The promise",
+            "artist": "Secret Garden",
+            "id": 21725725
+        },
+        {
+            "name": "杂货店",
+            "artist": "UM",
+            "id": 1443701009
+        },
+        {
+            "name": "κ",
+            "artist": "α·Pav",
+            "id": 139227
+        },
+        {
+            "name": "Night, moon, wind, you",
+            "artist": "DeadForest",
+            "id": 473742686
+        },
+        {
+            "name": "三輪学-【缘之空】寂しい夜（UM bootleg）",
+            "artist": "UM",
+            "id": 1452181426
+        },
+        {
+            "name": "四面环山的湖泊",
+            "artist": "UM",
+            "id": 1443457433
+        },
+        {
+            "name": "i love her.",
+            "artist": "Fobo$",
+            "id": 1435580740
+        },
+        {
+            "name": "1967",
+            "artist": "ゴンチチ",
+            "id": 757567
+        },
+        {
+            "name": "思絮（Thought flocculation）",
+            "artist": "Mr Chip",
+            "id": 1306093088
+        },
+        {
+            "name": "晚霞",
+            "artist": "Kryust",
+            "id": 1460003986
+        },
+        {
+            "name": "Touch the starlight",
+            "artist": "Funton",
+            "id": 1337350239
+        },
+        {
+            "name": "雨に濡れた空気",
+            "artist": "春野杉卉",
+            "id": 1417520524
+        },
+        {
+            "name": "一天一天（小清新钢琴纯音乐）",
+            "artist": "桑子",
+            "id": 1346576247
+        },
+        {
+            "name": "向星星许个愿",
+            "artist": "itmusicstudio",
+            "id": 1366759512
+        },
+        {
+            "name": "心灵之地",
+            "artist": "itmusicstudio",
+            "id": 1366755872
+        },
+        {
+            "name": "Star river in your eyes-满目星河",
+            "artist": "MappleZS",
+            "id": 1376557407
+        },
+        {
+            "name": "✧- (っ ̯ -｡)",
+            "artist": "福合埕在逃牛肉丸",
+            "id": 1437052699
+        },
+        {
+            "name": "time flows away",
+            "artist": "songroger",
+            "id": 436668736
+        },
+        {
+            "name": "For When You Are Alone",
+            "artist": "Xeuphoria",
+            "id": 421148106
+        },
+        {
+            "name": "Little Night III",
+            "artist": "Motohiko Hirami",
+            "id": 28587915
+        },
+        {
+            "name": "Believe Me",
+            "artist": "阿保剛",
+            "id": 4919981
+        },
+        {
+            "name": "Sweet nectar (sleep)",
+            "artist": "Great Sleep Piano Lullaby",
+            "id": 1359071168
+        },
+        {
+            "name": "For the Lost Ones",
+            "artist": "The Daydream Club",
+            "id": 1322110808
+        },
+        {
+            "name": "似此星辰非昨夜",
+            "artist": "七结音",
+            "id": 1449553970
+        },
+        {
+            "name": "3055",
+            "artist": "Ólafur Arnalds",
+            "id": 16139381
+        },
+        {
+            "name": "斯巴霍 (Outro)",
+            "artist": "蛋卷",
+            "id": 1294915881
+        },
+        {
+            "name": "放課後の音楽室",
+            "artist": "ゴンチチ",
+            "id": 758079
+        },
+        {
+            "name": "Rainy Blue (蓝色阴雨)",
+            "artist": "饭碗的彼岸",
+            "id": 1341912654
+        },
+        {
+            "name": "願いが叶う場所",
+            "artist": "麻枝准",
+            "id": 22707012
+        },
+        {
+            "name": "细碎星光",
+            "artist": "TS-Sam",
+            "id": 1441460857
+        },
+        {
+            "name": "彩色糖果屋",
+            "artist": "福合埕在逃牛肉丸",
+            "id": 1472064243
+        },
+        {
+            "name": "浮槎",
+            "artist": "MT1990",
+            "id": 1366031349
+        },
+        {
+            "name": "❃",
+            "artist": "enjoy$Xt",
+            "id": 1440336609
+        },
+        {
+            "name": "Flipped Suite",
+            "artist": "Marc Shaiman",
+            "id": 5039983
+        },
+        {
+            "name": "η",
+            "artist": "α·Pav",
+            "id": 29137871
+        },
+        {
+            "name": "如初",
+            "artist": "Hea2t",
+            "id": 1358275949
+        },
+        {
+            "name": "凉",
+            "artist": "仁辰",
+            "id": 520126220
+        },
+        {
+            "name": "crybaby",
+            "artist": "Seto",
+            "id": 1381627463
+        },
+        {
+            "name": "温柔的好天气总是和你一样，止不住的让人心动",
+            "artist": "Hea2t",
+            "id": 1426087185
+        },
+        {
+            "name": "A Minute For The Beginning",
+            "artist": "Endless Melancholy",
+            "id": 4064247
+        },
+        {
+            "name": "ฅ . . ฅ",
+            "artist": "福合埕在逃牛肉丸",
+            "id": 1472580326
+        },
+        {
+            "name": "Little Star",
+            "artist": "Prenatal Education Music BEBE",
+            "id": 399411579
+        },
+        {
+            "name": "canon in d",
+            "artist": "Brian Crain",
+            "id": 1091088
+        },
+        {
+            "name": "いつも何度でも",
+            "artist": "宗次郎",
+            "id": 480353
+        },
+        {
+            "name": "烟花落",
+            "artist": "DarkSpirit",
+            "id": 1314010312
+        },
+        {
+            "name": "Sleeping beauty",
+            "artist": "出羽良彰",
+            "id": 28287122
+        },
+        {
+            "name": "Regret",
+            "artist": "Eric Chiryoku",
+            "id": 26137945
+        },
+        {
+            "name": "奇迹の山 (Kisekino Yama)",
+            "artist": "岸部眞明",
+            "id": 441552
+        },
+        {
+            "name": "月光の雲海",
+            "artist": "久石譲",
+            "id": 442760
+        },
+        {
+            "name": "風の住む街",
+            "artist": "磯村由紀子",
+            "id": 586299
+        },
+        {
+            "name": "忆夏思乡",
+            "artist": "MoreanP",
+            "id": 506650377
+        },
+        {
+            "name": "Through the Arbor",
+            "artist": "Kevin Kern",
+            "id": 1614370
+        },
+        {
+            "name": "纯纯的夏天",
+            "artist": "LIKPIA",
+            "id": 519870772
+        },
+        {
+            "name": "Eternal (Instrumental)",
+            "artist": "赤西仁",
+            "id": 400147
+        },
+        {
+            "name": "First Sunlight",
+            "artist": "Peter Jeremias",
+            "id": 36953773
+        },
+        {
+            "name": "临安初雨(纯音乐)",
+            "artist": "小旭音乐",
+            "id": 29771289
+        },
+        {
+            "name": "日暮里",
+            "artist": "JINBAO",
+            "id": 1351183637
+        },
+        {
+            "name": "听雨（纯音乐）",
+            "artist": "长风",
+            "id": 1389477355
+        },
+        {
+            "name": "月色与雪色之间，你是第三种绝色。",
+            "artist": "十指流玉",
+            "id": 535612106
+        },
+        {
+            "name": "日月星辉之中，你是第四种难得",
+            "artist": "沈奕秋",
+            "id": 1361694864
+        },
+        {
+            "name": "青空",
+            "artist": "Candy_Wind",
+            "id": 32717172
+        },
+        {
+            "name": "梦江南",
+            "artist": "音乐人小笨喵",
+            "id": 500394467
+        },
+        {
+            "name": "Gymnopedie Nr. 1",
+            "artist": "Martin Ermen",
+            "id": 20110046
+        },
+        {
+            "name": "花和你",
+            "artist": "CMJ",
+            "id": 1356157853
+        },
+        {
+            "name": "落日归山海，陪伴成告白",
+            "artist": "Seto",
+            "id": 1379215363
+        },
+        {
+            "name": "山海皆可平",
+            "artist": "CMJ",
+            "id": 1377053293
+        },
+        {
+            "name": "在最寒冷的冬天，遇见最温暖的你",
+            "artist": "林鹿言",
+            "id": 1320484967
+        },
+        {
+            "name": "所念皆星河",
+            "artist": "CMJ",
+            "id": 1384026889
+        },
+        {
+            "name": "Where are you",
+            "artist": "AniFace",
+            "id": 453843751
+        },
+        {
+            "name": "朝",
+            "artist": "六三四",
+            "id": 784541
+        },
+        {
+            "name": "勿念",
+            "artist": "MUSE XHIRO",
+            "id": 1403313334
+        },
+        {
+            "name": "风居住的街道（Piano ver） (翻自 磯村由紀子）",
+            "artist": "饭碗的彼岸",
+            "id": 36897723
+        },
+        {
+            "name": "Nuit Silencieuse",
+            "artist": "Days",
+            "id": 34916301
+        },
+        {
+            "name": "Refrain",
+            "artist": "阿南亮子",
+            "id": 22712173
+        },
+        {
+            "name": "Purity",
+            "artist": "Painless Destiny",
+            "id": 28692665
+        },
+        {
+            "name": "Ascended Vibrations",
+            "artist": "¿Téo?",
+            "id": 462516170
+        },
+        {
+            "name": "To the Lost and Forgotten",
+            "artist": "Denean",
+            "id": 2424859
+        },
+        {
+            "name": "Born a Stranger",
+            "artist": "Kan R. Gao",
+            "id": 1645108
+        },
+        {
+            "name": "River Flows In You",
+            "artist": "Martin Ermen",
+            "id": 20110049
+        },
+        {
+            "name": "Always With Me",
+            "artist": "木村弓",
+            "id": 5267808
+        },
+        {
+            "name": "Adagio for Summer Wind",
+            "artist": "Key Sounds Label",
+            "id": 760037
+        },
+        {
+            "name": "Asphyxia(Piano Ver)",
+            "artist": "逆时针向",
+            "id": 527957820
+        },
+        {
+            "name": "Rain after Summer",
+            "artist": "羽肿",
+            "id": 430685732
+        },
+        {
+            "name": "Windy Hill",
+            "artist": "羽肿",
+            "id": 427606780
+        },
+        {
+            "name": "森林",
+            "artist": "灰澈",
+            "id": 495562302
+        },
+        {
+            "name": "夏の喚く",
+            "artist": "邱有句",
+            "id": 434871406
+        },
+        {
+            "name": "谷雨 伴奏",
+            "artist": "桑葚上的猴子",
+            "id": 410161058
+        },
+        {
+            "name": "星茶会",
+            "artist": "灰澈",
+            "id": 492390949
+        },
+        {
+            "name": "City",
+            "artist": "羽肿",
+            "id": 451319227
+        },
+        {
+            "name": "Nature's Path",
+            "artist": "Dan Gibson",
+            "id": 1220787
+        },
+        {
+            "name": "夏夜",
+            "artist": "四季音色",
+            "id": 410042763
+        },
+        {
+            "name": "寂しい夜",
+            "artist": "三輪学",
+            "id": 478127
+        },
+        {
+            "name": "夜、萤火虫和你",
+            "artist": "AniFace",
+            "id": 509720124
+        },
+        {
+            "name": "最幸福的事，就是在喜欢你的每一天里，被你喜欢",
+            "artist": "Hea2t",
+            "id": 1345022048
+        },
+        {
+            "name": "城南花已开",
+            "artist": "三亩地",
+            "id": 468176711
+        },
+        {
+            "name": "Illusionary Daytime",
+            "artist": "Shirfine",
+            "id": 28907016
+        },
+        {
+            "name": "Summer Fantasy~",
+            "artist": "傅许",
+            "id": 476625725
+        },
+        {
+            "name": "夏日",
+            "artist": "四季音色",
+            "id": 413829862
+        },
+        {
+            "name": "为霜",
+            "artist": "羽肿",
+            "id": 535517304
+        },
+        {
+            "name": "Hoaprox - Ngẫu Hứng（绘师岸田 remix）",
+            "artist": "AT.H",
+            "id": 484992531
+        },
+        {
+            "name": "Love home",
+            "artist": "夏小舟",
+            "id": 404459321
+        },
+        {
+            "name": "落月随山隐",
+            "artist": "饭碗的彼岸",
+            "id": 1333365172
+        },
+        {
+            "name": "Fell for U",
+            "artist": "Noicybino",
+            "id": 39635710
+        },
+        {
+            "name": "Only Wish",
+            "artist": "Nicholas Cheung",
+            "id": 1323977904
+        },
+        {
+            "name": "Coming Home",
+            "artist": "Peter Jeremias",
+            "id": 36953764
+        },
+        {
+            "name": "Dreamworld(梦境）",
+            "artist": "祭酒",
+            "id": 1334624319
+        },
+        {
+            "name": "Merry Christmas, Mr Lawrence",
+            "artist": "echo",
+            "id": 723174
+        },
+        {
+            "name": "My Soul",
+            "artist": "July",
+            "id": 5308028
+        },
+        {
+            "name": "花绽放",
+            "artist": "smile丶轩",
+            "id": 523696075
+        },
+        {
+            "name": "白昼之夜",
+            "artist": "林隆璇",
+            "id": 116493
+        },
+        {
+            "name": "优美的小调(钢琴曲)",
+            "artist": "张宇桦",
+            "id": 28160230
+        },
+        {
+            "name": "风笛",
+            "artist": "DDBY",
+            "id": 715960
+        },
+        {
+            "name": "さくらの季節",
+            "artist": "38BEETS",
+            "id": 874229
+        },
+        {
+            "name": "歳月-雲流れ-",
+            "artist": "Foxtail-Grass Studio",
+            "id": 730631
+        },
+        {
+            "name": "夏に花が散る",
+            "artist": "羽肿",
+            "id": 490687121
+        },
+        {
+            "name": "花火が瞬く夜に",
+            "artist": "羽肿",
+            "id": 434902428
+        },
+        {
+            "name": "Seaside",
+            "artist": "羽肿",
+            "id": 427015197
+        },
+        {
+            "name": "Somnambulating",
+            "artist": "羽肿",
+            "id": 427015054
+        },
+        {
+            "name": "Neighbor's Garden",
+            "artist": "羽肿",
+            "id": 437753541
+        },
+        {
+            "name": "Sleepless Starlight",
+            "artist": "羽肿",
+            "id": 444003269
+        },
+        {
+            "name": "Cold Rain",
+            "artist": "AniFace",
+            "id": 458696351
+        },
+        {
+            "name": "Recollection",
+            "artist": "October",
+            "id": 5323063
+        },
+        {
+            "name": "The Right Path",
+            "artist": "Thomas Greenberg",
+            "id": 2061452
+        },
+        {
+            "name": "Good Night",
+            "artist": "자장가",
+            "id": 488641073
+        }
+    ]
+}

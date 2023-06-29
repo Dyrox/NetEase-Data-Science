@@ -1,0 +1,577 @@
+{
+    "playlist_info": {
+        "name": "神秘力量，暗黑，古老旋律",
+        "trackcount": 113,
+        "playcount": 8772,
+        "creator": "崎玉川",
+        "createDate": "2016-01-08",
+        "heat": 3.0
+    },
+    "songs": [
+        {
+            "name": "Artemis",
+            "artist": "AURORA",
+            "id": 1913748927
+        },
+        {
+            "name": "Systemagic",
+            "artist": "Goldfrapp",
+            "id": 468878179
+        },
+        {
+            "name": "Le bal des chats",
+            "artist": "Cécile Corbel",
+            "id": 1353354266
+        },
+        {
+            "name": "ドンガラシャン (feat. 初音ミク)",
+            "artist": "ATOLS",
+            "id": 1335797456
+        },
+        {
+            "name": "確率の丘",
+            "artist": "平沢進",
+            "id": 22756447
+        },
+        {
+            "name": "世尊偈 (cho ver.)",
+            "artist": "薬師寺寛邦",
+            "id": 1358974049
+        },
+        {
+            "name": "踊子プリムロゼのテーマ",
+            "artist": "西木康智",
+            "id": 865857528
+        },
+        {
+            "name": "死神舞踊 (feat. ロス)",
+            "artist": "コドクラブ",
+            "id": 1884269969
+        },
+        {
+            "name": "万千花蕊慈母悲哀",
+            "artist": "珂拉琪",
+            "id": 1903991886
+        },
+        {
+            "name": "紀元の樹海",
+            "artist": "k-waves LAB",
+            "id": 31649715
+        },
+        {
+            "name": "Ivory Tower",
+            "artist": "Blackmore's Night",
+            "id": 16866854
+        },
+        {
+            "name": "Salve, terrae magicae",
+            "artist": "梶浦由記",
+            "id": 590254
+        },
+        {
+            "name": "Sis puella magica!",
+            "artist": "梶浦由記",
+            "id": 590252
+        },
+        {
+            "name": "theater of a witch",
+            "artist": "梶浦由記",
+            "id": 28341399
+        },
+        {
+            "name": "open your heart",
+            "artist": "梶浦由記",
+            "id": 594354
+        },
+        {
+            "name": "Noi!",
+            "artist": "梶浦由記",
+            "id": 28341395
+        },
+        {
+            "name": "ゆのこと",
+            "artist": "sakanauosakana",
+            "id": 1898172530
+        },
+        {
+            "name": "My Spirit Flies To You",
+            "artist": "The Buddhist Monks",
+            "id": 5112023
+        },
+        {
+            "name": "いろは歌",
+            "artist": "薬師寺寛邦",
+            "id": 1325711818
+        },
+        {
+            "name": "般若心経 (cho ver.) [short mix]",
+            "artist": "薬師寺寛邦",
+            "id": 557579478
+        },
+        {
+            "name": "壹、幽遠の風",
+            "artist": "Alieson",
+            "id": 29155436
+        },
+        {
+            "name": "Cras numquam scire (TV-Size)",
+            "artist": "Yucca",
+            "id": 533223
+        },
+        {
+            "name": "Sakitama-幸魂-",
+            "artist": "Rin'",
+            "id": 803837
+        },
+        {
+            "name": "神の名前に堕ちる者",
+            "artist": "ALSTROeMERIA",
+            "id": 22675534
+        },
+        {
+            "name": "GASSHOW（VIII Bootleg）",
+            "artist": "Frax.xx",
+            "id": 1336735261
+        },
+        {
+            "name": "Roter Mond",
+            "artist": "Irrlichter",
+            "id": 2749689
+        },
+        {
+            "name": "宵森人",
+            "artist": "志方あきこ",
+            "id": 644142
+        },
+        {
+            "name": "妖精の羽根",
+            "artist": "蒼咲雫",
+            "id": 559015
+        },
+        {
+            "name": "Eilean",
+            "artist": "Sava",
+            "id": 3420588
+        },
+        {
+            "name": "Nightingale",
+            "artist": "MUSIRISCA",
+            "id": 35505061
+        },
+        {
+            "name": "空に支配されし世界",
+            "artist": "蒼風そうか",
+            "id": 32857395
+        },
+        {
+            "name": "a fairy tale",
+            "artist": "MUSIRISCA",
+            "id": 4922555
+        },
+        {
+            "name": "SPICA −Last Resort−(Short ver.)",
+            "artist": "MUSIRISCA",
+            "id": 440101663
+        },
+        {
+            "name": "Le chant de la mer",
+            "artist": "Nolwenn Leroy",
+            "id": 29849027
+        },
+        {
+            "name": "Road to Glory~for Dragon Nest",
+            "artist": "KOKIA",
+            "id": 588007
+        },
+        {
+            "name": "Fengari",
+            "artist": "Ataraxia",
+            "id": 3885322
+        },
+        {
+            "name": "天神さんの子守歌",
+            "artist": "KOKIA",
+            "id": 588993
+        },
+        {
+            "name": "Intro",
+            "artist": "Oskord",
+            "id": 4233965
+        },
+        {
+            "name": "METHOD_HYMME_AMENOFLAME/.",
+            "artist": "stellatram",
+            "id": 471403213
+        },
+        {
+            "name": "冬越し村",
+            "artist": "濱剛",
+            "id": 26212686
+        },
+        {
+            "name": "Polska",
+            "artist": "Sava",
+            "id": 3420616
+        },
+        {
+            "name": "Blossom −PRIMA−",
+            "artist": "MUSIRISCA",
+            "id": 440101662
+        },
+        {
+            "name": "Cailleach Bheur　",
+            "artist": "Pizzicato Strings",
+            "id": 801248
+        },
+        {
+            "name": "神は麓に風を吹かせる",
+            "artist": "Floating Cloud",
+            "id": 729118
+        },
+        {
+            "name": "The Fields of Ard Skellig",
+            "artist": "Marcin Przybyłowicz",
+            "id": 32063396
+        },
+        {
+            "name": "Esoterica - esoteria -",
+            "artist": "秣本瑳羅",
+            "id": 814709
+        },
+        {
+            "name": "Game of Thrones Orchestra-中国竹笛 权利的游戏（孟晓洁Jae remix）",
+            "artist": "孟晓洁Jae",
+            "id": 1358976613
+        },
+        {
+            "name": "Danse Celtique",
+            "artist": "Ron Korb",
+            "id": 1876637
+        },
+        {
+            "name": "勇敢的心",
+            "artist": "Various Artists",
+            "id": 29775219
+        },
+        {
+            "name": "Aisya -ye ru amma-",
+            "artist": "Riverside",
+            "id": 814836
+        },
+        {
+            "name": "Magia (德语版)",
+            "artist": "Paperblossom",
+            "id": 34200743
+        },
+        {
+            "name": "誰ガ為ノ世界",
+            "artist": "志方あきこ",
+            "id": 642613
+        },
+        {
+            "name": "千灯引",
+            "artist": "R.E",
+            "id": 29095694
+        },
+        {
+            "name": "Deep forest where a dragon sleeps",
+            "artist": "K2 SOUND",
+            "id": 766333
+        },
+        {
+            "name": "ヤクモノミコト",
+            "artist": "SOUND HOLIC",
+            "id": 834977
+        },
+        {
+            "name": "打开太阳",
+            "artist": "血肉果汁机",
+            "id": 1393382497
+        },
+        {
+            "name": "塞壬",
+            "artist": "歌者森",
+            "id": 238098
+        },
+        {
+            "name": "神之将至",
+            "artist": "李常超 (Lao乾妈)",
+            "id": 1341108266
+        },
+        {
+            "name": "調和oto~with reflection~",
+            "artist": "KOKIA",
+            "id": 588659
+        },
+        {
+            "name": "Arco-Iris",
+            "artist": "ABSOLUTE CASTAWAY",
+            "id": 687292
+        },
+        {
+            "name": "空蝉",
+            "artist": "志方あきこ",
+            "id": 642516
+        },
+        {
+            "name": "陰陽師IIメインテーマ",
+            "artist": "梅林茂",
+            "id": 1944531
+        },
+        {
+            "name": "Never Ending Night",
+            "artist": "第零交响师団",
+            "id": 848998
+        },
+        {
+            "name": "光の降る森～thiqua ol shua～",
+            "artist": "霜月はるか",
+            "id": 28481816
+        },
+        {
+            "name": "狐月",
+            "artist": "まめこ",
+            "id": 28481873
+        },
+        {
+            "name": "十六夜童歌",
+            "artist": "葉月ゆら",
+            "id": 580580
+        },
+        {
+            "name": "九尾",
+            "artist": "己龍",
+            "id": 31654907
+        },
+        {
+            "name": "ØØØ",
+            "artist": "THE MUSMUS",
+            "id": 28233271
+        },
+        {
+            "name": "朱隠し",
+            "artist": "志方あきこ",
+            "id": 642788
+        },
+        {
+            "name": "般若心経ポップ",
+            "artist": "初音ミク",
+            "id": 22717166
+        },
+        {
+            "name": "般若心経ロック",
+            "artist": "VOCALOID",
+            "id": 29836643
+        },
+        {
+            "name": "Mãe Bruxa",
+            "artist": "Acetre",
+            "id": 16466011
+        },
+        {
+            "name": "Tishri",
+            "artist": "Ana Alcaide",
+            "id": 16409002
+        },
+        {
+            "name": "トルキア",
+            "artist": "菅野よう子",
+            "id": 589809
+        },
+        {
+            "name": "創世記",
+            "artist": "りりィ",
+            "id": 412178663
+        },
+        {
+            "name": "Ga1ahad and Scientific Witchery",
+            "artist": "Mili",
+            "id": 406347064
+        },
+        {
+            "name": "Red Dahlia",
+            "artist": "Mili",
+            "id": 435005005
+        },
+        {
+            "name": "Bathtub Mermaid",
+            "artist": "Mili",
+            "id": 411214221
+        },
+        {
+            "name": "Sacramentum:Unaccompanied Hymn for Torino",
+            "artist": "Mili",
+            "id": 29418292
+        },
+        {
+            "name": "L.A.",
+            "artist": "貝田由里子",
+            "id": 590443
+        },
+        {
+            "name": "still doll",
+            "artist": "分島花音",
+            "id": 665679
+        },
+        {
+            "name": "fiction",
+            "artist": "Emily Bindiger",
+            "id": 594242
+        },
+        {
+            "name": "my long forgotten cloistered sleep (unreleased work of Xenosaga)",
+            "artist": "Emily Bindiger",
+            "id": 590414
+        },
+        {
+            "name": "key of the twilight",
+            "artist": "Emily Bindiger",
+            "id": 594236
+        },
+        {
+            "name": "祭符「神遊びの唄」",
+            "artist": "めらみぽっぷ",
+            "id": 412785583
+        },
+        {
+            "name": "吟游诗人舞",
+            "artist": "缪晓铮",
+            "id": 278248
+        },
+        {
+            "name": "アッシャー幻saw曲 第三楽章 : die Himmlische Musik",
+            "artist": "井上優弥子",
+            "id": 461544033
+        },
+        {
+            "name": "God Rest Ye Merry Gentlemen",
+            "artist": "Aimee Mann",
+            "id": 2118025
+        },
+        {
+            "name": "Fall of the Magister",
+            "artist": "Raney Shockne",
+            "id": 468587662
+        },
+        {
+            "name": "Tír na nÓg",
+            "artist": "Celtic Woman",
+            "id": 36190920
+        },
+        {
+            "name": "Siúil a Rún",
+            "artist": "Celtic Woman",
+            "id": 36190914
+        },
+        {
+            "name": "Siuil a Run",
+            "artist": "KOKIA",
+            "id": 588337
+        },
+        {
+            "name": "Dúlaman",
+            "artist": "Celtic Woman",
+            "id": 36190934
+        },
+        {
+            "name": "The Willow Maid",
+            "artist": "Erutan",
+            "id": 28838924
+        },
+        {
+            "name": "The Harp of Dagda",
+            "artist": "Trobar De Morte",
+            "id": 3573486
+        },
+        {
+            "name": "Outlander - The Skye Boat Song (Extended)",
+            "artist": "Bear McCreary",
+            "id": 35628544
+        },
+        {
+            "name": "Green Eyed Maiden",
+            "artist": "Ron Korb",
+            "id": 1876495
+        },
+        {
+            "name": "Running with the Wolves",
+            "artist": "Aurora",
+            "id": 32198743
+        },
+        {
+            "name": "Alone",
+            "artist": "伊東恵里",
+            "id": 591313
+        },
+        {
+            "name": "Ortus",
+            "artist": "水谷広実",
+            "id": 27785806
+        },
+        {
+            "name": "うたかた",
+            "artist": "豚乙女",
+            "id": 34367205
+        },
+        {
+            "name": "Turn Loose the Mermaids",
+            "artist": "Nightwish",
+            "id": 21311959
+        },
+        {
+            "name": "All Souls Night (Live)",
+            "artist": "Loreena McKennitt",
+            "id": 27010456
+        },
+        {
+            "name": "The Dragonborn Comes - Skyrim",
+            "artist": "Erutan",
+            "id": 28838946
+        },
+        {
+            "name": "Enchanters",
+            "artist": "Raney Shockne",
+            "id": 31529024
+        },
+        {
+            "name": "Kinderly",
+            "artist": "Mediæval Bæbes",
+            "id": 4352256
+        },
+        {
+            "name": "Working Song",
+            "artist": "Cécile Corbel",
+            "id": 429579777
+        },
+        {
+            "name": "Salva Nos",
+            "artist": "Mediæval Bæbes",
+            "id": 4352246
+        },
+        {
+            "name": "Smoke and Mirrors",
+            "artist": "Imagine Dragons",
+            "id": 30621333
+        },
+        {
+            "name": "Owé",
+            "artist": "Ougenweide",
+            "id": 17758605
+        },
+        {
+            "name": "GASSHOW",
+            "artist": "illion",
+            "id": 26116350
+        },
+        {
+            "name": "SHIVA (Sunburn 2017 Anthem)",
+            "artist": "KSHMR",
+            "id": 525112527
+        },
+        {
+            "name": "Lilith",
+            "artist": "Aenima",
+            "id": 2172224
+        }
+    ]
+}

@@ -1,0 +1,482 @@
+{
+    "playlist_info": {
+        "name": "留給銀河的獨白",
+        "trackcount": 94,
+        "playcount": 46535,
+        "creator": "21gms",
+        "createDate": "2020-08-08",
+        "heat": 44.0
+    },
+    "songs": [
+        {
+            "name": "So Far",
+            "artist": "SoulFa 灵魂沙发",
+            "id": 2022142185
+        },
+        {
+            "name": "夜",
+            "artist": "彩文乐队ColorfulBar",
+            "id": 1948477767
+        },
+        {
+            "name": "室温",
+            "artist": "莓日告别",
+            "id": 1986251346
+        },
+        {
+            "name": "鱼目仪",
+            "artist": "莓日告别",
+            "id": 1986251347
+        },
+        {
+            "name": "Cream",
+            "artist": "Pocari Sweet",
+            "id": 1312140946
+        },
+        {
+            "name": "clementine (小蜜桔)",
+            "artist": "Thermostat恒温人员",
+            "id": 1894101935
+        },
+        {
+            "name": "树屋",
+            "artist": "椅子乐团 The Chairs",
+            "id": 1487202784
+        },
+        {
+            "name": "The Last Voyage",
+            "artist": "玫瑰岛RoseIsland乐队",
+            "id": 1906301401
+        },
+        {
+            "name": "Midnight Canyon",
+            "artist": "The Cheers Cheers",
+            "id": 427609827
+        },
+        {
+            "name": "让我余生只为你唱情歌",
+            "artist": "icyball 冰球乐团",
+            "id": 1903991817
+        },
+        {
+            "name": "环游（Tour around）",
+            "artist": "潮坏磁带",
+            "id": 1821036578
+        },
+        {
+            "name": "How to...",
+            "artist": "橘子海 (Orange Ocean)",
+            "id": 1833848187
+        },
+        {
+            "name": "We",
+            "artist": "酸月亮 Sour Moon",
+            "id": 1860879623
+        },
+        {
+            "name": "Stupidest Lover",
+            "artist": "Bad Sweetheart",
+            "id": 1915874700
+        },
+        {
+            "name": "银色山坡 (Silver Hillside)",
+            "artist": "Bad Sweetheart",
+            "id": 1423985782
+        },
+        {
+            "name": "Lost In Summer",
+            "artist": "幕后来电CurtainCalls",
+            "id": 1865139511
+        },
+        {
+            "name": "\"Can I ?\"(Feat.Yuson)",
+            "artist": "酱紫乐团PurpleJam",
+            "id": 1881347205
+        },
+        {
+            "name": "大雨",
+            "artist": "deca joins",
+            "id": 1907710034
+        },
+        {
+            "name": "西边",
+            "artist": "浅堤",
+            "id": 1894091752
+        },
+        {
+            "name": "Millions of Years Apart (feat. MANDARK)",
+            "artist": "恐龙的皮 The Dinosaur’s Skin",
+            "id": 1857270741
+        },
+        {
+            "name": "慈城公园交谊舞",
+            "artist": "还潮",
+            "id": 1307385071
+        },
+        {
+            "name": "约会在星期天晚上",
+            "artist": "莫非定律乐团",
+            "id": 1401863689
+        },
+        {
+            "name": "MOON",
+            "artist": "棱镜乐队",
+            "id": 1473720190
+        },
+        {
+            "name": "Have A Good Day",
+            "artist": "旅行新蜜蜂",
+            "id": 1490185355
+        },
+        {
+            "name": "倒带夏天（Rewind in summer）",
+            "artist": "DoubleMirror双面镜",
+            "id": 1806658314
+        },
+        {
+            "name": "红脸蛋 (Blusher)",
+            "artist": "I'll call you.(ICU Band)",
+            "id": 1868414597
+        },
+        {
+            "name": "My Jinji",
+            "artist": "落日飞车",
+            "id": 438462713
+        },
+        {
+            "name": "Beach Warfare",
+            "artist": "Blueburn",
+            "id": 1889687725
+        },
+        {
+            "name": "Don't Smoke",
+            "artist": "Blueburn",
+            "id": 1889675588
+        },
+        {
+            "name": "Average",
+            "artist": "我是機車少女",
+            "id": 1830343398
+        },
+        {
+            "name": "缺乏亲密关系能力",
+            "artist": "渡洛西汀",
+            "id": 1876170838
+        },
+        {
+            "name": "Summer's Gone",
+            "artist": "Favours!偏袒乐队",
+            "id": 516410946
+        },
+        {
+            "name": "最后一个暑假",
+            "artist": "Me and My Sandcastle",
+            "id": 1872986800
+        },
+        {
+            "name": "勇敢一点 ",
+            "artist": "旺福",
+            "id": 862100842
+        },
+        {
+            "name": "明明想了又想又假装没有想（Angelina）",
+            "artist": "温和治疗(MILDCURE)",
+            "id": 1860838709
+        },
+        {
+            "name": "游",
+            "artist": "海妖SeaMaiden",
+            "id": 1827080537
+        },
+        {
+            "name": "春日部的告别",
+            "artist": "海妖SeaMaiden",
+            "id": 1852326658
+        },
+        {
+            "name": "坠落在梦境的你",
+            "artist": "失速海浪",
+            "id": 1860160318
+        },
+        {
+            "name": "芦苇荡（Reed Marshes）",
+            "artist": "酸月亮 Sour Moon",
+            "id": 1873344017
+        },
+        {
+            "name": "多完美的一天",
+            "artist": "deca joins",
+            "id": 1805380249
+        },
+        {
+            "name": "Cocoon",
+            "artist": "LINION",
+            "id": 1480075295
+        },
+        {
+            "name": "直到你带走我",
+            "artist": "甜約翰 Sweet John",
+            "id": 1407951448
+        },
+        {
+            "name": "当你的心还在人海之中（When you hide your heart in the crowd）",
+            "artist": "漏网之鱼BREAK THE SHACKLES",
+            "id": 1459333166
+        },
+        {
+            "name": "You'll See",
+            "artist": "DSPS",
+            "id": 1837523764
+        },
+        {
+            "name": "微醺",
+            "artist": "布朗尼",
+            "id": 1836534080
+        },
+        {
+            "name": "真的忘了",
+            "artist": "斑马森林",
+            "id": 1470703971
+        },
+        {
+            "name": "趋向无穷的你",
+            "artist": "壹环的复兴",
+            "id": 1403221664
+        },
+        {
+            "name": "孤岛",
+            "artist": "木眼镜",
+            "id": 1407609866
+        },
+        {
+            "name": "八块钱买绿豆冰（Summer）（Demo）",
+            "artist": "温和治疗(MILDCURE)",
+            "id": 1399454038
+        },
+        {
+            "name": "从不说的话(Mom)",
+            "artist": "春日玫瑰(Spring Roses)",
+            "id": 1842550014
+        },
+        {
+            "name": "成为日常",
+            "artist": "DSPS",
+            "id": 571339861
+        },
+        {
+            "name": "月光",
+            "artist": "浅堤",
+            "id": 1452668705
+        },
+        {
+            "name": "牛",
+            "artist": "SoulFa 灵魂沙发",
+            "id": 1406062961
+        },
+        {
+            "name": "Fancy",
+            "artist": "CatCube乐队",
+            "id": 566607582
+        },
+        {
+            "name": "給個機會",
+            "artist": "怕胖团",
+            "id": 440101130
+        },
+        {
+            "name": "后照镜",
+            "artist": "怕胖团",
+            "id": 1396973649
+        },
+        {
+            "name": "路过你的青春",
+            "artist": "歌之初乐队",
+            "id": 1402051900
+        },
+        {
+            "name": "Love In",
+            "artist": "暖烟 WarmVapour",
+            "id": 1851668016
+        },
+        {
+            "name": "与你落在这个夏天",
+            "artist": "暖烟 WarmVapour",
+            "id": 1851673636
+        },
+        {
+            "name": "如同宿命反复重演的那一天",
+            "artist": "夏日入侵企画",
+            "id": 1470501460
+        },
+        {
+            "name": "一起跳海",
+            "artist": "小缪",
+            "id": 1396378695
+        },
+        {
+            "name": "Moonquake",
+            "artist": "白日密语",
+            "id": 1490124899
+        },
+        {
+            "name": "给 来自月球的L",
+            "artist": "椅子乐团 The Chairs",
+            "id": 1487205165
+        },
+        {
+            "name": "就让我坠入海底（Sink Into A Deep Sea）",
+            "artist": "Sunken Boat 沉舟乐队",
+            "id": 1447840399
+        },
+        {
+            "name": "你迎面走来，再面无表情地离开",
+            "artist": "温室杂草",
+            "id": 1834118074
+        },
+        {
+            "name": "这里会长出一朵花",
+            "artist": "旅行团乐队",
+            "id": 1830473012
+        },
+        {
+            "name": "迷雾之夜(Lost)",
+            "artist": "春日玫瑰(Spring Roses)",
+            "id": 1842503647
+        },
+        {
+            "name": "想要说",
+            "artist": "囍浪",
+            "id": 1460186704
+        },
+        {
+            "name": "想在夏日撞见你",
+            "artist": "囍浪",
+            "id": 1467971656
+        },
+        {
+            "name": "嫁给我（钢琴版）",
+            "artist": "迷幻世界乐队",
+            "id": 1365443466
+        },
+        {
+            "name": "今日晴",
+            "artist": "大都会乐团",
+            "id": 1449169067
+        },
+        {
+            "name": "All about Anna",
+            "artist": "昨夜派对（L.N Party）",
+            "id": 1367358886
+        },
+        {
+            "name": "深海烟火",
+            "artist": "WayLife生活方式",
+            "id": 1461106783
+        },
+        {
+            "name": "多重曝光（Multi-Exposure）",
+            "artist": "大五度Major_Fifth",
+            "id": 1810987348
+        },
+        {
+            "name": "支点",
+            "artist": "右侧合流",
+            "id": 1388486297
+        },
+        {
+            "name": "遇见你",
+            "artist": "Power Milk",
+            "id": 1476181710
+        },
+        {
+            "name": "普通人类",
+            "artist": "I Mean Us",
+            "id": 1811640992
+        },
+        {
+            "name": "日常的镜头",
+            "artist": "椅子乐团 The Chairs",
+            "id": 574925509
+        },
+        {
+            "name": "银河巴士",
+            "artist": "棉花山脉",
+            "id": 1375683994
+        },
+        {
+            "name": "温和下半日",
+            "artist": "还潮",
+            "id": 1431632377
+        },
+        {
+            "name": "冲浪熊",
+            "artist": "洗浴时间ShoweringTiming",
+            "id": 1430566384
+        },
+        {
+            "name": "佩奇的夏天",
+            "artist": "阁楼演奏班",
+            "id": 1381814876
+        },
+        {
+            "name": "夏夜最后的浪漫",
+            "artist": "缺省",
+            "id": 1472322139
+        },
+        {
+            "name": "逃跑",
+            "artist": "海底时光机",
+            "id": 1808257852
+        },
+        {
+            "name": "风吹着",
+            "artist": "秋日疾走",
+            "id": 1815410188
+        },
+        {
+            "name": "你没问过我为什么变了",
+            "artist": "周末班车",
+            "id": 1411674006
+        },
+        {
+            "name": "爱人已失踪",
+            "artist": "壹环的复兴",
+            "id": 1318927704
+        },
+        {
+            "name": "猫说",
+            "artist": "黑屋乐队",
+            "id": 1360639165
+        },
+        {
+            "name": "Lover Song",
+            "artist": "SoulFa 灵魂沙发",
+            "id": 1345336709
+        },
+        {
+            "name": "灿烂",
+            "artist": "三维鱼",
+            "id": 27876063
+        },
+        {
+            "name": "尽头的你（You at far Ends）",
+            "artist": "就木异象",
+            "id": 1373097461
+        },
+        {
+            "name": "初夏",
+            "artist": "绿巴士乐队",
+            "id": 34775230
+        },
+        {
+            "name": "生锈的梦",
+            "artist": "929",
+            "id": 1305504640
+        },
+        {
+            "name": "鱼和熊掌",
+            "artist": "Schoolgirl byebye",
+            "id": 1369814507
+        }
+    ]
+}

@@ -1,0 +1,692 @@
+{
+    "playlist_info": {
+        "name": "芬兰金属乐：优雅与奔放并存",
+        "trackcount": 136,
+        "playcount": 765364,
+        "creator": "半截小丑",
+        "createDate": "2016-04-09",
+        "heat": 290.0
+    },
+    "songs": [
+        {
+            "name": "Gone With The Sin",
+            "artist": "HIM",
+            "id": 1424875
+        },
+        {
+            "name": "In Joy And Sorrow",
+            "artist": "HIM",
+            "id": 1425241
+        },
+        {
+            "name": "Close To The Flame",
+            "artist": "HIM",
+            "id": 1424882
+        },
+        {
+            "name": "Bittersweet",
+            "artist": "Apocalyptica",
+            "id": 16500710
+        },
+        {
+            "name": "Not Strong Enough",
+            "artist": "Apocalyptica",
+            "id": 3882156
+        },
+        {
+            "name": "I Don't Care",
+            "artist": "Apocalyptica",
+            "id": 16500680
+        },
+        {
+            "name": "Kingdom",
+            "artist": "Celesty",
+            "id": 1167022
+        },
+        {
+            "name": "Battle Of Oblivion",
+            "artist": "Celesty",
+            "id": 1167019
+        },
+        {
+            "name": "Save Me Once Again",
+            "artist": "The Rasmus",
+            "id": 2005655
+        },
+        {
+            "name": "In the Shadows",
+            "artist": "The Rasmus",
+            "id": 2005685
+        },
+        {
+            "name": "Justify",
+            "artist": "The Rasmus",
+            "id": 2005720
+        },
+        {
+            "name": "Stranger",
+            "artist": "The Rasmus",
+            "id": 2005648
+        },
+        {
+            "name": "I'm a Mess",
+            "artist": "The Rasmus",
+            "id": 2005650
+        },
+        {
+            "name": "October & April",
+            "artist": "The Rasmus",
+            "id": 2005695
+        },
+        {
+            "name": "Beyond The Dark Sun",
+            "artist": "Wintersun",
+            "id": 19774757
+        },
+        {
+            "name": "Death And The Healing",
+            "artist": "Wintersun",
+            "id": 19774761
+        },
+        {
+            "name": "Those Were the Days (Mary Hopkin cover)",
+            "artist": "Turisas",
+            "id": 3566768
+        },
+        {
+            "name": "Battle Metal",
+            "artist": "Turisas",
+            "id": 19398739
+        },
+        {
+            "name": "The Land of Hope and Glory",
+            "artist": "Turisas",
+            "id": 19398740
+        },
+        {
+            "name": "Rasputin (Boney M. cover)",
+            "artist": "Turisas",
+            "id": 3566645
+        },
+        {
+            "name": "Pirunkieli",
+            "artist": "Ruoska",
+            "id": 22519111
+        },
+        {
+            "name": "Puhe",
+            "artist": "Ruoska",
+            "id": 3323118
+        },
+        {
+            "name": "Pakkomielle",
+            "artist": "Ruoska",
+            "id": 22519114
+        },
+        {
+            "name": "Saarnaaja",
+            "artist": "Ruoska",
+            "id": 22519107
+        },
+        {
+            "name": "Veriura",
+            "artist": "Ruoska",
+            "id": 3323083
+        },
+        {
+            "name": "Mies Yli Laidan",
+            "artist": "Ruoska",
+            "id": 18688967
+        },
+        {
+            "name": "In My Heaven",
+            "artist": "Negative",
+            "id": 17559713
+        },
+        {
+            "name": "The Moment of Our Love",
+            "artist": "Negative",
+            "id": 4207864
+        },
+        {
+            "name": "Tallulah",
+            "artist": "Sonata Arctica",
+            "id": 21724592
+        },
+        {
+            "name": "FullMoon (Extract from \"White Pearl, Black Oceans\")",
+            "artist": "Sonata Arctica",
+            "id": 21724625
+        },
+        {
+            "name": "Paid In Full",
+            "artist": "Sonata Arctica",
+            "id": 21724611
+        },
+        {
+            "name": "Last Drop Falls",
+            "artist": "Sonata Arctica",
+            "id": 21724588
+        },
+        {
+            "name": "The Misery",
+            "artist": "Sonata Arctica",
+            "id": 21724658
+        },
+        {
+            "name": "Sankarihauta",
+            "artist": "Moonsorrow",
+            "id": 17270708
+        },
+        {
+            "name": "Kylän päässä",
+            "artist": "Moonsorrow",
+            "id": 17270709
+        },
+        {
+            "name": "Pakanajuhla",
+            "artist": "Moonsorrow",
+            "id": 17270737
+        },
+        {
+            "name": "Raunioilla",
+            "artist": "Moonsorrow",
+            "id": 17270701
+        },
+        {
+            "name": "Tyven",
+            "artist": "Moonsorrow",
+            "id": 17270707
+        },
+        {
+            "name": "Tequila",
+            "artist": "Korpiklaani",
+            "id": 20033310
+        },
+        {
+            "name": "Beer Beer",
+            "artist": "Korpiklaani",
+            "id": 20033239
+        },
+        {
+            "name": "Under the Sun",
+            "artist": "Korpiklaani",
+            "id": 20033248
+        },
+        {
+            "name": "Ievan Polkka",
+            "artist": "Korpiklaani",
+            "id": 20033297
+        },
+        {
+            "name": "Vodka",
+            "artist": "Korpiklaani",
+            "id": 2871028
+        },
+        {
+            "name": "Metsämies",
+            "artist": "Korpiklaani",
+            "id": 20033265
+        },
+        {
+            "name": "Colder",
+            "artist": "Charon",
+            "id": 3988875
+        },
+        {
+            "name": "Little Angel",
+            "artist": "Charon",
+            "id": 3988984
+        },
+        {
+            "name": "Tordah",
+            "artist": "Kalmah",
+            "id": 19049091
+        },
+        {
+            "name": "Ready For Salvation",
+            "artist": "Kalmah",
+            "id": 19049080
+        },
+        {
+            "name": "Hollow Heart",
+            "artist": "Kalmah",
+            "id": 4142986
+        },
+        {
+            "name": "Moon Of My Nights",
+            "artist": "Kalmah",
+            "id": 19049093
+        },
+        {
+            "name": "They Will Return",
+            "artist": "Kalmah",
+            "id": 4142999
+        },
+        {
+            "name": "Heroes To Us",
+            "artist": "Kalmah",
+            "id": 19049085
+        },
+        {
+            "name": "Daughter Of The Moon",
+            "artist": "Insomnium",
+            "id": 1460949
+        },
+        {
+            "name": "Weather the Storm",
+            "artist": "Insomnium",
+            "id": 18347992
+        },
+        {
+            "name": "While We Sleep",
+            "artist": "Insomnium",
+            "id": 28454933
+        },
+        {
+            "name": "Down With The Sun",
+            "artist": "Insomnium",
+            "id": 18347975
+        },
+        {
+            "name": "Equivalence",
+            "artist": "Insomnium",
+            "id": 18347974
+        },
+        {
+            "name": "Trail Of Tears",
+            "artist": "Brother Firetribe",
+            "id": 28499388
+        },
+        {
+            "name": "Vindfärd / Människöpesten",
+            "artist": "Finntroll",
+            "id": 17724804
+        },
+        {
+            "name": "Solsagan",
+            "artist": "Finntroll",
+            "id": 17724794
+        },
+        {
+            "name": "Blodmarsch",
+            "artist": "Finntroll",
+            "id": 17724793
+        },
+        {
+            "name": "Trollhammaren",
+            "artist": "Finntroll",
+            "id": 17724807
+        },
+        {
+            "name": "The River Flows Frozen",
+            "artist": "Eternal Tears of Sorrow",
+            "id": 1301300
+        },
+        {
+            "name": "Sea of Whispers",
+            "artist": "Eternal Tears of Sorrow",
+            "id": 17557386
+        },
+        {
+            "name": "The Last One for Life",
+            "artist": "Eternal Tears of Sorrow",
+            "id": 1301304
+        },
+        {
+            "name": "Tears of Autumn Rain",
+            "artist": "Eternal Tears of Sorrow",
+            "id": 17557384
+        },
+        {
+            "name": "I Did It My Way",
+            "artist": "Revolution Renaissance",
+            "id": 18468586
+        },
+        {
+            "name": "Angel",
+            "artist": "Revolution Renaissance",
+            "id": 18468588
+        },
+        {
+            "name": "Keep The Flame Alive",
+            "artist": "Revolution Renaissance",
+            "id": 18468592
+        },
+        {
+            "name": "Where The Rainbow Ends",
+            "artist": "Dreamtale",
+            "id": 4017251
+        },
+        {
+            "name": "Memories Of Time",
+            "artist": "Dreamtale",
+            "id": 4017243
+        },
+        {
+            "name": "Tears",
+            "artist": "Dreamtale",
+            "id": 4017203
+        },
+        {
+            "name": "Intro",
+            "artist": "Dreamtale",
+            "id": 4017240
+        },
+        {
+            "name": "Take What The Heavens Create",
+            "artist": "Dreamtale",
+            "id": 4017126
+        },
+        {
+            "name": "Silent Waters",
+            "artist": "Amorphis",
+            "id": 16471924
+        },
+        {
+            "name": "You I Need",
+            "artist": "Amorphis",
+            "id": 16471902
+        },
+        {
+            "name": "Day Of Your Beliefs",
+            "artist": "Amorphis",
+            "id": 3882640
+        },
+        {
+            "name": "House Of Heroes",
+            "artist": "Battlelore",
+            "id": 16790565
+        },
+        {
+            "name": "Dance of Life",
+            "artist": "Amberian Dawn",
+            "id": 28735197
+        },
+        {
+            "name": "Father And Son",
+            "artist": "Before the Dawn",
+            "id": 16823215
+        },
+        {
+            "name": "Aiming High",
+            "artist": "Santa Cruz",
+            "id": 26280143
+        },
+        {
+            "name": "Hollow Syndicate",
+            "artist": "Naildown",
+            "id": 4209261
+        },
+        {
+            "name": "Phantoms of Madness",
+            "artist": "Winterwolf",
+            "id": 4431455
+        },
+        {
+            "name": "Hold the Sword",
+            "artist": "Whispered",
+            "id": 28247878
+        },
+        {
+            "name": "Birth Of The Damned",
+            "artist": "Demigod",
+            "id": 27648341
+        },
+        {
+            "name": "Perfect Skin",
+            "artist": "The 69 Eyes",
+            "id": 22417229
+        },
+        {
+            "name": "Red",
+            "artist": "The 69 Eyes",
+            "id": 21793226
+        },
+        {
+            "name": "Gothic Girl",
+            "artist": "The 69 Eyes",
+            "id": 27960378
+        },
+        {
+            "name": "FRAMED IN BLOOD",
+            "artist": "The 69 Eyes",
+            "id": 22414007
+        },
+        {
+            "name": "Rocker",
+            "artist": "The 69 Eyes",
+            "id": 21793268
+        },
+        {
+            "name": "The Ethereal Bane",
+            "artist": "Desecresy",
+            "id": 28751610
+        },
+        {
+            "name": "The Poet & The Muse",
+            "artist": "Poets of the Fall",
+            "id": 1862601
+        },
+        {
+            "name": "Late Goodbye",
+            "artist": "Poets of the Fall",
+            "id": 1643183
+        },
+        {
+            "name": "Carnival of Rust",
+            "artist": "Poets of the Fall",
+            "id": 18176868
+        },
+        {
+            "name": "Lift",
+            "artist": "Poets of the Fall",
+            "id": 18176839
+        },
+        {
+            "name": "Cradled in Love",
+            "artist": "Poets of the Fall",
+            "id": 18176920
+        },
+        {
+            "name": "Hard Rock Hallelujah",
+            "artist": "Lordi",
+            "id": 1647722
+        },
+        {
+            "name": "Who's Your Daddy",
+            "artist": "Lordi",
+            "id": 1647718
+        },
+        {
+            "name": "Blood Red Sandman",
+            "artist": "Lordi",
+            "id": 1647387
+        },
+        {
+            "name": "It Snows In Hell",
+            "artist": "Lordi",
+            "id": 1647714
+        },
+        {
+            "name": "Beast Loose In Paradise",
+            "artist": "Lordi",
+            "id": 1647407
+        },
+        {
+            "name": "Iron",
+            "artist": "Ensiferum",
+            "id": 17662722
+        },
+        {
+            "name": "Victory Song",
+            "artist": "Ensiferum",
+            "id": 17662749
+        },
+        {
+            "name": "Eternal Wait",
+            "artist": "Ensiferum",
+            "id": 17662771
+        },
+        {
+            "name": "Lai Lai Hei",
+            "artist": "Ensiferum",
+            "id": 17662729
+        },
+        {
+            "name": "In My Sword I Trust",
+            "artist": "Ensiferum",
+            "id": 17662732
+        },
+        {
+            "name": "Tale of Revenge",
+            "artist": "Ensiferum",
+            "id": 4049271
+        },
+        {
+            "name": "Out On The Streets",
+            "artist": "Battle Beast",
+            "id": 26397253
+        },
+        {
+            "name": "Let It Roar",
+            "artist": "Battle Beast",
+            "id": 26397251
+        },
+        {
+            "name": "Touch In The Night",
+            "artist": "Battle Beast",
+            "id": 31081032
+        },
+        {
+            "name": "Out Of Control",
+            "artist": "Battle Beast",
+            "id": 26397252
+        },
+        {
+            "name": "Nothing",
+            "artist": "Norther",
+            "id": 21273390
+        },
+        {
+            "name": "Sun Won't Shine",
+            "artist": "Sentenced",
+            "id": 19070665
+        },
+        {
+            "name": "No One There",
+            "artist": "Sentenced",
+            "id": 19070831
+        },
+        {
+            "name": "Killing Me Killing You",
+            "artist": "Sentenced",
+            "id": 1946805
+        },
+        {
+            "name": "End of the Road",
+            "artist": "Sentenced",
+            "id": 19070690
+        },
+        {
+            "name": "Bye Bye Beautiful",
+            "artist": "Nightwish",
+            "id": 21312234
+        },
+        {
+            "name": "Sleeping Sun (Original Version)",
+            "artist": "Nightwish",
+            "id": 21312257
+        },
+        {
+            "name": "I Want My Tears Back",
+            "artist": "Nightwish",
+            "id": 21311956
+        },
+        {
+            "name": "She Is My Sin",
+            "artist": "Nightwish",
+            "id": 4209157
+        },
+        {
+            "name": "While Your Lips Are Still Red (Theme from the Movie \"Lieksa!\")",
+            "artist": "Nightwish",
+            "id": 21312012
+        },
+        {
+            "name": "Rest Calm",
+            "artist": "Nightwish",
+            "id": 21311960
+        },
+        {
+            "name": "Moondance",
+            "artist": "Nightwish",
+            "id": 21312041
+        },
+        {
+            "name": "Follow The Reaper",
+            "artist": "Children of Bodom",
+            "id": 17068659
+        },
+        {
+            "name": "Are You Dead Yet (Album Version)",
+            "artist": "Children of Bodom",
+            "id": 17068267
+        },
+        {
+            "name": "Everytime I Die (Album Version)",
+            "artist": "Children of Bodom",
+            "id": 17068719
+        },
+        {
+            "name": "Lake Bodom",
+            "artist": "Children of Bodom",
+            "id": 17068625
+        },
+        {
+            "name": "Don't Stop At The Top",
+            "artist": "Children of Bodom",
+            "id": 17068526
+        },
+        {
+            "name": "Living Dead Beat (Album Version)",
+            "artist": "Children of Bodom",
+            "id": 17068265
+        },
+        {
+            "name": "Hymn to life",
+            "artist": "Timo Tolkki",
+            "id": 19275252
+        },
+        {
+            "name": "Forever (live)",
+            "artist": "Stratovarius",
+            "id": 1935920
+        },
+        {
+            "name": "Destiny (Live)",
+            "artist": "Stratovarius",
+            "id": 1935230
+        },
+        {
+            "name": "Hunting High and Low",
+            "artist": "Stratovarius",
+            "id": 19089301
+        },
+        {
+            "name": "Liberty",
+            "artist": "Stratovarius",
+            "id": 19089300
+        },
+        {
+            "name": "The Land of Ice and Snow",
+            "artist": "Stratovarius",
+            "id": 1935367
+        },
+        {
+            "name": "Will My Soul Ever Rest in Peace?",
+            "artist": "Stratovarius",
+            "id": 19089348
+        }
+    ]
+}

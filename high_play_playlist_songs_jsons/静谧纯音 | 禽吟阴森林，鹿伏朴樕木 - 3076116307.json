@@ -1,0 +1,572 @@
+{
+    "playlist_info": {
+        "name": "静谧纯音 | 禽吟阴森林，鹿伏朴樕木",
+        "trackcount": 112,
+        "playcount": 500059,
+        "creator": "Feillica",
+        "createDate": "2019-11-15",
+        "heat": 378.0
+    },
+    "songs": [
+        {
+            "name": "Unbraiding the Sun",
+            "artist": "Goldmund",
+            "id": 2640782
+        },
+        {
+            "name": "夜",
+            "artist": "Infinite Mask",
+            "id": 2057640616
+        },
+        {
+            "name": "δ",
+            "artist": "α·Pav",
+            "id": 29137868
+        },
+        {
+            "name": "\\\\",
+            "artist": "the tumbled sea",
+            "id": 4346240
+        },
+        {
+            "name": "σ",
+            "artist": "α·Pav",
+            "id": 139224
+        },
+        {
+            "name": "η",
+            "artist": "α·Pav",
+            "id": 29137871
+        },
+        {
+            "name": "μ²",
+            "artist": "α·Pav",
+            "id": 139238
+        },
+        {
+            "name": "Ø",
+            "artist": "the tumbled sea",
+            "id": 4346235
+        },
+        {
+            "name": "天",
+            "artist": "岩井俊二",
+            "id": 26489054
+        },
+        {
+            "name": "起",
+            "artist": "HurryP",
+            "id": 1399076035
+        },
+        {
+            "name": "Leo",
+            "artist": "Ludovico Einaudi",
+            "id": 20952174
+        },
+        {
+            "name": "琉璃",
+            "artist": "黄逸歆",
+            "id": 478146846
+        },
+        {
+            "name": "时而",
+            "artist": "苗三川",
+            "id": 1438167162
+        },
+        {
+            "name": "海松",
+            "artist": "黄逸歆",
+            "id": 484084190
+        },
+        {
+            "name": "木陰",
+            "artist": "いろのみ",
+            "id": 22663110
+        },
+        {
+            "name": "Is As",
+            "artist": "Goldmund",
+            "id": 37132777
+        },
+        {
+            "name": "Dalur",
+            "artist": "Ólafur Arnalds",
+            "id": 426303222
+        },
+        {
+            "name": "20:17",
+            "artist": "Ólafur Arnalds",
+            "id": 36199955
+        },
+        {
+            "name": "秋祭り",
+            "artist": "RADWIMPS",
+            "id": 426881490
+        },
+        {
+            "name": "Ágúst",
+            "artist": "Ólafur Arnalds",
+            "id": 16139395
+        },
+        {
+            "name": "Leave",
+            "artist": "Endless Melancholy",
+            "id": 26243494
+        },
+        {
+            "name": "Siente",
+            "artist": "Robert J. P. Oberg",
+            "id": 1924496
+        },
+        {
+            "name": "Raddir",
+            "artist": "Ólafur Arnalds",
+            "id": 426303220
+        },
+        {
+            "name": "Forest",
+            "artist": "Acoustic Collabo",
+            "id": 22840884
+        },
+        {
+            "name": "Gentle",
+            "artist": "Isaac Shepard",
+            "id": 19934751
+        },
+        {
+            "name": "海之谧",
+            "artist": "森水垚",
+            "id": 1397266500
+        },
+        {
+            "name": "I See It",
+            "artist": "MZ92",
+            "id": 484343995
+        },
+        {
+            "name": "Seveen",
+            "artist": "Otto A Totland",
+            "id": 28245309
+        },
+        {
+            "name": "Eugene",
+            "artist": "Eirinn",
+            "id": 1821439494
+        },
+        {
+            "name": "Záhada",
+            "artist": "Oskar Schuster",
+            "id": 463183734
+        },
+        {
+            "name": "Solitude",
+            "artist": "何石",
+            "id": 1812252234
+        },
+        {
+            "name": "6:00 Am",
+            "artist": "Bosques de mi Mente",
+            "id": 27552963
+        },
+        {
+            "name": "Memory",
+            "artist": "DAISHI DANCE",
+            "id": 406354
+        },
+        {
+            "name": "Opus 54",
+            "artist": "Dustin O'Halloran",
+            "id": 1221393
+        },
+        {
+            "name": "丛林探秘",
+            "artist": "森水垚",
+            "id": 1413387990
+        },
+        {
+            "name": "乔姬的钟",
+            "artist": "九毒",
+            "id": 1465930736
+        },
+        {
+            "name": "失眠星球",
+            "artist": "福合埕在逃牛肉丸",
+            "id": 1821918089
+        },
+        {
+            "name": "Goodbye",
+            "artist": "Jan A.P. Kaczmarek",
+            "id": 1529669
+        },
+        {
+            "name": "Minecraft",
+            "artist": "C418",
+            "id": 4010201
+        },
+        {
+            "name": "i love her.",
+            "artist": "Fobo$",
+            "id": 1435580740
+        },
+        {
+            "name": "Shimmer",
+            "artist": "Mike Lazarev",
+            "id": 480613618
+        },
+        {
+            "name": "Not Alone",
+            "artist": "Ólafur Arnalds",
+            "id": 470793902
+        },
+        {
+            "name": "Ramparts",
+            "artist": "Craig Armstrong",
+            "id": 419485376
+        },
+        {
+            "name": "Dismantle",
+            "artist": "Peter Sandberg",
+            "id": 1300743270
+        },
+        {
+            "name": "Saudades",
+            "artist": "Sangre De Muerdago",
+            "id": 28358231
+        },
+        {
+            "name": "Slow Slow",
+            "artist": "Lambert",
+            "id": 450557871
+        },
+        {
+            "name": "dawn time",
+            "artist": "[.que]",
+            "id": 1448675124
+        },
+        {
+            "name": "51°03.773'",
+            "artist": "Clem Leek",
+            "id": 16956445
+        },
+        {
+            "name": "もののけ姫",
+            "artist": "宗次郎",
+            "id": 4904689
+        },
+        {
+            "name": "晴れが来る",
+            "artist": "春野杉卉",
+            "id": 1413374282
+        },
+        {
+            "name": "致热烈的人",
+            "artist": "王以诺Enoch",
+            "id": 1421898899
+        },
+        {
+            "name": "水星上的鲸",
+            "artist": "hui sonata",
+            "id": 535093555
+        },
+        {
+            "name": "海鸥的夏天",
+            "artist": "何石",
+            "id": 1832606560
+        },
+        {
+            "name": "Intermezzo",
+            "artist": "Lord Agheros",
+            "id": 3924505
+        },
+        {
+            "name": "Fragments",
+            "artist": "Kevin Penkin",
+            "id": 571338501
+        },
+        {
+            "name": "Damascus",
+            "artist": "Oskar Schuster",
+            "id": 1306371132
+        },
+        {
+            "name": "Arrivals N2",
+            "artist": "Dustin O'Halloran",
+            "id": 1221170
+        },
+        {
+            "name": "Fading Sun",
+            "artist": "常诚",
+            "id": 1342614840
+        },
+        {
+            "name": "Countdown",
+            "artist": "Isaac Shepard",
+            "id": 19934775
+        },
+        {
+            "name": "Unspoken...",
+            "artist": "Elizabeth Naccarato",
+            "id": 2584598
+        },
+        {
+            "name": "Insight XVIII",
+            "artist": "Julien Marchal",
+            "id": 483200149
+        },
+        {
+            "name": "Final Breath",
+            "artist": "Cœur de pirate",
+            "id": 28491294
+        },
+        {
+            "name": "Prelude N 3",
+            "artist": "Dustin O'Halloran",
+            "id": 1221403
+        },
+        {
+            "name": "Before I Fall",
+            "artist": "Revolt Production Music",
+            "id": 32507099
+        },
+        {
+            "name": "emily's song",
+            "artist": "the tumbled sea",
+            "id": 4346280
+        },
+        {
+            "name": "Aspen Trees",
+            "artist": "Danny Norbury",
+            "id": 1285107
+        },
+        {
+            "name": "Into the Dark",
+            "artist": "Sebastian Larsson",
+            "id": 19058745
+        },
+        {
+            "name": "御神体へ再び",
+            "artist": "RADWIMPS",
+            "id": 426881496
+        },
+        {
+            "name": "Vagrant Poet",
+            "artist": "洛仃洋",
+            "id": 1349618169
+        },
+        {
+            "name": "Secret Forest",
+            "artist": "00000000",
+            "id": 1422955902
+        },
+        {
+            "name": "Sleep A Piano",
+            "artist": "Max Daniel",
+            "id": 1855219281
+        },
+        {
+            "name": "Our Own Roof",
+            "artist": "Nils Frahm",
+            "id": 32548958
+        },
+        {
+            "name": "Too Much Still",
+            "artist": "Goldmund",
+            "id": 37132783
+        },
+        {
+            "name": "Reminiscence",
+            "artist": "Ólafur Arnalds",
+            "id": 31053110
+        },
+        {
+            "name": "Hinne (Hands)",
+            "artist": "So I'm An Islander",
+            "id": 496902018
+        },
+        {
+            "name": "Revolving Door",
+            "artist": "Abel Korzeniowski",
+            "id": 16336958
+        },
+        {
+            "name": "Together Apart",
+            "artist": "Solo Andata",
+            "id": 4312958
+        },
+        {
+            "name": "Autumn Leaves",
+            "artist": "Jerome Atnom",
+            "id": 5155813
+        },
+        {
+            "name": "Nuvole Bianche",
+            "artist": "Ludovico Einaudi",
+            "id": 28465109
+        },
+        {
+            "name": "An Empty Space",
+            "artist": "Dustin O'Halloran",
+            "id": 463183511
+        },
+        {
+            "name": "The Wind Wings",
+            "artist": "Goldmund",
+            "id": 37132787
+        },
+        {
+            "name": "Historiette No. 2",
+            "artist": "Fabrizio Paterlini",
+            "id": 489066278
+        },
+        {
+            "name": "Survey (Preface)",
+            "artist": "Thomston",
+            "id": 432821748
+        },
+        {
+            "name": "你一个人穿过人群",
+            "artist": "凡以三",
+            "id": 417596815
+        },
+        {
+            "name": "Ocean by the Sea",
+            "artist": "橙子Miu",
+            "id": 1377798529
+        },
+        {
+            "name": "A Quiet Departure",
+            "artist": "Josh Leake",
+            "id": 473940855
+        },
+        {
+            "name": "Above Chiangmai (2004 Digital Remaster)",
+            "artist": "Harold Budd",
+            "id": 1430360
+        },
+        {
+            "name": "Cold Night Colors",
+            "artist": "Robert J. P. Oberg",
+            "id": 1924530
+        },
+        {
+            "name": "The Earth Prelude",
+            "artist": "Ludovico Einaudi",
+            "id": 28838092
+        },
+        {
+            "name": "H In New England",
+            "artist": "Max Richter",
+            "id": 1704824
+        },
+        {
+            "name": "Somehow Familiar",
+            "artist": "Fabrizio Paterlini",
+            "id": 28240907
+        },
+        {
+            "name": "漫坐街椅，仰看风云",
+            "artist": "Rosylia",
+            "id": 1392328262
+        },
+        {
+            "name": "Time Has Changed",
+            "artist": "Federico Albanese",
+            "id": 405079245
+        },
+        {
+            "name": "Rue des trois frères",
+            "artist": "Fabrizio Paterlini",
+            "id": 1369959
+        },
+        {
+            "name": "Night, moon, wind, you",
+            "artist": "DeadForest",
+            "id": 473742686
+        },
+        {
+            "name": "While Everything Burns",
+            "artist": "Fabrizio Paterlini",
+            "id": 498286024
+        },
+        {
+            "name": "You'll Miss Us One Day",
+            "artist": "Ben Lukas Boysen",
+            "id": 26540790
+        },
+        {
+            "name": "Pink And Golden Billows",
+            "artist": "Brambles",
+            "id": 31152619
+        },
+        {
+            "name": "当风闯进松鼠的秋日乐园",
+            "artist": "森水垚",
+            "id": 1833610627
+        },
+        {
+            "name": "Mia & Sebastian’s Theme",
+            "artist": "Boyish_Fish",
+            "id": 1856775163
+        },
+        {
+            "name": "El Transcurrir De Las Horas",
+            "artist": "Bosques de mi Mente",
+            "id": 27552967
+        },
+        {
+            "name": "Dance of a Hummingbird",
+            "artist": "Ernesto Cortazar",
+            "id": 1312925
+        },
+        {
+            "name": "The Place Where They Go",
+            "artist": "Carlos Cipa",
+            "id": 468626279
+        },
+        {
+            "name": "圣诞快乐！White.JAY小姐",
+            "artist": "YiFeiTsai",
+            "id": 1807317519
+        },
+        {
+            "name": "On The Nature Of Daylight",
+            "artist": "Max Richter",
+            "id": 1401142727
+        },
+        {
+            "name": "A Minute For The Beginning",
+            "artist": "Endless Melancholy",
+            "id": 4064247
+        },
+        {
+            "name": "Howard: Forgotten Postcards",
+            "artist": "Luke Howard",
+            "id": 483200349
+        },
+        {
+            "name": "Extraordinary Sense of Smell",
+            "artist": "黄逸歆",
+            "id": 1445777913
+        },
+        {
+            "name": "Prelude for Piano and Malaria",
+            "artist": "Worrytrain",
+            "id": 20714042
+        },
+        {
+            "name": "H.Morpho~Dew of the Daybreak",
+            "artist": "Rosylia",
+            "id": 1411742541
+        },
+        {
+            "name": "生为冰山，就该淡淡地爱海流、爱风",
+            "artist": "迟遲",
+            "id": 1335994511
+        },
+        {
+            "name": "10.月水母 Moonlight Jellyfish[90sec]",
+            "artist": "SIIIG",
+            "id": 567508086
+        }
+    ]
+}

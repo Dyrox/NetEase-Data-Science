@@ -1,0 +1,972 @@
+{
+    "playlist_info": {
+        "name": "『摇滚』五十支伟大摇滚乐队 ● 经典曲目",
+        "trackcount": 192,
+        "playcount": 419719,
+        "creator": "叶不白_",
+        "createDate": "2017-07-31",
+        "heat": 194.0
+    },
+    "songs": [
+        {
+            "name": "Comfortably Numb",
+            "artist": "Pink Floyd",
+            "id": 4237846
+        },
+        {
+            "name": "Another Brick in the Wall, Pt. 2",
+            "artist": "Pink Floyd",
+            "id": 4237803
+        },
+        {
+            "name": "Wish You Were Here",
+            "artist": "Pink Floyd",
+            "id": 4237923
+        },
+        {
+            "name": "Lost for Words",
+            "artist": "Pink Floyd",
+            "id": 4237164
+        },
+        {
+            "name": "Whole Lotta Love",
+            "artist": "Led Zeppelin",
+            "id": 1646233
+        },
+        {
+            "name": "Stairway to Heaven (Remaster)",
+            "artist": "Led Zeppelin",
+            "id": 29719536
+        },
+        {
+            "name": "Immigrant Song (Remaster)",
+            "artist": "Led Zeppelin",
+            "id": 20065049
+        },
+        {
+            "name": "All My Love (Remaster)",
+            "artist": "Led Zeppelin",
+            "id": 20065065
+        },
+        {
+            "name": "Money for Nothing",
+            "artist": "Dire Straits",
+            "id": 27350056
+        },
+        {
+            "name": "Sultans Of Swing",
+            "artist": "Dire Straits",
+            "id": 17449123
+        },
+        {
+            "name": "Brothers in Arms",
+            "artist": "Dire Straits",
+            "id": 27350057
+        },
+        {
+            "name": "Bye Bye Baby",
+            "artist": "Ramones",
+            "id": 3556675
+        },
+        {
+            "name": "Baby, I Love You",
+            "artist": "Ramones",
+            "id": 3557068
+        },
+        {
+            "name": "I Just Want to Have Something to Do (2002 Remaster)",
+            "artist": "Ramones",
+            "id": 20259940
+        },
+        {
+            "name": "A Rock 'n' Roll Fantasy",
+            "artist": "The Kinks",
+            "id": 3559782
+        },
+        {
+            "name": "Waterloo Sunset",
+            "artist": "The Kinks",
+            "id": 435166169
+        },
+        {
+            "name": "Stop Your Sobbing",
+            "artist": "The Kinks",
+            "id": 41645846
+        },
+        {
+            "name": "Add It Up",
+            "artist": "The Kinks",
+            "id": 19453972
+        },
+        {
+            "name": "Roundabout",
+            "artist": "Yes",
+            "id": 20789751
+        },
+        {
+            "name": "Yesterday and Today",
+            "artist": "Yes",
+            "id": 4438699
+        },
+        {
+            "name": "Owner Of A Lonely Heart",
+            "artist": "Yes",
+            "id": 5052241
+        },
+        {
+            "name": "Paranoid",
+            "artist": "Black Sabbath",
+            "id": 16837172
+        },
+        {
+            "name": "Iron Man",
+            "artist": "Black Sabbath",
+            "id": 16837173
+        },
+        {
+            "name": "Solitude",
+            "artist": "Black Sabbath",
+            "id": 3953058
+        },
+        {
+            "name": "Planet Caravan",
+            "artist": "Black Sabbath",
+            "id": 26723496
+        },
+        {
+            "name": "Don't Cry (Original)",
+            "artist": "Guns N' Roses",
+            "id": 18094989
+        },
+        {
+            "name": "Knockin' On Heaven's Door",
+            "artist": "Guns N' Roses",
+            "id": 18095057
+        },
+        {
+            "name": "Sweet Child O' Mine",
+            "artist": "Guns N' Roses",
+            "id": 18095043
+        },
+        {
+            "name": "Civil War",
+            "artist": "Guns N' Roses",
+            "id": 18095052
+        },
+        {
+            "name": "Smoke on the Water (Live)",
+            "artist": "Deep Purple",
+            "id": 4019242
+        },
+        {
+            "name": "Soldier Of Fortune",
+            "artist": "Deep Purple",
+            "id": 22608070
+        },
+        {
+            "name": "Child in Time",
+            "artist": "Deep Purple",
+            "id": 4021250
+        },
+        {
+            "name": "April (2000 Remaster)",
+            "artist": "Deep Purple",
+            "id": 4021290
+        },
+        {
+            "name": "Love Will Tear Us Apart",
+            "artist": "Joy Division",
+            "id": 4133455
+        },
+        {
+            "name": "Shadowplay",
+            "artist": "Joy Division",
+            "id": 4132526
+        },
+        {
+            "name": "Decades",
+            "artist": "Joy Division",
+            "id": 4133453
+        },
+        {
+            "name": "Marquee Moon",
+            "artist": "Television",
+            "id": 19535557
+        },
+        {
+            "name": "No Glamour For Willi",
+            "artist": "Television",
+            "id": 22290966
+        },
+        {
+            "name": "Prove It",
+            "artist": "Television",
+            "id": 19535560
+        },
+        {
+            "name": "Carried Away (Remastered)",
+            "artist": "Television",
+            "id": 19535626
+        },
+        {
+            "name": "Enter Sandman",
+            "artist": "Metallica",
+            "id": 1696812
+        },
+        {
+            "name": "Orion",
+            "artist": "Metallica",
+            "id": 21162412
+        },
+        {
+            "name": "Fade To Black",
+            "artist": "Metallica",
+            "id": 1695819
+        },
+        {
+            "name": "I Heard It Through the Grapevine",
+            "artist": "Creedence Clearwater Revival",
+            "id": 1142443
+        },
+        {
+            "name": "Run Through The Jungle",
+            "artist": "Creedence Clearwater Revival",
+            "id": 1142686
+        },
+        {
+            "name": "Have You Ever Seen the Rain?",
+            "artist": "Creedence Clearwater Revival",
+            "id": 1142600
+        },
+        {
+            "name": "Fortunate Son",
+            "artist": "Creedence Clearwater Revival",
+            "id": 5057892
+        },
+        {
+            "name": "Bohemian Rhapsody",
+            "artist": "Queen",
+            "id": 1868553
+        },
+        {
+            "name": "We Are the Champions",
+            "artist": "Queen",
+            "id": 1868480
+        },
+        {
+            "name": "We Will Rock You",
+            "artist": "Queen",
+            "id": 1869271
+        },
+        {
+            "name": "Under Pressure (2011 Remaster)",
+            "artist": "Queen",
+            "id": 18317677
+        },
+        {
+            "name": "Gimme Shelter",
+            "artist": "The Rolling Stones",
+            "id": 4338428
+        },
+        {
+            "name": "Miss You",
+            "artist": "The Rolling Stones",
+            "id": 21969195
+        },
+        {
+            "name": "(I Can't Get No) Satisfaction",
+            "artist": "The Rolling Stones",
+            "id": 4336233
+        },
+        {
+            "name": "Riders on the Storm",
+            "artist": "The Doors",
+            "id": 4333931
+        },
+        {
+            "name": "An American Prayer",
+            "artist": "The Doors",
+            "id": 4333775
+        },
+        {
+            "name": "The End",
+            "artist": "The Doors",
+            "id": 26567129
+        },
+        {
+            "name": "People Are Strange",
+            "artist": "The Doors",
+            "id": 4330622
+        },
+        {
+            "name": "Behind Blue Eyes",
+            "artist": "The Who",
+            "id": 21973247
+        },
+        {
+            "name": "Eminence Front",
+            "artist": "The Who",
+            "id": 5049665
+        },
+        {
+            "name": "Who Are You",
+            "artist": "The Who",
+            "id": 21973056
+        },
+        {
+            "name": "Baba O'Riley",
+            "artist": "The Who",
+            "id": 21972611
+        },
+        {
+            "name": "Rock or Bust",
+            "artist": "AC/DC",
+            "id": 29499638
+        },
+        {
+            "name": "Highway to Hell",
+            "artist": "AC/DC",
+            "id": 3880720
+        },
+        {
+            "name": "Back In Black",
+            "artist": "AC/DC",
+            "id": 3879508
+        },
+        {
+            "name": "Still Loving You",
+            "artist": "Scorpions",
+            "id": 21733590
+        },
+        {
+            "name": "Always Somewhere (2015 - Remaster)",
+            "artist": "Scorpions",
+            "id": 4281350
+        },
+        {
+            "name": "Hurricane 2000",
+            "artist": "Scorpions",
+            "id": 4280256
+        },
+        {
+            "name": "Wind Of Change",
+            "artist": "Scorpions",
+            "id": 512648170
+        },
+        {
+            "name": "Hotel California (2013 Remaster)",
+            "artist": "Eagles",
+            "id": 26289183
+        },
+        {
+            "name": "Please Come Home for Christmas",
+            "artist": "Eagles",
+            "id": 4049611
+        },
+        {
+            "name": "Desperado (2013 Remaster)",
+            "artist": "Eagles",
+            "id": 4049791
+        },
+        {
+            "name": "In My Life",
+            "artist": "The Beatles",
+            "id": 1295518486
+        },
+        {
+            "name": "Let It Be (Remastered)",
+            "artist": "The Beatles",
+            "id": 4336098
+        },
+        {
+            "name": "Love Me Do",
+            "artist": "The Beatles",
+            "id": 503561326
+        },
+        {
+            "name": "Yesterday",
+            "artist": "The Beatles",
+            "id": 1295571534
+        },
+        {
+            "name": "Hey Jude (Original Mix)",
+            "artist": "The Beatles",
+            "id": 1412142634
+        },
+        {
+            "name": "With Or Without You",
+            "artist": "U2",
+            "id": 26292652
+        },
+        {
+            "name": "Beautiful Day",
+            "artist": "U2",
+            "id": 22004078
+        },
+        {
+            "name": "One",
+            "artist": "U2",
+            "id": 22003658
+        },
+        {
+            "name": "Losing My Religion",
+            "artist": "R.E.M.",
+            "id": 20282663
+        },
+        {
+            "name": "Everybody Hurts",
+            "artist": "R.E.M.",
+            "id": 20282676
+        },
+        {
+            "name": "ÜBerlin",
+            "artist": "R.E.M.",
+            "id": 20282846
+        },
+        {
+            "name": "Simple Man",
+            "artist": "Lynyrd Skynyrd",
+            "id": 4153382
+        },
+        {
+            "name": "Free Bird",
+            "artist": "Lynyrd Skynyrd",
+            "id": 21052194
+        },
+        {
+            "name": "Sweet Home Alabama",
+            "artist": "Lynyrd Skynyrd",
+            "id": 5057912
+        },
+        {
+            "name": "Nutshell",
+            "artist": "Alice in Chains",
+            "id": 16496990
+        },
+        {
+            "name": "Man in the Box",
+            "artist": "Alice in Chains",
+            "id": 16496953
+        },
+        {
+            "name": "Would?",
+            "artist": "Alice in Chains",
+            "id": 16497011
+        },
+        {
+            "name": "Come As You Are",
+            "artist": "Nirvana",
+            "id": 21303927
+        },
+        {
+            "name": "Smells Like Teen Spirit",
+            "artist": "Nirvana",
+            "id": 4208530
+        },
+        {
+            "name": "About a Girl",
+            "artist": "Nirvana",
+            "id": 4213098
+        },
+        {
+            "name": "Plateau (Live)",
+            "artist": "Nirvana",
+            "id": 21304207
+        },
+        {
+            "name": "Candy Says",
+            "artist": "The Velvet Underground",
+            "id": 19537505
+        },
+        {
+            "name": "Sunday Morning",
+            "artist": "The Velvet Underground",
+            "id": 19537516
+        },
+        {
+            "name": "Ride Into The Sun (Outtake Version)",
+            "artist": "The Velvet Underground",
+            "id": 19537548
+        },
+        {
+            "name": "The Temple Of The King",
+            "artist": "Rainbow",
+            "id": 21565047
+        },
+        {
+            "name": "Catch The Rainbow",
+            "artist": "Rainbow",
+            "id": 21564967
+        },
+        {
+            "name": "Carry on Till Tomorrow",
+            "artist": "Badfinger",
+            "id": 2199601
+        },
+        {
+            "name": "Baby Blue",
+            "artist": "Badfinger",
+            "id": 5047039
+        },
+        {
+            "name": "Without You",
+            "artist": "Badfinger",
+            "id": 2199935
+        },
+        {
+            "name": "Saturday Gigs (Album Version)",
+            "artist": "Mott the Hoople",
+            "id": 21115160
+        },
+        {
+            "name": "All the Young Dudes",
+            "artist": "Mott the Hoople",
+            "id": 21114955
+        },
+        {
+            "name": "Spicks And Specks",
+            "artist": "Bee Gees",
+            "id": 3952817
+        },
+        {
+            "name": "Massachusetts",
+            "artist": "Bee Gees",
+            "id": 3952987
+        },
+        {
+            "name": "Stayin' Alive (From \"Saturday Night Fever\" Soundtrack)",
+            "artist": "Bee Gees",
+            "id": 3952752
+        },
+        {
+            "name": "Night Fever (From \"Saturday Night Fever\" Soundtrack)",
+            "artist": "Bee Gees",
+            "id": 3952759
+        },
+        {
+            "name": "Fools Gold",
+            "artist": "The Stone Roses",
+            "id": 4338911
+        },
+        {
+            "name": "Made Of Stone",
+            "artist": "The Stone Roses",
+            "id": 4338895
+        },
+        {
+            "name": "Creep",
+            "artist": "Radiohead",
+            "id": 22605222
+        },
+        {
+            "name": "No Surprises",
+            "artist": "Radiohead",
+            "id": 22497479
+        },
+        {
+            "name": "Fake Plastic Trees",
+            "artist": "Radiohead",
+            "id": 18795423
+        },
+        {
+            "name": "Talk Show Host",
+            "artist": "Radiohead",
+            "id": 412911110
+        },
+        {
+            "name": "Sitting Here In Silence (On My Own)",
+            "artist": "Oasis",
+            "id": 17822810
+        },
+        {
+            "name": "Wonderwall",
+            "artist": "Oasis",
+            "id": 4226257
+        },
+        {
+            "name": "Don't Look Back In Anger",
+            "artist": "Oasis",
+            "id": 4226232
+        },
+        {
+            "name": "Supersonic",
+            "artist": "Oasis",
+            "id": 17822820
+        },
+        {
+            "name": "Fool's Day",
+            "artist": "Blur",
+            "id": 3951074
+        },
+        {
+            "name": "Ong Ong",
+            "artist": "Blur",
+            "id": 31246695
+        },
+        {
+            "name": "Song 2",
+            "artist": "Blur",
+            "id": 3951467
+        },
+        {
+            "name": "Jets",
+            "artist": "Blur",
+            "id": 3951385
+        },
+        {
+            "name": "So Young",
+            "artist": "Suede",
+            "id": 4279445
+        },
+        {
+            "name": "Everything Will Flow",
+            "artist": "Suede",
+            "id": 4279075
+        },
+        {
+            "name": "**** U",
+            "artist": "Placebo",
+            "id": 4235737
+        },
+        {
+            "name": "Twenty Years",
+            "artist": "Placebo",
+            "id": 22557327
+        },
+        {
+            "name": "Running Up That Hill",
+            "artist": "Placebo",
+            "id": 5039552
+        },
+        {
+            "name": "God Save The Queen",
+            "artist": "Sex Pistols",
+            "id": 399370271
+        },
+        {
+            "name": "Lonely Boy",
+            "artist": "Sex Pistols",
+            "id": 4335268
+        },
+        {
+            "name": "Zombie",
+            "artist": "The Cranberries",
+            "id": 4330114
+        },
+        {
+            "name": "Dying In the Sun",
+            "artist": "The Cranberries",
+            "id": 4330223
+        },
+        {
+            "name": "Never Grow Old",
+            "artist": "The Cranberries",
+            "id": 21971060
+        },
+        {
+            "name": "Livin' On A Prayer",
+            "artist": "Bon Jovi",
+            "id": 3950785
+        },
+        {
+            "name": "It's My Life",
+            "artist": "Bon Jovi",
+            "id": 3950546
+        },
+        {
+            "name": "You Give Love a Bad Name",
+            "artist": "Bon Jovi",
+            "id": 3951283
+        },
+        {
+            "name": "Fear of the Dark (Live At Estadio Nacional, Santiago)",
+            "artist": "Iron Maiden",
+            "id": 18353758
+        },
+        {
+            "name": "Trooper",
+            "artist": "Iron Maiden",
+            "id": 1461754
+        },
+        {
+            "name": "Holy Wars...The Punishment Due",
+            "artist": "Megadeth",
+            "id": 28701757
+        },
+        {
+            "name": "À Tout Le Monde [Set Me Free] (Album Version)",
+            "artist": "Megadeth",
+            "id": 21162906
+        },
+        {
+            "name": "Cemetery Gates (2010 Remaster)",
+            "artist": "Pantera",
+            "id": 18263404
+        },
+        {
+            "name": "Cowboys From Hell",
+            "artist": "Pantera",
+            "id": 3226893
+        },
+        {
+            "name": "Sweet Dreams (Are made of This)",
+            "artist": "Marilyn Manson",
+            "id": 4174272
+        },
+        {
+            "name": "Leave A Scar",
+            "artist": "Marilyn Manson",
+            "id": 21256232
+        },
+        {
+            "name": "This Is Halloween",
+            "artist": "Marilyn Manson",
+            "id": 1225059
+        },
+        {
+            "name": "Running To The Edge Of The World",
+            "artist": "Marilyn Manson",
+            "id": 21256236
+        },
+        {
+            "name": "I Want My Tears Back",
+            "artist": "Nightwish",
+            "id": 21311956
+        },
+        {
+            "name": "Last of the Wilds",
+            "artist": "Nightwish",
+            "id": 21312101
+        },
+        {
+            "name": "She Is My Sin",
+            "artist": "Nightwish",
+            "id": 4209157
+        },
+        {
+            "name": "Last Ride Of The Day",
+            "artist": "Nightwish",
+            "id": 21311962
+        },
+        {
+            "name": "Snuff (2012 Remaster)",
+            "artist": "Slipknot",
+            "id": 21616332
+        },
+        {
+            "name": "Psychosocial (2012 Remaster)",
+            "artist": "Slipknot",
+            "id": 21616330
+        },
+        {
+            "name": "Eifersucht",
+            "artist": "Rammstein",
+            "id": 4263218
+        },
+        {
+            "name": "Sehnsucht",
+            "artist": "Rammstein",
+            "id": 4263188
+        },
+        {
+            "name": "Long, Long Way To Go",
+            "artist": "Def Leppard",
+            "id": 2416600
+        },
+        {
+            "name": "Miss You in a Heartbeat",
+            "artist": "Def Leppard",
+            "id": 2416769
+        },
+        {
+            "name": "Let It Rain",
+            "artist": "Gotthard",
+            "id": 4085555
+        },
+        {
+            "name": "Make My Day",
+            "artist": "Gotthard",
+            "id": 18093962
+        },
+        {
+            "name": "Terror Couple Kill Colonel",
+            "artist": "Bauhaus",
+            "id": 27429892
+        },
+        {
+            "name": "Bela Lugosi's Dead",
+            "artist": "Bauhaus",
+            "id": 3954782
+        },
+        {
+            "name": "Every Breath You Take",
+            "artist": "The Police",
+            "id": 19553535
+        },
+        {
+            "name": "Wrapped Around Your Finger",
+            "artist": "The Police",
+            "id": 19553537
+        },
+        {
+            "name": "Epitaph (2009 Stereo Mix)",
+            "artist": "King Crimson",
+            "id": 4143641
+        },
+        {
+            "name": "Jump",
+            "artist": "Van Halen",
+            "id": 26192183
+        },
+        {
+            "name": "Can't Stop Lovin' You",
+            "artist": "Van Halen",
+            "id": 19703275
+        },
+        {
+            "name": "Ain't Talkin' 'Bout Love (2015 Remaster)",
+            "artist": "Van Halen",
+            "id": 19703255
+        },
+        {
+            "name": "Amazing",
+            "artist": "Aerosmith",
+            "id": 20506677
+        },
+        {
+            "name": "Dream On",
+            "artist": "Aerosmith",
+            "id": 20506035
+        },
+        {
+            "name": "18 and Life",
+            "artist": "Skid Row",
+            "id": 4279861
+        },
+        {
+            "name": "I Remember You",
+            "artist": "Skid Row",
+            "id": 4279879
+        },
+        {
+            "name": "Through The Rain",
+            "artist": "Cinderella",
+            "id": 1145216
+        },
+        {
+            "name": "Don't Know What You Got (Till It's Gone)",
+            "artist": "Cinderella",
+            "id": 20535671
+        },
+        {
+            "name": "To Be With You",
+            "artist": "Mr. Big",
+            "id": 26732962
+        },
+        {
+            "name": "Shine",
+            "artist": "Mr. Big",
+            "id": 21164307
+        },
+        {
+            "name": "Where Is My Mind",
+            "artist": "Pixies",
+            "id": 27070579
+        },
+        {
+            "name": "The Thing",
+            "artist": "Pixies",
+            "id": 18319165
+        },
+        {
+            "name": "Lullaby",
+            "artist": "The Cure",
+            "id": 4331335
+        },
+        {
+            "name": "Sugar Girl",
+            "artist": "The Cure",
+            "id": 21969941
+        },
+        {
+            "name": "Boulevard Of Broken Dreams",
+            "artist": "Green Day",
+            "id": 5159464
+        },
+        {
+            "name": "21 Guns",
+            "artist": "Green Day",
+            "id": 18127640
+        },
+        {
+            "name": "Wake Me up When September Ends",
+            "artist": "Green Day",
+            "id": 18127334
+        },
+        {
+            "name": "London Calling (Remastered)",
+            "artist": "The Clash",
+            "id": 19578239
+        },
+        {
+            "name": "Should I Stay Or Should I Go",
+            "artist": "The Clash",
+            "id": 19576970
+        },
+        {
+            "name": "Death Goes To The Disco",
+            "artist": "Pulp",
+            "id": 18304361
+        },
+        {
+            "name": "Underwear",
+            "artist": "Pulp",
+            "id": 18304520
+        },
+        {
+            "name": "Unintended",
+            "artist": "Muse",
+            "id": 21256075
+        },
+        {
+            "name": "Supremacy",
+            "artist": "Muse",
+            "id": 21255837
+        },
+        {
+            "name": "Numb",
+            "artist": "Linkin Park",
+            "id": 4153366
+        },
+        {
+            "name": "In The End",
+            "artist": "Linkin Park",
+            "id": 4153632
+        },
+        {
+            "name": "New Divide",
+            "artist": "Linkin Park",
+            "id": 16686610
+        },
+        {
+            "name": "Snow (Hey Oh)",
+            "artist": "Red Hot Chili Peppers",
+            "id": 1869719
+        },
+        {
+            "name": "Dani California",
+            "artist": "Red Hot Chili Peppers",
+            "id": 21535887
+        },
+        {
+            "name": "Yellow",
+            "artist": "Coldplay",
+            "id": 17177324
+        },
+        {
+            "name": "Viva La Vida",
+            "artist": "Coldplay",
+            "id": 3986017
+        }
+    ]
+}

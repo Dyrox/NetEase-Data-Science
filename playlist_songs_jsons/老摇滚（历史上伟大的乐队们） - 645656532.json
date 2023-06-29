@@ -1,0 +1,702 @@
+{
+    "playlist_info": {
+        "name": "老摇滚（历史上伟大的乐队们）",
+        "trackcount": 138,
+        "playcount": 324319,
+        "creator": "原野追逐w",
+        "createDate": "2017-03-29",
+        "heat": 142.0
+    },
+    "songs": [
+        {
+            "name": "Space Oddity (Mitty Mix)",
+            "artist": "David Bowie",
+            "id": 28143760
+        },
+        {
+            "name": "\"Heroes\"",
+            "artist": "David Bowie",
+            "id": 5119054
+        },
+        {
+            "name": "Starman (2012 Remaster)",
+            "artist": "David Bowie",
+            "id": 17290777
+        },
+        {
+            "name": "Sunday Morning",
+            "artist": "The Velvet Underground",
+            "id": 19537516
+        },
+        {
+            "name": "I'll Be Your Mirror",
+            "artist": "The Velvet Underground",
+            "id": 19537524
+        },
+        {
+            "name": "Perfect Day",
+            "artist": "Lou Reed",
+            "id": 20982871
+        },
+        {
+            "name": "Behind Blue Eyes",
+            "artist": "The Who",
+            "id": 21973247
+        },
+        {
+            "name": "My Generation",
+            "artist": "The Who",
+            "id": 4338718
+        },
+        {
+            "name": "Waterloo Sunset",
+            "artist": "The Kinks",
+            "id": 435166169
+        },
+        {
+            "name": "Til Death Do Us Part",
+            "artist": "The Kinks",
+            "id": 41554554
+        },
+        {
+            "name": "California Dreamin'",
+            "artist": "The Beach Boys",
+            "id": 27010017
+        },
+        {
+            "name": "Wouldn't It Be Nice",
+            "artist": "The Beach Boys",
+            "id": 5042210
+        },
+        {
+            "name": "Sweet Child O' Mine",
+            "artist": "Guns N' Roses",
+            "id": 18095043
+        },
+        {
+            "name": "November Rain",
+            "artist": "Guns N' Roses",
+            "id": 18094919
+        },
+        {
+            "name": "Don't Stop",
+            "artist": "The Rolling Stones",
+            "id": 26609781
+        },
+        {
+            "name": "Gimme Shelter",
+            "artist": "The Rolling Stones",
+            "id": 4338428
+        },
+        {
+            "name": "Crazy on You",
+            "artist": "Heart",
+            "id": 409430862
+        },
+        {
+            "name": "Alone",
+            "artist": "Heart",
+            "id": 2701810
+        },
+        {
+            "name": "Bohemian Rhapsody",
+            "artist": "Queen",
+            "id": 1868553
+        },
+        {
+            "name": "Killer Queen",
+            "artist": "Queen",
+            "id": 27198673
+        },
+        {
+            "name": "Under Pressure",
+            "artist": "Queen",
+            "id": 445702291
+        },
+        {
+            "name": "There Must Be More To Life Than This (William Orbit Mix)",
+            "artist": "Queen",
+            "id": 29718157
+        },
+        {
+            "name": "Barcelona",
+            "artist": "Freddie Mercury",
+            "id": 18317222
+        },
+        {
+            "name": "Jailhouse Rock",
+            "artist": "Elvis Presley",
+            "id": 20849874
+        },
+        {
+            "name": "Always On My Mind",
+            "artist": "Elvis Presley",
+            "id": 1299459
+        },
+        {
+            "name": "Rock And Roll All Nite",
+            "artist": "KISS",
+            "id": 2872255
+        },
+        {
+            "name": "I Was Made For Loving You",
+            "artist": "KISS",
+            "id": 5203758
+        },
+        {
+            "name": "House of the Rising Sun",
+            "artist": "The Animals",
+            "id": 3573790
+        },
+        {
+            "name": "Fade To Black",
+            "artist": "Metallica",
+            "id": 1695819
+        },
+        {
+            "name": "Made Of Stone",
+            "artist": "The Stone Roses",
+            "id": 4338895
+        },
+        {
+            "name": "What It Is",
+            "artist": "Mark Knopfler",
+            "id": 4017234
+        },
+        {
+            "name": "Sweet Home Alabama",
+            "artist": "Lynyrd Skynyrd",
+            "id": 5057912
+        },
+        {
+            "name": "Something In The Way",
+            "artist": "Nirvana",
+            "id": 21303946
+        },
+        {
+            "name": "Smells Like Teen Spirit",
+            "artist": "Nirvana",
+            "id": 4208530
+        },
+        {
+            "name": "Come As You Are",
+            "artist": "Nirvana",
+            "id": 21303927
+        },
+        {
+            "name": "Like a Rolling Stone",
+            "artist": "Bob Dylan",
+            "id": 22088550
+        },
+        {
+            "name": "Workingman's Blues #2",
+            "artist": "Bob Dylan",
+            "id": 22088971
+        },
+        {
+            "name": "My Back Pages",
+            "artist": "Bob Dylan",
+            "id": 25542198
+        },
+        {
+            "name": "Hey Jude",
+            "artist": "The Beatles",
+            "id": 4331344
+        },
+        {
+            "name": "A Day In The Life (Remastered)",
+            "artist": "The Beatles",
+            "id": 4336943
+        },
+        {
+            "name": "While My Guitar Gently Weeps (2018 Mix)",
+            "artist": "The Beatles",
+            "id": 1319138680
+        },
+        {
+            "name": "In My Life (Remastered)",
+            "artist": "The Beatles",
+            "id": 4337309
+        },
+        {
+            "name": "Here Comes The Sun (Remastered)",
+            "artist": "The Beatles",
+            "id": 4336330
+        },
+        {
+            "name": "Yellow Submarine (Remastered)",
+            "artist": "The Beatles",
+            "id": 4336606
+        },
+        {
+            "name": "Imagine",
+            "artist": "John Lennon",
+            "id": 26961953
+        },
+        {
+            "name": "Nobody Loves You (When You're Down And Out)",
+            "artist": "John Lennon",
+            "id": 1475363
+        },
+        {
+            "name": "Jealous Guy",
+            "artist": "John Lennon",
+            "id": 26961960
+        },
+        {
+            "name": "Baby, I Love You",
+            "artist": "Ramones",
+            "id": 3557068
+        },
+        {
+            "name": "Blitzkrieg Bop",
+            "artist": "Ramones",
+            "id": 27128326
+        },
+        {
+            "name": "Should I Stay Or Should I Go",
+            "artist": "The Clash",
+            "id": 19576970
+        },
+        {
+            "name": "London Calling (Remastered)",
+            "artist": "The Clash",
+            "id": 19578239
+        },
+        {
+            "name": "Death or Glory",
+            "artist": "The Clash",
+            "id": 19578250
+        },
+        {
+            "name": "Stairway to Heaven (Remaster)",
+            "artist": "Led Zeppelin",
+            "id": 29719536
+        },
+        {
+            "name": "All My Love (Remaster)",
+            "artist": "Led Zeppelin",
+            "id": 20065065
+        },
+        {
+            "name": "Immigrant Song",
+            "artist": "Led Zeppelin",
+            "id": 27289992
+        },
+        {
+            "name": "Everybody Hurts",
+            "artist": "Alexandra Burke",
+            "id": 5105621
+        },
+        {
+            "name": "Have A Nice Day",
+            "artist": "Bon Jovi",
+            "id": 16850569
+        },
+        {
+            "name": "It's My Life",
+            "artist": "Bon Jovi",
+            "id": 3950546
+        },
+        {
+            "name": "Modern Love",
+            "artist": "David Bowie",
+            "id": 5143924
+        },
+        {
+            "name": "Wish You Were Here",
+            "artist": "Pink Floyd",
+            "id": 4237923
+        },
+        {
+            "name": "Another Brick in the Wall, Pt. 2",
+            "artist": "Pink Floyd",
+            "id": 4237803
+        },
+        {
+            "name": "Comfortably Numb",
+            "artist": "Pink Floyd",
+            "id": 4237846
+        },
+        {
+            "name": "Creep",
+            "artist": "Radiohead",
+            "id": 22605222
+        },
+        {
+            "name": "No Surprises",
+            "artist": "Radiohead",
+            "id": 22497479
+        },
+        {
+            "name": "Man of War",
+            "artist": "Radiohead",
+            "id": 454811611
+        },
+        {
+            "name": "Wind of Change",
+            "artist": "Scorpions",
+            "id": 436355342
+        },
+        {
+            "name": "The Temple of the King",
+            "artist": "Scorpions",
+            "id": 28380013
+        },
+        {
+            "name": "Still Loving You",
+            "artist": "Scorpions",
+            "id": 21733590
+        },
+        {
+            "name": "Baby Blue",
+            "artist": "Badfinger",
+            "id": 5047039
+        },
+        {
+            "name": "Without You",
+            "artist": "Badfinger",
+            "id": 2199935
+        },
+        {
+            "name": "Wake Me up When September Ends",
+            "artist": "Green Day",
+            "id": 18127334
+        },
+        {
+            "name": "American Idiot",
+            "artist": "Green Day",
+            "id": 18127316
+        },
+        {
+            "name": "Welcome To The Jungle",
+            "artist": "Guns N' Roses",
+            "id": 18095027
+        },
+        {
+            "name": "Knockin' On Heaven's Door",
+            "artist": "Guns N' Roses",
+            "id": 18095057
+        },
+        {
+            "name": "Patience",
+            "artist": "Guns N' Roses",
+            "id": 18095092
+        },
+        {
+            "name": "Estranged",
+            "artist": "Guns N' Roses",
+            "id": 18095077
+        },
+        {
+            "name": "Dream On",
+            "artist": "Aerosmith",
+            "id": 20506035
+        },
+        {
+            "name": "Amazing",
+            "artist": "Aerosmith",
+            "id": 20506677
+        },
+        {
+            "name": "Cryin'",
+            "artist": "Aerosmith",
+            "id": 3881799
+        },
+        {
+            "name": "Thunderstruck",
+            "artist": "AC/DC",
+            "id": 3879510
+        },
+        {
+            "name": "Highway to Hell",
+            "artist": "AC/DC",
+            "id": 3880720
+        },
+        {
+            "name": "Wild Horses",
+            "artist": "The Rolling Stones",
+            "id": 29418838
+        },
+        {
+            "name": "She's A Rainbow",
+            "artist": "The Rolling Stones",
+            "id": 26609762
+        },
+        {
+            "name": "Two Less Lonely People in the World",
+            "artist": "Air Supply",
+            "id": 3880325
+        },
+        {
+            "name": "All Out of Love",
+            "artist": "Air Supply",
+            "id": 3881432
+        },
+        {
+            "name": "Making Love Out Of Nothing At All (Live)",
+            "artist": "Air Supply",
+            "id": 3879847
+        },
+        {
+            "name": "Fortunate Son",
+            "artist": "Creedence Clearwater Revival",
+            "id": 5057892
+        },
+        {
+            "name": "Wonderful Tonight",
+            "artist": "Eric Clapton",
+            "id": 5048569
+        },
+        {
+            "name": "Can't Fight This Feeling",
+            "artist": "REO Speedwagon",
+            "id": 22066038
+        },
+        {
+            "name": "Supersonic",
+            "artist": "Oasis",
+            "id": 17822820
+        },
+        {
+            "name": "Wonderwall",
+            "artist": "Oasis",
+            "id": 4226257
+        },
+        {
+            "name": "Don't Look Back In Anger",
+            "artist": "Oasis",
+            "id": 4226232
+        },
+        {
+            "name": "Stop Crying Your Heart Out",
+            "artist": "Oasis",
+            "id": 4225537
+        },
+        {
+            "name": "Dreamer",
+            "artist": "Ozzy Osbourne",
+            "id": 21318343
+        },
+        {
+            "name": "Goodbye to Romance (Remastered)",
+            "artist": "Ozzy Osbourne",
+            "id": 1809431
+        },
+        {
+            "name": "Snow (Hey Oh)",
+            "artist": "Red Hot Chili Peppers",
+            "id": 1869719
+        },
+        {
+            "name": "Can't Stop",
+            "artist": "Red Hot Chili Peppers",
+            "id": 1869733
+        },
+        {
+            "name": "The Longest Wave",
+            "artist": "Red Hot Chili Peppers",
+            "id": 417250652
+        },
+        {
+            "name": "With Or Without You",
+            "artist": "U2",
+            "id": 26292652
+        },
+        {
+            "name": "Ordinary Love",
+            "artist": "U2",
+            "id": 28038562
+        },
+        {
+            "name": "Stuck In a Moment You Can't Get Out Of (Live at the Rock & Roll Hall of Fame)",
+            "artist": "Mick Jagger",
+            "id": 4407035
+        },
+        {
+            "name": "After the Gold Rush",
+            "artist": "Patti Smith",
+            "id": 18212266
+        },
+        {
+            "name": "Old Man",
+            "artist": "Neil Young (Additional Vocals by James Taylor and Linda Ronstadt)",
+            "id": 21321431
+        },
+        {
+            "name": "Heart of Gold",
+            "artist": "Neil Young",
+            "id": 27317272
+        },
+        {
+            "name": "Old Time Rock and Roll",
+            "artist": "Bob Seger",
+            "id": 1098827
+        },
+        {
+            "name": "Since You Been Gone",
+            "artist": "Rainbow",
+            "id": 21565010
+        },
+        {
+            "name": "At My Most Beautiful",
+            "artist": "R.E.M.",
+            "id": 20283082
+        },
+        {
+            "name": "Everybody Hurts",
+            "artist": "R.E.M.",
+            "id": 20283081
+        },
+        {
+            "name": "Man on the Moon",
+            "artist": "R.E.M.",
+            "id": 20282682
+        },
+        {
+            "name": "Supersonic Rocket Ship",
+            "artist": "The Kinks",
+            "id": 19455142
+        },
+        {
+            "name": "Girlfriend in a Coma",
+            "artist": "The Smiths",
+            "id": 26653070
+        },
+        {
+            "name": "To The Sky",
+            "artist": "The Cure",
+            "id": 21969945
+        },
+        {
+            "name": "Every Breath You Take",
+            "artist": "The Police",
+            "id": 19553535
+        },
+        {
+            "name": "Paranoid",
+            "artist": "Black Sabbath",
+            "id": 16837172
+        },
+        {
+            "name": "Smoke on the Water (Live)",
+            "artist": "Deep Purple",
+            "id": 4019242
+        },
+        {
+            "name": "Back In Black",
+            "artist": "AC/DC",
+            "id": 3880691
+        },
+        {
+            "name": "You Shook Me All Night Long",
+            "artist": "AC/DC",
+            "id": 3880694
+        },
+        {
+            "name": "Hotel California (2013 Remaster)",
+            "artist": "Eagles",
+            "id": 26289183
+        },
+        {
+            "name": "Take It Easy (2013 Remaster)",
+            "artist": "Eagles",
+            "id": 4049832
+        },
+        {
+            "name": "Waiting in the Weeds",
+            "artist": "Eagles",
+            "id": 17678527
+        },
+        {
+            "name": "Wild World",
+            "artist": "Mr. Big",
+            "id": 1699275
+        },
+        {
+            "name": "To Be With You",
+            "artist": "Mr. Big",
+            "id": 26732962
+        },
+        {
+            "name": "This Time",
+            "artist": "Suede",
+            "id": 4279139
+        },
+        {
+            "name": "Beautiful Ones",
+            "artist": "Suede",
+            "id": 26109630
+        },
+        {
+            "name": "Lost in TV",
+            "artist": "Suede",
+            "id": 4278856
+        },
+        {
+            "name": "Life is Golden",
+            "artist": "Suede",
+            "id": 1301970434
+        },
+        {
+            "name": "Miss You in a Heartbeat",
+            "artist": "Def Leppard",
+            "id": 2416769
+        },
+        {
+            "name": "Ong Ong",
+            "artist": "Blur",
+            "id": 31246695
+        },
+        {
+            "name": "Fool's Day",
+            "artist": "Blur",
+            "id": 3951074
+        },
+        {
+            "name": "Crocodile Rock",
+            "artist": "Elton John",
+            "id": 17550718
+        },
+        {
+            "name": "Saturday Night's Alright For Fighting",
+            "artist": "Elton John",
+            "id": 5187043
+        },
+        {
+            "name": "Rocket Man",
+            "artist": "Elton John",
+            "id": 26650576
+        },
+        {
+            "name": "Can't Take My Eyes off You",
+            "artist": "Muse",
+            "id": 21256124
+        },
+        {
+            "name": "Unintended",
+            "artist": "Muse",
+            "id": 21256075
+        },
+        {
+            "name": "I Hate Myself for Loving You",
+            "artist": "Joan Jett & the Blackhearts",
+            "id": 4132379
+        },
+        {
+            "name": "Jump",
+            "artist": "Van Halen",
+            "id": 26192183
+        },
+        {
+            "name": "Who Loves The Sun",
+            "artist": "The Velvet Underground",
+            "id": 19537218
+        },
+        {
+            "name": "Pale Blue Eyes",
+            "artist": "The Velvet Underground",
+            "id": 19537508
+        }
+    ]
+}

@@ -1,0 +1,612 @@
+{
+    "playlist_info": {
+        "name": "野餐/郊游/天台派对bgm~让心情变好",
+        "trackcount": 120,
+        "playcount": 53915,
+        "creator": "早起头发会炸毛",
+        "createDate": "2023-06-13",
+        "heat": 3458.0
+    },
+    "songs": [
+        {
+            "name": "还是分开",
+            "artist": "张叶蕾",
+            "id": 465921195
+        },
+        {
+            "name": "最后一首情歌",
+            "artist": "苏琛",
+            "id": 34497630
+        },
+        {
+            "name": "花.间.酒",
+            "artist": "澄海伯伯",
+            "id": 573615289
+        },
+        {
+            "name": "小丑女",
+            "artist": "杨和苏KeyNG",
+            "id": 1442320451
+        },
+        {
+            "name": "老银",
+            "artist": "某幻君",
+            "id": 1986002384
+        },
+        {
+            "name": "backbone",
+            "artist": "404 RAPPER",
+            "id": 1847059460
+        },
+        {
+            "name": "轻描淡写",
+            "artist": "虎皮蛋",
+            "id": 1999019262
+        },
+        {
+            "name": "不喜欢下雨天",
+            "artist": "PIggy",
+            "id": 1371046568
+        },
+        {
+            "name": "唯一 (prod.gc)",
+            "artist": "KnowKnow",
+            "id": 1486672308
+        },
+        {
+            "name": "脏艺术家 (Live)",
+            "artist": "MC HotDog 热狗",
+            "id": 1973748377
+        },
+        {
+            "name": "他在乎（我去世了，然后...）",
+            "artist": "Spylent",
+            "id": 1924072773
+        },
+        {
+            "name": "天上飞",
+            "artist": "二狗子Saddoggy",
+            "id": 1474861444
+        },
+        {
+            "name": "我的新衣 (feat. Ty. & 王倩倩)",
+            "artist": "VaVa毛衍七",
+            "id": 511229030
+        },
+        {
+            "name": "寂寞先生",
+            "artist": "马英伦",
+            "id": 516571913
+        },
+        {
+            "name": "珍珠幻象 (Live)",
+            "artist": "GALI",
+            "id": 1487527157
+        },
+        {
+            "name": "放肆",
+            "artist": "许嵩",
+            "id": 1486095911
+        },
+        {
+            "name": "海阔天空",
+            "artist": "Beyond",
+            "id": 400162138
+        },
+        {
+            "name": "追梦赤子心",
+            "artist": "GALA",
+            "id": 355992
+        },
+        {
+            "name": "路西法",
+            "artist": "杨和苏KeyNG",
+            "id": 1836412740
+        },
+        {
+            "name": "土黑娃 ft.thomeboydontkill",
+            "artist": "艾志恒Asen",
+            "id": 1964696171
+        },
+        {
+            "name": "4012",
+            "artist": "07Kevin",
+            "id": 2032500129
+        },
+        {
+            "name": "无拘",
+            "artist": "林俊杰",
+            "id": 1973296374
+        },
+        {
+            "name": "还可以",
+            "artist": "Jony J",
+            "id": 1886371882
+        },
+        {
+            "name": "Summer Boy",
+            "artist": "王瀚哲 (中国BOY)",
+            "id": 1476422099
+        },
+        {
+            "name": "摇人",
+            "artist": "某幻君",
+            "id": 1883633155
+        },
+        {
+            "name": "好想爱这个世界啊 (Live)",
+            "artist": "华晨宇",
+            "id": 1436910205
+        },
+        {
+            "name": "隆里电丝 (Live)",
+            "artist": "盛宇D-SHINE",
+            "id": 1964443044
+        },
+        {
+            "name": "十年",
+            "artist": "陈奕迅",
+            "id": 66842
+        },
+        {
+            "name": "会魔法的老人",
+            "artist": "法老",
+            "id": 1988564487
+        },
+        {
+            "name": "浪流連",
+            "artist": "茄子蛋",
+            "id": 1307822531
+        },
+        {
+            "name": "极恶都市",
+            "artist": "夏日入侵企画",
+            "id": 570340213
+        },
+        {
+            "name": "脸红接收处",
+            "artist": "PIggy",
+            "id": 1813590062
+        },
+        {
+            "name": "大反派",
+            "artist": "杨和苏KeyNG",
+            "id": 1487009099
+        },
+        {
+            "name": "人间萤火",
+            "artist": "夏日入侵企画",
+            "id": 1954090536
+        },
+        {
+            "name": "慢半拍",
+            "artist": "薛之谦",
+            "id": 1374061028
+        },
+        {
+            "name": "魔动闪霸：对手",
+            "artist": "魔动闪霸",
+            "id": 1976501328
+        },
+        {
+            "name": "负重一万斤长大",
+            "artist": "太一",
+            "id": 1406686876
+        },
+        {
+            "name": "城市逃离计划",
+            "artist": "NickTheWorld",
+            "id": 1822834628
+        },
+        {
+            "name": "热爱105°C的你",
+            "artist": "阿肆",
+            "id": 1840459406
+        },
+        {
+            "name": "欢迎光临",
+            "artist": "Jony J",
+            "id": 1805842261
+        },
+        {
+            "name": "日不落",
+            "artist": "蔡依林",
+            "id": 209643
+        },
+        {
+            "name": "卫星Satellite (Live)",
+            "artist": "李佳隆",
+            "id": 1476449942
+        },
+        {
+            "name": "Princess",
+            "artist": "XMASwu(吴骜)",
+            "id": 1869248652
+        },
+        {
+            "name": "CHEKI",
+            "artist": "那奇沃夫",
+            "id": 1972975002
+        },
+        {
+            "name": "有谱 (Live)",
+            "artist": "李昂星",
+            "id": 1880849699
+        },
+        {
+            "name": "想你知道",
+            "artist": "余奥成Ace",
+            "id": 1873679928
+        },
+        {
+            "name": "伪善者",
+            "artist": "金渔",
+            "id": 1929356674
+        },
+        {
+            "name": "以梦为马",
+            "artist": "NINEONE#赵馨玥",
+            "id": 1490362193
+        },
+        {
+            "name": "My Place",
+            "artist": "MIC男团",
+            "id": 368173
+        },
+        {
+            "name": "危险派对",
+            "artist": "王以太",
+            "id": 1877996649
+        },
+        {
+            "name": "无名之辈",
+            "artist": "陈雪燃",
+            "id": 1376142151
+        },
+        {
+            "name": "致命情人",
+            "artist": "方拾贰（方十二）",
+            "id": 1472030436
+        },
+        {
+            "name": "想去海边",
+            "artist": "夏日入侵企画",
+            "id": 1413863166
+        },
+        {
+            "name": "在那之后",
+            "artist": "缪礼丞",
+            "id": 1992695240
+        },
+        {
+            "name": "But U",
+            "artist": "NINEONE#赵馨玥",
+            "id": 1459232593
+        },
+        {
+            "name": "what that means ？",
+            "artist": "鹿子野",
+            "id": 1817144743
+        },
+        {
+            "name": "豫盖弥章",
+            "artist": "杨和苏KeyNG",
+            "id": 1487212140
+        },
+        {
+            "name": "学不会",
+            "artist": "林俊杰",
+            "id": 108134
+        },
+        {
+            "name": "断点",
+            "artist": "巧乐兹",
+            "id": 1383909126
+        },
+        {
+            "name": "当爱在靠近",
+            "artist": "刘若英",
+            "id": 254460
+        },
+        {
+            "name": "1 AM",
+            "artist": "thomeboydontkill",
+            "id": 2013290415
+        },
+        {
+            "name": "所以你睡了没",
+            "artist": "沙一汀EL",
+            "id": 1449416890
+        },
+        {
+            "name": "Manta",
+            "artist": "刘柏辛Lexie",
+            "id": 1409329965
+        },
+        {
+            "name": "PUA",
+            "artist": "虎皮蛋",
+            "id": 2012418249
+        },
+        {
+            "name": "你不是一个人",
+            "artist": "张信哲",
+            "id": 1973067211
+        },
+        {
+            "name": "彩虹",
+            "artist": "TimeZ",
+            "id": 412902095
+        },
+        {
+            "name": "人体解冻",
+            "artist": "姜涵John Senco",
+            "id": 1833391733
+        },
+        {
+            "name": "Pull Up",
+            "artist": "MC HotDog 热狗",
+            "id": 1938019211
+        },
+        {
+            "name": "风的颜色",
+            "artist": "NINEONE#赵馨玥",
+            "id": 1355896807
+        },
+        {
+            "name": "6ackPack",
+            "artist": "GALI",
+            "id": 1921262342
+        },
+        {
+            "name": "我们的歌",
+            "artist": "王力宏",
+            "id": 25642952
+        },
+        {
+            "name": "奴隶",
+            "artist": "Jony J",
+            "id": 534542490
+        },
+        {
+            "name": "花花公子 (feat. step.jad)",
+            "artist": "马思唯",
+            "id": 1426022018
+        },
+        {
+            "name": "街头爱",
+            "artist": "KIV",
+            "id": 1958727888
+        },
+        {
+            "name": "帅特日记",
+            "artist": "银河系长",
+            "id": 1913874332
+        },
+        {
+            "name": "大城小爱",
+            "artist": "王力宏",
+            "id": 573968818
+        },
+        {
+            "name": "豆瓣酱",
+            "artist": "马思唯",
+            "id": 1814769698
+        },
+        {
+            "name": "Don't Worry",
+            "artist": "王齐铭WatchMe",
+            "id": 1410783936
+        },
+        {
+            "name": "抽象画家",
+            "artist": "KKECHO",
+            "id": 1970392508
+        },
+        {
+            "name": "烈火战马+空城计+重庆魂 (Live)",
+            "artist": "GAI周延",
+            "id": 1478384763
+        },
+        {
+            "name": "吉他初恋",
+            "artist": "刘大壮",
+            "id": 1840694022
+        },
+        {
+            "name": "心墙",
+            "artist": "林俊杰",
+            "id": 108263
+        },
+        {
+            "name": "鱼",
+            "artist": "冯政FireDrippin",
+            "id": 1436575829
+        },
+        {
+            "name": "暗恋是一首按了静音的歌",
+            "artist": "王贰浪",
+            "id": 1918615133
+        },
+        {
+            "name": "天下",
+            "artist": "张杰",
+            "id": 191254
+        },
+        {
+            "name": "这首歌没唱直接听",
+            "artist": "姜云升",
+            "id": 1315952365
+        },
+        {
+            "name": "带我去找夜生活",
+            "artist": "告五人",
+            "id": 1410647903
+        },
+        {
+            "name": "五百二十赫兹",
+            "artist": "Capper",
+            "id": 1948572170
+        },
+        {
+            "name": "雨过天不晴",
+            "artist": "柯柯柯啊",
+            "id": 2031912194
+        },
+        {
+            "name": "Beautiful",
+            "artist": "IAN-T",
+            "id": 862460559
+        },
+        {
+            "name": "Rapping freestyle",
+            "artist": "ICE杨长青",
+            "id": 1948756996
+        },
+        {
+            "name": "无人知晓的我",
+            "artist": "黄丽玲",
+            "id": 507364094
+        },
+        {
+            "name": "最渣男主角",
+            "artist": "Shooter",
+            "id": 1894316939
+        },
+        {
+            "name": "红色高跟鞋",
+            "artist": "蔡健雅",
+            "id": 208902
+        },
+        {
+            "name": "Ice Cube",
+            "artist": "NINEONE#赵馨玥",
+            "id": 1467957152
+        },
+        {
+            "name": "爱如火",
+            "artist": "那艺娜",
+            "id": 1999552137
+        },
+        {
+            "name": "The job song",
+            "artist": "贝卡",
+            "id": 1980023227
+        },
+        {
+            "name": "入阵曲",
+            "artist": "张晓涵",
+            "id": 1844681125
+        },
+        {
+            "name": "绿色翡翠",
+            "artist": "KEY.L刘聪",
+            "id": 1913073574
+        },
+        {
+            "name": "预言",
+            "artist": "打扰一下乐团",
+            "id": 34167149
+        },
+        {
+            "name": "私有黄昏",
+            "artist": "陈麒名",
+            "id": 1940785796
+        },
+        {
+            "name": "为什么不回消息",
+            "artist": "xxxmiracle",
+            "id": 1897071064
+        },
+        {
+            "name": "游京",
+            "artist": "海伦",
+            "id": 1368398851
+        },
+        {
+            "name": "情绪收音机",
+            "artist": "侯东Holdon",
+            "id": 1906009576
+        },
+        {
+            "name": "独到",
+            "artist": "高睿",
+            "id": 1940943649
+        },
+        {
+            "name": "月下",
+            "artist": "苏运莹",
+            "id": 1993067247
+        },
+        {
+            "name": "巅峰期",
+            "artist": "谟西Mercy",
+            "id": 1992510462
+        },
+        {
+            "name": "坦白",
+            "artist": "KnowKnow",
+            "id": 1903349476
+        },
+        {
+            "name": "一分钟恋人",
+            "artist": "GG啵！",
+            "id": 1822221871
+        },
+        {
+            "name": "我们打着光脚在风车下跑，手上的狗尾巴草摇啊摇",
+            "artist": "等一下就回家",
+            "id": 1838505400
+        },
+        {
+            "name": "Uh (feat.马思唯/PSY.P/Melo)",
+            "artist": "KnowKnow",
+            "id": 1995496604
+        },
+        {
+            "name": "国王与法老",
+            "artist": "杨和苏KeyNG",
+            "id": 1858696234
+        },
+        {
+            "name": "童话镇",
+            "artist": "暗杠",
+            "id": 413829859
+        },
+        {
+            "name": "无法坠入爱河 (Punk Version)",
+            "artist": "未来星B3Rich",
+            "id": 1490611167
+        },
+        {
+            "name": "袈裟",
+            "artist": "卦者灵风",
+            "id": 2021168514
+        },
+        {
+            "name": "爱情慢慢来",
+            "artist": "Stake",
+            "id": 1846292840
+        },
+        {
+            "name": "花,太阳,彩虹,你",
+            "artist": "Mai",
+            "id": 1826189041
+        },
+        {
+            "name": "爱，存在",
+            "artist": "魏奇奇",
+            "id": 864647494
+        },
+        {
+            "name": "Promise",
+            "artist": "HARIKIRI",
+            "id": 1823305772
+        },
+        {
+            "name": "情人",
+            "artist": "蔡徐坤",
+            "id": 1450574147
+        }
+    ]
+}

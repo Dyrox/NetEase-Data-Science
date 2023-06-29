@@ -1,0 +1,627 @@
+{
+    "playlist_info": {
+        "name": "慵懒温暖浪漫的法语歌曲精选",
+        "trackcount": 123,
+        "playcount": 841099,
+        "creator": "传奇崇尚缄默",
+        "createDate": "2018-12-24",
+        "heat": 510.0
+    },
+    "songs": [
+        {
+            "name": "Je Ne Serai Jamais Ta Parisienne",
+            "artist": "Nolwenn Leroy",
+            "id": 3164992
+        },
+        {
+            "name": "Je m'appelle Hélène",
+            "artist": "Hélène Rolles",
+            "id": 555731802
+        },
+        {
+            "name": "28º À L'Ombre",
+            "artist": "Jean-Francois Maurice",
+            "id": 1606883
+        },
+        {
+            "name": "Magic Boul'vard",
+            "artist": "François Feldman",
+            "id": 1347112
+        },
+        {
+            "name": "La Javanaise",
+            "artist": "Madeleine Peyroux",
+            "id": 521731469
+        },
+        {
+            "name": "Jardin d'hiver",
+            "artist": "Henri Salvador",
+            "id": 18177058
+        },
+        {
+            "name": "Ma femme c'est pas ma meuf",
+            "artist": "Gérard Darmon",
+            "id": 1383624
+        },
+        {
+            "name": "Le Temps Des Fleurs",
+            "artist": "Dalida",
+            "id": 2499447
+        },
+        {
+            "name": "Neige",
+            "artist": "Cécile Corbel",
+            "id": 36019606
+        },
+        {
+            "name": "Les Feuilles Mortes",
+            "artist": "Iggy Pop",
+            "id": 22627744
+        },
+        {
+            "name": "you belong to me",
+            "artist": "Carla Bruni",
+            "id": 17086516
+        },
+        {
+            "name": "Encore une Fois",
+            "artist": "Hélène Ségara",
+            "id": 19932017
+        },
+        {
+            "name": "Je n'attendais Que Vous",
+            "artist": "Garou",
+            "id": 17974925
+        },
+        {
+            "name": "Solenzara",
+            "artist": "Enrico Macias",
+            "id": 22511532
+        },
+        {
+            "name": "Si C'Est La Vie",
+            "artist": "Berry",
+            "id": 2187888
+        },
+        {
+            "name": "Dans les rues de ma jeunesse",
+            "artist": "Gérard Darmon",
+            "id": 1383610
+        },
+        {
+            "name": "Ta Lettre",
+            "artist": "Gérard Darmon",
+            "id": 19861302
+        },
+        {
+            "name": "Non, Je Ne Regrette Rien",
+            "artist": "Édith Piaf",
+            "id": 2532527
+        },
+        {
+            "name": "La noyée",
+            "artist": "Carla Bruni",
+            "id": 17086547
+        },
+        {
+            "name": "Mistral gagnant",
+            "artist": "Renaud",
+            "id": 22417581
+        },
+        {
+            "name": "Honey",
+            "artist": "Tina Karol",
+            "id": 3772994
+        },
+        {
+            "name": "Amireux",
+            "artist": "Gérard Darmon",
+            "id": 1383635
+        },
+        {
+            "name": "And The Winner Is",
+            "artist": "Gérard Darmon",
+            "id": 1383639
+        },
+        {
+            "name": "Cest si bon",
+            "artist": "Tina May",
+            "id": 3781872
+        },
+        {
+            "name": "Jardin d'hiver",
+            "artist": "Emilie-Claire Barlow",
+            "id": 2540982
+        },
+        {
+            "name": "Les Champs - Elysées",
+            "artist": "Chantal Chamberland",
+            "id": 2326300
+        },
+        {
+            "name": "Mixtape",
+            "artist": "Barcella",
+            "id": 27552715
+        },
+        {
+            "name": "Le portrait",
+            "artist": "Calogero",
+            "id": 28958596
+        },
+        {
+            "name": "La Maladie D'amour",
+            "artist": "Michel Sardou",
+            "id": 27091517
+        },
+        {
+            "name": "Je M'Suis Fait Tout Petit",
+            "artist": "Georges Brassens",
+            "id": 5196734
+        },
+        {
+            "name": "Si t'étais là",
+            "artist": "Louane",
+            "id": 512648075
+        },
+        {
+            "name": "Est-ce que tu m'aimes (FlyBoy Remix)",
+            "artist": "FlyBoy",
+            "id": 410446670
+        },
+        {
+            "name": "Hommage au passant d'un soir",
+            "artist": "Yves Duteil",
+            "id": 20752863
+        },
+        {
+            "name": "Tu vas me manquer (Pilule Bleue)",
+            "artist": "GIMS",
+            "id": 36025856
+        },
+        {
+            "name": "Donne-Moi le Temps",
+            "artist": "Jenifer",
+            "id": 2867462
+        },
+        {
+            "name": "Les yeux de Marie",
+            "artist": "Andrea Lindsay",
+            "id": 2178067
+        },
+        {
+            "name": "L'oiseau / Sébastien et Esther",
+            "artist": "Zaz",
+            "id": 29095350
+        },
+        {
+            "name": "Belle (Du film « Belle et Sébastien »)",
+            "artist": "Zaz",
+            "id": 29095319
+        },
+        {
+            "name": "Yesterday Yes a Day",
+            "artist": "Jane Birkin",
+            "id": 2774360
+        },
+        {
+            "name": "Lentement",
+            "artist": "Marc Lavoine",
+            "id": 21169954
+        },
+        {
+            "name": "J'Espère",
+            "artist": "Marc Lavoine",
+            "id": 21170046
+        },
+        {
+            "name": "This Is Not A Love Song",
+            "artist": "Nouvelle Vague",
+            "id": 1789353
+        },
+        {
+            "name": "Not Going Anywhere",
+            "artist": "Keren Ann",
+            "id": 2870859
+        },
+        {
+            "name": "Right Now & Right Here",
+            "artist": "Keren Ann",
+            "id": 2870865
+        },
+        {
+            "name": "Speak Softly Love",
+            "artist": "Keren Ann",
+            "id": 28253280
+        },
+        {
+            "name": "End of May",
+            "artist": "Keren Ann",
+            "id": 2870862
+        },
+        {
+            "name": "La ceinture (Radio Edit)",
+            "artist": "Élodie Frégé",
+            "id": 2576792
+        },
+        {
+            "name": "À toi",
+            "artist": "Hélène Ségara",
+            "id": 27836312
+        },
+        {
+            "name": "A la Renverse",
+            "artist": "Hélène Ségara",
+            "id": 2699940
+        },
+        {
+            "name": "Encore Une Fois",
+            "artist": "Hélène Ségara",
+            "id": 2700307
+        },
+        {
+            "name": "La Famille Que L'On A Choisie",
+            "artist": "Hélène Ségara",
+            "id": 2700003
+        },
+        {
+            "name": "Salut",
+            "artist": "Hélène Ségara",
+            "id": 27836311
+        },
+        {
+            "name": "La minute de silence",
+            "artist": "Elie Semoun",
+            "id": 1337640
+        },
+        {
+            "name": "Alice",
+            "artist": "Paris Brune",
+            "id": 4254245
+        },
+        {
+            "name": "Juste comme ça",
+            "artist": "Mickael Miro",
+            "id": 1778873
+        },
+        {
+            "name": "La Vie Simplement",
+            "artist": "Mickael Miro",
+            "id": 26297743
+        },
+        {
+            "name": "L’envie d’écrire",
+            "artist": "Laurie Darmon",
+            "id": 30841950
+        },
+        {
+            "name": "Week end à Rome",
+            "artist": "Nouvelle Vague",
+            "id": 1788707
+        },
+        {
+            "name": "Les Champs-Elysées",
+            "artist": "Joe Dassin",
+            "id": 18578046
+        },
+        {
+            "name": "Je ne sais pas choisir",
+            "artist": "Emily Loizeau",
+            "id": 2583725
+        },
+        {
+            "name": "旅行的意义",
+            "artist": "Clémentine",
+            "id": 28411657
+        },
+        {
+            "name": "Itsi Bitsi Petit Bikini",
+            "artist": "Clémentine",
+            "id": 2311530
+        },
+        {
+            "name": "Danser Sur Le Disco",
+            "artist": "La Grande Sophie",
+            "id": 21014925
+        },
+        {
+            "name": "Tu N'As Pas Cherché...",
+            "artist": "La Grande Sophie",
+            "id": 21014930
+        },
+        {
+            "name": "Demain",
+            "artist": "Berry",
+            "id": 16802335
+        },
+        {
+            "name": "Mengele y el Amor",
+            "artist": "Klaus & Kinski",
+            "id": 2872953
+        },
+        {
+            "name": "Maintenant",
+            "artist": "Rupa & the April Fishes",
+            "id": 5150186
+        },
+        {
+            "name": "Ou Est Ma Tete?",
+            "artist": "Pink Martini",
+            "id": 18212695
+        },
+        {
+            "name": "L'Aquoiboniste",
+            "artist": "Jane Birkin",
+            "id": 2774526
+        },
+        {
+            "name": "Bella",
+            "artist": "Kendji Girac",
+            "id": 29345642
+        },
+        {
+            "name": "ユー・アー・マイ・サンシャイン",
+            "artist": "Clémentine",
+            "id": 2311428
+        },
+        {
+            "name": "Rupture",
+            "artist": "Laurie Darmon",
+            "id": 30841946
+        },
+        {
+            "name": "Les rois du monde",
+            "artist": "Gérard Presgurvic",
+            "id": 1415587
+        },
+        {
+            "name": "Est-ce que tu m'aimes ?",
+            "artist": "GIMS",
+            "id": 32063790
+        },
+        {
+            "name": "La Vie En Rose (Louis Armstrong)",
+            "artist": "Philippe Rombi",
+            "id": 1839601
+        },
+        {
+            "name": "Je te ressemble",
+            "artist": "Axel Tony",
+            "id": 28103270
+        },
+        {
+            "name": "La Vie En Rose",
+            "artist": "Édith Piaf",
+            "id": 2532409
+        },
+        {
+            "name": "Si Seulement Je Pouvais Lui Manquer",
+            "artist": "Vox Angeli",
+            "id": 19711432
+        },
+        {
+            "name": "S'il Suffisait D'Aimer",
+            "artist": "Céline Dion",
+            "id": 16869220
+        },
+        {
+            "name": "Sympathique",
+            "artist": "Pink Martini",
+            "id": 18212755
+        },
+        {
+            "name": "Si Seulement",
+            "artist": "Lynnsha",
+            "id": 2925502
+        },
+        {
+            "name": "J'Ai Pas Vingt Ans !",
+            "artist": "Alizée",
+            "id": 2117026
+        },
+        {
+            "name": "J'Oublie",
+            "artist": "Jena Lee",
+            "id": 2866816
+        },
+        {
+            "name": "Je Cherche Un Homme (I Want A Man)",
+            "artist": "Eartha Kitt",
+            "id": 5205793
+        },
+        {
+            "name": "NOS BALLADES",
+            "artist": "Peppermoon",
+            "id": 4241455
+        },
+        {
+            "name": "La Seine",
+            "artist": "Sean Lennon",
+            "id": 1937928
+        },
+        {
+            "name": "Entre Toi Et Moi",
+            "artist": "Mathieu Edward",
+            "id": 16920108
+        },
+        {
+            "name": "J'Ai Le Droit",
+            "artist": "Sheryfa Luna",
+            "id": 19107759
+        },
+        {
+            "name": "J'aimerais tellement",
+            "artist": "Jena Lee",
+            "id": 2866872
+        },
+        {
+            "name": "Repartir À Zéro",
+            "artist": "M. Pokora",
+            "id": 1761780
+        },
+        {
+            "name": "Mon petit pays",
+            "artist": "Fréro Delavega",
+            "id": 28844464
+        },
+        {
+            "name": "Si L'amour Existe",
+            "artist": "M. Pokora",
+            "id": 26154347
+        },
+        {
+            "name": "Et si tu n'existais pas",
+            "artist": "Hélène Ségara",
+            "id": 27836308
+        },
+        {
+            "name": "Comment dire",
+            "artist": "Emily Loizeau",
+            "id": 2583744
+        },
+        {
+            "name": "Je Te Dis Non",
+            "artist": "Élodie Frégé",
+            "id": 20499708
+        },
+        {
+            "name": "Comme Une Ombre",
+            "artist": "Myriam Abel",
+            "id": 3126620
+        },
+        {
+            "name": "Les passants",
+            "artist": "Zaz",
+            "id": 19914440
+        },
+        {
+            "name": "L'horloge tourne",
+            "artist": "Mickael Miro",
+            "id": 1778868
+        },
+        {
+            "name": "Larmes de caramel",
+            "artist": "Elsa Kopf",
+            "id": 17617362
+        },
+        {
+            "name": "La Mer",
+            "artist": "Chantal Chamberland",
+            "id": 5163195
+        },
+        {
+            "name": "Candy Street",
+            "artist": "Elsa Kopf",
+            "id": 17617368
+        },
+        {
+            "name": "Chez Keith et Anita",
+            "artist": "Carla Bruni",
+            "id": 26227035
+        },
+        {
+            "name": "La Ballade de Rose",
+            "artist": "Cécile Corbel",
+            "id": 26574196
+        },
+        {
+            "name": "À l'Occasion Tu Souris",
+            "artist": "Coralie Clément",
+            "id": 19637444
+        },
+        {
+            "name": "Mes mots tes lèvres douces",
+            "artist": "Laurie Darmon",
+            "id": 30841948
+        },
+        {
+            "name": "Mustang cabriolet",
+            "artist": "Paris Brune",
+            "id": 4254253
+        },
+        {
+            "name": "Zou Bisou, Bisou",
+            "artist": "Jessica Paré",
+            "id": 2870420
+        },
+        {
+            "name": "Où est la fantaisie ?",
+            "artist": "Daphné",
+            "id": 28485633
+        },
+        {
+            "name": "Ma douce",
+            "artist": "Barcella",
+            "id": 27552707
+        },
+        {
+            "name": "Oublier la ville",
+            "artist": "Daphné",
+            "id": 2520034
+        },
+        {
+            "name": "Comment te dire adieu (Remasterisé en 2016)",
+            "artist": "Françoise Hardy",
+            "id": 2590624
+        },
+        {
+            "name": "Le bonheur",
+            "artist": "Berry",
+            "id": 16802329
+        },
+        {
+            "name": "Mademoiselle",
+            "artist": "Berry",
+            "id": 16802328
+        },
+        {
+            "name": "Pardon mon amour",
+            "artist": "Gérard Darmon",
+            "id": 1383618
+        },
+        {
+            "name": "Jardin D'hiver",
+            "artist": "Keren Ann",
+            "id": 19001923
+        },
+        {
+            "name": "Le Dernier Train",
+            "artist": "Coralie Clément",
+            "id": 19637447
+        },
+        {
+            "name": "Petit Succès",
+            "artist": "Barbara Carlotti",
+            "id": 26729676
+        },
+        {
+            "name": "La Disparition",
+            "artist": "Keren Ann",
+            "id": 2870891
+        },
+        {
+            "name": "Et si tu n'existais pas",
+            "artist": "Joe Dassin",
+            "id": 1567910
+        },
+        {
+            "name": "Il y a",
+            "artist": "Vanessa Paradis",
+            "id": 3796510
+        },
+        {
+            "name": "Putain ça penche",
+            "artist": "Alain Souchon",
+            "id": 22470393
+        },
+        {
+            "name": "Derniers Baisers",
+            "artist": "Laurent Voulzy",
+            "id": 16411670
+        },
+        {
+            "name": "Que Reste-T-Il De Nos Amours ?",
+            "artist": "Stacey Kent",
+            "id": 3409100
+        }
+    ]
+}

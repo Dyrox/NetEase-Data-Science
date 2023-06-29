@@ -1,0 +1,512 @@
+{
+    "playlist_info": {
+        "name": "自赏音乐简史:有这份歌单就够了",
+        "trackcount": 100,
+        "playcount": 24,
+        "creator": "土星冲浪",
+        "createDate": "2023-06-24",
+        "heat": 5.0
+    },
+    "songs": [
+        {
+            "name": "Lorelei",
+            "artist": "Cocteau Twins",
+            "id": 17124731
+        },
+        {
+            "name": "Aikea-Guinea",
+            "artist": "Cocteau Twins",
+            "id": 17125032
+        },
+        {
+            "name": "There Must Be A Better Life",
+            "artist": "Biff Bang Pow!",
+            "id": 1862605216
+        },
+        {
+            "name": "Sorry for Laughing",
+            "artist": "Josef K",
+            "id": 2848988
+        },
+        {
+            "name": "Everything And More",
+            "artist": "Dolly Mixture",
+            "id": 1826860670
+        },
+        {
+            "name": "Little Fury Things",
+            "artist": "Dinosaur Jr.",
+            "id": 2427833
+        },
+        {
+            "name": "New Day Rising",
+            "artist": "Hüsker Dü",
+            "id": 22066838
+        },
+        {
+            "name": "Death Valley '69",
+            "artist": "Sonic Youth",
+            "id": 27338109
+        },
+        {
+            "name": "Just Like Honey",
+            "artist": "The Jesus and Mary Chain",
+            "id": 21965464
+        },
+        {
+            "name": "Rollercoaster",
+            "artist": "Spacemen 3",
+            "id": 3431601
+        },
+        {
+            "name": "Soundhead",
+            "artist": "Loop",
+            "id": 16648559
+        },
+        {
+            "name": "Lollita",
+            "artist": "A.R. Kane",
+            "id": 401364075
+        },
+        {
+            "name": "Mercy Seat",
+            "artist": "Ultra Vivid Scene",
+            "id": 21985185
+        },
+        {
+            "name": "Christine",
+            "artist": "The House of Love",
+            "id": 19535808
+        },
+        {
+            "name": "Tugboat",
+            "artist": "Galaxie 500",
+            "id": 4087073
+        },
+        {
+            "name": "No More Sorry",
+            "artist": "My Bloody Valentine",
+            "id": 21251568
+        },
+        {
+            "name": "You Made Me Realise",
+            "artist": "My Bloody Valentine",
+            "id": 4174261
+        },
+        {
+            "name": "Sight of You",
+            "artist": "Pale Saints",
+            "id": 18187332
+        },
+        {
+            "name": "Prize",
+            "artist": "Kitchens of Distinction",
+            "id": 19051482
+        },
+        {
+            "name": "The Perfect Needle",
+            "artist": "Telescopes",
+            "id": 573159859
+        },
+        {
+            "name": "Scarlet",
+            "artist": "Lush",
+            "id": 4152042
+        },
+        {
+            "name": "Chelsea Girl",
+            "artist": "Ride",
+            "id": 4262559
+        },
+        {
+            "name": "Like A Day Dream",
+            "artist": "Ride",
+            "id": 27192952
+        },
+        {
+            "name": "De-Luxe",
+            "artist": "Lush",
+            "id": 21041675
+        },
+        {
+            "name": "Harbour Me",
+            "artist": "The Lavender Faction",
+            "id": 533191700
+        },
+        {
+            "name": "Decadence",
+            "artist": "Bleach",
+            "id": 2007510236
+        },
+        {
+            "name": "Eleanor Everything",
+            "artist": "The Boo Radleys",
+            "id": 3564786
+        },
+        {
+            "name": "Precious One",
+            "artist": "Chapterhouse",
+            "id": 3989028
+        },
+        {
+            "name": "Dreams Burn Down (2001 Remaster)",
+            "artist": "Ride",
+            "id": 18835520
+        },
+        {
+            "name": "Language of Flowers",
+            "artist": "Pale Saints",
+            "id": 18187320
+        },
+        {
+            "name": "Soon",
+            "artist": "My Bloody Valentine",
+            "id": 4174197
+        },
+        {
+            "name": "Slowdive",
+            "artist": "Slowdive",
+            "id": 4281683
+        },
+        {
+            "name": "Sweetness and Light",
+            "artist": "Lush",
+            "id": 21041619
+        },
+        {
+            "name": "Vapour Trail (2001 Remaster)",
+            "artist": "Ride",
+            "id": 18835523
+        },
+        {
+            "name": "Pearl",
+            "artist": "Chapterhouse",
+            "id": 3988980
+        },
+        {
+            "name": "Catch The Breeze",
+            "artist": "Slowdive",
+            "id": 19204337
+        },
+        {
+            "name": "Jack",
+            "artist": "Moose",
+            "id": 22609657
+        },
+        {
+            "name": "only shallow",
+            "artist": "My Bloody Valentine",
+            "id": 4174117
+        },
+        {
+            "name": "when you sleep",
+            "artist": "My Bloody Valentine",
+            "id": 4174137
+        },
+        {
+            "name": "Drive That Fast",
+            "artist": "Kitchens of Distinction",
+            "id": 4145198
+        },
+        {
+            "name": "Kinky Love",
+            "artist": "Pale Saints",
+            "id": 18187326
+        },
+        {
+            "name": "Sci Flyer (2008 Remastered Version)",
+            "artist": "Swervedriver",
+            "id": 574131890
+        },
+        {
+            "name": "Beautify",
+            "artist": "The Charlottes",
+            "id": 535386532
+        },
+        {
+            "name": "Ice Age",
+            "artist": "Band of Susans",
+            "id": 550937745
+        },
+        {
+            "name": "My Deranged Heart",
+            "artist": "Smashing Orange",
+            "id": 1444322662
+        },
+        {
+            "name": "Black Metallic",
+            "artist": "Catherine Wheel",
+            "id": 3991069
+        },
+        {
+            "name": "A Short Happy Life",
+            "artist": "Medicine",
+            "id": 4181185
+        },
+        {
+            "name": "One More",
+            "artist": "Medicine",
+            "id": 4181173
+        },
+        {
+            "name": "Throwing Back the Apple",
+            "artist": "Pale Saints",
+            "id": 18187291
+        },
+        {
+            "name": "Does This Hurt?",
+            "artist": "The Boo Radleys",
+            "id": 21875012
+        },
+        {
+            "name": "Lazy Day",
+            "artist": "The Boo Radleys",
+            "id": 21875017
+        },
+        {
+            "name": "Interstate",
+            "artist": "EVER",
+            "id": 1904544822
+        },
+        {
+            "name": "Grounded",
+            "artist": "The Belltower",
+            "id": 3717211
+        },
+        {
+            "name": "Leave Them All Behind",
+            "artist": "Ride",
+            "id": 18835457
+        },
+        {
+            "name": "Mad As Snow",
+            "artist": "Kitchens of Distinction",
+            "id": 19051471
+        },
+        {
+            "name": "Kick The Tragedy",
+            "artist": "Drop Nineteens",
+            "id": 22585466
+        },
+        {
+            "name": "Elizabeth Colour Wheel",
+            "artist": "Lilys",
+            "id": 2936367
+        },
+        {
+            "name": "She's A Superstar (Edit)",
+            "artist": "The Verve",
+            "id": 22567430
+        },
+        {
+            "name": "Secuencia Inicial (Remasterizado 2007)",
+            "artist": "Soda Stereo",
+            "id": 21701777
+        },
+        {
+            "name": "Ice Cream Star",
+            "artist": "Ecstasy Of St. Theresa",
+            "id": 3781762
+        },
+        {
+            "name": "Horror Head",
+            "artist": "Curve",
+            "id": 17146154
+        },
+        {
+            "name": "Duel (2008 Remastered Version)",
+            "artist": "Swervedriver",
+            "id": 862598289
+        },
+        {
+            "name": "melt",
+            "artist": "Paint In Watercolour",
+            "id": 1835785581
+        },
+        {
+            "name": "Submarine",
+            "artist": "Whipping Boy",
+            "id": 1434881324
+        },
+        {
+            "name": "Sure Thing",
+            "artist": "The Darling Buds",
+            "id": 3724172
+        },
+        {
+            "name": "Against Nature",
+            "artist": "Levitation",
+            "id": 20995653
+        },
+        {
+            "name": "Promenade",
+            "artist": "Underground Lovers",
+            "id": 1855079949
+        },
+        {
+            "name": "Yesterday Goodbye",
+            "artist": "All About Eve",
+            "id": 3901092
+        },
+        {
+            "name": "Komik Kapital Kaput",
+            "artist": "Röövel Ööbik",
+            "id": 570272675
+        },
+        {
+            "name": "Willow Tree",
+            "artist": "The Veldt",
+            "id": 1821574239
+        },
+        {
+            "name": "Butterfly Girl",
+            "artist": "The Nightblooms",
+            "id": 549565589
+        },
+        {
+            "name": "Spooky Vibes",
+            "artist": "Blind Mr. Jones",
+            "id": 3964309
+        },
+        {
+            "name": "No. 1 Fan",
+            "artist": "Majesty Crush",
+            "id": 559676828
+        },
+        {
+            "name": "A to Fade In",
+            "artist": "Adorable",
+            "id": 3893294
+        },
+        {
+            "name": "Crank",
+            "artist": "Catherine Wheel",
+            "id": 17120503
+        },
+        {
+            "name": "Alison",
+            "artist": "Slowdive",
+            "id": 19204218
+        },
+        {
+            "name": "Machine Gun",
+            "artist": "Slowdive",
+            "id": 19204219
+        },
+        {
+            "name": "Souvlaki Space Station",
+            "artist": "Slowdive",
+            "id": 19204223
+        },
+        {
+            "name": "Porcelain",
+            "artist": "Ozean",
+            "id": 2013122934
+        },
+        {
+            "name": "The Pink",
+            "artist": "Medicine",
+            "id": 4181070
+        },
+        {
+            "name": "Pancake",
+            "artist": "Swirlies",
+            "id": 565619759
+        },
+        {
+            "name": "Haze",
+            "artist": "Here",
+            "id": 1825269584
+        },
+        {
+            "name": "babysbreath",
+            "artist": "Lovesliescrushing",
+            "id": 4157446
+        },
+        {
+            "name": "Begin",
+            "artist": "Bailter Space",
+            "id": 3959856
+        },
+        {
+            "name": "Into The Ether",
+            "artist": "Secret Shine",
+            "id": 19142229
+        },
+        {
+            "name": "HEAL ALL",
+            "artist": "Paint In Watercolour",
+            "id": 27631582
+        },
+        {
+            "name": "Slowbleed",
+            "artist": "Alison's Halo",
+            "id": 3909243
+        },
+        {
+            "name": "Eclipse",
+            "artist": "Half String",
+            "id": 1325054816
+        },
+        {
+            "name": "Jonah",
+            "artist": "Tse Tse Fly",
+            "id": 568035953
+        },
+        {
+            "name": "Desire Lines",
+            "artist": "Lush",
+            "id": 21041612
+        },
+        {
+            "name": "Lovelife",
+            "artist": "Lush",
+            "id": 21041611
+        },
+        {
+            "name": "Fine Friend",
+            "artist": "Pale Saints",
+            "id": 3230240
+        },
+        {
+            "name": "And Never Pull",
+            "artist": "Difference Engine",
+            "id": 28587791
+        },
+        {
+            "name": "Submarine",
+            "artist": "Adorable",
+            "id": 3893243
+        },
+        {
+            "name": "Sand On Fire",
+            "artist": "Kitchens of Distinction",
+            "id": 1365843714
+        },
+        {
+            "name": "She's The Queen",
+            "artist": "Starflyer 59",
+            "id": 1347026759
+        },
+        {
+            "name": "Seven Natural Scenes",
+            "artist": "Blueshift Signal",
+            "id": 3968503
+        },
+        {
+            "name": "Dizzy Girl",
+            "artist": "The Rosemarys",
+            "id": 4373536
+        },
+        {
+            "name": "Crinoline",
+            "artist": "Ultra Cindy",
+            "id": 2053691556
+        },
+        {
+            "name": "Only a Finest Breeze",
+            "artist": "Low Dream",
+            "id": 1437132691
+        }
+    ]
+}

@@ -1,0 +1,732 @@
+{
+    "playlist_info": {
+        "name": "【集中注意力】阿尔法脑电波",
+        "trackcount": 144,
+        "playcount": 129463,
+        "creator": "fuente",
+        "createDate": "2016-08-10",
+        "heat": 51.0
+    },
+    "songs": [
+        {
+            "name": "Seeking Beauty",
+            "artist": "植地雅哉",
+            "id": 1993492052
+        },
+        {
+            "name": "Perfect Diet",
+            "artist": "植地雅哉",
+            "id": 1993493000
+        },
+        {
+            "name": "Good Sleep",
+            "artist": "植地雅哉",
+            "id": 1993492053
+        },
+        {
+            "name": "Water Flow",
+            "artist": "植地雅哉",
+            "id": 1993492054
+        },
+        {
+            "name": "Forest",
+            "artist": "植地雅哉",
+            "id": 1993493001
+        },
+        {
+            "name": "Calm Mind",
+            "artist": "植地雅哉",
+            "id": 1993492055
+        },
+        {
+            "name": "Beautiful Proportions",
+            "artist": "植地雅哉",
+            "id": 1993492056
+        },
+        {
+            "name": "Dream Flight",
+            "artist": "植地雅哉",
+            "id": 1993492057
+        },
+        {
+            "name": "小春日和",
+            "artist": "植地雅哉",
+            "id": 1999882901
+        },
+        {
+            "name": "ゆげだつ小川",
+            "artist": "植地雅哉",
+            "id": 1999882902
+        },
+        {
+            "name": "To Pleasure",
+            "artist": "植地雅哉",
+            "id": 1999882903
+        },
+        {
+            "name": "歌の翼に",
+            "artist": "植地雅哉",
+            "id": 1999882904
+        },
+        {
+            "name": "Tips From Nature",
+            "artist": "植地雅哉",
+            "id": 1999882905
+        },
+        {
+            "name": "Rainbow Over",
+            "artist": "植地雅哉",
+            "id": 1999878397
+        },
+        {
+            "name": "Little Bird Healing",
+            "artist": "植地雅哉",
+            "id": 1999878398
+        },
+        {
+            "name": "Lovely Small Bird",
+            "artist": "植地雅哉",
+            "id": 1999878399
+        },
+        {
+            "name": "Memories",
+            "artist": "植地雅哉",
+            "id": 1999878400
+        },
+        {
+            "name": "心理的開放",
+            "artist": "植地雅哉",
+            "id": 1999882906
+        },
+        {
+            "name": "Cradle Of Music",
+            "artist": "植地雅哉",
+            "id": 1999882907
+        },
+        {
+            "name": "星とフクロウ",
+            "artist": "植地雅哉",
+            "id": 1999878402
+        },
+        {
+            "name": "Travel With Dream",
+            "artist": "植地雅哉",
+            "id": 1999878404
+        },
+        {
+            "name": "Floating In Outer Space",
+            "artist": "植地雅哉",
+            "id": 1892823950
+        },
+        {
+            "name": "誰もいない砂浜",
+            "artist": "植地雅哉",
+            "id": 1892823951
+        },
+        {
+            "name": "Quiet Heart",
+            "artist": "植地雅哉",
+            "id": 1892823952
+        },
+        {
+            "name": "脳細胞のネットワーク",
+            "artist": "植地雅哉",
+            "id": 1892823953
+        },
+        {
+            "name": "Blown In A Pleasant Breeze",
+            "artist": "植地雅哉",
+            "id": 1892823954
+        },
+        {
+            "name": "ニューロンからの信号",
+            "artist": "植地雅哉",
+            "id": 1892823955
+        },
+        {
+            "name": "パート1",
+            "artist": "植地雅哉",
+            "id": 1867457593
+        },
+        {
+            "name": "パート2",
+            "artist": "植地雅哉",
+            "id": 1867463814
+        },
+        {
+            "name": "パート3",
+            "artist": "植地雅哉",
+            "id": 1867457594
+        },
+        {
+            "name": "パート4",
+            "artist": "植地雅哉",
+            "id": 1867463815
+        },
+        {
+            "name": "パート5",
+            "artist": "植地雅哉",
+            "id": 1867457595
+        },
+        {
+            "name": "パート6",
+            "artist": "植地雅哉",
+            "id": 1867457596
+        },
+        {
+            "name": "夕暮れ",
+            "artist": "植地雅哉",
+            "id": 1445016619
+        },
+        {
+            "name": "小魚と波",
+            "artist": "植地雅哉",
+            "id": 1445015812
+        },
+        {
+            "name": "平穏",
+            "artist": "植地雅哉",
+            "id": 1445016620
+        },
+        {
+            "name": "地平線の彼方",
+            "artist": "植地雅哉",
+            "id": 1445016621
+        },
+        {
+            "name": "Princess Mermaid",
+            "artist": "植地雅哉",
+            "id": 1445016622
+        },
+        {
+            "name": "The Dream Extends",
+            "artist": "植地雅哉",
+            "id": 1445016623
+        },
+        {
+            "name": "闇と光",
+            "artist": "植地雅哉",
+            "id": 1445016624
+        },
+        {
+            "name": "古代遺跡",
+            "artist": "植地雅哉",
+            "id": 1445015813
+        },
+        {
+            "name": "カノン",
+            "artist": "植地雅哉",
+            "id": 1445016625
+        },
+        {
+            "name": "ロマンス",
+            "artist": "植地雅哉",
+            "id": 1445015814
+        },
+        {
+            "name": "With The Relief",
+            "artist": "植地雅哉",
+            "id": 1445015815
+        },
+        {
+            "name": "魚のダンス",
+            "artist": "植地雅哉",
+            "id": 1445016626
+        },
+        {
+            "name": "光線のマジック",
+            "artist": "植地雅哉",
+            "id": 1445016627
+        },
+        {
+            "name": "いつになく気持ちいい風",
+            "artist": "植地雅哉",
+            "id": 535493
+        },
+        {
+            "name": "G線上のアリア (Bossa Nova Version)",
+            "artist": "植地雅哉",
+            "id": 535503
+        },
+        {
+            "name": "幸せの予感",
+            "artist": "植地雅哉",
+            "id": 535507
+        },
+        {
+            "name": "新しい喜び",
+            "artist": "植地雅哉",
+            "id": 535511
+        },
+        {
+            "name": "Cirrostratus",
+            "artist": "植地雅哉",
+            "id": 535515
+        },
+        {
+            "name": "To The Sky",
+            "artist": "植地雅哉",
+            "id": 535518
+        },
+        {
+            "name": "Shining Water Side",
+            "artist": "植地雅哉",
+            "id": 535521
+        },
+        {
+            "name": "The Palpitation",
+            "artist": "植地雅哉",
+            "id": 535525
+        },
+        {
+            "name": "あなたを見つめる",
+            "artist": "植地雅哉",
+            "id": 535529
+        },
+        {
+            "name": "二人で散歩",
+            "artist": "植地雅哉",
+            "id": 535533
+        },
+        {
+            "name": "A Sheet Of Music",
+            "artist": "植地雅哉",
+            "id": 535537
+        },
+        {
+            "name": "日常の習慣",
+            "artist": "植地雅哉",
+            "id": 535541
+        },
+        {
+            "name": "明日の楽しみ",
+            "artist": "植地雅哉",
+            "id": 535545
+        },
+        {
+            "name": "A South Wind",
+            "artist": "植地雅哉",
+            "id": 536519
+        },
+        {
+            "name": "Take A Nap",
+            "artist": "植地雅哉",
+            "id": 536522
+        },
+        {
+            "name": "A Hermit Crab",
+            "artist": "植地雅哉",
+            "id": 536525
+        },
+        {
+            "name": "Bathe In The Sun",
+            "artist": "植地雅哉",
+            "id": 536528
+        },
+        {
+            "name": "White Sand",
+            "artist": "植地雅哉",
+            "id": 536531
+        },
+        {
+            "name": "Ebb Tide",
+            "artist": "植地雅哉",
+            "id": 536534
+        },
+        {
+            "name": "An Evening Calm",
+            "artist": "植地雅哉",
+            "id": 536537
+        },
+        {
+            "name": "An Inlet",
+            "artist": "植地雅哉",
+            "id": 536539
+        },
+        {
+            "name": "Refresh",
+            "artist": "植地雅哉",
+            "id": 536541
+        },
+        {
+            "name": "Peace Of Mind",
+            "artist": "植地雅哉",
+            "id": 536543
+        },
+        {
+            "name": "Have A Feeling In Love",
+            "artist": "Music therapy",
+            "id": 5268350
+        },
+        {
+            "name": "Activation",
+            "artist": "Music therapy",
+            "id": 5268348
+        },
+        {
+            "name": "You Look Lovely",
+            "artist": "Music therapy",
+            "id": 5268349
+        },
+        {
+            "name": "Diving Deep",
+            "artist": "Music therapy",
+            "id": 5268347
+        },
+        {
+            "name": "月あかり",
+            "artist": "植地雅哉",
+            "id": 536718
+        },
+        {
+            "name": "Infinite Vitality",
+            "artist": "Music therapy",
+            "id": 5268332
+        },
+        {
+            "name": "Footpath in the Garden",
+            "artist": "Music therapy",
+            "id": 5268344
+        },
+        {
+            "name": "Vestige of Tempting Heart",
+            "artist": "Music therapy",
+            "id": 5268343
+        },
+        {
+            "name": "Awakening",
+            "artist": "Music therapy",
+            "id": 5268334
+        },
+        {
+            "name": "Completely Vacant",
+            "artist": "Music therapy",
+            "id": 5268331
+        },
+        {
+            "name": "Leaping Light",
+            "artist": "Music therapy",
+            "id": 5268342
+        },
+        {
+            "name": "A Fairy In The Woods",
+            "artist": "Music therapy",
+            "id": 5268333
+        },
+        {
+            "name": "Happy Dancing",
+            "artist": "Music therapy",
+            "id": 5268340
+        },
+        {
+            "name": "Smiling Memories",
+            "artist": "Music therapy",
+            "id": 5268329
+        },
+        {
+            "name": "Pas De Deux of Sands and Seashell",
+            "artist": "Music therapy",
+            "id": 5268339
+        },
+        {
+            "name": "Being with My Soul",
+            "artist": "Music therapy",
+            "id": 5268338
+        },
+        {
+            "name": "Kissing the Earth",
+            "artist": "Music therapy",
+            "id": 5268337
+        },
+        {
+            "name": "Calmness",
+            "artist": "植地雅哉",
+            "id": 536231
+        },
+        {
+            "name": "A New Beginning",
+            "artist": "Music therapy",
+            "id": 5268328
+        },
+        {
+            "name": "Shadow of Happiness",
+            "artist": "Music therapy",
+            "id": 5268336
+        },
+        {
+            "name": "ノリッジ",
+            "artist": "Music therapy",
+            "id": 536643
+        },
+        {
+            "name": "インテリジェンス・オブ・インフィニティ",
+            "artist": "Music therapy",
+            "id": 536644
+        },
+        {
+            "name": "ア・クリアー・ヘッド",
+            "artist": "Music therapy",
+            "id": 536641
+        },
+        {
+            "name": "ブレインズ",
+            "artist": "Music therapy",
+            "id": 536640
+        },
+        {
+            "name": "フローティング・スペース",
+            "artist": "Music therapy",
+            "id": 536639
+        },
+        {
+            "name": "インテレクチュアル・ライフ",
+            "artist": "Music therapy",
+            "id": 536637
+        },
+        {
+            "name": "Tender Passion",
+            "artist": "Music therapy",
+            "id": 5268330
+        },
+        {
+            "name": "Mountain Spring",
+            "artist": "Music therapy",
+            "id": 5268335
+        },
+        {
+            "name": "Rising of the Dream",
+            "artist": "Music therapy",
+            "id": 5268326
+        },
+        {
+            "name": "マーメイド",
+            "artist": "植地雅哉",
+            "id": 536740
+        },
+        {
+            "name": "夕暮れ",
+            "artist": "植地雅哉",
+            "id": 536752
+        },
+        {
+            "name": "Dance of Gossamer",
+            "artist": "Music therapy",
+            "id": 5268324
+        },
+        {
+            "name": "Drip Drip Drip",
+            "artist": "Music therapy",
+            "id": 5268323
+        },
+        {
+            "name": "Floating in the City",
+            "artist": "Music therapy",
+            "id": 5268325
+        },
+        {
+            "name": "三羽のカモメ",
+            "artist": "植地雅哉",
+            "id": 536749
+        },
+        {
+            "name": "星雲",
+            "artist": "植地雅哉",
+            "id": 536758
+        },
+        {
+            "name": "ゆらぐ花",
+            "artist": "植地雅哉",
+            "id": 536743
+        },
+        {
+            "name": "七色の熱帯魚",
+            "artist": "植地雅哉",
+            "id": 536746
+        },
+        {
+            "name": "波しぶきのダンス",
+            "artist": "植地雅哉",
+            "id": 536738
+        },
+        {
+            "name": "Breeze In The Afternoon",
+            "artist": "Music therapy",
+            "id": 5268351
+        },
+        {
+            "name": "Like The Breeze",
+            "artist": "植地雅哉",
+            "id": 535497
+        },
+        {
+            "name": "Dazing",
+            "artist": "Music therapy",
+            "id": 5268327
+        },
+        {
+            "name": "広がる景色",
+            "artist": "植地雅哉",
+            "id": 536736
+        },
+        {
+            "name": "南の島からのおくりもの",
+            "artist": "植地雅哉",
+            "id": 536735
+        },
+        {
+            "name": "海岸線",
+            "artist": "植地雅哉",
+            "id": 536755
+        },
+        {
+            "name": "Ocean Blue",
+            "artist": "Music therapy",
+            "id": 5268346
+        },
+        {
+            "name": "In Comfort",
+            "artist": "植地雅哉",
+            "id": 536516
+        },
+        {
+            "name": "やさしい風",
+            "artist": "植地雅哉",
+            "id": 536734
+        },
+        {
+            "name": "The Little Universe",
+            "artist": "植地雅哉",
+            "id": 536243
+        },
+        {
+            "name": "水中のイルカ",
+            "artist": "植地雅哉",
+            "id": 536235
+        },
+        {
+            "name": "サンゴの海",
+            "artist": "植地雅哉",
+            "id": 536227
+        },
+        {
+            "name": "Wave Spray Of Water",
+            "artist": "植地雅哉",
+            "id": 536225
+        },
+        {
+            "name": "無 想",
+            "artist": "植地雅哉",
+            "id": 536725
+        },
+        {
+            "name": "Slight Brilliance",
+            "artist": "植地雅哉",
+            "id": 536674
+        },
+        {
+            "name": "Evening Fog",
+            "artist": "植地雅哉",
+            "id": 536673
+        },
+        {
+            "name": "流 景",
+            "artist": "植地雅哉",
+            "id": 536672
+        },
+        {
+            "name": "A Ripple",
+            "artist": "植地雅哉",
+            "id": 536671
+        },
+        {
+            "name": "夢想界",
+            "artist": "植地雅哉",
+            "id": 536670
+        },
+        {
+            "name": "Whisper in the Wind",
+            "artist": "Music therapy",
+            "id": 5268341
+        },
+        {
+            "name": "深 海",
+            "artist": "植地雅哉",
+            "id": 536669
+        },
+        {
+            "name": "微 動",
+            "artist": "植地雅哉",
+            "id": 536668
+        },
+        {
+            "name": "夜 色",
+            "artist": "植地雅哉",
+            "id": 536716
+        },
+        {
+            "name": "流れ星",
+            "artist": "植地雅哉",
+            "id": 536723
+        },
+        {
+            "name": "静 寂",
+            "artist": "植地雅哉",
+            "id": 536720
+        },
+        {
+            "name": "海上の星たち",
+            "artist": "植地雅哉",
+            "id": 536714
+        },
+        {
+            "name": "最初から今まで“冬のソナタ",
+            "artist": "α波オルゴール",
+            "id": 5267456
+        },
+        {
+            "name": "My Memory“冬のソナタ",
+            "artist": "α波オルゴール",
+            "id": 5267457
+        },
+        {
+            "name": "あなただけが“冬のソナタ",
+            "artist": "α波オルゴール",
+            "id": 5267458
+        },
+        {
+            "name": "君に逢える日“ホテリアー",
+            "artist": "α波オルゴール",
+            "id": 5267459
+        },
+        {
+            "name": "愛の群像“愛の群像",
+            "artist": "α波オルゴール",
+            "id": 5267460
+        },
+        {
+            "name": "Promise“ロマンス",
+            "artist": "α波オルゴール",
+            "id": 5267461
+        },
+        {
+            "name": "夏の香り“夏の香り",
+            "artist": "α波オルゴール",
+            "id": 5267462
+        },
+        {
+            "name": "あなたの后ろで“美しき日々",
+            "artist": "α波オルゴール",
+            "id": 5267463
+        },
+        {
+            "name": "All In Theme“オールイン",
+            "artist": "α波オルゴール",
+            "id": 5267464
+        },
+        {
+            "name": "初めて出逢った日のようにー",
+            "artist": "α波オルゴール",
+            "id": 5267465
+        }
+    ]
+}

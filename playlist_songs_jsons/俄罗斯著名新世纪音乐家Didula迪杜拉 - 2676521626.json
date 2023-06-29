@@ -1,0 +1,417 @@
+{
+    "playlist_info": {
+        "name": "俄罗斯著名新世纪音乐家Didula迪杜拉",
+        "trackcount": 81,
+        "playcount": 5656,
+        "creator": "zzkhzfw115",
+        "createDate": "2019-02-20",
+        "heat": 3.0
+    },
+    "songs": [
+        {
+            "name": "Ритмо",
+            "artist": "Di-Du-La",
+            "id": 1285666
+        },
+        {
+            "name": "Shumnii Prazdnik",
+            "artist": "Di-Du-La",
+            "id": 1285810
+        },
+        {
+            "name": "Sem Potseluev",
+            "artist": "Di-Du-La",
+            "id": 1285815
+        },
+        {
+            "name": "Road of Impudent",
+            "artist": "Di-Du-La",
+            "id": 1285738
+        },
+        {
+            "name": "Legend",
+            "artist": "Di-Du-La",
+            "id": 1285759
+        },
+        {
+            "name": "Street Passions",
+            "artist": "Di-Du-La",
+            "id": 1285763
+        },
+        {
+            "name": "Autumn - August",
+            "artist": "Di-Du-La",
+            "id": 1285768
+        },
+        {
+            "name": "Alegria",
+            "artist": "Di-Du-La",
+            "id": 1285681
+        },
+        {
+            "name": "Hell And Highwater",
+            "artist": "Di-Du-La",
+            "id": 1285684
+        },
+        {
+            "name": "Human Time",
+            "artist": "Di-Du-La",
+            "id": 1285687
+        },
+        {
+            "name": "Balloon Flight",
+            "artist": "Di-Du-La",
+            "id": 1285689
+        },
+        {
+            "name": "Warrior Way",
+            "artist": "Di-Du-La",
+            "id": 1285692
+        },
+        {
+            "name": "The Crossed Place",
+            "artist": "Di-Du-La",
+            "id": 1285694
+        },
+        {
+            "name": "My Enegmatic City",
+            "artist": "Di-Du-La",
+            "id": 1285697
+        },
+        {
+            "name": "Sacread Beauty",
+            "artist": "Di-Du-La",
+            "id": 1285701
+        },
+        {
+            "name": "The Tales Of An Old Forest",
+            "artist": "Di-Du-La",
+            "id": 1285704
+        },
+        {
+            "name": "Eternal Pilgrim",
+            "artist": "Di-Du-La",
+            "id": 1285707
+        },
+        {
+            "name": "January. Star In The Sky",
+            "artist": "Di-Du-La",
+            "id": 1285710
+        },
+        {
+            "name": "Christmas",
+            "artist": "Di-Du-La",
+            "id": 1285715
+        },
+        {
+            "name": "Golden Luminescence",
+            "artist": "Di-Du-La",
+            "id": 1285718
+        },
+        {
+            "name": "Водопад",
+            "artist": "Di-Du-La",
+            "id": 1285656
+        },
+        {
+            "name": "Румба",
+            "artist": "Di-Du-La",
+            "id": 1285661
+        },
+        {
+            "name": "Испания",
+            "artist": "Di-Du-La",
+            "id": 1285663
+        },
+        {
+            "name": "Море",
+            "artist": "Di-Du-La",
+            "id": 1285664
+        },
+        {
+            "name": "День",
+            "artist": "Di-Du-La",
+            "id": 1285673
+        },
+        {
+            "name": "Посвященье",
+            "artist": "Di-Du-La",
+            "id": 1285675
+        },
+        {
+            "name": "Autumn Leaf",
+            "artist": "Di-Du-La",
+            "id": 1285629
+        },
+        {
+            "name": "On the coast",
+            "artist": "Di-Du-La",
+            "id": 1285555
+        },
+        {
+            "name": "Wind",
+            "artist": "Di-Du-La",
+            "id": 1285561
+        },
+        {
+            "name": "Birthday",
+            "artist": "Di-Du-La",
+            "id": 1285564
+        },
+        {
+            "name": "Drift",
+            "artist": "Di-Du-La",
+            "id": 1285567
+        },
+        {
+            "name": "Chappa",
+            "artist": "Di-Du-La",
+            "id": 1285569
+        },
+        {
+            "name": "Thunder",
+            "artist": "Di-Du-La",
+            "id": 1285571
+        },
+        {
+            "name": "Mirage",
+            "artist": "Di-Du-La",
+            "id": 1285579
+        },
+        {
+            "name": "Top",
+            "artist": "Di-Du-La",
+            "id": 1285582
+        },
+        {
+            "name": "The road to Baghdad",
+            "artist": "Di-Du-La",
+            "id": 1285586
+        },
+        {
+            "name": "Coffee morning",
+            "artist": "Di-Du-La",
+            "id": 1285589
+        },
+        {
+            "name": "My joy and sadness",
+            "artist": "Di-Du-La",
+            "id": 1285592
+        },
+        {
+            "name": "Торо-ко-ко, пэк-пэк",
+            "artist": "Di-Du-La",
+            "id": 1285514
+        },
+        {
+            "name": "Прогулка",
+            "artist": "Di-Du-La",
+            "id": 1285521
+        },
+        {
+            "name": "Мерцает звук",
+            "artist": "Di-Du-La",
+            "id": 1285524
+        },
+        {
+            "name": "После дождя",
+            "artist": "Di-Du-La",
+            "id": 1285527
+        },
+        {
+            "name": "Затерянный грот",
+            "artist": "Di-Du-La",
+            "id": 1285530
+        },
+        {
+            "name": "Кольца времени",
+            "artist": "Di-Du-La",
+            "id": 1285534
+        },
+        {
+            "name": "На рассвете",
+            "artist": "Di-Du-La",
+            "id": 1285538
+        },
+        {
+            "name": "Прощай, поверхность!",
+            "artist": "Di-Du-La",
+            "id": 1285541
+        },
+        {
+            "name": "Аромат",
+            "artist": "Di-Du-La",
+            "id": 1285544
+        },
+        {
+            "name": "Way to Home",
+            "artist": "Di-Du-La",
+            "id": 1285772
+        },
+        {
+            "name": "Cave Town",
+            "artist": "Di-Du-La",
+            "id": 1285606
+        },
+        {
+            "name": "Айседора",
+            "artist": "Di-Du-La",
+            "id": 1285654
+        },
+        {
+            "name": "Comets Tail",
+            "artist": "Di-Du-La",
+            "id": 1285750
+        },
+        {
+            "name": "Фламенко",
+            "artist": "Di-Du-La",
+            "id": 1285652
+        },
+        {
+            "name": "Бездна",
+            "artist": "Di-Du-La",
+            "id": 1285669
+        },
+        {
+            "name": "Leila",
+            "artist": "Di-Du-La",
+            "id": 1285557
+        },
+        {
+            "name": "Фанданго",
+            "artist": "Di-Du-La",
+            "id": 1285671
+        },
+        {
+            "name": "Один день в сентябре",
+            "artist": "Di-Du-La",
+            "id": 1285511
+        },
+        {
+            "name": "Arabica",
+            "artist": "Di-Du-La",
+            "id": 1285553
+        },
+        {
+            "name": "Воздушный змей",
+            "artist": "Di-Du-La",
+            "id": 1285517
+        },
+        {
+            "name": "Train to Barcelona",
+            "artist": "Di-Du-La",
+            "id": 1285638
+        },
+        {
+            "name": "Dream",
+            "artist": "Di-Du-La",
+            "id": 1285731
+        },
+        {
+            "name": "Nice",
+            "artist": "Di-Du-La",
+            "id": 1285625
+        },
+        {
+            "name": "Mission to Mercury",
+            "artist": "Di-Du-La",
+            "id": 1285576
+        },
+        {
+            "name": "Жасмин",
+            "artist": "Di-Du-La",
+            "id": 1285659
+        },
+        {
+            "name": "in Exile",
+            "artist": "Di-Du-La",
+            "id": 1285631
+        },
+        {
+            "name": "the Sound Thew",
+            "artist": "Di-Du-La",
+            "id": 1285610
+        },
+        {
+            "name": "Ocean",
+            "artist": "Di-Du-La",
+            "id": 1285635
+        },
+        {
+            "name": "Fashion",
+            "artist": "Di-Du-La",
+            "id": 1285574
+        },
+        {
+            "name": "Русская",
+            "artist": "Di-Du-La",
+            "id": 1285668
+        },
+        {
+            "name": "Tsvetnie Sni",
+            "artist": "Di-Du-La",
+            "id": 1285784
+        },
+        {
+            "name": "Na Poroge",
+            "artist": "Di-Du-La",
+            "id": 1285802
+        },
+        {
+            "name": "Breeze",
+            "artist": "Di-Du-La",
+            "id": 1285621
+        },
+        {
+            "name": "Virazh",
+            "artist": "Di-Du-La",
+            "id": 1285799
+        },
+        {
+            "name": "Voice of Spheres",
+            "artist": "Di-Du-La",
+            "id": 1285742
+        },
+        {
+            "name": "Great Temple",
+            "artist": "Di-Du-La",
+            "id": 1285753
+        },
+        {
+            "name": "Posilka Iz Ruminii",
+            "artist": "Di-Du-La",
+            "id": 1285787
+        },
+        {
+            "name": "Dalekii Gorod",
+            "artist": "Di-Du-La",
+            "id": 1285792
+        },
+        {
+            "name": "Dim Ili Voda",
+            "artist": "Di-Du-La",
+            "id": 1285806
+        },
+        {
+            "name": "Taelliya",
+            "artist": "Di-Du-La",
+            "id": 1285790
+        },
+        {
+            "name": "Tanets Kruga",
+            "artist": "Di-Du-La",
+            "id": 1285796
+        },
+        {
+            "name": "Burning Heart",
+            "artist": "Di-Du-La",
+            "id": 1285735
+        },
+        {
+            "name": "Soaring in Clouds",
+            "artist": "Di-Du-La",
+            "id": 1285746
+        }
+    ]
+}

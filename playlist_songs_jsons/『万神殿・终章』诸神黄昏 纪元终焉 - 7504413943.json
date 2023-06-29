@@ -1,0 +1,952 @@
+{
+    "playlist_info": {
+        "name": "『万神殿・终章』诸神黄昏 纪元终焉",
+        "trackcount": 188,
+        "playcount": 70684,
+        "creator": "峯哥牛逼",
+        "createDate": "2022-06-25",
+        "heat": 191.0
+    },
+    "songs": [
+        {
+            "name": "Everdream",
+            "artist": "Epic Soul Factory",
+            "id": 36587577
+        },
+        {
+            "name": "Legendary",
+            "artist": "Epic Soul Factory",
+            "id": 36586598
+        },
+        {
+            "name": "Made of Stardust",
+            "artist": "Epic Soul Factory",
+            "id": 36586593
+        },
+        {
+            "name": "Riding the Light",
+            "artist": "Epic Soul Factory",
+            "id": 36587572
+        },
+        {
+            "name": "Beyond Our Dreams",
+            "artist": "Epic Soul Factory",
+            "id": 36587576
+        },
+        {
+            "name": "The Glorious Ones",
+            "artist": "Epic Soul Factory",
+            "id": 36587571
+        },
+        {
+            "name": "Bright Like Stars",
+            "artist": "Epic Soul Factory",
+            "id": 36587575
+        },
+        {
+            "name": "Hero Memories",
+            "artist": "Epic Soul Factory",
+            "id": 36586597
+        },
+        {
+            "name": "Awaking Hearts",
+            "artist": "Epic Soul Factory",
+            "id": 36587573
+        },
+        {
+            "name": "Road to Victory",
+            "artist": "Veigar Margeirsson",
+            "id": 1460106232
+        },
+        {
+            "name": "Mythical Hero",
+            "artist": "Veigar Margeirsson",
+            "id": 1460105391
+        },
+        {
+            "name": "Rise Above",
+            "artist": "Veigar Margeirsson",
+            "id": 1460106233
+        },
+        {
+            "name": "Trial By Warriors",
+            "artist": "Veigar Margeirsson",
+            "id": 1460105393
+        },
+        {
+            "name": "Touch the Sky",
+            "artist": "Veigar Margeirsson",
+            "id": 1460105395
+        },
+        {
+            "name": "My Personal Paradise",
+            "artist": "Imagine Music",
+            "id": 440464931
+        },
+        {
+            "name": "Descendants of Truth",
+            "artist": "Imagine Music",
+            "id": 440464923
+        },
+        {
+            "name": "Hope",
+            "artist": "Imagine Music",
+            "id": 440411968
+        },
+        {
+            "name": "Heart of Eternity",
+            "artist": "Imagine Music",
+            "id": 440411970
+        },
+        {
+            "name": "Infinity",
+            "artist": "Imagine Music",
+            "id": 440464929
+        },
+        {
+            "name": "Limitless",
+            "artist": "Imagine Music",
+            "id": 440411971
+        },
+        {
+            "name": "By Another Name",
+            "artist": "Richard Schrieber",
+            "id": 471968264
+        },
+        {
+            "name": "Years and Years",
+            "artist": "Richard Schrieber",
+            "id": 471969281
+        },
+        {
+            "name": "The Sun Will Rise",
+            "artist": "Richard Schrieber",
+            "id": 471968263
+        },
+        {
+            "name": "Miracle of Life",
+            "artist": "Richard Schrieber",
+            "id": 471968260
+        },
+        {
+            "name": "Atlantis Lives",
+            "artist": "Richard Schrieber",
+            "id": 471968262
+        },
+        {
+            "name": "A Smile Goes A Long Way",
+            "artist": "Richard Schrieber",
+            "id": 471968268
+        },
+        {
+            "name": "Get The Girl",
+            "artist": "Richard Schrieber",
+            "id": 471969282
+        },
+        {
+            "name": "Andromeda",
+            "artist": "Hi-Finesse",
+            "id": 32619917
+        },
+        {
+            "name": "Vantage",
+            "artist": "Hi-Finesse",
+            "id": 32619920
+        },
+        {
+            "name": "Alpha",
+            "artist": "Hi-Finesse",
+            "id": 32619922
+        },
+        {
+            "name": "Odyssey",
+            "artist": "Hi-Finesse",
+            "id": 29844835
+        },
+        {
+            "name": "Flux",
+            "artist": "Hi-Finesse",
+            "id": 32619926
+        },
+        {
+            "name": "Downfall (String Version)",
+            "artist": "Hi-Finesse",
+            "id": 32619932
+        },
+        {
+            "name": "Downfall (Guitar Version)",
+            "artist": "Hi-Finesse",
+            "id": 32619933
+        },
+        {
+            "name": "Millennia",
+            "artist": "Hi-Finesse",
+            "id": 32619934
+        },
+        {
+            "name": "We Are People",
+            "artist": "PegasusMusicStudio",
+            "id": 1404996928
+        },
+        {
+            "name": "Close Your Eyes",
+            "artist": "PegasusMusicStudio",
+            "id": 1404996926
+        },
+        {
+            "name": "Diamond Dawn",
+            "artist": "PegasusMusicStudio",
+            "id": 1948343000
+        },
+        {
+            "name": "Above the Sky",
+            "artist": "PegasusMusicStudio",
+            "id": 1948343002
+        },
+        {
+            "name": "Our Home World",
+            "artist": "PegasusMusicStudio",
+            "id": 1404997907
+        },
+        {
+            "name": "Lift of Spirit",
+            "artist": "PegasusMusicStudio",
+            "id": 1404996924
+        },
+        {
+            "name": "Breath of Nature",
+            "artist": "PegasusMusicStudio",
+            "id": 1401607311
+        },
+        {
+            "name": "Night Dreams",
+            "artist": "PegasusMusicStudio",
+            "id": 1404997909
+        },
+        {
+            "name": "Life without You",
+            "artist": "PegasusMusicStudio",
+            "id": 1404997911
+        },
+        {
+            "name": "Chronos",
+            "artist": "Brand X Music",
+            "id": 407485331
+        },
+        {
+            "name": "Untold Stories",
+            "artist": "Brand X Music",
+            "id": 407485332
+        },
+        {
+            "name": "Timeline",
+            "artist": "Brand X Music",
+            "id": 407485333
+        },
+        {
+            "name": "Infinitus",
+            "artist": "Brand X Music",
+            "id": 407485334
+        },
+        {
+            "name": "Atonement",
+            "artist": "Brand X Music",
+            "id": 407485335
+        },
+        {
+            "name": "Into the Light",
+            "artist": "Brand X Music",
+            "id": 407485340
+        },
+        {
+            "name": "Overcome",
+            "artist": "Brand X Music",
+            "id": 407485341
+        },
+        {
+            "name": "Awakening",
+            "artist": "Dirk Ehlert",
+            "id": 504016106
+        },
+        {
+            "name": "Elevation",
+            "artist": "Dirk Ehlert",
+            "id": 504016108
+        },
+        {
+            "name": "From Within",
+            "artist": "Dirk Ehlert",
+            "id": 504017106
+        },
+        {
+            "name": "Elements",
+            "artist": "Dirk Ehlert",
+            "id": 504016105
+        },
+        {
+            "name": "Undefeated",
+            "artist": "Dirk Ehlert",
+            "id": 504017104
+        },
+        {
+            "name": "Burning Sky",
+            "artist": "Dirk Ehlert",
+            "id": 504016109
+        },
+        {
+            "name": "Dragons' Den",
+            "artist": "Dirk Ehlert",
+            "id": 504016110
+        },
+        {
+            "name": "Higher Hopes",
+            "artist": "Dirk Ehlert",
+            "id": 504016111
+        },
+        {
+            "name": "Wings of Fire",
+            "artist": "Dirk Ehlert",
+            "id": 504016104
+        },
+        {
+            "name": "Ascension",
+            "artist": "Dirk Ehlert",
+            "id": 504016112
+        },
+        {
+            "name": "Reborn",
+            "artist": "Peter Jeremias",
+            "id": 533774672
+        },
+        {
+            "name": "The Climb",
+            "artist": "Peter Jeremias",
+            "id": 533774661
+        },
+        {
+            "name": "Warrior Within",
+            "artist": "Peter Jeremias",
+            "id": 533774666
+        },
+        {
+            "name": "Another Decision",
+            "artist": "Peter Jeremias",
+            "id": 533774678
+        },
+        {
+            "name": "Happy End Hymn",
+            "artist": "Peter Jeremias",
+            "id": 533774676
+        },
+        {
+            "name": "Until the Day",
+            "artist": "Peter Jeremias",
+            "id": 533774668
+        },
+        {
+            "name": "Fading Walls",
+            "artist": "Peter Jeremias",
+            "id": 533774679
+        },
+        {
+            "name": "No Limits",
+            "artist": "Peter Jeremias",
+            "id": 533774665
+        },
+        {
+            "name": "Resilience",
+            "artist": "Peter Jeremias",
+            "id": 533774671
+        },
+        {
+            "name": "Spirits",
+            "artist": "Peter Jeremias",
+            "id": 533774662
+        },
+        {
+            "name": "Believe Is All",
+            "artist": "Peter Jeremias",
+            "id": 533774663
+        },
+        {
+            "name": "Indestructible",
+            "artist": "Twelve Titans Music",
+            "id": 32320957
+        },
+        {
+            "name": "Dark Halo",
+            "artist": "Twelve Titans Music",
+            "id": 32320955
+        },
+        {
+            "name": "Earth Avenger",
+            "artist": "Twelve Titans Music",
+            "id": 32320956
+        },
+        {
+            "name": "From the Ashes Reborn",
+            "artist": "Twelve Titans Music",
+            "id": 32320961
+        },
+        {
+            "name": "We Need Heroes",
+            "artist": "Twelve Titans Music",
+            "id": 32320965
+        },
+        {
+            "name": "Prometheus",
+            "artist": "PostHaste Music Library",
+            "id": 31165029
+        },
+        {
+            "name": "Circumnavigation",
+            "artist": "PostHaste Music Library",
+            "id": 31165041
+        },
+        {
+            "name": "Lexicon",
+            "artist": "PostHaste Music Library",
+            "id": 31165032
+        },
+        {
+            "name": "Surpass",
+            "artist": "PostHaste Music Library",
+            "id": 31165033
+        },
+        {
+            "name": "From Within",
+            "artist": "PostHaste Music",
+            "id": 1327720986
+        },
+        {
+            "name": "Army of the Skies",
+            "artist": "Peter Roe",
+            "id": 524913530
+        },
+        {
+            "name": "True Love",
+            "artist": "Peter Roe",
+            "id": 524913535
+        },
+        {
+            "name": "Battle Angel",
+            "artist": "Peter Roe",
+            "id": 524913533
+        },
+        {
+            "name": "Black Dragon",
+            "artist": "Peter Roe",
+            "id": 524913537
+        },
+        {
+            "name": "Aether",
+            "artist": "Peter Roe",
+            "id": 524913534
+        },
+        {
+            "name": "Faraway Winds",
+            "artist": "Peter Roe",
+            "id": 524913528
+        },
+        {
+            "name": "Fallen Angel",
+            "artist": "Peter Roe",
+            "id": 524913529
+        },
+        {
+            "name": "No Going Back",
+            "artist": "Audiofire Studios",
+            "id": 409931550
+        },
+        {
+            "name": "The Future of Mankind",
+            "artist": "Audiofire Studios",
+            "id": 409931552
+        },
+        {
+            "name": "Galaxies",
+            "artist": "Audiofire Studios",
+            "id": 409941510
+        },
+        {
+            "name": "Beyond the Horizon",
+            "artist": "Audiofire Studios",
+            "id": 409931553
+        },
+        {
+            "name": "Leaving Earth",
+            "artist": "Audiofire Studios",
+            "id": 409941511
+        },
+        {
+            "name": "Into Orbit",
+            "artist": "Audiofire Studios",
+            "id": 409931555
+        },
+        {
+            "name": "Resolution",
+            "artist": "Audiofire Studios",
+            "id": 409941512
+        },
+        {
+            "name": "The New Frontier",
+            "artist": "Audiofire Studios",
+            "id": 409931556
+        },
+        {
+            "name": "Countdown",
+            "artist": "Audiofire Studios",
+            "id": 409931554
+        },
+        {
+            "name": "Aurora",
+            "artist": "Fringe Element",
+            "id": 36841070
+        },
+        {
+            "name": "Butterfly Effect",
+            "artist": "Fringe Element",
+            "id": 36871004
+        },
+        {
+            "name": "The Illusion of Sin",
+            "artist": "Fringe Element",
+            "id": 36871001
+        },
+        {
+            "name": "Crimson",
+            "artist": "Fringe Element",
+            "id": 36668999
+        },
+        {
+            "name": "Road to Redemption",
+            "artist": "Fringe Element",
+            "id": 36871002
+        },
+        {
+            "name": "Dark Forest",
+            "artist": "Fringe Element",
+            "id": 36669000
+        },
+        {
+            "name": "Air Support",
+            "artist": "Dwayne Ford",
+            "id": 410055752
+        },
+        {
+            "name": "Perseus",
+            "artist": "Dwayne Ford",
+            "id": 410055758
+        },
+        {
+            "name": "Sentinel",
+            "artist": "Dwayne Ford",
+            "id": 410055748
+        },
+        {
+            "name": "Acsension",
+            "artist": "Dwayne Ford",
+            "id": 410055751
+        },
+        {
+            "name": "Achille's Tears",
+            "artist": "Dwayne Ford",
+            "id": 410055746
+        },
+        {
+            "name": "We Are Here for Each Other",
+            "artist": "Patryk Scelina",
+            "id": 36668590
+        },
+        {
+            "name": "The Dream",
+            "artist": "Patryk Scelina",
+            "id": 36664653
+        },
+        {
+            "name": "Final Encounter",
+            "artist": "Patryk Scelina",
+            "id": 36668593
+        },
+        {
+            "name": "Unlimited Courage",
+            "artist": "Patryk Scelina",
+            "id": 36664655
+        },
+        {
+            "name": "Reunion",
+            "artist": "Patryk Scelina",
+            "id": 36668595
+        },
+        {
+            "name": "Lament of Valkyrie",
+            "artist": "EpicMusicVn",
+            "id": 402070052
+        },
+        {
+            "name": "Inevitable Destiny",
+            "artist": "EpicMusicVn",
+            "id": 402070053
+        },
+        {
+            "name": "Last Reunion",
+            "artist": "EpicMusicVn",
+            "id": 402073046
+        },
+        {
+            "name": "Distant Journey",
+            "artist": "EpicMusicVn",
+            "id": 402073045
+        },
+        {
+            "name": "After The End",
+            "artist": "Must Save Jane!",
+            "id": 36664657
+        },
+        {
+            "name": "One Day My Son",
+            "artist": "Must Save Jane!",
+            "id": 36664659
+        },
+        {
+            "name": "Rebirth",
+            "artist": "Must Save Jane!",
+            "id": 36664661
+        },
+        {
+            "name": "A New Life",
+            "artist": "Must Save Jane!",
+            "id": 36664662
+        },
+        {
+            "name": "Out Of The Shadows",
+            "artist": "Must Save Jane!",
+            "id": 36668601
+        },
+        {
+            "name": "The Last Hope",
+            "artist": "Must Save Jane!",
+            "id": 36664664
+        },
+        {
+            "name": "A New Life (Underscore)",
+            "artist": "Must Save Jane!",
+            "id": 36668604
+        },
+        {
+            "name": "Entelechy",
+            "artist": "J.T.Peterson",
+            "id": 1376891772
+        },
+        {
+            "name": "Vers L'avant",
+            "artist": "J.T.Peterson",
+            "id": 1376891759
+        },
+        {
+            "name": "The King Is Dead",
+            "artist": "J.T.Peterson",
+            "id": 1376892775
+        },
+        {
+            "name": "Black Rose",
+            "artist": "J.T.Peterson",
+            "id": 1376892783
+        },
+        {
+            "name": "Make Believe",
+            "artist": "J.T.Peterson",
+            "id": 1376892782
+        },
+        {
+            "name": "Last Breath",
+            "artist": "J.T.Peterson",
+            "id": 1376892785
+        },
+        {
+            "name": "Starchild",
+            "artist": "Ivan Torrent",
+            "id": 29823229
+        },
+        {
+            "name": "Supernova",
+            "artist": "Ivan Torrent",
+            "id": 29823218
+        },
+        {
+            "name": "In Aeternum",
+            "artist": "Ivan Torrent",
+            "id": 29823222
+        },
+        {
+            "name": "La Danse de la Lune",
+            "artist": "Ivan Torrent",
+            "id": 29823224
+        },
+        {
+            "name": "The Bounds of the Universe",
+            "artist": "Ivan Torrent",
+            "id": 29823225
+        },
+        {
+            "name": "The Power of Will",
+            "artist": "Ivan Torrent",
+            "id": 29823234
+        },
+        {
+            "name": "See You Soon",
+            "artist": "Norman Dück",
+            "id": 1381639601
+        },
+        {
+            "name": "Walk of the Legends",
+            "artist": "Norman Dück",
+            "id": 1381639602
+        },
+        {
+            "name": "A New Reality",
+            "artist": "Norman Dück",
+            "id": 1381644129
+        },
+        {
+            "name": "Isolated Feelings",
+            "artist": "Norman Dück",
+            "id": 1381639595
+        },
+        {
+            "name": "A Sight of the Future",
+            "artist": "Norman Dück",
+            "id": 1381639599
+        },
+        {
+            "name": "Falling into His Arms",
+            "artist": "Norman Dück",
+            "id": 1381639600
+        },
+        {
+            "name": "Above the Sky",
+            "artist": "Norman Dück",
+            "id": 1381644127
+        },
+        {
+            "name": "Tears of the Strong",
+            "artist": "Norman Dück",
+            "id": 1381639598
+        },
+        {
+            "name": "Coming Back",
+            "artist": "Norman Dück",
+            "id": 1381644130
+        },
+        {
+            "name": "One More Time",
+            "artist": "Shire Music",
+            "id": 34916750
+        },
+        {
+            "name": "Between Space And Time",
+            "artist": "Shire Music",
+            "id": 34916751
+        },
+        {
+            "name": "Majestic",
+            "artist": "Shire Music",
+            "id": 34916753
+        },
+        {
+            "name": "Superhuman",
+            "artist": "Shire Music",
+            "id": 34916755
+        },
+        {
+            "name": "Call For Heroes (Rock Mix)",
+            "artist": "Shire Music",
+            "id": 34916756
+        },
+        {
+            "name": "Epiphany",
+            "artist": "Shire Music",
+            "id": 34916759
+        },
+        {
+            "name": "Tanzanite",
+            "artist": "The Hit House",
+            "id": 422463611
+        },
+        {
+            "name": "Agate",
+            "artist": "The Hit House",
+            "id": 422419679
+        },
+        {
+            "name": "Agate No Choir",
+            "artist": "The Hit House",
+            "id": 422463622
+        },
+        {
+            "name": "Sunstone",
+            "artist": "The Hit House",
+            "id": 422463614
+        },
+        {
+            "name": "Celestite",
+            "artist": "The Hit House",
+            "id": 422463620
+        },
+        {
+            "name": "Amber",
+            "artist": "The Hit House",
+            "id": 422419686
+        },
+        {
+            "name": "Amber No Choir",
+            "artist": "The Hit House",
+            "id": 422463621
+        },
+        {
+            "name": "Between Worlds",
+            "artist": "Roger Subirana",
+            "id": 28661549
+        },
+        {
+            "name": "Fiery Tales",
+            "artist": "Roger Subirana",
+            "id": 28661550
+        },
+        {
+            "name": "Between Worlds (Vocal Version) [Bonus Track]",
+            "artist": "Roger Subirana",
+            "id": 28661561
+        },
+        {
+            "name": "In the Air",
+            "artist": "Roger Subirana",
+            "id": 28661554
+        },
+        {
+            "name": "Evolicity",
+            "artist": "Roger Subirana",
+            "id": 28661552
+        },
+        {
+            "name": "Remember Me",
+            "artist": "Aaron Mist",
+            "id": 1304837401
+        },
+        {
+            "name": "Center of the Universe",
+            "artist": "Aaron Mist",
+            "id": 1304837399
+        },
+        {
+            "name": "Atlantis",
+            "artist": "Aaron Mist",
+            "id": 1304837400
+        },
+        {
+            "name": "Song of the Sun",
+            "artist": "Aaron Mist",
+            "id": 1304836681
+        },
+        {
+            "name": "Lost Signal",
+            "artist": "Aaron Mist",
+            "id": 1304837404
+        },
+        {
+            "name": "Infinity",
+            "artist": "Aaron Mist",
+            "id": 1304836683
+        },
+        {
+            "name": "Guardians",
+            "artist": "Whitesand",
+            "id": 1873154326
+        },
+        {
+            "name": "Those We Love",
+            "artist": "Whitesand",
+            "id": 1873154330
+        },
+        {
+            "name": "Emerald Moon",
+            "artist": "Whitesand",
+            "id": 1873155297
+        },
+        {
+            "name": "Among The Stars",
+            "artist": "Whitesand",
+            "id": 1873154331
+        },
+        {
+            "name": "Deserter",
+            "artist": "Whitesand",
+            "id": 1873154332
+        },
+        {
+            "name": "Never Been The Same",
+            "artist": "Whitesand",
+            "id": 1873154334
+        },
+        {
+            "name": "The Other Side",
+            "artist": "Whitesand",
+            "id": 1873154335
+        },
+        {
+            "name": "Lost in The Cave",
+            "artist": "Whitesand",
+            "id": 1873154336
+        },
+        {
+            "name": "Secretum",
+            "artist": "Whitesand",
+            "id": 1873155298
+        },
+        {
+            "name": "Baiulus",
+            "artist": "Whitesand",
+            "id": 1873154337
+        },
+        {
+            "name": "Skies of Red",
+            "artist": "Whitesand",
+            "id": 1873154338
+        },
+        {
+            "name": "Lonely World",
+            "artist": "Whitesand",
+            "id": 1873155299
+        },
+        {
+            "name": "Animal Heart",
+            "artist": "Whitesand",
+            "id": 1873155300
+        },
+        {
+            "name": "Wasteland",
+            "artist": "Whitesand",
+            "id": 1873155301
+        },
+        {
+            "name": "Hunter",
+            "artist": "Whitesand",
+            "id": 1873155302
+        },
+        {
+            "name": "Resurgence",
+            "artist": "Whitesand",
+            "id": 1873155303
+        },
+        {
+            "name": "Moonlight",
+            "artist": "Whitesand",
+            "id": 1873154340
+        },
+        {
+            "name": "No More Running Away",
+            "artist": "Whitesand",
+            "id": 1873154341
+        }
+    ]
+}

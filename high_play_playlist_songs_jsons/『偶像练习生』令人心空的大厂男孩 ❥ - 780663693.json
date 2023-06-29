@@ -1,0 +1,827 @@
+{
+    "playlist_info": {
+        "name": "『偶像练习生』令人心空的大厂男孩 ❥",
+        "trackcount": 163,
+        "playcount": 5388939,
+        "creator": "Sehun_fighting",
+        "createDate": "2017-06-28",
+        "heat": 2458.0
+    },
+    "songs": [
+        {
+            "name": "Ei Ei",
+            "artist": "偶像练习生",
+            "id": 529823971
+        },
+        {
+            "name": "Firewalking (Live)",
+            "artist": "ONER灵超",
+            "id": 545590290
+        },
+        {
+            "name": "戒烟 (Live)",
+            "artist": "李荣浩",
+            "id": 548648087
+        },
+        {
+            "name": "面罩 (Live)",
+            "artist": "张艺兴",
+            "id": 548650088
+        },
+        {
+            "name": "如果你能感同我的身受",
+            "artist": "BC221",
+            "id": 511921360
+        },
+        {
+            "name": "DREAM (Live)",
+            "artist": "钱正昊",
+            "id": 545590291
+        },
+        {
+            "name": "听听我说的吧 (Live)",
+            "artist": "蔡徐坤",
+            "id": 545592271
+        },
+        {
+            "name": "It's Ok (Live)",
+            "artist": "董又霖",
+            "id": 550136151
+        },
+        {
+            "name": "Mack Daddy (Live)",
+            "artist": "卜凡",
+            "id": 550138132
+        },
+        {
+            "name": "I Wanna Get Love",
+            "artist": "蔡徐坤",
+            "id": 526857315
+        },
+        {
+            "name": "Forever (Live)",
+            "artist": "董又霖",
+            "id": 550136152
+        },
+        {
+            "name": "我永远记得 (Live)",
+            "artist": "周锐",
+            "id": 545589259
+        },
+        {
+            "name": "我怀念的 (Live)",
+            "artist": "陈立农",
+            "id": 543988388
+        },
+        {
+            "name": "Papillon (Live)",
+            "artist": "蔡徐坤",
+            "id": 542690024
+        },
+        {
+            "name": "小半 (Live)",
+            "artist": "周锐",
+            "id": 543987400
+        },
+        {
+            "name": "Zero (Live)",
+            "artist": "欧阳靖",
+            "id": 548648086
+        },
+        {
+            "name": "Artist (Live)",
+            "artist": "Lil Ghost小鬼",
+            "id": 543987405
+        },
+        {
+            "name": "PPAP (A组现场版)",
+            "artist": "周彦辰",
+            "id": 534542406
+        },
+        {
+            "name": "爱你 (Live)",
+            "artist": "董又霖",
+            "id": 543987399
+        },
+        {
+            "name": "Can't Stop (A组现场版)",
+            "artist": "邓烺怡",
+            "id": 534539367
+        },
+        {
+            "name": "BOOM BOOM BOOM (Live)",
+            "artist": "双层芝士汤姆",
+            "id": 545591255
+        },
+        {
+            "name": "Very Good (Live)",
+            "artist": "范丞丞",
+            "id": 544000397
+        },
+        {
+            "name": "Sheep (Live)",
+            "artist": "朱正廷",
+            "id": 542667023
+        },
+        {
+            "name": "解药",
+            "artist": "BC221",
+            "id": 532777357
+        },
+        {
+            "name": "特务J (Live)",
+            "artist": "周洁琼",
+            "id": 548649093
+        },
+        {
+            "name": "24K Magic Remix Havana (Live)",
+            "artist": "程潇",
+            "id": 548651095
+        },
+        {
+            "name": "Always Online (Live)",
+            "artist": "何东东",
+            "id": 543987398
+        },
+        {
+            "name": "大艺术家 (A组现场版)",
+            "artist": "张奕轩",
+            "id": 534539369
+        },
+        {
+            "name": "Me Too (Live)",
+            "artist": "娄滋博",
+            "id": 543986383
+        },
+        {
+            "name": "Can't Stop (B组现场版)",
+            "artist": "董又霖",
+            "id": 534541397
+        },
+        {
+            "name": "Turn Down for What (Live)",
+            "artist": "秦奋",
+            "id": 544000402
+        },
+        {
+            "name": "Shape Of You (Live)",
+            "artist": "陈名豪",
+            "id": 542690022
+        },
+        {
+            "name": "Flow (Live)",
+            "artist": "朱匀一",
+            "id": 543988385
+        },
+        {
+            "name": "PPAP (B组现场版)",
+            "artist": "李若天",
+            "id": 534542407
+        },
+        {
+            "name": "Dance To The Music (A组现场版)",
+            "artist": "余明君",
+            "id": 534542404
+        },
+        {
+            "name": "Dance To The Music (B组现场版)",
+            "artist": "陈斯琪",
+            "id": 534539368
+        },
+        {
+            "name": "代号魂斗罗 (A组现场版)",
+            "artist": "邱治谐",
+            "id": 534542409
+        },
+        {
+            "name": "代号魂斗罗 (B组现场版)",
+            "artist": "朱一文",
+            "id": 534541399
+        },
+        {
+            "name": "Shake (A组现场版)",
+            "artist": "张昕",
+            "id": 534542408
+        },
+        {
+            "name": "Shake (B组现场版)",
+            "artist": "王艺龙",
+            "id": 534540385
+        },
+        {
+            "name": "Get Ugly (6人版)",
+            "artist": "黄书豪",
+            "id": 534541398
+        },
+        {
+            "name": "Get Ugly (7人版)",
+            "artist": "双层芝士汤姆",
+            "id": 534542405
+        },
+        {
+            "name": "大艺术家 (B组现场版)",
+            "artist": "赵俞澈",
+            "id": 534540386
+        },
+        {
+            "name": "那些年",
+            "artist": "胡夏",
+            "id": 97357
+        },
+        {
+            "name": "007 (James Bond)",
+            "artist": "John Barry",
+            "id": 5052937
+        },
+        {
+            "name": "My Own (Prod.By Loud Beats)",
+            "artist": "J.Mag",
+            "id": 434974534
+        },
+        {
+            "name": "Automnal",
+            "artist": "Nebulo",
+            "id": 1796061
+        },
+        {
+            "name": "BABY BABY",
+            "artist": "Tropkillaz",
+            "id": 32405087
+        },
+        {
+            "name": "Honey",
+            "artist": "朴振荣",
+            "id": 5323726
+        },
+        {
+            "name": "戒烟",
+            "artist": "李荣浩",
+            "id": 518686034
+        },
+        {
+            "name": "24K Magic",
+            "artist": "Bruno Mars",
+            "id": 433681259
+        },
+        {
+            "name": "Havana",
+            "artist": "Camila Cabello",
+            "id": 494865824
+        },
+        {
+            "name": "零",
+            "artist": "欧阳靖",
+            "id": 506094573
+        },
+        {
+            "name": "特务J",
+            "artist": "蔡依林",
+            "id": 209633
+        },
+        {
+            "name": "一剪梅",
+            "artist": "费玉清",
+            "id": 82932
+        },
+        {
+            "name": "海草舞",
+            "artist": "萧全",
+            "id": 541511280
+        },
+        {
+            "name": "This Is My World",
+            "artist": "Esterly",
+            "id": 444548116
+        },
+        {
+            "name": "小刀会序曲",
+            "artist": "林友声",
+            "id": 128669
+        },
+        {
+            "name": "最长的电影",
+            "artist": "周杰伦",
+            "id": 185821
+        },
+        {
+            "name": "Rock the show",
+            "artist": "TRAINEE18练习生",
+            "id": 530995614
+        },
+        {
+            "name": "你曾是少年",
+            "artist": "S.H.E",
+            "id": 426027293
+        },
+        {
+            "name": "Loveless",
+            "artist": "山下智久",
+            "id": 540027
+        },
+        {
+            "name": "Loveless (Instrumental)",
+            "artist": "山下智久",
+            "id": 540042
+        },
+        {
+            "name": "双截棍",
+            "artist": "周杰伦",
+            "id": 186137
+        },
+        {
+            "name": "忍者",
+            "artist": "周杰伦",
+            "id": 186122
+        },
+        {
+            "name": "Papillon",
+            "artist": "王嘉尔",
+            "id": 501467216
+        },
+        {
+            "name": "Artist（Cover Zico）",
+            "artist": "鬼",
+            "id": 543757654
+        },
+        {
+            "name": "FLOW",
+            "artist": "方大同",
+            "id": 422463810
+        },
+        {
+            "name": "Turn Down for What",
+            "artist": "DJ Snake",
+            "id": 27888500
+        },
+        {
+            "name": "Shape of You",
+            "artist": "Ed Sheeran",
+            "id": 451703096
+        },
+        {
+            "name": "Me Too",
+            "artist": "Meghan Trainor",
+            "id": 411921480
+        },
+        {
+            "name": "Always Online",
+            "artist": "林俊杰",
+            "id": 108485
+        },
+        {
+            "name": "Very Good",
+            "artist": "Block B",
+            "id": 27804103
+        },
+        {
+            "name": "我怀念的",
+            "artist": "孙燕姿",
+            "id": 287063
+        },
+        {
+            "name": "小半",
+            "artist": "陈粒",
+            "id": 421423806
+        },
+        {
+            "name": "7",
+            "artist": "LEIER",
+            "id": 508672536
+        },
+        {
+            "name": "Nom Nom Nom Nom Nom Nom Nom",
+            "artist": "Parry Gripp",
+            "id": 21471226
+        },
+        {
+            "name": "The Next Episode",
+            "artist": "Dr. Dre",
+            "id": 17405594
+        },
+        {
+            "name": "Promise",
+            "artist": "山岡晃",
+            "id": 18861490
+        },
+        {
+            "name": "猪突猛進",
+            "artist": "百石元",
+            "id": 31246600
+        },
+        {
+            "name": "走り出す鼓動",
+            "artist": "三澤康広",
+            "id": 28568193
+        },
+        {
+            "name": "Despacito (Remix)",
+            "artist": "Luis Fonsi",
+            "id": 472361096
+        },
+        {
+            "name": "GDFR (feat. Sage the Gemini & Lookas)",
+            "artist": "Flo Rida",
+            "id": 29535349
+        },
+        {
+            "name": "Seve",
+            "artist": "Tez Cadey",
+            "id": 30394891
+        },
+        {
+            "name": "Worth It",
+            "artist": "Fifth Harmony",
+            "id": 30212890
+        },
+        {
+            "name": "That's What I Like",
+            "artist": "Bruno Mars",
+            "id": 441120471
+        },
+        {
+            "name": "暖心（Cover 郁可唯）",
+            "artist": "阮豆",
+            "id": 475243217
+        },
+        {
+            "name": "小酒窝",
+            "artist": "林俊杰",
+            "id": 108468
+        },
+        {
+            "name": "告白气球",
+            "artist": "周杰伦",
+            "id": 418603077
+        },
+        {
+            "name": "任意门",
+            "artist": "杨丞琳",
+            "id": 22740133
+        },
+        {
+            "name": "稀罕没理由 (feat. 吴昕)",
+            "artist": "潘玮柏",
+            "id": 497131712
+        },
+        {
+            "name": "舞娘",
+            "artist": "蔡依林",
+            "id": 209718
+        },
+        {
+            "name": "Trip",
+            "artist": "Axero",
+            "id": 36492599
+        },
+        {
+            "name": "Show Me The Money",
+            "artist": "吴俊城",
+            "id": 25717059
+        },
+        {
+            "name": "宝贝 (In a Day)",
+            "artist": "张悬",
+            "id": 326738
+        },
+        {
+            "name": "海绵宝宝（翻自 回音哥）",
+            "artist": "西瓜JUN",
+            "id": 450385404
+        },
+        {
+            "name": "爱的就是你",
+            "artist": "刘佳",
+            "id": 132975
+        },
+        {
+            "name": "我可以",
+            "artist": "蔡旻佑",
+            "id": 65681
+        },
+        {
+            "name": "你曾是少年（翻自 S.H.E）（Cover ）",
+            "artist": "灯芒",
+            "id": 458789090
+        },
+        {
+            "name": "あなたが教えてくれたもの ~爱のテーマ~",
+            "artist": "上田益",
+            "id": 537504
+        },
+        {
+            "name": "恋愛サーキュレーション",
+            "artist": "花澤香菜",
+            "id": 579954
+        },
+        {
+            "name": "Get Ugly",
+            "artist": "Jason Derulo",
+            "id": 31311320
+        },
+        {
+            "name": "大艺术家",
+            "artist": "蔡依林",
+            "id": 209539
+        },
+        {
+            "name": "半兽人",
+            "artist": "周杰伦",
+            "id": 186045
+        },
+        {
+            "name": "ペンパイナッポーアッポーペン(PPAP)",
+            "artist": "PIKO太郎",
+            "id": 432821633
+        },
+        {
+            "name": "Can't Stop",
+            "artist": "CNBLUE",
+            "id": 28274058
+        },
+        {
+            "name": "Dance To The Music",
+            "artist": "李宇春",
+            "id": 28864104
+        },
+        {
+            "name": "SHAKE",
+            "artist": "CNBLUE",
+            "id": 513502806
+        },
+        {
+            "name": "叫我",
+            "artist": "EXO",
+            "id": 31191713
+        },
+        {
+            "name": "Energy Drink",
+            "artist": "Virtual Riot",
+            "id": 27542857
+        },
+        {
+            "name": "Smash It Up",
+            "artist": "Various Artists",
+            "id": 29011341
+        },
+        {
+            "name": "KINGSMAN",
+            "artist": "徐梦圆",
+            "id": 514054561
+        },
+        {
+            "name": "Panama",
+            "artist": "Matteo",
+            "id": 34229976
+        },
+        {
+            "name": "放课后",
+            "artist": "渡辺剛",
+            "id": 4978801
+        },
+        {
+            "name": "Jackpot",
+            "artist": "陈哲远",
+            "id": 34578260
+        },
+        {
+            "name": "I don't know",
+            "artist": "COSMOS立体偶像男团",
+            "id": 459954749
+        },
+        {
+            "name": "TT",
+            "artist": "TWICE",
+            "id": 436699534
+        },
+        {
+            "name": "Good Life",
+            "artist": "G-Eazy",
+            "id": 466122659
+        },
+        {
+            "name": "Rise - Epic Music",
+            "artist": "John Dreamer",
+            "id": 28283137
+        },
+        {
+            "name": "Sky (Radio Edit)",
+            "artist": "Steerner",
+            "id": 29553031
+        },
+        {
+            "name": "给我乖",
+            "artist": "孟佳",
+            "id": 440464173
+        },
+        {
+            "name": "คนใจง่าย",
+            "artist": "Ice Sarunyu",
+            "id": 1471592
+        },
+        {
+            "name": "คนใจง่าย",
+            "artist": "Ice Sarunyu",
+            "id": 409646419
+        },
+        {
+            "name": "destruction",
+            "artist": "S9ryne",
+            "id": 30352986
+        },
+        {
+            "name": "위아래",
+            "artist": "EXID",
+            "id": 29011143
+        },
+        {
+            "name": "嗯",
+            "artist": "李荣浩",
+            "id": 519250016
+        },
+        {
+            "name": "够了",
+            "artist": "罗志祥",
+            "id": 35955184
+        },
+        {
+            "name": "두근두근",
+            "artist": "Ben",
+            "id": 32257062
+        },
+        {
+            "name": "Call of the ambulance",
+            "artist": "Trackformerz",
+            "id": 29984255
+        },
+        {
+            "name": "汤姆的第一首歌",
+            "artist": "双层芝士汤姆",
+            "id": 516566018
+        },
+        {
+            "name": "如果你能感同我的身受 (Live)",
+            "artist": "ONER木子洋",
+            "id": 534539057
+        },
+        {
+            "name": "Too Much (Prod. by room102)",
+            "artist": "董又霖",
+            "id": 532776446
+        },
+        {
+            "name": "Too Much",
+            "artist": "Drake",
+            "id": 27725575
+        },
+        {
+            "name": "天天",
+            "artist": "陶喆",
+            "id": 150633
+        },
+        {
+            "name": "头发乱了",
+            "artist": "张学友",
+            "id": 189012
+        },
+        {
+            "name": "City Of Stars (From \"La La Land\" Soundtrack)",
+            "artist": "Ryan Gosling",
+            "id": 441612583
+        },
+        {
+            "name": "Lose Yourself",
+            "artist": "Eminem",
+            "id": 5052317
+        },
+        {
+            "name": "GOOD",
+            "artist": "GOT7",
+            "id": 34999466
+        },
+        {
+            "name": "让世界毁灭",
+            "artist": "林宥嘉",
+            "id": 461811898
+        },
+        {
+            "name": "Ants",
+            "artist": "eDIT",
+            "id": 17640722
+        },
+        {
+            "name": "Power Moves",
+            "artist": "Diamond Pistols",
+            "id": 36496537
+        },
+        {
+            "name": "乱世巨星",
+            "artist": "陈小春",
+            "id": 4878122
+        },
+        {
+            "name": "我在人民广场吃炸鸡",
+            "artist": "阿肆",
+            "id": 206730
+        },
+        {
+            "name": "EOEO (中文版)",
+            "artist": "UNIQ",
+            "id": 31594240
+        },
+        {
+            "name": "Umbrella",
+            "artist": "Rihanna",
+            "id": 21563094
+        },
+        {
+            "name": "Lazy Song",
+            "artist": "Jason Chen",
+            "id": 106178
+        },
+        {
+            "name": "Its Going Down For Real (GDFR)",
+            "artist": "Sonic Mojo Music",
+            "id": 399366617
+        },
+        {
+            "name": "棉花糖",
+            "artist": "至上励合",
+            "id": 394748
+        },
+        {
+            "name": "Yes! Love",
+            "artist": "김현아",
+            "id": 433018115
+        },
+        {
+            "name": "女孩",
+            "artist": "陈立农",
+            "id": 531051713
+        },
+        {
+            "name": "女孩",
+            "artist": "韦礼安",
+            "id": 32358362
+        },
+        {
+            "name": "Rumors",
+            "artist": "Jake Miller",
+            "id": 33071205
+        },
+        {
+            "name": "Boyfriend",
+            "artist": "Justin Bieber",
+            "id": 18638060
+        },
+        {
+            "name": "Uptown Funk",
+            "artist": "Mark Ronson",
+            "id": 29722263
+        },
+        {
+            "name": "Turn up",
+            "artist": "周汤豪",
+            "id": 433681060
+        },
+        {
+            "name": "Sadness(中文版)",
+            "artist": "M4M",
+            "id": 26418165
+        },
+        {
+            "name": "汤姆学写情歌",
+            "artist": "双层芝士汤姆",
+            "id": 518549991
+        },
+        {
+            "name": "ALL DAY",
+            "artist": "暖男S",
+            "id": 530057183
+        },
+        {
+            "name": "들쥐떼들",
+            "artist": "Dynamic Duo",
+            "id": 28547803
+        },
+        {
+            "name": "情非得已",
+            "artist": "庾澄庆",
+            "id": 176999
+        },
+        {
+            "name": "靠近你的心 (I Wish)",
+            "artist": "宇宙少女",
+            "id": 451113349
+        },
+        {
+            "name": "模特 (Live)",
+            "artist": "李荣浩",
+            "id": 31877157
+        },
+        {
+            "name": "Ei Ei (抒情版)",
+            "artist": "偶像练习生",
+            "id": 531051039
+        }
+    ]
+}

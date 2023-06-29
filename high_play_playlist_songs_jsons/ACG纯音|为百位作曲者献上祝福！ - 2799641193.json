@@ -1,0 +1,512 @@
+{
+    "playlist_info": {
+        "name": "ACG纯音|为百位作曲者献上祝福！",
+        "trackcount": 100,
+        "playcount": 506842,
+        "creator": "爆肝工程师的狂想曲",
+        "createDate": "2019-05-15",
+        "heat": 336.0
+    },
+    "songs": [
+        {
+            "name": "Night Cruising",
+            "artist": "牛尾憲輔",
+            "id": 29357490
+        },
+        {
+            "name": "ひとりの夜想曲",
+            "artist": "高橋諒",
+            "id": 536154344
+        },
+        {
+            "name": "猪突猛進",
+            "artist": "百石元",
+            "id": 31246600
+        },
+        {
+            "name": "出発の前に…",
+            "artist": "甲田雅人",
+            "id": 407677289
+        },
+        {
+            "name": "告白",
+            "artist": "ANANT-GARDE EYES",
+            "id": 36307270
+        },
+        {
+            "name": "Blue Bird",
+            "artist": "大沢伸一",
+            "id": 1313661330
+        },
+        {
+            "name": "Das zweite Kapitel",
+            "artist": "やまだ豊",
+            "id": 31152656
+        },
+        {
+            "name": "翠の森",
+            "artist": "椎名治美",
+            "id": 29750588
+        },
+        {
+            "name": "優しい風景",
+            "artist": "永田大祐",
+            "id": 35755654
+        },
+        {
+            "name": "Wall",
+            "artist": "天門",
+            "id": 32320905
+        },
+        {
+            "name": "こぼれ落ちた雫",
+            "artist": "森脇正敏",
+            "id": 30394173
+        },
+        {
+            "name": "滲んだ月",
+            "artist": "羽鳥風画",
+            "id": 29979568
+        },
+        {
+            "name": "彩の花",
+            "artist": "鷹石忍",
+            "id": 31234785
+        },
+        {
+            "name": "夕凪",
+            "artist": "Angel Note",
+            "id": 407459027
+        },
+        {
+            "name": "TWO OF US",
+            "artist": "Mocky",
+            "id": 1399996982
+        },
+        {
+            "name": "Good Day",
+            "artist": "植松伸夫",
+            "id": 505665803
+        },
+        {
+            "name": "euphoria",
+            "artist": "Jizue",
+            "id": 1414048158
+        },
+        {
+            "name": "南極の太陽",
+            "artist": "藤澤慶昌",
+            "id": 547973302
+        },
+        {
+            "name": "白雪舞い落ちる街",
+            "artist": "西木康智",
+            "id": 865857565
+        },
+        {
+            "name": "Daydream cafe ~Solo Piano Ver.~",
+            "artist": "川田瑠夏",
+            "id": 29848730
+        },
+        {
+            "name": "眠",
+            "artist": "尾澤拓実",
+            "id": 494655
+        },
+        {
+            "name": "いつか見た夢",
+            "artist": "未知瑠",
+            "id": 448518095
+        },
+        {
+            "name": "文豪とアルケミスト ～Piano ver.～",
+            "artist": "坂本英城",
+            "id": 490637049
+        },
+        {
+            "name": "偽物の日常",
+            "artist": "高橋邦幸",
+            "id": 32857650
+        },
+        {
+            "name": "今日もどこかで（pf ver.）",
+            "artist": "田中貴",
+            "id": 546723336
+        },
+        {
+            "name": "楽园",
+            "artist": "菅野祐悟",
+            "id": 26465007
+        },
+        {
+            "name": "memory",
+            "artist": "川﨑龍",
+            "id": 1333350159
+        },
+        {
+            "name": "手つかずの感情",
+            "artist": "中山真斗",
+            "id": 26215042
+        },
+        {
+            "name": "汐",
+            "artist": "戸越まごめ",
+            "id": 22706979
+        },
+        {
+            "name": "calm flower",
+            "artist": "STEREO DIVE FOUNDATION",
+            "id": 810092
+        },
+        {
+            "name": "seele",
+            "artist": "菅野よう子",
+            "id": 28786237
+        },
+        {
+            "name": "ただ一つの願い",
+            "artist": "吉俣良",
+            "id": 1454381443
+        },
+        {
+            "name": "eye-water",
+            "artist": "澤野弘之",
+            "id": 26562720
+        },
+        {
+            "name": "Kitten",
+            "artist": "遠藤幹雄",
+            "id": 27580977
+        },
+        {
+            "name": "Blue Girl",
+            "artist": "岩崎琢",
+            "id": 31708173
+        },
+        {
+            "name": "空白の書",
+            "artist": "未来古代楽団",
+            "id": 432698923
+        },
+        {
+            "name": "calm and quiet days",
+            "artist": "梶浦由記",
+            "id": 557583248
+        },
+        {
+            "name": "父と娘",
+            "artist": "藤澤健至",
+            "id": 533173
+        },
+        {
+            "name": "誰のための",
+            "artist": "青木佳乃",
+            "id": 31478368
+        },
+        {
+            "name": "Aruarian Dance",
+            "artist": "Nujabes",
+            "id": 4909215
+        },
+        {
+            "name": "VICTORIA -piano ver.-",
+            "artist": "橘麻美",
+            "id": 1298432984
+        },
+        {
+            "name": "時代を超える想い2",
+            "artist": "和田薫",
+            "id": 541131
+        },
+        {
+            "name": "空蝉",
+            "artist": "高梨康治",
+            "id": 531940
+        },
+        {
+            "name": "あこがれ",
+            "artist": "根岸貴幸",
+            "id": 29583257
+        },
+        {
+            "name": "初恋の人",
+            "artist": "fox capture plan",
+            "id": 1326597151
+        },
+        {
+            "name": "絆",
+            "artist": "芳賀敬太",
+            "id": 462857498
+        },
+        {
+            "name": "夜想曲",
+            "artist": "大島ミチル",
+            "id": 29192639
+        },
+        {
+            "name": "月の光",
+            "artist": "大野克夫",
+            "id": 1358188569
+        },
+        {
+            "name": "ラボの日常",
+            "artist": "村上純",
+            "id": 4919966
+        },
+        {
+            "name": "ひろしの回想",
+            "artist": "浜口史郎",
+            "id": 4990703
+        },
+        {
+            "name": "ここは侍の国だ",
+            "artist": "Audio Highs",
+            "id": 4971479
+        },
+        {
+            "name": "Memory - At Home",
+            "artist": "安部纯",
+            "id": 632236
+        },
+        {
+            "name": "ヨスガノソラ メインテーマ -遠い空へ-",
+            "artist": "市川淳",
+            "id": 477913
+        },
+        {
+            "name": "静かな夜に、君と話そう",
+            "artist": "坂本昌一郎",
+            "id": 28699443
+        },
+        {
+            "name": "Rain in the Garden",
+            "artist": "坂部剛",
+            "id": 27488647
+        },
+        {
+            "name": "Departure -Piano+Acoustic Guitar Version-",
+            "artist": "朝倉紀行",
+            "id": 405778
+        },
+        {
+            "name": "一件落着",
+            "artist": "川井憲次",
+            "id": 443070806
+        },
+        {
+            "name": "Wings of Courage ピアノアレンジ1",
+            "artist": "Elements Garden",
+            "id": 32098363
+        },
+        {
+            "name": "いのちの名前",
+            "artist": "広橋真紀子",
+            "id": 578090
+        },
+        {
+            "name": "Clair de Lune from Suite bergamasque C.Debussy",
+            "artist": "高田雅史",
+            "id": 507192493
+        },
+        {
+            "name": "アゲイン",
+            "artist": "横山克",
+            "id": 30245064
+        },
+        {
+            "name": "You Are Beautiful",
+            "artist": "iris",
+            "id": 1294556049
+        },
+        {
+            "name": "月光の雲海",
+            "artist": "久石譲",
+            "id": 442760
+        },
+        {
+            "name": "夜明け",
+            "artist": "菊谷知樹",
+            "id": 27514630
+        },
+        {
+            "name": "ふるさとの匂い",
+            "artist": "吉森信",
+            "id": 541853
+        },
+        {
+            "name": "想いの寄り方は不均一",
+            "artist": "加藤達也",
+            "id": 441736
+        },
+        {
+            "name": "学園都市の夕暮れ",
+            "artist": "井内舞子",
+            "id": 676263
+        },
+        {
+            "name": "NEXT TO YOU",
+            "artist": "Ken Arai",
+            "id": 29816800
+        },
+        {
+            "name": "The First Layer",
+            "artist": "Kevin Penkin",
+            "id": 509106635
+        },
+        {
+            "name": "ゆるキャン△のテーマ",
+            "artist": "立山秋航",
+            "id": 546724142
+        },
+        {
+            "name": "やわらかな時間",
+            "artist": "林有三",
+            "id": 463775
+        },
+        {
+            "name": "here to stay",
+            "artist": "鷺巣詩郎",
+            "id": 504326
+        },
+        {
+            "name": "記憶の彼方へ触れる旅",
+            "artist": "虻川治",
+            "id": 526472288
+        },
+        {
+            "name": "渚",
+            "artist": "麻枝准",
+            "id": 22706980
+        },
+        {
+            "name": "夏祭り、夢花火。",
+            "artist": "妹尾武",
+            "id": 28411784
+        },
+        {
+            "name": "you",
+            "artist": "M.Graveyard",
+            "id": 786262
+        },
+        {
+            "name": "夜想曲第2番 変ホ長調 op.9-2 -ノクターン-",
+            "artist": "Frédéric François Chopin",
+            "id": 524148945
+        },
+        {
+            "name": "byebye",
+            "artist": "onoken",
+            "id": 28391988
+        },
+        {
+            "name": "Lost my pieces (Piano Ver.)",
+            "artist": "橋本由香利",
+            "id": 28910248
+        },
+        {
+            "name": "「プラチナむかつく」",
+            "artist": "神前暁",
+            "id": 460508
+        },
+        {
+            "name": "共病文庫",
+            "artist": "松谷卓",
+            "id": 494865362
+        },
+        {
+            "name": "散花",
+            "artist": "水月陵",
+            "id": 26131697
+        },
+        {
+            "name": "pure heart",
+            "artist": "松田彬人",
+            "id": 4946902
+        },
+        {
+            "name": "夜の向日葵",
+            "artist": "松本文紀",
+            "id": 4937357
+        },
+        {
+            "name": "黄金とおでん",
+            "artist": "田中公平",
+            "id": 4965633
+        },
+        {
+            "name": "幽雅に咲かせ、墨染の桜",
+            "artist": "TAMUSIC",
+            "id": 849691
+        },
+        {
+            "name": "海の見える街",
+            "artist": "小坂明子",
+            "id": 4988618
+        },
+        {
+            "name": "イザベラの唄",
+            "artist": "小畑貴裕",
+            "id": 1353212520
+        },
+        {
+            "name": "月がきれい",
+            "artist": "伊賀拓郎",
+            "id": 488388726
+        },
+        {
+            "name": "三葉のテーマ",
+            "artist": "RADWIMPS",
+            "id": 426881500
+        },
+        {
+            "name": "勝利~善のテーマ",
+            "artist": "有澤孝紀",
+            "id": 28850451
+        },
+        {
+            "name": "花火の夜に",
+            "artist": "羽岡佳",
+            "id": 4953172
+        },
+        {
+            "name": "「籠のなか」",
+            "artist": "増田俊郎",
+            "id": 469772
+        },
+        {
+            "name": "羽根",
+            "artist": "折戸伸治",
+            "id": 28151052
+        },
+        {
+            "name": "笑っていたくて……",
+            "artist": "母里治樹",
+            "id": 4928394
+        },
+        {
+            "name": "有哉と美月",
+            "artist": "中西亮輔",
+            "id": 30870642
+        },
+        {
+            "name": "旅路の果て",
+            "artist": "藤間仁",
+            "id": 723009
+        },
+        {
+            "name": "Never Coming Back",
+            "artist": "Evan Call",
+            "id": 548145360
+        },
+        {
+            "name": "A Theme of ONE PUNCH MAN~正義執行~",
+            "artist": "宮崎誠",
+            "id": 41632419
+        },
+        {
+            "name": "やったー！",
+            "artist": "水谷広実",
+            "id": 28167028
+        }
+    ]
+}

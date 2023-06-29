@@ -1,0 +1,532 @@
+{
+    "playlist_info": {
+        "name": "热门儿歌精选 | 适合0-6岁宝贝 百听不腻的好儿歌",
+        "trackcount": 104,
+        "playcount": 1005302,
+        "creator": "云音乐儿歌专区",
+        "createDate": "2020-12-08",
+        "heat": 1077.0
+    },
+    "songs": [
+        {
+            "name": "工程车",
+            "artist": "朱妮托尼",
+            "id": 1804355600
+        },
+        {
+            "name": "滴答滴答",
+            "artist": "周巽初",
+            "id": 1811603304
+        },
+        {
+            "name": "春天花会开",
+            "artist": "崔秀丽",
+            "id": 1811603287
+        },
+        {
+            "name": "我会自己上厕所",
+            "artist": "宝宝巴士",
+            "id": 566442223
+        },
+        {
+            "name": "小黄莺",
+            "artist": "宝宝巴士",
+            "id": 1818721625
+        },
+        {
+            "name": "牛对我弹琴",
+            "artist": "东东龙儿歌",
+            "id": 1816038806
+        },
+        {
+            "name": "崖上的波妞",
+            "artist": "久石譲",
+            "id": 1805289566
+        },
+        {
+            "name": "我多想快快长大",
+            "artist": "李昕融",
+            "id": 1433448807
+        },
+        {
+            "name": "Bling Bling Big Apple",
+            "artist": "iLab兴趣实验室",
+            "id": 1416355782
+        },
+        {
+            "name": "吉祥娃娃",
+            "artist": "李昕融",
+            "id": 1353373466
+        },
+        {
+            "name": "佩皮王国城堡",
+            "artist": "东东龙儿歌",
+            "id": 1804339767
+        },
+        {
+            "name": "晚安喵",
+            "artist": "艾索",
+            "id": 28875230
+        },
+        {
+            "name": "你的扣肉",
+            "artist": "群星",
+            "id": 29450562
+        },
+        {
+            "name": "洗澡歌Having a Bath",
+            "artist": "圈圈宝贝",
+            "id": 29738289
+        },
+        {
+            "name": "兜兜风",
+            "artist": "圈圈宝贝",
+            "id": 1471795555
+        },
+        {
+            "name": "感知成长的神奇",
+            "artist": "Y星人",
+            "id": 1402611397
+        },
+        {
+            "name": "石头剪刀布 (贝瓦宝宝)",
+            "artist": "First Girl",
+            "id": 864489523
+        },
+        {
+            "name": "一起长大的幸福",
+            "artist": "First Girl",
+            "id": 467390079
+        },
+        {
+            "name": "耍酷吧熊孩子",
+            "artist": "刘郡格",
+            "id": 864489520
+        },
+        {
+            "name": "无敌小可爱",
+            "artist": "Y星人",
+            "id": 1402592539
+        },
+        {
+            "name": "We Did It!",
+            "artist": "Dora The Explorer",
+            "id": 17422851
+        },
+        {
+            "name": "甜心小宝贝",
+            "artist": "吴子澜",
+            "id": 1388136830
+        },
+        {
+            "name": "小花猫",
+            "artist": "黑优优",
+            "id": 1806805916
+        },
+        {
+            "name": "松鼠快长大",
+            "artist": "黑优优",
+            "id": 1806805915
+        },
+        {
+            "name": "恐龙救援队",
+            "artist": "朱妮托尼",
+            "id": 1804329461
+        },
+        {
+            "name": "小火车The Little Train",
+            "artist": "圈圈宝贝",
+            "id": 400876164
+        },
+        {
+            "name": "拍手歌",
+            "artist": "虹猫蓝兔",
+            "id": 1491181845
+        },
+        {
+            "name": "happy new year",
+            "artist": "虹猫蓝兔",
+            "id": 1491181633
+        },
+        {
+            "name": "两只老虎爱跳舞",
+            "artist": "儿歌宝贝",
+            "id": 1408561309
+        },
+        {
+            "name": "Happy New Year",
+            "artist": "斑马儿歌",
+            "id": 1808307182
+        },
+        {
+            "name": "新健康歌",
+            "artist": "First Girl",
+            "id": 467390078
+        },
+        {
+            "name": "祖国的花朵 (官方版)",
+            "artist": "爱朵女孩",
+            "id": 1426819276
+        },
+        {
+            "name": "捣蛋鬼",
+            "artist": "邓文怡",
+            "id": 1296138469
+        },
+        {
+            "name": "最美的光",
+            "artist": "尚琪祺",
+            "id": 27908100
+        },
+        {
+            "name": "Yankee Doodle",
+            "artist": "Disney",
+            "id": 4025272
+        },
+        {
+            "name": "Bingo",
+            "artist": "Disney",
+            "id": 4025325
+        },
+        {
+            "name": "What A Wonderful World",
+            "artist": "The Innocence Mission",
+            "id": 21935132
+        },
+        {
+            "name": "Twinkle, Twinkle Little Star",
+            "artist": "Dora The Explorer",
+            "id": 17422867
+        },
+        {
+            "name": "Lavender's Blue",
+            "artist": "The Sunshine Singers",
+            "id": 556569584
+        },
+        {
+            "name": "The Wheels on the Bus",
+            "artist": "MARTY",
+            "id": 518088881
+        },
+        {
+            "name": "Row, Row, Row Your Boat",
+            "artist": "Various Artists",
+            "id": 28707960
+        },
+        {
+            "name": "Rainbow Song",
+            "artist": "MARTY",
+            "id": 518088880
+        },
+        {
+            "name": "Five Little Monkeys",
+            "artist": "Juice Music",
+            "id": 429560378
+        },
+        {
+            "name": "Mary Had A Little Lamb",
+            "artist": "Various Artists",
+            "id": 28707964
+        },
+        {
+            "name": "宝贝宝贝",
+            "artist": "小河狸贝瓦",
+            "id": 31654481
+        },
+        {
+            "name": "Milk Tea",
+            "artist": "iLab兴趣实验室",
+            "id": 1416359354
+        },
+        {
+            "name": "Edelweiss",
+            "artist": "The Innocence Mission",
+            "id": 21935138
+        },
+        {
+            "name": "There's a Hole in the Bucket",
+            "artist": "The Kiboomers",
+            "id": 531423748
+        },
+        {
+            "name": "大象大象",
+            "artist": "儿歌宝贝",
+            "id": 1399112688
+        },
+        {
+            "name": "美好中国行",
+            "artist": "儿歌宝贝",
+            "id": 1450956872
+        },
+        {
+            "name": "水手船向西",
+            "artist": "Little Baby Bum 与朋友们 - 幼儿儿歌",
+            "id": 1346847868
+        },
+        {
+            "name": "鲨鱼歌",
+            "artist": "Little Baby Bum 与朋友们 - 幼儿儿歌",
+            "id": 1346878537
+        },
+        {
+            "name": "啊唔手指歌",
+            "artist": "啊唔儿童音乐",
+            "id": 1380093506
+        },
+        {
+            "name": "小青蛙呱呱呱",
+            "artist": "儿歌宝贝",
+            "id": 1400021463
+        },
+        {
+            "name": "霸王龙",
+            "artist": "乐淘动漫",
+            "id": 1331849200
+        },
+        {
+            "name": "小手拍拍",
+            "artist": "宝宝巴士",
+            "id": 566442181
+        },
+        {
+            "name": "21 宝宝爱运动",
+            "artist": "宝宝巴士",
+            "id": 1475556447
+        },
+        {
+            "name": "好宝宝",
+            "artist": "高维那",
+            "id": 864489526
+        },
+        {
+            "name": "Chop Veggies",
+            "artist": "iLab兴趣实验室",
+            "id": 1416349331
+        },
+        {
+            "name": "爱莲说",
+            "artist": "婷婷姐姐",
+            "id": 452586755
+        },
+        {
+            "name": "我的身体",
+            "artist": "小河狸贝瓦",
+            "id": 863515756
+        },
+        {
+            "name": "鹅鹅鹅",
+            "artist": "火火兔",
+            "id": 554244768
+        },
+        {
+            "name": "S M I L E",
+            "artist": "The Kiboomers",
+            "id": 564121630
+        },
+        {
+            "name": "数字拍手歌",
+            "artist": "东东龙儿歌",
+            "id": 1450775050
+        },
+        {
+            "name": "三字经",
+            "artist": "火火兔",
+            "id": 554242755
+        },
+        {
+            "name": "有礼貌",
+            "artist": "圈圈宝贝",
+            "id": 1471794899
+        },
+        {
+            "name": "彩虹的约定",
+            "artist": "群星",
+            "id": 27896154
+        },
+        {
+            "name": "我是小小小画家",
+            "artist": "虹猫蓝兔",
+            "id": 1491185768
+        },
+        {
+            "name": "小宝贝 快快睡",
+            "artist": "火火兔",
+            "id": 554245778
+        },
+        {
+            "name": "奇妙动物园",
+            "artist": "乐宝宝与朋友童谣",
+            "id": 1463051448
+        },
+        {
+            "name": "Walking in the Jungle",
+            "artist": "斑马儿歌",
+            "id": 1489330306
+        },
+        {
+            "name": "拔萝卜",
+            "artist": "宝宝巴士",
+            "id": 566435148
+        },
+        {
+            "name": "The Hokey Pokey (Album Version)",
+            "artist": "Various Artists",
+            "id": 28707948
+        },
+        {
+            "name": "霸王龙",
+            "artist": "碰碰狐PINKFONG",
+            "id": 1482905281
+        },
+        {
+            "name": "小兔子乖乖",
+            "artist": "宝宝巴士",
+            "id": 566443169
+        },
+        {
+            "name": "Hey Diddle Diddle",
+            "artist": "Juny & Tony",
+            "id": 1374382920
+        },
+        {
+            "name": "Ten Little Indians",
+            "artist": "Various Artists",
+            "id": 28707949
+        },
+        {
+            "name": "Kiss baby",
+            "artist": "高维那",
+            "id": 864489525
+        },
+        {
+            "name": "Colors",
+            "artist": "碰碰狐PINKFONG",
+            "id": 1483230274
+        },
+        {
+            "name": " Silent Night",
+            "artist": "Badanamu",
+            "id": 1472906513
+        },
+        {
+            "name": "Spin the Color Wheel",
+            "artist": "iLab兴趣实验室",
+            "id": 1416355627
+        },
+        {
+            "name": "萤火虫对星星说",
+            "artist": "许歌淳一",
+            "id": 507533201
+        },
+        {
+            "name": "你是我的好朋友",
+            "artist": "好好（张轩睿）",
+            "id": 1455734287
+        },
+        {
+            "name": "童年记忆",
+            "artist": "许歌淳一",
+            "id": 1415626356
+        },
+        {
+            "name": "我有一个好爸爸",
+            "artist": "盖巧",
+            "id": 1458708763
+        },
+        {
+            "name": "My Little Pony Theme Song (Extended Version) [Bonus Track]",
+            "artist": "Daniel Ingram",
+            "id": 28471464
+        },
+        {
+            "name": "古诗王·春夏秋冬",
+            "artist": "婷婷姐姐",
+            "id": 1386852084
+        },
+        {
+            "name": "小鸡吃米",
+            "artist": "好好（张轩睿）",
+            "id": 1453911779
+        },
+        {
+            "name": "咏鹅",
+            "artist": "国乐宝宝",
+            "id": 1299550810
+        },
+        {
+            "name": "我不去打扰",
+            "artist": "东东龙儿歌",
+            "id": 1496869398
+        },
+        {
+            "name": "彩虹",
+            "artist": "东东龙儿歌",
+            "id": 1493204261
+        },
+        {
+            "name": "做个勇敢的小朋友",
+            "artist": "小匠星",
+            "id": 1453372828
+        },
+        {
+            "name": "小星星",
+            "artist": "快乐小马合唱团",
+            "id": 1417538026
+        },
+        {
+            "name": "梦幻跳蚤市场",
+            "artist": "东东龙儿歌",
+            "id": 1498490513
+        },
+        {
+            "name": "野餐之歌",
+            "artist": "乐宝宝与朋友童谣",
+            "id": 1463047364
+        },
+        {
+            "name": "I Like to Play",
+            "artist": "iLab兴趣实验室",
+            "id": 1416349292
+        },
+        {
+            "name": "“药”你健康 (纯净版)",
+            "artist": "Y星人",
+            "id": 1402611385
+        },
+        {
+            "name": "Roll Call",
+            "artist": "Thomas & Friends",
+            "id": 563086650
+        },
+        {
+            "name": "就是这么牛",
+            "artist": "Y星人",
+            "id": 1402611386
+        },
+        {
+            "name": "天空树The Sky Tree",
+            "artist": "圈圈宝贝",
+            "id": 29738286
+        },
+        {
+            "name": "Rain Rain Go Away",
+            "artist": "Badanamu",
+            "id": 1444905187
+        },
+        {
+            "name": "London Bridge (Album Version)",
+            "artist": "Disney",
+            "id": 4025317
+        },
+        {
+            "name": "Teddy Bear",
+            "artist": "Badanamu",
+            "id": 1444905184
+        },
+        {
+            "name": "游子吟",
+            "artist": "国乐宝宝",
+            "id": 1319873648
+        }
+    ]
+}

@@ -1,0 +1,832 @@
+{
+    "playlist_info": {
+        "name": "不太摇滚的摇滚[另类摇滚篇]",
+        "trackcount": 164,
+        "playcount": 58025,
+        "creator": "中卫鲍伊",
+        "createDate": "2021-08-25",
+        "heat": 86.0
+    },
+    "songs": [
+        {
+            "name": "After Hours",
+            "artist": "The Velvet Underground",
+            "id": 19537515
+        },
+        {
+            "name": "All Over the World",
+            "artist": "Pixies",
+            "id": 18319256
+        },
+        {
+            "name": "All The Way To Reno (You're Gonna Be A Star)",
+            "artist": "R.E.M.",
+            "id": 20283070
+        },
+        {
+            "name": "All Tomorrow's Parties",
+            "artist": "The Velvet Underground",
+            "id": 19537521
+        },
+        {
+            "name": "All the Right Friends",
+            "artist": "R.E.M.",
+            "id": 5052824
+        },
+        {
+            "name": "Allison",
+            "artist": "Pixies",
+            "id": 18319253
+        },
+        {
+            "name": "Ana",
+            "artist": "Pixies",
+            "id": 18319255
+        },
+        {
+            "name": "Andy's Chest",
+            "artist": "The Velvet Underground",
+            "id": 4334144
+        },
+        {
+            "name": "At My Most Beautiful",
+            "artist": "R.E.M.",
+            "id": 20283082
+        },
+        {
+            "name": "Bad Day",
+            "artist": "R.E.M.",
+            "id": 20283068
+        },
+        {
+            "name": "Be Mine (Mike On Bus Version)",
+            "artist": "R.E.M.",
+            "id": 1880734402
+        },
+        {
+            "name": "Beginning To See The Light",
+            "artist": "The Velvet Underground",
+            "id": 19537511
+        },
+        {
+            "name": "Belong",
+            "artist": "R.E.M.",
+            "id": 20282668
+        },
+        {
+            "name": "Blown Away",
+            "artist": "Pixies",
+            "id": 18319260
+        },
+        {
+            "name": "Blue",
+            "artist": "R.E.M.",
+            "id": 20282855
+        },
+        {
+            "name": "Bone Machine",
+            "artist": "Pixies",
+            "id": 4236622
+        },
+        {
+            "name": "Break My Body",
+            "artist": "Pixies",
+            "id": 4236626
+        },
+        {
+            "name": "Brick Is Red",
+            "artist": "Pixies",
+            "id": 4236668
+        },
+        {
+            "name": "Broken Face",
+            "artist": "Pixies",
+            "id": 4236633
+        },
+        {
+            "name": "Cactus",
+            "artist": "Pixies",
+            "id": 4236646
+        },
+        {
+            "name": "Candy Says",
+            "artist": "The Velvet Underground",
+            "id": 19537505
+        },
+        {
+            "name": "Caribou",
+            "artist": "Pixies",
+            "id": 18319138
+        },
+        {
+            "name": "Cecilia Ann",
+            "artist": "Pixies",
+            "id": 18319250
+        },
+        {
+            "name": "Country Feedback",
+            "artist": "R.E.M.",
+            "id": 20282671
+        },
+        {
+            "name": "Coyote (Live)",
+            "artist": "The Velvet Underground",
+            "id": 4334055
+        },
+        {
+            "name": "Crackity Jones",
+            "artist": "Pixies",
+            "id": 18319272
+        },
+        {
+            "name": "Creep",
+            "artist": "Radiohead",
+            "id": 22605222
+        },
+        {
+            "name": "Crush With Eyeliner",
+            "artist": "R.E.M.",
+            "id": 20283378
+        },
+        {
+            "name": "Dead",
+            "artist": "Pixies",
+            "id": 18319269
+        },
+        {
+            "name": "Dead Inside",
+            "artist": "Muse",
+            "id": 31134512
+        },
+        {
+            "name": "Debaser",
+            "artist": "Pixies",
+            "id": 18319264
+        },
+        {
+            "name": "Departure",
+            "artist": "R.E.M.",
+            "id": 20282703
+        },
+        {
+            "name": "Dig For Fire",
+            "artist": "Pixies",
+            "id": 18319257
+        },
+        {
+            "name": "Down To The Well",
+            "artist": "Pixies",
+            "id": 18319258
+        },
+        {
+            "name": "Drive",
+            "artist": "R.E.M.",
+            "id": 20282673
+        },
+        {
+            "name": "E-Bow the Letter",
+            "artist": "R.E.M.",
+            "id": 20282701
+        },
+        {
+            "name": "Electrolite",
+            "artist": "R.E.M.",
+            "id": 20283079
+        },
+        {
+            "name": "Endgame",
+            "artist": "R.E.M.",
+            "id": 20282666
+        },
+        {
+            "name": "European Son",
+            "artist": "The Velvet Underground",
+            "id": 19537526
+        },
+        {
+            "name": "Every Day Is Yours To Win",
+            "artist": "R.E.M.",
+            "id": 20282849
+        },
+        {
+            "name": "Everybody Hurts",
+            "artist": "R.E.M.",
+            "id": 20282676
+        },
+        {
+            "name": "Fake Plastic Trees",
+            "artist": "Radiohead",
+            "id": 18795423
+        },
+        {
+            "name": "Femme Fatale",
+            "artist": "The Velvet Underground",
+            "id": 19537518
+        },
+        {
+            "name": "Final Straw",
+            "artist": "R.E.M.",
+            "id": 20282741
+        },
+        {
+            "name": "Find the River",
+            "artist": "R.E.M.",
+            "id": 20282684
+        },
+        {
+            "name": "Foggy Notion",
+            "artist": "The Velvet Underground",
+            "id": 4334134
+        },
+        {
+            "name": "Gardening At Night",
+            "artist": "R.E.M.",
+            "id": 4261102
+        },
+        {
+            "name": "Get Up (Remastered)",
+            "artist": "R.E.M.",
+            "id": 20282652
+        },
+        {
+            "name": "Gigantic",
+            "artist": "Pixies",
+            "id": 4236637
+        },
+        {
+            "name": "Gouge Away",
+            "artist": "Pixies",
+            "id": 18319278
+        },
+        {
+            "name": "Half A World Away",
+            "artist": "R.E.M.",
+            "id": 28456014
+        },
+        {
+            "name": "Hallelujah",
+            "artist": "R.E.M.",
+            "id": 4261197
+        },
+        {
+            "name": "Havalina",
+            "artist": "Pixies",
+            "id": 18319263
+        },
+        {
+            "name": "Head On",
+            "artist": "Pixies",
+            "id": 18319226
+        },
+        {
+            "name": "Here Comes Your Man",
+            "artist": "Pixies",
+            "id": 18319295
+        },
+        {
+            "name": "Here She Comes Now",
+            "artist": "The Velvet Underground",
+            "id": 19537500
+        },
+        {
+            "name": "Hey",
+            "artist": "Pixies",
+            "id": 18319276
+        },
+        {
+            "name": "High and Dry",
+            "artist": "Radiohead",
+            "id": 18795421
+        },
+        {
+            "name": "How the West Was Won and Where It Got Us",
+            "artist": "R.E.M.",
+            "id": 20282697
+        },
+        {
+            "name": "I Bleed",
+            "artist": "Pixies",
+            "id": 18319267
+        },
+        {
+            "name": "I Can't Stand It",
+            "artist": "The Velvet Underground",
+            "id": 4334111
+        },
+        {
+            "name": "I Found a Reason",
+            "artist": "The Velvet Underground",
+            "id": 4333933
+        },
+        {
+            "name": "I'll Be Your Mirror",
+            "artist": "The Velvet Underground",
+            "id": 19537524
+        },
+        {
+            "name": "I'll Take the Rain",
+            "artist": "R.E.M.",
+            "id": 20282735
+        },
+        {
+            "name": "I'm Amazed",
+            "artist": "Pixies",
+            "id": 4236666
+        },
+        {
+            "name": "I'm Set Free",
+            "artist": "The Velvet Underground",
+            "id": 19537512
+        },
+        {
+            "name": "I'm Sticking With You",
+            "artist": "The Velvet Underground",
+            "id": 4334148
+        },
+        {
+            "name": "I'm Waiting For The Man",
+            "artist": "The Velvet Underground",
+            "id": 19537517
+        },
+        {
+            "name": "Ignoreland",
+            "artist": "R.E.M.",
+            "id": 20282680
+        },
+        {
+            "name": "Imitation Of Life",
+            "artist": "R.E.M.",
+            "id": 20283074
+        },
+        {
+            "name": "Is She Weird",
+            "artist": "Pixies",
+            "id": 18319254
+        },
+        {
+            "name": "Jesus",
+            "artist": "The Velvet Underground",
+            "id": 19537509
+        },
+        {
+            "name": "Knights of Cydonia",
+            "artist": "Muse",
+            "id": 4173219
+        },
+        {
+            "name": "La La Love You",
+            "artist": "Pixies",
+            "id": 18319273
+        },
+        {
+            "name": "Lady Godiva's Operation",
+            "artist": "The Velvet Underground",
+            "id": 19537499
+        },
+        {
+            "name": "Last Flowers",
+            "artist": "Radiohead",
+            "id": 428423136
+        },
+        {
+            "name": "Leave (Alternate Version)",
+            "artist": "R.E.M.",
+            "id": 1872277994
+        },
+        {
+            "name": "Leaving New York",
+            "artist": "R.E.M.",
+            "id": 20283412
+        },
+        {
+            "name": "Lisa Says",
+            "artist": "The Velvet Underground",
+            "id": 4334124
+        },
+        {
+            "name": "Losing My Relion",
+            "artist": "R.E.M.",
+            "id": 28456036
+        },
+        {
+            "name": "Louise",
+            "artist": "The Velvet Underground",
+            "id": 4334327
+        },
+        {
+            "name": "Low",
+            "artist": "R.E.M.",
+            "id": 20282664
+        },
+        {
+            "name": "Mambo Sun",
+            "artist": "Pixies",
+            "id": 1484930322
+        },
+        {
+            "name": "Man on the Moon",
+            "artist": "R.E.M.",
+            "id": 20282682
+        },
+        {
+            "name": "Monkey Gone to Heaven",
+            "artist": "Pixies",
+            "id": 401291386
+        },
+        {
+            "name": "Monty Got a Raw Deal",
+            "artist": "R.E.M.",
+            "id": 20282679
+        },
+        {
+            "name": "Moon River",
+            "artist": "R.E.M.",
+            "id": 22618273
+        },
+        {
+            "name": "Mr. Grieves",
+            "artist": "Pixies",
+            "id": 18319271
+        },
+        {
+            "name": "Near Wild Heaven",
+            "artist": "R.E.M.",
+            "id": 20282665
+        },
+        {
+            "name": "New Age",
+            "artist": "The Velvet Underground",
+            "id": 19537222
+        },
+        {
+            "name": "New Orleans Instrumental No. 1",
+            "artist": "R.E.M.",
+            "id": 20282677
+        },
+        {
+            "name": "Nightswimming",
+            "artist": "R.E.M.",
+            "id": 20282683
+        },
+        {
+            "name": "No 13 Baby",
+            "artist": "Pixies",
+            "id": 18319274
+        },
+        {
+            "name": "No Surprises",
+            "artist": "Radiohead",
+            "id": 22497479
+        },
+        {
+            "name": "Ocean",
+            "artist": "The Velvet Underground",
+            "id": 4334129
+        },
+        {
+            "name": "Oh My Golly!",
+            "artist": "Pixies",
+            "id": 4236655
+        },
+        {
+            "name": "One of These Days",
+            "artist": "The Velvet Underground",
+            "id": 4334141
+        },
+        {
+            "name": "Orange Crush",
+            "artist": "R.E.M.",
+            "id": 20283073
+        },
+        {
+            "name": "Pale Blue Eyes",
+            "artist": "The Velvet Underground",
+            "id": 19537508
+        },
+        {
+            "name": "Pop Song 89 (Remastered)",
+            "artist": "R.E.M.",
+            "id": 20282651
+        },
+        {
+            "name": "Psycho",
+            "artist": "Muse",
+            "id": 30987150
+        },
+        {
+            "name": "Radio Free Europe",
+            "artist": "R.E.M.",
+            "id": 4263112
+        },
+        {
+            "name": "Radio Song",
+            "artist": "R.E.M.",
+            "id": 20282662
+        },
+        {
+            "name": "Ride into the Sun",
+            "artist": "The Velvet Underground",
+            "id": 4333957
+        },
+        {
+            "name": "River Euphrates",
+            "artist": "Pixies",
+            "id": 4236640
+        },
+        {
+            "name": "Rock And Roll",
+            "artist": "The Velvet Underground",
+            "id": 19537220
+        },
+        {
+            "name": "Rock Music",
+            "artist": "Pixies",
+            "id": 18319251
+        },
+        {
+            "name": "Run Run Run",
+            "artist": "The Velvet Underground",
+            "id": 19537520
+        },
+        {
+            "name": "Shaking Through",
+            "artist": "R.E.M.",
+            "id": 4263143
+        },
+        {
+            "name": "She's My Best Friend",
+            "artist": "The Velvet Underground",
+            "id": 4334119
+        },
+        {
+            "name": "Silver",
+            "artist": "Pixies",
+            "id": 18319277
+        },
+        {
+            "name": "Sing for Absolution",
+            "artist": "Muse",
+            "id": 21255920
+        },
+        {
+            "name": "Sister Ray",
+            "artist": "The Velvet Underground",
+            "id": 19537503
+        },
+        {
+            "name": "Sitting Still",
+            "artist": "R.E.M.",
+            "id": 4261109
+        },
+        {
+            "name": "Some Kinda Love",
+            "artist": "The Velvet Underground",
+            "id": 19537507
+        },
+        {
+            "name": "Something Against You",
+            "artist": "Pixies",
+            "id": 4236629
+        },
+        {
+            "name": "Stand",
+            "artist": "R.E.M.",
+            "id": 20283078
+        },
+        {
+            "name": "Star Me Kitten",
+            "artist": "R.E.M.",
+            "id": 20282681
+        },
+        {
+            "name": "Starlight",
+            "artist": "Muse",
+            "id": 21256140
+        },
+        {
+            "name": "Stephanie Says",
+            "artist": "The Velvet Underground",
+            "id": 4334115
+        },
+        {
+            "name": "Stormy Weather",
+            "artist": "Pixies",
+            "id": 18319262
+        },
+        {
+            "name": "Sunday Morning",
+            "artist": "The Velvet Underground",
+            "id": 19537516
+        },
+        {
+            "name": "Supermassive Black Hole (Twilight Soundtrack Version)",
+            "artist": "Muse",
+            "id": 5042914
+        },
+        {
+            "name": "Supernatural Superserious",
+            "artist": "R.E.M.",
+            "id": 5042377
+        },
+        {
+            "name": "Sweet Jane",
+            "artist": "The Velvet Underground",
+            "id": 19537219
+        },
+        {
+            "name": "Sweetness Follows",
+            "artist": "R.E.M.",
+            "id": 20282678
+        },
+        {
+            "name": "Talk About the Passion",
+            "artist": "R.E.M.",
+            "id": 4263120
+        },
+        {
+            "name": "Tame",
+            "artist": "Pixies",
+            "id": 18319265
+        },
+        {
+            "name": "Temptation Inside Your Heart",
+            "artist": "The Velvet Underground",
+            "id": 4334138
+        },
+        {
+            "name": "That's The Story Of My Life",
+            "artist": "The Velvet Underground",
+            "id": 19537513
+        },
+        {
+            "name": "The Black Angel's Death Song",
+            "artist": "The Velvet Underground",
+            "id": 19537525
+        },
+        {
+            "name": "The Gift",
+            "artist": "The Velvet Underground",
+            "id": 19537497
+        },
+        {
+            "name": "The Great Beyond",
+            "artist": "R.E.M.",
+            "id": 20283067
+        },
+        {
+            "name": "The Happening",
+            "artist": "Pixies",
+            "id": 18319259
+        },
+        {
+            "name": "The Murder Mystery",
+            "artist": "The Velvet Underground",
+            "id": 19537514
+        },
+        {
+            "name": "The One I Love",
+            "artist": "R.E.M.",
+            "id": 28456041
+        },
+        {
+            "name": "The Outsiders",
+            "artist": "R.E.M.",
+            "id": 20282739
+        },
+        {
+            "name": "The Sidewinder Sleeps Tonite",
+            "artist": "R.E.M.",
+            "id": 20282675
+        },
+        {
+            "name": "The Thing",
+            "artist": "Pixies",
+            "id": 18319165
+        },
+        {
+            "name": "There Goes My Gun",
+            "artist": "Pixies",
+            "id": 18319275
+        },
+        {
+            "name": "There She Goes Again",
+            "artist": "The Velvet Underground",
+            "id": 19537523
+        },
+        {
+            "name": "This Friendly World",
+            "artist": "R.E.M.",
+            "id": 5054625
+        },
+        {
+            "name": "Tony's Theme",
+            "artist": "Pixies",
+            "id": 4236650
+        },
+        {
+            "name": "Try Not to Breathe",
+            "artist": "R.E.M.",
+            "id": 20282674
+        },
+        {
+            "name": "Turn You Inside-Out (Remastered)",
+            "artist": "R.E.M.",
+            "id": 20282658
+        },
+        {
+            "name": "Unintended",
+            "artist": "Muse",
+            "id": 21256075
+        },
+        {
+            "name": "Vamos (Surfer Rosa)",
+            "artist": "Pixies",
+            "id": 4236663
+        },
+        {
+            "name": "Velouria",
+            "artist": "Pixies",
+            "id": 18319252
+        },
+        {
+            "name": "Venus In Furs",
+            "artist": "The Velvet Underground",
+            "id": 19537519
+        },
+        {
+            "name": "Wall Of Death",
+            "artist": "R.E.M.",
+            "id": 1875178338
+        },
+        {
+            "name": "Wave Of Mutilation",
+            "artist": "Pixies",
+            "id": 18319266
+        },
+        {
+            "name": "Wave of Mutilation (UK Surf)",
+            "artist": "Pixies",
+            "id": 18319160
+        },
+        {
+            "name": "We All Go Back to Where We Belong",
+            "artist": "R.E.M.",
+            "id": 4261206
+        },
+        {
+            "name": "We Walk",
+            "artist": "R.E.M.",
+            "id": 4263147
+        },
+        {
+            "name": "We're Gonna Have A Real Good Time Together",
+            "artist": "The Velvet Underground",
+            "id": 19537545
+        },
+        {
+            "name": "What Goes On",
+            "artist": "The Velvet Underground",
+            "id": 19537506
+        },
+        {
+            "name": "What's The Frequency, Kenneth?",
+            "artist": "R.E.M.",
+            "id": 20283069
+        },
+        {
+            "name": "Where Is My Mind?",
+            "artist": "Pixies",
+            "id": 4236643
+        },
+        {
+            "name": "White Light/White Heat",
+            "artist": "The Velvet Underground",
+            "id": 19537496
+        },
+        {
+            "name": "Who Loves The Sun",
+            "artist": "The Velvet Underground",
+            "id": 19537218
+        },
+        {
+            "name": "You Are The Everything (Remastered)",
+            "artist": "R.E.M.",
+            "id": 20282653
+        },
+        {
+            "name": "******",
+            "artist": "The Velvet Underground",
+            "id": 19537522
+        },
+        {
+            "name": "7 Chinese Bros.",
+            "artist": "R.E.M.",
+            "id": 4263074
+        },
+        {
+            "name": "ÜBerlin",
+            "artist": "R.E.M.",
+            "id": 20282846
+        }
+    ]
+}

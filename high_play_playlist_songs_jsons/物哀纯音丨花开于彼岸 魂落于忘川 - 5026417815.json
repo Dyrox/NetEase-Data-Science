@@ -1,0 +1,902 @@
+{
+    "playlist_info": {
+        "name": "物哀纯音丨花开于彼岸 魂落于忘川",
+        "trackcount": 178,
+        "playcount": 1145391,
+        "creator": "Sakura雫",
+        "createDate": "2020-05-20",
+        "heat": 1008.0
+    },
+    "songs": [
+        {
+            "name": "彼岸花",
+            "artist": "高梨康治",
+            "id": 532931
+        },
+        {
+            "name": "別離",
+            "artist": "川井憲次",
+            "id": 536622718
+        },
+        {
+            "name": "里帰り",
+            "artist": "京箪笥",
+            "id": 706214
+        },
+        {
+            "name": "地狱少女",
+            "artist": "高梨康治",
+            "id": 533063
+        },
+        {
+            "name": "約束の花",
+            "artist": "川井憲次",
+            "id": 536570735
+        },
+        {
+            "name": "惨劇の記憶",
+            "artist": "柿島伸次",
+            "id": 4928431
+        },
+        {
+            "name": "花が散る世界",
+            "artist": "Revo",
+            "id": 26111688
+        },
+        {
+            "name": "ここは侍の国だ",
+            "artist": "Audio Highs",
+            "id": 4971479
+        },
+        {
+            "name": "蜘蛛と老婆と少女",
+            "artist": "高梨康治",
+            "id": 533155
+        },
+        {
+            "name": "運命の夜 -piano ver.-",
+            "artist": "川井憲次",
+            "id": 22790286
+        },
+        {
+            "name": "今日はおやすみなさい",
+            "artist": "MOSAIC.WAV",
+            "id": 36307952
+        },
+        {
+            "name": "メインテーマ piano solo",
+            "artist": "大島ミチル",
+            "id": 635467
+        },
+        {
+            "name": "優しいめぐねえありがとう",
+            "artist": "MOSAIC.WAV",
+            "id": 36307944
+        },
+        {
+            "name": "Blue Dragon(piano&guitarver)",
+            "artist": "澤野弘之",
+            "id": 501829
+        },
+        {
+            "name": "Lost my pieces (Piano Ver.)",
+            "artist": "橋本由香利",
+            "id": 28910248
+        },
+        {
+            "name": "三途の川（さんずのかわ）",
+            "artist": "饭碗的彼岸",
+            "id": 479864211
+        },
+        {
+            "name": "二少女図(instrumental)",
+            "artist": "mimei",
+            "id": 620979
+        },
+        {
+            "name": "君と僕、届かぬ想い",
+            "artist": "佐橋俊彦",
+            "id": 499692
+        },
+        {
+            "name": "悲運の巫女 桔梗",
+            "artist": "和田薫",
+            "id": 541260
+        },
+        {
+            "name": "Karma -Klavier-",
+            "artist": "阿保剛",
+            "id": 33887443
+        },
+        {
+            "name": "悲しい決意",
+            "artist": "Famishin",
+            "id": 28838663
+        },
+        {
+            "name": "桔梗の心",
+            "artist": "和田薫",
+            "id": 540912
+        },
+        {
+            "name": "五月雨",
+            "artist": "高梨康治",
+            "id": 530507
+        },
+        {
+            "name": "悲哀",
+            "artist": "光宗信吉",
+            "id": 471418
+        },
+        {
+            "name": "棘",
+            "artist": "MANYO",
+            "id": 26196652
+        },
+        {
+            "name": "恸哭",
+            "artist": "MANYO",
+            "id": 777951
+        },
+        {
+            "name": "雪野原",
+            "artist": "折戸伸治",
+            "id": 22706993
+        },
+        {
+            "name": "水面の月",
+            "artist": "高梨康治",
+            "id": 532900
+        },
+        {
+            "name": "静希草十郎",
+            "artist": "深澤秀行",
+            "id": 501673
+        },
+        {
+            "name": "美しい想い出",
+            "artist": "和田薫",
+            "id": 540879
+        },
+        {
+            "name": "ふたりの気持ち",
+            "artist": "和田薫",
+            "id": 1499596910
+        },
+        {
+            "name": "If We Meet Again",
+            "artist": "坂部剛",
+            "id": 35447237
+        },
+        {
+            "name": "時代を超える想い2",
+            "artist": "和田薫",
+            "id": 541131
+        },
+        {
+            "name": "暁の车(piano version)",
+            "artist": "梶浦由記",
+            "id": 724500
+        },
+        {
+            "name": "Crime and Punishment",
+            "artist": "千住明",
+            "id": 498639
+        },
+        {
+            "name": "Lost my pieces(M-45)",
+            "artist": "橋本由香利",
+            "id": 583253
+        },
+        {
+            "name": "his war, my war #2",
+            "artist": "梶浦由記",
+            "id": 557584233
+        },
+        {
+            "name": "Cry for the moon",
+            "artist": "出羽良彰",
+            "id": 28445796
+        },
+        {
+            "name": "hear our prayer",
+            "artist": "梶浦由記",
+            "id": 593055
+        },
+        {
+            "name": "with the wind",
+            "artist": "光田康典",
+            "id": 33187338
+        },
+        {
+            "name": "少女と桔梗",
+            "artist": "和田薫",
+            "id": 539340
+        },
+        {
+            "name": "殻ノ少女",
+            "artist": "MANYO",
+            "id": 28466105
+        },
+        {
+            "name": "月の涙",
+            "artist": "MANYO",
+            "id": 777948
+        },
+        {
+            "name": "孤影",
+            "artist": "S.E.N.S.",
+            "id": 816965
+        },
+        {
+            "name": "絆",
+            "artist": "川井憲次",
+            "id": 448137
+        },
+        {
+            "name": "孤独",
+            "artist": "大島ミチル",
+            "id": 636692
+        },
+        {
+            "name": "海の涙",
+            "artist": "出羽良彰",
+            "id": 28445798
+        },
+        {
+            "name": "はなむけ",
+            "artist": "神前暁",
+            "id": 29366987
+        },
+        {
+            "name": "孤独な巡礼",
+            "artist": "川井憲次",
+            "id": 448065
+        },
+        {
+            "name": "苦くて甘い水",
+            "artist": "水谷広実",
+            "id": 530962
+        },
+        {
+            "name": "哀しみの果てに",
+            "artist": "和田薫",
+            "id": 541270
+        },
+        {
+            "name": "かごめと犬夜叉II",
+            "artist": "和田薫",
+            "id": 540908
+        },
+        {
+            "name": "Pianoforte-AdLib II",
+            "artist": "澤野弘之",
+            "id": 498022
+        },
+        {
+            "name": "a/z-p1@n0:5罪vers",
+            "artist": "澤野弘之",
+            "id": 31053278
+        },
+        {
+            "name": "Taenia memoriae",
+            "artist": "梶浦由記",
+            "id": 590181
+        },
+        {
+            "name": "The First Layer",
+            "artist": "Kevin Penkin",
+            "id": 509106635
+        },
+        {
+            "name": "すりぬける心",
+            "artist": "渡辺善太郎",
+            "id": 28445800
+        },
+        {
+            "name": "空の涯まで",
+            "artist": "佐藤直紀",
+            "id": 508797
+        },
+        {
+            "name": "阎魔あい",
+            "artist": "高梨康治",
+            "id": 531007
+        },
+        {
+            "name": "Father",
+            "artist": "やまだ豊",
+            "id": 31152753
+        },
+        {
+            "name": "M01",
+            "artist": "梶浦由記",
+            "id": 591797
+        },
+        {
+            "name": "雫",
+            "artist": "深澤秀行",
+            "id": 502415
+        },
+        {
+            "name": "M01",
+            "artist": "梶浦由記",
+            "id": 591889
+        },
+        {
+            "name": "κrOnё",
+            "artist": "澤野弘之",
+            "id": 498139
+        },
+        {
+            "name": "切なくて",
+            "artist": "長谷川智樹",
+            "id": 429473
+        },
+        {
+            "name": "Thin purple",
+            "artist": "MANYO",
+            "id": 28466088
+        },
+        {
+            "name": "騎士王の誇り",
+            "artist": "川井憲次",
+            "id": 448119
+        },
+        {
+            "name": "take your hands",
+            "artist": "梶浦由記",
+            "id": 28341401
+        },
+        {
+            "name": "this is my despair",
+            "artist": "梶浦由記",
+            "id": 28341398
+        },
+        {
+            "name": "Sadness and Sorrow",
+            "artist": "Half-blood Kakashi",
+            "id": 483453232
+        },
+        {
+            "name": "あいぞめ piano version",
+            "artist": "高梨康治",
+            "id": 532802
+        },
+        {
+            "name": "俗・メインテーマ(2M01)",
+            "artist": "長谷川智樹",
+            "id": 26115506
+        },
+        {
+            "name": "切ない恋のプレリュード",
+            "artist": "松谷卓",
+            "id": 469197
+        },
+        {
+            "name": "Kokoro no Ame ~心の雨~",
+            "artist": "長谷川智樹",
+            "id": 632007
+        },
+        {
+            "name": "「雨がくる虹がたつ」",
+            "artist": "増田俊郎",
+            "id": 469883
+        },
+        {
+            "name": "沈黙のレクイエム",
+            "artist": "末廣健一郎",
+            "id": 437608323
+        },
+        {
+            "name": "かごめと犬夜叉",
+            "artist": "和田薫",
+            "id": 541275
+        },
+        {
+            "name": "Shinkai - 深海",
+            "artist": "MOKA☆",
+            "id": 783022
+        },
+        {
+            "name": "静かな日々",
+            "artist": "S.E.N.S.",
+            "id": 817283
+        },
+        {
+            "name": "勝手な話",
+            "artist": "神前暁",
+            "id": 28403568
+        },
+        {
+            "name": "長ゼリ",
+            "artist": "羽岡佳",
+            "id": 521267906
+        },
+        {
+            "name": "霊力",
+            "artist": "和田薫",
+            "id": 541280
+        },
+        {
+            "name": "光",
+            "artist": "菅野祐悟",
+            "id": 26219481
+        },
+        {
+            "name": "慕情",
+            "artist": "和田薫",
+            "id": 541233
+        },
+        {
+            "name": "きくり",
+            "artist": "水谷広実",
+            "id": 532874
+        },
+        {
+            "name": "潮鳴りII",
+            "artist": "折戸伸治",
+            "id": 22706999
+        },
+        {
+            "name": "unjust life",
+            "artist": "ANANT-GARDE EYES",
+            "id": 471942
+        },
+        {
+            "name": "想い抱いて",
+            "artist": "川井憲次",
+            "id": 447993
+        },
+        {
+            "name": "クオンノマユ",
+            "artist": "MANYO",
+            "id": 1817109142
+        },
+        {
+            "name": "トールの思い出",
+            "artist": "七瀬光",
+            "id": 471403838
+        },
+        {
+            "name": "Kiss Of Death",
+            "artist": "遠藤幹雄",
+            "id": 27580990
+        },
+        {
+            "name": "Lost Memory",
+            "artist": "S.E.N.S.",
+            "id": 817319
+        },
+        {
+            "name": "torn apart",
+            "artist": "鷺巣詩郎",
+            "id": 504351
+        },
+        {
+            "name": "Revolve",
+            "artist": "梶浦由記",
+            "id": 591088
+        },
+        {
+            "name": "M14",
+            "artist": "梶浦由記",
+            "id": 591839
+        },
+        {
+            "name": "眠",
+            "artist": "尾澤拓実",
+            "id": 494655
+        },
+        {
+            "name": "M16",
+            "artist": "梶浦由記",
+            "id": 591936
+        },
+        {
+            "name": "Epitaph",
+            "artist": "高梨康治",
+            "id": 530274
+        },
+        {
+            "name": "Believe Me",
+            "artist": "阿保剛",
+            "id": 22722861
+        },
+        {
+            "name": "Pf:CreatorsIV",
+            "artist": "澤野弘之",
+            "id": 484058467
+        },
+        {
+            "name": "Dream or Real",
+            "artist": "坂部剛",
+            "id": 1829136222
+        },
+        {
+            "name": "Dearly Beloved",
+            "artist": "下村陽子",
+            "id": 27511956
+        },
+        {
+            "name": "One Love -pf-",
+            "artist": "山本康太",
+            "id": 864107231
+        },
+        {
+            "name": "innocence",
+            "artist": "深澤秀行",
+            "id": 501859
+        },
+        {
+            "name": "Mosaic",
+            "artist": "高梨康治",
+            "id": 530348
+        },
+        {
+            "name": "M02",
+            "artist": "梶浦由記",
+            "id": 591800
+        },
+        {
+            "name": "will",
+            "artist": "深澤秀行",
+            "id": 35270642
+        },
+        {
+            "name": "bye",
+            "artist": "横山克",
+            "id": 32823260
+        },
+        {
+            "name": "M18",
+            "artist": "梶浦由記",
+            "id": 22731740
+        },
+        {
+            "name": "恋心",
+            "artist": "MANYO",
+            "id": 29005395
+        },
+        {
+            "name": "别れ",
+            "artist": "村上純",
+            "id": 4919987
+        },
+        {
+            "name": "Vain",
+            "artist": "大森俊之",
+            "id": 22819147
+        },
+        {
+            "name": "Pain",
+            "artist": "濱剛",
+            "id": 4965272
+        },
+        {
+            "name": "心中",
+            "artist": "羽岡佳",
+            "id": 523035595
+        },
+        {
+            "name": "溢爱",
+            "artist": "上松範康",
+            "id": 536057
+        },
+        {
+            "name": "紅蓮",
+            "artist": "高梨康治",
+            "id": 530454
+        },
+        {
+            "name": "兄弟",
+            "artist": "大島ミチル",
+            "id": 636907
+        },
+        {
+            "name": "铃羽",
+            "artist": "村上純",
+            "id": 22722826
+        },
+        {
+            "name": "哀歌",
+            "artist": "和田薫",
+            "id": 541265
+        },
+        {
+            "name": "悲哀",
+            "artist": "百石元",
+            "id": 32405881
+        },
+        {
+            "name": "久远…",
+            "artist": "MANYO",
+            "id": 777985
+        },
+        {
+            "name": "Fonte",
+            "artist": "saigenji",
+            "id": 28445782
+        },
+        {
+            "name": "哀と悲",
+            "artist": "六三四",
+            "id": 784553
+        },
+        {
+            "name": "御神木",
+            "artist": "和田薫",
+            "id": 541064
+        },
+        {
+            "name": "Desert",
+            "artist": "澤野弘之",
+            "id": 22753344
+        },
+        {
+            "name": "Mikoto...",
+            "artist": "遠藤幹雄",
+            "id": 31587904
+        },
+        {
+            "name": "Reason",
+            "artist": "川井憲次",
+            "id": 445828
+        },
+        {
+            "name": "farewell",
+            "artist": "梶浦由記",
+            "id": 592000
+        },
+        {
+            "name": "独り游び",
+            "artist": "高梨康治",
+            "id": 530981
+        },
+        {
+            "name": "幸セナ死",
+            "artist": "岡部啓一",
+            "id": 468490600
+        },
+        {
+            "name": "お役御免",
+            "artist": "神前暁",
+            "id": 448316753
+        },
+        {
+            "name": "Epilogue",
+            "artist": "北村友香",
+            "id": 407677593
+        },
+        {
+            "name": "祈り,愿い",
+            "artist": "和田薫",
+            "id": 539348
+        },
+        {
+            "name": "Melody 2",
+            "artist": "梶浦由記",
+            "id": 591071
+        },
+        {
+            "name": "Die Down",
+            "artist": "FELT",
+            "id": 27580734
+        },
+        {
+            "name": "Memories",
+            "artist": "横山克",
+            "id": 32823253
+        },
+        {
+            "name": "「瞼の光」",
+            "artist": "増田俊郎",
+            "id": 469868
+        },
+        {
+            "name": "幸せな日々",
+            "artist": "和田薫",
+            "id": 539192
+        },
+        {
+            "name": "姉弟の思い",
+            "artist": "和田薫",
+            "id": 539342
+        },
+        {
+            "name": "花火の夜に",
+            "artist": "羽岡佳",
+            "id": 4953172
+        },
+        {
+            "name": "母の思い出",
+            "artist": "和田薫",
+            "id": 539356
+        },
+        {
+            "name": "感謝と覚悟",
+            "artist": "川井憲次",
+            "id": 536570733
+        },
+        {
+            "name": "地狱の舟歌",
+            "artist": "高梨康治",
+            "id": 532864
+        },
+        {
+            "name": "運命と恋心",
+            "artist": "和田薫",
+            "id": 541230
+        },
+        {
+            "name": "悲しい结末",
+            "artist": "光宗信吉",
+            "id": 471373
+        },
+        {
+            "name": "悲しき過去",
+            "artist": "高梨康治",
+            "id": 22642371
+        },
+        {
+            "name": "美少女迷宮",
+            "artist": "秋山裕和",
+            "id": 33737008
+        },
+        {
+            "name": "here to stay",
+            "artist": "鷺巣詩郎",
+            "id": 504326
+        },
+        {
+            "name": "「籠のなか」",
+            "artist": "増田俊郎",
+            "id": 469772
+        },
+        {
+            "name": "「山抱く衣」",
+            "artist": "増田俊郎",
+            "id": 469777
+        },
+        {
+            "name": "「春と嘯く」",
+            "artist": "増田俊郎",
+            "id": 469742
+        },
+        {
+            "name": "Old Memory",
+            "artist": "市川淳",
+            "id": 477982
+        },
+        {
+            "name": "ジャンとレオ",
+            "artist": "和田薫",
+            "id": 539195
+        },
+        {
+            "name": "左近のテーマ",
+            "artist": "中村由利子",
+            "id": 625916
+        },
+        {
+            "name": "忘れえぬ思い",
+            "artist": "中村由利子",
+            "id": 625793
+        },
+        {
+            "name": "想いの果てに",
+            "artist": "和田薫",
+            "id": 540924
+        },
+        {
+            "name": "「露を吸う群」",
+            "artist": "増田俊郎",
+            "id": 469896
+        },
+        {
+            "name": "Nameless Song",
+            "artist": "桜庭統",
+            "id": 509041
+        },
+        {
+            "name": "Departure -Piano Solo-",
+            "artist": "朝倉紀行",
+            "id": 405827
+        },
+        {
+            "name": "K's Theme ~Piano ver~",
+            "artist": "遠藤幹雄",
+            "id": 26142317
+        },
+        {
+            "name": "星と僕らと -piano version-",
+            "artist": "小西利樹",
+            "id": 454231903
+        },
+        {
+            "name": "Lament of the Black Bullet",
+            "artist": "鷺巣詩郎",
+            "id": 29129722
+        },
+        {
+            "name": "ROBOTICS;NOTES -EvMix",
+            "artist": "林ゆうき",
+            "id": 26303825
+        },
+        {
+            "name": "Sadness and Sorrow (Naruto)",
+            "artist": "Taylor Davis",
+            "id": 28762986
+        },
+        {
+            "name": "火宵の月・テーマ~ピアノソロ",
+            "artist": "中村由利子",
+            "id": 625671
+        },
+        {
+            "name": "モノノ怪::サミシ怪~samishige~",
+            "artist": "高梨康治",
+            "id": 532333
+        },
+        {
+            "name": "Search for Meaning_Rust (Ver.3)",
+            "artist": "Reagan Li",
+            "id": 537078339
+        },
+        {
+            "name": "ヨスガノソラ メインテーマ -記憶-",
+            "artist": "市川淳",
+            "id": 477931
+        },
+        {
+            "name": "Dearest (BGM / ストリングスver.)",
+            "artist": "和田薫",
+            "id": 540900
+        },
+        {
+            "name": "またゲームしようぜ ～新世界の光",
+            "artist": "藤澤慶昌",
+            "id": 536622615
+        },
+        {
+            "name": "Lapis Philosophorum -Piano Solo-",
+            "artist": "千住明",
+            "id": 498956
+        },
+        {
+            "name": "「私はあいつが一羨ましかったんだ」",
+            "artist": "羽岡佳",
+            "id": 29586702
+        },
+        {
+            "name": "「ありがとうございます。助かりました」",
+            "artist": "神前暁",
+            "id": 28748645
+        },
+        {
+            "name": "VAMPIRE KNIGHT GUILTY MAIN THEME",
+            "artist": "羽毛田丈史",
+            "id": 422441
+        },
+        {
+            "name": "春を知らせるもの~続 夏目友人帳のテーマ",
+            "artist": "吉森信",
+            "id": 541928
+        },
+        {
+            "name": "No One - Guitar & Strings Quartet version -",
+            "artist": "木村秀彬",
+            "id": 30854798
+        },
+        {
+            "name": "Departure -Piano+Acoustic Guitar Version-",
+            "artist": "朝倉紀行",
+            "id": 405778
+        },
+        {
+            "name": "私たちの罪と罰(piano cover)（Cover 秋山裕和, むにょっ）",
+            "artist": "琴南Kodoku",
+            "id": 501078438
+        }
+    ]
+}

@@ -1,0 +1,962 @@
+{
+    "playlist_info": {
+        "name": "GAI周延-最全下架歌单(csh 江湖流",
+        "trackcount": 187,
+        "playcount": 572467,
+        "creator": "-_瑜_-",
+        "createDate": "2022-07-24",
+        "heat": 1682.0
+    },
+    "songs": [
+        {
+            "name": "狼 (Live版)",
+            "artist": "GAI周延",
+            "id": 2056169798
+        },
+        {
+            "name": "一念之间 (Live版)",
+            "artist": "GAI周延",
+            "id": 2054188842
+        },
+        {
+            "name": "Sorry (Live版)",
+            "artist": "吉克隽逸",
+            "id": 2052403827
+        },
+        {
+            "name": "三国恋 (Live版)",
+            "artist": "GAI周延",
+            "id": 2048586091
+        },
+        {
+            "name": "玫瑰少年 (Live)",
+            "artist": "周深",
+            "id": 1945878289
+        },
+        {
+            "name": "想太多 (Live版)",
+            "artist": "张靓颖",
+            "id": 2043125523
+        },
+        {
+            "name": "爱江山更爱美人 (Live版)",
+            "artist": "汪苏泷",
+            "id": 2046990696
+        },
+        {
+            "name": "如意",
+            "artist": "GAI周延",
+            "id": 2042891132
+        },
+        {
+            "name": "人生何处不相逢 (Live版)",
+            "artist": "GAI周延",
+            "id": 2045089375
+        },
+        {
+            "name": "冲动的惩罚2023",
+            "artist": "GAI周延",
+            "id": 2042891160
+        },
+        {
+            "name": "三滴血",
+            "artist": "GAI周延",
+            "id": 2042891131
+        },
+        {
+            "name": "GOSH Music Cypher 2018 Pt.2",
+            "artist": "YYYYuteng",
+            "id": 2035817019
+        },
+        {
+            "name": "gai 血书",
+            "artist": "YYYYuteng",
+            "id": 2035199040
+        },
+        {
+            "name": "Paper",
+            "artist": "YYYYuteng",
+            "id": 1914757597
+        },
+        {
+            "name": "分享给万物的爱",
+            "artist": "YYYYuteng",
+            "id": 2026094046
+        },
+        {
+            "name": "我要从南走到北",
+            "artist": "YYYYuteng",
+            "id": 1918274795
+        },
+        {
+            "name": "如意 (LIVE版)",
+            "artist": "GAI周延",
+            "id": 2045332154
+        },
+        {
+            "name": "钢铁丛林",
+            "artist": "GAI周延",
+            "id": 2042890113
+        },
+        {
+            "name": "沧海一声笑",
+            "artist": "GAI周延",
+            "id": 1472862669
+        },
+        {
+            "name": "空城计 (Live)",
+            "artist": "GAI周延",
+            "id": 504646541
+        },
+        {
+            "name": "重庆魂 (Live)",
+            "artist": "GAI周延",
+            "id": 504646544
+        },
+        {
+            "name": "酒干倘卖无 (Live)",
+            "artist": "MC HotDog 热狗",
+            "id": 504646534
+        },
+        {
+            "name": "只听自己的歌 (Live)",
+            "artist": "GAI周延",
+            "id": 494645133
+        },
+        {
+            "name": "苦行僧 (Live)",
+            "artist": "GAI周延",
+            "id": 501467095
+        },
+        {
+            "name": "Papillon (Live)",
+            "artist": "王嘉尔",
+            "id": 502925952
+        },
+        {
+            "name": "乾坤暴躁",
+            "artist": "潘粤明",
+            "id": 1436429798
+        },
+        {
+            "name": "我们十年",
+            "artist": "GAI周延",
+            "id": 1829720164
+        },
+        {
+            "name": "无畏",
+            "artist": "GAI周延",
+            "id": 1833371628
+        },
+        {
+            "name": "圆周率",
+            "artist": "GAI周延",
+            "id": 1316578000
+        },
+        {
+            "name": "见字如面",
+            "artist": "GAI周延",
+            "id": 1316578001
+        },
+        {
+            "name": "豁得凶",
+            "artist": "GAI周延",
+            "id": 1316578002
+        },
+        {
+            "name": "红旗车",
+            "artist": "GAI周延",
+            "id": 1316578003
+        },
+        {
+            "name": "我爱王斯然",
+            "artist": "GAI周延",
+            "id": 1316578006
+        },
+        {
+            "name": "光宗耀祖 (伴奏)",
+            "artist": "GAI周延",
+            "id": 1316578007
+        },
+        {
+            "name": "圆周率 (伴奏)",
+            "artist": "GAI周延",
+            "id": 1316578009
+        },
+        {
+            "name": "见字如面 (伴奏)",
+            "artist": "GAI周延",
+            "id": 1316578010
+        },
+        {
+            "name": "豁得凶 (伴奏)",
+            "artist": "GAI周延",
+            "id": 1316578011
+        },
+        {
+            "name": "红旗车 (伴奏)",
+            "artist": "GAI周延",
+            "id": 1316578012
+        },
+        {
+            "name": "垃圾话 (伴奏)",
+            "artist": "GAI周延",
+            "id": 1316578013
+        },
+        {
+            "name": "包间 (伴奏)",
+            "artist": "GAI周延",
+            "id": 1316578014
+        },
+        {
+            "name": "我爱王斯然 (伴奏)",
+            "artist": "GAI周延",
+            "id": 1316578015
+        },
+        {
+            "name": "垃圾话",
+            "artist": "GAI周延",
+            "id": 1316578004
+        },
+        {
+            "name": "嘿 做个人吧",
+            "artist": "胡海泉",
+            "id": 1997793819
+        },
+        {
+            "name": "垃圾话",
+            "artist": "GAI周延",
+            "id": 1294951192
+        },
+        {
+            "name": "朝天门 (LIVE版)",
+            "artist": "GAI周延",
+            "id": 1973748113
+        },
+        {
+            "name": "三滴血（LIVE版）",
+            "artist": "GAI周延",
+            "id": 1980392087
+        },
+        {
+            "name": "亢龙有悔 (LIVE版)",
+            "artist": "张艺兴",
+            "id": 1980027787
+        },
+        {
+            "name": "山岚Flow杜康韵 (LIVE版)",
+            "artist": "GAI周延",
+            "id": 1980024242
+        },
+        {
+            "name": "江湖流 (LIVE版)",
+            "artist": "功夫胖KungFuPen",
+            "id": 1978175843
+        },
+        {
+            "name": "凡人歌 (Live)",
+            "artist": "MC HotDog 热狗",
+            "id": 499793093
+        },
+        {
+            "name": "问风 (Live)",
+            "artist": "GAI周延",
+            "id": 1945875469
+        },
+        {
+            "name": "哪吒",
+            "artist": "GAI周延",
+            "id": 1378085345
+        },
+        {
+            "name": "arcs",
+            "artist": "荣荣",
+            "id": 1851809938
+        },
+        {
+            "name": "白日梦想家",
+            "artist": "GAI周延",
+            "id": 522631846
+        },
+        {
+            "name": "包间（翻自 GAI周延）",
+            "artist": "顾辰溪",
+            "id": 1839199575
+        },
+        {
+            "name": "苦行僧.mp3（翻自 GAI周延）",
+            "artist": "xyz",
+            "id": 1852915899
+        },
+        {
+            "name": "一百零八.mp3（翻自 GAI周延）",
+            "artist": "xyz",
+            "id": 1852381933
+        },
+        {
+            "name": "GAI - 为梦打Call",
+            "artist": "aka.$$killer#",
+            "id": 510527186
+        },
+        {
+            "name": "光宗耀祖",
+            "artist": "GAI周延",
+            "id": 1316577998
+        },
+        {
+            "name": "威远故事 (LIVE版)",
+            "artist": "GAI周延",
+            "id": 1975803136
+        },
+        {
+            "name": "Not Friendly(LIVE版)",
+            "artist": "GAI周延",
+            "id": 1958961025
+        },
+        {
+            "name": "江湖儿女（LIVE版）",
+            "artist": "GAI周延",
+            "id": 1966262189
+        },
+        {
+            "name": "untitled3.30（LIVE版）",
+            "artist": "GAI周延",
+            "id": 1966262750
+        },
+        {
+            "name": "啥子声音 (LIVE版)",
+            "artist": "GAI周延",
+            "id": 1968156057
+        },
+        {
+            "name": "凯旋 (LIVE版)",
+            "artist": "GAI周延",
+            "id": 1964443045
+        },
+        {
+            "name": "飞跃经济舱 (LIVE版)",
+            "artist": "GAI周延",
+            "id": 1973741172
+        },
+        {
+            "name": "江湖流",
+            "artist": "C-BLOCK",
+            "id": 454966913
+        },
+        {
+            "name": "重庆得行",
+            "artist": "布瑞吉Bridge",
+            "id": 1975847012
+        },
+        {
+            "name": "山岚 GAI-等一下就回家",
+            "artist": "JunChun",
+            "id": 1942230029
+        },
+        {
+            "name": "烈火战马+空城计+重庆魂 (Live)",
+            "artist": "GAI周延",
+            "id": 1478384763
+        },
+        {
+            "name": "蒙着眼睛走+虎山行(LIVE版)",
+            "artist": "GAI周延",
+            "id": 1958954235
+        },
+        {
+            "name": "重庆魂 (Live)",
+            "artist": "GAI周延",
+            "id": 535793574
+        },
+        {
+            "name": "天干物燥 (Live)",
+            "artist": "GAI周延",
+            "id": 535793562
+        },
+        {
+            "name": "兰花草 (Live)",
+            "artist": "GAI周延",
+            "id": 1451689974
+        },
+        {
+            "name": "爱如潮水 (Live)",
+            "artist": "GAI周延",
+            "id": 516358348
+        },
+        {
+            "name": "没对 (Live)",
+            "artist": "GAI周延",
+            "id": 1452410017
+        },
+        {
+            "name": "杜康",
+            "artist": "GAI周延",
+            "id": 1953388636
+        },
+        {
+            "name": "莲花 (Live)",
+            "artist": "GAI周延",
+            "id": 1453760458
+        },
+        {
+            "name": "海啸 (Live)",
+            "artist": "GAI周延",
+            "id": 497755144
+        },
+        {
+            "name": "天龙十二门",
+            "artist": "GAI周延",
+            "id": 1375925168
+        },
+        {
+            "name": "包间",
+            "artist": "GAI周延",
+            "id": 1316578005
+        },
+        {
+            "name": "GAI周延-重庆茶馆（Feliks remix）",
+            "artist": "Feliks",
+            "id": 1848793081
+        },
+        {
+            "name": "沧海一声笑 (Live)",
+            "artist": "GAI周延",
+            "id": 530057163
+        },
+        {
+            "name": "一百零八 (Live)",
+            "artist": "GAI周延",
+            "id": 504646546
+        },
+        {
+            "name": "这就是生活 (Live)",
+            "artist": "GAI周延",
+            "id": 1458940086
+        },
+        {
+            "name": "极乐 (Live)",
+            "artist": "GAI周延",
+            "id": 1451692797
+        },
+        {
+            "name": "万里长城",
+            "artist": "GAI周延",
+            "id": 1316577999
+        },
+        {
+            "name": "勇敢一点 (Live)",
+            "artist": "GAI周延",
+            "id": 1967706801
+        },
+        {
+            "name": "大人物",
+            "artist": "GAI周延",
+            "id": 1338638320
+        },
+        {
+            "name": "天涯",
+            "artist": "GAI周延",
+            "id": 1915248538
+        },
+        {
+            "name": "天明",
+            "artist": "GAI周延",
+            "id": 1909939006
+        },
+        {
+            "name": "华夏",
+            "artist": "GAI周延",
+            "id": 1360802561
+        },
+        {
+            "name": "传奇",
+            "artist": "GAI周延",
+            "id": 1953387775
+        },
+        {
+            "name": "长河",
+            "artist": "盛宇D-SHINE",
+            "id": 542906780
+        },
+        {
+            "name": "GAI海选清唱片段 (Live)",
+            "artist": "GAI周延",
+            "id": 494407997
+        },
+        {
+            "name": "蒙着眼睛走 (Live)",
+            "artist": "GAI周延",
+            "id": 1446286027
+        },
+        {
+            "name": "好运来",
+            "artist": "GAI周延",
+            "id": 509781260
+        },
+        {
+            "name": "江湖中人",
+            "artist": "GAI周延",
+            "id": 1953388634
+        },
+        {
+            "name": "混江湖",
+            "artist": "GAI周延",
+            "id": 1373851284
+        },
+        {
+            "name": "黑卡 (BLACK CARD)",
+            "artist": "黄子韬",
+            "id": 1808007369
+        },
+        {
+            "name": "无名之辈",
+            "artist": "梁汉文",
+            "id": 1884596486
+        },
+        {
+            "name": "找自己 (Live)",
+            "artist": "陈梓童",
+            "id": 1967706800
+        },
+        {
+            "name": "刺",
+            "artist": "GAI周延",
+            "id": 1815954295
+        },
+        {
+            "name": "see you again",
+            "artist": "白举纲",
+            "id": 1888598037
+        },
+        {
+            "name": "中！国！万！岁 ！",
+            "artist": "GAI周延",
+            "id": 1385805653
+        },
+        {
+            "name": "亢龙有悔",
+            "artist": "GAI周延",
+            "id": 1953387779
+        },
+        {
+            "name": "威远故事",
+            "artist": "GAI周延",
+            "id": 1928162447
+        },
+        {
+            "name": "大师",
+            "artist": "GAI周延",
+            "id": 1451700110
+        },
+        {
+            "name": "Badfive",
+            "artist": "GAI周延",
+            "id": 1471946841
+        },
+        {
+            "name": "摇滚怎么了！！",
+            "artist": "陈小春",
+            "id": 1880482961
+        },
+        {
+            "name": "海阔天空",
+            "artist": "陈小春",
+            "id": 1890718615
+        },
+        {
+            "name": "盖世英雄",
+            "artist": "GAI周延",
+            "id": 534066497
+        },
+        {
+            "name": "刀剑如梦",
+            "artist": "GAI周延",
+            "id": 1915248572
+        },
+        {
+            "name": "空城计 (Live)",
+            "artist": "GAI周延",
+            "id": 535793567
+        },
+        {
+            "name": "RAPSTAR",
+            "artist": "潘玮柏",
+            "id": 1469628663
+        },
+        {
+            "name": "赤子心",
+            "artist": "GAI周延",
+            "id": 1958431245
+        },
+        {
+            "name": "投名状 (Live)",
+            "artist": "GAI周延",
+            "id": 1491231647
+        },
+        {
+            "name": "遥远不远 (Live)",
+            "artist": "GAI周延",
+            "id": 495220828
+        },
+        {
+            "name": "有空一起吃饭 (问候版)",
+            "artist": "新裤子",
+            "id": 1410403933
+        },
+        {
+            "name": "有空一起吃饭 (纯净版)",
+            "artist": "新裤子",
+            "id": 1410793918
+        },
+        {
+            "name": "◓",
+            "artist": "GAI周延",
+            "id": 1321671365
+        },
+        {
+            "name": "爱难脱身",
+            "artist": "谭维维",
+            "id": 571336453
+        },
+        {
+            "name": "永不独行",
+            "artist": "GAI周延",
+            "id": 1336789742
+        },
+        {
+            "name": "站在高岗上",
+            "artist": "布瑞吉Bridge",
+            "id": 1873048507
+        },
+        {
+            "name": "Call me by Fire（《披荆斩棘的哥哥》主题曲）",
+            "artist": "披荆斩棘的哥哥",
+            "id": 1868503143
+        },
+        {
+            "name": "你要如何我们就如何",
+            "artist": "GAI周延",
+            "id": 1876764264
+        },
+        {
+            "name": "耍没耍过的",
+            "artist": "GAI周延",
+            "id": 490195151
+        },
+        {
+            "name": "Open The Night (The Chainsmokers x 乐堡开躁 Official Mix)",
+            "artist": "GAI周延",
+            "id": 1464287700
+        },
+        {
+            "name": "保险柜 Feat.Gai",
+            "artist": "小春Kenzy",
+            "id": 1405903900
+        },
+        {
+            "name": "敬酒曲",
+            "artist": "黄贯中",
+            "id": 1890718617
+        },
+        {
+            "name": "安河桥（gai方言版）",
+            "artist": "Haoikey",
+            "id": 1843363473
+        },
+        {
+            "name": "存在",
+            "artist": "张晋",
+            "id": 1890720854
+        },
+        {
+            "name": "当潮不让",
+            "artist": "GAI周延",
+            "id": 1444751875
+        },
+        {
+            "name": "没钱咋个整",
+            "artist": "GAI周延",
+            "id": 505399251
+        },
+        {
+            "name": "不要说话 (Live)",
+            "artist": "雪村",
+            "id": 515647023
+        },
+        {
+            "name": "RAINBOW",
+            "artist": "布瑞吉Bridge",
+            "id": 490189815
+        },
+        {
+            "name": "烈火战马 (Live)",
+            "artist": "GAI周延",
+            "id": 1442284289
+        },
+        {
+            "name": "投名状 The Oath",
+            "artist": "GAI周延",
+            "id": 1380123262
+        },
+        {
+            "name": "Street Fighter (Live)",
+            "artist": "GAI周延",
+            "id": 497745124
+        },
+        {
+            "name": "亢龙有悔 (Live)",
+            "artist": "GAI周延",
+            "id": 1484054677
+        },
+        {
+            "name": "山岚",
+            "artist": "GAI周延",
+            "id": 1881460056
+        },
+        {
+            "name": "2017 重庆茶馆 Cypher (Tory/Bridge/GAI)",
+            "artist": "GAI周延",
+            "id": 493845025
+        },
+        {
+            "name": "你猜我猜不猜",
+            "artist": "GAI周延",
+            "id": 496298047
+        },
+        {
+            "name": "untitled 3.30 (Live)",
+            "artist": "GAI周延",
+            "id": 1451401111
+        },
+        {
+            "name": "GAI-苦行僧（WOLF remix）",
+            "artist": "WOLF",
+            "id": 1320791505
+        },
+        {
+            "name": "吆不到台 (Live)",
+            "artist": "王源",
+            "id": 1496536825
+        },
+        {
+            "name": "往事只能回味",
+            "artist": "陈小春",
+            "id": 1876436782
+        },
+        {
+            "name": "Let's Go (feat. GAI)",
+            "artist": "VaVa毛衍七",
+            "id": 1500428655
+        },
+        {
+            "name": "长河",
+            "artist": "C-BLOCK",
+            "id": 553815246
+        },
+        {
+            "name": "当年情",
+            "artist": "陈小春",
+            "id": 1885112746
+        },
+        {
+            "name": "菜商卡头和车手",
+            "artist": "GAI周延",
+            "id": 520242010
+        },
+        {
+            "name": "Untitled3.30",
+            "artist": "GAI周延",
+            "id": 1817971997
+        },
+        {
+            "name": "空城计",
+            "artist": "GAI周延",
+            "id": 474099732
+        },
+        {
+            "name": "兰花草",
+            "artist": "GAI周延",
+            "id": 1817971996
+        },
+        {
+            "name": "饥饿游戏",
+            "artist": "孔令奇",
+            "id": 524868033
+        },
+        {
+            "name": "烈火战马",
+            "artist": "GAI周延",
+            "id": 1817971994
+        },
+        {
+            "name": "极乐",
+            "artist": "GAI周延",
+            "id": 1817971995
+        },
+        {
+            "name": "蒙着眼睛走",
+            "artist": "GAI周延",
+            "id": 1817970082
+        },
+        {
+            "name": "Not Friendly",
+            "artist": "GAI周延",
+            "id": 1953388635
+        },
+        {
+            "name": "别留",
+            "artist": "GAI周延",
+            "id": 1817970083
+        },
+        {
+            "name": "没对",
+            "artist": "GAI周延",
+            "id": 1817970084
+        },
+        {
+            "name": "莲花",
+            "artist": "GAI周延",
+            "id": 1817971998
+        },
+        {
+            "name": "这就是生活",
+            "artist": "GAI周延",
+            "id": 1817971999
+        },
+        {
+            "name": "差不多先生+Brother Man+爱就爱了+单身公寓+沧海一声笑+哥哥在哪？ (Live)",
+            "artist": "MC HotDog 热狗",
+            "id": 1869263761
+        },
+        {
+            "name": "BIG BRO",
+            "artist": "GAI周延",
+            "id": 1381290772
+        },
+        {
+            "name": "凡人修仙",
+            "artist": "GAI周延",
+            "id": 1453092501
+        },
+        {
+            "name": "Get Together (feat. GAI周延 ) [乐堡开躁 Mix]",
+            "artist": "David Guetta",
+            "id": 1870379729
+        },
+        {
+            "name": "蒙着眼睛走",
+            "artist": "GAI周延",
+            "id": 1833354184
+        },
+        {
+            "name": "剑拔弩张",
+            "artist": "谭维维",
+            "id": 1951702375
+        },
+        {
+            "name": "别留 (Live)",
+            "artist": "GAI周延",
+            "id": 1448027500
+        },
+        {
+            "name": "Skit 踏云",
+            "artist": "GAI周延",
+            "id": 1953377612
+        },
+        {
+            "name": "为梦打Call",
+            "artist": "GAI周延",
+            "id": 505474135
+        },
+        {
+            "name": "蓝色极光",
+            "artist": "GAI周延",
+            "id": 1953388637
+        },
+        {
+            "name": "花田错（GAI)",
+            "artist": "ilyyb1Y",
+            "id": 1907751813
+        },
+        {
+            "name": "都市惊奇夜-《中国惊奇先生》手游主题曲",
+            "artist": "双笙（陈元汐）",
+            "id": 531533335
+        },
+        {
+            "name": "王者降临",
+            "artist": "GAI周延",
+            "id": 499222407
+        },
+        {
+            "name": "风光超级行",
+            "artist": "GAI周延",
+            "id": 1451699401
+        },
+        {
+            "name": "在下霍元甲",
+            "artist": "GAI周延",
+            "id": 1340001518
+        },
+        {
+            "name": "萤火虫",
+            "artist": "GAI周延",
+            "id": 541480238
+        },
+        {
+            "name": "Richard Mille Life",
+            "artist": "GAI周延",
+            "id": 1953377618
+        },
+        {
+            "name": "饥饿游戏",
+            "artist": "孔令奇",
+            "id": 514765366
+        },
+        {
+            "name": "没败",
+            "artist": "GAI周延",
+            "id": 1953387762
+        },
+        {
+            "name": "Ding Ling Ding",
+            "artist": "蜜妞miko",
+            "id": 515143656
+        },
+        {
+            "name": "Intro 归巢",
+            "artist": "GAI周延",
+            "id": 1953377614
+        },
+        {
+            "name": "Outro 如龙",
+            "artist": "GAI周延",
+            "id": 1953387753
+        },
+        {
+            "name": "都市惊奇夜",
+            "artist": "GAI周延",
+            "id": 530801138
+        },
+        {
+            "name": "混江湖 (伴奏)",
+            "artist": "GAI周延",
+            "id": 1373851286
+        },
+        {
+            "name": "好运来 (伴奏)",
+            "artist": "GAI周延",
+            "id": 509781261
+        },
+        {
+            "name": "哪吒 (伴奏)",
+            "artist": "GAI周延",
+            "id": 1378082726
+        },
+        {
+            "name": "在下霍元甲 (伴奏)",
+            "artist": "GAI周延",
+            "id": 1340001519
+        }
+    ]
+}

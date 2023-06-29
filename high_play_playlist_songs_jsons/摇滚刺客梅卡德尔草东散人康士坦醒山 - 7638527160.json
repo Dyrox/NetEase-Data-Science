@@ -1,0 +1,827 @@
+{
+    "playlist_info": {
+        "name": "摇滚刺客/梅卡德尔/草东/散人/康士坦/醒山",
+        "trackcount": 163,
+        "playcount": 570014,
+        "creator": "肆玖音乐",
+        "createDate": "2022-09-16",
+        "heat": 1988.0
+    },
+    "songs": [
+        {
+            "name": "迷恋",
+            "artist": "梅卡德尔",
+            "id": 28819359
+        },
+        {
+            "name": "大风吹",
+            "artist": "草东没有派对",
+            "id": 411314657
+        },
+        {
+            "name": "玫瑰旅馆",
+            "artist": "老柯先生",
+            "id": 2045922141
+        },
+        {
+            "name": "耗子",
+            "artist": "散人",
+            "id": 1890718092
+        },
+        {
+            "name": "候鸟",
+            "artist": "BloomInShadow-暗影中绽放",
+            "id": 1853047707
+        },
+        {
+            "name": "搁浅的人",
+            "artist": "康士坦的变化球",
+            "id": 447925725
+        },
+        {
+            "name": "欢迎光临",
+            "artist": "醒山AwakeMountains",
+            "id": 1336001036
+        },
+        {
+            "name": "公开的口信",
+            "artist": "疯医",
+            "id": 1888416982
+        },
+        {
+            "name": "人生逃避號",
+            "artist": "既定偏离",
+            "id": 1882589249
+        },
+        {
+            "name": "天堂地狱",
+            "artist": "愤怒青年",
+            "id": 1966320490
+        },
+        {
+            "name": "正义",
+            "artist": "回春丹",
+            "id": 1329630571
+        },
+        {
+            "name": "魂断记",
+            "artist": "卧轨的火车（Railway Suicide Train)",
+            "id": 434659011
+        },
+        {
+            "name": "恐怖的房子",
+            "artist": "超级市场",
+            "id": 348028
+        },
+        {
+            "name": "被遗忘的梦（Acoustic)",
+            "artist": "BloomInShadow-暗影中绽放",
+            "id": 2046773262
+        },
+        {
+            "name": "我从这里路过",
+            "artist": "散人",
+            "id": 1941677877
+        },
+        {
+            "name": "极恶都市",
+            "artist": "夏日入侵企画",
+            "id": 570340213
+        },
+        {
+            "name": "死在热带",
+            "artist": "明天的盐",
+            "id": 1975239142
+        },
+        {
+            "name": "放我走",
+            "artist": "短裤里的诗歌",
+            "id": 1418408497
+        },
+        {
+            "name": "志铭",
+            "artist": "犬儒乐队",
+            "id": 2005708456
+        },
+        {
+            "name": "河流",
+            "artist": "蛙池",
+            "id": 1437251162
+        },
+        {
+            "name": "怪胎",
+            "artist": "回春丹",
+            "id": 862240361
+        },
+        {
+            "name": "烂泥",
+            "artist": "草东没有派对",
+            "id": 411314656
+        },
+        {
+            "name": "彼岸",
+            "artist": "郭屿施乐队",
+            "id": 1883853933
+        },
+        {
+            "name": "余忆童稚时",
+            "artist": "鸠鸠jiojio",
+            "id": 1950615592
+        },
+        {
+            "name": "安全降落（Safe Landing）",
+            "artist": "表情银行MimikBanka",
+            "id": 1955997754
+        },
+        {
+            "name": "艾蜜莉 (Live)",
+            "artist": "回春丹",
+            "id": 1907268718
+        },
+        {
+            "name": "昨夜的星辰里",
+            "artist": "鸠鸠jiojio",
+            "id": 1984563578
+        },
+        {
+            "name": "何其所",
+            "artist": "郭屿施乐队",
+            "id": 1884105145
+        },
+        {
+            "name": "吞吐 (Puff)",
+            "artist": "八仙饭店",
+            "id": 1811283484
+        },
+        {
+            "name": "完美夏天",
+            "artist": "高旗&超载乐队",
+            "id": 356487
+        },
+        {
+            "name": "无名小站",
+            "artist": "鱼尾纹",
+            "id": 1996118536
+        },
+        {
+            "name": "赞美诗",
+            "artist": "贊詩",
+            "id": 1928429852
+        },
+        {
+            "name": "小男孩（Little Chinese boy）",
+            "artist": "表情银行MimikBanka",
+            "id": 1958970023
+        },
+        {
+            "name": "爱的实验",
+            "artist": "黎忘年",
+            "id": 1397266842
+        },
+        {
+            "name": "喜夜",
+            "artist": "悲剧药方",
+            "id": 1825175011
+        },
+        {
+            "name": "小红",
+            "artist": "跳山羊",
+            "id": 1394182682
+        },
+        {
+            "name": "迷雾",
+            "artist": "The Leg Signals 脚信号",
+            "id": 551205240
+        },
+        {
+            "name": "带我走",
+            "artist": "脆莓(Brickleberry)",
+            "id": 1416916864
+        },
+        {
+            "name": "艾蜜莉",
+            "artist": "回春丹",
+            "id": 1888390721
+        },
+        {
+            "name": "跳东湖",
+            "artist": "虎啸春",
+            "id": 1393609698
+        },
+        {
+            "name": "Dumb",
+            "artist": "傻子与白痴",
+            "id": 2007964306
+        },
+        {
+            "name": "Mazel Tov",
+            "artist": "脏手指 Oh! Dirty Fingers",
+            "id": 1837817428
+        },
+        {
+            "name": "蓝色舞曲",
+            "artist": "赵泰",
+            "id": 1855715970
+        },
+        {
+            "name": "坠入深渊",
+            "artist": "愤怒青年",
+            "id": 1882182617
+        },
+        {
+            "name": "但",
+            "artist": "草东没有派对",
+            "id": 2035320743
+        },
+        {
+            "name": "贵人",
+            "artist": "回春丹",
+            "id": 1882645729
+        },
+        {
+            "name": "草莓",
+            "artist": "海朋森",
+            "id": 1383782457
+        },
+        {
+            "name": "寻欢 (Absurd Comedy)",
+            "artist": "送春归",
+            "id": 2027943218
+        },
+        {
+            "name": "比咏博",
+            "artist": "脏手指 Oh! Dirty Fingers",
+            "id": 1837818274
+        },
+        {
+            "name": "莫欺少年穷",
+            "artist": "九连真人",
+            "id": 1900998147
+        },
+        {
+            "name": "苦中作乐",
+            "artist": "脏手指 Oh! Dirty Fingers",
+            "id": 1967977223
+        },
+        {
+            "name": "你的故事",
+            "artist": "黑色收音机派对",
+            "id": 1360807373
+        },
+        {
+            "name": "革命公园",
+            "artist": "跳山羊",
+            "id": 1397511938
+        },
+        {
+            "name": "低俗潮流",
+            "artist": "失浪潮LostWave",
+            "id": 1467444451
+        },
+        {
+            "name": "Silent Lamb",
+            "artist": "跳山羊",
+            "id": 1397511940
+        },
+        {
+            "name": "宝石",
+            "artist": "黎忘年",
+            "id": 1397266867
+        },
+        {
+            "name": "CHAOS",
+            "artist": "STOLEN秘密行动",
+            "id": 1297750288
+        },
+        {
+            "name": "一无是处",
+            "artist": "失浪潮LostWave",
+            "id": 1911811505
+        },
+        {
+            "name": "丑",
+            "artist": "草东没有派对",
+            "id": 411315632
+        },
+        {
+            "name": "床",
+            "artist": "草东没有派对",
+            "id": 2035279723
+        },
+        {
+            "name": "Aamir",
+            "artist": "STOLEN秘密行动",
+            "id": 1426557458
+        },
+        {
+            "name": "艾蜜莉",
+            "artist": "回春丹",
+            "id": 1429237296
+        },
+        {
+            "name": "春风",
+            "artist": "海朋森",
+            "id": 1455988858
+        },
+        {
+            "name": "花桥",
+            "artist": "回春丹",
+            "id": 1888390788
+        },
+        {
+            "name": "正义",
+            "artist": "回春丹",
+            "id": 1369044100
+        },
+        {
+            "name": "公主",
+            "artist": "回春丹",
+            "id": 1439704379
+        },
+        {
+            "name": "玩具",
+            "artist": "岛屿心情",
+            "id": 41659256
+        },
+        {
+            "name": "救赎",
+            "artist": "愤怒青年",
+            "id": 1860937419
+        },
+        {
+            "name": "觉醒",
+            "artist": "地下婴儿",
+            "id": 350957
+        },
+        {
+            "name": "影子",
+            "artist": "岛屿心情",
+            "id": 1358255257
+        },
+        {
+            "name": "乐色车",
+            "artist": "回春丹",
+            "id": 1369044097
+        },
+        {
+            "name": "乐色车",
+            "artist": "回春丹",
+            "id": 1888390007
+        },
+        {
+            "name": "都一样",
+            "artist": "地下婴儿",
+            "id": 5278187
+        },
+        {
+            "name": "betty blue",
+            "artist": "跳山羊",
+            "id": 1428548597
+        },
+        {
+            "name": "白",
+            "artist": "卧轨的火车（Railway Suicide Train)",
+            "id": 434550139
+        },
+        {
+            "name": "如何",
+            "artist": "悲剧药方",
+            "id": 1825167179
+        },
+        {
+            "name": "童谣",
+            "artist": "疯医",
+            "id": 1955672256
+        },
+        {
+            "name": "圆Yuan",
+            "artist": "卧轨的火车（Railway Suicide Train)",
+            "id": 1953877354
+        },
+        {
+            "name": "癔症",
+            "artist": "梅卡德尔",
+            "id": 1956499349
+        },
+        {
+            "name": "Pop",
+            "artist": "脏手指 Oh! Dirty Fingers",
+            "id": 523250198
+        },
+        {
+            "name": "过期",
+            "artist": "梅卡德尔",
+            "id": 28819362
+        },
+        {
+            "name": "苏丽珂",
+            "artist": "丢莱卡WastedLaika",
+            "id": 1368740910
+        },
+        {
+            "name": "蓝",
+            "artist": "表情银行MimikBanka",
+            "id": 33162867
+        },
+        {
+            "name": "银湖",
+            "artist": "卧轨的火车（Railway Suicide Train)",
+            "id": 433682001
+        },
+        {
+            "name": "Anna",
+            "artist": "贰伍吸菸所 Smoking Area 25",
+            "id": 532417364
+        },
+        {
+            "name": "漩涡",
+            "artist": "愤怒青年",
+            "id": 1826048139
+        },
+        {
+            "name": "三部曲",
+            "artist": "脏手指 Oh! Dirty Fingers",
+            "id": 1837818276
+        },
+        {
+            "name": "房间",
+            "artist": "梅卡德尔",
+            "id": 28819363
+        },
+        {
+            "name": "火海",
+            "artist": "卧轨的火车（Railway Suicide Train)",
+            "id": 433682003
+        },
+        {
+            "name": "幕布",
+            "artist": "海朋森",
+            "id": 31546913
+        },
+        {
+            "name": "荒岛",
+            "artist": "梅卡德尔",
+            "id": 1868173651
+        },
+        {
+            "name": "晚安",
+            "artist": "麻园诗人",
+            "id": 469065899
+        },
+        {
+            "name": "晚市 (Cluster in the Nightfall)",
+            "artist": "卧轨的火车（Railway Suicide Train)",
+            "id": 1954980764
+        },
+        {
+            "name": "十二樓",
+            "artist": "贰伍吸菸所 Smoking Area 25",
+            "id": 1465285108
+        },
+        {
+            "name": "狗女孩",
+            "artist": "梅卡德尔",
+            "id": 28819357
+        },
+        {
+            "name": "定国湖",
+            "artist": "疯医",
+            "id": 1829726307
+        },
+        {
+            "name": "白日梦蓝",
+            "artist": "刺猬",
+            "id": 348097
+        },
+        {
+            "name": "春天音乐",
+            "artist": "丢莱卡WastedLaika",
+            "id": 1836139178
+        },
+        {
+            "name": "迷失广州",
+            "artist": "唯利玉碎计划",
+            "id": 1457773014
+        },
+        {
+            "name": "红蜘蛛 (Red Spider)",
+            "artist": "卧轨的火车（Railway Suicide Train)",
+            "id": 1954974534
+        },
+        {
+            "name": "醉龟派对",
+            "artist": "跳大海",
+            "id": 1412504372
+        },
+        {
+            "name": "真爱四则",
+            "artist": "脏手指 Oh! Dirty Fingers",
+            "id": 1837817431
+        },
+        {
+            "name": "明日聚会",
+            "artist": "跳大海",
+            "id": 1449234417
+        },
+        {
+            "name": "荒野脱马",
+            "artist": "贰伍吸菸所 Smoking Area 25",
+            "id": 532413954
+        },
+        {
+            "name": "开场曲",
+            "artist": "如梦乐队（ROMO）",
+            "id": 1862310141
+        },
+        {
+            "name": "梅卡德尔",
+            "artist": "梅卡德尔",
+            "id": 28819355
+        },
+        {
+            "name": "耳鬼出风",
+            "artist": "回春丹",
+            "id": 1881821082
+        },
+        {
+            "name": "梦特别娇",
+            "artist": "回春丹",
+            "id": 1888390720
+        },
+        {
+            "name": "梦特别娇",
+            "artist": "回春丹",
+            "id": 1813831223
+        },
+        {
+            "name": "我要你的命",
+            "artist": "黑色收音机派对",
+            "id": 1409201828
+        },
+        {
+            "name": "Turn black",
+            "artist": "STOLEN秘密行动",
+            "id": 506154668
+        },
+        {
+            "name": "Diaosita",
+            "artist": "脏手指 Oh! Dirty Fingers",
+            "id": 523251194
+        },
+        {
+            "name": "救命公园",
+            "artist": "丢莱卡WastedLaika",
+            "id": 1838972379
+        },
+        {
+            "name": "噢！今夜",
+            "artist": "脏手指 Oh! Dirty Fingers",
+            "id": 1837818273
+        },
+        {
+            "name": "寻找多莉",
+            "artist": "梅卡德尔",
+            "id": 28819356
+        },
+        {
+            "name": "回声之丘",
+            "artist": "疯医",
+            "id": 1829726311
+        },
+        {
+            "name": "安全降落（Safe landing）",
+            "artist": "表情银行MimikBanka",
+            "id": 1958971864
+        },
+        {
+            "name": "做梦大王",
+            "artist": "卧轨的火车（Railway Suicide Train)",
+            "id": 29418705
+        },
+        {
+            "name": "庙小妖风大",
+            "artist": "回春丹",
+            "id": 1439695766
+        },
+        {
+            "name": "滥情三部曲",
+            "artist": "脏手指 Oh! Dirty Fingers",
+            "id": 1373708382
+        },
+        {
+            "name": "真爱挽歌 (True Love Story)",
+            "artist": "卧轨的火车（Railway Suicide Train)",
+            "id": 1954980768
+        },
+        {
+            "name": "柠檬白兰地",
+            "artist": "卧轨的火车（Railway Suicide Train)",
+            "id": 434550135
+        },
+        {
+            "name": "Drown With Me",
+            "artist": "STOLEN秘密行动",
+            "id": 1426555658
+        },
+        {
+            "name": "当一切结束时",
+            "artist": "岛屿心情",
+            "id": 353415
+        },
+        {
+            "name": "一个情歌 2017 (A Love Song 2017)",
+            "artist": "卧轨的火车（Railway Suicide Train)",
+            "id": 1954980765
+        },
+        {
+            "name": "我想有个家",
+            "artist": "脏手指 Oh! Dirty Fingers",
+            "id": 1837817434
+        },
+        {
+            "name": "青少年哪吒 (Neon God)",
+            "artist": "八仙饭店",
+            "id": 1811506614
+        },
+        {
+            "name": "死亡与堕落",
+            "artist": "梅卡德尔",
+            "id": 28819361
+        },
+        {
+            "name": "TURN BLACK",
+            "artist": "STOLEN秘密行动",
+            "id": 1313052462
+        },
+        {
+            "name": "把她还给她",
+            "artist": "梅卡德尔",
+            "id": 1334252075
+        },
+        {
+            "name": "我很懂礼貌 (可是我不交朋友)",
+            "artist": "脏手指 Oh! Dirty Fingers",
+            "id": 1837818275
+        },
+        {
+            "name": "THE LOOP SIN",
+            "artist": "STOLEN秘密行动",
+            "id": 1313052464
+        },
+        {
+            "name": "庞贝影子舞",
+            "artist": "丢莱卡WastedLaika",
+            "id": 1838972373
+        },
+        {
+            "name": "黑夜的秘密",
+            "artist": "梅卡德尔",
+            "id": 1334247540
+        },
+        {
+            "name": "阿尔兹海默城",
+            "artist": "梅卡德尔",
+            "id": 1868173656
+        },
+        {
+            "name": "空房里的小偷",
+            "artist": "脏手指 Oh! Dirty Fingers",
+            "id": 1837817429
+        },
+        {
+            "name": "运河的故事",
+            "artist": "脏手指 Oh! Dirty Fingers",
+            "id": 1837817430
+        },
+        {
+            "name": "Hush-A-Bye（2016 Version）",
+            "artist": "疯医",
+            "id": 1395406698
+        },
+        {
+            "name": "A Glossy Flirt",
+            "artist": "STOLEN秘密行动",
+            "id": 1386760236
+        },
+        {
+            "name": "小狗快跑（What if we get lost）",
+            "artist": "表情银行MimikBanka",
+            "id": 1958970039
+        },
+        {
+            "name": "五彩斑斓的黑",
+            "artist": "回春丹",
+            "id": 1439695754
+        },
+        {
+            "name": "让我给你买包烟",
+            "artist": "脏手指 Oh! Dirty Fingers",
+            "id": 1373706768
+        },
+        {
+            "name": "兴奋到死的东西",
+            "artist": "回春丹",
+            "id": 1369034687
+        },
+        {
+            "name": "我无法停止幻想",
+            "artist": "梅卡德尔",
+            "id": 28625176
+        },
+        {
+            "name": "我希望它是简短的",
+            "artist": "卧轨的火车（Railway Suicide Train)",
+            "id": 1966153349
+        },
+        {
+            "name": "VAMPIRE LOVERS",
+            "artist": "STOLEN秘密行动",
+            "id": 1313052460
+        },
+        {
+            "name": "德令哈夫人 (Lady from the Golden World)",
+            "artist": "卧轨的火车（Railway Suicide Train)",
+            "id": 1954980767
+        },
+        {
+            "name": "我也喜欢你的女朋友",
+            "artist": "脏手指 Oh! Dirty Fingers",
+            "id": 521493347
+        },
+        {
+            "name": "这不是雨能解决的问题",
+            "artist": "疯医",
+            "id": 1829726722
+        },
+        {
+            "name": "她在每晚的夜空中穿行",
+            "artist": "STOLEN秘密行动",
+            "id": 1386760243
+        },
+        {
+            "name": "沉迷浪漫与慌乱的临时商场",
+            "artist": "虎啸春",
+            "id": 1437240800
+        },
+        {
+            "name": "贾宏声 坚持住 (同期录音)",
+            "artist": "大悲",
+            "id": 31062185
+        },
+        {
+            "name": "夜访者 The Nightcomers",
+            "artist": "疯医",
+            "id": 1903641970
+        },
+        {
+            "name": "温柔震动的宇宙（The universe gently vibrating ）",
+            "artist": "表情银行MimikBanka",
+            "id": 1958970030
+        },
+        {
+            "name": "有一天我死了，你还会恨我么（Live）",
+            "artist": "疯医",
+            "id": 1445562406
+        },
+        {
+            "name": "你还喜欢我吗？你说啊！",
+            "artist": "脏手指 Oh! Dirty Fingers",
+            "id": 523250195
+        },
+        {
+            "name": "你怎么能够轻易地相信",
+            "artist": "跳山羊",
+            "id": 1391891118
+        },
+        {
+            "name": "对不起我做不到答应了你的事",
+            "artist": "康士坦的变化球",
+            "id": 1499917736
+        },
+        {
+            "name": "愿我们在黑暗的另一边相见",
+            "artist": "疯医",
+            "id": 1829726308
+        },
+        {
+            "name": "火车驶向云外，梦安魂于九霄",
+            "artist": "刺猬",
+            "id": 528272281
+        },
+        {
+            "name": "人，人，狗（The people, the people, and the dogs）",
+            "artist": "表情银行MimikBanka",
+            "id": 1958971853
+        },
+        {
+            "name": "Sad,infinited and dazed(Live)",
+            "artist": "卧轨的火车（Railway Suicide Train)",
+            "id": 1324038354
+        },
+        {
+            "name": "美好的事可不可以發生在我身上",
+            "artist": "康士坦的变化球",
+            "id": 1304685375
+        }
+    ]
+}

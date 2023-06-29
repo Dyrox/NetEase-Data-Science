@@ -1,0 +1,817 @@
+{
+    "playlist_info": {
+        "name": "Ea7网易精选高级感音乐（车载/健身/感觉）",
+        "trackcount": 161,
+        "playcount": 11044,
+        "creator": "哈尔的网易",
+        "createDate": "2019-05-03",
+        "heat": 7.0
+    },
+    "songs": [
+        {
+            "name": "Low",
+            "artist": "Lylytan_",
+            "id": 1897154962
+        },
+        {
+            "name": "Changes 0.8x",
+            "artist": "薇薇",
+            "id": 1959388358
+        },
+        {
+            "name": "Take Me To Church",
+            "artist": "ZVS",
+            "id": 1855961011
+        },
+        {
+            "name": "All For Love",
+            "artist": "Ducka Shan",
+            "id": 1887437340
+        },
+        {
+            "name": "Cyberpunk 2022",
+            "artist": "Maga",
+            "id": 1815249935
+        },
+        {
+            "name": "Azeri (Orginal mix )",
+            "artist": "Gentleman",
+            "id": 2030730417
+        },
+        {
+            "name": "Plain Jane",
+            "artist": "Roberto Kan",
+            "id": 1406201955
+        },
+        {
+            "name": "Infinity 0.75X",
+            "artist": "Young Music House",
+            "id": 1958683818
+        },
+        {
+            "name": "Talk Dirty",
+            "artist": "Panzer",
+            "id": 1862639819
+        },
+        {
+            "name": "Yubik-The Runner",
+            "artist": "ZsFlovexl",
+            "id": 2005246464
+        },
+        {
+            "name": "Bamba",
+            "artist": "Armağan Oruç",
+            "id": 1892409985
+        },
+        {
+            "name": "KLEIN BLUE",
+            "artist": "Nine Band",
+            "id": 1964744004
+        },
+        {
+            "name": "Danza Kuduro（0.8x）",
+            "artist": "Wangzihui",
+            "id": 1902514647
+        },
+        {
+            "name": "Mym (Original Mix)",
+            "artist": "Tofalko",
+            "id": 553764951
+        },
+        {
+            "name": "The Runner",
+            "artist": "Yubik",
+            "id": 1963232440
+        },
+        {
+            "name": "光粒（Light Particle）",
+            "artist": "BOY",
+            "id": 1901838921
+        },
+        {
+            "name": "Extasy (Cristian Poow Remix)",
+            "artist": "Phunk Investigation",
+            "id": 30212221
+        },
+        {
+            "name": "Star Unkind (Lanfranchi & Farina Remix)",
+            "artist": "暴躁小柴犬",
+            "id": 1910038853
+        },
+        {
+            "name": "Black silk",
+            "artist": "DEITIES",
+            "id": 1809393471
+        },
+        {
+            "name": "Italia e voi（Orginal Mix）",
+            "artist": "HSHK",
+            "id": 1493816591
+        },
+        {
+            "name": "Gun Double",
+            "artist": "Armağan Oruç",
+            "id": 1494536044
+        },
+        {
+            "name": "Starboy(Remix)",
+            "artist": "苏甜",
+            "id": 1830753386
+        },
+        {
+            "name": "Hey Mama",
+            "artist": "Monk",
+            "id": 1830799856
+        },
+        {
+            "name": "White Angels",
+            "artist": "Emre Kabak",
+            "id": 1454130024
+        },
+        {
+            "name": "Anatomy (Original Mix)",
+            "artist": "Nextro",
+            "id": 1813177542
+        },
+        {
+            "name": "Sensation（翻自 AEZI） ",
+            "artist": "aEZi",
+            "id": 1384735507
+        },
+        {
+            "name": "J. Balvin-Mi Gente（zZAZz remix）",
+            "artist": "zZAZz",
+            "id": 1818009713
+        },
+        {
+            "name": "Summertime Sadness",
+            "artist": "喪甜老爹",
+            "id": 1409843998
+        },
+        {
+            "name": "This Is What You Came For",
+            "artist": "Subai",
+            "id": 1467438073
+        },
+        {
+            "name": "ZHU&Migos-Bad and Boujee（Uzller / CHENYI remix）",
+            "artist": "Uzller",
+            "id": 1476800594
+        },
+        {
+            "name": "Lake Arrowhead (Radio Mix)",
+            "artist": "Nora En Pure",
+            "id": 477742336
+        },
+        {
+            "name": "Lake Arrowhead X Rolling In The Deep (Otrov Mashup)",
+            "artist": "Otrov",
+            "id": 1808388545
+        },
+        {
+            "name": "Morze",
+            "artist": "Slider & Magnit",
+            "id": 1369658060
+        },
+        {
+            "name": "Eurythmics-Sweet Dreams (Relanium&DeenWestFt.TPaul Sax Remi)（GRABOTE / Uzller / GYN777 remix）",
+            "artist": "GRABOTE",
+            "id": 1439177800
+        },
+        {
+            "name": "Angetenar (Emre Kabak Remix)",
+            "artist": "Emre Kabak",
+            "id": 1432160937
+        },
+        {
+            "name": "Midnight (Radio Edit)",
+            "artist": "Where It's ATT",
+            "id": 1456598284
+        },
+        {
+            "name": "Morsmordre (ZHANG JUN Remix)",
+            "artist": "ZHANG JUN（张俊）",
+            "id": 1821548580
+        },
+        {
+            "name": "春娇与志明(抖音完整版)",
+            "artist": "珊爷",
+            "id": 1831482748
+        },
+        {
+            "name": "Rag'N'Bone Man-Skin-Rag'N'Bone Man（博少大表哥 remix）",
+            "artist": "博少大表哥",
+            "id": 1841937958
+        },
+        {
+            "name": "Criminal",
+            "artist": "DEITIES",
+            "id": 1814505448
+        },
+        {
+            "name": "Catch Fire/Spada/Anna Leyne/EDX-Catch Fire (Sun Sun Sun)（皇阿玛Remix Remix）",
+            "artist": "丰子凯Remix",
+            "id": 1362520750
+        },
+        {
+            "name": "Love the Way You Lie",
+            "artist": "BROHM",
+            "id": 1483672581
+        },
+        {
+            "name": "Danza Kuduro 2019 (Diamont Dr)",
+            "artist": "Lucenzo",
+            "id": 1367325524
+        },
+        {
+            "name": "Tupac-Meiko - Leave The Lights On 2Pac（9imSdh / L.Chen remix）",
+            "artist": "RyanPan9",
+            "id": 1457218736
+        },
+        {
+            "name": "F.physical-Intro La Banda vs One Two (Akina Bootleg)（Akina remix）",
+            "artist": "Akina",
+            "id": 1449572738
+        },
+        {
+            "name": "Без повода",
+            "artist": "Сява",
+            "id": 1393121310
+        },
+        {
+            "name": "Mask Off (Ablaikan Remix)",
+            "artist": "Ablaikan",
+            "id": 1461150974
+        },
+        {
+            "name": "Nentori (Remix)",
+            "artist": "韩斌斌",
+            "id": 1806806051
+        },
+        {
+            "name": "Andalusia (MKJ Remix)",
+            "artist": "Antoine Chambe",
+            "id": 401249195
+        },
+        {
+            "name": "Nothing New",
+            "artist": "Dropgun",
+            "id": 519367069
+        },
+        {
+            "name": "Can't Get You out of My Head",
+            "artist": "Ugg'A",
+            "id": 1351426724
+        },
+        {
+            "name": "Avicii-Wake Me Up (ZHANG Radio Edit)（ZHANG花臂轩boss remix）",
+            "artist": "Alexei Shkurko",
+            "id": 1363303476
+        },
+        {
+            "name": "Justin Bieber-Lovefool Bootleg（Savior / HETR remix）",
+            "artist": "Savior",
+            "id": 1463225072
+        },
+        {
+            "name": "Relax",
+            "artist": "Junona Boys",
+            "id": 1439181436
+        },
+        {
+            "name": "Nick Kech-&Vgn -Una Mattina (Solid Starr Mashup)（ночная вилка remix）",
+            "artist": "ночная вилка",
+            "id": 1404710756
+        },
+        {
+            "name": "Deep in Love (Radio Edit)",
+            "artist": "Tom Boxer",
+            "id": 572932030
+        },
+        {
+            "name": "Drown (Alle Farben Remix)",
+            "artist": "Martin Garrix",
+            "id": 1437031748
+        },
+        {
+            "name": "G-Dragon-sober（Dj）（念宸 remix）",
+            "artist": "念宸",
+            "id": 1471024962
+        },
+        {
+            "name": "От луны до Марса",
+            "artist": "MATRANG",
+            "id": 1295372209
+        },
+        {
+            "name": "Redbone (Lux & Marcusson Remix)",
+            "artist": "Lux & Marcusson",
+            "id": 1495837921
+        },
+        {
+            "name": "治静音乐-Diary（念宸 / 明洋 remix）",
+            "artist": "念宸",
+            "id": 1475036137
+        },
+        {
+            "name": "渡(Dj ProgHouse旋律)",
+            "artist": "苦ferry",
+            "id": 1437204306
+        },
+        {
+            "name": "Maroon 5-Maroon 5 - Don't Wanna Know (TPaul Radio Remix)（音源 remix）",
+            "artist": "Weirdo_YYsPicY",
+            "id": 1425516871
+        },
+        {
+            "name": "Ke Cap Gap Ba Gia",
+            "artist": "DJMuchY",
+            "id": 1473560238
+        },
+        {
+            "name": "Hello friend(电音版)",
+            "artist": "阳山伟伟",
+            "id": 1439142407
+        },
+        {
+            "name": "Someone You Loved（DJ热搜版）",
+            "artist": "何岩忻",
+            "id": 1448257016
+        },
+        {
+            "name": "What Lovers Do（Elemer Remix）",
+            "artist": "Elemer",
+            "id": 1470243954
+        },
+        {
+            "name": "Leona Lewis-Bleeding Love（Alexei Shkurko / Savior remix）",
+            "artist": "Alexei Shkurko",
+            "id": 1443640722
+        },
+        {
+            "name": "Altai (V.S. Remix)",
+            "artist": "Rompasso",
+            "id": 548251592
+        },
+        {
+            "name": "J. Balvin-X（Savior remix）",
+            "artist": "Savior",
+            "id": 1437200024
+        },
+        {
+            "name": "R.I.O.-Like I Love You（DJ版）",
+            "artist": "民浩",
+            "id": 1466242414
+        },
+        {
+            "name": "MiyaGi-I got love (Deep House)（Axele/Music Remix）",
+            "artist": "Alexei Shkurko",
+            "id": 1391441095
+        },
+        {
+            "name": "Catchfire (Sun Sun Sun)  (EDX's Miami Sunset Remix)",
+            "artist": "EDX",
+            "id": 498880297
+        },
+        {
+            "name": "Astronomia",
+            "artist": "MaxRiven",
+            "id": 1442332360
+        },
+        {
+            "name": "Colbie Caillat-Try（Nurselim Boy / DruGTRaffickerS remix）",
+            "artist": "Eal7 NS",
+            "id": 1384177595
+        },
+        {
+            "name": "More Than You Know (Ummet Ozcan Remix)",
+            "artist": "Ummet Ozcan",
+            "id": 506094856
+        },
+        {
+            "name": "Capricom（Extended Mix)",
+            "artist": "SunnaLu",
+            "id": 1403528205
+        },
+        {
+            "name": "Romance",
+            "artist": "Bayza",
+            "id": 1390291265
+        },
+        {
+            "name": "Lamour Toujours (Original Mix)",
+            "artist": "remix",
+            "id": 505668158
+        },
+        {
+            "name": "You Bring Me Joy (Chris Karpas Remix)",
+            "artist": "remix",
+            "id": 507856231
+        },
+        {
+            "name": "BonBon (Monkey MO Remix)",
+            "artist": "Monkey Mo",
+            "id": 1401075289
+        },
+        {
+            "name": "The Chainsmokers-Takeaway（LzzzJ / ZEKA remix）",
+            "artist": "LzzzJ",
+            "id": 1420260761
+        },
+        {
+            "name": "The Sweetest Sin (Eightfold & MKJ Remix)",
+            "artist": "MKJ",
+            "id": 34578066
+        },
+        {
+            "name": "Show Me (Original Mix)",
+            "artist": "Me & My Toothbrush",
+            "id": 32038810
+        },
+        {
+            "name": "Out Of Time",
+            "artist": "Why So Sad",
+            "id": 1407640126
+        },
+        {
+            "name": "Color (İlkan Günüç & Osman Altun Remix)",
+            "artist": "Ogün Dalka",
+            "id": 1414765912
+        },
+        {
+            "name": "Walk Thru Fire（ReSt5Ra0in2t remix）",
+            "artist": "ReSt5Ra0in2t",
+            "id": 1398309529
+        },
+        {
+            "name": "XXXTENTACION-changes（HEST remix）",
+            "artist": "HEST",
+            "id": 1420312291
+        },
+        {
+            "name": "Kina-Can We Kiss Forever（CHENYI / LANLIU remix）",
+            "artist": "CHENYI",
+            "id": 1427796911
+        },
+        {
+            "name": "Weyrleader",
+            "artist": "Maga AQ",
+            "id": 1396196557
+        },
+        {
+            "name": "Floetry",
+            "artist": "Roberto Kan",
+            "id": 1411719571
+        },
+        {
+            "name": "Drenchill-Never Never（ISZTD / HEST remix）",
+            "artist": "Uzller",
+            "id": 1425783327
+        },
+        {
+            "name": "It Ain't Me (Tiësto's AFTR:HRS Remix)",
+            "artist": "Kygo",
+            "id": 470573536
+        },
+        {
+            "name": "Catch My Breath (Suprafive Remix)",
+            "artist": "Suprafive",
+            "id": 458238609
+        },
+        {
+            "name": "Kina-Can We Kiss Forever（ZHANG JUN / PrmjmP remix）",
+            "artist": "ZHANG JUN（张俊）",
+            "id": 1428542502
+        },
+        {
+            "name": "XXXTENTACION-Moonlight (Remix) (Bass Boosted)（XXXTENTACION remix）",
+            "artist": "DruGTRaffickerS",
+            "id": 1328910929
+        },
+        {
+            "name": "Linkin Park-In The End（CokeCod / 7unknown remix）",
+            "artist": "7ouTp",
+            "id": 1429090683
+        },
+        {
+            "name": "I got love (Deep house)",
+            "artist": "SunnaLu",
+            "id": 1388410229
+        },
+        {
+            "name": "Roses (Imanbek Remix)",
+            "artist": "SAINt JHN",
+            "id": 1391251513
+        },
+        {
+            "name": "Ma direction",
+            "artist": "Sexion d'Assaut",
+            "id": 27959259
+        },
+        {
+            "name": "Dusk Till Dawn ( KEEM Remix )",
+            "artist": "GRABOTE",
+            "id": 1342566625
+        },
+        {
+            "name": "Justin Bieber-As Long As You Love Me（HEST remix）",
+            "artist": "HEST",
+            "id": 1422226631
+        },
+        {
+            "name": "Flo Rida-Whistle（HEST / CHENYI / GYNPI remix）",
+            "artist": "HEST",
+            "id": 1412248805
+        },
+        {
+            "name": "Tones and I-Dance Monkey（HEST remix）",
+            "artist": "HEST",
+            "id": 1405404064
+        },
+        {
+            "name": "Симпа (Mikis Remix)",
+            "artist": "RAIM",
+            "id": 1356511474
+        },
+        {
+            "name": "aEZi-ayaya（冯冯YON / aEZi remix）",
+            "artist": "TangTian",
+            "id": 1412899148
+        },
+        {
+            "name": "Shape Of You (Ramazan Cicek Remix)",
+            "artist": "吾金公保Music",
+            "id": 1332942637
+        },
+        {
+            "name": "Airplanes [ft. Hayley Williams](AndyWho Remix)",
+            "artist": "AndyWho",
+            "id": 34766107
+        },
+        {
+            "name": "Rhythm Of the Night (Hotel Garuda Remix)",
+            "artist": "Hotel Garuda",
+            "id": 34766592
+        },
+        {
+            "name": "EA7-50-Cent Disco",
+            "artist": "еяхат музыка",
+            "id": 541364972
+        },
+        {
+            "name": "Night Invasion",
+            "artist": "DMC Maxx Flash",
+            "id": 1336866361
+        },
+        {
+            "name": "Keep On Tryin",
+            "artist": "Duxiu",
+            "id": 1317488947
+        },
+        {
+            "name": "Девочка-ночь",
+            "artist": "Ganvest",
+            "id": 1369665782
+        },
+        {
+            "name": "Da Da Da (Remix by Mikis)",
+            "artist": "Tanir",
+            "id": 1398843537
+        },
+        {
+            "name": "Never Never",
+            "artist": "Drenchill",
+            "id": 1385763267
+        },
+        {
+            "name": "Living For The Moment (Croatia Squad Remix)",
+            "artist": "Me & My Toothbrush",
+            "id": 420125428
+        },
+        {
+            "name": "JIEBOSS-Prelude.1（JIEBOSS remix）",
+            "artist": "JIEBOSS",
+            "id": 482115760
+        },
+        {
+            "name": "Самая вышка",
+            "artist": "RAIM",
+            "id": 1335315138
+        },
+        {
+            "name": "Justin Bieber-Baby（HEST remix）",
+            "artist": "HEST",
+            "id": 1390951311
+        },
+        {
+            "name": "My Name Is Tokyo (Original Mix)",
+            "artist": "мавлан музыка",
+            "id": 1312595691
+        },
+        {
+            "name": "Burnin' Up (Aero Chord Remix)",
+            "artist": "Jessie J",
+            "id": 399405313
+        },
+        {
+            "name": "FMix China style",
+            "artist": "AXUTSE",
+            "id": 468932689
+        },
+        {
+            "name": "Are You With Me (Sebastien Remix)",
+            "artist": "Lost Frequencies",
+            "id": 1333136351
+        },
+        {
+            "name": "Am I Wrong (Win & Woo Remix)",
+            "artist": "Win & Woo",
+            "id": 35331935
+        },
+        {
+            "name": "Let Me Say (Andrey Exx & Troitski Remix)",
+            "artist": "Deepjack & Mr.Nu",
+            "id": 32209158
+        },
+        {
+            "name": "Candy Shop (BigJerr Trap Remix)",
+            "artist": "BigJerr",
+            "id": 1379719396
+        },
+        {
+            "name": "Avicii-Waiting For Love（AREZ remix）",
+            "artist": "AREZ",
+            "id": 1442552477
+        },
+        {
+            "name": "Take Me To Infinity 纯音乐（Cover Consoul Trainin）",
+            "artist": "音浪",
+            "id": 865854699
+        },
+        {
+            "name": "Twisted (Original Mix)",
+            "artist": "еяхат музыка",
+            "id": 542977901
+        },
+        {
+            "name": "Ялюблю",
+            "artist": "aEZi",
+            "id": 1383992461
+        },
+        {
+            "name": "Smoke",
+            "artist": "aEZi",
+            "id": 1397148900
+        },
+        {
+            "name": "Andalusia (Filatov & Karas Remix)",
+            "artist": "Antoine Chambe",
+            "id": 447925185
+        },
+        {
+            "name": "I Can't Be (Ilkan Gunuc Remix)",
+            "artist": "Hakan Akkus",
+            "id": 470759584
+        },
+        {
+            "name": "The Power of Now",
+            "artist": "Steve Aoki",
+            "id": 35288209
+        },
+        {
+            "name": "Read All About It (Shoby House Rework)",
+            "artist": "Shoby",
+            "id": 403012016
+        },
+        {
+            "name": "МиМиМи (Remix)",
+            "artist": "Dramma",
+            "id": 544965201
+        },
+        {
+            "name": "Stephanskiy-Knight",
+            "artist": "еяхат музыка",
+            "id": 865909147
+        },
+        {
+            "name": "Lordly (Instrumental Mix)",
+            "artist": "Feder",
+            "id": 442562229
+        },
+        {
+            "name": "Mhm Mhm (Sebastien Remix)",
+            "artist": "Manuel Riva",
+            "id": 459062906
+        },
+        {
+            "name": "Mi Gente (Kiko Franco & Jetlag Music Remix)",
+            "artist": "Kiko Franco",
+            "id": 522444713
+        },
+        {
+            "name": "Linkin Park-In The End（Haokun Remix）（张浩坤 remix）",
+            "artist": "RoiMarch",
+            "id": 1333186383
+        },
+        {
+            "name": "Ignis",
+            "artist": "Rompasso",
+            "id": 1323967761
+        },
+        {
+            "name": "Early Morning Dreams (Mahmut Orhan Remix)",
+            "artist": "Mahmut Orhan",
+            "id": 534541133
+        },
+        {
+            "name": "My Love (Dmitriy Rs & DJ Cheeful Remix)",
+            "artist": "East Clubbers",
+            "id": 486837237
+        },
+        {
+            "name": "Max Oazo;Moonessa-Once Upon a Time (Bonzana Remix)",
+            "artist": "Alexei Shkurko",
+            "id": 1337605608
+        },
+        {
+            "name": "Move Your Body (Alan Walker Remix)",
+            "artist": "Alan Walker",
+            "id": 436487129
+        },
+        {
+            "name": "The cranberries-Zombie (Kapral Remix) (YahikoNy remix)",
+            "artist": "电音群星",
+            "id": 1309496106
+        },
+        {
+            "name": "Ride It (Regard Remix)",
+            "artist": "Regard",
+            "id": 497616880
+        },
+        {
+            "name": "Ass Like Kim Face Like Rihanna",
+            "artist": "Caked Up",
+            "id": 31134525
+        },
+        {
+            "name": "Dependent",
+            "artist": "еяхат музыка",
+            "id": 543927569
+        },
+        {
+            "name": "Dancer In The Dark (Original Mix)",
+            "artist": "GRABOTE",
+            "id": 1334059163
+        },
+        {
+            "name": "Breathe",
+            "artist": "EMBRZ",
+            "id": 415063319
+        },
+        {
+            "name": "Fiery Sky",
+            "artist": "Jarico",
+            "id": 1325896666
+        },
+        {
+            "name": "ＶＥＮＯＭ",
+            "artist": "мавлан музыка",
+            "id": 1325071476
+        },
+        {
+            "name": "Gangsta Walk",
+            "artist": "Illusionize",
+            "id": 451981574
+        },
+        {
+            "name": "Tamam Tamam (Ilkay Sencan Remix)",
+            "artist": "Ilkay Sencan",
+            "id": 1306496090
+        },
+        {
+            "name": "Piece Of Your Heart (Alok Remix)",
+            "artist": "Meduza",
+            "id": 1370162678
+        },
+        {
+            "name": "F I U（翻自 AEZI） ",
+            "artist": "aEZi",
+            "id": 1390656610
+        },
+        {
+            "name": "Fuego (Club Mix)",
+            "artist": "Alok",
+            "id": 456381023
+        },
+        {
+            "name": "CHICA",
+            "artist": "Matcha小仔爺",
+            "id": 1345674839
+        },
+        {
+            "name": "Your Love",
+            "artist": "David Guetta",
+            "id": 571338993
+        }
+    ]
+}

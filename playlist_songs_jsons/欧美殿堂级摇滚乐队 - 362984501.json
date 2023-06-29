@@ -1,0 +1,462 @@
+{
+    "playlist_info": {
+        "name": "欧美殿堂级摇滚乐队",
+        "trackcount": 90,
+        "playcount": 10007,
+        "creator": "sail-ing",
+        "createDate": "2016-04-14",
+        "heat": 3.0
+    },
+    "songs": [
+        {
+            "name": "Opium Of The People",
+            "artist": "Slipknot",
+            "id": 21616471
+        },
+        {
+            "name": "The Devil in I",
+            "artist": "Slipknot",
+            "id": 28996918
+        },
+        {
+            "name": "Vermilion Pt. 2",
+            "artist": "Slipknot",
+            "id": 21616477
+        },
+        {
+            "name": "No Surprises",
+            "artist": "Radiohead",
+            "id": 22497479
+        },
+        {
+            "name": "Stop Crying Your Heart Out",
+            "artist": "Oasis",
+            "id": 4225537
+        },
+        {
+            "name": "Whatever",
+            "artist": "Oasis",
+            "id": 17822688
+        },
+        {
+            "name": "Sitting Here In Silence (On My Own)",
+            "artist": "Oasis",
+            "id": 17822810
+        },
+        {
+            "name": "Enter Sandman",
+            "artist": "Metallica",
+            "id": 1696812
+        },
+        {
+            "name": "Master Of Puppets",
+            "artist": "Metallica",
+            "id": 21162407
+        },
+        {
+            "name": "The Unforgiven",
+            "artist": "Metallica",
+            "id": 21162551
+        },
+        {
+            "name": "Message In A Bottle",
+            "artist": "The Police",
+            "id": 19553528
+        },
+        {
+            "name": "While My Guitar Gently Weeps (2018 Mix)",
+            "artist": "The Beatles",
+            "id": 1319138680
+        },
+        {
+            "name": "Yesterday",
+            "artist": "The Beatles",
+            "id": 1295571534
+        },
+        {
+            "name": "In My Life",
+            "artist": "The Beatles",
+            "id": 1295518486
+        },
+        {
+            "name": "Animal Nitrate",
+            "artist": "Suede",
+            "id": 4279451
+        },
+        {
+            "name": "Babe I'm Gonna Leave You",
+            "artist": "Led Zeppelin",
+            "id": 1646223
+        },
+        {
+            "name": "Kashmir",
+            "artist": "Led Zeppelin",
+            "id": 1646273
+        },
+        {
+            "name": "Whole Lotta Love",
+            "artist": "Led Zeppelin",
+            "id": 1646233
+        },
+        {
+            "name": "Heaven and Hell",
+            "artist": "Black Sabbath",
+            "id": 16837059
+        },
+        {
+            "name": "Paranoid",
+            "artist": "Black Sabbath",
+            "id": 16837172
+        },
+        {
+            "name": "Loner",
+            "artist": "Black Sabbath",
+            "id": 26484697
+        },
+        {
+            "name": "Soldier Of Fortune",
+            "artist": "Deep Purple",
+            "id": 22608070
+        },
+        {
+            "name": "Living Wreck",
+            "artist": "Deep Purple",
+            "id": 4021260
+        },
+        {
+            "name": "Highway Star",
+            "artist": "Deep Purple",
+            "id": 5178923
+        },
+        {
+            "name": "Doom And Gloom (Jeff Bhasker Mix)",
+            "artist": "The Rolling Stones",
+            "id": 21968530
+        },
+        {
+            "name": "Gimme Shelter",
+            "artist": "The Rolling Stones",
+            "id": 4338428
+        },
+        {
+            "name": "Angie",
+            "artist": "The Rolling Stones",
+            "id": 26292447
+        },
+        {
+            "name": "Cryin'",
+            "artist": "Aerosmith",
+            "id": 3881799
+        },
+        {
+            "name": "Pink",
+            "artist": "Aerosmith",
+            "id": 20506682
+        },
+        {
+            "name": "I Don't Want To Miss A Thing",
+            "artist": "Aerosmith",
+            "id": 20506296
+        },
+        {
+            "name": "The Temple Of The King",
+            "artist": "Rainbow",
+            "id": 21565047
+        },
+        {
+            "name": "Ariel",
+            "artist": "Rainbow",
+            "id": 3316507
+        },
+        {
+            "name": "Starstruck",
+            "artist": "Rainbow",
+            "id": 21565053
+        },
+        {
+            "name": "Time",
+            "artist": "Pink Floyd",
+            "id": 4238109
+        },
+        {
+            "name": "High Hopes",
+            "artist": "Pink Floyd",
+            "id": 4235833
+        },
+        {
+            "name": "Money",
+            "artist": "Pink Floyd",
+            "id": 4238119
+        },
+        {
+            "name": "Riders on the Storm",
+            "artist": "The Doors",
+            "id": 4333931
+        },
+        {
+            "name": "The Spy",
+            "artist": "The Doors",
+            "id": 5050926
+        },
+        {
+            "name": "Peace Frog",
+            "artist": "The Doors",
+            "id": 27129791
+        },
+        {
+            "name": "Susie Q",
+            "artist": "Creedence Clearwater Revival",
+            "id": 27215097
+        },
+        {
+            "name": "Have You Ever Seen the Rain?",
+            "artist": "Creedence Clearwater Revival",
+            "id": 1142600
+        },
+        {
+            "name": "I Heard It Through the Grapevine",
+            "artist": "Creedence Clearwater Revival",
+            "id": 1142443
+        },
+        {
+            "name": "Dogs of War",
+            "artist": "AC/DC",
+            "id": 29755187
+        },
+        {
+            "name": "Thunderstruck",
+            "artist": "AC/DC",
+            "id": 3879510
+        },
+        {
+            "name": "Rock or Bust",
+            "artist": "AC/DC",
+            "id": 29499638
+        },
+        {
+            "name": "Panama",
+            "artist": "Van Halen",
+            "id": 26192189
+        },
+        {
+            "name": "Can't Stop Lovin' You",
+            "artist": "Van Halen",
+            "id": 19703275
+        },
+        {
+            "name": "Poundcake",
+            "artist": "Van Halen",
+            "id": 27425077
+        },
+        {
+            "name": "Dance Of Death",
+            "artist": "Iron Maiden",
+            "id": 22448899
+        },
+        {
+            "name": "Trooper",
+            "artist": "Iron Maiden",
+            "id": 1461754
+        },
+        {
+            "name": "Fear of the Dark (Live At Estadio Nacional, Santiago)",
+            "artist": "Iron Maiden",
+            "id": 18353758
+        },
+        {
+            "name": "Every Breath You Take",
+            "artist": "The Police",
+            "id": 19553535
+        },
+        {
+            "name": "Every Little Thing She Does Is Magic",
+            "artist": "The Police",
+            "id": 19553532
+        },
+        {
+            "name": "Outsiders",
+            "artist": "Suede",
+            "id": 34923448
+        },
+        {
+            "name": "Everything Will Flow",
+            "artist": "Suede",
+            "id": 4279075
+        },
+        {
+            "name": "Rock & Roll Over",
+            "artist": "Mr. Big",
+            "id": 21164274
+        },
+        {
+            "name": "Just Take My Heart",
+            "artist": "Mr. Big",
+            "id": 1699322
+        },
+        {
+            "name": "Mr. Big",
+            "artist": "Mr. Big",
+            "id": 1699303
+        },
+        {
+            "name": "Don't Cry (Original)",
+            "artist": "Guns N' Roses",
+            "id": 18094989
+        },
+        {
+            "name": "November Rain",
+            "artist": "Guns N' Roses",
+            "id": 18094919
+        },
+        {
+            "name": "14 Years",
+            "artist": "Guns N' Roses",
+            "id": 18095055
+        },
+        {
+            "name": "Stay Away",
+            "artist": "Nirvana",
+            "id": 21303942
+        },
+        {
+            "name": "Heart-Shaped Box",
+            "artist": "Nirvana",
+            "id": 27785127
+        },
+        {
+            "name": "Come As You Are",
+            "artist": "Nirvana",
+            "id": 21303927
+        },
+        {
+            "name": "Call It Rock N' Roll",
+            "artist": "Great White",
+            "id": 18099908
+        },
+        {
+            "name": "Once Bitten, Twice Shy",
+            "artist": "Great White",
+            "id": 18099909
+        },
+        {
+            "name": "Just Yesterday",
+            "artist": "Great White",
+            "id": 18100203
+        },
+        {
+            "name": "We Will Rock You (Live Version)",
+            "artist": "Queen",
+            "id": 26771441
+        },
+        {
+            "name": "Under Pressure (2011 Remaster)",
+            "artist": "Queen",
+            "id": 18317677
+        },
+        {
+            "name": "Another One Bites the Dust",
+            "artist": "Queen",
+            "id": 1868486
+        },
+        {
+            "name": "The Final Countdown",
+            "artist": "Europe",
+            "id": 17646724
+        },
+        {
+            "name": "Rock The Night",
+            "artist": "Europe",
+            "id": 5153494
+        },
+        {
+            "name": "Carrie",
+            "artist": "Europe",
+            "id": 27951463
+        },
+        {
+            "name": "Elevation (Live)",
+            "artist": "U2",
+            "id": 4406477
+        },
+        {
+            "name": "Every Breaking Wave",
+            "artist": "U2",
+            "id": 29328069
+        },
+        {
+            "name": "Vertigo",
+            "artist": "U2",
+            "id": 22004171
+        },
+        {
+            "name": "Hotel California",
+            "artist": "Eagles",
+            "id": 5264843
+        },
+        {
+            "name": "Hole In The World (Bonus Track)",
+            "artist": "Eagles",
+            "id": 17678541
+        },
+        {
+            "name": "Love Will Keep Us Alive",
+            "artist": "Eagles",
+            "id": 4049385
+        },
+        {
+            "name": "Moment of Glory",
+            "artist": "Scorpions",
+            "id": 4280260
+        },
+        {
+            "name": "Always Somewhere (Live)",
+            "artist": "Scorpions",
+            "id": 21733598
+        },
+        {
+            "name": "Hurricane 2000",
+            "artist": "Scorpions",
+            "id": 4280256
+        },
+        {
+            "name": "Orange Crush",
+            "artist": "R.E.M.",
+            "id": 20283073
+        },
+        {
+            "name": "Every Day Is Yours To Win",
+            "artist": "R.E.M.",
+            "id": 20282849
+        },
+        {
+            "name": "Everybody Hurts",
+            "artist": "R.E.M.",
+            "id": 20282676
+        },
+        {
+            "name": "The Daily Mail",
+            "artist": "Radiohead",
+            "id": 18795641
+        },
+        {
+            "name": "Burn the Witch",
+            "artist": "Radiohead",
+            "id": 412187093
+        },
+        {
+            "name": "It's My Life",
+            "artist": "Bon Jovi",
+            "id": 3950546
+        },
+        {
+            "name": "You Give Love a Bad Name",
+            "artist": "Bon Jovi",
+            "id": 3951283
+        },
+        {
+            "name": "Last Man Standing",
+            "artist": "Bon Jovi",
+            "id": 16850422
+        }
+    ]
+}

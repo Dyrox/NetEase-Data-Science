@@ -1,0 +1,467 @@
+{
+    "playlist_info": {
+        "name": "我们的快乐舞",
+        "trackcount": 91,
+        "playcount": 23917,
+        "creator": "Joe的白日梦",
+        "createDate": "2022-08-22",
+        "heat": 76.0
+    },
+    "songs": [
+        {
+            "name": "Designer",
+            "artist": "Balu Brigada",
+            "id": 2036431815
+        },
+        {
+            "name": "Courtside",
+            "artist": "Tim Atlas",
+            "id": 1847545841
+        },
+        {
+            "name": "Lost (Album Version)",
+            "artist": "Frank Ocean",
+            "id": 17724535
+        },
+        {
+            "name": "Endlessly",
+            "artist": "Omar Apollo",
+            "id": 1970865520
+        },
+        {
+            "name": "For Real",
+            "artist": "Mallrat",
+            "id": 448706033
+        },
+        {
+            "name": "Never Enough",
+            "artist": "Rex Orange County",
+            "id": 490381976
+        },
+        {
+            "name": "Didn't Know How (to Love You)",
+            "artist": "Joesef",
+            "id": 1982346250
+        },
+        {
+            "name": "You're Not Special, Babe",
+            "artist": "Orla Gartland",
+            "id": 1850703822
+        },
+        {
+            "name": "Dancing On My Own",
+            "artist": "Robyn",
+            "id": 18684199
+        },
+        {
+            "name": "Edge of Seventeen (2016 Remaster)",
+            "artist": "Stevie Nicks",
+            "id": 19170855
+        },
+        {
+            "name": "Gimme",
+            "artist": "Ralph",
+            "id": 1307893155
+        },
+        {
+            "name": "Weatherman",
+            "artist": "Eddie Benjamin",
+            "id": 1919371884
+        },
+        {
+            "name": "Bedroom",
+            "artist": "Litany",
+            "id": 527496148
+        },
+        {
+            "name": "You're the One for Me (Digital Farm Animals Remix)",
+            "artist": "Great Good Fine OK",
+            "id": 1500038408
+        },
+        {
+            "name": "Uno",
+            "artist": "Rex Orange County",
+            "id": 445666571
+        },
+        {
+            "name": "Ecstasy",
+            "artist": "Fabich",
+            "id": 1911797026
+        },
+        {
+            "name": "Free Yourself",
+            "artist": "Jessie Ware",
+            "id": 1965520021
+        },
+        {
+            "name": "ZIG ZAGGING",
+            "artist": "Asha Imuno",
+            "id": 1987841630
+        },
+        {
+            "name": "Morning Sex",
+            "artist": "Ralph Castelli",
+            "id": 1455979025
+        },
+        {
+            "name": "I Think I Left the Stove On",
+            "artist": "Hotel Ugly",
+            "id": 1960653193
+        },
+        {
+            "name": "Don't Go Breaking My Heart",
+            "artist": "Elton John",
+            "id": 426315747
+        },
+        {
+            "name": "Agitations tropicales",
+            "artist": "L'Impératrice",
+            "id": 1435628296
+        },
+        {
+            "name": "Talk Fast",
+            "artist": "5 Seconds of Summer",
+            "id": 573617920
+        },
+        {
+            "name": "陪妳过假日 feat. 9m88",
+            "artist": "Leo王",
+            "id": 443876698
+        },
+        {
+            "name": "Patagonia",
+            "artist": "Patawawa",
+            "id": 1407678736
+        },
+        {
+            "name": "Canned Heat",
+            "artist": "Jamiroquai",
+            "id": 1472074324
+        },
+        {
+            "name": "Falafel",
+            "artist": "Tom Misch",
+            "id": 36019236
+        },
+        {
+            "name": "Le Freak (LP Version)",
+            "artist": "Chic",
+            "id": 17036804
+        },
+        {
+            "name": "Stayin Alive",
+            "artist": "Bee Gees",
+            "id": 1496761513
+        },
+        {
+            "name": "Sunny",
+            "artist": "Boney M.",
+            "id": 2195553
+        },
+        {
+            "name": "Dancing Queen",
+            "artist": "ABBA",
+            "id": 3880210
+        },
+        {
+            "name": "More Than Friends",
+            "artist": "Aidan Bissett",
+            "id": 1479133258
+        },
+        {
+            "name": "Luv Is Not Enough",
+            "artist": "Miami Horror",
+            "id": 1448645200
+        },
+        {
+            "name": "Taste Of You",
+            "artist": "Allen stone",
+            "id": 1398605606
+        },
+        {
+            "name": "Only You",
+            "artist": "Steve Monite",
+            "id": 1911237726
+        },
+        {
+            "name": "Getting Busy!",
+            "artist": "Jimothy Lacoste",
+            "id": 1457541080
+        },
+        {
+            "name": "Malibu",
+            "artist": "Kim Petras",
+            "id": 1887216414
+        },
+        {
+            "name": "Joe",
+            "artist": "Joesef",
+            "id": 1973588965
+        },
+        {
+            "name": "Let's Groove",
+            "artist": "Earth, Wind & Fire",
+            "id": 27756752
+        },
+        {
+            "name": "Shout To The Top (Full Version)",
+            "artist": "The Style Council",
+            "id": 21413188
+        },
+        {
+            "name": "Losing My Way",
+            "artist": "FKJ",
+            "id": 1465424620
+        },
+        {
+            "name": "Heavy, California",
+            "artist": "Jungle",
+            "id": 1299155002
+        },
+        {
+            "name": "it's like a dream",
+            "artist": "NEIL FRANCES",
+            "id": 1914553893
+        },
+        {
+            "name": "PROBLEMZ",
+            "artist": "Jungle",
+            "id": 1944267397
+        },
+        {
+            "name": "It's Been a Little Heavy Lately",
+            "artist": "Joesef",
+            "id": 1973589865
+        },
+        {
+            "name": "最高品質靜悄悄 Airplane Mode",
+            "artist": "9m88",
+            "id": 1381013231
+        },
+        {
+            "name": "Does It Make You Feel Good? (stripped)",
+            "artist": "Joesef",
+            "id": 1830033364
+        },
+        {
+            "name": "Does It Make You Feel Good?",
+            "artist": "Joesef",
+            "id": 1478307036
+        },
+        {
+            "name": "Before I Let Go (Homecoming Live Bonus Track)",
+            "artist": "Beyoncé",
+            "id": 1359367005
+        },
+        {
+            "name": "I Feel the Earth Move",
+            "artist": "Carole King",
+            "id": 1298362088
+        },
+        {
+            "name": "Lifting You",
+            "artist": "Jungle",
+            "id": 1863281104
+        },
+        {
+            "name": "Gone",
+            "artist": "JR JR",
+            "id": 34468672
+        },
+        {
+            "name": "Pass This On",
+            "artist": "The Knife",
+            "id": 19558288
+        },
+        {
+            "name": "Keep Moving",
+            "artist": "Jungle",
+            "id": 1863280224
+        },
+        {
+            "name": "Shuga",
+            "artist": "Magnum Haus",
+            "id": 1376967356
+        },
+        {
+            "name": "Read My Lips",
+            "artist": "Jessie Ware",
+            "id": 1458198815
+        },
+        {
+            "name": "Paris (Aeroplane Remix)",
+            "artist": "Friendly Fires",
+            "id": 4067900
+        },
+        {
+            "name": "What About This Love ? (Kenlou Remix)",
+            "artist": "Larry Heard",
+            "id": 573874852
+        },
+        {
+            "name": "Only Everything",
+            "artist": "Poolside",
+            "id": 4258896
+        },
+        {
+            "name": "73 Almond Lane (Instrumental Remix)",
+            "artist": "Funky DL",
+            "id": 27684949
+        },
+        {
+            "name": "I've Got The Music In Me",
+            "artist": "Emilia Jones",
+            "id": 1869074217
+        },
+        {
+            "name": "Always Alright",
+            "artist": "Alabama Shakes",
+            "id": 26196790
+        },
+        {
+            "name": "Spotlight (Single Edit)",
+            "artist": "Jessie Ware",
+            "id": 1426811570
+        },
+        {
+            "name": "Just Can't Get Enough",
+            "artist": "Depeche Mode",
+            "id": 5162134
+        },
+        {
+            "name": "Naked",
+            "artist": "Bickle",
+            "id": 1459428259
+        },
+        {
+            "name": "If You Could",
+            "artist": "Harmless",
+            "id": 1916080602
+        },
+        {
+            "name": "Run the World!!!",
+            "artist": "Dayglow",
+            "id": 1376949118
+        },
+        {
+            "name": "Freaking Out the Neighborhood",
+            "artist": "Mac Demarco",
+            "id": 1303304808
+        },
+        {
+            "name": "Messages from the Stars",
+            "artist": "Dabeull",
+            "id": 1852281512
+        },
+        {
+            "name": "Supernova",
+            "artist": "Sunni Colón",
+            "id": 1393643489
+        },
+        {
+            "name": "Johatsu",
+            "artist": "KESMAR",
+            "id": 1845730469
+        },
+        {
+            "name": "WUTD",
+            "artist": "Genesis Owusu",
+            "id": 1347847613
+        },
+        {
+            "name": "Foreign Things",
+            "artist": "Amber Mark",
+            "id": 1872213099
+        },
+        {
+            "name": "A Kiss",
+            "artist": "The Driver Era",
+            "id": 1883276771
+        },
+        {
+            "name": "Heaven Is a Place on Earth",
+            "artist": "Belinda Carlisle",
+            "id": 5205370
+        },
+        {
+            "name": "Good Times",
+            "artist": "Genesis Owusu",
+            "id": 1380239309
+        },
+        {
+            "name": "Worst Nites",
+            "artist": "Foster The People",
+            "id": 1323757496
+        },
+        {
+            "name": "Les aventurea de TINTIN",
+            "artist": "大貫妙子",
+            "id": 26143358
+        },
+        {
+            "name": "Deployed (feat. Little Dragon)",
+            "artist": "sir Was",
+            "id": 1377237755
+        },
+        {
+            "name": "Case for You (feat. Dizzy Fae)",
+            "artist": "Early Eyes",
+            "id": 1828728729
+        },
+        {
+            "name": "Money",
+            "artist": "Michael Kiwanuka",
+            "id": 1372690319
+        },
+        {
+            "name": "Listerine",
+            "artist": "Dayglow",
+            "id": 1397436255
+        },
+        {
+            "name": "There's Too Much Love",
+            "artist": "Belle & Sebastian",
+            "id": 1401314321
+        },
+        {
+            "name": "Adore You",
+            "artist": "Harry Styles",
+            "id": 1407951508
+        },
+        {
+            "name": "Smile",
+            "artist": "Winston Surfshirt",
+            "id": 1450948000
+        },
+        {
+            "name": "Carolina",
+            "artist": "Harry Styles",
+            "id": 477936859
+        },
+        {
+            "name": "As It Was",
+            "artist": "Harry Styles",
+            "id": 1933791692
+        },
+        {
+            "name": "Pick U Up",
+            "artist": "Foster The People",
+            "id": 1388601002
+        },
+        {
+            "name": "Move Your Feet",
+            "artist": "Junior Senior",
+            "id": 18846756
+        },
+        {
+            "name": "Clearest Blue",
+            "artist": "CHVRCHES",
+            "id": 34880772
+        },
+        {
+            "name": "Late Night Talking",
+            "artist": "Harry Styles",
+            "id": 1948618489
+        }
+    ]
+}

@@ -1,0 +1,512 @@
+{
+    "playlist_info": {
+        "name": "✔ Street Coffee ☕",
+        "trackcount": 100,
+        "playcount": 10271,
+        "creator": "Symphony_",
+        "createDate": "2016-11-17",
+        "heat": 4.0
+    },
+    "songs": [
+        {
+            "name": "Lovesong",
+            "artist": "Adele",
+            "id": 2117027
+        },
+        {
+            "name": "Think About You",
+            "artist": "SAFIA",
+            "id": 1383022413
+        },
+        {
+            "name": "Ordinary Man",
+            "artist": "Eels",
+            "id": 17571164
+        },
+        {
+            "name": "Hero (Acoustic)",
+            "artist": "Music Travel Love",
+            "id": 1824477808
+        },
+        {
+            "name": "Blind Willie McTell",
+            "artist": "Bob Dylan",
+            "id": 26473396
+        },
+        {
+            "name": "Where The Dreams Go To Die",
+            "artist": "John Grant",
+            "id": 1598130
+        },
+        {
+            "name": "Back To Black",
+            "artist": "Amy Winehouse",
+            "id": 2117058
+        },
+        {
+            "name": "Easy On Me",
+            "artist": "Adele",
+            "id": 1887190390
+        },
+        {
+            "name": "Don't Be So Shy [Work In Progress]",
+            "artist": "Imany",
+            "id": 35283706
+        },
+        {
+            "name": "Love Is Gone (Acoustic)",
+            "artist": "SLANDER",
+            "id": 1401671455
+        },
+        {
+            "name": "1 to 2",
+            "artist": "Elaine",
+            "id": 1317494331
+        },
+        {
+            "name": "Slow Down",
+            "artist": "Imany",
+            "id": 1460092200
+        },
+        {
+            "name": "Historia De Un Amor",
+            "artist": "Laura Fygi",
+            "id": 2924275
+        },
+        {
+            "name": "Casablanca",
+            "artist": "Bertie Higgins",
+            "id": 5199197
+        },
+        {
+            "name": "Because you are a woman",
+            "artist": "Brett Dennen",
+            "id": 16623534
+        },
+        {
+            "name": "Salut",
+            "artist": "Hélène Ségara",
+            "id": 27836311
+        },
+        {
+            "name": "A Moment of Madness",
+            "artist": "Katie Melua",
+            "id": 19038208
+        },
+        {
+            "name": "Danser Sur Le Disco",
+            "artist": "La Grande Sophie",
+            "id": 21014925
+        },
+        {
+            "name": "Let Me Down Slowly (Acoustic)",
+            "artist": "Beth",
+            "id": 1313591404
+        },
+        {
+            "name": "Million Years Ago",
+            "artist": "Adele",
+            "id": 36871368
+        },
+        {
+            "name": "My Same",
+            "artist": "Adele",
+            "id": 16435023
+        },
+        {
+            "name": "One And Only",
+            "artist": "Adele",
+            "id": 2117024
+        },
+        {
+            "name": "Set Fire to the Rain",
+            "artist": "Adele",
+            "id": 2117009
+        },
+        {
+            "name": "Love & Hate",
+            "artist": "Michael Kiwanuka",
+            "id": 409004560
+        },
+        {
+            "name": "Someone Like You",
+            "artist": "Adele",
+            "id": 16435049
+        },
+        {
+            "name": "He Won't Go",
+            "artist": "Adele",
+            "id": 2117013
+        },
+        {
+            "name": "Life Is Wonderful (Live in Amsterdam)",
+            "artist": "Jason Mraz",
+            "id": 18611546
+        },
+        {
+            "name": "All I Ask",
+            "artist": "Adele",
+            "id": 36841428
+        },
+        {
+            "name": "Crescent Moon",
+            "artist": "Marc Evans",
+            "id": 31234247
+        },
+        {
+            "name": "Flamme à lunettes",
+            "artist": "Olivia Ruiz",
+            "id": 28923704
+        },
+        {
+            "name": "You Are My Sunshine (Version 1)",
+            "artist": "Elizabeth Mitchell",
+            "id": 2533578
+        },
+        {
+            "name": "you belong to me",
+            "artist": "Carla Bruni",
+            "id": 17086516
+        },
+        {
+            "name": "Je ne sais pas choisir",
+            "artist": "Emily Loizeau",
+            "id": 2583725
+        },
+        {
+            "name": "Tuesday",
+            "artist": "Five for Fighting",
+            "id": 22281622
+        },
+        {
+            "name": "Look At Me",
+            "artist": "Alan Jackson",
+            "id": 5043107
+        },
+        {
+            "name": "Il y a",
+            "artist": "Vanessa Paradis",
+            "id": 3796510
+        },
+        {
+            "name": "Duet",
+            "artist": "Rachael Yamagata",
+            "id": 18733268
+        },
+        {
+            "name": "Demons",
+            "artist": "Brika",
+            "id": 29897273
+        },
+        {
+            "name": "Mille passi",
+            "artist": "Chiara",
+            "id": 27806337
+        },
+        {
+            "name": "Siempre Me Quedará",
+            "artist": "Bebe",
+            "id": 22507646
+        },
+        {
+            "name": "Ulysse",
+            "artist": "Ridan",
+            "id": 18499906
+        },
+        {
+            "name": "Missiva D'amore",
+            "artist": "Arisa",
+            "id": 2120969
+        },
+        {
+            "name": "Si jamais j'oublie",
+            "artist": "Zaz",
+            "id": 400280509
+        },
+        {
+            "name": "I Love Paris / J'aime Paris (feat. Nikki Yanofsky)",
+            "artist": "Zaz",
+            "id": 29719596
+        },
+        {
+            "name": "Dans mon Paris (Version swing manouche)",
+            "artist": "Zaz",
+            "id": 29719591
+        },
+        {
+            "name": "Belle (Du film « Belle et Sébastien »)",
+            "artist": "Zaz",
+            "id": 29095319
+        },
+        {
+            "name": "L'oiseau / Sébastien et Esther",
+            "artist": "Zaz",
+            "id": 29095350
+        },
+        {
+            "name": "Les passants",
+            "artist": "Zaz",
+            "id": 19914440
+        },
+        {
+            "name": "J'arrive à toi",
+            "artist": "Carla Bruni",
+            "id": 26227034
+        },
+        {
+            "name": "4.9.14",
+            "artist": "Brika",
+            "id": 29897261
+        },
+        {
+            "name": "Sorry (Justin Bieber Cover)",
+            "artist": "Brika",
+            "id": 407450674
+        },
+        {
+            "name": "Options",
+            "artist": "Brika",
+            "id": 29897263
+        },
+        {
+            "name": "Tetris",
+            "artist": "Brika",
+            "id": 402073147
+        },
+        {
+            "name": "Overtime",
+            "artist": "Brika",
+            "id": 29897264
+        },
+        {
+            "name": "Autumn Leaves",
+            "artist": "Eric Clapton",
+            "id": 17541009
+        },
+        {
+            "name": "Moon",
+            "artist": "Brika",
+            "id": 29897268
+        },
+        {
+            "name": "Expectations",
+            "artist": "Brika",
+            "id": 29362720
+        },
+        {
+            "name": "Down",
+            "artist": "Marian Hill",
+            "id": 405226741
+        },
+        {
+            "name": "너의 마음속엔 강이 흐른다",
+            "artist": "Yiruma",
+            "id": 26129630
+        },
+        {
+            "name": "Fly",
+            "artist": "D-Side",
+            "id": 17213616
+        },
+        {
+            "name": "I Dug Up A Diamond",
+            "artist": "Mark Knopfler",
+            "id": 21171751
+        },
+        {
+            "name": "Vu de là-bas",
+            "artist": "Soha",
+            "id": 19157487
+        },
+        {
+            "name": "Dream Club",
+            "artist": "Soha",
+            "id": 19157486
+        },
+        {
+            "name": "C'est bien mieux comme ça",
+            "artist": "Soha",
+            "id": 19157482
+        },
+        {
+            "name": "Le Café bleu",
+            "artist": "Soha",
+            "id": 19157488
+        },
+        {
+            "name": "Cuidar Nuestro Amor (I'll Never Let Go)",
+            "artist": "David Bisbal",
+            "id": 17263308
+        },
+        {
+            "name": "Mil pasos (feat. Antoine Essertier)",
+            "artist": "Soha",
+            "id": 19157485
+        },
+        {
+            "name": "Temptation",
+            "artist": "Diana Krall",
+            "id": 17416985
+        },
+        {
+            "name": "Mumbai",
+            "artist": "Brika",
+            "id": 29897269
+        },
+        {
+            "name": "Cheap Thrills",
+            "artist": "Boyce Avenue",
+            "id": 440403867
+        },
+        {
+            "name": "One Last Time",
+            "artist": "Travis Atreo",
+            "id": 33471396
+        },
+        {
+            "name": "Diamonds",
+            "artist": "Alex Goot",
+            "id": 27566698
+        },
+        {
+            "name": "Grenade",
+            "artist": "Boyce Avenue",
+            "id": 1128303
+        },
+        {
+            "name": "Old Time Religion",
+            "artist": "Parker Millsap",
+            "id": 28279354
+        },
+        {
+            "name": "What Makes You Beautiful",
+            "artist": "Marc Sean",
+            "id": 1076292
+        },
+        {
+            "name": "We're Good People but Why Don't We Show It?",
+            "artist": "Holly Throsby",
+            "id": 18250864
+        },
+        {
+            "name": "You Will Never Know",
+            "artist": "Imany",
+            "id": 2772171
+        },
+        {
+            "name": "Just the Way You Are",
+            "artist": "Boyce Avenue",
+            "id": 1128286
+        },
+        {
+            "name": "Run, Run, Run...",
+            "artist": "Emme Packer",
+            "id": 2532690
+        },
+        {
+            "name": "Seasons in the Sun",
+            "artist": "Black Box Recorder",
+            "id": 3950239
+        },
+        {
+            "name": "Halo",
+            "artist": "Lotte Kestner",
+            "id": 27975130
+        },
+        {
+            "name": "Stay",
+            "artist": "Miley Cyrus",
+            "id": 17217908
+        },
+        {
+            "name": "Valentine",
+            "artist": "Kina Grannis",
+            "id": 2912506
+        },
+        {
+            "name": "Hotel California (Live on MTV, 1994)",
+            "artist": "Eagles",
+            "id": 4049399
+        },
+        {
+            "name": "Slow Down",
+            "artist": "Imany",
+            "id": 2772168
+        },
+        {
+            "name": "I Wanna Know (Guitar ver.)",
+            "artist": "SunsetCruz",
+            "id": 5353964
+        },
+        {
+            "name": "Night Changes (Live Acoustic Session)",
+            "artist": "One Direction",
+            "id": 29794305
+        },
+        {
+            "name": "When I Was Your Man",
+            "artist": "Bruno Mars",
+            "id": 25657229
+        },
+        {
+            "name": "Thank You",
+            "artist": "Dido",
+            "id": 17346999
+        },
+        {
+            "name": "i hate u, i love u (feat. olivia o'brien)",
+            "artist": "gnash",
+            "id": 34229234
+        },
+        {
+            "name": "Need You Now",
+            "artist": "Jess Mhoneeares",
+            "id": 1076294
+        },
+        {
+            "name": "Миллион алых роз",
+            "artist": "Алла Пугачёва",
+            "id": 36496277
+        },
+        {
+            "name": "Take Care",
+            "artist": "Imany",
+            "id": 2772202
+        },
+        {
+            "name": "Read All About It, Pt. III",
+            "artist": "Emeli Sandé",
+            "id": 22044573
+        },
+        {
+            "name": "Wrong Kind of War",
+            "artist": "Imany",
+            "id": 428203218
+        },
+        {
+            "name": "Don't Be so Shy (Live Version)",
+            "artist": "Imany",
+            "id": 428203223
+        },
+        {
+            "name": "Pray for Help",
+            "artist": "Imany",
+            "id": 2772194
+        },
+        {
+            "name": "Try",
+            "artist": "Colbie Caillat",
+            "id": 28639182
+        },
+        {
+            "name": "Maps",
+            "artist": "MADILYN",
+            "id": 29482234
+        },
+        {
+            "name": "Sous le ciel de Paris",
+            "artist": "Zaz",
+            "id": 29719590
+        }
+    ]
+}

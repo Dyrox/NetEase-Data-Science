@@ -1,0 +1,712 @@
+{
+    "playlist_info": {
+        "name": "CSGO 练枪专属（比赛禁用，坚决禁用！）",
+        "trackcount": 140,
+        "playcount": 47,
+        "creator": "雅妮2301",
+        "createDate": "2023-06-19",
+        "heat": 5.0
+    },
+    "songs": [
+        {
+            "name": "白给圣经",
+            "artist": "Kaiwen",
+            "id": 1474382970
+        },
+        {
+            "name": "why oh why",
+            "artist": "李子璇",
+            "id": 1494525571
+        },
+        {
+            "name": "wait（鲲版）",
+            "artist": "何时",
+            "id": 1966902160
+        },
+        {
+            "name": "Reverie",
+            "artist": "ILLENIUM",
+            "id": 403710535
+        },
+        {
+            "name": "Infinite Love",
+            "artist": "Young London",
+            "id": 26482020
+        },
+        {
+            "name": "Ado-鸡你太踊（哦呼w / noonestaysgoodinthisworld remix）",
+            "artist": "哦呼w",
+            "id": 1868635068
+        },
+        {
+            "name": "Summer on You (Club Mix)",
+            "artist": "Sam Feldt",
+            "id": 420069074
+        },
+        {
+            "name": "Stay",
+            "artist": "Zedd",
+            "id": 461518855
+        },
+        {
+            "name": "Carry Me",
+            "artist": "Kygo",
+            "id": 412902071
+        },
+        {
+            "name": "Tropic Love",
+            "artist": "Diviners",
+            "id": 31514328
+        },
+        {
+            "name": "Shots (Broiler Remix)",
+            "artist": "Broiler",
+            "id": 31789010
+        },
+        {
+            "name": "【鸡你太美】仙剑鸡侠传",
+            "artist": "金色传说竹鼠",
+            "id": 1964336330
+        },
+        {
+            "name": "三国鸡",
+            "artist": "周周",
+            "id": 2005636665
+        },
+        {
+            "name": "Versailles",
+            "artist": "Axollo",
+            "id": 1341925028
+        },
+        {
+            "name": "Mine (Illenium Remix)",
+            "artist": "ILLENIUM",
+            "id": 30780496
+        },
+        {
+            "name": "Let You Go",
+            "artist": "Vanished",
+            "id": 550946717
+        },
+        {
+            "name": "Decoy World VIP",
+            "artist": "INTERCOM",
+            "id": 528273782
+        },
+        {
+            "name": "Frame of Mind",
+            "artist": "Tristam",
+            "id": 28473540
+        },
+        {
+            "name": "Sunflower (Spider-Man: Into the Spider-Verse)",
+            "artist": "Post Malone",
+            "id": 1318733599
+        },
+        {
+            "name": "Who Do You Love",
+            "artist": "The Chainsmokers",
+            "id": 1344670477
+        },
+        {
+            "name": "巨魔战将",
+            "artist": "VESK GREEN 青菜",
+            "id": 1394032574
+        },
+        {
+            "name": "Fix You",
+            "artist": "Vicetone",
+            "id": 533403096
+        },
+        {
+            "name": "Heart Afire",
+            "artist": "Defqwop",
+            "id": 414979630
+        },
+        {
+            "name": "逐渐茄化",
+            "artist": "DJ Lich",
+            "id": 1335710856
+        },
+        {
+            "name": "电鸡之王",
+            "artist": "Brty",
+            "id": 1985171015
+        },
+        {
+            "name": "Bet On Me (Organic Version)",
+            "artist": "Walk off the Earth",
+            "id": 1938756186
+        },
+        {
+            "name": "Dancin (Krono Remix)",
+            "artist": "Aaron Smith",
+            "id": 439121233
+        },
+        {
+            "name": "Live At Night",
+            "artist": "Different Heaven",
+            "id": 521657715
+        },
+        {
+            "name": "T17 (Original Mix)",
+            "artist": "Corporate",
+            "id": 410518545
+        },
+        {
+            "name": "Sway",
+            "artist": "NexXthursday",
+            "id": 490381948
+        },
+        {
+            "name": "Heaven (David Guetta & MORTEN Remix)",
+            "artist": "Avicii",
+            "id": 1386005575
+        },
+        {
+            "name": "Fairytale",
+            "artist": "Zay",
+            "id": 1389604292
+        },
+        {
+            "name": "鸡由飞翔",
+            "artist": "Brty",
+            "id": 1985498862
+        },
+        {
+            "name": "贾斯汀·只因",
+            "artist": "HOPEMIAO",
+            "id": 2001973675
+        },
+        {
+            "name": "Achillea - アキレア",
+            "artist": "HoneyComeBear",
+            "id": 1332970979
+        },
+        {
+            "name": "Violent Sniper",
+            "artist": "XDONE亦辰",
+            "id": 1395414833
+        },
+        {
+            "name": "Secrets (Radio Edit)",
+            "artist": "Tiësto",
+            "id": 30854948
+        },
+        {
+            "name": "Let You Go",
+            "artist": "Machine Gun Kelly",
+            "id": 475221023
+        },
+        {
+            "name": "Dance Monkey",
+            "artist": "Tones and I",
+            "id": 1364343491
+        },
+        {
+            "name": "God Damnit",
+            "artist": "ILLENIUM",
+            "id": 1323987109
+        },
+        {
+            "name": "Take Me With You",
+            "artist": "Fleurie",
+            "id": 518895995
+        },
+        {
+            "name": "鸡如火",
+            "artist": "Neo",
+            "id": 2023741805
+        },
+        {
+            "name": "短裙你太美",
+            "artist": "威廉TEN",
+            "id": 1994477687
+        },
+        {
+            "name": "Changing [Goldsmyth Edition]",
+            "artist": "Sigma",
+            "id": 29378196
+        },
+        {
+            "name": "Take U Out",
+            "artist": "Apex Rise",
+            "id": 520461079
+        },
+        {
+            "name": "Shelter",
+            "artist": "Porter Robinson",
+            "id": 425280053
+        },
+        {
+            "name": "202 (New Mix)",
+            "artist": "ラブリーサマーちゃん",
+            "id": 440208977
+        },
+        {
+            "name": "Die Hard",
+            "artist": "Refeci",
+            "id": 540333737
+        },
+        {
+            "name": "Shadows",
+            "artist": "ROY KNOX",
+            "id": 1419182713
+        },
+        {
+            "name": "Bullets With Names",
+            "artist": "Machine Gun Kelly",
+            "id": 1430436692
+        },
+        {
+            "name": "Lionhearted",
+            "artist": "Porter Robinson",
+            "id": 28687132
+        },
+        {
+            "name": "Hey Mamma (Radio Edit)",
+            "artist": "Sunstroke Project",
+            "id": 482246882
+        },
+        {
+            "name": "鸡真没睡（DN remix）",
+            "artist": "DN",
+            "id": 2026276744
+        },
+        {
+            "name": "你看到的鸡",
+            "artist": "Brty",
+            "id": 1991033021
+        },
+        {
+            "name": "Meet Again (VIVID Remix)",
+            "artist": "Mark Sixma",
+            "id": 1438737753
+        },
+        {
+            "name": "I don't wanna see u anymore",
+            "artist": "NINEONE#赵馨玥",
+            "id": 528326686
+        },
+        {
+            "name": "Fingertips",
+            "artist": "Kisma",
+            "id": 532950375
+        },
+        {
+            "name": "Without You",
+            "artist": "Ascence",
+            "id": 1425212274
+        },
+        {
+            "name": "Peekaboo (Remix)",
+            "artist": "MACO",
+            "id": 532867681
+        },
+        {
+            "name": "Hold On",
+            "artist": "Fadi",
+            "id": 509726712
+        },
+        {
+            "name": "願い~あの頃のキミへ~",
+            "artist": "當山みれい",
+            "id": 488388942
+        },
+        {
+            "name": "本草鸡目",
+            "artist": "鑫阙锅锅",
+            "id": 1982659147
+        },
+        {
+            "name": "国风鸡你太美（哦呼w remix）",
+            "artist": "哦呼w",
+            "id": 1993698937
+        },
+        {
+            "name": "Old Guitar",
+            "artist": "BUNT.",
+            "id": 415786900
+        },
+        {
+            "name": "Tides",
+            "artist": "Mes",
+            "id": 561946600
+        },
+        {
+            "name": "Snowfall (feat. Zeyué)",
+            "artist": "Vanished",
+            "id": 1498805809
+        },
+        {
+            "name": "August",
+            "artist": "Intelligency",
+            "id": 1410339379
+        },
+        {
+            "name": "Never Our Fault",
+            "artist": "Lucas Estrada",
+            "id": 1310022346
+        },
+        {
+            "name": "C U Again",
+            "artist": "Cartoon",
+            "id": 447281375
+        },
+        {
+            "name": "Deep Blue",
+            "artist": "William Black",
+            "id": 1381084455
+        },
+        {
+            "name": "Erase You",
+            "artist": "Excision",
+            "id": 1478054205
+        },
+        {
+            "name": "Gameboy",
+            "artist": "Jayden Bartels",
+            "id": 1417425535
+        },
+        {
+            "name": "Meant To Be",
+            "artist": "Arc North",
+            "id": 447925342
+        },
+        {
+            "name": "BonBon (Monkey MO Remix)",
+            "artist": "Monkey Mo",
+            "id": 1401075289
+        },
+        {
+            "name": "Not Afraid Of Love",
+            "artist": "Skylar Stecker",
+            "id": 34898043
+        },
+        {
+            "name": "Old Town Road (Diplo Remix)",
+            "artist": "Diplo",
+            "id": 1804535928
+        },
+        {
+            "name": "We Are The People (Official UEFA EURO 2020 Song - Martin Garrix Remix)",
+            "artist": "Martin Garrix",
+            "id": 1851131139
+        },
+        {
+            "name": "夏日漱石 (Summer Cozy Rock)",
+            "artist": "橘子海 (Orange Ocean)",
+            "id": 1359818052
+        },
+        {
+            "name": "Ticket To Ride",
+            "artist": "KAWALA",
+            "id": 1454867592
+        },
+        {
+            "name": "你太美",
+            "artist": "Whatevs",
+            "id": 2024628795
+        },
+        {
+            "name": "Company",
+            "artist": "Raude",
+            "id": 1476382428
+        },
+        {
+            "name": "Feel It Still",
+            "artist": "Portugal. The Man",
+            "id": 463197560
+        },
+        {
+            "name": "EZ4ENCE (kannatuslaulu)",
+            "artist": "The Verkkars",
+            "id": 1882119746
+        },
+        {
+            "name": "Last Day Alive",
+            "artist": "The Chainsmokers",
+            "id": 470573540
+        },
+        {
+            "name": "Heat Waves",
+            "artist": "Glass Animals",
+            "id": 1459128908
+        },
+        {
+            "name": "Million Reasons",
+            "artist": "Gunnva",
+            "id": 1896395041
+        },
+        {
+            "name": "Followers",
+            "artist": "AREA21",
+            "id": 1878803282
+        },
+        {
+            "name": "Shed a Light",
+            "artist": "Robin Schulz",
+            "id": 442869301
+        },
+        {
+            "name": "Sunset Jesus",
+            "artist": "Avicii",
+            "id": 35090543
+        },
+        {
+            "name": "Huutista",
+            "artist": "The Verkkars",
+            "id": 1882119747
+        },
+        {
+            "name": "I Found Your Heart",
+            "artist": "DubVision",
+            "id": 34228126
+        },
+        {
+            "name": "Crash",
+            "artist": "XUITCASECITY",
+            "id": 1490282411
+        },
+        {
+            "name": "Hate You",
+            "artist": "Poylow",
+            "id": 1891571342
+        },
+        {
+            "name": "I Wanna Know (Syn Cole Remix)",
+            "artist": "NOTD",
+            "id": 555974147
+        },
+        {
+            "name": "Got Me",
+            "artist": "Poylow",
+            "id": 1897238087
+        },
+        {
+            "name": "Winlandia",
+            "artist": "The Verkkars",
+            "id": 1882115269
+        },
+        {
+            "name": "Complicated (R3hab Remix)",
+            "artist": "Kiiara",
+            "id": 511236571
+        },
+        {
+            "name": "Let It Be Unsaid (feat. Arild Aas)",
+            "artist": "WildVibes",
+            "id": 1879930227
+        },
+        {
+            "name": "Run It Up",
+            "artist": "Lil Tjay",
+            "id": 1833751894
+        },
+        {
+            "name": "Teenage Mona Lisa (feat. Aiden Adair)",
+            "artist": "Alfie Castley",
+            "id": 1920396901
+        },
+        {
+            "name": "BANKAI",
+            "artist": "Aega",
+            "id": 1942042826
+        },
+        {
+            "name": "STAY",
+            "artist": "The Kid LAROI",
+            "id": 1859245776
+        },
+        {
+            "name": "Start Again",
+            "artist": "Iwamoto",
+            "id": 1811853540
+        },
+        {
+            "name": "Moments",
+            "artist": "MitiS",
+            "id": 523249059
+        },
+        {
+            "name": "BLUEMOON feat. kojikoji",
+            "artist": "西原健一郎",
+            "id": 1925206124
+        },
+        {
+            "name": "鸡 卫",
+            "artist": "ZsFlovexl",
+            "id": 2035719936
+        },
+        {
+            "name": "鸡尾草",
+            "artist": "DN",
+            "id": 1959637895
+        },
+        {
+            "name": "邦画",
+            "artist": "indigo la End",
+            "id": 1899409415
+        },
+        {
+            "name": "Fading Wind",
+            "artist": "Feint",
+            "id": 1845904638
+        },
+        {
+            "name": "Cha Cha Cha (Alan Walker Remix)",
+            "artist": "Käärijä",
+            "id": 2053423072
+        },
+        {
+            "name": "Legends",
+            "artist": "Jason Gewalt",
+            "id": 552223852
+        },
+        {
+            "name": "Twinkle Twinkle",
+            "artist": "TBR",
+            "id": 1496577900
+        },
+        {
+            "name": "Why Do I Try (Nightcore)",
+            "artist": "Syrex",
+            "id": 1442365701
+        },
+        {
+            "name": "La La Love",
+            "artist": "Skytech",
+            "id": 1831877817
+        },
+        {
+            "name": "Rare",
+            "artist": "Going Quantum",
+            "id": 447281053
+        },
+        {
+            "name": "Without You × A Sky Full Of Stars × Pizza (Mashup)",
+            "artist": "AbletiveSkye",
+            "id": 557812549
+        },
+        {
+            "name": "The Best Of Me",
+            "artist": "Dion Timmer",
+            "id": 1329938686
+        },
+        {
+            "name": "History",
+            "artist": "Jonth",
+            "id": 1809502606
+        },
+        {
+            "name": "Thunder",
+            "artist": "Gabry Ponte",
+            "id": 1842252426
+        },
+        {
+            "name": "Magic",
+            "artist": "Tobu",
+            "id": 29379953
+        },
+        {
+            "name": "Last Mistake",
+            "artist": "Advent",
+            "id": 1448104873
+        },
+        {
+            "name": "HeLLo (Marshmello Remix)",
+            "artist": "Marshmello",
+            "id": 37095960
+        },
+        {
+            "name": "Wasted",
+            "artist": "Avicii",
+            "id": 1850934646
+        },
+        {
+            "name": "Nothing To Hide",
+            "artist": "PETE",
+            "id": 1853805508
+        },
+        {
+            "name": "Keep You Mine",
+            "artist": "NOTD",
+            "id": 1381706037
+        },
+        {
+            "name": "Real Life (feat. Annie Schindel)",
+            "artist": "William Black",
+            "id": 1887906214
+        },
+        {
+            "name": "小鸡果",
+            "artist": "Brty",
+            "id": 1996301906
+        },
+        {
+            "name": "蒸汽鸡",
+            "artist": "就叫阿路8",
+            "id": 1964076825
+        },
+        {
+            "name": "About You",
+            "artist": "Ascence",
+            "id": 1380123398
+        },
+        {
+            "name": "Flashbang dance (feat. n0thing)",
+            "artist": "The Verkkars",
+            "id": 1882114750
+        },
+        {
+            "name": "EXTERMINATE",
+            "artist": "ROCSET MOON",
+            "id": 1990634110
+        },
+        {
+            "name": "Hundred Miles",
+            "artist": "Yall",
+            "id": 35739155
+        },
+        {
+            "name": "Infinite Ammo",
+            "artist": "Le Castle Vania",
+            "id": 487379954
+        },
+        {
+            "name": "Close Your Eyes",
+            "artist": "FEWZ",
+            "id": 1977964217
+        },
+        {
+            "name": "Children Of A Miracle",
+            "artist": "Don Diablo",
+            "id": 466122582
+        },
+        {
+            "name": "Unique",
+            "artist": "Headhunterz",
+            "id": 423228334
+        },
+        {
+            "name": "Time Lapse",
+            "artist": "TheFatRat",
+            "id": 31517214
+        },
+        {
+            "name": "No Money",
+            "artist": "Galantis",
+            "id": 408277809
+        },
+        {
+            "name": "叮叮当当鸡",
+            "artist": "Brty",
+            "id": 1984972217
+        },
+        {
+            "name": "全世界都在讲坤话",
+            "artist": "忆天",
+            "id": 2011886975
+        }
+    ]
+}

@@ -1,0 +1,452 @@
+{
+    "playlist_info": {
+        "name": "爱上The Beatles甲壳虫乐队",
+        "trackcount": 88,
+        "playcount": 305284,
+        "creator": "by福福轩高",
+        "createDate": "2018-04-08",
+        "heat": 160.0
+    },
+    "songs": [
+        {
+            "name": "Hey Jude",
+            "artist": "The Beatles",
+            "id": 5097946
+        },
+        {
+            "name": "In My Life",
+            "artist": "Various Artists",
+            "id": 5097950
+        },
+        {
+            "name": "Something",
+            "artist": "Various Artists",
+            "id": 5097949
+        },
+        {
+            "name": "Yesterday",
+            "artist": "Various Artists",
+            "id": 5097942
+        },
+        {
+            "name": "For No One",
+            "artist": "Various Artists",
+            "id": 5097952
+        },
+        {
+            "name": "The Fool on the Hill",
+            "artist": "Various Artists",
+            "id": 5097943
+        },
+        {
+            "name": "Michelle",
+            "artist": "Various Artists",
+            "id": 5097944
+        },
+        {
+            "name": "With a Little Help from My Friends",
+            "artist": "Various Artists",
+            "id": 5097945
+        },
+        {
+            "name": "Til There Was You",
+            "artist": "Various Artists",
+            "id": 5097947
+        },
+        {
+            "name": "Across the Universe",
+            "artist": "Various Artists",
+            "id": 5097948
+        },
+        {
+            "name": "Nowhere Man",
+            "artist": "Various Artists",
+            "id": 5097951
+        },
+        {
+            "name": "Love Me Do",
+            "artist": "The Beatles",
+            "id": 503561326
+        },
+        {
+            "name": "Come Together (Remastered)",
+            "artist": "The Beatles",
+            "id": 4336298
+        },
+        {
+            "name": "Something (Remastered)",
+            "artist": "The Beatles",
+            "id": 4336304
+        },
+        {
+            "name": "Maxwell's Silver Hammer (Remastered)",
+            "artist": "The Beatles",
+            "id": 4336310
+        },
+        {
+            "name": "Oh! Darling (Remastered)",
+            "artist": "The Beatles",
+            "id": 4336316
+        },
+        {
+            "name": "Octopus's Garden (Remastered)",
+            "artist": "The Beatles",
+            "id": 4336321
+        },
+        {
+            "name": "I Want You (She's So Heavy) (Remastered)",
+            "artist": "The Beatles",
+            "id": 4336326
+        },
+        {
+            "name": "Here Comes The Sun (Remastered)",
+            "artist": "The Beatles",
+            "id": 4336330
+        },
+        {
+            "name": "Because (Remastered)",
+            "artist": "The Beatles",
+            "id": 4336335
+        },
+        {
+            "name": "You Never Give Me Your Money (Remastered)",
+            "artist": "The Beatles",
+            "id": 4336340
+        },
+        {
+            "name": "Sun King (Remastered)",
+            "artist": "The Beatles",
+            "id": 4336345
+        },
+        {
+            "name": "Mean Mr Mustard (Remastered)",
+            "artist": "The Beatles",
+            "id": 4336351
+        },
+        {
+            "name": "Polythene Pam (Remastered)",
+            "artist": "The Beatles",
+            "id": 4336357
+        },
+        {
+            "name": "She Came In Through The Bathroom Window (Remastered)",
+            "artist": "The Beatles",
+            "id": 4336363
+        },
+        {
+            "name": "Golden Slumbers (Remastered)",
+            "artist": "The Beatles",
+            "id": 4336369
+        },
+        {
+            "name": "Carry That Weight (Remastered)",
+            "artist": "The Beatles",
+            "id": 4336374
+        },
+        {
+            "name": "The End (Remastered)",
+            "artist": "The Beatles",
+            "id": 4336377
+        },
+        {
+            "name": "Her Majesty (Remastered)",
+            "artist": "The Beatles",
+            "id": 4336380
+        },
+        {
+            "name": "Because",
+            "artist": "The Beatles",
+            "id": 4331236
+        },
+        {
+            "name": "Get Back",
+            "artist": "The Beatles",
+            "id": 4331239
+        },
+        {
+            "name": "Glass Onion",
+            "artist": "The Beatles",
+            "id": 4331242
+        },
+        {
+            "name": "Eleanor Rigby / Julia",
+            "artist": "The Beatles",
+            "id": 4331247
+        },
+        {
+            "name": "I Am The Walrus",
+            "artist": "The Beatles",
+            "id": 4331252
+        },
+        {
+            "name": "I Want To Hold Your Hand",
+            "artist": "The Beatles",
+            "id": 4331258
+        },
+        {
+            "name": "Drive My Car / The Word / What You're Doing",
+            "artist": "The Beatles",
+            "id": 4331266
+        },
+        {
+            "name": "Gnik Nus",
+            "artist": "The Beatles",
+            "id": 4331272
+        },
+        {
+            "name": "Something/Blue Jay Way",
+            "artist": "The Beatles",
+            "id": 4331277
+        },
+        {
+            "name": "Being For The Benefit Of Mr Kite!/I Want You (She's So Heavy)/Helter Skelter",
+            "artist": "The Beatles",
+            "id": 4331283
+        },
+        {
+            "name": "Help!",
+            "artist": "The Beatles",
+            "id": 4331289
+        },
+        {
+            "name": "Blackbird/Yesterday",
+            "artist": "The Beatles",
+            "id": 4331294
+        },
+        {
+            "name": "Strawberry Fields Forever",
+            "artist": "The Beatles",
+            "id": 4331300
+        },
+        {
+            "name": "Within You Without You/Tomorrow Never Knows",
+            "artist": "The Beatles",
+            "id": 4331304
+        },
+        {
+            "name": "Lucy In The Sky With Diamonds",
+            "artist": "The Beatles",
+            "id": 4331308
+        },
+        {
+            "name": "Octopus's Garden",
+            "artist": "The Beatles",
+            "id": 4331312
+        },
+        {
+            "name": "Lady Madonna",
+            "artist": "The Beatles",
+            "id": 4331317
+        },
+        {
+            "name": "Here Comes The Sun/The Inner Light",
+            "artist": "The Beatles",
+            "id": 4331321
+        },
+        {
+            "name": "Come Together/Dear Prudence/Cry Baby Cry",
+            "artist": "The Beatles",
+            "id": 4331324
+        },
+        {
+            "name": "Revolution",
+            "artist": "The Beatles",
+            "id": 4331327
+        },
+        {
+            "name": "Back In The U.S.S.R",
+            "artist": "The Beatles",
+            "id": 4331332
+        },
+        {
+            "name": "While My Guitar Gently Weeps",
+            "artist": "The Beatles",
+            "id": 4331336
+        },
+        {
+            "name": "A Day In The Life",
+            "artist": "The Beatles",
+            "id": 4331340
+        },
+        {
+            "name": "Hey Jude",
+            "artist": "The Beatles",
+            "id": 4331344
+        },
+        {
+            "name": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
+            "artist": "The Beatles",
+            "id": 4331348
+        },
+        {
+            "name": "All You Need Is Love",
+            "artist": "The Beatles",
+            "id": 4331354
+        },
+        {
+            "name": "The Fool On The Hill",
+            "artist": "The Beatles",
+            "id": 4331360
+        },
+        {
+            "name": "Girl",
+            "artist": "The Beatles",
+            "id": 4331366
+        },
+        {
+            "name": "Sgt. Pepper's Lonely Hearts Club Band (Remix)",
+            "artist": "The Beatles",
+            "id": 480583344
+        },
+        {
+            "name": "With A Little Help From My Friends (Remix)",
+            "artist": "The Beatles",
+            "id": 480583345
+        },
+        {
+            "name": "Lucy In The Sky With Diamonds (Remix)",
+            "artist": "The Beatles",
+            "id": 480583346
+        },
+        {
+            "name": "Getting Better (Remix)",
+            "artist": "The Beatles",
+            "id": 480583347
+        },
+        {
+            "name": "Fixing A Hole (Remix)",
+            "artist": "The Beatles",
+            "id": 480583348
+        },
+        {
+            "name": "She's Leaving Home (Remix)",
+            "artist": "The Beatles",
+            "id": 480583349
+        },
+        {
+            "name": "Being For The Benefit Of Mr. Kite! (Remix)",
+            "artist": "The Beatles",
+            "id": 480583350
+        },
+        {
+            "name": "Within You Without You (Remix)",
+            "artist": "The Beatles",
+            "id": 480583351
+        },
+        {
+            "name": "When I'm Sixty-Four (Remix)",
+            "artist": "The Beatles",
+            "id": 480583352
+        },
+        {
+            "name": "Lovely Rita (Remix)",
+            "artist": "The Beatles",
+            "id": 480583353
+        },
+        {
+            "name": "Good Morning Good Morning (Remix)",
+            "artist": "The Beatles",
+            "id": 480583354
+        },
+        {
+            "name": "Sgt. Pepper's Lonely Hearts Club Band (Reprise) (Remix)",
+            "artist": "The Beatles",
+            "id": 480583355
+        },
+        {
+            "name": "A Day In The Life (Remix)",
+            "artist": "The Beatles",
+            "id": 480583356
+        },
+        {
+            "name": "Sgt. Pepper's Lonely Hearts Club Band (Take 9 And Speech)",
+            "artist": "The Beatles",
+            "id": 480583357
+        },
+        {
+            "name": "With A Little Help From My Friends (Take 1 / False Start And Take 2 / Instrumental)",
+            "artist": "The Beatles",
+            "id": 480583358
+        },
+        {
+            "name": "Lucy In The Sky With Diamonds (Take 1)",
+            "artist": "The Beatles",
+            "id": 480583359
+        },
+        {
+            "name": "Getting Better (Take 1 / Instrumental And Speech At The End)",
+            "artist": "The Beatles",
+            "id": 480583360
+        },
+        {
+            "name": "Fixing A Hole (Speech And Take 3)",
+            "artist": "The Beatles",
+            "id": 480583361
+        },
+        {
+            "name": "She's Leaving Home (Take 1 / Instrumental)",
+            "artist": "The Beatles",
+            "id": 480583362
+        },
+        {
+            "name": "Being For The Benefit Of Mr. Kite! (Take 4)",
+            "artist": "The Beatles",
+            "id": 480583363
+        },
+        {
+            "name": "Within You Without You (Take 1 / Indian Instruments)",
+            "artist": "The Beatles",
+            "id": 480583364
+        },
+        {
+            "name": "When I'm Sixty-Four (Take 2)",
+            "artist": "The Beatles",
+            "id": 480583365
+        },
+        {
+            "name": "Lovely Rita (Speech And Take 9)",
+            "artist": "The Beatles",
+            "id": 480583366
+        },
+        {
+            "name": "Good Morning Good Morning (Take 8)",
+            "artist": "The Beatles",
+            "id": 480583367
+        },
+        {
+            "name": "Sgt. Pepper's Lonely Hearts Club Band (Reprise) (Speech And Take 8)",
+            "artist": "The Beatles",
+            "id": 480583368
+        },
+        {
+            "name": "A Day In The Life (Take 1 With Hums)",
+            "artist": "The Beatles",
+            "id": 480583369
+        },
+        {
+            "name": "Strawberry Fields Forever (Take 7)",
+            "artist": "The Beatles",
+            "id": 480583370
+        },
+        {
+            "name": "Strawberry Fields Forever (Take 26)",
+            "artist": "The Beatles",
+            "id": 480583371
+        },
+        {
+            "name": "Strawberry Fields Forever (Stereo Mix 2015)",
+            "artist": "The Beatles",
+            "id": 480583372
+        },
+        {
+            "name": "Penny Lane (Take 6 / Instrumental)",
+            "artist": "The Beatles",
+            "id": 480583373
+        },
+        {
+            "name": "Penny Lane (Stereo Mix 2017)",
+            "artist": "The Beatles",
+            "id": 480583374
+        }
+    ]
+}

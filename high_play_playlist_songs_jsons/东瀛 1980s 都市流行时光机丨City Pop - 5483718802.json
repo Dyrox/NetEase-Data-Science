@@ -1,0 +1,657 @@
+{
+    "playlist_info": {
+        "name": "东瀛 1980s 都市流行时光机丨City Pop",
+        "trackcount": 129,
+        "playcount": 844471,
+        "creator": "ChawyeHsu",
+        "createDate": "2021-01-26",
+        "heat": 954.0
+    },
+    "songs": [
+        {
+            "name": "プラスティック・ラブ",
+            "artist": "竹内まりや",
+            "id": 659423
+        },
+        {
+            "name": "夢をあきらめないで",
+            "artist": "岡村孝子",
+            "id": 636946
+        },
+        {
+            "name": "Sunrise to Sunset",
+            "artist": "浅香唯",
+            "id": 22719725
+        },
+        {
+            "name": "空を見上げて",
+            "artist": "河合その子",
+            "id": 22722696
+        },
+        {
+            "name": "crazy for you",
+            "artist": "さいとうまりな",
+            "id": 28884496
+        },
+        {
+            "name": "SHYNESS BOY",
+            "artist": "杏里",
+            "id": 22817987
+        },
+        {
+            "name": "今のままでいて (I DON'T THINK I CAN WAIT)",
+            "artist": "当山ひとみ",
+            "id": 22685936
+        },
+        {
+            "name": "ジャグラー",
+            "artist": "中原めいこ",
+            "id": 630252
+        },
+        {
+            "name": "ひみつの扉",
+            "artist": "飯島真理",
+            "id": 584334
+        },
+        {
+            "name": "Miracle Love",
+            "artist": "牧瀬里穂",
+            "id": 28192175
+        },
+        {
+            "name": "恋は流星",
+            "artist": "吉田美奈子",
+            "id": 22795870
+        },
+        {
+            "name": "真夜中のジョーク",
+            "artist": "間宮貴子",
+            "id": 28874350
+        },
+        {
+            "name": "あの頃のように (prime version)",
+            "artist": "障子久美",
+            "id": 1489311093
+        },
+        {
+            "name": "わたしだけのエースナンバー",
+            "artist": "川越美和",
+            "id": 607974
+        },
+        {
+            "name": "シークレットラヴ",
+            "artist": "千堂あきほ",
+            "id": 27703822
+        },
+        {
+            "name": "Love Song",
+            "artist": "国分友里恵",
+            "id": 1454461263
+        },
+        {
+            "name": "Good Bye Boogie Dance",
+            "artist": "杏里",
+            "id": 558185
+        },
+        {
+            "name": "あしおと",
+            "artist": "山下達郎",
+            "id": 542837
+        },
+        {
+            "name": "雨の中の噴水",
+            "artist": "須藤薫",
+            "id": 26143179
+        },
+        {
+            "name": "Cloudyな午後",
+            "artist": "中原めいこ",
+            "id": 630210
+        },
+        {
+            "name": "見えない翼",
+            "artist": "伊藤麻衣子",
+            "id": 570481
+        },
+        {
+            "name": "涙をF.O.して( Namida wo F.O. Shite)",
+            "artist": "本田美奈子",
+            "id": 22742783
+        },
+        {
+            "name": "突然の赠りもの",
+            "artist": "大貫妙子",
+            "id": 26082403
+        },
+        {
+            "name": "IN YOUR EYES",
+            "artist": "国分友里恵",
+            "id": 28828567
+        },
+        {
+            "name": "drive alone",
+            "artist": "DEEN",
+            "id": 1855121334
+        },
+        {
+            "name": "Infinite Love (無限の愛)",
+            "artist": "中原めいこ",
+            "id": 630058
+        },
+        {
+            "name": "Dreamin' Lady",
+            "artist": "和田加奈子",
+            "id": 22671896
+        },
+        {
+            "name": "私達を信じていて",
+            "artist": "CINDY",
+            "id": 1297494227
+        },
+        {
+            "name": "BEST FRIEND",
+            "artist": "児島未散",
+            "id": 1299570956
+        },
+        {
+            "name": "虹色のSneaker",
+            "artist": "林原めぐみ",
+            "id": 22689728
+        },
+        {
+            "name": "I CAN'T WAIT",
+            "artist": "佐藤博",
+            "id": 1440424705
+        },
+        {
+            "name": "GIRL'S IN LOVE WITH ME",
+            "artist": "芳野藤丸",
+            "id": 26109013
+        },
+        {
+            "name": "ドラマティック・レイン",
+            "artist": "稲垣潤一",
+            "id": 414556
+        },
+        {
+            "name": "Sparkle",
+            "artist": "山下達郎",
+            "id": 22693831
+        },
+        {
+            "name": "RUSH HOUR",
+            "artist": "角松敏生",
+            "id": 22819672
+        },
+        {
+            "name": "CATHY (2021 Remaster)",
+            "artist": "当山ひとみ",
+            "id": 22685914
+        },
+        {
+            "name": "サヨナラは私のために",
+            "artist": "松本伊代",
+            "id": 35804089
+        },
+        {
+            "name": "Hard To Say \"I Love You\"",
+            "artist": "本田美奈子",
+            "id": 22742805
+        },
+        {
+            "name": "悲しみにさよなら",
+            "artist": "安全地帯",
+            "id": 22720705
+        },
+        {
+            "name": "Wonderland 夕闇 City",
+            "artist": "二名敦子",
+            "id": 1421050179
+        },
+        {
+            "name": "LOVIN' YOU",
+            "artist": "吉田美奈子",
+            "id": 22795853
+        },
+        {
+            "name": "Fantasy",
+            "artist": "中原めいこ",
+            "id": 630264
+        },
+        {
+            "name": "風のPAVEMENT",
+            "artist": "米光美保",
+            "id": 676482
+        },
+        {
+            "name": "しらけちまうぜ",
+            "artist": "小坂忠",
+            "id": 1353008152
+        },
+        {
+            "name": "No End Summer",
+            "artist": "角松敏生",
+            "id": 452541
+        },
+        {
+            "name": "Groovin'",
+            "artist": "黒沢薫",
+            "id": 452472
+        },
+        {
+            "name": "Last Summer Whisper",
+            "artist": "杏里",
+            "id": 22818003
+        },
+        {
+            "name": "白い恋人",
+            "artist": "松田聖子",
+            "id": 614466
+        },
+        {
+            "name": "SURF & TEARS",
+            "artist": "杏里",
+            "id": 557370
+        },
+        {
+            "name": "SQUALL（SEIKO STORY〜80's HITS COLLECTION〜）",
+            "artist": "松田聖子",
+            "id": 614523
+        },
+        {
+            "name": "都会",
+            "artist": "大貫妙子",
+            "id": 26119851
+        },
+        {
+            "name": "Magic Ways",
+            "artist": "山下達郎",
+            "id": 22693786
+        },
+        {
+            "name": "夏の日の午後",
+            "artist": "岡村孝子",
+            "id": 22805617
+        },
+        {
+            "name": "SUMMER BLUE",
+            "artist": "ブレッド&バター",
+            "id": 1438696732
+        },
+        {
+            "name": "ガラスの観覧車",
+            "artist": "石野真子",
+            "id": 1406492639
+        },
+        {
+            "name": "STARDUST NIGHT",
+            "artist": "JADOES",
+            "id": 1470156583
+        },
+        {
+            "name": "Off Shore",
+            "artist": "角松敏生",
+            "id": 22819662
+        },
+        {
+            "name": "YOUR EYES",
+            "artist": "山下達郎",
+            "id": 22693805
+        },
+        {
+            "name": "Believe",
+            "artist": "岡村孝子",
+            "id": 636176
+        },
+        {
+            "name": "Midnight Girl",
+            "artist": "角松敏生",
+            "id": 22819650
+        },
+        {
+            "name": "さよなら夏の日",
+            "artist": "山下達郎",
+            "id": 506986098
+        },
+        {
+            "name": "Happy birthday, Love for you",
+            "artist": "中原めいこ",
+            "id": 630003
+        },
+        {
+            "name": "ドロシーの日常",
+            "artist": "石野真子",
+            "id": 569721
+        },
+        {
+            "name": "Merry Christmas",
+            "artist": "伊藤智恵理",
+            "id": 676234
+        },
+        {
+            "name": "フロントガラス越しに",
+            "artist": "須藤薫",
+            "id": 26143160
+        },
+        {
+            "name": "想い出はあざやかに",
+            "artist": "田中好子",
+            "id": 22766090
+        },
+        {
+            "name": "Ooh Baby",
+            "artist": "Craig Ruhnke",
+            "id": 1335835528
+        },
+        {
+            "name": "SEA LINE \"Rie\"",
+            "artist": "角松敏生",
+            "id": 452244
+        },
+        {
+            "name": "ディケイド・ナイト",
+            "artist": "大貫妙子",
+            "id": 26113648
+        },
+        {
+            "name": "Kagerou",
+            "artist": "高橋幸宏",
+            "id": 22641418
+        },
+        {
+            "name": "夏への扉",
+            "artist": "山下達郎",
+            "id": 541708
+        },
+        {
+            "name": "OH NO,OH YES!",
+            "artist": "中森明菜",
+            "id": 22663877
+        },
+        {
+            "name": "Telephone Number",
+            "artist": "大橋純子",
+            "id": 1305367751
+        },
+        {
+            "name": "Starlight Ballet (2019 Remastered)",
+            "artist": "パイパー",
+            "id": 1391091961
+        },
+        {
+            "name": "Windy Lady",
+            "artist": "サーカス",
+            "id": 463840546
+        },
+        {
+            "name": "夕暗を见ていた",
+            "artist": "椎名恵",
+            "id": 649288
+        },
+        {
+            "name": "Morment Of Summer",
+            "artist": "国分友里恵",
+            "id": 36924159
+        },
+        {
+            "name": "CITY HUNTER ~愛よ消えないで~",
+            "artist": "小比類巻かほる",
+            "id": 29751583
+        },
+        {
+            "name": "君の愛がすべて",
+            "artist": "安部恭弘",
+            "id": 509512602
+        },
+        {
+            "name": "Evening Shadows",
+            "artist": "佐藤博",
+            "id": 35804182
+        },
+        {
+            "name": "SUMMER VACATION",
+            "artist": "村田和人",
+            "id": 29582817
+        },
+        {
+            "name": "雨のウェンズデイ",
+            "artist": "大瀧詠一",
+            "id": 22711229
+        },
+        {
+            "name": "雨は手のひらにいっぱい",
+            "artist": "SUGAR BABE",
+            "id": 22794076
+        },
+        {
+            "name": "CIRCUS TOWN",
+            "artist": "山下達郎",
+            "id": 22693873
+        },
+        {
+            "name": "海へ帰ろう",
+            "artist": "Jin Kirigaya",
+            "id": 1462334513
+        },
+        {
+            "name": "AUGUST RAIN",
+            "artist": "角松敏生",
+            "id": 451702
+        },
+        {
+            "name": "風になれるなら",
+            "artist": "伊藤銀次",
+            "id": 1809737246
+        },
+        {
+            "name": "Catch Your Way",
+            "artist": "杉真理",
+            "id": 1454409253
+        },
+        {
+            "name": "キャンディ",
+            "artist": "具島直子",
+            "id": 604866
+        },
+        {
+            "name": "CLOSE YOUR EYES",
+            "artist": "安部恭弘",
+            "id": 503853020
+        },
+        {
+            "name": "Summer’s Gone",
+            "artist": "GREAT3",
+            "id": 26212924
+        },
+        {
+            "name": "テイク・ア・チャンス",
+            "artist": "木戸やすひろ",
+            "id": 1491656424
+        },
+        {
+            "name": "JOY",
+            "artist": "石井明美",
+            "id": 567832
+        },
+        {
+            "name": "半分愛して",
+            "artist": "浅野ゆう子",
+            "id": 558335
+        },
+        {
+            "name": "2000トンの雨",
+            "artist": "山下達郎",
+            "id": 542883
+        },
+        {
+            "name": "夢の続き",
+            "artist": "竹内まりや",
+            "id": 659412
+        },
+        {
+            "name": "マリーナの夏",
+            "artist": "渡辺満里奈",
+            "id": 668072
+        },
+        {
+            "name": "OCEAN SIDE",
+            "artist": "菊池桃子",
+            "id": 22654788
+        },
+        {
+            "name": "Summer Breeze",
+            "artist": "パイパー",
+            "id": 28916233
+        },
+        {
+            "name": "One And Only",
+            "artist": "ラ・ムー",
+            "id": 26155420
+        },
+        {
+            "name": "BABY BLUE",
+            "artist": "伊藤銀次",
+            "id": 26111847
+        },
+        {
+            "name": "銀のロケット",
+            "artist": "水谷麻里",
+            "id": 1406417219
+        },
+        {
+            "name": "悲しみがいっぱい",
+            "artist": "林哲司",
+            "id": 1805105679
+        },
+        {
+            "name": "二人の午後に",
+            "artist": "岩崎宏美",
+            "id": 585174
+        },
+        {
+            "name": "風",
+            "artist": "吉田美奈子",
+            "id": 22795845
+        },
+        {
+            "name": "ナイト・クルージング",
+            "artist": "菊池桃子",
+            "id": 601387
+        },
+        {
+            "name": "うすべにの嵐",
+            "artist": "障子久美",
+            "id": 1489310052
+        },
+        {
+            "name": "タクシー・ドライヴァー",
+            "artist": "坪倉唯子",
+            "id": 661631
+        },
+        {
+            "name": "Lusia",
+            "artist": "黒住憲五",
+            "id": 1840174741
+        },
+        {
+            "name": "Wave",
+            "artist": "山根麻衣",
+            "id": 1824185544
+        },
+        {
+            "name": "Machi No Dorufin",
+            "artist": "濱田金吾",
+            "id": 1334689673
+        },
+        {
+            "name": "MIDNIGHT DOWN TOWN",
+            "artist": "杉山清貴＆オメガトライブ",
+            "id": 22681719
+        },
+        {
+            "name": "さよなら　シングル・デイズ",
+            "artist": "杏里",
+            "id": 22817918
+        },
+        {
+            "name": "ピンク・シャドウ",
+            "artist": "ブレッド&バター",
+            "id": 1355947697
+        },
+        {
+            "name": "雨色の僕と君",
+            "artist": "有賀啓雄",
+            "id": 26143211
+        },
+        {
+            "name": "PUZZLE",
+            "artist": "中原めいこ",
+            "id": 630084
+        },
+        {
+            "name": "或るグレイな恋の場合",
+            "artist": "斎藤誠",
+            "id": 1470154768
+        },
+        {
+            "name": "ラッキー・ラブ",
+            "artist": "和田加奈子",
+            "id": 668041
+        },
+        {
+            "name": "やさしさにGood-bye (2020 Remaster)",
+            "artist": "村田和人",
+            "id": 1849017308
+        },
+        {
+            "name": "LOVER'S NIGHT",
+            "artist": "杏里",
+            "id": 22817962
+        },
+        {
+            "name": "We Were In L.A.",
+            "artist": "中原めいこ",
+            "id": 630139
+        },
+        {
+            "name": "GIRL TALK",
+            "artist": "本田美奈子",
+            "id": 579588
+        },
+        {
+            "name": "潮騒  (The Whispering Sea)",
+            "artist": "山下達郎",
+            "id": 22693853
+        },
+        {
+            "name": "DOWN TOWN BOY",
+            "artist": "佐野元春",
+            "id": 512671
+        },
+        {
+            "name": "Rainy Day Woman",
+            "artist": "松原みき",
+            "id": 1317285065
+        },
+        {
+            "name": "スケジュール",
+            "artist": "本田美奈子",
+            "id": 22742798
+        },
+        {
+            "name": "LOVE SPACE",
+            "artist": "山下達郎",
+            "id": 542473
+        },
+        {
+            "name": "TAXI",
+            "artist": "鈴木聖美",
+            "id": 654878
+        },
+        {
+            "name": "NEVER WANNA SAY GOODNIGHT",
+            "artist": "阿川泰子",
+            "id": 559143
+        }
+    ]
+}

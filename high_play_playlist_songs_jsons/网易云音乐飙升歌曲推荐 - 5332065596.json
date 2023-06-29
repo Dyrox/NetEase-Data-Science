@@ -1,0 +1,567 @@
+{
+    "playlist_info": {
+        "name": "网易云音乐飙升歌曲推荐",
+        "trackcount": 111,
+        "playcount": 590014,
+        "creator": "Sheeriin",
+        "createDate": "2020-11-13",
+        "heat": 615.0
+    },
+    "songs": [
+        {
+            "name": "对象",
+            "artist": "Elyar Tursun",
+            "id": 2057272160
+        },
+        {
+            "name": "阿拉丁神灯-EK",
+            "artist": "EK",
+            "id": 2035560073
+        },
+        {
+            "name": "Suygu",
+            "artist": "ZulpYe",
+            "id": 2040008221
+        },
+        {
+            "name": "Leyla",
+            "artist": "Salim Seper",
+            "id": 2030296585
+        },
+        {
+            "name": "Maptun",
+            "artist": "XIJAATXERZAT",
+            "id": 2028500065
+        },
+        {
+            "name": "TERAK",
+            "artist": "海瓦斯Hawvas",
+            "id": 1959166451
+        },
+        {
+            "name": "Awara Bolma",
+            "artist": "Kaysar Abdukerim",
+            "id": 2008746306
+        },
+        {
+            "name": "nida",
+            "artist": "RiYaL",
+            "id": 1986538904
+        },
+        {
+            "name": "Hiyalimda San",
+            "artist": "AlimjanHasan",
+            "id": 1996740889
+        },
+        {
+            "name": "Korging Kildu",
+            "artist": "Hoji Matkurban",
+            "id": 2016444919
+        },
+        {
+            "name": "Soygunum",
+            "artist": "Reyimjan-Abdukeyum",
+            "id": 1902523224
+        },
+        {
+            "name": "Oylima",
+            "artist": "Mila",
+            "id": 2022920019
+        },
+        {
+            "name": "Sini Dap",
+            "artist": "elijangupur",
+            "id": 2045846669
+        },
+        {
+            "name": "Untup Kitayli",
+            "artist": "Kaysar Abdukerim",
+            "id": 2047454135
+        },
+        {
+            "name": "Bahtim Bol",
+            "artist": "Nazar Obul",
+            "id": 1975972025
+        },
+        {
+            "name": "Hamraying Man",
+            "artist": "Jalal Anwar",
+            "id": 1939787443
+        },
+        {
+            "name": "Yenimda Bol",
+            "artist": "Nazar Obul",
+            "id": 1953334681
+        },
+        {
+            "name": "Bir Dona（唯一）",
+            "artist": "KFDR",
+            "id": 2031160129
+        },
+        {
+            "name": "雪 Distance",
+            "artist": "Capper",
+            "id": 2026224214
+        },
+        {
+            "name": "向云端",
+            "artist": "小霞",
+            "id": 2049512697
+        },
+        {
+            "name": "Sazingmen",
+            "artist": "Kamil Jelil",
+            "id": 1953116075
+        },
+        {
+            "name": "Самая Самая",
+            "artist": "Nurmuhammed Jaqyp",
+            "id": 1880909462
+        },
+        {
+            "name": "bukiqa",
+            "artist": "Muhpulla Production",
+            "id": 1980685104
+        },
+        {
+            "name": "Ot",
+            "artist": "Mutallip Ahat",
+            "id": 1884020859
+        },
+        {
+            "name": "Богатый",
+            "artist": "Руслан Добрый",
+            "id": 1895243053
+        },
+        {
+            "name": "Tuttur Dur",
+            "artist": "Naz Dej",
+            "id": 2003461208
+        },
+        {
+            "name": "Umidim so'ndi",
+            "artist": "Sherzod Bek",
+            "id": 2046159923
+        },
+        {
+            "name": "Yultuz Qolpan",
+            "artist": "Bahtiyar Tursun（Pirqangi）",
+            "id": 1893138818
+        },
+        {
+            "name": "Mayhor",
+            "artist": "elijangupur",
+            "id": 1984807296
+        },
+        {
+            "name": "Borolmasam",
+            "artist": "Sardor Safarov",
+            "id": 2051751004
+        },
+        {
+            "name": "Hanooz Dooset Daram",
+            "artist": "Behnam Bani",
+            "id": 1398084972
+        },
+        {
+            "name": "Комета",
+            "artist": "GUCCI Gift",
+            "id": 1841884017
+        },
+        {
+            "name": "Letting Go (Live版)",
+            "artist": "吉克隽逸",
+            "id": 2048584480
+        },
+        {
+            "name": "Armandaimyn",
+            "artist": "2RAR",
+            "id": 2031835136
+        },
+        {
+            "name": "Dengiz",
+            "artist": "Shohxur",
+            "id": 446875114
+        },
+        {
+            "name": "Волки",
+            "artist": "Руслан Добрый",
+            "id": 1886192269
+        },
+        {
+            "name": "Xush kelding",
+            "artist": "Ozoda",
+            "id": 1965718855
+        },
+        {
+            "name": "Kamin",
+            "artist": "EMIN",
+            "id": 1436099140
+        },
+        {
+            "name": "Dimisla",
+            "artist": "Mattohti Sattar",
+            "id": 1998168054
+        },
+        {
+            "name": "Meni Sevma",
+            "artist": "Doston Ergashev",
+            "id": 1925413632
+        },
+        {
+            "name": "Armon",
+            "artist": "Munisa Rizayeva",
+            "id": 1423232357
+        },
+        {
+            "name": "Sarig'im",
+            "artist": "Uzmir",
+            "id": 1922657249
+        },
+        {
+            "name": "Sen Hardasan",
+            "artist": "KFDR",
+            "id": 2031159468
+        },
+        {
+            "name": "kaitmidi",
+            "artist": "艾来提",
+            "id": 1903206657
+        },
+        {
+            "name": "Жіберем қалай?",
+            "artist": "Duman",
+            "id": 1928456972
+        },
+        {
+            "name": "Uzgiqa(Mashup)",
+            "artist": "Abit",
+            "id": 1478944197
+        },
+        {
+            "name": "Ozum Bilerem",
+            "artist": "Saver",
+            "id": 1899073346
+        },
+        {
+            "name": "Мурас",
+            "artist": "Мирбек Атабеков",
+            "id": 568970779
+        },
+        {
+            "name": "Сағынам",
+            "artist": "Mona Songz",
+            "id": 2042630564
+        },
+        {
+            "name": "Ashegham",
+            "artist": "Mohsen Ebrahimzadeh",
+            "id": 1392161228
+        },
+        {
+            "name": "Кім біледі?",
+            "artist": "Данияр Кәрім",
+            "id": 1965537576
+        },
+        {
+            "name": "Nikotin",
+            "artist": "MK7_",
+            "id": 1863485214
+        },
+        {
+            "name": "Mənim O",
+            "artist": "Ləman Ömər",
+            "id": 1903546795
+        },
+        {
+            "name": "Poralab",
+            "artist": "Uzmir",
+            "id": 1852326001
+        },
+        {
+            "name": "ayrilip kattig yirakka",
+            "artist": "艾珂",
+            "id": 1848244392
+        },
+        {
+            "name": "我走后",
+            "artist": "小咪",
+            "id": 1370047789
+        },
+        {
+            "name": "Feryat",
+            "artist": "Hadise",
+            "id": 2035374710
+        },
+        {
+            "name": "Davae",
+            "artist": "Ad",
+            "id": 1899202190
+        },
+        {
+            "name": "Chaqasan",
+            "artist": "SHKJ",
+            "id": 2023541640
+        },
+        {
+            "name": "Cuidar Nuestro Amor (I'll Never Let Go)",
+            "artist": "David Bisbal",
+            "id": 17263308
+        },
+        {
+            "name": "Влюблён",
+            "artist": "AlexMica丨饿罗斯",
+            "id": 1878597955
+        },
+        {
+            "name": "Qachma",
+            "artist": "NASSA",
+            "id": 1864638464
+        },
+        {
+            "name": "Hayot",
+            "artist": "HaLMuRaT-Beg",
+            "id": 1856326960
+        },
+        {
+            "name": "Sog'indim 原版",
+            "artist": "Dj MvRadiL",
+            "id": 1917328742
+        },
+        {
+            "name": "Титры",
+            "artist": "JONY",
+            "id": 1942011218
+        },
+        {
+            "name": "Janonim",
+            "artist": "Jaloliddin Ahmadaliyev",
+            "id": 1907241392
+        },
+        {
+            "name": "Hamra",
+            "artist": "Radio～Music",
+            "id": 1468259237
+        },
+        {
+            "name": "Baxtli bo'lgin omon bo'l",
+            "artist": "Saver",
+            "id": 1996763957
+        },
+        {
+            "name": "删了吧",
+            "artist": "烟(许佳豪)",
+            "id": 1891469546
+        },
+        {
+            "name": "Ozungge ohshatma meni",
+            "artist": "Hoji Matkurban",
+            "id": 1497908942
+        },
+        {
+            "name": "孤勇者",
+            "artist": "陈奕迅",
+            "id": 1901371647
+        },
+        {
+            "name": "Veski Polla",
+            "artist": "Mussic",
+            "id": 1859522394
+        },
+        {
+            "name": "Guna Barmu Soygumda",
+            "artist": "Ghulameli Ghupur",
+            "id": 1944307179
+        },
+        {
+            "name": "Mas Ahxam 2",
+            "artist": "Anwar-Maglik",
+            "id": 1998339144
+        },
+        {
+            "name": "Bilmaydu",
+            "artist": "Anwar-Maglik",
+            "id": 1985946582
+        },
+        {
+            "name": "Yana Soy",
+            "artist": "Zulfiya",
+            "id": 1812799386
+        },
+        {
+            "name": "Baby",
+            "artist": "Mardan·omar",
+            "id": 1446520313
+        },
+        {
+            "name": "Muhabbat（1）",
+            "artist": "Mamatjan abay",
+            "id": 1812267589
+        },
+        {
+            "name": "Yo'qsan",
+            "artist": "Nurmeme",
+            "id": 1470175556
+        },
+        {
+            "name": "Ihtiyajim Yok",
+            "artist": "elijangupur",
+            "id": 1986354026
+        },
+        {
+            "name": "Unutay",
+            "artist": "Uzmir",
+            "id": 1411774791
+        },
+        {
+            "name": "Bilmiding",
+            "artist": "Eli-Rozi",
+            "id": 1497607774
+        },
+        {
+            "name": "Men Eshkimdi Suimeimin",
+            "artist": "2RAR",
+            "id": 1944487856
+        },
+        {
+            "name": "Yetmadimi",
+            "artist": "RangDar",
+            "id": 1902198994
+        },
+        {
+            "name": "Gizli Aşk",
+            "artist": "Feride Hilal Akın",
+            "id": 539114775
+        },
+        {
+            "name": "Alamlar",
+            "artist": "Ozoda",
+            "id": 2035212204
+        },
+        {
+            "name": "Gandagana",
+            "artist": "Acharuli Popuri",
+            "id": 1851949560
+        },
+        {
+            "name": "Sevgi",
+            "artist": "Furqat Ro'zmatov",
+            "id": 454435058
+        },
+        {
+            "name": "Титры",
+            "artist": "EIILAO",
+            "id": 1953360648
+        },
+        {
+            "name": "Vurgunum (Remix)",
+            "artist": "N_YR96",
+            "id": 2046509944
+        },
+        {
+            "name": "Bamba!（0.8x）",
+            "artist": "羊仔",
+            "id": 1996312116
+        },
+        {
+            "name": "Izlaringa",
+            "artist": "Ummon Guruhi",
+            "id": 1297104610
+        },
+        {
+            "name": "把回忆拼好给你",
+            "artist": "王贰浪",
+            "id": 1403318151
+        },
+        {
+            "name": "Unutolmayman",
+            "artist": "Uzmir",
+            "id": 2054294510
+        },
+        {
+            "name": "Modniylarga",
+            "artist": "Doston Ergashev",
+            "id": 2008586924
+        },
+        {
+            "name": "MUHABBAT",
+            "artist": "Sardar Anwar",
+            "id": 1891085840
+        },
+        {
+            "name": "Болмайды",
+            "artist": "AGUGAI",
+            "id": 1814378900
+        },
+        {
+            "name": "Влюблён",
+            "artist": "Akris & Teddy",
+            "id": 1852305198
+        },
+        {
+            "name": "Ye Jism",
+            "artist": "Ali Azmat",
+            "id": 28727136
+        },
+        {
+            "name": "Kitar Boldum",
+            "artist": "Adiljan Zaynidin",
+            "id": 1806341232
+        },
+        {
+            "name": "Sog'inma Yurak",
+            "artist": "Sardor Safarov",
+            "id": 2023797552
+        },
+        {
+            "name": "Uzumda Ba",
+            "artist": "Anwar-Maglik",
+            "id": 1985950816
+        },
+        {
+            "name": "Сені сүйем｜Seni suiem",
+            "artist": "Kairat Nurtas",
+            "id": 1841583084
+        },
+        {
+            "name": "Attirgvl",
+            "artist": "XIJAATXERZAT",
+            "id": 1444466779
+        },
+        {
+            "name": "Yor ishqida",
+            "artist": "Xojiakbar Ruzmetov",
+            "id": 2050733897
+        },
+        {
+            "name": "Прикосновение",
+            "artist": "Cvetocek7",
+            "id": 1450464206
+        },
+        {
+            "name": "父亲",
+            "artist": "筷子兄弟",
+            "id": 362996
+        },
+        {
+            "name": "Men seni sog'inganda",
+            "artist": "KBR",
+            "id": 1954447923
+        },
+        {
+            "name": "在你的身边",
+            "artist": "盛哲",
+            "id": 475479888
+        },
+        {
+            "name": "Pesman Olarsan",
+            "artist": "Kenan Mehrabzade",
+            "id": 1448554643
+        },
+        {
+            "name": "Meni Tek Qoyma",
+            "artist": "Kenan Mehrabzade",
+            "id": 1430693066
+        }
+    ]
+}

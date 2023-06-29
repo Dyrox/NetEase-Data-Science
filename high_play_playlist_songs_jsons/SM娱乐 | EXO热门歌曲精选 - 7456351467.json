@@ -1,0 +1,512 @@
+{
+    "playlist_info": {
+        "name": "SM娱乐 | EXO热门歌曲精选",
+        "trackcount": 100,
+        "playcount": 820611,
+        "creator": "网易云音乐",
+        "createDate": "2022-05-27",
+        "heat": 2058.0
+    },
+    "songs": [
+        {
+            "name": "咆哮",
+            "artist": "EXO",
+            "id": 555975205
+        },
+        {
+            "name": "CALL ME BABY",
+            "artist": "EXO",
+            "id": 31191712
+        },
+        {
+            "name": "Don't fight the feeling",
+            "artist": "EXO",
+            "id": 1851071751
+        },
+        {
+            "name": "Obsession",
+            "artist": "EXO",
+            "id": 1406263727
+        },
+        {
+            "name": "늑대와 미녀 (Wolf)",
+            "artist": "EXO",
+            "id": 26428003
+        },
+        {
+            "name": "전야 (前夜) (The Eve)",
+            "artist": "EXO",
+            "id": 491484150
+        },
+        {
+            "name": "十二月的奇迹 (Miracles in December)",
+            "artist": "EXO",
+            "id": 28059507
+        },
+        {
+            "name": "LOVE ME RIGHT",
+            "artist": "EXO",
+            "id": 32408433
+        },
+        {
+            "name": "EXODUS",
+            "artist": "EXO",
+            "id": 31209332
+        },
+        {
+            "name": "Lotto",
+            "artist": "EXO",
+            "id": 425280805
+        },
+        {
+            "name": "乐园 (Paradise)",
+            "artist": "EXO",
+            "id": 1851071752
+        },
+        {
+            "name": "随意 (No matter)",
+            "artist": "EXO",
+            "id": 1851075681
+        },
+        {
+            "name": "Runaway",
+            "artist": "EXO",
+            "id": 1851071761
+        },
+        {
+            "name": "守护你 (Just as usual)",
+            "artist": "EXO",
+            "id": 1851071762
+        },
+        {
+            "name": "Trouble",
+            "artist": "EXO",
+            "id": 1406266554
+        },
+        {
+            "name": "化身 (Jekyll)",
+            "artist": "EXO",
+            "id": 1406263728
+        },
+        {
+            "name": "舞 (Groove)",
+            "artist": "EXO",
+            "id": 1406263729
+        },
+        {
+            "name": "Ya Ya Ya",
+            "artist": "EXO",
+            "id": 1406266555
+        },
+        {
+            "name": "Baby You Are",
+            "artist": "EXO",
+            "id": 1406266556
+        },
+        {
+            "name": "Non Stop",
+            "artist": "EXO",
+            "id": 1406263730
+        },
+        {
+            "name": "日复一日 (Day After Day)",
+            "artist": "EXO",
+            "id": 1406266557
+        },
+        {
+            "name": "蝴蝶效应 (Butterfly Effect)",
+            "artist": "EXO",
+            "id": 1406266558
+        },
+        {
+            "name": "节奏 (Tempo)",
+            "artist": "EXO",
+            "id": 1332662893
+        },
+        {
+            "name": "Tempo",
+            "artist": "EXO",
+            "id": 1332662880
+        },
+        {
+            "name": "Wait",
+            "artist": "EXO",
+            "id": 1332662882
+        },
+        {
+            "name": "阴影 (Trauma)",
+            "artist": "EXO",
+            "id": 1332662881
+        },
+        {
+            "name": "Love Shot",
+            "artist": "EXO",
+            "id": 1332662879
+        },
+        {
+            "name": "Sign",
+            "artist": "EXO",
+            "id": 1322228465
+        },
+        {
+            "name": "Gravity",
+            "artist": "EXO",
+            "id": 1322228467
+        },
+        {
+            "name": "相触瞬间 (Ooh La La La)",
+            "artist": "EXO",
+            "id": 1322228466
+        },
+        {
+            "name": "24/7",
+            "artist": "EXO",
+            "id": 1322228469
+        },
+        {
+            "name": "后遗症 (Bad Dream)",
+            "artist": "EXO",
+            "id": 1322228470
+        },
+        {
+            "name": "Damage",
+            "artist": "EXO",
+            "id": 1322228471
+        },
+        {
+            "name": "停留 (Smile On My Face)",
+            "artist": "EXO",
+            "id": 1322228472
+        },
+        {
+            "name": "绿洲 (Oasis)",
+            "artist": "EXO",
+            "id": 1322228473
+        },
+        {
+            "name": "Universe",
+            "artist": "EXO",
+            "id": 526081120
+        },
+        {
+            "name": "顺其自然 (Been Through)",
+            "artist": "EXO",
+            "id": 526081121
+        },
+        {
+            "name": "Stay",
+            "artist": "EXO",
+            "id": 526099090
+        },
+        {
+            "name": "Fall",
+            "artist": "EXO",
+            "id": 526099091
+        },
+        {
+            "name": "Good Night",
+            "artist": "EXO",
+            "id": 526099092
+        },
+        {
+            "name": "Lights Out",
+            "artist": "EXO",
+            "id": 526093126
+        },
+        {
+            "name": "Power",
+            "artist": "EXO",
+            "id": 574919820
+        },
+        {
+            "name": "Sweet Lies",
+            "artist": "EXO",
+            "id": 574919821
+        },
+        {
+            "name": "부메랑 (Boomerang)",
+            "artist": "EXO",
+            "id": 574919822
+        },
+        {
+            "name": "Ko Ko Bop",
+            "artist": "EXO",
+            "id": 491484151
+        },
+        {
+            "name": "Forever",
+            "artist": "EXO",
+            "id": 491484153
+        },
+        {
+            "name": "다이아몬드 (Diamond)",
+            "artist": "EXO",
+            "id": 491484154
+        },
+        {
+            "name": "너의 손짓 (Touch It)",
+            "artist": "EXO",
+            "id": 491484155
+        },
+        {
+            "name": "소름 (Chill)",
+            "artist": "EXO",
+            "id": 491484156
+        },
+        {
+            "name": "기억을 걷는 밤 (Walk On Memories)",
+            "artist": "EXO",
+            "id": 491484157
+        },
+        {
+            "name": "내가 미쳐 (Going Crazy)",
+            "artist": "EXO",
+            "id": 491484158
+        },
+        {
+            "name": "For Life",
+            "artist": "EXO",
+            "id": 447280899
+        },
+        {
+            "name": "Falling For You",
+            "artist": "EXO",
+            "id": 447280900
+        },
+        {
+            "name": "What I Want For Christmas",
+            "artist": "EXO",
+            "id": 447280901
+        },
+        {
+            "name": "Twenty Four",
+            "artist": "EXO",
+            "id": 447279884
+        },
+        {
+            "name": "Winter Heat",
+            "artist": "EXO",
+            "id": 447279885
+        },
+        {
+            "name": "Dancing King",
+            "artist": "刘在石",
+            "id": 430208595
+        },
+        {
+            "name": "Can’t Bring Me Down",
+            "artist": "EXO",
+            "id": 426027262
+        },
+        {
+            "name": "梦 (She’s Dreaming)",
+            "artist": "EXO",
+            "id": 426027263
+        },
+        {
+            "name": "Lucky One",
+            "artist": "EXO",
+            "id": 416552260
+        },
+        {
+            "name": "Monster",
+            "artist": "EXO",
+            "id": 416531317
+        },
+        {
+            "name": "Artificial Love",
+            "artist": "EXO",
+            "id": 416552261
+        },
+        {
+            "name": "Cloud 9",
+            "artist": "EXO",
+            "id": 416552263
+        },
+        {
+            "name": "Heaven",
+            "artist": "EXO",
+            "id": 416552262
+        },
+        {
+            "name": "玻璃鱼缸",
+            "artist": "EXO",
+            "id": 416531320
+        },
+        {
+            "name": "白色噪音",
+            "artist": "EXO",
+            "id": 416552264
+        },
+        {
+            "name": "They Never Know",
+            "artist": "EXO",
+            "id": 416552265
+        },
+        {
+            "name": "Stronger",
+            "artist": "EXO",
+            "id": 426026270
+        },
+        {
+            "name": "偏心",
+            "artist": "EXO",
+            "id": 38391848
+        },
+        {
+            "name": "LIGHTSABER",
+            "artist": "EXO",
+            "id": 38392809
+        },
+        {
+            "name": "Girl x Friend",
+            "artist": "EXO",
+            "id": 38391849
+        },
+        {
+            "name": "Sing For You",
+            "artist": "EXO",
+            "id": 38392808
+        },
+        {
+            "name": "脚印 (On the snow)",
+            "artist": "EXO",
+            "id": 38392812
+        },
+        {
+            "name": "LIGHTSABER",
+            "artist": "EXO",
+            "id": 36496696
+        },
+        {
+            "name": "TENDER LOVE",
+            "artist": "EXO",
+            "id": 32408434
+        },
+        {
+            "name": "TRANSFORMER",
+            "artist": "EXO",
+            "id": 31209326
+        },
+        {
+            "name": "黄金国",
+            "artist": "EXO",
+            "id": 32408450
+        },
+        {
+            "name": "坏男孩",
+            "artist": "EXO",
+            "id": 32408451
+        },
+        {
+            "name": "初恋",
+            "artist": "EXO",
+            "id": 32408461
+        },
+        {
+            "name": "유성우 (流星雨) (Lady Luck)",
+            "artist": "EXO",
+            "id": 32408443
+        },
+        {
+            "name": "美",
+            "artist": "EXO",
+            "id": 32408454
+        },
+        {
+            "name": "约定",
+            "artist": "EXO",
+            "id": 32408458
+        },
+        {
+            "name": "PLAYBOY",
+            "artist": "EXO",
+            "id": 32408441
+        },
+        {
+            "name": "EL DORADO",
+            "artist": "EXO",
+            "id": 32408440
+        },
+        {
+            "name": "我的答案",
+            "artist": "EXO",
+            "id": 32408448
+        },
+        {
+            "name": "시선 둘, 시선 하나 (What If..)",
+            "artist": "EXO",
+            "id": 32408437
+        },
+        {
+            "name": "TRANSFORMER",
+            "artist": "EXO",
+            "id": 32408436
+        },
+        {
+            "name": "伤害",
+            "artist": "EXO",
+            "id": 32408452
+        },
+        {
+            "name": "流星雨",
+            "artist": "EXO",
+            "id": 32408453
+        },
+        {
+            "name": "BEAUTIFUL",
+            "artist": "EXO",
+            "id": 32408444
+        },
+        {
+            "name": "Christmas Day",
+            "artist": "EXO",
+            "id": 28068783
+        },
+        {
+            "name": "The Star",
+            "artist": "EXO",
+            "id": 28068784
+        },
+        {
+            "name": "My Turn To Cry",
+            "artist": "EXO",
+            "id": 28068787
+        },
+        {
+            "name": "初雪 (Chinese Ver.)",
+            "artist": "EXO",
+            "id": 28068791
+        },
+        {
+            "name": "Baby, Don't Cry (인어의 눈물)",
+            "artist": "EXO",
+            "id": 26428002
+        },
+        {
+            "name": "Black Pearl",
+            "artist": "EXO",
+            "id": 26428004
+        },
+        {
+            "name": "나비소녀 (Don't Go)",
+            "artist": "EXO",
+            "id": 26428005
+        },
+        {
+            "name": "Let Out The Beast",
+            "artist": "EXO",
+            "id": 26428006
+        },
+        {
+            "name": "3.6.5",
+            "artist": "EXO",
+            "id": 26428008
+        },
+        {
+            "name": "Heart Attack",
+            "artist": "EXO",
+            "id": 26428009
+        }
+    ]
+}

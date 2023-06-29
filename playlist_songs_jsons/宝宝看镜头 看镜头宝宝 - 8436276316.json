@@ -1,0 +1,767 @@
+{
+    "playlist_info": {
+        "name": "宝宝看镜头 看镜头宝宝",
+        "trackcount": 151,
+        "playcount": 364,
+        "creator": "1fakelove",
+        "createDate": "2023-05-25",
+        "heat": 10.0
+    },
+    "songs": [
+        {
+            "name": "123我爱你",
+            "artist": "清寒",
+            "id": 1984434609
+        },
+        {
+            "name": "Free Loop",
+            "artist": "甘草片r",
+            "id": 2006166078
+        },
+        {
+            "name": "COCO",
+            "artist": "罗言",
+            "id": 2047036108
+        },
+        {
+            "name": "phone kisses（0.7x）",
+            "artist": "男明星",
+            "id": 1927438013
+        },
+        {
+            "name": "Send It (slowed & reverb)（Lil SEVEN$ remix）",
+            "artist": "Lil SEVEN$",
+            "id": 1912329439
+        },
+        {
+            "name": "All Girls Are The Same",
+            "artist": "Juice WRLD",
+            "id": 548823873
+        },
+        {
+            "name": "红",
+            "artist": "罗言",
+            "id": 1918576268
+        },
+        {
+            "name": "OUT WEST",
+            "artist": "JACKBOYS",
+            "id": 1412468947
+        },
+        {
+            "name": "Love Songs",
+            "artist": "kaash paige",
+            "id": 1403699842
+        },
+        {
+            "name": "我看过（0.8x）",
+            "artist": "CO1",
+            "id": 1934359973
+        },
+        {
+            "name": "无你",
+            "artist": "北宸",
+            "id": 1371582685
+        },
+        {
+            "name": "sunflower feelings",
+            "artist": "bravenry",
+            "id": 1459935230
+        },
+        {
+            "name": "笨蛋",
+            "artist": "berly",
+            "id": 1473192901
+        },
+        {
+            "name": "Sunflower",
+            "artist": "LBI利比",
+            "id": 1396748321
+        },
+        {
+            "name": "Self Love",
+            "artist": "Metro Boomin",
+            "id": 2052349052
+        },
+        {
+            "name": "舒伯特玫瑰",
+            "artist": "朱康伟",
+            "id": 1353757543
+        },
+        {
+            "name": "求佛 (rnb版)",
+            "artist": "李恩泽",
+            "id": 1972951037
+        },
+        {
+            "name": "假装你还爱我",
+            "artist": "dollyy99",
+            "id": 1814914759
+        },
+        {
+            "name": "游走记忆的时间（翻自 Nell）",
+            "artist": "dollyy99",
+            "id": 1494501092
+        },
+        {
+            "name": "MISTAKE",
+            "artist": "TOYOKI",
+            "id": 2021543605
+        },
+        {
+            "name": "太阳 (完整版) (翻自 邱振哲) ",
+            "artist": "程佳佳",
+            "id": 1387178379
+        },
+        {
+            "name": "山楂树之恋",
+            "artist": "程佳佳",
+            "id": 1381755293
+        },
+        {
+            "name": "想想念念 (翻自 FAFA / 雪二) ",
+            "artist": "一玟",
+            "id": 1410021484
+        },
+        {
+            "name": "无法坠入爱河",
+            "artist": "dollyy99",
+            "id": 1807069403
+        },
+        {
+            "name": "和我接吻",
+            "artist": "dollyy99",
+            "id": 1463453043
+        },
+        {
+            "name": "太平洋沙漠",
+            "artist": "ljz329",
+            "id": 2008506250
+        },
+        {
+            "name": "东京下雨夜",
+            "artist": "G99New.H",
+            "id": 2009708209
+        },
+        {
+            "name": "sheluvme",
+            "artist": "Tai Verdes",
+            "id": 1955086147
+        },
+        {
+            "name": "Last Day",
+            "artist": "ljz329",
+            "id": 2025185099
+        },
+        {
+            "name": "123",
+            "artist": "SSr",
+            "id": 2002753297
+        },
+        {
+            "name": "丘比特",
+            "artist": "mac ova seas",
+            "id": 1922629725
+        },
+        {
+            "name": "断线",
+            "artist": "Shang",
+            "id": 496370620
+        },
+        {
+            "name": "你走以后1.0",
+            "artist": "王恩信Est",
+            "id": 1363205817
+        },
+        {
+            "name": "个人简介+百变酒精（×0.8）",
+            "artist": "后厂痴情组",
+            "id": 1961032753
+        },
+        {
+            "name": "想想就烦",
+            "artist": "Mikey-18",
+            "id": 2045117743
+        },
+        {
+            "name": "Promise Me",
+            "artist": "A1 TRIP",
+            "id": 1846290436
+        },
+        {
+            "name": "美梦",
+            "artist": "A1 TRIP",
+            "id": 1852224641
+        },
+        {
+            "name": "拒绝来电",
+            "artist": "A1 TRIP",
+            "id": 1875283517
+        },
+        {
+            "name": "暗恋",
+            "artist": "A1 TRIP",
+            "id": 1867183963
+        },
+        {
+            "name": "It's You (Acoustic)",
+            "artist": "Ali Gatie",
+            "id": 1381230831
+        },
+        {
+            "name": "Love Story (Amarith Remix)",
+            "artist": "Amarith",
+            "id": 421423658
+        },
+        {
+            "name": "救我-氟西汀",
+            "artist": "埃莱克ilike",
+            "id": 1360493223
+        },
+        {
+            "name": "love9（0.8×）",
+            "artist": "愛",
+            "id": 1933594385
+        },
+        {
+            "name": "星球坠落 (Live)",
+            "artist": "艾热 AIR",
+            "id": 1296583188
+        },
+        {
+            "name": "ing ing",
+            "artist": "BigYear大年",
+            "id": 1329538017
+        },
+        {
+            "name": "五百二十赫兹",
+            "artist": "Capper",
+            "id": 1948572170
+        },
+        {
+            "name": "朋友 Friends",
+            "artist": "Capper",
+            "id": 2026224200
+        },
+        {
+            "name": "柑橘乌云",
+            "artist": "Capper",
+            "id": 1908083479
+        },
+        {
+            "name": "无人区玫瑰",
+            "artist": "Capper",
+            "id": 1472142718
+        },
+        {
+            "name": "心，逃，亡",
+            "artist": "Capper",
+            "id": 1908081426
+        },
+        {
+            "name": "恋爱困难少女",
+            "artist": "ChiliChill",
+            "id": 1494813207
+        },
+        {
+            "name": "I Love You.",
+            "artist": "Cloud Mac",
+            "id": 529814997
+        },
+        {
+            "name": "Viva La Vida (Live)",
+            "artist": "Coldplay",
+            "id": 3985758
+        },
+        {
+            "name": "Yellow",
+            "artist": "Coldplay",
+            "id": 1468381909
+        },
+        {
+            "name": "summer '17",
+            "artist": "christianalexnder",
+            "id": 1321760184
+        },
+        {
+            "name": "足够(0.8x)",
+            "artist": "刺客",
+            "id": 1961228149
+        },
+        {
+            "name": "乐园",
+            "artist": "沧桑Cang333",
+            "id": 2021379728
+        },
+        {
+            "name": "K 歌之王",
+            "artist": "陈奕迅",
+            "id": 1897932020
+        },
+        {
+            "name": "济南济南",
+            "artist": "陈小熊",
+            "id": 425053743
+        },
+        {
+            "name": "千千阕歌",
+            "artist": "陈慧娴",
+            "id": 212233
+        },
+        {
+            "name": "调情师",
+            "artist": "dollyy99",
+            "id": 1414346647
+        },
+        {
+            "name": "暴风雨（大喜 remix）",
+            "artist": "大喜",
+            "id": 866279886
+        },
+        {
+            "name": "Honesty",
+            "artist": "大喜",
+            "id": 1352912738
+        },
+        {
+            "name": "Why You Look Sad?",
+            "artist": "舵",
+            "id": 1426238141
+        },
+        {
+            "name": "All My World",
+            "artist": "EMPTISO",
+            "id": 1855400181
+        },
+        {
+            "name": "天上飞",
+            "artist": "二狗子Saddoggy",
+            "id": 1474861444
+        },
+        {
+            "name": "云烟成雨（翻自 房东的猫）",
+            "artist": "二嘉",
+            "id": 567568561
+        },
+        {
+            "name": "上学威龙",
+            "artist": "法老",
+            "id": 1355292203
+        },
+        {
+            "name": "我的秘密",
+            "artist": "G.E.M.邓紫棋",
+            "id": 26117675
+        },
+        {
+            "name": "不怪她",
+            "artist": "HARIKIRI",
+            "id": 1462875618
+        },
+        {
+            "name": "Promise",
+            "artist": "HARIKIRI",
+            "id": 1823305772
+        },
+        {
+            "name": "I‘M YOURS PT.2",
+            "artist": "h3R3",
+            "id": 571758505
+        },
+        {
+            "name": "我像一个傻瓜（Frowned blueface）",
+            "artist": "河北Ye",
+            "id": 1394997085
+        },
+        {
+            "name": "ＷＡＩＴＩＮＧ（Slowed）",
+            "artist": "黑空",
+            "id": 1915407681
+        },
+        {
+            "name": "末班车",
+            "artist": "黑羊",
+            "id": 417595727
+        },
+        {
+            "name": "这只伶俐的棕色狐狸跳过一只懒惰的狗",
+            "artist": "黑羊",
+            "id": 502960453
+        },
+        {
+            "name": "Beautiful",
+            "artist": "IAN-T",
+            "id": 862460559
+        },
+        {
+            "name": "Past Lives",
+            "artist": "Jasper",
+            "id": 1483391358
+        },
+        {
+            "name": "My Ex ***** Hates Me",
+            "artist": "Juice WRLD",
+            "id": 1480871455
+        },
+        {
+            "name": "Young Dumb & Broke",
+            "artist": "Joseph Vincent",
+            "id": 1442111620
+        },
+        {
+            "name": "Come Around Me",
+            "artist": "Justin Bieber",
+            "id": 1496770948
+        },
+        {
+            "name": "love9",
+            "artist": "江辰",
+            "id": 525086802
+        },
+        {
+            "name": "Kiki Do You Love Me？",
+            "artist": "Kiki Rowe",
+            "id": 1294899526
+        },
+        {
+            "name": "Uh (feat.马思唯/PSY.P/Melo)",
+            "artist": "KnowKnow",
+            "id": 1995496604
+        },
+        {
+            "name": "Sunflower Feelings",
+            "artist": "Kuzu Mellow",
+            "id": 520458166
+        },
+        {
+            "name": "MISS ME?",
+            "artist": "Kordhell",
+            "id": 1982812990
+        },
+        {
+            "name": "不得不爱",
+            "artist": "Lambert",
+            "id": 1384527426
+        },
+        {
+            "name": "i'm so tired... (Stripped - Live in LA)",
+            "artist": "Lauv",
+            "id": 1348823065
+        },
+        {
+            "name": "弱点",
+            "artist": "LeeHX李鸿翔",
+            "id": 1958418180
+        },
+        {
+            "name": "说句实话",
+            "artist": "Lil Jet",
+            "id": 496107851
+        },
+        {
+            "name": "短发",
+            "artist": "lámpo",
+            "id": 1293951568
+        },
+        {
+            "name": "虎口脱险",
+            "artist": "老狼",
+            "id": 4877911
+        },
+        {
+            "name": "漠河舞厅",
+            "artist": "柳爽",
+            "id": 1430319727
+        },
+        {
+            "name": "莫妮卡",
+            "artist": "柳爽",
+            "id": 486999661
+        },
+        {
+            "name": "XXXTENTACION-the remedy for a broken heart（鹿子野 remix）",
+            "artist": "鹿子野",
+            "id": 1497343986
+        },
+        {
+            "name": "what that means ？",
+            "artist": "鹿子野",
+            "id": 1817144743
+        },
+        {
+            "name": "我们的明天",
+            "artist": "鹿晗",
+            "id": 29910127
+        },
+        {
+            "name": "Slow Down",
+            "artist": "Madnap",
+            "id": 1356658022
+        },
+        {
+            "name": "艺术家",
+            "artist": "MaySeventeen",
+            "id": 1814636483
+        },
+        {
+            "name": "moonlight",
+            "artist": "mich",
+            "id": 1336866526
+        },
+        {
+            "name": "Lost ",
+            "artist": "满舒克",
+            "id": 479979029
+        },
+        {
+            "name": "脸红接收处",
+            "artist": "PIggy",
+            "id": 1813590062
+        },
+        {
+            "name": "不喜欢下雨天",
+            "artist": "PIggy",
+            "id": 1371046568
+        },
+        {
+            "name": "23",
+            "artist": "Rejjie Snow",
+            "id": 571545135
+        },
+        {
+            "name": "red lips（被我蒙对）",
+            "artist": "沙一汀EL",
+            "id": 1456659704
+        },
+        {
+            "name": "unravel (acoustic version)",
+            "artist": "TK from 凛として時雨",
+            "id": 537012213
+        },
+        {
+            "name": "Die For You",
+            "artist": "The Weeknd",
+            "id": 1954605348
+        },
+        {
+            "name": "100",
+            "artist": "Tizzy T",
+            "id": 1983456716
+        },
+        {
+            "name": "橘子",
+            "artist": "Tizzy T",
+            "id": 1950528144
+        },
+        {
+            "name": "1 AM",
+            "artist": "thomeboydontkill",
+            "id": 2013290415
+        },
+        {
+            "name": "Julie",
+            "artist": "thomeboydontkill",
+            "id": 1436511992
+        },
+        {
+            "name": "Beautiful",
+            "artist": "thomeboydontkill",
+            "id": 1847219367
+        },
+        {
+            "name": "甜 sweet",
+            "artist": "藤竹京",
+            "id": 1329213111
+        },
+        {
+            "name": "别冷战",
+            "artist": "Vapor",
+            "id": 1810402041
+        },
+        {
+            "name": "罗生门（Follow0.8x）",
+            "artist": "WongKarKwoo",
+            "id": 1955223133
+        },
+        {
+            "name": "鱼仔",
+            "artist": "吴炳文",
+            "id": 1425898176
+        },
+        {
+            "name": "玫瑰",
+            "artist": "吴炳文",
+            "id": 1458966839
+        },
+        {
+            "name": "我是一只鱼",
+            "artist": "吴炳文",
+            "id": 1425896353
+        },
+        {
+            "name": "Ex B***h",
+            "artist": "XXXTENTACION",
+            "id": 1407525373
+        },
+        {
+            "name": "梦恋",
+            "artist": "xxxmiracle",
+            "id": 1884102382
+        },
+        {
+            "name": "回答",
+            "artist": "YOUNG",
+            "id": 1994863874
+        },
+        {
+            "name": "后悔药",
+            "artist": "YX",
+            "id": 1822712137
+        },
+        {
+            "name": "vV",
+            "artist": "YX",
+            "id": 1423212003
+        },
+        {
+            "name": "3 Stirkes（X0.8）",
+            "artist": "Yanggg",
+            "id": 1917137875
+        },
+        {
+            "name": "如果呢（女声版）",
+            "artist": "yihuik苡慧",
+            "id": 1860614598
+        },
+        {
+            "name": "Love Yourself(一条淡淡水鱼)",
+            "artist": "一条淡淡水鱼",
+            "id": 1909997897
+        },
+        {
+            "name": "What Do You Mean？(一条淡淡水鱼)",
+            "artist": "一条淡淡水鱼",
+            "id": 1906680119
+        },
+        {
+            "name": "Love Story(一条淡淡水鱼)",
+            "artist": "一条淡淡水鱼",
+            "id": 1906733158
+        },
+        {
+            "name": "Closer (R3hab Remix)(一条淡淡水鱼)",
+            "artist": "一条淡淡水鱼",
+            "id": 1910212525
+        },
+        {
+            "name": "All Falls Down(一条淡淡水鱼)",
+            "artist": "一条淡淡水鱼",
+            "id": 1912891053
+        },
+        {
+            "name": "double take(一条淡淡水鱼)",
+            "artist": "一条淡淡水鱼",
+            "id": 1906747339
+        },
+        {
+            "name": "I don't wanna see u anymore(一条淡淡水鱼)",
+            "artist": "一条淡淡水鱼",
+            "id": 1915052942
+        },
+        {
+            "name": "最甜情歌 (女生版) ",
+            "artist": "一玟",
+            "id": 1409329655
+        },
+        {
+            "name": "再一起",
+            "artist": "余佳运",
+            "id": 424496769
+        },
+        {
+            "name": "我想",
+            "artist": "余佳运",
+            "id": 407435011
+        },
+        {
+            "name": "冷战",
+            "artist": "#0000FF",
+            "id": 1498364464
+        },
+        {
+            "name": "冷战2.0",
+            "artist": "#0000FF",
+            "id": 1822798322
+        },
+        {
+            "name": "“散”Pt.1 Prod by Attok",
+            "artist": "-Pisto1",
+            "id": 1488367369
+        },
+        {
+            "name": "星语",
+            "artist": "-Pisto1",
+            "id": 1815799813
+        },
+        {
+            "name": "TALKING ABOUT",
+            "artist": "-Pisto1",
+            "id": 1814685007
+        },
+        {
+            "name": "苦茶子",
+            "artist": "Starling8",
+            "id": 1922888354
+        },
+        {
+            "name": "把回忆拼好给你",
+            "artist": "王贰浪",
+            "id": 1403318151
+        },
+        {
+            "name": "蔡健雅-红色高跟鞋（DJ·less remix）",
+            "artist": "DJ·less",
+            "id": 1459436024
+        },
+        {
+            "name": "水手--星星点灯DJ（A叉烧DJ remix）",
+            "artist": "A叉烧DJ",
+            "id": 1902836364
+        },
+        {
+            "name": "女孩",
+            "artist": "沐泽",
+            "id": 1881759872
+        },
+        {
+            "name": "水手",
+            "artist": "老鬼",
+            "id": 1481701244
+        },
+        {
+            "name": "Sexy And I Know It",
+            "artist": "LMFAO",
+            "id": 5079635
+        },
+        {
+            "name": "雨淋湿了天空(DJ版)",
+            "artist": "北筱",
+            "id": 1836113688
+        },
+        {
+            "name": "罗生门（Follow）",
+            "artist": "梨冻紧",
+            "id": 1456890009
+        },
+        {
+            "name": "护花使者",
+            "artist": "李克勤",
+            "id": 115569
+        },
+        {
+            "name": "我的歌声里 (DJ版)",
+            "artist": "赵俊飞",
+            "id": 1864698492
+        }
+    ]
+}

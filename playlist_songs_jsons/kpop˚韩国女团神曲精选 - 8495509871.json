@@ -1,0 +1,772 @@
+{
+    "playlist_info": {
+        "name": "kpop˚韩国女团神曲精选",
+        "trackcount": 152,
+        "playcount": 40,
+        "creator": "糖堆学姐",
+        "createDate": "2023-06-20",
+        "heat": 4.0
+    },
+    "songs": [
+        {
+            "name": "Let's Go Party",
+            "artist": "2NE1",
+            "id": 5416304
+        },
+        {
+            "name": "Lonely",
+            "artist": "2NE1",
+            "id": 22789467
+        },
+        {
+            "name": "내가 제일 잘 나가",
+            "artist": "2NE1",
+            "id": 22789468
+        },
+        {
+            "name": "Come Back Home",
+            "artist": "2NE1",
+            "id": 28283324
+        },
+        {
+            "name": "Fire",
+            "artist": "2NE1",
+            "id": 5416299
+        },
+        {
+            "name": "그리워해요",
+            "artist": "2NE1",
+            "id": 27984996
+        },
+        {
+            "name": "I Love You",
+            "artist": "2NE1",
+            "id": 5415898
+        },
+        {
+            "name": "I Don't Care",
+            "artist": "2NE1",
+            "id": 5416301
+        },
+        {
+            "name": "Falling In Love",
+            "artist": "2NE1",
+            "id": 26608414
+        },
+        {
+            "name": "난 바빠",
+            "artist": "2NE1",
+            "id": 22789482
+        },
+        {
+            "name": "Do You Love Me",
+            "artist": "2NE1",
+            "id": 27552880
+        },
+        {
+            "name": "Magical Girl",
+            "artist": "Orange Caramel",
+            "id": 1410771504
+        },
+        {
+            "name": "上海ロマンス[Japan Ver.]",
+            "artist": "Orange Caramel",
+            "id": 26115695
+        },
+        {
+            "name": "LIPSTICK [Japan Ver.]",
+            "artist": "Orange Caramel",
+            "id": 26530302
+        },
+        {
+            "name": "匹诺曹",
+            "artist": "f(x)",
+            "id": 22735505
+        },
+        {
+            "name": "Chu~♡",
+            "artist": "f(x)",
+            "id": 5381329
+        },
+        {
+            "name": "Red Light",
+            "artist": "f(x)",
+            "id": 28768726
+        },
+        {
+            "name": "NU 예삐오 (NU ABO)",
+            "artist": "f(x)",
+            "id": 22735518
+        },
+        {
+            "name": "Electric Shock",
+            "artist": "f(x)",
+            "id": 22735485
+        },
+        {
+            "name": "初智齿",
+            "artist": "f(x)",
+            "id": 27511866
+        },
+        {
+            "name": "Hot Summer",
+            "artist": "f(x)",
+            "id": 22735492
+        },
+        {
+            "name": "4 Walls",
+            "artist": "f(x)",
+            "id": 35956186
+        },
+        {
+            "name": "To Me",
+            "artist": "Rainbow",
+            "id": 1459169346
+        },
+        {
+            "name": "A",
+            "artist": "Rainbow",
+            "id": 5389892
+        },
+        {
+            "name": "First Kiss",
+            "artist": "Secret",
+            "id": 5394187
+        },
+        {
+            "name": "Shy Boy",
+            "artist": "Secret",
+            "id": 22693057
+        },
+        {
+            "name": "거울아 거울아",
+            "artist": "4MINUTE",
+            "id": 22761600
+        },
+        {
+            "name": "Change",
+            "artist": "4MINUTE",
+            "id": 26355088
+        },
+        {
+            "name": "Volume Up",
+            "artist": "4MINUTE",
+            "id": 5415902
+        },
+        {
+            "name": "이름이 뭐예요?",
+            "artist": "4MINUTE",
+            "id": 26259935
+        },
+        {
+            "name": "물 좋아?",
+            "artist": "4MINUTE",
+            "id": 26577322
+        },
+        {
+            "name": "싫어 (Hate)",
+            "artist": "4MINUTE",
+            "id": 402070045
+        },
+        {
+            "name": "미쳐",
+            "artist": "4MINUTE",
+            "id": 30569115
+        },
+        {
+            "name": "살만찌고",
+            "artist": "4MINUTE",
+            "id": 28211122
+        },
+        {
+            "name": "初恋(live)",
+            "artist": "After School",
+            "id": 29922347
+        },
+        {
+            "name": "POISON",
+            "artist": "Secret",
+            "id": 22693042
+        },
+        {
+            "name": "Sexy Love (Japanese ver.)",
+            "artist": "T-ara",
+            "id": 28828593
+        },
+        {
+            "name": "Roly Poly",
+            "artist": "T-ara",
+            "id": 1337268383
+        },
+        {
+            "name": "DAY BY DAY (Japanese Ver.)",
+            "artist": "T-ara",
+            "id": 26089233
+        },
+        {
+            "name": "Mr.",
+            "artist": "Kara",
+            "id": 22669773
+        },
+        {
+            "name": "Jumping",
+            "artist": "Kara",
+            "id": 22669755
+        },
+        {
+            "name": "STEP(Bonus Track)",
+            "artist": "Kara",
+            "id": 26620336
+        },
+        {
+            "name": "Be My Baby",
+            "artist": "Wonder Girls",
+            "id": 22813714
+        },
+        {
+            "name": "Flower Power",
+            "artist": "少女时代",
+            "id": 28844144
+        },
+        {
+            "name": "Mr.Taxi",
+            "artist": "少女时代",
+            "id": 29535436
+        },
+        {
+            "name": "Oh!",
+            "artist": "少女时代",
+            "id": 22735051
+        },
+        {
+            "name": "The Boys",
+            "artist": "少女时代",
+            "id": 5376351
+        },
+        {
+            "name": "Gee",
+            "artist": "少女时代",
+            "id": 26082036
+        },
+        {
+            "name": "알러뷰",
+            "artist": "EXID",
+            "id": 1326027044
+        },
+        {
+            "name": "위아래",
+            "artist": "EXID",
+            "id": 29011143
+        },
+        {
+            "name": "HOT PINK",
+            "artist": "EXID",
+            "id": 36841019
+        },
+        {
+            "name": "불이나 (FIRE)",
+            "artist": "EXID",
+            "id": 1981884528
+        },
+        {
+            "name": "덜덜덜",
+            "artist": "EXID",
+            "id": 516358747
+        },
+        {
+            "name": "Nahonja (Alone)",
+            "artist": "Sistar19",
+            "id": 1459164697
+        },
+        {
+            "name": "Tic Toc",
+            "artist": "Sistar",
+            "id": 27955500
+        },
+        {
+            "name": "Push Push",
+            "artist": "Sistar",
+            "id": 1412137307
+        },
+        {
+            "name": "Bar Bar Bar",
+            "artist": "Crayon Pop",
+            "id": 506339101
+        },
+        {
+            "name": "큐피트",
+            "artist": "Girl's Day",
+            "id": 5397650
+        },
+        {
+            "name": "Darling (JPN ver.)",
+            "artist": "Girl's Day",
+            "id": 35253001
+        },
+        {
+            "name": "LUV -Japanese Ver.-",
+            "artist": "Apink",
+            "id": 32235575
+        },
+        {
+            "name": "NoNoNo (Japanese Ver.)",
+            "artist": "Apink",
+            "id": 29562136
+        },
+        {
+            "name": "Mr.Chu (On Stage) -Japanese Ver.-",
+            "artist": "Apink",
+            "id": 34274948
+        },
+        {
+            "name": "Good Bye Baby",
+            "artist": "Miss A",
+            "id": 1459169063
+        },
+        {
+            "name": "Oh BOY",
+            "artist": "AOA",
+            "id": 35253013
+        },
+        {
+            "name": "Crazy Boy",
+            "artist": "AOA",
+            "id": 412911435
+        },
+        {
+            "name": "Good Luck (Japanese Version)",
+            "artist": "AOA",
+            "id": 422490427
+        },
+        {
+            "name": "Still Falls The Rain",
+            "artist": "AOA",
+            "id": 412902495
+        },
+        {
+            "name": "짧은 치마 (Live)",
+            "artist": "AOA",
+            "id": 1391393434
+        },
+        {
+            "name": "Tally",
+            "artist": "BLACKPINK",
+            "id": 1981814202
+        },
+        {
+            "name": "Kill This Love",
+            "artist": "BLACKPINK",
+            "id": 1357116203
+        },
+        {
+            "name": "Pretty Savage",
+            "artist": "BLACKPINK",
+            "id": 1484052704
+        },
+        {
+            "name": "How You Like That",
+            "artist": "BLACKPINK",
+            "id": 1458482960
+        },
+        {
+            "name": "WHISTLE",
+            "artist": "BLACKPINK",
+            "id": 1325898350
+        },
+        {
+            "name": "BOOMBAYAH",
+            "artist": "BLACKPINK",
+            "id": 1325711419
+        },
+        {
+            "name": "AS IF IT’S YOUR LAST",
+            "artist": "BLACKPINK",
+            "id": 1325898352
+        },
+        {
+            "name": "STAY",
+            "artist": "BLACKPINK",
+            "id": 1325711421
+        },
+        {
+            "name": "뚜두뚜두 (DDU-DU DDU-DU)",
+            "artist": "BLACKPINK",
+            "id": 573577071
+        },
+        {
+            "name": "BOOMBAYAH",
+            "artist": "BLACKPINK",
+            "id": 424474635
+        },
+        {
+            "name": "PLAYING WITH FIRE",
+            "artist": "BLACKPINK",
+            "id": 1325898351
+        },
+        {
+            "name": "Ice Cream (with Selena Gomez)",
+            "artist": "BLACKPINK",
+            "id": 1474621418
+        },
+        {
+            "name": "Hard to Love",
+            "artist": "BLACKPINK",
+            "id": 1981814200
+        },
+        {
+            "name": "Shut Down",
+            "artist": "BLACKPINK",
+            "id": 1981813580
+        },
+        {
+            "name": "How You Like That",
+            "artist": "BLACKPINK",
+            "id": 1484052702
+        },
+        {
+            "name": "Lovesick Girls",
+            "artist": "BLACKPINK",
+            "id": 1484052706
+        },
+        {
+            "name": "躲猫猫 (Peek-A-Boo)",
+            "artist": "Red Velvet",
+            "id": 519250358
+        },
+        {
+            "name": "红色味道 (Red Flavor)",
+            "artist": "Red Velvet",
+            "id": 489037240
+        },
+        {
+            "name": "Psycho",
+            "artist": "Red Velvet",
+            "id": 1411586102
+        },
+        {
+            "name": "Umpah Umpah",
+            "artist": "Red Velvet",
+            "id": 1385397836
+        },
+        {
+            "name": "Dumb Dumb",
+            "artist": "Red Velvet",
+            "id": 34532022
+        },
+        {
+            "name": "Celebrate",
+            "artist": "Red Velvet",
+            "id": 2002420281
+        },
+        {
+            "name": "Bad Boy",
+            "artist": "Red Velvet",
+            "id": 533455456
+        },
+        {
+            "name": "Feel My Rhythm",
+            "artist": "Red Velvet",
+            "id": 1930242671
+        },
+        {
+            "name": "Starry Night -Japanese ver.-",
+            "artist": "Mamamoo",
+            "id": 1406510027
+        },
+        {
+            "name": "Sleep Talk",
+            "artist": "Mamamoo",
+            "id": 1406509083
+        },
+        {
+            "name": "Just Believe In Love",
+            "artist": "Mamamoo",
+            "id": 1817140849
+        },
+        {
+            "name": "Egotistic -Japanese ver.-",
+            "artist": "Mamamoo",
+            "id": 1406510028
+        },
+        {
+            "name": "gogobebe -Japanese ver.-",
+            "artist": "Mamamoo",
+            "id": 1406509080
+        },
+        {
+            "name": "AYA -Japanese ver.-",
+            "artist": "Mamamoo",
+            "id": 1815107422
+        },
+        {
+            "name": "Wind flower -Japanese ver.-",
+            "artist": "Mamamoo",
+            "id": 1406500058
+        },
+        {
+            "name": "HIP -Japanese ver.-",
+            "artist": "Mamamoo",
+            "id": 1421990254
+        },
+        {
+            "name": "Feel Special (Japanese Version)",
+            "artist": "TWICE",
+            "id": 1478965643
+        },
+        {
+            "name": "TT (Japanese Ver.)",
+            "artist": "TWICE",
+            "id": 486922569
+        },
+        {
+            "name": "CHEER UP (Japanese Ver.)",
+            "artist": "TWICE",
+            "id": 486922568
+        },
+        {
+            "name": "Celebrate",
+            "artist": "TWICE",
+            "id": 1963067148
+        },
+        {
+            "name": "YES or YES (Japanese ver.)",
+            "artist": "TWICE",
+            "id": 1349960893
+        },
+        {
+            "name": "What is Love? (Japanese ver.)",
+            "artist": "TWICE",
+            "id": 1344353923
+        },
+        {
+            "name": "Why Not?",
+            "artist": "本月少女",
+            "id": 1486524177
+        },
+        {
+            "name": "Universe",
+            "artist": "本月少女",
+            "id": 1486520860
+        },
+        {
+            "name": "Bye Bye Love",
+            "artist": "LIGHTSUM",
+            "id": 1950279121
+        },
+        {
+            "name": "별 따러 가자",
+            "artist": "woo!ah!",
+            "id": 1909398905
+        },
+        {
+            "name": "GOOD NEWS",
+            "artist": "LIGHTSUM",
+            "id": 1950278165
+        },
+        {
+            "name": "TOMBOY",
+            "artist": "(G)I-DLE",
+            "id": 1927421969
+        },
+        {
+            "name": "TOMBOY (R3HAB Remix)",
+            "artist": "(G)I-DLE",
+            "id": 1947530602
+        },
+        {
+            "name": "LATATA",
+            "artist": "(G)I-DLE",
+            "id": 556203085
+        },
+        {
+            "name": "Last Dance",
+            "artist": "(G)I-DLE",
+            "id": 1840238019
+        },
+        {
+            "name": "Senorita",
+            "artist": "(G)I-DLE",
+            "id": 1348587670
+        },
+        {
+            "name": "Next Level",
+            "artist": "aespa",
+            "id": 1845452960
+        },
+        {
+            "name": "ICU (避风港)",
+            "artist": "aespa",
+            "id": 1962313151
+        },
+        {
+            "name": "Life's Too Short (English Ver.)",
+            "artist": "aespa",
+            "id": 1958690911
+        },
+        {
+            "name": "Girls",
+            "artist": "aespa",
+            "id": 1962315917
+        },
+        {
+            "name": "怪火 (Illusion)",
+            "artist": "aespa",
+            "id": 1952507458
+        },
+        {
+            "name": "Savage",
+            "artist": "aespa",
+            "id": 1885142049
+        },
+        {
+            "name": "Black Mamba",
+            "artist": "aespa",
+            "id": 1496086378
+        },
+        {
+            "name": "LOVE DIVE -Japanese ver.-",
+            "artist": "IVE",
+            "id": 2009678472
+        },
+        {
+            "name": "blue blood (Live)",
+            "artist": "IVE",
+            "id": 2027173991
+        },
+        {
+            "name": "POPPY",
+            "artist": "STAYC",
+            "id": 1998874975
+        },
+        {
+            "name": "ASAP (Japanese Ver.)",
+            "artist": "STAYC",
+            "id": 2000949517
+        },
+        {
+            "name": "Oh my god",
+            "artist": "(G)I-DLE",
+            "id": 1435998275
+        },
+        {
+            "name": "MOON",
+            "artist": "(G)I-DLE",
+            "id": 1811118553
+        },
+        {
+            "name": "DAHLIA",
+            "artist": "(G)I-DLE",
+            "id": 1811118564
+        },
+        {
+            "name": "LION",
+            "artist": "(G)I-DLE",
+            "id": 1435996622
+        },
+        {
+            "name": "Uh-Oh",
+            "artist": "(G)I-DLE",
+            "id": 1374217593
+        },
+        {
+            "name": "화(火花)",
+            "artist": "(G)I-DLE",
+            "id": 1811118551
+        },
+        {
+            "name": "한 (一)",
+            "artist": "(G)I-DLE",
+            "id": 1300885831
+        },
+        {
+            "name": "POP/STARS",
+            "artist": "K/DA",
+            "id": 1321385655
+        },
+        {
+            "name": "Nxde",
+            "artist": "(G)I-DLE",
+            "id": 1989385007
+        },
+        {
+            "name": "DALLA DALLA -Japanese ver.-",
+            "artist": "ITZY",
+            "id": 1904544935
+        },
+        {
+            "name": "Spice",
+            "artist": "ITZY",
+            "id": 1934264670
+        },
+        {
+            "name": "Voltage",
+            "artist": "ITZY",
+            "id": 1929600235
+        },
+        {
+            "name": "Blah Blah Blah",
+            "artist": "ITZY",
+            "id": 1982302842
+        },
+        {
+            "name": "Not Shy -Japanese ver.-",
+            "artist": "ITZY",
+            "id": 1904543126
+        },
+        {
+            "name": "PANORAMA (Live)",
+            "artist": "IZ*ONE",
+            "id": 2028320429
+        },
+        {
+            "name": "다시 만난 세계 (Live)",
+            "artist": "(G)I-DLE",
+            "id": 1823315823
+        },
+        {
+            "name": "라비앙로즈 (2018 MAMA Ver.)",
+            "artist": "IZ*ONE",
+            "id": 1855190538
+        },
+        {
+            "name": "Rise",
+            "artist": "Jonas Blue",
+            "id": 1350629176
+        },
+        {
+            "name": "ATHLETIC GIRL",
+            "artist": "H1-KEY",
+            "id": 1904216551
+        },
+        {
+            "name": "Ring the Alarm",
+            "artist": "H1-KEY",
+            "id": 2008901012
+        },
+        {
+            "name": "안녕 개비! (Sung by NMIXX)",
+            "artist": "NMIXX",
+            "id": 1944683637
+        },
+        {
+            "name": "Kiss",
+            "artist": "NMIXX",
+            "id": 1967802077
+        },
+        {
+            "name": "RUN",
+            "artist": "H1-KEY",
+            "id": 1960434658
+        },
+        {
+            "name": "건물 사이에 피어난 장미 (Rose Blossom)",
+            "artist": "H1-KEY",
+            "id": 2008901013
+        },
+        {
+            "name": "Heart Light",
+            "artist": "H1-KEY",
+            "id": 1960434660
+        }
+    ]
+}

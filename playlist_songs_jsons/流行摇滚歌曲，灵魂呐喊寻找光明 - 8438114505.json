@@ -1,0 +1,577 @@
+{
+    "playlist_info": {
+        "name": "流行摇滚歌曲，灵魂呐喊寻找光明",
+        "trackcount": 113,
+        "playcount": 6,
+        "creator": "北慕澄鸭",
+        "createDate": "2023-05-26",
+        "heat": 0.0
+    },
+    "songs": [
+        {
+            "name": "白日梦",
+            "artist": "草东没有派对",
+            "id": 2046035293
+        },
+        {
+            "name": "床",
+            "artist": "草东没有派对",
+            "id": 2035279723
+        },
+        {
+            "name": "但",
+            "artist": "草东没有派对",
+            "id": 2035320743
+        },
+        {
+            "name": "メフィスト",
+            "artist": "女王蜂",
+            "id": 2036803051
+        },
+        {
+            "name": "Creep (Acoustic)",
+            "artist": "Radiohead",
+            "id": 2044456363
+        },
+        {
+            "name": "精卫琵琶版",
+            "artist": "Jakub狗子哥",
+            "id": 2007733647
+        },
+        {
+            "name": "皮囊",
+            "artist": "犬儒乐队",
+            "id": 2014917358
+        },
+        {
+            "name": "不法侵入",
+            "artist": "ずっと真夜中でいいのに。",
+            "id": 2047807671
+        },
+        {
+            "name": "志铭",
+            "artist": "犬儒乐队",
+            "id": 2005708456
+        },
+        {
+            "name": "絆ノ奇跡",
+            "artist": "MAN WITH A MISSION",
+            "id": 2033848662
+        },
+        {
+            "name": "CHRISTIAN",
+            "artist": "Zior Park",
+            "id": 2022151111
+        },
+        {
+            "name": "离火",
+            "artist": "王朝1982",
+            "id": 2024601351
+        },
+        {
+            "name": "相爱",
+            "artist": "脆莓(Brickleberry)",
+            "id": 2029903045
+        },
+        {
+            "name": "病",
+            "artist": "犬儒乐队",
+            "id": 2023931078
+        },
+        {
+            "name": "星座になれたら",
+            "artist": "結束バンド",
+            "id": 2003496380
+        },
+        {
+            "name": "八重海",
+            "artist": "30年前，50年后",
+            "id": 2045078393
+        },
+        {
+            "name": "鹿港",
+            "artist": "Bo Peep",
+            "id": 2046916849
+        },
+        {
+            "name": "斜陽",
+            "artist": "ヨルシカ",
+            "id": 2045828022
+        },
+        {
+            "name": "念念",
+            "artist": "银河快递",
+            "id": 2023272991
+        },
+        {
+            "name": "不列颠爱人",
+            "artist": "白日密语",
+            "id": 2046823522
+        },
+        {
+            "name": "断捨離 (feat. りりあ。)",
+            "artist": "SG",
+            "id": 1999301299
+        },
+        {
+            "name": "ギターと孤独と蒼い惑星",
+            "artist": "結束バンド",
+            "id": 2003496923
+        },
+        {
+            "name": "一丝不挂的忧伤",
+            "artist": "Crispy脆乐团",
+            "id": 2042937778
+        },
+        {
+            "name": "神笔马良",
+            "artist": "卦者灵风",
+            "id": 2045237089
+        },
+        {
+            "name": "明天的报纸上刊登我死去的消息",
+            "artist": "南青乐队",
+            "id": 2021132280
+        },
+        {
+            "name": "忘れてやらない",
+            "artist": "結束バンド",
+            "id": 2003496467
+        },
+        {
+            "name": "GOSSIP",
+            "artist": "Måneskin",
+            "id": 2013582894
+        },
+        {
+            "name": "DON'T WANNA SLEEP",
+            "artist": "Måneskin",
+            "id": 2015496075
+        },
+        {
+            "name": "奇縁ロマンス",
+            "artist": "ナナヲアカリ",
+            "id": 2032748562
+        },
+        {
+            "name": "火车日记 (live版)",
+            "artist": "丢火车",
+            "id": 2012392670
+        },
+        {
+            "name": "圈",
+            "artist": "犬儒乐队",
+            "id": 2038394761
+        },
+        {
+            "name": "你如何形容夏天",
+            "artist": "醉雪",
+            "id": 2042332674
+        },
+        {
+            "name": "FAKEit",
+            "artist": "SawanoHiroyuki[nZk]",
+            "id": 2005300921
+        },
+        {
+            "name": "叫魂",
+            "artist": "刘森",
+            "id": 2000710986
+        },
+        {
+            "name": "Paradox",
+            "artist": "Survive Said The Prophet",
+            "id": 2031870107
+        },
+        {
+            "name": "あのバンド",
+            "artist": "結束バンド",
+            "id": 1996323631
+        },
+        {
+            "name": "Avid",
+            "artist": "SawanoHiroyuki[nZk]",
+            "id": 2009678546
+        },
+        {
+            "name": "LOVE ROCKETS",
+            "artist": "The Birthday",
+            "id": 2003813569
+        },
+        {
+            "name": "GASOLINE",
+            "artist": "Måneskin",
+            "id": 2015496678
+        },
+        {
+            "name": "Hey Aries",
+            "artist": "椅子乐团 The Chairs",
+            "id": 2041148074
+        },
+        {
+            "name": "転がる岩、君に朝が降る",
+            "artist": "結束バンド",
+            "id": 2003496765
+        },
+        {
+            "name": "innocent arrogance",
+            "artist": "BiSH",
+            "id": 2033878961
+        },
+        {
+            "name": "In The Meantime",
+            "artist": "Spacehog",
+            "id": 2044456365
+        },
+        {
+            "name": "Since You Been Gone",
+            "artist": "Rainbow",
+            "id": 2044456364
+        },
+        {
+            "name": "雨夜",
+            "artist": "刘森",
+            "id": 2040895407
+        },
+        {
+            "name": "B∀LK",
+            "artist": "SawanoHiroyuki[nZk]",
+            "id": 2009678542
+        },
+        {
+            "name": "星になる (feat. 倚水)",
+            "artist": "Islet",
+            "id": 2002970862
+        },
+        {
+            "name": "忘れないでベイベー",
+            "artist": "ナナヲアカリ",
+            "id": 2028375883
+        },
+        {
+            "name": "美しい鰭",
+            "artist": "スピッツ",
+            "id": 2037843658
+        },
+        {
+            "name": "公路之歌",
+            "artist": "痛仰乐队",
+            "id": 381825
+        },
+        {
+            "name": "阿珍爱上了阿强",
+            "artist": "五条人",
+            "id": 447926025
+        },
+        {
+            "name": "杀死那个石家庄人",
+            "artist": "万能青年旅店",
+            "id": 386844
+        },
+        {
+            "name": "仙儿",
+            "artist": "二手玫瑰",
+            "id": 27501008
+        },
+        {
+            "name": "你要跳舞吗",
+            "artist": "新裤子",
+            "id": 408055928
+        },
+        {
+            "name": "没有理想的人不伤心",
+            "artist": "新裤子",
+            "id": 28009051
+        },
+        {
+            "name": "无地自容",
+            "artist": "黑豹乐队",
+            "id": 357279
+        },
+        {
+            "name": "爱人错过",
+            "artist": "告五人",
+            "id": 1368754688
+        },
+        {
+            "name": "山海",
+            "artist": "草东没有派对",
+            "id": 411314659
+        },
+        {
+            "name": "挪威的森林",
+            "artist": "伍佰 & China Blue",
+            "id": 157288
+        },
+        {
+            "name": "精卫",
+            "artist": "30年前，50年后",
+            "id": 1951069525
+        },
+        {
+            "name": "假行僧",
+            "artist": "崔健",
+            "id": 1962385456
+        },
+        {
+            "name": "再见杰克",
+            "artist": "痛仰乐队",
+            "id": 381821
+        },
+        {
+            "name": "光辉岁月",
+            "artist": "Beyond",
+            "id": 346576
+        },
+        {
+            "name": "大风吹",
+            "artist": "草东没有派对",
+            "id": 411314657
+        },
+        {
+            "name": "花房姑娘",
+            "artist": "崔健",
+            "id": 1962386325
+        },
+        {
+            "name": "梦回唐朝",
+            "artist": "唐朝乐队",
+            "id": 381920
+        },
+        {
+            "name": "Don't Break My Heart",
+            "artist": "黑豹乐队",
+            "id": 357263
+        },
+        {
+            "name": "新长征路上的摇滚",
+            "artist": "崔健",
+            "id": 1962385461
+        },
+        {
+            "name": "带我去找夜生活",
+            "artist": "告五人",
+            "id": 1410647903
+        },
+        {
+            "name": "爱不得忘不舍 (DJ版)",
+            "artist": "白小白",
+            "id": 1960567669
+        },
+        {
+            "name": "Peaches (Remix|Explicit)",
+            "artist": "Hugoman",
+            "id": 1855149938
+        },
+        {
+            "name": "爱你到最后一刻 (DJ版)",
+            "artist": "糖小玉",
+            "id": 1883974929
+        },
+        {
+            "name": "一个多情又无情的人 (Dj沈念版)",
+            "artist": "李雨婷",
+            "id": 1991321076
+        },
+        {
+            "name": "Piu Piu Piu",
+            "artist": "拼音师",
+            "id": 1488780845
+        },
+        {
+            "name": "小风车",
+            "artist": "爱吃红烧肉",
+            "id": 1867671077
+        },
+        {
+            "name": "Drown (Alle Farben Remix)",
+            "artist": "Martin Garrix",
+            "id": 1437031748
+        },
+        {
+            "name": "雾里(DJ版)",
+            "artist": "绝世小雪琪",
+            "id": 1851360163
+        },
+        {
+            "name": "折风渡夜 (DJ名龙版)",
+            "artist": "泽国同学",
+            "id": 1493944539
+        },
+        {
+            "name": "Fade Away (Deaf Kev Remix)",
+            "artist": "Jacob Tillberg",
+            "id": 1912666611
+        },
+        {
+            "name": "Ơ Sao Bé Không Lak",
+            "artist": "Siêu vương",
+            "id": 1836825812
+        },
+        {
+            "name": "Once Upon a Time (Bonzana Remix)",
+            "artist": "Max Oazo",
+            "id": 1446173550
+        },
+        {
+            "name": "Holy Grail (Adieu Remix)",
+            "artist": "Adieu",
+            "id": 37092830
+        },
+        {
+            "name": "醉过多少回",
+            "artist": "DJ杨洋",
+            "id": 1852085721
+        },
+        {
+            "name": "四季予你 (DJ版)",
+            "artist": "程响",
+            "id": 1807550736
+        },
+        {
+            "name": "Nu (Video Version)",
+            "artist": "Hugoman",
+            "id": 1855148046
+        },
+        {
+            "name": "Talk Dirty (TJR Remix)",
+            "artist": "TJR",
+            "id": 416552254
+        },
+        {
+            "name": "Salt (Syn Cole Remix)",
+            "artist": "Ava Max",
+            "id": 1441097233
+        },
+        {
+            "name": "Move Your Body (Alan Walker Remix)",
+            "artist": "Alan Walker",
+            "id": 436487129
+        },
+        {
+            "name": "Lordly (feat. Alex Aiono) [MDZN Remix]",
+            "artist": "Alex Aiono",
+            "id": 442562232
+        },
+        {
+            "name": "画画的李公子 (DJ沈念版)",
+            "artist": "胡萝卜丶阿成",
+            "id": 1903985946
+        },
+        {
+            "name": "阿衣莫 (DJ沈念版)",
+            "artist": "阿吉太组合",
+            "id": 1888153165
+        },
+        {
+            "name": "Batte forte (Subside Extended Remix)",
+            "artist": "Lollipop",
+            "id": 16621540
+        },
+        {
+            "name": "Да да да (Jarico Remix)",
+            "artist": "Tanir",
+            "id": 1397021895
+        },
+        {
+            "name": "风中有朵雨做的云 (DJheap九天版)",
+            "artist": "电音任瑶",
+            "id": 2049839280
+        },
+        {
+            "name": "槐荫开口 天仙配",
+            "artist": "李文",
+            "id": 275754
+        },
+        {
+            "name": "Angels (Extended Mix)",
+            "artist": "Vicetone",
+            "id": 31477433
+        },
+        {
+            "name": "Seasons (Futuristik & Whogaux Remix)",
+            "artist": "Futuristik",
+            "id": 557583842
+        },
+        {
+            "name": "Shots (Broiler Remix)",
+            "artist": "Broiler",
+            "id": 31789010
+        },
+        {
+            "name": "你的答案 (DJ弹鼓版)",
+            "artist": "振杰先森",
+            "id": 1810241520
+        },
+        {
+            "name": "Lake Arrowhead (Radio Mix)",
+            "artist": "Nora En Pure",
+            "id": 563129860
+        },
+        {
+            "name": "选择失忆咚鼓",
+            "artist": "季彦霖",
+            "id": 1367280230
+        },
+        {
+            "name": "Early Morning Dreams (Kled Mone Remix)",
+            "artist": "Kadebostany",
+            "id": 1352897394
+        },
+        {
+            "name": "大漠风歌 (DJ何鹏版)",
+            "artist": "潘倩倩",
+            "id": 1431304660
+        },
+        {
+            "name": "Dependent (MD Dj & Alex Mako Remix Extended)",
+            "artist": "Deepcentral",
+            "id": 1369710661
+        },
+        {
+            "name": "相思成灾 (DJ版)",
+            "artist": "69",
+            "id": 1449559688
+        },
+        {
+            "name": "Out of Time (feat. Eric Lumiere) [Sagan Remix]",
+            "artist": "Shane 54",
+            "id": 1314777725
+        },
+        {
+            "name": "喝醉以后才明白 (DJ版)",
+            "artist": "胡蒎",
+            "id": 865907026
+        },
+        {
+            "name": "In The End (Mellen Gi Remix)",
+            "artist": "Tommee Profitt",
+            "id": 1952179635
+        },
+        {
+            "name": "破戒 (DJ武圣雄版)",
+            "artist": "黄静美",
+            "id": 1447760656
+        },
+        {
+            "name": "情陷 (DJ何鹏版)",
+            "artist": "任妙音",
+            "id": 1818580799
+        },
+        {
+            "name": "世上还有多少痴情的人 (Dj何鹏版)",
+            "artist": "欧阳俊",
+            "id": 1902402104
+        },
+        {
+            "name": "Something Just Like This (Tokyo Remix)",
+            "artist": "Coldplay",
+            "id": 490416125
+        },
+        {
+            "name": "Abracadabra (Extended Mix)",
+            "artist": "Tiggy",
+            "id": 22346252
+        }
+    ]
+}

@@ -1,0 +1,337 @@
+{
+    "playlist_info": {
+        "name": "2023年4月30日山东烟台黄渤海迷笛音乐节",
+        "trackcount": 65,
+        "playcount": 1258,
+        "creator": "大梦初醒秋叶逝",
+        "createDate": "2023-04-04",
+        "heat": 14.0
+    },
+    "songs": [
+        {
+            "name": "Medicine",
+            "artist": "克林尼克",
+            "id": 1890483445
+        },
+        {
+            "name": "心电图",
+            "artist": "克林尼克",
+            "id": 1890483302
+        },
+        {
+            "name": "高墙",
+            "artist": "克林尼克",
+            "id": 1890486702
+        },
+        {
+            "name": "Worker Riot",
+            "artist": "克林尼克",
+            "id": 1890493666
+        },
+        {
+            "name": "我不能在这里",
+            "artist": "克林尼克",
+            "id": 1982713966
+        },
+        {
+            "name": "骄傲",
+            "artist": "玉麟军",
+            "id": 27646909
+        },
+        {
+            "name": "天堂",
+            "artist": "玉麟军",
+            "id": 1305364138
+        },
+        {
+            "name": "长涂岛/Changtu Island",
+            "artist": "DeepMountains深山",
+            "id": 29588749
+        },
+        {
+            "name": "醉花音/ Enchanted by the Blooming Echo ",
+            "artist": "DeepMountains深山",
+            "id": 407759359
+        },
+        {
+            "name": "泰安七有月雾",
+            "artist": "DeepMountains深山",
+            "id": 34381832
+        },
+        {
+            "name": "渿河謠 / Ballad of Nai River",
+            "artist": "DeepMountains深山",
+            "id": 28529643
+        },
+        {
+            "name": "弈秋 Afterimage of Autumn",
+            "artist": "葬尸湖",
+            "id": 363483
+        },
+        {
+            "name": "暮雲",
+            "artist": "葬尸湖",
+            "id": 408943441
+        },
+        {
+            "name": "梦邀",
+            "artist": "葬尸湖",
+            "id": 408943444
+        },
+        {
+            "name": "厉鬼",
+            "artist": "葬尸湖",
+            "id": 1380294746
+        },
+        {
+            "name": "孤雁",
+            "artist": "葬尸湖",
+            "id": 31514329
+        },
+        {
+            "name": "女人的歌",
+            "artist": "张岭",
+            "id": 198302
+        },
+        {
+            "name": "Georgia On My Mind",
+            "artist": "张岭",
+            "id": 198314
+        },
+        {
+            "name": "喝酒blues",
+            "artist": "张岭",
+            "id": 28269051
+        },
+        {
+            "name": "最后的夜晚",
+            "artist": "饮马池",
+            "id": 1877519982
+        },
+        {
+            "name": "小说",
+            "artist": "饮马池",
+            "id": 1877525796
+        },
+        {
+            "name": "飞向山",
+            "artist": "饮马池",
+            "id": 1877519913
+        },
+        {
+            "name": "志愿的人",
+            "artist": "Carsick Cars",
+            "id": 347962
+        },
+        {
+            "name": "叫醒我",
+            "artist": "Carsick Cars",
+            "id": 1469005313
+        },
+        {
+            "name": "爱的代价",
+            "artist": "Carsick Cars",
+            "id": 1913463889
+        },
+        {
+            "name": "围城",
+            "artist": "Carsick Cars",
+            "id": 28289259
+        },
+        {
+            "name": "和声",
+            "artist": "Carsick Cars",
+            "id": 347975
+        },
+        {
+            "name": "中南海",
+            "artist": "Carsick Cars",
+            "id": 347966
+        },
+        {
+            "name": "燃烧的爱情 feat.李鹏(反光镜)",
+            "artist": "闪星TwinkleStar",
+            "id": 1319891450
+        },
+        {
+            "name": "决定一起互相浪费",
+            "artist": "闪星TwinkleStar",
+            "id": 461301582
+        },
+        {
+            "name": "身不由己",
+            "artist": "闪星TwinkleStar",
+            "id": 413077548
+        },
+        {
+            "name": "傻人痴梦",
+            "artist": "闪星TwinkleStar",
+            "id": 1969348173
+        },
+        {
+            "name": "放开自己",
+            "artist": "闪星TwinkleStar",
+            "id": 461301577
+        },
+        {
+            "name": "幻想情人",
+            "artist": "闪星TwinkleStar",
+            "id": 1907800901
+        },
+        {
+            "name": "撞 色 少 女",
+            "artist": "花墙FancyWall",
+            "id": 1382234554
+        },
+        {
+            "name": "口袋(feat. Nana)",
+            "artist": "花墙FancyWall",
+            "id": 1903795651
+        },
+        {
+            "name": "Only Only",
+            "artist": "花墙FancyWall",
+            "id": 1845533873
+        },
+        {
+            "name": "麻风骑士",
+            "artist": "花墙FancyWall",
+            "id": 2032131272
+        },
+        {
+            "name": "撒·野",
+            "artist": "花墙FancyWall",
+            "id": 1382233521
+        },
+        {
+            "name": "芍药信",
+            "artist": "花墙FancyWall",
+            "id": 1967771291
+        },
+        {
+            "name": "Vic",
+            "artist": "花墙FancyWall",
+            "id": 1454053035
+        },
+        {
+            "name": "粉红色闪电",
+            "artist": "花墙FancyWall",
+            "id": 1818425972
+        },
+        {
+            "name": "招娣",
+            "artist": "九连真人",
+            "id": 1806316873
+        },
+        {
+            "name": "上岗去",
+            "artist": "九连真人",
+            "id": 1498062087
+        },
+        {
+            "name": "望月怀远",
+            "artist": "九连真人",
+            "id": 1806323763
+        },
+        {
+            "name": "负累",
+            "artist": "九连真人",
+            "id": 2009815461
+        },
+        {
+            "name": "三斤狗",
+            "artist": "九连真人",
+            "id": 1501224498
+        },
+        {
+            "name": "落水天",
+            "artist": "九连真人",
+            "id": 1806323764
+        },
+        {
+            "name": "夜游神",
+            "artist": "九连真人",
+            "id": 1805086601
+        },
+        {
+            "name": "莫欺少年穷",
+            "artist": "九连真人",
+            "id": 1493931568
+        },
+        {
+            "name": "北风",
+            "artist": "九连真人",
+            "id": 1806316871
+        },
+        {
+            "name": "回到那一天",
+            "artist": "郝云",
+            "id": 93588
+        },
+        {
+            "name": "北京 北京",
+            "artist": "郝云",
+            "id": 93597
+        },
+        {
+            "name": "结了",
+            "artist": "郝云",
+            "id": 93576
+        },
+        {
+            "name": "如果来生还能遇见你",
+            "artist": "郝云",
+            "id": 27731425
+        },
+        {
+            "name": "突然想到理想这个词",
+            "artist": "郝云",
+            "id": 93562
+        },
+        {
+            "name": "去大理",
+            "artist": "郝云",
+            "id": 28977819
+        },
+        {
+            "name": "活着",
+            "artist": "郝云",
+            "id": 27646786
+        },
+        {
+            "name": "她是爱",
+            "artist": "Joyside",
+            "id": 1868420383
+        },
+        {
+            "name": "Silly Girl",
+            "artist": "Joyside",
+            "id": 360866
+        },
+        {
+            "name": "Good Night",
+            "artist": "Joyside",
+            "id": 1355025152
+        },
+        {
+            "name": "Dong Dong Dong",
+            "artist": "Joyside",
+            "id": 360912
+        },
+        {
+            "name": "If There Is A Tomorrow",
+            "artist": "Joyside",
+            "id": 1449369129
+        },
+        {
+            "name": "Not My Time To Die",
+            "artist": "Joyside",
+            "id": 1409357527
+        },
+        {
+            "name": "太空浪子",
+            "artist": "Joyside",
+            "id": 1411784746
+        }
+    ]
+}

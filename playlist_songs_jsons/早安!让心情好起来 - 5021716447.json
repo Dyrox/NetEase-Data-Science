@@ -1,0 +1,957 @@
+{
+    "playlist_info": {
+        "name": "早安!让心情好起来",
+        "trackcount": 189,
+        "playcount": 6205994,
+        "creator": "yquuuiy",
+        "createDate": "2020-05-16",
+        "heat": 5452.0
+    },
+    "songs": [
+        {
+            "name": "银河为何不浪漫（钢琴曲）",
+            "artist": "赫奕",
+            "id": 1929949337
+        },
+        {
+            "name": "我们的歌",
+            "artist": "王力宏",
+            "id": 25642952
+        },
+        {
+            "name": "Players",
+            "artist": "Coi Leray",
+            "id": 2002926115
+        },
+        {
+            "name": "oui",
+            "artist": "Jeremih",
+            "id": 36215650
+        },
+        {
+            "name": "迷宫",
+            "artist": "step.jad依加",
+            "id": 2033897126
+        },
+        {
+            "name": "Treasure",
+            "artist": "Bruno Mars",
+            "id": 25657233
+        },
+        {
+            "name": "起舞",
+            "artist": "艾热 AIR",
+            "id": 1880165006
+        },
+        {
+            "name": "爱人错过",
+            "artist": "告五人",
+            "id": 1368754688
+        },
+        {
+            "name": "Dancin (Krono Extended Remix)",
+            "artist": "Aaron Smith",
+            "id": 439121234
+        },
+        {
+            "name": "Peaches",
+            "artist": "Justin Bieber",
+            "id": 1830419924
+        },
+        {
+            "name": "洛杉矶",
+            "artist": "LBI利比",
+            "id": 1882716480
+        },
+        {
+            "name": "想到你",
+            "artist": "朴宰范",
+            "id": 1939898238
+        },
+        {
+            "name": "双门洞（Harmonica）",
+            "artist": "晓月老板",
+            "id": 1351188267
+        },
+        {
+            "name": "狂恋",
+            "artist": "GALI",
+            "id": 1983464993
+        },
+        {
+            "name": "带我去找夜生活",
+            "artist": "告五人",
+            "id": 1410647903
+        },
+        {
+            "name": "初雪",
+            "artist": "EXO",
+            "id": 28068785
+        },
+        {
+            "name": "Mystery of Love",
+            "artist": "Sufjan Stevens",
+            "id": 516358164
+        },
+        {
+            "name": "呼吸决定",
+            "artist": "Fine乐团",
+            "id": 35678875
+        },
+        {
+            "name": "Spring Day",
+            "artist": "BTS (防弹少年团)",
+            "id": 459139374
+        },
+        {
+            "name": "IMMA GET IT",
+            "artist": "檀健次",
+            "id": 2010582094
+        },
+        {
+            "name": "俄罗斯轮盘 (Russian Roulette)",
+            "artist": "Red Velvet",
+            "id": 429210072
+        },
+        {
+            "name": "แลกเลยปะ (Hoo Whee Hoo)",
+            "artist": "Billkin",
+            "id": 1940022973
+        },
+        {
+            "name": "在你的身边",
+            "artist": "盛哲",
+            "id": 475479888
+        },
+        {
+            "name": "Diamond",
+            "artist": "Higher Brothers",
+            "id": 1347297663
+        },
+        {
+            "name": "隆里电丝",
+            "artist": "盛宇D-SHINE",
+            "id": 1964676839
+        },
+        {
+            "name": "ไม่ปล่อยมือ (From \"แปลรักฉันด้วยใจเธอ, Pt. 2\")",
+            "artist": "Billkin",
+            "id": 1855398521
+        },
+        {
+            "name": "爱要坦荡荡",
+            "artist": "萧潇",
+            "id": 307606
+        },
+        {
+            "name": "See Tình",
+            "artist": "Hoàng Thùy Linh",
+            "id": 1921150691
+        },
+        {
+            "name": "Wake (Live)",
+            "artist": "Hillsong Young & Free",
+            "id": 1873321491
+        },
+        {
+            "name": "사랑을 했다 (LOVE SCENARIO)",
+            "artist": "iKON",
+            "id": 533017594
+        },
+        {
+            "name": "PLASTIC",
+            "artist": "sakehands",
+            "id": 1307463441
+        },
+        {
+            "name": "Come Around Me",
+            "artist": "Justin Bieber",
+            "id": 1496770948
+        },
+        {
+            "name": "Run Free",
+            "artist": "Deep Chills",
+            "id": 500410102
+        },
+        {
+            "name": "In The Shadow Of The Sun",
+            "artist": "Professor Green",
+            "id": 29412405
+        },
+        {
+            "name": "The Cure",
+            "artist": "Lady Gaga",
+            "id": 472045959
+        },
+        {
+            "name": "รู้งี้เป็นแฟนกันตั้งนานแล้ว (Safe Zone) (From \"แปลรักฉันด้วยใจเธอ Part 2\")",
+            "artist": "Billkin",
+            "id": 1840187827
+        },
+        {
+            "name": "夢灯籠",
+            "artist": "RADWIMPS",
+            "id": 426881480
+        },
+        {
+            "name": "Not Angry",
+            "artist": "Chris James",
+            "id": 1478568147
+        },
+        {
+            "name": "Say So",
+            "artist": "Doja Cat",
+            "id": 1401302504
+        },
+        {
+            "name": "We Can't Stop",
+            "artist": "Boyce Avenue",
+            "id": 29480187
+        },
+        {
+            "name": "Sugar",
+            "artist": "Maroon 5",
+            "id": 29019227
+        },
+        {
+            "name": "慢慢喜欢你",
+            "artist": "莫文蔚",
+            "id": 541687281
+        },
+        {
+            "name": "City Of Stars (From \"La La Land\" Soundtrack)",
+            "artist": "Ryan Gosling",
+            "id": 441612583
+        },
+        {
+            "name": "Kiss Me More",
+            "artist": "Doja Cat",
+            "id": 1855285578
+        },
+        {
+            "name": "苦茶子",
+            "artist": "Starling8",
+            "id": 1922888354
+        },
+        {
+            "name": "Bubble Pop!",
+            "artist": "泫雅",
+            "id": 5348853
+        },
+        {
+            "name": "Body",
+            "artist": "Loud Luxury",
+            "id": 515816187
+        },
+        {
+            "name": "Kream",
+            "artist": "Iggy Azalea",
+            "id": 1298643334
+        },
+        {
+            "name": "4 Walls",
+            "artist": "f(x)",
+            "id": 35956186
+        },
+        {
+            "name": "봄",
+            "artist": "朴春",
+            "id": 1351449124
+        },
+        {
+            "name": "Not Shy -Japanese ver.-",
+            "artist": "ITZY",
+            "id": 1904543126
+        },
+        {
+            "name": "Intentions (Acoustic)",
+            "artist": "Justin Bieber",
+            "id": 1432101409
+        },
+        {
+            "name": "Wind flower -Japanese ver.-",
+            "artist": "Mamamoo",
+            "id": 1406500058
+        },
+        {
+            "name": "Numb Little Bug",
+            "artist": "Em Beihold",
+            "id": 1915796767
+        },
+        {
+            "name": "Jiggle Jiggle",
+            "artist": "Duke & Jones",
+            "id": 1946751557
+        },
+        {
+            "name": "爱你",
+            "artist": "王心凌",
+            "id": 1952182912
+        },
+        {
+            "name": "I Like Me Better",
+            "artist": "Lauv",
+            "id": 479223413
+        },
+        {
+            "name": "夏日漱石 (Summer Cozy Rock)",
+            "artist": "橘子海 (Orange Ocean)",
+            "id": 1359818052
+        },
+        {
+            "name": "Belly Dancer",
+            "artist": "Imanbek",
+            "id": 1920673770
+        },
+        {
+            "name": "Free Loop",
+            "artist": "Daniel Powter",
+            "id": 5253801
+        },
+        {
+            "name": "double take",
+            "artist": "dhruv",
+            "id": 1369602061
+        },
+        {
+            "name": "Dancing in My Room",
+            "artist": "347aidan",
+            "id": 1486631924
+        },
+        {
+            "name": "Can We Kiss Forever?",
+            "artist": "Kina",
+            "id": 1306507078
+        },
+        {
+            "name": "One Last Time",
+            "artist": "Ariana Grande",
+            "id": 28977745
+        },
+        {
+            "name": "Cure For Me",
+            "artist": "AURORA",
+            "id": 1859515946
+        },
+        {
+            "name": "Bleeding Love",
+            "artist": "Ni/Co",
+            "id": 1388433823
+        },
+        {
+            "name": "Spongebob Remix \"Krusty Krab\"",
+            "artist": "Eugene The Dream",
+            "id": 418602197
+        },
+        {
+            "name": "Booty Music",
+            "artist": "Deep Side",
+            "id": 2526625
+        },
+        {
+            "name": "bad guy",
+            "artist": "Billie Eilish",
+            "id": 1355147933
+        },
+        {
+            "name": "WAP (feat. Megan Thee Stallion)",
+            "artist": "Cardi B",
+            "id": 1494714125
+        },
+        {
+            "name": "Bet On Me",
+            "artist": "Walk off the Earth",
+            "id": 1923927650
+        },
+        {
+            "name": "Best Friend (feat. Doja Cat)",
+            "artist": "Saweetie",
+            "id": 1499823574
+        },
+        {
+            "name": "TOMBOY",
+            "artist": "(G)I-DLE",
+            "id": 1927421969
+        },
+        {
+            "name": "Peaches",
+            "artist": "Justin Bieber",
+            "id": 1941827739
+        },
+        {
+            "name": "Bang Bang",
+            "artist": "Jessie J",
+            "id": 28850212
+        },
+        {
+            "name": "Old Town Road",
+            "artist": "Lil Nas X",
+            "id": 1373172794
+        },
+        {
+            "name": "Slow Down",
+            "artist": "Madnap",
+            "id": 1356658022
+        },
+        {
+            "name": "海の形",
+            "artist": "昙轩",
+            "id": 535056564
+        },
+        {
+            "name": "summertime",
+            "artist": "cinnamons",
+            "id": 531786301
+        },
+        {
+            "name": "我们俩",
+            "artist": "郭顶",
+            "id": 85571
+        },
+        {
+            "name": "有點喜歡你（prod.Lean）",
+            "artist": "BigBird大鳥",
+            "id": 1422505577
+        },
+        {
+            "name": "Pasta",
+            "artist": "New Rules",
+            "id": 1429355183
+        },
+        {
+            "name": "Number",
+            "artist": "Alexander Oscar",
+            "id": 537407969
+        },
+        {
+            "name": "Lip & Hip",
+            "artist": "泫雅",
+            "id": 522351083
+        },
+        {
+            "name": "Superstar",
+            "artist": "Beatrich",
+            "id": 492145159
+        },
+        {
+            "name": "베베 (BABE)",
+            "artist": "泫雅",
+            "id": 502238344
+        },
+        {
+            "name": "Please Don't Go",
+            "artist": "Joel Adams",
+            "id": 37653063
+        },
+        {
+            "name": "Send It (feat. Rich Homie Quan)",
+            "artist": "Austin Mahone",
+            "id": 426291544
+        },
+        {
+            "name": "Work (R3hab & Quintino Remix)",
+            "artist": "Rihanna",
+            "id": 449824663
+        },
+        {
+            "name": "Waiting For",
+            "artist": "Joakim Lundell",
+            "id": 491271737
+        },
+        {
+            "name": "Worth It",
+            "artist": "Fifth Harmony",
+            "id": 30212890
+        },
+        {
+            "name": "Charlie Puth-Betty Boop (TØm Bootleg)（TØm remix）",
+            "artist": "TØm",
+            "id": 1365071885
+        },
+        {
+            "name": "SpongeBob Closing Theme",
+            "artist": "Various Artists",
+            "id": 29822196
+        },
+        {
+            "name": "Galway Girl",
+            "artist": "MADILYN",
+            "id": 472361236
+        },
+        {
+            "name": "어때?",
+            "artist": "泫雅",
+            "id": 423406117
+        },
+        {
+            "name": "放个大招给你看",
+            "artist": "永彬Ryan.B",
+            "id": 1374086946
+        },
+        {
+            "name": "Soap",
+            "artist": "Melanie Martinez",
+            "id": 33085220
+        },
+        {
+            "name": "YOUTH",
+            "artist": "Troye Sivan",
+            "id": 36668810
+        },
+        {
+            "name": "风的颜色",
+            "artist": "NINEONE#赵馨玥",
+            "id": 1355896807
+        },
+        {
+            "name": "Best Part",
+            "artist": "Daniel Caesar",
+            "id": 496902058
+        },
+        {
+            "name": "Blueming",
+            "artist": "IU",
+            "id": 1404511131
+        },
+        {
+            "name": "Yummy (Country Remix)",
+            "artist": "Justin Bieber",
+            "id": 1424447865
+        },
+        {
+            "name": "Kiss and Make Up",
+            "artist": "Dua Lipa",
+            "id": 1352932036
+        },
+        {
+            "name": "Into the I-LAND",
+            "artist": "IU",
+            "id": 1456676789
+        },
+        {
+            "name": "가시나",
+            "artist": "宣美",
+            "id": 500410198
+        },
+        {
+            "name": "情人",
+            "artist": "蔡徐坤",
+            "id": 1450574147
+        },
+        {
+            "name": "Roommate",
+            "artist": "Zico",
+            "id": 1459483821
+        },
+        {
+            "name": "웬수",
+            "artist": "Zico",
+            "id": 1459485338
+        },
+        {
+            "name": "불면증",
+            "artist": "DinDin",
+            "id": 1309814404
+        },
+        {
+            "name": "휑해",
+            "artist": "Croq",
+            "id": 425828129
+        },
+        {
+            "name": "사랑에 빠진 걸까요",
+            "artist": "VROMANCE",
+            "id": 467953855
+        },
+        {
+            "name": "COCO",
+            "artist": "Aioz",
+            "id": 1436076578
+        },
+        {
+            "name": "Coco ball",
+            "artist": "V.A.",
+            "id": 1469868492
+        },
+        {
+            "name": "LOVE SCENARIO",
+            "artist": "iKON",
+            "id": 1311347412
+        },
+        {
+            "name": "Galway Girl (Martin Jensen Remix)",
+            "artist": "Ed Sheeran",
+            "id": 470687490
+        },
+        {
+            "name": "Love Story",
+            "artist": "Taylor Swift",
+            "id": 1457707546
+        },
+        {
+            "name": "장가갈 수 있을까",
+            "artist": "咖啡少年",
+            "id": 26418355
+        },
+        {
+            "name": "宁夏",
+            "artist": "梁静茹",
+            "id": 254265
+        },
+        {
+            "name": "WHISTLE",
+            "artist": "BLACKPINK",
+            "id": 1325898350
+        },
+        {
+            "name": "All Me (feat. Keyshia Cole)",
+            "artist": "Kehlani",
+            "id": 1410991511
+        },
+        {
+            "name": "Remember Our Summer",
+            "artist": "FrogMonster",
+            "id": 1384450197
+        },
+        {
+            "name": "Dolphin",
+            "artist": "OH MY GIRL",
+            "id": 1442010549
+        },
+        {
+            "name": "目不转睛",
+            "artist": "王以太",
+            "id": 546279760
+        },
+        {
+            "name": "빨개요",
+            "artist": "泫雅",
+            "id": 28850659
+        },
+        {
+            "name": "No Roots",
+            "artist": "Alice Merton",
+            "id": 444324644
+        },
+        {
+            "name": "FLOWER SHOWER (Live)",
+            "artist": "泫雅",
+            "id": 1416321407
+        },
+        {
+            "name": "썸 탈꺼야 (some)（Cover 脸红的思春期）",
+            "artist": "朵蜜天女JOY",
+            "id": 549865623
+        },
+        {
+            "name": "One Day (夫妇合唱原版)",
+            "artist": "Yonina",
+            "id": 1470115202
+        },
+        {
+            "name": "Wind Flower（翻自 妈妈木） ",
+            "artist": "凡仔",
+            "id": 1332195598
+        },
+        {
+            "name": "History",
+            "artist": "88rising",
+            "id": 1293953338
+        },
+        {
+            "name": "小鹿乱撞",
+            "artist": "永彬Ryan.B",
+            "id": 864100958
+        },
+        {
+            "name": "沉沦与遐想",
+            "artist": "C.HØPE",
+            "id": 1492584510
+        },
+        {
+            "name": "Na Na [STWO remix]",
+            "artist": "Trey Songz",
+            "id": 28728344
+        },
+        {
+            "name": "Freak Freak!",
+            "artist": "Dawin",
+            "id": 1401832501
+        },
+        {
+            "name": "Substitute",
+            "artist": "Dawin",
+            "id": 1458626811
+        },
+        {
+            "name": "2002",
+            "artist": "J.Fla",
+            "id": 1296706520
+        },
+        {
+            "name": "好像掉进爱情海里 (独唱版)",
+            "artist": "赵露思",
+            "id": 554244157
+        },
+        {
+            "name": "rain（prod.bycon，feat snow）",
+            "artist": "Shining",
+            "id": 1322041120
+        },
+        {
+            "name": "Mood",
+            "artist": "24kGoldn",
+            "id": 1464325108
+        },
+        {
+            "name": "Welcome to Wonderland",
+            "artist": "Anson Seabra",
+            "id": 552060841
+        },
+        {
+            "name": "red lips（被我蒙对）",
+            "artist": "沙一汀EL",
+            "id": 1456659704
+        },
+        {
+            "name": "Dreams and confusion",
+            "artist": "QCQ青澄",
+            "id": 1463083121
+        },
+        {
+            "name": "Normal No More",
+            "artist": "TYSM",
+            "id": 1440570723
+        },
+        {
+            "name": "单车",
+            "artist": "李克勤",
+            "id": 466089039
+        },
+        {
+            "name": "失恋阵线联盟",
+            "artist": "草蜢",
+            "id": 349892
+        },
+        {
+            "name": "海阔天空",
+            "artist": "Beyond",
+            "id": 346089
+        },
+        {
+            "name": "真的爱你",
+            "artist": "Beyond",
+            "id": 346075
+        },
+        {
+            "name": "But U",
+            "artist": "NINEONE#赵馨玥",
+            "id": 1459232593
+        },
+        {
+            "name": "Leave The Door Open",
+            "artist": "Bruno Mars",
+            "id": 1824927085
+        },
+        {
+            "name": "Kura Kura",
+            "artist": "TWICE",
+            "id": 1838203434
+        },
+        {
+            "name": "Empty Love",
+            "artist": "Lulleaux",
+            "id": 1435828582
+        },
+        {
+            "name": "Tricky Trick",
+            "artist": "NINEONE#赵馨玥",
+            "id": 1432778698
+        },
+        {
+            "name": "Girl",
+            "artist": "Alexander 23",
+            "id": 1399054231
+        },
+        {
+            "name": "脸红接收处",
+            "artist": "PIggy",
+            "id": 1813590062
+        },
+        {
+            "name": "What Do You Mean?",
+            "artist": "Justin Bieber",
+            "id": 34228719
+        },
+        {
+            "name": "Touch",
+            "artist": "3LAU",
+            "id": 534228257
+        },
+        {
+            "name": "室内系的TrackMaker(YUNOMI)（翻自 nicamoq）",
+            "artist": "Hanser",
+            "id": 537787665
+        },
+        {
+            "name": "3 Strikes",
+            "artist": "Terror Jr",
+            "id": 409647388
+        },
+        {
+            "name": "Melody",
+            "artist": "ZIV",
+            "id": 1430000692
+        },
+        {
+            "name": "艺术家",
+            "artist": "MaySeventeen",
+            "id": 1814636483
+        },
+        {
+            "name": "Darling (JPN ver.)",
+            "artist": "Girl's Day",
+            "id": 35253001
+        },
+        {
+            "name": "门没锁",
+            "artist": "品冠儿子Jayden",
+            "id": 1909604321
+        },
+        {
+            "name": "風情萬種",
+            "artist": "周星星",
+            "id": 1812937356
+        },
+        {
+            "name": "Frankenstein",
+            "artist": "Claire Rosinkranz",
+            "id": 1844660535
+        },
+        {
+            "name": "Dream",
+            "artist": "Alchost",
+            "id": 1909731067
+        },
+        {
+            "name": "橘色调",
+            "artist": "FANBEI",
+            "id": 1844660578
+        },
+        {
+            "name": "乌云的微妙情绪",
+            "artist": "FANBEI",
+            "id": 1833314401
+        },
+        {
+            "name": "想和你的8760",
+            "artist": "郑俊树J.SHU",
+            "id": 1913118404
+        },
+        {
+            "name": "Lover Boy 88",
+            "artist": "Higher Brothers",
+            "id": 864647456
+        },
+        {
+            "name": "comethru",
+            "artist": "Jeremy Zucker",
+            "id": 1351923466
+        },
+        {
+            "name": "Parties",
+            "artist": "Jake Miller",
+            "id": 484365611
+        },
+        {
+            "name": "Your sunday (sundaymorning)(maroon5 Cover)",
+            "artist": "Sunny Shin",
+            "id": 1323090317
+        },
+        {
+            "name": "Best of 2012: Payphone/Call Me Maybe/Wide Awake/Starship/We Are Young",
+            "artist": "Anthem Lights",
+            "id": 33418570
+        },
+        {
+            "name": "Drive",
+            "artist": "Oh Wonder",
+            "id": 33728453
+        },
+        {
+            "name": "alone together.",
+            "artist": "Rook1e",
+            "id": 445844591
+        },
+        {
+            "name": "아무노래",
+            "artist": "Zico",
+            "id": 1416378346
+        },
+        {
+            "name": "Paris in the Rain",
+            "artist": "Lauv",
+            "id": 518904648
+        },
+        {
+            "name": "Spin With You",
+            "artist": "Emma Sameth",
+            "id": 1333863852
+        },
+        {
+            "name": "Sunset/Sunrise（翻自 SNØW）",
+            "artist": "于梓贝",
+            "id": 1447231890
+        },
+        {
+            "name": "Like That",
+            "artist": "Doja Cat",
+            "id": 1401302505
+        },
+        {
+            "name": "Pink Champagne",
+            "artist": "Nick Lopez",
+            "id": 448749148
+        },
+        {
+            "name": "The Show",
+            "artist": "Lenka",
+            "id": 16607998
+        },
+        {
+            "name": "山楂树之恋",
+            "artist": "程佳佳",
+            "id": 1381755293
+        },
+        {
+            "name": "打上花火",
+            "artist": "米津玄師",
+            "id": 512358200
+        },
+        {
+            "name": "Oops",
+            "artist": "Little Mix",
+            "id": 441491080
+        },
+        {
+            "name": "Let You Love Me",
+            "artist": "Rita Ora",
+            "id": 1311209054
+        },
+        {
+            "name": "Schnappi",
+            "artist": "Joy Gruttmann",
+            "id": 2866921
+        },
+        {
+            "name": "Don't Wanna Wake Up",
+            "artist": "Taylor Grey",
+            "id": 523421716
+        },
+        {
+            "name": "Crush",
+            "artist": "Tessa Violet",
+            "id": 572166420
+        }
+    ]
+}

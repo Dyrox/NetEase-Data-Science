@@ -1,0 +1,547 @@
+{
+    "playlist_info": {
+        "name": "欧美 | 将心情点燃的免费套餐",
+        "trackcount": 107,
+        "playcount": 909139,
+        "creator": "粥粥无能w",
+        "createDate": "2020-09-13",
+        "heat": 892.0
+    },
+    "songs": [
+        {
+            "name": "Free Loop",
+            "artist": "Daniel Powter",
+            "id": 5253801
+        },
+        {
+            "name": "DON'T PUSH ME",
+            "artist": "Sweetbox",
+            "id": 20310407
+        },
+        {
+            "name": "Memories",
+            "artist": "Maroon 5",
+            "id": 1392089153
+        },
+        {
+            "name": "Burning",
+            "artist": "Maria Arredondo",
+            "id": 25880354
+        },
+        {
+            "name": "Teeth",
+            "artist": "5 Seconds of Summer",
+            "id": 1386002493
+        },
+        {
+            "name": "Centuries",
+            "artist": "Fall Out Boy",
+            "id": 1403699318
+        },
+        {
+            "name": "Relax",
+            "artist": "Junona Boys",
+            "id": 1439181436
+        },
+        {
+            "name": "Blame",
+            "artist": "Calvin Harris",
+            "id": 29129632
+        },
+        {
+            "name": "Which Doctor",
+            "artist": "The Top Orchestra",
+            "id": 486541247
+        },
+        {
+            "name": "Wicked Wonderland",
+            "artist": "Tungevaag",
+            "id": 28852581
+        },
+        {
+            "name": "One Kiss",
+            "artist": "Calvin Harris",
+            "id": 549800783
+        },
+        {
+            "name": "bad guy",
+            "artist": "Billie Eilish",
+            "id": 1355147933
+        },
+        {
+            "name": "Teenage Dream",
+            "artist": "Katy Perry",
+            "id": 18981898
+        },
+        {
+            "name": "Firework",
+            "artist": "Katy Perry",
+            "id": 2871217
+        },
+        {
+            "name": "Part Of Me",
+            "artist": "Katy Perry",
+            "id": 23182208
+        },
+        {
+            "name": "Lean On",
+            "artist": "Major Lazer",
+            "id": 30854130
+        },
+        {
+            "name": "Good Life",
+            "artist": "G-Eazy",
+            "id": 466122659
+        },
+        {
+            "name": "Scars To Your Beautiful",
+            "artist": "Alessia Cara",
+            "id": 36587834
+        },
+        {
+            "name": "Edge of My Life",
+            "artist": "Manafest",
+            "id": 1434984281
+        },
+        {
+            "name": "Hello Summer (Radio Edit)",
+            "artist": "Rameez",
+            "id": 424477211
+        },
+        {
+            "name": "Stay",
+            "artist": "Zedd",
+            "id": 1490555292
+        },
+        {
+            "name": "Cheap Thrills",
+            "artist": "Sia",
+            "id": 403711269
+        },
+        {
+            "name": "My Songs Know What You Did In The Dark",
+            "artist": "Fall Out Boy",
+            "id": 26244129
+        },
+        {
+            "name": "Rollercoaster",
+            "artist": "Dolly Style",
+            "id": 419116144
+        },
+        {
+            "name": "Feel It Still",
+            "artist": "Pentatonix",
+            "id": 549800502
+        },
+        {
+            "name": "Believer",
+            "artist": "Imagine Dragons",
+            "id": 1470919891
+        },
+        {
+            "name": "Nancy Mulligan",
+            "artist": "Pop Tracks",
+            "id": 522300066
+        },
+        {
+            "name": "Rockabye",
+            "artist": "Clean Bandit",
+            "id": 1329756523
+        },
+        {
+            "name": "I'm Yours",
+            "artist": "Jason Mraz",
+            "id": 18611643
+        },
+        {
+            "name": "All of Me",
+            "artist": "John Legend",
+            "id": 27556211
+        },
+        {
+            "name": "Dark Horse",
+            "artist": "Katy Perry",
+            "id": 1490024638
+        },
+        {
+            "name": "Thrift Shop",
+            "artist": "Thrift Shop",
+            "id": 571980967
+        },
+        {
+            "name": "I Gotta Feeling",
+            "artist": "Black Eyed Peas",
+            "id": 16808840
+        },
+        {
+            "name": "Me and My Broken Heart",
+            "artist": "Push Baby",
+            "id": 28915526
+        },
+        {
+            "name": "Just the Way You Are",
+            "artist": "Bruno Mars",
+            "id": 5093684
+        },
+        {
+            "name": "Party Rock Anthem",
+            "artist": "LMFAO",
+            "id": 16648232
+        },
+        {
+            "name": "Poker Face",
+            "artist": "Lady Gaga",
+            "id": 21038748
+        },
+        {
+            "name": "Move Your Body",
+            "artist": "Sia",
+            "id": 401382522
+        },
+        {
+            "name": "Lights",
+            "artist": "Ellie Goulding",
+            "id": 17654232
+        },
+        {
+            "name": "Dusk Till Dawn (Radio Edit)",
+            "artist": "ZAYN",
+            "id": 504264023
+        },
+        {
+            "name": "Daydreamer (Radio Edit)",
+            "artist": "KarlK",
+            "id": 1295194487
+        },
+        {
+            "name": "The Spectre",
+            "artist": "Alan Walker",
+            "id": 1398324033
+        },
+        {
+            "name": "Leyla",
+            "artist": "Mesto",
+            "id": 1435296659
+        },
+        {
+            "name": "Wake Me Up",
+            "artist": "Avicii",
+            "id": 1371323087
+        },
+        {
+            "name": "Whatever It Takes",
+            "artist": "Imagine Dragons",
+            "id": 1496777387
+        },
+        {
+            "name": "King",
+            "artist": "Zayde Wølf",
+            "id": 1348448196
+        },
+        {
+            "name": "Sold Out",
+            "artist": "Hawk Nelson",
+            "id": 31010566
+        },
+        {
+            "name": "Born Ready",
+            "artist": "Zayde Wølf",
+            "id": 1348447804
+        },
+        {
+            "name": "Don't Let Me Down",
+            "artist": "The Chainsmokers",
+            "id": 402070862
+        },
+        {
+            "name": "Galway Girl",
+            "artist": "MADILYN",
+            "id": 472361236
+        },
+        {
+            "name": "A Sky Full of Stars",
+            "artist": "Coldplay",
+            "id": 1440570900
+        },
+        {
+            "name": "Roar",
+            "artist": "Katy Perry",
+            "id": 1492256010
+        },
+        {
+            "name": "Stay with Me",
+            "artist": "Sam Smith",
+            "id": 31591984
+        },
+        {
+            "name": "Break Free",
+            "artist": "Ariana Grande feat. Zedd",
+            "id": 31870555
+        },
+        {
+            "name": "All About That Bass",
+            "artist": "Meghan Trainor",
+            "id": 28756834
+        },
+        {
+            "name": "Summer",
+            "artist": "Calvin Harris",
+            "id": 28306554
+        },
+        {
+            "name": "I Will Never Let You Down",
+            "artist": "Rita Ora",
+            "id": 28858364
+        },
+        {
+            "name": "Uptown Funk",
+            "artist": "Mark Ronson",
+            "id": 29722263
+        },
+        {
+            "name": "Bartender",
+            "artist": "Lady A",
+            "id": 28546538
+        },
+        {
+            "name": "Love Runs Out",
+            "artist": "OneRepublic",
+            "id": 28406990
+        },
+        {
+            "name": "Don't",
+            "artist": "Ed Sheeran",
+            "id": 32000331
+        },
+        {
+            "name": "Rude",
+            "artist": "MAGIC!",
+            "id": 28524618
+        },
+        {
+            "name": "Boom Clap",
+            "artist": "Charli XCX",
+            "id": 1440571286
+        },
+        {
+            "name": "Fire",
+            "artist": "Gavin DeGraw",
+            "id": 28923579
+        },
+        {
+            "name": "Marry You",
+            "artist": "Bruno Mars",
+            "id": 26547570
+        },
+        {
+            "name": "If I Were a Boy",
+            "artist": "Beyoncé",
+            "id": 2188283
+        },
+        {
+            "name": "Wolf Bite",
+            "artist": "Owl City",
+            "id": 28727865
+        },
+        {
+            "name": "Payphone",
+            "artist": "Maroon 5",
+            "id": 1496777219
+        },
+        {
+            "name": "Rather Be",
+            "artist": "Clean Bandit",
+            "id": 28825847
+        },
+        {
+            "name": "We Are One",
+            "artist": "Kelly Sweet",
+            "id": 26242930
+        },
+        {
+            "name": "Treasure",
+            "artist": "Bruno Mars",
+            "id": 27962678
+        },
+        {
+            "name": "Happy",
+            "artist": "Pharrell Williams",
+            "id": 26548584
+        },
+        {
+            "name": "Wait On Me",
+            "artist": "Push Baby",
+            "id": 1497957321
+        },
+        {
+            "name": "Sugar",
+            "artist": "Maroon 5",
+            "id": 29019227
+        },
+        {
+            "name": "We Are Young (feat. Janelle Monáe)",
+            "artist": "Fun.",
+            "id": 17910220
+        },
+        {
+            "name": "What Makes You Beautiful",
+            "artist": "One Direction",
+            "id": 17753288
+        },
+        {
+            "name": "Wide Awake",
+            "artist": "Katy Perry",
+            "id": 25704001
+        },
+        {
+            "name": "Live While We're Young",
+            "artist": "One Direction",
+            "id": 25882976
+        },
+        {
+            "name": "Wrecking Ball",
+            "artist": "Miley Cyrus",
+            "id": 27697195
+        },
+        {
+            "name": "Here With You",
+            "artist": "Asher Monroe",
+            "id": 27583305
+        },
+        {
+            "name": "One Thing",
+            "artist": "One Direction",
+            "id": 17753277
+        },
+        {
+            "name": "Right Now",
+            "artist": "Rihanna",
+            "id": 26362202
+        },
+        {
+            "name": "We Found Love",
+            "artist": "Rihanna",
+            "id": 21562960
+        },
+        {
+            "name": "One More Night",
+            "artist": "Maroon 5",
+            "id": 21253806
+        },
+        {
+            "name": "Whistle",
+            "artist": "Flo Rida",
+            "id": 28329963
+        },
+        {
+            "name": "Louder",
+            "artist": "Charice",
+            "id": 2321528
+        },
+        {
+            "name": "Booty Music",
+            "artist": "Deep Side",
+            "id": 2526625
+        },
+        {
+            "name": "Love You Like A Love Song",
+            "artist": "Selena Gomez & The Scene",
+            "id": 19192372
+        },
+        {
+            "name": "Glad You Came",
+            "artist": "The Wanted",
+            "id": 4386051
+        },
+        {
+            "name": "DJ Got Us Fallin' In Love",
+            "artist": "Usher",
+            "id": 24300493
+        },
+        {
+            "name": "You Make Me Feel... (feat. Sabi)",
+            "artist": "Cobra Starship",
+            "id": 1358884781
+        },
+        {
+            "name": "Starships",
+            "artist": "Nicki Minaj",
+            "id": 17559973
+        },
+        {
+            "name": "I Just Wanna Run",
+            "artist": "The Downtown Fiction",
+            "id": 5105272
+        },
+        {
+            "name": "Take It Off",
+            "artist": "Kesha",
+            "id": 2918956
+        },
+        {
+            "name": "TiK ToK",
+            "artist": "Kesha",
+            "id": 2918954
+        },
+        {
+            "name": "Blow Me (One Last Kiss)",
+            "artist": "P!nk",
+            "id": 25704007
+        },
+        {
+            "name": "Outside",
+            "artist": "Calvin Harris",
+            "id": 29561077
+        },
+        {
+            "name": "Call Me Maybe",
+            "artist": "Carly Rae Jepson",
+            "id": 28635835
+        },
+        {
+            "name": "Where Have You Been",
+            "artist": "Rihanna",
+            "id": 21562959
+        },
+        {
+            "name": "Good Time",
+            "artist": "Owl City",
+            "id": 17706535
+        },
+        {
+            "name": "Counting Stars",
+            "artist": "OneRepublic",
+            "id": 28476557
+        },
+        {
+            "name": "Somebody That I Used To Know",
+            "artist": "Gotye",
+            "id": 17939827
+        },
+        {
+            "name": "International Love",
+            "artist": "Pitbull",
+            "id": 1822378
+        },
+        {
+            "name": "Rolling in the Deep",
+            "artist": "Adele",
+            "id": 16435051
+        },
+        {
+            "name": "Titanium",
+            "artist": "David Guetta",
+            "id": 3406918
+        },
+        {
+            "name": "Rain Over Me",
+            "artist": "Pitbull",
+            "id": 21407181
+        },
+        {
+            "name": "Give Your Heart a Break",
+            "artist": "Demi Lovato",
+            "id": 1476419469
+        }
+    ]
+}

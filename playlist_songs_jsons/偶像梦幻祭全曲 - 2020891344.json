@@ -1,0 +1,932 @@
+{
+    "playlist_info": {
+        "name": "偶像梦幻祭全曲",
+        "trackcount": 184,
+        "playcount": 49399,
+        "creator": "天城一彩",
+        "createDate": "2017-12-19",
+        "heat": 24.0
+    },
+    "songs": [
+        {
+            "name": "Ghostic Treat House",
+            "artist": "fine",
+            "id": 2035140660
+        },
+        {
+            "name": "Helter-Spider",
+            "artist": "Crazy:B",
+            "id": 2035134537
+        },
+        {
+            "name": "ハレノヒSugar Wave",
+            "artist": "Ra*bits",
+            "id": 2040015748
+        },
+        {
+            "name": "Hysteric Humanoid",
+            "artist": "ALKALOID",
+            "id": 1930816340
+        },
+        {
+            "name": "Believe 4 leaves",
+            "artist": "ALKALOID",
+            "id": 1930816341
+        },
+        {
+            "name": "VERMILION",
+            "artist": "ALKALOID",
+            "id": 2004989515
+        },
+        {
+            "name": "Noisy:Beep",
+            "artist": "Crazy:B",
+            "id": 1862829350
+        },
+        {
+            "name": "指先のアリアドネ",
+            "artist": "Crazy:B",
+            "id": 1862828404
+        },
+        {
+            "name": "LEMON SQUASH CHEERS!",
+            "artist": "Crazy:B",
+            "id": 1926938189
+        },
+        {
+            "name": "FUSIONIC STARS!! - Crazy:B ver. -",
+            "artist": "Crazy:B",
+            "id": 1926938191
+        },
+        {
+            "name": "Finder Girl",
+            "artist": "Trickstar",
+            "id": 1926938025
+        },
+        {
+            "name": "Unstoppable Love!",
+            "artist": "Trickstar",
+            "id": 1926935129
+        },
+        {
+            "name": "Feathers of Ark",
+            "artist": "fine",
+            "id": 1922956695
+        },
+        {
+            "name": "Deep Eclipse",
+            "artist": "Eden",
+            "id": 1922956696
+        },
+        {
+            "name": "FORBIDDEN RAIN",
+            "artist": "UNDEAD",
+            "id": 1913247069
+        },
+        {
+            "name": "青春Emergency",
+            "artist": "流星隊",
+            "id": 1914308023
+        },
+        {
+            "name": "夜空、然りとて鵲は",
+            "artist": "紅月",
+            "id": 1913241360
+        },
+        {
+            "name": "月光奇譚",
+            "artist": "紅月",
+            "id": 1913241356
+        },
+        {
+            "name": "Crazy Roulette",
+            "artist": "Crazy:B",
+            "id": 1817472449
+        },
+        {
+            "name": "Be The Party Bee!",
+            "artist": "Crazy:B",
+            "id": 1817470511
+        },
+        {
+            "name": "RISKY VENUS",
+            "artist": "Crazy:B",
+            "id": 1817472450
+        },
+        {
+            "name": "Kiss of Life",
+            "artist": "ALKALOID",
+            "id": 1817470298
+        },
+        {
+            "name": "翼モラトリアム",
+            "artist": "ALKALOID",
+            "id": 1817470299
+        },
+        {
+            "name": "You're Speculation",
+            "artist": "ALKALOID",
+            "id": 1817472246
+        },
+        {
+            "name": "Living on the edge",
+            "artist": "ALKALOID",
+            "id": 1817376013
+        },
+        {
+            "name": "Distorted Heart",
+            "artist": "ALKALOID",
+            "id": 1817371291
+        },
+        {
+            "name": "BRAND NEW STARS!! (ALKALOID ver.)",
+            "artist": "ALKALOID",
+            "id": 1817371293
+        },
+        {
+            "name": "Honeycomb Summer",
+            "artist": "Crazy:B",
+            "id": 1808008347
+        },
+        {
+            "name": "PARANOIA STREET",
+            "artist": "Crazy:B",
+            "id": 1808007448
+        },
+        {
+            "name": "BRAND NEW STARS!! (Crazy:B ver.)",
+            "artist": "Crazy:B",
+            "id": 1808007450
+        },
+        {
+            "name": "Love it Love it",
+            "artist": "Ra*bits",
+            "id": 1490306306
+        },
+        {
+            "name": "楽園追放 -Faith Conquest-",
+            "artist": "Eden",
+            "id": 1475881367
+        },
+        {
+            "name": "BRAND NEW STARS!! (fine ver.)",
+            "artist": "fine",
+            "id": 1470409549
+        },
+        {
+            "name": "The Tempest Night",
+            "artist": "fine",
+            "id": 1470407940
+        },
+        {
+            "name": "BRAND NEW STARS!!",
+            "artist": "Trickstar",
+            "id": 1456269510
+        },
+        {
+            "name": "Promise Swords",
+            "artist": "Knights",
+            "id": 1429975934
+        },
+        {
+            "name": "Awakening Myth",
+            "artist": "Eden",
+            "id": 1429981183
+        },
+        {
+            "name": "THE GENESIS",
+            "artist": "Eden",
+            "id": 1430268145
+        },
+        {
+            "name": "Dance in the Apocalypse",
+            "artist": "Eden",
+            "id": 1430264399
+        },
+        {
+            "name": "Ruler's Truth",
+            "artist": "諏訪部順一",
+            "id": 1430264462
+        },
+        {
+            "name": "The Beast of the End",
+            "artist": "諏訪部順一",
+            "id": 1430268146
+        },
+        {
+            "name": "Trap For You",
+            "artist": "花江夏樹",
+            "id": 1430268055
+        },
+        {
+            "name": "Sunlit Smile!",
+            "artist": "花江夏樹",
+            "id": 1430268054
+        },
+        {
+            "name": "生まれ堕ちたこの世界で",
+            "artist": "諏訪部順一",
+            "id": 1430264463
+        },
+        {
+            "name": "Fantastic Days",
+            "artist": "花江夏樹",
+            "id": 1430264464
+        },
+        {
+            "name": "Poison Strategy",
+            "artist": "逢坂良太",
+            "id": 1430268053
+        },
+        {
+            "name": "Back-alley Monologue",
+            "artist": "内田雄馬",
+            "id": 1430264398
+        },
+        {
+            "name": "終わらないシンフォニア",
+            "artist": "fine",
+            "id": 1375253838
+        },
+        {
+            "name": "羽ばたきのフォルティシモ",
+            "artist": "fine",
+            "id": 1375254967
+        },
+        {
+            "name": "Neo Sanctuary",
+            "artist": "fine",
+            "id": 1375253805
+        },
+        {
+            "name": "RAINBOW CIRCUS",
+            "artist": "fine",
+            "id": 1375254949
+        },
+        {
+            "name": "Tryst of Stars",
+            "artist": "fine",
+            "id": 1375254948
+        },
+        {
+            "name": "Holy Angel's Carol",
+            "artist": "fine",
+            "id": 1375253806
+        },
+        {
+            "name": "Miracle Dream Traveler",
+            "artist": "fine",
+            "id": 1375253802
+        },
+        {
+            "name": "Genuine Revelation (BONUS TRACK)",
+            "artist": "fine",
+            "id": 1375253808
+        },
+        {
+            "name": "SHINING STAR",
+            "artist": "緑川光",
+            "id": 1375253801
+        },
+        {
+            "name": "Amazing☆World",
+            "artist": "江口拓也",
+            "id": 1375253800
+        },
+        {
+            "name": "Little Little Prince Star",
+            "artist": "村瀬歩",
+            "id": 1375253803
+        },
+        {
+            "name": "ずっと そばで…",
+            "artist": "橋本晃太朗",
+            "id": 1375254956
+        },
+        {
+            "name": "Rebellion Star (ALBUM Mix)",
+            "artist": "Trickstar",
+            "id": 1365038085
+        },
+        {
+            "name": " HEART→BEATER!!!! (ALBUM Mix)",
+            "artist": "Trickstar",
+            "id": 1365036271
+        },
+        {
+            "name": " 虹色のSeasons (ALBUM Mix)",
+            "artist": "Trickstar",
+            "id": 1365038089
+        },
+        {
+            "name": "CHERRY HAPPY STREAM (ALBUM Mix)",
+            "artist": "Trickstar",
+            "id": 1365038083
+        },
+        {
+            "name": "Welcome to the Trickstar Night☆",
+            "artist": "Trickstar",
+            "id": 1365038086
+        },
+        {
+            "name": "DIAMOND SUMMER",
+            "artist": "Trickstar",
+            "id": 1365036268
+        },
+        {
+            "name": "BREAKTHROUGH!",
+            "artist": "Trickstar",
+            "id": 1365038084
+        },
+        {
+            "name": "ONLY YOUR STARS! (Trickstar Ver.)",
+            "artist": "Trickstar",
+            "id": 1365036269
+        },
+        {
+            "name": "Infinite Star",
+            "artist": "Trickstar",
+            "id": 1365036273
+        },
+        {
+            "name": "STARSEEK WAYFARER",
+            "artist": "前野智昭",
+            "id": 1365036272
+        },
+        {
+            "name": "My Starry Point",
+            "artist": "柿原徹也",
+            "id": 1365038088
+        },
+        {
+            "name": "Walking On My Sunny Road",
+            "artist": "森久保祥太郎",
+            "id": 1365036270
+        },
+        {
+            "name": "MAGICIAN'S PLAY!",
+            "artist": "梶裕貴",
+            "id": 1365038090
+        },
+        {
+            "name": "Neo Sanctuary",
+            "artist": "fine",
+            "id": 498880823
+        },
+        {
+            "name": "羽ばたきのフォルティシモ",
+            "artist": "fine",
+            "id": 498880822
+        },
+        {
+            "name": "RAINBOW CIRCUS",
+            "artist": "fine",
+            "id": 1309394778
+        },
+        {
+            "name": "終わらないシンフォニア",
+            "artist": "fine",
+            "id": 1309394777
+        },
+        {
+            "name": "GROWING STARRY DAYS",
+            "artist": "流星隊",
+            "id": 543798910
+        },
+        {
+            "name": "ALWAYS HERO!",
+            "artist": "帆世雄一",
+            "id": 543798911
+        },
+        {
+            "name": "IRON HEART TIGER!",
+            "artist": "中島ヨシキ",
+            "id": 543798913
+        },
+        {
+            "name": "真昼の残像",
+            "artist": "渡辺拓海",
+            "id": 543798914
+        },
+        {
+            "name": "疾風迅雷 忍び道",
+            "artist": "新田杏樹",
+            "id": 543798915
+        },
+        {
+            "name": "夢ノ咲流星隊歌",
+            "artist": "流星隊",
+            "id": 543798904
+        },
+        {
+            "name": "天下無敵☆メテオレンジャー!",
+            "artist": "流星隊",
+            "id": 543798905
+        },
+        {
+            "name": "五色のShooting☆Star!!!!!",
+            "artist": "流星隊",
+            "id": 543798906
+        },
+        {
+            "name": "SUPER NOVA REVOLU5TAR",
+            "artist": "流星隊",
+            "id": 543798907
+        },
+        {
+            "name": "流星花火",
+            "artist": "流星隊",
+            "id": 543798908
+        },
+        {
+            "name": "アンリミテッド☆パワー!!!!!",
+            "artist": "流星隊",
+            "id": 543798909
+        },
+        {
+            "name": "まりんぶるう・らんでぶう",
+            "artist": "西山宏太朗",
+            "id": 543798912
+        },
+        {
+            "name": "幻日理論-Parhelion Logic-",
+            "artist": "緑川光",
+            "id": 28242864
+        },
+        {
+            "name": "Under the moon",
+            "artist": "細谷佳正",
+            "id": 41658028
+        },
+        {
+            "name": "Call My Name",
+            "artist": "柿原徹也",
+            "id": 29049245
+        },
+        {
+            "name": "Blooming World",
+            "artist": "鳥海浩輔",
+            "id": 1332473797
+        },
+        {
+            "name": "Festive!",
+            "artist": "鳥海浩輔",
+            "id": 1332474654
+        },
+        {
+            "name": "君印 Be Ambitious!!",
+            "artist": "鳥海浩輔",
+            "id": 1332474652
+        },
+        {
+            "name": "辻風に吹かれて",
+            "artist": "神永圭佑",
+            "id": 1332474651
+        },
+        {
+            "name": "RevolTrad~維新伝心~",
+            "artist": "神尾晋一郎",
+            "id": 1332474653
+        },
+        {
+            "name": "See You Again",
+            "artist": "鳥海浩輔",
+            "id": 1332474655
+        },
+        {
+            "name": "微熱カルナバル",
+            "artist": "樋柴智康",
+            "id": 494862171
+        },
+        {
+            "name": "Sentimental Liars",
+            "artist": "樋柴智康",
+            "id": 494858251
+        },
+        {
+            "name": "BUTTERFLY EFFECT",
+            "artist": "駒田航",
+            "id": 494858252
+        },
+        {
+            "name": "HEART→BEATER!!!!",
+            "artist": "Trickstar",
+            "id": 498555926
+        },
+        {
+            "name": "オリジナルショートドラマ",
+            "artist": "Trickstar",
+            "id": 41650409
+        },
+        {
+            "name": "ONLY YOUR STARS!",
+            "artist": "森久保祥太郎",
+            "id": 428375662
+        },
+        {
+            "name": "虹色のSeasons",
+            "artist": "Trickstar",
+            "id": 498577842
+        },
+        {
+            "name": "CHERRY HAPPY STREAM",
+            "artist": "Trickstar",
+            "id": 41650408
+        },
+        {
+            "name": "Rebellion Star",
+            "artist": "Trickstar",
+            "id": 41650407
+        },
+        {
+            "name": "Joyful×Box*",
+            "artist": "Ra*bits",
+            "id": 569213137
+        },
+        {
+            "name": "野うさぎマーチ♪",
+            "artist": "Ra*bits",
+            "id": 569212131
+        },
+        {
+            "name": "Hoppin' Season♪",
+            "artist": "Ra*bits",
+            "id": 569214149
+        },
+        {
+            "name": "Love Ra*bits Party!!",
+            "artist": "Ra*bits",
+            "id": 569214150
+        },
+        {
+            "name": "Milky Starry Charm",
+            "artist": "Ra*bits",
+            "id": 569200138
+        },
+        {
+            "name": "メルティ♡キッチン",
+            "artist": "Ra*bits",
+            "id": 569214151
+        },
+        {
+            "name": "Dream Collection",
+            "artist": "Ra*bits",
+            "id": 569214152
+        },
+        {
+            "name": "に~ちゃん応援団☆",
+            "artist": "米内佑希",
+            "id": 569213138
+        },
+        {
+            "name": "スタート♪ダッシュダッシュ!",
+            "artist": "池田純矢",
+            "id": 569213139
+        },
+        {
+            "name": "Higher↑ Higher↑",
+            "artist": "比留間俊哉",
+            "id": 569200139
+        },
+        {
+            "name": "Happy Coming*ティータイム",
+            "artist": "高坂知也",
+            "id": 569200140
+        },
+        {
+            "name": "百花繚乱、紅月夜",
+            "artist": "紅月",
+            "id": 574924472
+        },
+        {
+            "name": "花燈の恋文",
+            "artist": "紅月",
+            "id": 574924473
+        },
+        {
+            "name": "斬-決意ノ刃-",
+            "artist": "紅月",
+            "id": 574924474
+        },
+        {
+            "name": "薄紅色の約束",
+            "artist": "紅月",
+            "id": 574924475
+        },
+        {
+            "name": "想ひ出綴り",
+            "artist": "紅月",
+            "id": 574924476
+        },
+        {
+            "name": "祭夜絵巻",
+            "artist": "紅月",
+            "id": 574924477
+        },
+        {
+            "name": "剣戟の舞",
+            "artist": "紅月",
+            "id": 574924478
+        },
+        {
+            "name": "茜路の邂逅 (蓮巳敬人 Solo)",
+            "artist": "梅原裕一郎",
+            "id": 574924479
+        },
+        {
+            "name": "Crimson Soul (鬼龍紅郎 Solo)",
+            "artist": "神尾晋一郎",
+            "id": 574924480
+        },
+        {
+            "name": "謳歌絢爛青春華 (神崎颯馬 Solo)",
+            "artist": "神永圭佑",
+            "id": 574924481
+        },
+        {
+            "name": "THE GENESIS",
+            "artist": "Eden",
+            "id": 541492310
+        },
+        {
+            "name": "Ruler's Truth",
+            "artist": "諏訪部順一",
+            "id": 541511324
+        },
+        {
+            "name": "Trap For You",
+            "artist": "花江夏樹",
+            "id": 541492311
+        },
+        {
+            "name": "Melody in the Dark",
+            "artist": "UNDEAD",
+            "id": 1305703814
+        },
+        {
+            "name": "Gate of the Abyss",
+            "artist": "UNDEAD",
+            "id": 1305703815
+        },
+        {
+            "name": "Darkness 4",
+            "artist": "UNDEAD",
+            "id": 1305703816
+        },
+        {
+            "name": "Break the Prison",
+            "artist": "UNDEAD",
+            "id": 1305703817
+        },
+        {
+            "name": "ハニーミルクはお好みで",
+            "artist": "UNDEAD",
+            "id": 1305703818
+        },
+        {
+            "name": "DESTRUCTION ROAD",
+            "artist": "UNDEAD",
+            "id": 1305703819
+        },
+        {
+            "name": "Valentine Eve's Nightmare",
+            "artist": "UNDEAD",
+            "id": 1305703820
+        },
+        {
+            "name": "Death Game Holic (BONUS TRACK)",
+            "artist": "増田俊樹",
+            "id": 1305703821
+        },
+        {
+            "name": "Bloody Moon Vampire",
+            "artist": "増田俊樹",
+            "id": 1305703822
+        },
+        {
+            "name": "Feather Heartache",
+            "artist": "細貝圭",
+            "id": 1305703823
+        },
+        {
+            "name": "RIOT WOLF",
+            "artist": "小野友樹",
+            "id": 1305703824
+        },
+        {
+            "name": "Saql Faith",
+            "artist": "羽多野渉",
+            "id": 1305703825
+        },
+        {
+            "name": "Voice of Sword",
+            "artist": "Knights",
+            "id": 569870524
+        },
+        {
+            "name": "Checkmate Knights",
+            "artist": "Knights",
+            "id": 569870525
+        },
+        {
+            "name": "Silent Oath",
+            "artist": "Knights",
+            "id": 569870526
+        },
+        {
+            "name": "Fight for Judge",
+            "artist": "Knights",
+            "id": 569870527
+        },
+        {
+            "name": "Crush of Judgment (ナイトキラーズ・BONUS TRACK)",
+            "artist": "Knights",
+            "id": 569870528
+        },
+        {
+            "name": "Article of Faith",
+            "artist": "Knights",
+            "id": 569870529
+        },
+        {
+            "name": "Knights the Phantom Thief",
+            "artist": "Knights",
+            "id": 569870530
+        },
+        {
+            "name": "Grateful allegiance",
+            "artist": "Knights",
+            "id": 569870531
+        },
+        {
+            "name": "Birthday of Music! (月永レオ Solo)",
+            "artist": "浅沼晋太郎",
+            "id": 569870532
+        },
+        {
+            "name": "Ironic Blue (瀬名 泉 Solo)",
+            "artist": "伊藤マサミ",
+            "id": 569870533
+        },
+        {
+            "name": "真夜中のノクターン (朔間凛月 Solo)",
+            "artist": "山下大輝",
+            "id": 569870534
+        },
+        {
+            "name": "JEWEL STONE (鳴上 嵐 Solo)",
+            "artist": "北村諒",
+            "id": 569870535
+        },
+        {
+            "name": "With My Honesty (朱桜 司 Solo)",
+            "artist": "土田玲央",
+            "id": 569870536
+        },
+        {
+            "name": "2wink Introduction",
+            "artist": "2wink",
+            "id": 1350149117
+        },
+        {
+            "name": "シュガー・スパイス方程式",
+            "artist": "2wink",
+            "id": 1350147230
+        },
+        {
+            "name": "ハートプリズム・シンメトリー",
+            "artist": "2wink",
+            "id": 1350149118
+        },
+        {
+            "name": "歓迎☆トゥ・ウィンク雑伎団",
+            "artist": "2wink",
+            "id": 1350147232
+        },
+        {
+            "name": "TRICK with TREAT!!",
+            "artist": "2wink",
+            "id": 1350147233
+        },
+        {
+            "name": "WONDER WONDER TOY LAND",
+            "artist": "2wink",
+            "id": 1350147231
+        },
+        {
+            "name": "Play “Tag”",
+            "artist": "2wink",
+            "id": 1350149116
+        },
+        {
+            "name": "2winkle Star Beat☆",
+            "artist": "2wink",
+            "id": 1350149120
+        },
+        {
+            "name": "SwEeT MeLlOw MeLoDy",
+            "artist": "斉藤壮馬",
+            "id": 1350149119
+        },
+        {
+            "name": "SPICY BREEZE",
+            "artist": "斉藤壮馬",
+            "id": 1350149114
+        },
+        {
+            "name": "魅惑劇",
+            "artist": "Valkyrie",
+            "id": 1329640479
+        },
+        {
+            "name": "礼賛歌",
+            "artist": "Valkyrie",
+            "id": 1329641482
+        },
+        {
+            "name": "Mémoire Antique",
+            "artist": "Valkyrie",
+            "id": 1329640481
+        },
+        {
+            "name": "今宵月の館にて",
+            "artist": "Valkyrie",
+            "id": 1329640485
+        },
+        {
+            "name": "Last Lament",
+            "artist": "Valkyrie",
+            "id": 1329640480
+        },
+        {
+            "name": "聖少年遊戯 (BONUS TRACK)",
+            "artist": "Valkyrie",
+            "id": 1329640478
+        },
+        {
+            "name": "砂上ノ楼閣 (BONUS TRACK)",
+            "artist": "Valkyrie",
+            "id": 1329640500
+        },
+        {
+            "name": "Cloth Waltz",
+            "artist": "高橋広樹",
+            "id": 1329641497
+        },
+        {
+            "name": "琥珀ト瑠璃ノ輪舞曲",
+            "artist": "大須賀純",
+            "id": 1329641486
+        },
+        {
+            "name": "エメラルドプラネット",
+            "artist": "Switch",
+            "id": 1332474999
+        },
+        {
+            "name": "Temptation Magic",
+            "artist": "Switch",
+            "id": 1332475000
+        },
+        {
+            "name": "Knockin' Fantasy",
+            "artist": "Switch",
+            "id": 1332481130
+        },
+        {
+            "name": "イースター・カーニバル",
+            "artist": "Switch",
+            "id": 1332474998
+        },
+        {
+            "name": "Galaxy Destiny",
+            "artist": "Switch",
+            "id": 1332481129
+        },
+        {
+            "name": "I \"Witch\" You A Happy Halloween!",
+            "artist": "Switch",
+            "id": 1332481132
+        },
+        {
+            "name": "Secret Gravity",
+            "artist": "野島健児",
+            "id": 1332481134
+        },
+        {
+            "name": "ブルーバード・ハミング♪",
+            "artist": "石川界人",
+            "id": 1332481131
+        },
+        {
+            "name": "VIVID ROLE-PLAYING",
+            "artist": "山本和臣",
+            "id": 1332474996
+        },
+        {
+            "name": "Eccentric Party Night!! (BONUS TRACK)",
+            "artist": "江口拓也",
+            "id": 1332481133
+        }
+    ]
+}

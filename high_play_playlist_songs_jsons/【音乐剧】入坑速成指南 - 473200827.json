@@ -1,0 +1,372 @@
+{
+    "playlist_info": {
+        "name": "【音乐剧】入坑速成指南",
+        "trackcount": 71,
+        "playcount": 687639,
+        "creator": "跳舞的彭基",
+        "createDate": "2016-09-27",
+        "heat": 278.0
+    },
+    "songs": [
+        {
+            "name": "Once Upon a December (Deana Carter Version)",
+            "artist": "Liz Callaway",
+            "id": 1281267
+        },
+        {
+            "name": "Belle (long Version)",
+            "artist": "Smash!!",
+            "id": 4316012
+        },
+        {
+            "name": "Trop beau pour être faux",
+            "artist": "La Troupe originale du spectacle Timéo",
+            "id": 427470870
+        },
+        {
+            "name": "L'envie d'aimer(Final)(Moise et la troup des dix commandements)",
+            "artist": "Various Artists",
+            "id": 5053448
+        },
+        {
+            "name": "Si L'amour Existe",
+            "artist": "M. Pokora",
+            "id": 26154347
+        },
+        {
+            "name": "L'assasymphonie",
+            "artist": "Florent Mothe",
+            "id": 5041155
+        },
+        {
+            "name": "Place je passe",
+            "artist": "Mikelangelo Loconte",
+            "id": 5041151
+        },
+        {
+            "name": "Vivre à en crever",
+            "artist": "Florent Mothe",
+            "id": 5041159
+        },
+        {
+            "name": "Le trublion",
+            "artist": "Mikelangelo Loconte",
+            "id": 5041141
+        },
+        {
+            "name": "A nos voeux sacrés",
+            "artist": "Zaho",
+            "id": 410602655
+        },
+        {
+            "name": "Advienne que pourra",
+            "artist": "Fabien Incardona",
+            "id": 410602638
+        },
+        {
+            "name": "Nos corps à la dérive",
+            "artist": "Camille Lou",
+            "id": 410602650
+        },
+        {
+            "name": "Le Monde est parfait",
+            "artist": "Charlie Boisseau",
+            "id": 410602657
+        },
+        {
+            "name": "La gloire à mes genoux",
+            "artist": "Côme",
+            "id": 428649319
+        },
+        {
+            "name": "Les maudits mots d'amour",
+            "artist": "Julie Fournier",
+            "id": 428649320
+        },
+        {
+            "name": "Kalte Sterne (Konig Der Zukunft)",
+            "artist": "Jan Ammann",
+            "id": 441116760
+        },
+        {
+            "name": "Mein Ritter",
+            "artist": "Suzan Zeichner",
+            "id": 441116755
+        },
+        {
+            "name": "One Day More",
+            "artist": "Claude-Michel Schönberg",
+            "id": 33211782
+        },
+        {
+            "name": "Empty Chairs At Empty Tables",
+            "artist": "Ramin Karimloo",
+            "id": 30432157
+        },
+        {
+            "name": "Ich hab geträumt von Manderley",
+            "artist": "Various Artists",
+            "id": 5046949
+        },
+        {
+            "name": "Rebecca",
+            "artist": "Various Artists",
+            "id": 5046962
+        },
+        {
+            "name": "Gold Von Den Sternen",
+            "artist": "Various Artists",
+            "id": 5054658
+        },
+        {
+            "name": "Wie Kann Es Möglich Sein?",
+            "artist": "Original Cast Wien",
+            "id": 453268698
+        },
+        {
+            "name": "Gott Ist Tot",
+            "artist": "Various Artists",
+            "id": 5056553
+        },
+        {
+            "name": "Totale Finsternis",
+            "artist": "Various Artists",
+            "id": 5056564
+        },
+        {
+            "name": "Die unstillbare Gier (aus \"Tanz der Vampire\")",
+            "artist": "Thomas Borchert",
+            "id": 35630254
+        },
+        {
+            "name": "Wenn Liebe in Dir ist",
+            "artist": "Various Artists",
+            "id": 5056571
+        },
+        {
+            "name": "Einladung Zum Ball",
+            "artist": "Various Artists",
+            "id": 5056557
+        },
+        {
+            "name": "Gethsemane",
+            "artist": "Steve Balsamo",
+            "id": 1994588
+        },
+        {
+            "name": "Pilate's dream",
+            "artist": "David Burt",
+            "id": 1994567
+        },
+        {
+            "name": "Heaven on their minds",
+            "artist": "Zubin Varla",
+            "id": 1994546
+        },
+        {
+            "name": "The last supper",
+            "artist": "Steve Balsamo",
+            "id": 1994586
+        },
+        {
+            "name": "Un jour (extrait du spectacle « Les 3 Mousquetaires »)",
+            "artist": "Damien Sargue",
+            "id": 432457346
+        },
+        {
+            "name": "Un jour",
+            "artist": "Gérard Presgurvic",
+            "id": 1415573
+        },
+        {
+            "name": "Liebe (aus \"Romeo & Julia\")",
+            "artist": "Marjan Shaki",
+            "id": 35630255
+        },
+        {
+            "name": "Le balcon",
+            "artist": "Gérard Presgurvic",
+            "id": 1415613
+        },
+        {
+            "name": "J'ai peur",
+            "artist": "Gérard Presgurvic",
+            "id": 1415591
+        },
+        {
+            "name": "Je fais de toi mon essentiel (avec Anne-Laure Girbal)",
+            "artist": "Emmanuel Moire",
+            "id": 5048096
+        },
+        {
+            "name": "Ça marche",
+            "artist": "Christophe Maé",
+            "id": 5048091
+        },
+        {
+            "name": "Etre à la hauteur",
+            "artist": "Emmanuel Moire",
+            "id": 5048090
+        },
+        {
+            "name": "Où ça mène quand on s'aime",
+            "artist": "Anne-Laure Girbal",
+            "id": 5048092
+        },
+        {
+            "name": "Pour arriver à moi",
+            "artist": "Emmanuel Moire",
+            "id": 5048100
+        },
+        {
+            "name": "S'aimer est interdit",
+            "artist": "Anne-Laure Girbal",
+            "id": 5048097
+        },
+        {
+            "name": "Live for the One I Love",
+            "artist": "Céline Dion",
+            "id": 1921203
+        },
+        {
+            "name": "Ma maison c'est ta maison",
+            "artist": "Various Artists",
+            "id": 28457093
+        },
+        {
+            "name": "Le Temps Des Cathedrales",
+            "artist": "Gringoire (Bruno Pelletier)",
+            "id": 5055024
+        },
+        {
+            "name": "Schlafzimmer / Die Fäden in der Hand",
+            "artist": "Original Cast Vienna",
+            "id": 5042649
+        },
+        {
+            "name": "Du bleibst bei mir!",
+            "artist": "Original Cast Vienna",
+            "id": 5042650
+        },
+        {
+            "name": "Du bist meine Welt",
+            "artist": "Various Artists",
+            "id": 5042172
+        },
+        {
+            "name": "Nosferatu",
+            "artist": "Uwe Kröger",
+            "id": 1371292
+        },
+        {
+            "name": "Die Zugsequenz",
+            "artist": "Uwe Kröger",
+            "id": 1371329
+        },
+        {
+            "name": "Whitby Bay",
+            "artist": "Jesper TydénLyn Liechty",
+            "id": 1371239
+        },
+        {
+            "name": "Lass mich dich nicht lieben",
+            "artist": "Lyn Liechty",
+            "id": 1371300
+        },
+        {
+            "name": "Nebel und Nacht",
+            "artist": "Caroline Vasicek",
+            "id": 1371273
+        },
+        {
+            "name": "Je länger ich lebe",
+            "artist": "Thomas Borchert",
+            "id": 1371333
+        },
+        {
+            "name": "Kitsch",
+            "artist": "Thomas Borchert",
+            "id": 19258767
+        },
+        {
+            "name": "Die Schatten werden laenger",
+            "artist": "Uwe Kröger",
+            "id": 5053641
+        },
+        {
+            "name": "Wenn ich tanzen will",
+            "artist": "Various Artists",
+            "id": 5053637
+        },
+        {
+            "name": "夜のボート",
+            "artist": "和央ようか",
+            "id": 29339592
+        },
+        {
+            "name": "愛と死の輪舞",
+            "artist": "春野寿美礼",
+            "id": 32288712
+        },
+        {
+            "name": "À quoi tu danses ?",
+            "artist": "Various Artists",
+            "id": 405242460
+        },
+        {
+            "name": "Pour la Peine",
+            "artist": "Various Artists",
+            "id": 32013049
+        },
+        {
+            "name": "I Know Those Eyes/This Man Is Dead",
+            "artist": "Thomas Borchert",
+            "id": 35920602
+        },
+        {
+            "name": "Every Day A Little Death",
+            "artist": "Thomas Borchert",
+            "id": 35920597
+        },
+        {
+            "name": "Transformation",
+            "artist": "Anthony Warlow",
+            "id": 1371397
+        },
+        {
+            "name": "This Is The Moment",
+            "artist": "Anthony Warlow",
+            "id": 1371395
+        },
+        {
+            "name": "Confrontation",
+            "artist": "Anthony Warlow",
+            "id": 28870022
+        },
+        {
+            "name": "Droit Devant Soi",
+            "artist": "Various Artists",
+            "id": 5045667
+        },
+        {
+            "name": "C'est Un Chapeau !",
+            "artist": "Various Artists",
+            "id": 5045665
+        },
+        {
+            "name": "Beneath A Moonless Sky",
+            "artist": "Andrew Lloyd Webber",
+            "id": 991757
+        },
+        {
+            "name": "The Beauty Underneath",
+            "artist": "Andrew Lloyd Webber",
+            "id": 991787
+        },
+        {
+            "name": "You'll Be Back",
+            "artist": "Jonathan Groff",
+            "id": 35804605
+        }
+    ]
+}

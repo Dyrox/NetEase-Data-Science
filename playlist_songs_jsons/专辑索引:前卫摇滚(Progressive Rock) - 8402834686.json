@@ -1,0 +1,612 @@
+{
+    "playlist_info": {
+        "name": "专辑索引:前卫摇滚(Progressive Rock)",
+        "trackcount": 120,
+        "playcount": 177,
+        "creator": "Puritylover",
+        "createDate": "2023-05-06",
+        "heat": 3.0
+    },
+    "songs": [
+        {
+            "name": "Flight Over Rio",
+            "artist": "Al di Meola",
+            "id": 19402003
+        },
+        {
+            "name": "Jordrök",
+            "artist": "Änglagård",
+            "id": 2151830
+        },
+        {
+            "name": "Snårdom",
+            "artist": "Änglagård",
+            "id": 2151757
+        },
+        {
+            "name": "Arbeit macht frei",
+            "artist": "Area",
+            "id": 1300562217
+        },
+        {
+            "name": "Último Entardecer (feat. Jane Duboc)",
+            "artist": "Bacamarte",
+            "id": 1373916032
+        },
+        {
+            "name": "R.I.P. (Requiescant In Peace)",
+            "artist": "Banco del Mutuo Soccorso",
+            "id": 16729681
+        },
+        {
+            "name": "L'evoluzione (Live)",
+            "artist": "Banco del Mutuo Soccorso",
+            "id": 16729750
+        },
+        {
+            "name": "Dopo...Niente E' Più Lo Stesso",
+            "artist": "Banco del Mutuo Soccorso",
+            "id": 16729787
+        },
+        {
+            "name": "Stratus",
+            "artist": "Billy Cobham",
+            "id": 1097274
+        },
+        {
+            "name": "El Cortejo de un Día Amarillo: Danza de las Atlántides / Locomotora Blues",
+            "artist": "Bübü",
+            "id": 1420633326
+        },
+        {
+            "name": "Lady Fantasy (Medley)",
+            "artist": "Camel",
+            "id": 17124463
+        },
+        {
+            "name": "Air Born",
+            "artist": "Camel",
+            "id": 3990848
+        },
+        {
+            "name": "Rhayader (Instrumental Album Version)",
+            "artist": "Camel",
+            "id": 17124049
+        },
+        {
+            "name": "Future Days (2005 Digital Remaster)",
+            "artist": "Can",
+            "id": 22520281
+        },
+        {
+            "name": "And I Wish I Were Stoned/Don't Worry",
+            "artist": "Caravan",
+            "id": 3994278
+        },
+        {
+            "name": "Nine Feet Underground",
+            "artist": "Caravan",
+            "id": 17148684
+        },
+        {
+            "name": "Buds and Spawn",
+            "artist": "Cardiacs",
+            "id": 1809396552
+        },
+        {
+            "name": "Dog like Sparky",
+            "artist": "Cardiacs",
+            "id": 1815954458
+        },
+        {
+            "name": "Hold On",
+            "artist": "Crack The Sky",
+            "id": 562529678
+        },
+        {
+            "name": "Symbolic",
+            "artist": "Death",
+            "id": 17445323
+        },
+        {
+            "name": "Another Day",
+            "artist": "Dream Theater",
+            "id": 17403663
+        },
+        {
+            "name": "Scene Seven: I. The Dance of Eternity",
+            "artist": "Dream Theater",
+            "id": 2420667
+        },
+        {
+            "name": "Crimson",
+            "artist": "Edge of Sanity",
+            "id": 1323628
+        },
+        {
+            "name": "Can't Get It out of My Head",
+            "artist": "Electric Light Orchestra",
+            "id": 17552422
+        },
+        {
+            "name": "Take a Pebble (2012 - Remaster)",
+            "artist": "Emerson, Lake & Palmer",
+            "id": 17684068
+        },
+        {
+            "name": "Attente",
+            "artist": "Eskaton",
+            "id": 2051496560
+        },
+        {
+            "name": "Phasors On Stun",
+            "artist": "FM",
+            "id": 559214251
+        },
+        {
+            "name": "Hamburger Concerto",
+            "artist": "Focus",
+            "id": 2595561
+        },
+        {
+            "name": "Willie the Pimp",
+            "artist": "Frank Zappa",
+            "id": 1351433
+        },
+        {
+            "name": "Inca Roads",
+            "artist": "Frank Zappa",
+            "id": 17756519
+        },
+        {
+            "name": "Eat That Question",
+            "artist": "Frank Zappa",
+            "id": 17756517
+        },
+        {
+            "name": "Ripples (2007 - Remaster)",
+            "artist": "Genesis",
+            "id": 18136778
+        },
+        {
+            "name": "Supper's Ready (Digital Remastered 2008)",
+            "artist": "Genesis",
+            "id": 22540247
+        },
+        {
+            "name": "The Musical Box (Digital Remastered 2008)",
+            "artist": "Genesis",
+            "id": 22540249
+        },
+        {
+            "name": "Firth Of Fifth (Remastered 2008)",
+            "artist": "Genesis",
+            "id": 22539972
+        },
+        {
+            "name": "In The Cage (2008 Digital Remaster)",
+            "artist": "Genesis",
+            "id": 22540195
+        },
+        {
+            "name": "Pantagruel's Nativity",
+            "artist": "Gentle Giant",
+            "id": 18104189
+        },
+        {
+            "name": "On Reflection",
+            "artist": "Gentle Giant",
+            "id": 4088463
+        },
+        {
+            "name": "The Runaway",
+            "artist": "Gentle Giant",
+            "id": 4088557
+        },
+        {
+            "name": "The Advent Of Panurge",
+            "artist": "Gentle Giant",
+            "id": 18104181
+        },
+        {
+            "name": "Proclamation",
+            "artist": "Gentle Giant",
+            "id": 4088530
+        },
+        {
+            "name": "A Sprinkling of Clouds",
+            "artist": "Gong",
+            "id": 4089026
+        },
+        {
+            "name": "Obscura",
+            "artist": "Gorguts",
+            "id": 2655535
+        },
+        {
+            "name": "Starborne",
+            "artist": "Happy the Man",
+            "id": 2714239
+        },
+        {
+            "name": "Histoires Sans Paroles",
+            "artist": "Harmonium",
+            "id": 4106574
+        },
+        {
+            "name": "Shaving Is Boring",
+            "artist": "Hatfield and the North",
+            "id": 19930876
+        },
+        {
+            "name": "The Road Of Bones",
+            "artist": "IQ",
+            "id": 28474356
+        },
+        {
+            "name": "Aqualung",
+            "artist": "Jethro Tull",
+            "id": 22582883
+        },
+        {
+            "name": "Thick as a Brick (Pt. 1) [1997 Remaster]",
+            "artist": "Jethro Tull",
+            "id": 18873666
+        },
+        {
+            "name": "Carry on Wayward Son",
+            "artist": "Kansas",
+            "id": 19019879
+        },
+        {
+            "name": "Space Shanty (feat. Steve Hillage & Dave Stewart)",
+            "artist": "Khan",
+            "id": 1894223863
+        },
+        {
+            "name": "21st Century Schizoid Man (2009 Stereo Mix)",
+            "artist": "King Crimson",
+            "id": 4143634
+        },
+        {
+            "name": "Larks' Tongues in Aspic, Pt. 1",
+            "artist": "King Crimson",
+            "id": 20045607
+        },
+        {
+            "name": "Starless",
+            "artist": "King Crimson",
+            "id": 20045625
+        },
+        {
+            "name": "L' Equilibrio",
+            "artist": "Le Orme",
+            "id": 2976627
+        },
+        {
+            "name": "K.a 3",
+            "artist": "Magma",
+            "id": 1301461103
+        },
+        {
+            "name": "Hortz Fur Dehn Stekehn West",
+            "artist": "Magma",
+            "id": 459062700
+        },
+        {
+            "name": "You Know, You Know",
+            "artist": "Mahavishnu Orchestra",
+            "id": 17238914
+        },
+        {
+            "name": "One Word",
+            "artist": "Mahavishnu Orchestra",
+            "id": 17239028
+        },
+        {
+            "name": "Kayleigh (2017 Remaster)",
+            "artist": "Marillion",
+            "id": 1342661795
+        },
+        {
+            "name": "Script for a Jester's Tear (1997 Remaster)",
+            "artist": "Marillion",
+            "id": 17237471
+        },
+        {
+            "name": "Cicatriz Esp",
+            "artist": "The Mars Volta",
+            "id": 21809113
+        },
+        {
+            "name": "C'È un Paese Al Mondo",
+            "artist": "Maxophone",
+            "id": 20147072
+        },
+        {
+            "name": "Future Breed Machine",
+            "artist": "Meshuggah",
+            "id": 21251360
+        },
+        {
+            "name": "Ommadawn (Part One)",
+            "artist": "Mike Oldfield",
+            "id": 21173762
+        },
+        {
+            "name": "In a Silent Way (LP Mix)",
+            "artist": "Miles Davis",
+            "id": 21341853
+        },
+        {
+            "name": "Pharaoh's Dance",
+            "artist": "Miles Davis",
+            "id": 21341618
+        },
+        {
+            "name": "Zarathustra: Superuomo",
+            "artist": "Museo Rosenbach",
+            "id": 20167898
+        },
+        {
+            "name": "So What",
+            "artist": "Miles Davis",
+            "id": 21335863
+        },
+        {
+            "name": "Binoculars - Original",
+            "artist": "National Health",
+            "id": 17586312
+        },
+        {
+            "name": "Song for the Bearded Lady",
+            "artist": "Nucleus",
+            "id": 3177736
+        },
+        {
+            "name": "Blackwater Park",
+            "artist": "Opeth",
+            "id": 21358090
+        },
+        {
+            "name": "Ghost of Perdition",
+            "artist": "Opeth",
+            "id": 21358021
+        },
+        {
+            "name": "Benighted",
+            "artist": "Opeth",
+            "id": 21358062
+        },
+        {
+            "name": "In the Flesh",
+            "artist": "Pain of Salvation",
+            "id": 18206760
+        },
+        {
+            "name": "A Trace Of Blood",
+            "artist": "Pain of Salvation",
+            "id": 18206829
+        },
+        {
+            "name": "360 Degrees",
+            "artist": "Pendragon",
+            "id": 2018124613
+        },
+        {
+            "name": "Forsaken Gardens (2006 Digital Remaster)",
+            "artist": "Peter Hammill",
+            "id": 22304565
+        },
+        {
+            "name": "Micro Softdeathstar",
+            "artist": "Phideaux",
+            "id": 26662372
+        },
+        {
+            "name": "Time",
+            "artist": "Pink Floyd",
+            "id": 4238109
+        },
+        {
+            "name": "Dogs",
+            "artist": "Pink Floyd",
+            "id": 4237883
+        },
+        {
+            "name": "Echoes",
+            "artist": "Pink Floyd",
+            "id": 33394060
+        },
+        {
+            "name": "Shine On You Crazy Diamond (Pts. 1-5)",
+            "artist": "Pink Floyd",
+            "id": 4237911
+        },
+        {
+            "name": "Trains",
+            "artist": "Porcupine Tree",
+            "id": 18300069
+        },
+        {
+            "name": "Anesthetize",
+            "artist": "Porcupine Tree",
+            "id": 18300141
+        },
+        {
+            "name": "L'isola di niente",
+            "artist": "Premiata Forneria Marconi",
+            "id": 4242668
+        },
+        {
+            "name": "Appena un po'",
+            "artist": "Premiata Forneria Marconi",
+            "id": 21359168
+        },
+        {
+            "name": "Grazie davvero",
+            "artist": "Premiata Forneria Marconi",
+            "id": 21358993
+        },
+        {
+            "name": "Revolution Calling (Remastered 2003)",
+            "artist": "Queensrÿche",
+            "id": 22056226
+        },
+        {
+            "name": "Song Of Scheherazade : I. Fanfare / II. The Betrayal / III. The Sultan / IV. Love Theme / V. The Young Prince and Princess as told by Scheherazade / VI. Festival Preparations / VII. Fugue for the Sultan / VIII. The Festival / IX. Finale",
+            "artist": "Renaissance",
+            "id": 3339119
+        },
+        {
+            "name": "The Romantic Warrior (Instrumental)",
+            "artist": "Return to Forever",
+            "id": 18688384
+        },
+        {
+            "name": "Volte-Face",
+            "artist": "Riverside",
+            "id": 18766480
+        },
+        {
+            "name": "Sea Song",
+            "artist": "Robert Wyatt",
+            "id": 18568734
+        },
+        {
+            "name": "Hyderomastgroningem",
+            "artist": "Ruins",
+            "id": 808695
+        },
+        {
+            "name": "Xanadu",
+            "artist": "Rush",
+            "id": 21535542
+        },
+        {
+            "name": "The Trees",
+            "artist": "Rush",
+            "id": 21535416
+        },
+        {
+            "name": "Tom Sawyer",
+            "artist": "Rush",
+            "id": 21535534
+        },
+        {
+            "name": "Freewill",
+            "artist": "Rush",
+            "id": 21535556
+        },
+        {
+            "name": "Slightly All The Time (Remastered 2006)",
+            "artist": "Soft Machine",
+            "id": 21718749
+        },
+        {
+            "name": "The Hermit",
+            "artist": "Steve Hackett",
+            "id": 22488534
+        },
+        {
+            "name": "Ancestral",
+            "artist": "Steven Wilson",
+            "id": 30841288
+        },
+        {
+            "name": "The Watchmaker",
+            "artist": "Steven Wilson",
+            "id": 25779138
+        },
+        {
+            "name": "Autumn: Heroine's Theme/Deep Summer's Sleep/The Winter Long",
+            "artist": "The Strawbs",
+            "id": 3597834
+        },
+        {
+            "name": "Rudy",
+            "artist": "Supertramp",
+            "id": 19158424
+        },
+        {
+            "name": "Phaedra (1995 Remaster)",
+            "artist": "Tangerine Dream",
+            "id": 21977289
+        },
+        {
+            "name": "Rubycon (Part One) (1995 - Remaster)",
+            "artist": "Tangerine Dream",
+            "id": 22545674
+        },
+        {
+            "name": "Schism",
+            "artist": "Tool",
+            "id": 20464491
+        },
+        {
+            "name": "Illusions On A Double Dimple (Digital Remaster)",
+            "artist": "Triumvirat",
+            "id": 22578398
+        },
+        {
+            "name": "In The Dead Of Night",
+            "artist": "U.K.",
+            "id": 21979309
+        },
+        {
+            "name": "Présage",
+            "artist": "Univers Zéro",
+            "id": 3789682
+        },
+        {
+            "name": "The Undercover Man (2005 Digital Remaster)",
+            "artist": "Van Der Graaf Generator",
+            "id": 20677627
+        },
+        {
+            "name": "House With No Door (2005 Digital Remaster)",
+            "artist": "Van Der Graaf Generator",
+            "id": 20677642
+        },
+        {
+            "name": "A Plague Of Lighthouse Keepers (Medley) (2005 Digital Remaster)",
+            "artist": "Van Der Graaf Generator",
+            "id": 20677635
+        },
+        {
+            "name": "My Room (Waiting For Wonderland)",
+            "artist": "Van Der Graaf Generator",
+            "id": 20677624
+        },
+        {
+            "name": "Merry Macabre",
+            "artist": "Wobbler",
+            "id": 1483682462
+        },
+        {
+            "name": "Foxlight",
+            "artist": "Wobbler",
+            "id": 1379473441
+        },
+        {
+            "name": "Close to the Edge (I. The Solid Time of Change, II. Total Mass Retain, III. I Get up I Get Down, IV. Seasons of Man)",
+            "artist": "Yes",
+            "id": 4438548
+        },
+        {
+            "name": "South Side of the Sky (2008 Remaster)",
+            "artist": "Yes",
+            "id": 20789806
+        },
+        {
+            "name": "The Gates of Delirium",
+            "artist": "Yes",
+            "id": 4438451
+        },
+        {
+            "name": "Starship Trooper [A. Life Seeker; B. Disillusion; C. Wurm]",
+            "artist": "Yes",
+            "id": 20789814
+        }
+    ]
+}

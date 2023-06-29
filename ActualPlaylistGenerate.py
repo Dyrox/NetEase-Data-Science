@@ -7,6 +7,10 @@ folderpath = 'playlistdata/tables'
 csv_files = [f for f in os.listdir(folderpath) if f.endswith('.csv')]
 playlist_links = []
 
+def playlist_id_extractor(url):
+    return url.split('=')[1].split('&')[0]
+
+
 for csv_file in csv_files:
     print(f'\033[92m 正在处理{csv_file}...\033[0m')
     file_path = os.path.join(folderpath, csv_file)
@@ -17,12 +21,13 @@ for csv_file in csv_files:
             playlist_links.append(playlist_link)
 
 count = 0
-while count <200:
+while count <100000:
     count += 1
     playlist_link = playlist_links[count]
     
     print(f'\033[92m 正在处理{playlist_link}...\033[0m')
-    generate_playlist_json(playlist_link)
+    playlist_id = playlist_id_extractor(playlist_link)
+    generate_playlist_json(playlist_id)
     print(f'\033[93m {playlist_link}处理完毕\033[0m')
     print(f'\033[94m {count}个歌单已处理\033[0m')
     

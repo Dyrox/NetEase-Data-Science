@@ -1,0 +1,612 @@
+{
+    "playlist_info": {
+        "name": "无限重复的神曲们",
+        "trackcount": 120,
+        "playcount": 38273,
+        "creator": "迷你采",
+        "createDate": "2017-07-18",
+        "heat": 17.0
+    },
+    "songs": [
+        {
+            "name": "Heavy Sweet",
+            "artist": "Karate Body",
+            "id": 1501390122
+        },
+        {
+            "name": "Да да да (Jarico Remix)",
+            "artist": "Tanir",
+            "id": 1397021895
+        },
+        {
+            "name": "OOP!",
+            "artist": "NYK",
+            "id": 1896524846
+        },
+        {
+            "name": "El Teke Teke",
+            "artist": "Carlos Vives",
+            "id": 1946666195
+        },
+        {
+            "name": "Beep Beep I'm A Sheep",
+            "artist": "有只芥子",
+            "id": 1495721629
+        },
+        {
+            "name": "Симпл димпл поп ит сквиш",
+            "artist": "M&A",
+            "id": 1857106943
+        },
+        {
+            "name": "Maxi poi☆poi poi poi！",
+            "artist": "S9ryne",
+            "id": 33392461
+        },
+        {
+            "name": "moinoi moinoi",
+            "artist": "清水信之",
+            "id": 521654
+        },
+        {
+            "name": "petit poney",
+            "artist": "88century",
+            "id": 1926707767
+        },
+        {
+            "name": "Coco ball",
+            "artist": "V.A.",
+            "id": 1469868492
+        },
+        {
+            "name": "Love N Hennessy",
+            "artist": "A.CHAL",
+            "id": 476598932
+        },
+        {
+            "name": "Something in the Water",
+            "artist": "Brooke Fraser",
+            "id": 16768397
+        },
+        {
+            "name": "快然",
+            "artist": "菊谷知樹",
+            "id": 36103266
+        },
+        {
+            "name": "The Hampster Dance Song",
+            "artist": "Hampton the Hampster",
+            "id": 2740360
+        },
+        {
+            "name": "Swagger (7evens Remix)",
+            "artist": "7evens",
+            "id": 1466931525
+        },
+        {
+            "name": "セボン・セボン",
+            "artist": "Clémentine",
+            "id": 2311214
+        },
+        {
+            "name": "YAY~ YAY~ YAY~",
+            "artist": "T.L.Peng",
+            "id": 560921324
+        },
+        {
+            "name": "Doodah (Radio 'N' Roll Mix)",
+            "artist": "Cartoons",
+            "id": 17078805
+        },
+        {
+            "name": "SAY WHAAA?!",
+            "artist": "DJ Suede The Remix God",
+            "id": 486194703
+        },
+        {
+            "name": "Snow Globe",
+            "artist": "Matt Wertz",
+            "id": 21127718
+        },
+        {
+            "name": "Piu Piu Piu",
+            "artist": "拼音师",
+            "id": 1488780845
+        },
+        {
+            "name": "Inghetata (feat. Shift & Ruby)",
+            "artist": "Yogi",
+            "id": 30394776
+        },
+        {
+            "name": "WanteD! WanteD! (TV Size)",
+            "artist": "Mrs. GREEN APPLE",
+            "id": 492995012
+        },
+        {
+            "name": "Tari ubur ubur",
+            "artist": "Tkt Deejay",
+            "id": 1389090772
+        },
+        {
+            "name": "Tómame",
+            "artist": "Eleni Foureira",
+            "id": 1318941061
+        },
+        {
+            "name": "buttercup",
+            "artist": "Jack Stauber",
+            "id": 1353428173
+        },
+        {
+            "name": "Pop It In 2",
+            "artist": "MADE IN HEIGHTS",
+            "id": 32341272
+        },
+        {
+            "name": "Honey Take My Hand",
+            "artist": "Cody Francis",
+            "id": 1312528250
+        },
+        {
+            "name": "Doom Doom Doom Doom Doom Doom Doom Doom Doom Doom Doom Doom Doom (Minecraft Creeper Rap Parody)",
+            "artist": "Dan Bull",
+            "id": 1432282438
+        },
+        {
+            "name": "Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom Boom",
+            "artist": "Dan Bull",
+            "id": 1301456051
+        },
+        {
+            "name": "Lone Ranger",
+            "artist": "Rachel Platten",
+            "id": 29803676
+        },
+        {
+            "name": "BAD IDEA",
+            "artist": "Aziry",
+            "id": 1300415554
+        },
+        {
+            "name": "Sunshine Goodtime",
+            "artist": "Minnutes",
+            "id": 21224497
+        },
+        {
+            "name": "Realize",
+            "artist": "Gill Chang",
+            "id": 472948115
+        },
+        {
+            "name": "Leap Year Cha Cha",
+            "artist": "The Dukes",
+            "id": 1294769335
+        },
+        {
+            "name": "Tunak Tunak Tun",
+            "artist": "Daler Mehndi",
+            "id": 17241116
+        },
+        {
+            "name": "Зың",
+            "artist": "Болат Нуримов",
+            "id": 1296523395
+        },
+        {
+            "name": "婆婆打嘞",
+            "artist": "我也不知道叫什么喔",
+            "id": 1319344081
+        },
+        {
+            "name": "Charlie Puth-Betty Boop (TØm Bootleg)（TØm remix）",
+            "artist": "TØm",
+            "id": 1365071885
+        },
+        {
+            "name": "Realligator",
+            "artist": "MagnusTheMagnus",
+            "id": 447925566
+        },
+        {
+            "name": "giga pudding!",
+            "artist": "咸鱼",
+            "id": 1313648023
+        },
+        {
+            "name": "だんだん早くなる(cover)",
+            "artist": "符白牙",
+            "id": 423703993
+        },
+        {
+            "name": "don't wanna know",
+            "artist": "Fly By Midnight",
+            "id": 468517531
+        },
+        {
+            "name": "Sweet Sweet Melody",
+            "artist": "Katie Sky",
+            "id": 2921896
+        },
+        {
+            "name": "What Can I Do",
+            "artist": "The Corrs",
+            "id": 5077171
+        },
+        {
+            "name": "COCO",
+            "artist": "Faith&wn",
+            "id": 411347970
+        },
+        {
+            "name": "Goodie Three Shoes",
+            "artist": "Deep East Music",
+            "id": 17423748
+        },
+        {
+            "name": "Warma! Yeah!",
+            "artist": "warma",
+            "id": 1299354166
+        },
+        {
+            "name": "微信 Wechat Remix",
+            "artist": "Steo Le Panda",
+            "id": 420397918
+        },
+        {
+            "name": "ハッピーエンデング　~第2弾ED~",
+            "artist": "名塚佳織",
+            "id": 26608481
+        },
+        {
+            "name": "アカリがやってきたぞっ",
+            "artist": "紲星あかり",
+            "id": 1309901145
+        },
+        {
+            "name": "Mixtape",
+            "artist": "Barcella",
+            "id": 27552715
+        },
+        {
+            "name": "Can't Sleep Love",
+            "artist": "Pentatonix",
+            "id": 34497243
+        },
+        {
+            "name": "Teenage Dream (Glee Cast Version)",
+            "artist": "Glee Cast",
+            "id": 5061655
+        },
+        {
+            "name": "또로로로롱",
+            "artist": "Finger Soul",
+            "id": 31446320
+        },
+        {
+            "name": "如果我搞比利你会爱我吗 (英文版)",
+            "artist": "A路人",
+            "id": 32341354
+        },
+        {
+            "name": "Dance Anthem Of The 80's",
+            "artist": "Regina Spektor",
+            "id": 21572511
+        },
+        {
+            "name": "Basdalama",
+            "artist": "Nadeer",
+            "id": 534541185
+        },
+        {
+            "name": "Зын зын зын",
+            "artist": "Zonti",
+            "id": 551203021
+        },
+        {
+            "name": "Bun Bun",
+            "artist": "SCOB",
+            "id": 544459301
+        },
+        {
+            "name": "Dame Tu Cosita",
+            "artist": "El Chombo",
+            "id": 550336649
+        },
+        {
+            "name": "Aloha Heja He",
+            "artist": "Steven Heart",
+            "id": 408616240
+        },
+        {
+            "name": "Scooby Doo Pa Pa (Mike Will Remix)",
+            "artist": "Mike Will",
+            "id": 554252300
+        },
+        {
+            "name": "Hooked on a Feeling",
+            "artist": "Blue Swede",
+            "id": 28864234
+        },
+        {
+            "name": "まんまるまるい",
+            "artist": "水瀬いのり",
+            "id": 29932225
+        },
+        {
+            "name": "ハッピーエンディング　~第1弾ED~",
+            "artist": "冠徹弥",
+            "id": 26608473
+        },
+        {
+            "name": "Summer Vibe",
+            "artist": "Cyan Lpegd",
+            "id": 532786740
+        },
+        {
+            "name": "High",
+            "artist": "Young Rising Sons",
+            "id": 28859946
+        },
+        {
+            "name": "Wabby Wabbo (Plants vs. Zombies)",
+            "artist": "Crazy Dave",
+            "id": 476565408
+        },
+        {
+            "name": "Lie Lie Lie (Live)",
+            "artist": "Serj Tankian",
+            "id": 538895317
+        },
+        {
+            "name": "I Like To Move It",
+            "artist": "Madagascar 5",
+            "id": 16834795
+        },
+        {
+            "name": "脳漿炸裂ガール",
+            "artist": "ぐるたみん",
+            "id": 28306430
+        },
+        {
+            "name": "おさんぽ协奏曲(PARFAIT Mix)",
+            "artist": "折笠富美子",
+            "id": 639810
+        },
+        {
+            "name": "Laser Eyes",
+            "artist": "Liyv",
+            "id": 451991303
+        },
+        {
+            "name": "Goalie Goalie",
+            "artist": "Arash",
+            "id": 570233285
+        },
+        {
+            "name": "La La La La La La La La La La",
+            "artist": "林一峰",
+            "id": 109393
+        },
+        {
+            "name": "POI!POI!POI!",
+            "artist": "V.A.",
+            "id": 30903744
+        },
+        {
+            "name": "Red Balloon",
+            "artist": "Emily Hearn",
+            "id": 2587437
+        },
+        {
+            "name": "월화수목금토토토",
+            "artist": "Hari",
+            "id": 33337018
+        },
+        {
+            "name": "The Unicorn Song",
+            "artist": "Agnès",
+            "id": 5040069
+        },
+        {
+            "name": "Dur Dur d'être Bébé!",
+            "artist": "Jordy",
+            "id": 1591359
+        },
+        {
+            "name": "Shaky Shaky (vaizar Remix)",
+            "artist": "Vaizar",
+            "id": 464192610
+        },
+        {
+            "name": "N↓DA↑GI↑NA↓DA☆",
+            "artist": "井内啓二",
+            "id": 28720158
+        },
+        {
+            "name": "嗯哼嗯哼嗯哼",
+            "artist": "小缘",
+            "id": 435948394
+        },
+        {
+            "name": "Baby Baby Baby",
+            "artist": "Make the girl dance",
+            "id": 4199134
+        },
+        {
+            "name": "Boom Boom Pow (Clean)",
+            "artist": "Black Eyed Peas",
+            "id": 3949444
+        },
+        {
+            "name": "All The Way",
+            "artist": "Hellberg",
+            "id": 426290719
+        },
+        {
+            "name": "Tom's Diner (Live)",
+            "artist": "Suzanne Vega",
+            "id": 3405796
+        },
+        {
+            "name": "La même robe qu'hier",
+            "artist": "Pomme",
+            "id": 478269995
+        },
+        {
+            "name": "Oh, La, La",
+            "artist": "Wizardz of Oz",
+            "id": 409031378
+        },
+        {
+            "name": "Ho Ho Ho",
+            "artist": "Sia",
+            "id": 518894597
+        },
+        {
+            "name": "Be My Satellite",
+            "artist": "Banaroo",
+            "id": 16810826
+        },
+        {
+            "name": "Зая",
+            "artist": "Бамбинтон",
+            "id": 518094151
+        },
+        {
+            "name": "Trap **** V22",
+            "artist": "UZ",
+            "id": 33255655
+        },
+        {
+            "name": "Chacarron",
+            "artist": "El Chombo",
+            "id": 27054353
+        },
+        {
+            "name": "逐渐加快（翻自 初音ミク）",
+            "artist": "知性的小方块",
+            "id": 459004763
+        },
+        {
+            "name": "Tui Tui Tui",
+            "artist": "Neung Phak",
+            "id": 3184045
+        },
+        {
+            "name": "야야야3",
+            "artist": "李博士",
+            "id": 33190279
+        },
+        {
+            "name": "Busy Line",
+            "artist": "G-Swing",
+            "id": 4097011
+        },
+        {
+            "name": "Ko Ki Ki",
+            "artist": "Dvar",
+            "id": 4469159
+        },
+        {
+            "name": "Din Don Dan (Extended Mix)",
+            "artist": "森永真由美",
+            "id": 30496975
+        },
+        {
+            "name": "Yaow!",
+            "artist": "Baauer",
+            "id": 23268924
+        },
+        {
+            "name": "トラウマ催眠少女さとり！",
+            "artist": "一ノ瀬月琉",
+            "id": 28561986
+        },
+        {
+            "name": "Wild Wild Web",
+            "artist": "John The Whistler",
+            "id": 1600454
+        },
+        {
+            "name": "23时59分",
+            "artist": "ハンバート ハンバート",
+            "id": 740010
+        },
+        {
+            "name": "Sieben Hummeln",
+            "artist": "Joy Gruttmann",
+            "id": 2866929
+        },
+        {
+            "name": "Don't Worry Be Happy 别担心 要开心",
+            "artist": "Holly Dolly 朵莉宝贝",
+            "id": 5252501
+        },
+        {
+            "name": "Ho Ho Ho",
+            "artist": "The Chipmunks",
+            "id": 3587605
+        },
+        {
+            "name": "Meow Meow Meow",
+            "artist": "林二汶",
+            "id": 343316
+        },
+        {
+            "name": "Mimimi",
+            "artist": "Serebro",
+            "id": 414826502
+        },
+        {
+            "name": "te-yut-te (feat. 鏡音リン)",
+            "artist": "フェイP",
+            "id": 420890
+        },
+        {
+            "name": "Every Night",
+            "artist": "Hannah Diamond",
+            "id": 29761195
+        },
+        {
+            "name": "打打打打打打打打打打 (Long Version)",
+            "artist": "ヒゲドライバー join. SELEN",
+            "id": 29790603
+        },
+        {
+            "name": "Yeah",
+            "artist": "OMFG",
+            "id": 33211675
+        },
+        {
+            "name": "Hello",
+            "artist": "OMFG",
+            "id": 33211676
+        },
+        {
+            "name": "뱅뱅뱅 (BANG BANG BANG)",
+            "artist": "BIGBANG",
+            "id": 32408002
+        },
+        {
+            "name": "Es rappelt im Karton",
+            "artist": "Pixie Paris",
+            "id": 29750825
+        },
+        {
+            "name": "Axel F",
+            "artist": "Crazy Frog",
+            "id": 2313544
+        },
+        {
+            "name": "Nom Nom Nom Nom Nom Nom Nom",
+            "artist": "Parry Gripp",
+            "id": 21471226
+        },
+        {
+            "name": "Thank God I'm a Country Boy",
+            "artist": "Hampton the Hampster",
+            "id": 2740369
+        }
+    ]
+}

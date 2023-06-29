@@ -1,0 +1,572 @@
+{
+    "playlist_info": {
+        "name": "日本吉他指弹集",
+        "trackcount": 112,
+        "playcount": 10490,
+        "creator": "我跑远点",
+        "createDate": "2018-09-09",
+        "heat": 5.0
+    },
+    "songs": [
+        {
+            "name": "To Ki Me Ki",
+            "artist": "岸部眞明",
+            "id": 1939966596
+        },
+        {
+            "name": "PUZZLE",
+            "artist": "Okapi",
+            "id": 1347630082
+        },
+        {
+            "name": "お月さま",
+            "artist": "伍々慧",
+            "id": 33367012
+        },
+        {
+            "name": "海",
+            "artist": "岸部眞明",
+            "id": 441496
+        },
+        {
+            "name": "绊 - Ties of mind",
+            "artist": "岸部眞明",
+            "id": 22636852
+        },
+        {
+            "name": "Kokoro",
+            "artist": "井草圣二",
+            "id": 29544864
+        },
+        {
+            "name": "里山の夏 (Satoyamano Natsu)",
+            "artist": "岸部眞明",
+            "id": 441544
+        },
+        {
+            "name": "Wilco",
+            "artist": "岡崎倫典",
+            "id": 493603
+        },
+        {
+            "name": "Atlantis",
+            "artist": "GIN",
+            "id": 29836330
+        },
+        {
+            "name": "Pastoral",
+            "artist": "GIN",
+            "id": 29836339
+        },
+        {
+            "name": "いつの日か",
+            "artist": "GIN",
+            "id": 29836344
+        },
+        {
+            "name": "The Water Is Wide",
+            "artist": "岸部眞明",
+            "id": 22636862
+        },
+        {
+            "name": "願い",
+            "artist": "GIN",
+            "id": 29836343
+        },
+        {
+            "name": "Anniversary",
+            "artist": "GIN",
+            "id": 29836338
+        },
+        {
+            "name": "Sunday Morning",
+            "artist": "井草圣二",
+            "id": 412327272
+        },
+        {
+            "name": "雨降る窓辺で",
+            "artist": "岸部眞明",
+            "id": 22636859
+        },
+        {
+            "name": "Snowfall",
+            "artist": "岸部眞明",
+            "id": 26429384
+        },
+        {
+            "name": "おしょうしな",
+            "artist": "下山亮平",
+            "id": 543222
+        },
+        {
+            "name": "くじら",
+            "artist": "小松原俊",
+            "id": 458323
+        },
+        {
+            "name": "枝雪零",
+            "artist": "中川イサト",
+            "id": 434998
+        },
+        {
+            "name": "竹取物語",
+            "artist": "GIN",
+            "id": 29836341
+        },
+        {
+            "name": "Wind Valley",
+            "artist": "中川イサト",
+            "id": 435040
+        },
+        {
+            "name": "Midnight loneliness",
+            "artist": "岸部眞明",
+            "id": 22636873
+        },
+        {
+            "name": "with or without u",
+            "artist": "Kanaho",
+            "id": 1301573519
+        },
+        {
+            "name": "最後の夏",
+            "artist": "Kanaho",
+            "id": 1301574485
+        },
+        {
+            "name": "Islander",
+            "artist": "岸部眞明",
+            "id": 22636841
+        },
+        {
+            "name": "Down by the Sally Garden",
+            "artist": "岸部眞明",
+            "id": 441470
+        },
+        {
+            "name": "花",
+            "artist": "岸部眞明",
+            "id": 22636878
+        },
+        {
+            "name": "月のナミダ",
+            "artist": "押尾コータロー",
+            "id": 28885226
+        },
+        {
+            "name": "红叶",
+            "artist": "岸部眞明",
+            "id": 441499
+        },
+        {
+            "name": "Think of You",
+            "artist": "GIN",
+            "id": 29836342
+        },
+        {
+            "name": "斜陽",
+            "artist": "GIN",
+            "id": 29836332
+        },
+        {
+            "name": "少年の梦",
+            "artist": "岸部眞明",
+            "id": 22636850
+        },
+        {
+            "name": "梦の中で",
+            "artist": "岸部眞明",
+            "id": 22636843
+        },
+        {
+            "name": "花と木漏れ日",
+            "artist": "下山亮平",
+            "id": 543203
+        },
+        {
+            "name": "文明開化",
+            "artist": "小松原俊",
+            "id": 29995365
+        },
+        {
+            "name": "戦場のメリー・クリスマス",
+            "artist": "村治佳織",
+            "id": 614082
+        },
+        {
+            "name": "流れ行く云 (Nagareyuku Kumo)",
+            "artist": "岸部眞明",
+            "id": 441532
+        },
+        {
+            "name": "奇迹の山 (Kisekino Yama)",
+            "artist": "岸部眞明",
+            "id": 441552
+        },
+        {
+            "name": "願桜",
+            "artist": "GIN",
+            "id": 27588028
+        },
+        {
+            "name": "夜空",
+            "artist": "岸部眞明",
+            "id": 516827043
+        },
+        {
+            "name": "紫陽花",
+            "artist": "GIN",
+            "id": 27588022
+        },
+        {
+            "name": "流星",
+            "artist": "岸部眞明",
+            "id": 26429372
+        },
+        {
+            "name": "扬子江",
+            "artist": "岸部眞明",
+            "id": 26429389
+        },
+        {
+            "name": "外灘",
+            "artist": "GIN",
+            "id": 29836337
+        },
+        {
+            "name": "Horizon",
+            "artist": "GIN",
+            "id": 29836340
+        },
+        {
+            "name": "七夕",
+            "artist": "GIN",
+            "id": 29836333
+        },
+        {
+            "name": "时を超えて (Toki Wo Koete)",
+            "artist": "岸部眞明",
+            "id": 441529
+        },
+        {
+            "name": "山顶夕景 (Sanchou Yuukei)",
+            "artist": "岸部眞明",
+            "id": 441538
+        },
+        {
+            "name": "桜・咲くころ",
+            "artist": "押尾コータロー",
+            "id": 22822538
+        },
+        {
+            "name": "二人の帰り道",
+            "artist": "GIN",
+            "id": 29836335
+        },
+        {
+            "name": "Theme of Love",
+            "artist": "南澤大介",
+            "id": 478313
+        },
+        {
+            "name": "Way",
+            "artist": "岸部眞明",
+            "id": 26429365
+        },
+        {
+            "name": "Sky Scraper",
+            "artist": "中川イサト",
+            "id": 435024
+        },
+        {
+            "name": "放課後の音楽室",
+            "artist": "ゴンチチ",
+            "id": 758079
+        },
+        {
+            "name": "Last Word",
+            "artist": "GIN",
+            "id": 490468489
+        },
+        {
+            "name": "Winter",
+            "artist": "岸部眞明",
+            "id": 22636871
+        },
+        {
+            "name": "树氷の辉き (Juhyouno Kagayaki)",
+            "artist": "岸部眞明",
+            "id": 441550
+        },
+        {
+            "name": "Stream",
+            "artist": "岸部眞明",
+            "id": 26429385
+        },
+        {
+            "name": "昭和ロマンス",
+            "artist": "岸部眞明",
+            "id": 26429371
+        },
+        {
+            "name": "Heartstrings",
+            "artist": "岸部眞明",
+            "id": 26429368
+        },
+        {
+            "name": "歩き続けて",
+            "artist": "岸部眞明",
+            "id": 516819028
+        },
+        {
+            "name": "夏の終わりの海",
+            "artist": "岸部眞明",
+            "id": 22636872
+        },
+        {
+            "name": "Time Travel",
+            "artist": "岸部眞明",
+            "id": 441442
+        },
+        {
+            "name": "Love Song",
+            "artist": "小松原俊",
+            "id": 458272
+        },
+        {
+            "name": "ナユタ",
+            "artist": "押尾コータロー",
+            "id": 22822471
+        },
+        {
+            "name": "花蓮“Hua-Lien”",
+            "artist": "中川イサト",
+            "id": 569870271
+        },
+        {
+            "name": "LOVIN' YOU",
+            "artist": "押尾コータロー",
+            "id": 22822506
+        },
+        {
+            "name": "Hajimari",
+            "artist": "岸部眞明",
+            "id": 28578151
+        },
+        {
+            "name": "Chaplin In New Shoes",
+            "artist": "岡崎倫典",
+            "id": 28048092
+        },
+        {
+            "name": "Mellow Sunset",
+            "artist": "井草圣二",
+            "id": 29544872
+        },
+        {
+            "name": "Chaina Clipper",
+            "artist": "岡崎倫典",
+            "id": 28048090
+        },
+        {
+            "name": "Cascade",
+            "artist": "岡崎倫典",
+            "id": 28048088
+        },
+        {
+            "name": "Cheers!",
+            "artist": "岡崎倫典",
+            "id": 28048085
+        },
+        {
+            "name": "Song for 1310",
+            "artist": "岸部眞明",
+            "id": 22636846
+        },
+        {
+            "name": "Gando",
+            "artist": "中川イサト",
+            "id": 29534004
+        },
+        {
+            "name": "Longing",
+            "artist": "GIN",
+            "id": 27588021
+        },
+        {
+            "name": "Truth",
+            "artist": "岸部眞明",
+            "id": 26429386
+        },
+        {
+            "name": "Convertible",
+            "artist": "岸部眞明",
+            "id": 441452
+        },
+        {
+            "name": "It's You",
+            "artist": "GIN",
+            "id": 567508667
+        },
+        {
+            "name": "Smoker",
+            "artist": "岸部眞明",
+            "id": 22636869
+        },
+        {
+            "name": "东方美人",
+            "artist": "中川イサト",
+            "id": 434979
+        },
+        {
+            "name": "North Line",
+            "artist": "GIN",
+            "id": 27588029
+        },
+        {
+            "name": "November",
+            "artist": "岸部眞明",
+            "id": 441458
+        },
+        {
+            "name": "風待ち",
+            "artist": "伍々慧",
+            "id": 26450093
+        },
+        {
+            "name": "28",
+            "artist": "ゴンチチ",
+            "id": 758092
+        },
+        {
+            "name": "1967",
+            "artist": "ゴンチチ",
+            "id": 757567
+        },
+        {
+            "name": "Light Waves",
+            "artist": "井草圣二",
+            "id": 412327280
+        },
+        {
+            "name": "Thanks My Dear",
+            "artist": "岡崎倫典",
+            "id": 493583
+        },
+        {
+            "name": "Yesterday Once More",
+            "artist": "岸部眞明",
+            "id": 441476
+        },
+        {
+            "name": "Clarence",
+            "artist": "中川イサト",
+            "id": 29534015
+        },
+        {
+            "name": "Wonderful Tonight",
+            "artist": "岸部眞明",
+            "id": 441479
+        },
+        {
+            "name": "Suirou",
+            "artist": "中川イサト",
+            "id": 435227
+        },
+        {
+            "name": "Lady Penelope",
+            "artist": "中川イサト",
+            "id": 435027
+        },
+        {
+            "name": "Distance",
+            "artist": "伍々慧",
+            "id": 26450086
+        },
+        {
+            "name": "Moon River",
+            "artist": "伍々慧",
+            "id": 26450089
+        },
+        {
+            "name": "カノン",
+            "artist": "押尾コータロー",
+            "id": 22822547
+        },
+        {
+            "name": "風の詩",
+            "artist": "押尾コータロー",
+            "id": 22822602
+        },
+        {
+            "name": "神の木",
+            "artist": "下山亮平",
+            "id": 543179
+        },
+        {
+            "name": "Old Pal",
+            "artist": "下山亮平",
+            "id": 543182
+        },
+        {
+            "name": "お釈迦様の花供御",
+            "artist": "小松原俊",
+            "id": 458298
+        },
+        {
+            "name": "Passion",
+            "artist": "小松原俊",
+            "id": 458349
+        },
+        {
+            "name": "涙そうそう (Acoustic Guitar Ver.)",
+            "artist": "谷本光",
+            "id": 531209
+        },
+        {
+            "name": "ハナミズキ (Acoustic Guitar Ver.)",
+            "artist": "谷本光",
+            "id": 531223
+        },
+        {
+            "name": "Melodies Of Life",
+            "artist": "南澤大介",
+            "id": 478352
+        },
+        {
+            "name": "Town",
+            "artist": "南澤大介",
+            "id": 478285
+        },
+        {
+            "name": "Living Naturally",
+            "artist": "岡崎倫典",
+            "id": 493575
+        },
+        {
+            "name": "雲の上を散歩",
+            "artist": "岡崎倫典",
+            "id": 28048175
+        },
+        {
+            "name": "海路",
+            "artist": "松井祐貴",
+            "id": 27562239
+        },
+        {
+            "name": "歩いても 歩いても",
+            "artist": "ゴンチチ",
+            "id": 757761
+        },
+        {
+            "name": "春蝉",
+            "artist": "ゴンチチ",
+            "id": 757546
+        },
+        {
+            "name": "エナジー・フロー",
+            "artist": "村治佳織",
+            "id": 614102
+        }
+    ]
+}

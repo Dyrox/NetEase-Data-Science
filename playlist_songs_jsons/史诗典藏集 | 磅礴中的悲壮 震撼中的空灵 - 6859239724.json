@@ -1,0 +1,857 @@
+{
+    "playlist_info": {
+        "name": "史诗典藏集 | 磅礴中的悲壮 震撼中的空灵",
+        "trackcount": 169,
+        "playcount": 28042,
+        "creator": "峯哥牛逼",
+        "createDate": "2021-07-16",
+        "heat": 39.0
+    },
+    "songs": [
+        {
+            "name": "Larger Than Life",
+            "artist": "Future World Music",
+            "id": 36872277
+        },
+        {
+            "name": "Protectors Of Truth",
+            "artist": "Immediate Music",
+            "id": 28621364
+        },
+        {
+            "name": "Rise Above",
+            "artist": "Position Music",
+            "id": 28913467
+        },
+        {
+            "name": "TimeScapes",
+            "artist": "John Stanford",
+            "id": 1610842
+        },
+        {
+            "name": "Road to Victory",
+            "artist": "Position Music",
+            "id": 28913464
+        },
+        {
+            "name": "Dawning Promises",
+            "artist": "ICON Trailer Music",
+            "id": 33522303
+        },
+        {
+            "name": "The Awakening (Main)",
+            "artist": "Gothic Storm",
+            "id": 29103333
+        },
+        {
+            "name": "The Fallen",
+            "artist": "Sub Pub Music",
+            "id": 36841412
+        },
+        {
+            "name": "Creation of Earth",
+            "artist": "Thomas Bergersen",
+            "id": 29460365
+        },
+        {
+            "name": "Water Of Life",
+            "artist": "Silver Screen",
+            "id": 35726462
+        },
+        {
+            "name": "The Conquered Shall Prevail (No Choir)",
+            "artist": "Immediate Music",
+            "id": 27382492
+        },
+        {
+            "name": "Into The Sun",
+            "artist": "Liquid Cinema",
+            "id": 37095739
+        },
+        {
+            "name": "Memento",
+            "artist": "Jo Blankenburg",
+            "id": 32857596
+        },
+        {
+            "name": "Magic of Love",
+            "artist": "BrunuhVille",
+            "id": 28002600
+        },
+        {
+            "name": "Forget Me (Without Vocal)",
+            "artist": "Tanaki Alison",
+            "id": 29045546
+        },
+        {
+            "name": "Freefall (Main)",
+            "artist": "Gothic Storm",
+            "id": 36664686
+        },
+        {
+            "name": "Renascence",
+            "artist": "Jo Blankenburg",
+            "id": 32857592
+        },
+        {
+            "name": "Epiphany",
+            "artist": "Shire Music",
+            "id": 34916759
+        },
+        {
+            "name": "Breath and Life",
+            "artist": "Audiomachine",
+            "id": 3935139
+        },
+        {
+            "name": "One More Time",
+            "artist": "Shire Music",
+            "id": 34916750
+        },
+        {
+            "name": "Time and Tide",
+            "artist": "Dirk Leupolz",
+            "id": 32619153
+        },
+        {
+            "name": "Whisper of Hope",
+            "artist": "Gothic Storm",
+            "id": 1415697542
+        },
+        {
+            "name": "Men Of Honor",
+            "artist": "Two Steps From Hell",
+            "id": 35437378
+        },
+        {
+            "name": "Broken Wing",
+            "artist": "Clinton Patrick Rusich",
+            "id": 29391482
+        },
+        {
+            "name": "Sunshine (Adagio in D Minor)",
+            "artist": "John Murphy",
+            "id": 28004197
+        },
+        {
+            "name": "Inevitable Destiny",
+            "artist": "EpicMusicVn",
+            "id": 402070053
+        },
+        {
+            "name": "Riding the Light",
+            "artist": "Epic Soul Factory",
+            "id": 36587572
+        },
+        {
+            "name": "Chasing The Dream",
+            "artist": "Ivan Torrent",
+            "id": 30039946
+        },
+        {
+            "name": "Soon he'll be back",
+            "artist": "Spaarkey",
+            "id": 31010029
+        },
+        {
+            "name": "Hope",
+            "artist": "Imagine Music",
+            "id": 440411968
+        },
+        {
+            "name": "Hope Always",
+            "artist": "X-Ray Dog",
+            "id": 545152022
+        },
+        {
+            "name": "Sigma",
+            "artist": "Epic Soul Factory",
+            "id": 36587570
+        },
+        {
+            "name": "Between Worlds",
+            "artist": "Roger Subirana",
+            "id": 28661549
+        },
+        {
+            "name": "Blue Rose",
+            "artist": "BrunuhVille",
+            "id": 31356792
+        },
+        {
+            "name": "You Are Not Alone (Main)",
+            "artist": "Gothic Storm",
+            "id": 29103339
+        },
+        {
+            "name": "Victory",
+            "artist": "Two Steps From Hell",
+            "id": 31654455
+        },
+        {
+            "name": "Source of Life",
+            "artist": "Really Slow Motion",
+            "id": 441116088
+        },
+        {
+            "name": "Go Time",
+            "artist": "Mark Petrie",
+            "id": 29717271
+        },
+        {
+            "name": "Star Sky",
+            "artist": "Two Steps From Hell",
+            "id": 31654478
+        },
+        {
+            "name": "The Sky is my Kingdom",
+            "artist": "Really Slow Motion",
+            "id": 441116087
+        },
+        {
+            "name": "Remembrance",
+            "artist": "Really Slow Motion",
+            "id": 34200270
+        },
+        {
+            "name": "Bittersweet",
+            "artist": "Silver Screen",
+            "id": 35726449
+        },
+        {
+            "name": "The Surface Of The Sun",
+            "artist": "John Murphy",
+            "id": 1552147
+        },
+        {
+            "name": "Homecoming",
+            "artist": "Thomas Bergersen",
+            "id": 2061738
+        },
+        {
+            "name": "Legendary",
+            "artist": "Epic Soul Factory",
+            "id": 36586598
+        },
+        {
+            "name": "Rainmaker",
+            "artist": "Jesper Kyd",
+            "id": 29164100
+        },
+        {
+            "name": "Sketches",
+            "artist": "APM Music",
+            "id": 483216610
+        },
+        {
+            "name": "Miracles",
+            "artist": "Two Steps From Hell",
+            "id": 28635210
+        },
+        {
+            "name": "The Sun Will Rise",
+            "artist": "Richard Schrieber",
+            "id": 471968263
+        },
+        {
+            "name": "Aeon",
+            "artist": "Xtortion Audio",
+            "id": 29751209
+        },
+        {
+            "name": "Rise Above",
+            "artist": "Veigar Margeirsson",
+            "id": 1460106233
+        },
+        {
+            "name": "Unbroken",
+            "artist": "Audiomachine",
+            "id": 36587615
+        },
+        {
+            "name": "Gates Of Pearl Main",
+            "artist": "Really Slow Motion",
+            "id": 36587578
+        },
+        {
+            "name": "Angels Will Rise",
+            "artist": "Twisted Jukebox",
+            "id": 29844298
+        },
+        {
+            "name": "The World You Thought You Knew",
+            "artist": "Senpai",
+            "id": 29239172
+        },
+        {
+            "name": "Sun Gazer",
+            "artist": "Two Steps From Hell",
+            "id": 28635213
+        },
+        {
+            "name": "Eventide",
+            "artist": "Brand X Music",
+            "id": 3977942
+        },
+        {
+            "name": "Tourniquet",
+            "artist": "Xtortion Audio",
+            "id": 29577193
+        },
+        {
+            "name": "Winter's Tale",
+            "artist": "BrunuhVille",
+            "id": 34142760
+        },
+        {
+            "name": "All That We Are (Main)",
+            "artist": "Gothic Storm",
+            "id": 36668625
+        },
+        {
+            "name": "Awake",
+            "artist": "Full Tilt",
+            "id": 545202065
+        },
+        {
+            "name": "Becoming",
+            "artist": "Really Slow Motion",
+            "id": 1448572173
+        },
+        {
+            "name": "Suns and Stars",
+            "artist": "Really Slow Motion",
+            "id": 34200248
+        },
+        {
+            "name": "Infinity",
+            "artist": "Imagine Music",
+            "id": 440464929
+        },
+        {
+            "name": "Firm heart",
+            "artist": "不死神乐",
+            "id": 461827479
+        },
+        {
+            "name": "Aurora",
+            "artist": "Florian Bur",
+            "id": 438466393
+        },
+        {
+            "name": "Follow Your Heart (Main)",
+            "artist": "Gothic Storm",
+            "id": 36797144
+        },
+        {
+            "name": "Tales of Neverland（inspiring)",
+            "artist": "J.T.Peterson",
+            "id": 410628806
+        },
+        {
+            "name": "Ora Pro Nobis",
+            "artist": "RJ Chevalier",
+            "id": 41667265
+        },
+        {
+            "name": "Indestructible",
+            "artist": "Twelve Titans Music",
+            "id": 32320957
+        },
+        {
+            "name": "Archangel",
+            "artist": "Electus",
+            "id": 35310149
+        },
+        {
+            "name": "Uprising",
+            "artist": "Hi-Finesse",
+            "id": 29577189
+        },
+        {
+            "name": "Theme Lineah",
+            "artist": "Florian Bur",
+            "id": 27575586
+        },
+        {
+            "name": "Impossible",
+            "artist": "Two Steps From Hell",
+            "id": 512298117
+        },
+        {
+            "name": "Between Oceans",
+            "artist": "Nick Murray",
+            "id": 29751207
+        },
+        {
+            "name": "Shadowfall",
+            "artist": "Audiomachine",
+            "id": 27969824
+        },
+        {
+            "name": "An Unfinished Life",
+            "artist": "Audiomachine",
+            "id": 26902557
+        },
+        {
+            "name": "Unbroken",
+            "artist": "Brand X Music",
+            "id": 471969017
+        },
+        {
+            "name": "Freedom Is Ours",
+            "artist": "Epic Score",
+            "id": 41630476
+        },
+        {
+            "name": "Victory of Life",
+            "artist": "Future World Music",
+            "id": 28458419
+        },
+        {
+            "name": "Last Second",
+            "artist": "Florian Bur",
+            "id": 31356774
+        },
+        {
+            "name": "Army of the Skies",
+            "artist": "Peter Roe",
+            "id": 524913530
+        },
+        {
+            "name": "Aurora",
+            "artist": "Fringe Element",
+            "id": 36841070
+        },
+        {
+            "name": "My Personal Paradise",
+            "artist": "Imagine Music",
+            "id": 440464931
+        },
+        {
+            "name": "Road to Victory",
+            "artist": "Veigar Margeirsson",
+            "id": 1460106232
+        },
+        {
+            "name": "Forever Alone (Main)",
+            "artist": "Gothic Storm",
+            "id": 29103342
+        },
+        {
+            "name": "After The Fall",
+            "artist": "Two Steps From Hell",
+            "id": 19558031
+        },
+        {
+            "name": "Arise (Theme to the Afc Championship On Cbs)",
+            "artist": "E.S. Posthumus",
+            "id": 1303475
+        },
+        {
+            "name": "Living Legacy",
+            "artist": "Kelly Andrew",
+            "id": 29486431
+        },
+        {
+            "name": "Mother Earth",
+            "artist": "BrunuhVille",
+            "id": 34142762
+        },
+        {
+            "name": "Tree of Life",
+            "artist": "Audiomachine",
+            "id": 26902556
+        },
+        {
+            "name": "Galactic Dust",
+            "artist": "Really Slow Motion",
+            "id": 38392307
+        },
+        {
+            "name": "Luna",
+            "artist": "BrunuhVille",
+            "id": 28002604
+        },
+        {
+            "name": "The Resistance (Main)",
+            "artist": "Gothic Storm",
+            "id": 36664687
+        },
+        {
+            "name": "Serenata Immortale",
+            "artist": "Immediate Music",
+            "id": 1461836
+        },
+        {
+            "name": "Magika",
+            "artist": "Two Steps From Hell",
+            "id": 32737702
+        },
+        {
+            "name": "Brotherhood",
+            "artist": "John Dreamer",
+            "id": 28283145
+        },
+        {
+            "name": "Pitcairn Story",
+            "artist": "Michael Conn",
+            "id": 41667067
+        },
+        {
+            "name": "Odyssey",
+            "artist": "Hi-Finesse",
+            "id": 29844835
+        },
+        {
+            "name": "Falling Into Inertia",
+            "artist": "Immediate Music",
+            "id": 28621380
+        },
+        {
+            "name": "Never Forget (Main)",
+            "artist": "Gothic Storm",
+            "id": 29103334
+        },
+        {
+            "name": "Thank You",
+            "artist": "Florian Bur",
+            "id": 438456481
+        },
+        {
+            "name": "Shadows and Conspiracy",
+            "artist": "Xtortion Audio",
+            "id": 29932008
+        },
+        {
+            "name": "Anti-Hero (Piano Only)",
+            "artist": "Gothic Storm",
+            "id": 36668629
+        },
+        {
+            "name": "Where Civilization Once Lay",
+            "artist": "Jeremiah Pena",
+            "id": 29751206
+        },
+        {
+            "name": "when the spring comes",
+            "artist": "sergey saliev",
+            "id": 409931420
+        },
+        {
+            "name": "Perseus",
+            "artist": "Dwayne Ford",
+            "id": 410055758
+        },
+        {
+            "name": "Eternity",
+            "artist": "Liquid Cinema",
+            "id": 36668614
+        },
+        {
+            "name": "Years and Years",
+            "artist": "Richard Schrieber",
+            "id": 471969281
+        },
+        {
+            "name": "Starlight",
+            "artist": "EpicMusicVn",
+            "id": 402070051
+        },
+        {
+            "name": "Miracle of Life",
+            "artist": "Richard Schrieber",
+            "id": 471968260
+        },
+        {
+            "name": "Endeavour",
+            "artist": "Nick Glennie-Smith",
+            "id": 32619159
+        },
+        {
+            "name": "Remember Me",
+            "artist": "Thomas Bergersen",
+            "id": 2061740
+        },
+        {
+            "name": "Aqua Vitae",
+            "artist": "Future World Music",
+            "id": 1354660
+        },
+        {
+            "name": "Atlantis",
+            "artist": "Arn Andersson",
+            "id": 31680639
+        },
+        {
+            "name": "Love Across The Stars",
+            "artist": "Patryk Scelina",
+            "id": 35435073
+        },
+        {
+            "name": "Aura",
+            "artist": "BrunuhVille",
+            "id": 28002598
+        },
+        {
+            "name": "Era",
+            "artist": "Liquid Cinema",
+            "id": 32364148
+        },
+        {
+            "name": "Our Only Hope (Main)",
+            "artist": "Gothic Storm",
+            "id": 36668622
+        },
+        {
+            "name": "Lament of Valkyrie",
+            "artist": "EpicMusicVn",
+            "id": 402070052
+        },
+        {
+            "name": "Air Support",
+            "artist": "Dwayne Ford",
+            "id": 410055752
+        },
+        {
+            "name": "Into the Light",
+            "artist": "Brand X Music",
+            "id": 407485340
+        },
+        {
+            "name": "Forever",
+            "artist": "Liquid Cinema",
+            "id": 32364146
+        },
+        {
+            "name": "Ocean Princess",
+            "artist": "Thomas Bergersen",
+            "id": 2061724
+        },
+        {
+            "name": "Eternal Light",
+            "artist": "Future World Music",
+            "id": 27574625
+        },
+        {
+            "name": "Rise - Epic Music",
+            "artist": "John Dreamer",
+            "id": 28283137
+        },
+        {
+            "name": "Revelations",
+            "artist": "Veigar Margeirsson",
+            "id": 28765194
+        },
+        {
+            "name": "Creator of Worlds",
+            "artist": "Epic Score",
+            "id": 32317562
+        },
+        {
+            "name": "Voyage of Dreams",
+            "artist": "Audiomachine",
+            "id": 36587609
+        },
+        {
+            "name": "Follow Your Dream",
+            "artist": "Future World Music",
+            "id": 27574655
+        },
+        {
+            "name": "Elan Vital",
+            "artist": "Future World Music",
+            "id": 1385175445
+        },
+        {
+            "name": "Legend",
+            "artist": "R. Armando Morabito",
+            "id": 36621116
+        },
+        {
+            "name": "Hineni",
+            "artist": "Jordan Critz",
+            "id": 1444090673
+        },
+        {
+            "name": "A New Day",
+            "artist": "Mark Petrie",
+            "id": 1783906
+        },
+        {
+            "name": "Absolution",
+            "artist": "Ryan Taubert",
+            "id": 31191532
+        },
+        {
+            "name": "Angel Warriors",
+            "artist": "Songs To Your Eyes",
+            "id": 36871349
+        },
+        {
+            "name": "Change The World",
+            "artist": "Hi-Finesse",
+            "id": 29819842
+        },
+        {
+            "name": "Angel",
+            "artist": "R. Armando Morabito",
+            "id": 36783801
+        },
+        {
+            "name": "Above and Beyond",
+            "artist": "Audiomachine",
+            "id": 26902555
+        },
+        {
+            "name": "Rebirth",
+            "artist": "Must Save Jane!",
+            "id": 36664661
+        },
+        {
+            "name": "Disappear",
+            "artist": "Two Steps From Hell",
+            "id": 4377236
+        },
+        {
+            "name": "Before I Fall",
+            "artist": "Electus",
+            "id": 417247736
+        },
+        {
+            "name": "Planet Earth Forever",
+            "artist": "Jo Blankenburg",
+            "id": 1602694
+        },
+        {
+            "name": "Flying in the Clouds",
+            "artist": "Jonathan Wright",
+            "id": 1405039067
+        },
+        {
+            "name": "Lucida (Instrumental)",
+            "artist": "Jo Blankenburg",
+            "id": 32857607
+        },
+        {
+            "name": "Into The Fire",
+            "artist": "Must Save Jane!",
+            "id": 28346647
+        },
+        {
+            "name": "Remember Me",
+            "artist": "Aaron Mist",
+            "id": 1304837401
+        },
+        {
+            "name": "Dreammaker",
+            "artist": "Thomas Bergersen",
+            "id": 2061722
+        },
+        {
+            "name": "Dear You",
+            "artist": "David Chappell",
+            "id": 507116270
+        },
+        {
+            "name": "上海 1985",
+            "artist": "R. Armando Morabito",
+            "id": 36621122
+        },
+        {
+            "name": "White Angel",
+            "artist": "Florian Bur",
+            "id": 36668955
+        },
+        {
+            "name": "Over The Mountain",
+            "artist": "Sub Pub Music",
+            "id": 30284105
+        },
+        {
+            "name": "Time Is Passing",
+            "artist": "Immediate Music",
+            "id": 1337111650
+        },
+        {
+            "name": "Disciple",
+            "artist": "Liquid Cinema",
+            "id": 32364150
+        },
+        {
+            "name": "Sol Invictus",
+            "artist": "Audiomachine",
+            "id": 28285759
+        },
+        {
+            "name": "Empyrean",
+            "artist": "Jesper Kyd",
+            "id": 29164101
+        },
+        {
+            "name": "Millennia",
+            "artist": "Hi-Finesse",
+            "id": 32619934
+        },
+        {
+            "name": "Divinity",
+            "artist": "Peter Roe",
+            "id": 37211438
+        },
+        {
+            "name": "Between Worlds",
+            "artist": "Silver Screen",
+            "id": 35726460
+        },
+        {
+            "name": "Aphelion",
+            "artist": "Jesper Kyd",
+            "id": 31421779
+        },
+        {
+            "name": "Mythical Hero",
+            "artist": "Veigar Margeirsson",
+            "id": 1460105391
+        },
+        {
+            "name": "Equinox",
+            "artist": "Audiomachine",
+            "id": 26902559
+        },
+        {
+            "name": "Vishnu",
+            "artist": "E.S. Posthumus",
+            "id": 17539358
+        },
+        {
+            "name": "Get The Girl",
+            "artist": "Richard Schrieber",
+            "id": 471969282
+        },
+        {
+            "name": "Main Theme",
+            "artist": "Shire Music",
+            "id": 35437578
+        },
+        {
+            "name": "Heaven & Hell",
+            "artist": "BrunuhVille",
+            "id": 28002599
+        },
+        {
+            "name": "No Name",
+            "artist": "Florian Bur",
+            "id": 438456478
+        },
+        {
+            "name": "Fire",
+            "artist": "Shire Music",
+            "id": 34916748
+        },
+        {
+            "name": "Beautiful",
+            "artist": "Future World Music",
+            "id": 33682169
+        }
+    ]
+}

@@ -1,0 +1,907 @@
+{
+    "playlist_info": {
+        "name": "朋克经典.绿日乐队",
+        "trackcount": 179,
+        "playcount": 36799,
+        "creator": "山东-老刘",
+        "createDate": "2020-02-03",
+        "heat": 29.0
+    },
+    "songs": [
+        {
+            "name": "Boulevard Of Broken Dreams",
+            "artist": "Green Day",
+            "id": 5159464
+        },
+        {
+            "name": "Last Night On Earth",
+            "artist": "Green Day",
+            "id": 18127622
+        },
+        {
+            "name": "21 Guns",
+            "artist": "Green Day",
+            "id": 18127555
+        },
+        {
+            "name": "Wake Me Up When September Ends",
+            "artist": "Green Day",
+            "id": 26795437
+        },
+        {
+            "name": "Basket Case",
+            "artist": "Green Day",
+            "id": 4085062
+        },
+        {
+            "name": "Know Your Enemy",
+            "artist": "Green Day",
+            "id": 18127586
+        },
+        {
+            "name": "21 Guns (Live at Shoreline Amphitheatre, Mountain View, CA, 9/4/10)",
+            "artist": "Green Day",
+            "id": 18126591
+        },
+        {
+            "name": "¡Viva La Gloria!",
+            "artist": "Green Day",
+            "id": 18127616
+        },
+        {
+            "name": "Good Riddance",
+            "artist": "Green Day",
+            "id": 27141634
+        },
+        {
+            "name": "The Saints Are Coming",
+            "artist": "Green Day",
+            "id": 4407015
+        },
+        {
+            "name": "21 Guns",
+            "artist": "Green Day",
+            "id": 22337241
+        },
+        {
+            "name": "Holiday",
+            "artist": "Green Day",
+            "id": 26669103
+        },
+        {
+            "name": "21st Century Breakdown",
+            "artist": "Green Day",
+            "id": 18127612
+        },
+        {
+            "name": "Guns",
+            "artist": "Green Day",
+            "id": 5106141
+        },
+        {
+            "name": "Good Riddance (Time of Your Life) [Live at Pannonia Fields II, Nickelsdorf, Austria, 6/12/10]",
+            "artist": "Green Day",
+            "id": 18126595
+        },
+        {
+            "name": "American Idiot",
+            "artist": "Green Day",
+            "id": 5145848
+        },
+        {
+            "name": "21 Guns(Live at the Grammy)",
+            "artist": "Green Day",
+            "id": 35331075
+        },
+        {
+            "name": "¿Viva La Gloria? [Little Girl]",
+            "artist": "Green Day",
+            "id": 18127632
+        },
+        {
+            "name": "Last Of The American Girls",
+            "artist": "Green Day",
+            "id": 18127628
+        },
+        {
+            "name": "Boulevard of Broken Dreams",
+            "artist": "Green Day",
+            "id": 5180484
+        },
+        {
+            "name": "21 Guns [Live In Japan]",
+            "artist": "Green Day",
+            "id": 4083705
+        },
+        {
+            "name": "boulevard of broken dreams",
+            "artist": "Green Day",
+            "id": 26927586
+        },
+        {
+            "name": "Letterbomb",
+            "artist": "Green Day",
+            "id": 27011580
+        },
+        {
+            "name": "Before The Lobotomy",
+            "artist": "Green Day",
+            "id": 18127618
+        },
+        {
+            "name": "Minority (Radio version)",
+            "artist": "Green Day",
+            "id": 4084577
+        },
+        {
+            "name": "East Jesus Nowhere (Album Version)",
+            "artist": "Green Day",
+            "id": 18127624
+        },
+        {
+            "name": "Intro (Live)",
+            "artist": "Green Day",
+            "id": 527103213
+        },
+        {
+            "name": "Boulevard Of Broken Dreams",
+            "artist": "Green Day",
+            "id": 5185567
+        },
+        {
+            "name": "When I Come Around (Album Version)",
+            "artist": "Green Day",
+            "id": 26796641
+        },
+        {
+            "name": "Song Of The Century",
+            "artist": "Green Day",
+            "id": 18127611
+        },
+        {
+            "name": "The Simpsons Theme",
+            "artist": "Green Day",
+            "id": 4083976
+        },
+        {
+            "name": "1000 Hours",
+            "artist": "Green Day",
+            "id": 27101075
+        },
+        {
+            "name": "Peacemaker",
+            "artist": "Green Day",
+            "id": 18127626
+        },
+        {
+            "name": "She's A Rebel",
+            "artist": "Green Day",
+            "id": 26790474
+        },
+        {
+            "name": "Wake Me up When September Ends (Live at Nova Rock Festival, Nickelsdorf, Austria, 6/12/10)",
+            "artist": "Green Day",
+            "id": 18126594
+        },
+        {
+            "name": "Dry Ice",
+            "artist": "Green Day",
+            "id": 27101076
+        },
+        {
+            "name": "American Eulogy: Mass Hysteria/Modern World",
+            "artist": "Green Day",
+            "id": 18127642
+        },
+        {
+            "name": "The Static Age",
+            "artist": "Green Day",
+            "id": 18127638
+        },
+        {
+            "name": "Murder City",
+            "artist": "Green Day",
+            "id": 18127630
+        },
+        {
+            "name": "Horseshoes And Handgrenades",
+            "artist": "Green Day",
+            "id": 18127636
+        },
+        {
+            "name": "Like A Rolling Stone",
+            "artist": "Green Day",
+            "id": 18127648
+        },
+        {
+            "name": "See The Light",
+            "artist": "Green Day",
+            "id": 18127644
+        },
+        {
+            "name": "Christian's Inferno",
+            "artist": "Green Day",
+            "id": 18127620
+        },
+        {
+            "name": "Holiday (Live at Dublin, Ireland)",
+            "artist": "Green Day",
+            "id": 18126718
+        },
+        {
+            "name": "Boulevard Of Broken Dreams (Sullivan King Bootleg)",
+            "artist": "Sullivan King",
+            "id": 1354204857
+        },
+        {
+            "name": "Boulevard Of Broken Dreams (Renko Remix)",
+            "artist": "Renko",
+            "id": 35806038
+        },
+        {
+            "name": "¡Viva La Gloria! (Live at SuperPages.com Center, Dallas, TX, 8/26/10)",
+            "artist": "Green Day",
+            "id": 18126574
+        },
+        {
+            "name": "Macy's Day Parade(Live)",
+            "artist": "Green Day",
+            "id": 4084445
+        },
+        {
+            "name": "Boulevard Of Broken Dreams",
+            "artist": "Green Day",
+            "id": 35270317
+        },
+        {
+            "name": "86 (8-Bit)",
+            "artist": "Green Day",
+            "id": 27956888
+        },
+        {
+            "name": "Rusty James",
+            "artist": "Green Day",
+            "id": 18127171
+        },
+        {
+            "name": "Redundant",
+            "artist": "Green Day",
+            "id": 26814191
+        },
+        {
+            "name": "Brain Stew (Live at Milton Keynes National Bowl, Milton Keynes, England, 6/18/05)",
+            "artist": "Green Day",
+            "id": 4084038
+        },
+        {
+            "name": "Jesus Of Suburbia",
+            "artist": "Green Day",
+            "id": 18127528
+        },
+        {
+            "name": "American Idiot (Live at Quai Jacques-Cartier, Montréal, Quebec, Canada, 8/21/10)",
+            "artist": "Green Day",
+            "id": 18126593
+        },
+        {
+            "name": "Know Your Enemy",
+            "artist": "Green Day",
+            "id": 5119939
+        },
+        {
+            "name": "The Judge's Daughter",
+            "artist": "Green Day",
+            "id": 401832731
+        },
+        {
+            "name": "21 Guns [Verizon Studio 880 Session]",
+            "artist": "Green Day",
+            "id": 18127559
+        },
+        {
+            "name": "21st Century Breakdown (Live at Wembley Stadium, London, England, 6/15/10)",
+            "artist": "Green Day",
+            "id": 18126712
+        },
+        {
+            "name": "Know Your Enemy (Live at Manchester, England)",
+            "artist": "Green Day",
+            "id": 18126568
+        },
+        {
+            "name": "21st Century Breakdown (Live at Wembley Stadium, London, England, 6/15/10)",
+            "artist": "Green Day",
+            "id": 18126566
+        },
+        {
+            "name": "Longview (Live at Milton Keynes National Bowl, Milton Keynes, England, 6/18/05)",
+            "artist": "Green Day",
+            "id": 4084029
+        },
+        {
+            "name": "Paper Lanterns (Acoustic)",
+            "artist": "Green Day",
+            "id": 566055440
+        },
+        {
+            "name": "Paper Lanterns",
+            "artist": "Green Day",
+            "id": 566055438
+        },
+        {
+            "name": "F.O.D.",
+            "artist": "Green Day",
+            "id": 566055437
+        },
+        {
+            "name": "Longview",
+            "artist": "Green Day",
+            "id": 566055436
+        },
+        {
+            "name": "One of My Lies",
+            "artist": "Green Day",
+            "id": 566055435
+        },
+        {
+            "name": "All by Myself",
+            "artist": "Green Day",
+            "id": 566055434
+        },
+        {
+            "name": "Dominated Love Slave",
+            "artist": "Green Day",
+            "id": 566055433
+        },
+        {
+            "name": "Intermission",
+            "artist": "Green Day",
+            "id": 566055432
+        },
+        {
+            "name": "16",
+            "artist": "Green Day",
+            "id": 566055430
+        },
+        {
+            "name": "Who Wrote Holden Caulfield?",
+            "artist": "Green Day",
+            "id": 566055428
+        },
+        {
+            "name": "Christie Road",
+            "artist": "Green Day",
+            "id": 566055427
+        },
+        {
+            "name": "Don't Leave Me",
+            "artist": "Green Day",
+            "id": 566055421
+        },
+        {
+            "name": "One for the Razorbacks (Acoustic)",
+            "artist": "Green Day",
+            "id": 566054644
+        },
+        {
+            "name": "The Words I Might Have Ate (Acoustic)",
+            "artist": "Green Day",
+            "id": 566054643
+        },
+        {
+            "name": "Burnout",
+            "artist": "Green Day",
+            "id": 566054642
+        },
+        {
+            "name": "Basket Case",
+            "artist": "Green Day",
+            "id": 566054640
+        },
+        {
+            "name": "Chump",
+            "artist": "Green Day",
+            "id": 566054639
+        },
+        {
+            "name": "Welcome to Paradise",
+            "artist": "Green Day",
+            "id": 566054638
+        },
+        {
+            "name": "Knowledge",
+            "artist": "Green Day",
+            "id": 566054636
+        },
+        {
+            "name": "One of My Lies",
+            "artist": "Green Day",
+            "id": 566054635
+        },
+        {
+            "name": "Only of You",
+            "artist": "Green Day",
+            "id": 566054633
+        },
+        {
+            "name": "80",
+            "artist": "Green Day",
+            "id": 566054624
+        },
+        {
+            "name": "2000 Light Years Away",
+            "artist": "Green Day",
+            "id": 566054621
+        },
+        {
+            "name": "409 in Your Coffeemaker",
+            "artist": "Green Day",
+            "id": 566054618
+        },
+        {
+            "name": "F.O.D. (Live)",
+            "artist": "Green Day",
+            "id": 527103221
+        },
+        {
+            "name": "Burnout (Live)",
+            "artist": "Green Day",
+            "id": 527103220
+        },
+        {
+            "name": "When I Come Around (Live)",
+            "artist": "Green Day",
+            "id": 527103219
+        },
+        {
+            "name": "Basket Case (Live)",
+            "artist": "Green Day",
+            "id": 527103218
+        },
+        {
+            "name": "Longview (Live)",
+            "artist": "Green Day",
+            "id": 527103217
+        },
+        {
+            "name": "Chump (Live)",
+            "artist": "Green Day",
+            "id": 527103216
+        },
+        {
+            "name": "Paper Lanterns (Live)",
+            "artist": "Green Day",
+            "id": 525294139
+        },
+        {
+            "name": "All By Myself (Live)",
+            "artist": "Green Day",
+            "id": 525294136
+        },
+        {
+            "name": "Basket Case (Live)",
+            "artist": "Green Day",
+            "id": 525294135
+        },
+        {
+            "name": "2,000 Light Years Away (Live)",
+            "artist": "Green Day",
+            "id": 525294134
+        },
+        {
+            "name": "Burnout (Live)",
+            "artist": "Green Day",
+            "id": 525294131
+        },
+        {
+            "name": "Longview (Live)",
+            "artist": "Green Day",
+            "id": 525294130
+        },
+        {
+            "name": "Chump (Live)",
+            "artist": "Green Day",
+            "id": 525294129
+        },
+        {
+            "name": "Going To Pasalacqua (Live)",
+            "artist": "Green Day",
+            "id": 525294128
+        },
+        {
+            "name": "86 (Live)",
+            "artist": "Green Day",
+            "id": 523809337
+        },
+        {
+            "name": "Basket Case (Live)",
+            "artist": "Green Day",
+            "id": 523809335
+        },
+        {
+            "name": "16 (Live)",
+            "artist": "Green Day",
+            "id": 523809332
+        },
+        {
+            "name": "Who Wrote Holden Caulfield? (Live)",
+            "artist": "Green Day",
+            "id": 523809330
+        },
+        {
+            "name": "The Judge's Daughter (Live)",
+            "artist": "Green Day",
+            "id": 523809328
+        },
+        {
+            "name": "Welcome To Paradise (Live)",
+            "artist": "Green Day",
+            "id": 523809327
+        },
+        {
+            "name": "80 (Live)",
+            "artist": "Green Day",
+            "id": 523809326
+        },
+        {
+            "name": "Don't Leave Me (Live)",
+            "artist": "Green Day",
+            "id": 523809324
+        },
+        {
+            "name": "All By Myself (Live)",
+            "artist": "Green Day",
+            "id": 522105413
+        },
+        {
+            "name": "C Yo Yus (Live)",
+            "artist": "Green Day",
+            "id": 522105409
+        },
+        {
+            "name": "16 (Live)",
+            "artist": "Green Day",
+            "id": 522105407
+        },
+        {
+            "name": "Welcome To Paradise (Live)",
+            "artist": "Green Day",
+            "id": 522105398
+        },
+        {
+            "name": "Don't Leave Me (Live)",
+            "artist": "Green Day",
+            "id": 522105396
+        },
+        {
+            "name": "Outsider - Green Day",
+            "artist": "Green Day",
+            "id": 5201206
+        },
+        {
+            "name": "21 Guns",
+            "artist": "Green Day",
+            "id": 5111886
+        },
+        {
+            "name": "21 Guns",
+            "artist": "Green Day",
+            "id": 5109850
+        },
+        {
+            "name": "Blitzkrieg Bop (Live)",
+            "artist": "Green Day",
+            "id": 5092448
+        },
+        {
+            "name": "Brain Stew [The Godzilla Remix]",
+            "artist": "Green Day",
+            "id": 5055820
+        },
+        {
+            "name": "Wake Me Up When September Ends",
+            "artist": "Green Day",
+            "id": 504079335
+        },
+        {
+            "name": "Boulevard of Broken Dreams",
+            "artist": "Green Day",
+            "id": 504079328
+        },
+        {
+            "name": "Boulevard of Broken Dreams (Karaoke Version)",
+            "artist": "Green Day",
+            "id": 497203979
+        },
+        {
+            "name": "Boulevard of Broken Dreams (Karaoke Version)",
+            "artist": "Green Day",
+            "id": 497203977
+        },
+        {
+            "name": "Wake Me Up When September Ends (Karaoke Version)",
+            "artist": "Amazing Karaoke",
+            "id": 486531852
+        },
+        {
+            "name": "409 in your coffeemaker",
+            "artist": "Green Day",
+            "id": 4085074
+        },
+        {
+            "name": "On the Wagon(non-LP track)",
+            "artist": "Green Day",
+            "id": 4085066
+        },
+        {
+            "name": "Christie Road (live)",
+            "artist": "Green Day",
+            "id": 4085048
+        },
+        {
+            "name": "F.O.D. (**** Off and Die) (live)",
+            "artist": "Green Day",
+            "id": 4085045
+        },
+        {
+            "name": "When I Come Around [Live]",
+            "artist": "Green Day",
+            "id": 4084891
+        },
+        {
+            "name": "2,000 Light Years Away",
+            "artist": "Green Day",
+            "id": 4084888
+        },
+        {
+            "name": "One of My Lies [Live]",
+            "artist": "Green Day",
+            "id": 4084870
+        },
+        {
+            "name": "Going to Pasalaqua [Live]",
+            "artist": "Green Day",
+            "id": 4084861
+        },
+        {
+            "name": "Basket Case (Live)",
+            "artist": "Green Day",
+            "id": 4084780
+        },
+        {
+            "name": "When I Come Around (Live)",
+            "artist": "Green Day",
+            "id": 4084765
+        },
+        {
+            "name": "Hitchin' A Ride (Live)",
+            "artist": "Green Day",
+            "id": 4084748
+        },
+        {
+            "name": "Good Riddance (Time Of Your Life) (Live)",
+            "artist": "Green Day",
+            "id": 4084739
+        },
+        {
+            "name": "When I Come Around (Live)",
+            "artist": "Green Day",
+            "id": 4084732
+        },
+        {
+            "name": "Hitchin' A Ride (Live)",
+            "artist": "Green Day",
+            "id": 4084714
+        },
+        {
+            "name": "Brat (Live from Tokyo)",
+            "artist": "Green Day",
+            "id": 4084578
+        },
+        {
+            "name": "Minority(Live)",
+            "artist": "Green Day",
+            "id": 4084442
+        },
+        {
+            "name": "Waiting(Live)",
+            "artist": "Green Day",
+            "id": 4084440
+        },
+        {
+            "name": "Blood, *** and Booze(Live)",
+            "artist": "Green Day",
+            "id": 4084433
+        },
+        {
+            "name": "Castaway(Live)",
+            "artist": "Green Day",
+            "id": 4084430
+        },
+        {
+            "name": "Church on Sunday(Live)",
+            "artist": "Green Day",
+            "id": 4084427
+        },
+        {
+            "name": "Untitled Track",
+            "artist": "Green Day",
+            "id": 4084085
+        },
+        {
+            "name": "King for a Day / Shout (Live at Milton Keynes National Bowl, Milton Keynes, England, 6/18/05)",
+            "artist": "Green Day",
+            "id": 4084047
+        },
+        {
+            "name": "Hitchin' a Ride (Live at Milton Keynes National Bowl, Milton Keynes, England, 6/18/05)",
+            "artist": "Green Day",
+            "id": 4084034
+        },
+        {
+            "name": "Basket Case (Live)",
+            "artist": "Green Day",
+            "id": 4083966
+        },
+        {
+            "name": "Longview (Live)",
+            "artist": "Green Day",
+            "id": 4083963
+        },
+        {
+            "name": "One Of My Lies (Live)",
+            "artist": "Green Day",
+            "id": 4083951
+        },
+        {
+            "name": "Basket Case [Live In Japan]",
+            "artist": "Green Day",
+            "id": 4083711
+        },
+        {
+            "name": "American Eulogy: Mass Hysteria/Modern World [Live In Japan]",
+            "artist": "Green Day",
+            "id": 4083708
+        },
+        {
+            "name": "Last Of The American Girls [Live In Japan]",
+            "artist": "Green Day",
+            "id": 4083701
+        },
+        {
+            "name": "Know Your Enemy",
+            "artist": "Green Day",
+            "id": 4083697
+        },
+        {
+            "name": "21st Century Breakdown [Live In Japan]",
+            "artist": "Green Day",
+            "id": 4083693
+        },
+        {
+            "name": "Dry Ice",
+            "artist": "Green Day",
+            "id": 401832737
+        },
+        {
+            "name": "Knowledge",
+            "artist": "Green Day",
+            "id": 401832735
+        },
+        {
+            "name": "Road to Acceptance",
+            "artist": "Green Day",
+            "id": 401832729
+        },
+        {
+            "name": "Going to Pasalacqua",
+            "artist": "Green Day",
+            "id": 401832727
+        },
+        {
+            "name": "Green Day",
+            "artist": "Green Day",
+            "id": 401832726
+        },
+        {
+            "name": "Don't Leave Me",
+            "artist": "Green Day",
+            "id": 401832723
+        },
+        {
+            "name": "At the Library",
+            "artist": "Green Day",
+            "id": 401832722
+        },
+        {
+            "name": "Macy's Day Parade",
+            "artist": "Green Day",
+            "id": 27894539
+        },
+        {
+            "name": "The Grouch",
+            "artist": "Green Day",
+            "id": 27362095
+        },
+        {
+            "name": "409 In Your Coffeemaker",
+            "artist": "Green Day",
+            "id": 27265796
+        },
+        {
+            "name": "Why Do You Want Him",
+            "artist": "Green Day",
+            "id": 27265795
+        },
+        {
+            "name": "Paper Lanterns",
+            "artist": "Green Day",
+            "id": 27265794
+        },
+        {
+            "name": "Long View",
+            "artist": "Green Day",
+            "id": 27242222
+        },
+        {
+            "name": "Know Your Enemy",
+            "artist": "Green Day",
+            "id": 27186458
+        },
+        {
+            "name": "My Generation",
+            "artist": "Green Day",
+            "id": 27136112
+        },
+        {
+            "name": "Strangeland",
+            "artist": "Green Day",
+            "id": 27136111
+        },
+        {
+            "name": "Best Thing In Town",
+            "artist": "Green Day",
+            "id": 27136110
+        },
+        {
+            "name": "Sweet Children",
+            "artist": "Green Day",
+            "id": 27136109
+        },
+        {
+            "name": "The One I Want",
+            "artist": "Green Day",
+            "id": 27101078
+        },
+        {
+            "name": "Only Of You",
+            "artist": "Green Day",
+            "id": 27101077
+        },
+        {
+            "name": "2000 Light Years Away (Live)",
+            "artist": "Green Day",
+            "id": 26796644
+        },
+        {
+            "name": "Longview (Live)",
+            "artist": "Green Day",
+            "id": 26796642
+        },
+        {
+            "name": "J.A.R. (Jason Andrew Relva)",
+            "artist": "Green Day",
+            "id": 26691638
+        },
+        {
+            "name": "X-Kid",
+            "artist": "Green Day",
+            "id": 26230388
+        },
+        {
+            "name": "Kill the DJ",
+            "artist": "Green Day",
+            "id": 18127153
+        }
+    ]
+}

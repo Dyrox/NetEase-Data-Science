@@ -1,0 +1,512 @@
+{
+    "playlist_info": {
+        "name": "沉浸式学习 | 埋头刷题中 欢迎打卡同行",
+        "trackcount": 100,
+        "playcount": 1295547,
+        "creator": "云音乐官方歌单",
+        "createDate": "2023-02-10",
+        "heat": 9324.0
+    },
+    "songs": [
+        {
+            "name": "Ivy",
+            "artist": "Keiko Ishida",
+            "id": 1846453736
+        },
+        {
+            "name": "Skating",
+            "artist": "Oscar Unfiltered",
+            "id": 1905792751
+        },
+        {
+            "name": "Silent Rain",
+            "artist": "Ava Decker",
+            "id": 1982994773
+        },
+        {
+            "name": "Sands Of Time",
+            "artist": "Daniel Ketchum",
+            "id": 1824266406
+        },
+        {
+            "name": "Portraits Of Jane",
+            "artist": "Barry Hudson-Taylor",
+            "id": 1825608934
+        },
+        {
+            "name": "Trust",
+            "artist": "Loris Murray",
+            "id": 1981758135
+        },
+        {
+            "name": "Tempo dell’oceano",
+            "artist": "Baldo Aquila",
+            "id": 1883668114
+        },
+        {
+            "name": "Song For Emma",
+            "artist": "Florian Palmer",
+            "id": 1845899890
+        },
+        {
+            "name": "Ozoner",
+            "artist": "Solemn Whisper",
+            "id": 1838643530
+        },
+        {
+            "name": "Sanpo",
+            "artist": "Crimson Memoirs",
+            "id": 1982994633
+        },
+        {
+            "name": "Horizon",
+            "artist": "Jonas Holmes",
+            "id": 1983189365
+        },
+        {
+            "name": "Reminiscing",
+            "artist": "Bruno Engel",
+            "id": 1982988969
+        },
+        {
+            "name": "Tournesol",
+            "artist": "Edie Chastain",
+            "id": 1948962672
+        },
+        {
+            "name": "Hope",
+            "artist": "Leona Boyd",
+            "id": 1983189346
+        },
+        {
+            "name": "Mirno",
+            "artist": "Jani Lechleiter",
+            "id": 1981766517
+        },
+        {
+            "name": "Feels like home",
+            "artist": "Temperance Lloyd",
+            "id": 1944535917
+        },
+        {
+            "name": "Ahniara",
+            "artist": "Ennis Elder",
+            "id": 1978186296
+        },
+        {
+            "name": "Whirling sky",
+            "artist": "Tamara Blake",
+            "id": 1981497528
+        },
+        {
+            "name": "a new romance",
+            "artist": "Alexandra Streliski",
+            "id": 2010941385
+        },
+        {
+            "name": "Frühlingserwachen",
+            "artist": "Lisa Kriegler",
+            "id": 2046240949
+        },
+        {
+            "name": "Still Drifting",
+            "artist": "Hayden Cargile",
+            "id": 2035967411
+        },
+        {
+            "name": "Particle rise",
+            "artist": "Ama Hemmah",
+            "id": 2037019100
+        },
+        {
+            "name": "Sunday Morning",
+            "artist": "Hope Denison",
+            "id": 2040280275
+        },
+        {
+            "name": "Remembrance",
+            "artist": "Elfrieda",
+            "id": 1981524181
+        },
+        {
+            "name": "Simplicia",
+            "artist": "Noemi Lucas",
+            "id": 1988472559
+        },
+        {
+            "name": "Lonely Leslie",
+            "artist": "Thomas Preber",
+            "id": 1884934531
+        },
+        {
+            "name": "Une main tendue",
+            "artist": "Céline Aubin",
+            "id": 2011959645
+        },
+        {
+            "name": "Adesso",
+            "artist": "Carluccio",
+            "id": 1981751582
+        },
+        {
+            "name": "Hinode",
+            "artist": "Marlon Guild",
+            "id": 1981551655
+        },
+        {
+            "name": "Emeralds",
+            "artist": "Pontus De Bjorn",
+            "id": 1909600314
+        },
+        {
+            "name": "Precious Amber",
+            "artist": "Riks Vollis",
+            "id": 1914791919
+        },
+        {
+            "name": "Let many flowers grow",
+            "artist": "Ava Decker",
+            "id": 1983176884
+        },
+        {
+            "name": "Dahlias",
+            "artist": "Moldoveanu",
+            "id": 1983206193
+        },
+        {
+            "name": "Contemplation",
+            "artist": "Sorrel Hauer",
+            "id": 1895440160
+        },
+        {
+            "name": "Vale of Tears",
+            "artist": "Kalen Elmsley",
+            "id": 1883125061
+        },
+        {
+            "name": "die kleine Raupe",
+            "artist": "Tristen Longfellow",
+            "id": 1866647315
+        },
+        {
+            "name": "Il mio cuore brucia per te",
+            "artist": "Oddo Fava",
+            "id": 1868723034
+        },
+        {
+            "name": "Introduction",
+            "artist": "Austen Pugh",
+            "id": 1827396105
+        },
+        {
+            "name": "Gaillardia",
+            "artist": "Elliot Ziegler",
+            "id": 1983186236
+        },
+        {
+            "name": "Free Fall",
+            "artist": "Counting Waves",
+            "id": 1864800975
+        },
+        {
+            "name": "Serre moi",
+            "artist": "Mainfred Arthur",
+            "id": 1948960038
+        },
+        {
+            "name": "Revolve",
+            "artist": "Crimson Memoirs",
+            "id": 1981762156
+        },
+        {
+            "name": "Sværmer",
+            "artist": "Mark Jubel",
+            "id": 1865924804
+        },
+        {
+            "name": "How Soon",
+            "artist": "Lucile Garett",
+            "id": 1983177391
+        },
+        {
+            "name": "Saudade (When We Are Born)",
+            "artist": "Ólafur Arnalds",
+            "id": 1852217984
+        },
+        {
+            "name": "Waltz in F minor",
+            "artist": "Oscar Sergel",
+            "id": 1853792580
+        },
+        {
+            "name": "Waltz, Interrupted",
+            "artist": "Piotr Wiese",
+            "id": 1878799942
+        },
+        {
+            "name": "Le crépuscule",
+            "artist": "Pascale Perrot",
+            "id": 1905624353
+        },
+        {
+            "name": "Verses",
+            "artist": "Ever So Blue",
+            "id": 1891497513
+        },
+        {
+            "name": "Les belles couleurs des arbres",
+            "artist": "Mattéo Roussel",
+            "id": 1948947685
+        },
+        {
+            "name": "Chalet High",
+            "artist": "Boone River",
+            "id": 1917164913
+        },
+        {
+            "name": "Needle and Thread",
+            "artist": "Aisha Edwards",
+            "id": 1910810994
+        },
+        {
+            "name": "Nothing's Real",
+            "artist": "Eddie Jenkins",
+            "id": 1879030822
+        },
+        {
+            "name": "A Right Time to Plant and Another to Reap",
+            "artist": "Lo Mimieux",
+            "id": 1923377642
+        },
+        {
+            "name": "L'automne est là",
+            "artist": "Alcide St Pierre",
+            "id": 1948947372
+        },
+        {
+            "name": "Impromptu",
+            "artist": "Genevieve Melton",
+            "id": 1981502084
+        },
+        {
+            "name": "Ophélia",
+            "artist": "Mathilda Skonare Karlsson",
+            "id": 1917453863
+        },
+        {
+            "name": "Stay",
+            "artist": "William Cas",
+            "id": 1910872832
+        },
+        {
+            "name": "Spheroidal",
+            "artist": "Kalen Elmsley",
+            "id": 1921155830
+        },
+        {
+            "name": "Pour dessiner des fleur",
+            "artist": "Maël Alexandrienne",
+            "id": 1974884399
+        },
+        {
+            "name": "Lizards play",
+            "artist": "Emil Negri",
+            "id": 1956650422
+        },
+        {
+            "name": "Hideaway",
+            "artist": "Dunham Froebel",
+            "id": 1845352527
+        },
+        {
+            "name": "Always",
+            "artist": "Olivier DeGrasse",
+            "id": 1981616942
+        },
+        {
+            "name": "Ell",
+            "artist": "Lo Kee",
+            "id": 1986650134
+        },
+        {
+            "name": "Faraway",
+            "artist": "小瀬村晶",
+            "id": 2045014712
+        },
+        {
+            "name": "A subtle joy",
+            "artist": "Tamara Blake",
+            "id": 1991004960
+        },
+        {
+            "name": "You Would Know",
+            "artist": "Domitila James",
+            "id": 2015662608
+        },
+        {
+            "name": "Graphite",
+            "artist": "Andrea Azzola",
+            "id": 2032083864
+        },
+        {
+            "name": "Nordanvind",
+            "artist": "Malmkvist",
+            "id": 2008675267
+        },
+        {
+            "name": "Seascape",
+            "artist": "Joni Bernier",
+            "id": 1981510057
+        },
+        {
+            "name": "Foreigners",
+            "artist": "Kotono Tanaka",
+            "id": 1981784703
+        },
+        {
+            "name": "In The Presence Of Starlight",
+            "artist": "Rusyav",
+            "id": 1845922618
+        },
+        {
+            "name": "Colori autunnali",
+            "artist": "Giacinta Toscano",
+            "id": 1881480059
+        },
+        {
+            "name": "Danse tout la nuit",
+            "artist": "Samuel Kees",
+            "id": 2024500275
+        },
+        {
+            "name": "Equinox",
+            "artist": "Biba Dupont",
+            "id": 2040254679
+        },
+        {
+            "name": "One Last Question",
+            "artist": "Vilma Holík",
+            "id": 2022239372
+        },
+        {
+            "name": "Valse Naturelle",
+            "artist": "Etienne Balestre",
+            "id": 2040783984
+        },
+        {
+            "name": "Eyes Closed",
+            "artist": "Jozef De Schutter",
+            "id": 2044260869
+        },
+        {
+            "name": "Utsjoki",
+            "artist": "Vegard",
+            "id": 2029250818
+        },
+        {
+            "name": "Hondura",
+            "artist": "Mima Renard",
+            "id": 2017610639
+        },
+        {
+            "name": "Sweet Nocturne",
+            "artist": "Javi Lobe",
+            "id": 2020634020
+        },
+        {
+            "name": "Anointed",
+            "artist": "Christian Janssen",
+            "id": 2044264385
+        },
+        {
+            "name": "Fallboard",
+            "artist": "Esther Dutch",
+            "id": 1852160605
+        },
+        {
+            "name": "Storr",
+            "artist": "Teide",
+            "id": 1956580737
+        },
+        {
+            "name": "Wayfarer",
+            "artist": "Maud Parris",
+            "id": 1918892295
+        },
+        {
+            "name": "1.6.18",
+            "artist": "A. Blomqvist",
+            "id": 1917550555
+        },
+        {
+            "name": "Lumière du matin",
+            "artist": "Abelin Lagarde",
+            "id": 1883853829
+        },
+        {
+            "name": "Felt Improv No. 25",
+            "artist": "Niall Byrne",
+            "id": 1891497028
+        },
+        {
+            "name": "Impuissance",
+            "artist": "Luisa Amogida",
+            "id": 1895490217
+        },
+        {
+            "name": "Valse Mistral",
+            "artist": "Lotus Laverne",
+            "id": 1873213813
+        },
+        {
+            "name": "Wurzeln",
+            "artist": "Lekk",
+            "id": 1850710672
+        },
+        {
+            "name": "Eternal Light",
+            "artist": "Javi Lobe",
+            "id": 1912010721
+        },
+        {
+            "name": "Ombre",
+            "artist": "Valentina Romano",
+            "id": 1905635506
+        },
+        {
+            "name": "Purity",
+            "artist": "Yao Chen",
+            "id": 1981523012
+        },
+        {
+            "name": "Transitions",
+            "artist": "Lara Di Umbra",
+            "id": 2014192258
+        },
+        {
+            "name": "Pyramidale",
+            "artist": "Alicia Première",
+            "id": 2031810097
+        },
+        {
+            "name": "Beyond The Glimmering Light",
+            "artist": "Anton Byers",
+            "id": 2015662243
+        },
+        {
+            "name": "Just Passing By",
+            "artist": "Winifred Kang",
+            "id": 2038034030
+        },
+        {
+            "name": "Lost & Found",
+            "artist": "Nora Gray",
+            "id": 2036347379
+        },
+        {
+            "name": "Without You",
+            "artist": "April Baxter",
+            "id": 2040345650
+        }
+    ]
+}

@@ -1,0 +1,782 @@
+{
+    "playlist_info": {
+        "name": "新世纪福音战士 （EVA） 原声集",
+        "trackcount": 154,
+        "playcount": 1169533,
+        "creator": "Luna他偏头痛",
+        "createDate": "2016-10-06",
+        "heat": 475.0
+    },
+    "songs": [
+        {
+            "name": "One Last Kiss",
+            "artist": "宇多田ヒカル",
+            "id": 1824020871
+        },
+        {
+            "name": "残酷な天使のテーゼ <Director's Edit.>",
+            "artist": "高橋洋子",
+            "id": 1483503085
+        },
+        {
+            "name": "ANGEL ATTACK",
+            "artist": "鷺巣詩郎",
+            "id": 1483497964
+        },
+        {
+            "name": "Rei I",
+            "artist": "鷺巣詩郎",
+            "id": 1483503084
+        },
+        {
+            "name": "Hedgehog's Dilemma",
+            "artist": "鷺巣詩郎",
+            "id": 1483497972
+        },
+        {
+            "name": "BAREFOOT IN THE PARK",
+            "artist": "鷺巣詩郎",
+            "id": 1483503076
+        },
+        {
+            "name": "RITSUKO",
+            "artist": "鷺巣詩郎",
+            "id": 1483503083
+        },
+        {
+            "name": "MISATO",
+            "artist": "鷺巣詩郎",
+            "id": 1483497948
+        },
+        {
+            "name": "ASUKA STRIKES!",
+            "artist": "鷺巣詩郎",
+            "id": 1483497965
+        },
+        {
+            "name": "NERV",
+            "artist": "鷺巣詩郎",
+            "id": 1483503063
+        },
+        {
+            "name": "TOKYO",
+            "artist": "鷺巣詩郎",
+            "id": 1483503082
+        },
+        {
+            "name": "I.SHINJI",
+            "artist": "鷺巣詩郎",
+            "id": 1483503074
+        },
+        {
+            "name": "EVA-01",
+            "artist": "鷺巣詩郎",
+            "id": 1483497970
+        },
+        {
+            "name": "A STEP FORWARD INTO TERROR",
+            "artist": "鷺巣詩郎",
+            "id": 1483497954
+        },
+        {
+            "name": "EVA-02",
+            "artist": "鷺巣詩郎",
+            "id": 1483497966
+        },
+        {
+            "name": "DECISIVE BATTLE",
+            "artist": "鷺巣詩郎",
+            "id": 1483503070
+        },
+        {
+            "name": "EVA-00",
+            "artist": "鷺巣詩郎",
+            "id": 1483497950
+        },
+        {
+            "name": "THE BEAST",
+            "artist": "鷺巣詩郎",
+            "id": 1483497949
+        },
+        {
+            "name": "MARKING TIME,WAITNG FOR DEATH",
+            "artist": "鷺巣詩郎",
+            "id": 1483497971
+        },
+        {
+            "name": "Rei II",
+            "artist": "鷺巣詩郎",
+            "id": 1483497978
+        },
+        {
+            "name": "次回予告（Fー2 30秒バージョン）",
+            "artist": "鷺巣詩郎",
+            "id": 1483497947
+        },
+        {
+            "name": "残酷な天使のテーゼ <Director's Edit. Version II>",
+            "artist": "三石琴乃",
+            "id": 1483497980
+        },
+        {
+            "name": "予感",
+            "artist": "高橋洋子",
+            "id": 1483503473
+        },
+        {
+            "name": "残酷な天使のテーゼ <TV. Size>",
+            "artist": "高橋洋子",
+            "id": 1483503464
+        },
+        {
+            "name": "BORDERLINE CASE",
+            "artist": "鷺巣詩郎",
+            "id": 1483504359
+        },
+        {
+            "name": "A Crystalline Night Sky",
+            "artist": "鷺巣詩郎",
+            "id": 1483504355
+        },
+        {
+            "name": "ANGEL ATTACK Ⅱ",
+            "artist": "鷺巣詩郎",
+            "id": 1483504361
+        },
+        {
+            "name": "ANGEL ATTACK Ⅲ",
+            "artist": "鷺巣詩郎",
+            "id": 1483503459
+        },
+        {
+            "name": "Both of you, Dance Like You Want to Win!",
+            "artist": "鷺巣詩郎",
+            "id": 1483503458
+        },
+        {
+            "name": "Waking up in the morning",
+            "artist": "鷺巣詩郎",
+            "id": 1483503460
+        },
+        {
+            "name": "BACKGROUND MUSIC",
+            "artist": "鷺巣詩郎",
+            "id": 1483503462
+        },
+        {
+            "name": "A Moment When Tension Breaks",
+            "artist": "鷺巣詩郎",
+            "id": 1483503472
+        },
+        {
+            "name": "The Day Tokyo-3 Stood Still(B-14)",
+            "artist": "鷺巣詩郎",
+            "id": 1483504356
+        },
+        {
+            "name": "Spending Time in Preparation",
+            "artist": "鷺巣詩郎",
+            "id": 1483503469
+        },
+        {
+            "name": "She said,\"Don't make others suffer for your personal hatred.\"",
+            "artist": "鷺巣詩郎",
+            "id": 1483503463
+        },
+        {
+            "name": "MAGMADIVER",
+            "artist": "鷺巣詩郎",
+            "id": 1483504358
+        },
+        {
+            "name": "PLEASURE PRINCIPLE",
+            "artist": "鷺巣詩郎",
+            "id": 1483503470
+        },
+        {
+            "name": "THANATOS",
+            "artist": "鷺巣詩郎",
+            "id": 1483504363
+        },
+        {
+            "name": "THE BEAST II",
+            "artist": "鷺巣詩郎",
+            "id": 1483504360
+        },
+        {
+            "name": "Rei III",
+            "artist": "鷺巣詩郎",
+            "id": 1483504364
+        },
+        {
+            "name": "When I Find Peace of Mind",
+            "artist": "鷺巣詩郎",
+            "id": 1483504362
+        },
+        {
+            "name": "次回予告 (F2 15秒バージョン)",
+            "artist": "鷺巣詩郎",
+            "id": 1483503457
+        },
+        {
+            "name": "B16(MISATO)",
+            "artist": "鷺巣詩郎",
+            "id": 1483504357
+        },
+        {
+            "name": "B17(ASUKA STRIKES)",
+            "artist": "鷺巣詩郎",
+            "id": 1483503468
+        },
+        {
+            "name": "幸せは罪の匂い",
+            "artist": "高橋洋子",
+            "id": 1483504652
+        },
+        {
+            "name": "無限抱擁",
+            "artist": "高橋洋子",
+            "id": 1483504660
+        },
+        {
+            "name": "NORMAL BLOOD",
+            "artist": "鷺巣詩郎",
+            "id": 1483504623
+        },
+        {
+            "name": "HARBINGER OF TRAGEDY",
+            "artist": "鷺巣詩郎",
+            "id": 1483503719
+        },
+        {
+            "name": "CHILDHOOD MEMORIES, SHUT AWAY",
+            "artist": "鷺巣詩郎",
+            "id": 1483504615
+        },
+        {
+            "name": "BACKGROUND MUSIC Ⅱ",
+            "artist": "鷺巣詩郎",
+            "id": 1483503720
+        },
+        {
+            "name": "BACKGROUND MUSIC Ⅲ",
+            "artist": "鷺巣詩郎",
+            "id": 1483503728
+        },
+        {
+            "name": "IN THE DEPTHS OF HUMAN HEARTS",
+            "artist": "鷺巣詩郎",
+            "id": 1483504635
+        },
+        {
+            "name": "HOLTILITY RESTRAINED",
+            "artist": "鷺巣詩郎",
+            "id": 1483503725
+        },
+        {
+            "name": "THREE OF ME, ONE OF SOMEONE ELSE",
+            "artist": "鷺巣詩郎",
+            "id": 1483504636
+        },
+        {
+            "name": "CRIME OF INNOCENCE",
+            "artist": "鷺巣詩郎",
+            "id": 1483504638
+        },
+        {
+            "name": "Do you love me?",
+            "artist": "鷺巣詩郎",
+            "id": 1483503737
+        },
+        {
+            "name": "SEPARATION ANXIETY",
+            "artist": "鷺巣詩郎",
+            "id": 1483504639
+        },
+        {
+            "name": "INTROJECTION",
+            "artist": "鷺巣詩郎",
+            "id": 1483503727
+        },
+        {
+            "name": "DEPRESSION",
+            "artist": "鷺巣詩郎",
+            "id": 1483503736
+        },
+        {
+            "name": "Splitting of the Breast",
+            "artist": "鷺巣詩郎",
+            "id": 1483503729
+        },
+        {
+            "name": "INFANTILE DEPENDENCE, ADULT DEPENDENCY",
+            "artist": "鷺巣詩郎",
+            "id": 1483503738
+        },
+        {
+            "name": "MOTHER IS THE FIRST OTHER",
+            "artist": "鷺巣詩郎",
+            "id": 1483503726
+        },
+        {
+            "name": "THE HEADY FEELING OF FREEDOM",
+            "artist": "V.A.",
+            "id": 1483504622
+        },
+        {
+            "name": "Good, or Don't Be.",
+            "artist": "V.A.",
+            "id": 1483504637
+        },
+        {
+            "name": "チェロ ― 第四弦 調弦",
+            "artist": "V.A.",
+            "id": 1483512178
+        },
+        {
+            "name": "Suiten für Violoncello solo Nr.1 G dur , BWV. 1007 1. Vorspier",
+            "artist": "V.A.",
+            "id": 1483511213
+        },
+        {
+            "name": "DVOŘÁK : Original Complete Version",
+            "artist": "V.A.",
+            "id": 1483512179
+        },
+        {
+            "name": "ヴァイオリン ― 第二弦 調弦",
+            "artist": "V.A.",
+            "id": 1483511212
+        },
+        {
+            "name": "Partita III für Violino solo E dur , BWV. 1006 3. Gavotte in Rondo",
+            "artist": "V.A.",
+            "id": 1483511211
+        },
+        {
+            "name": "ヴィオラ ― 第三弦 調弦",
+            "artist": "V.A.",
+            "id": 1483512200
+        },
+        {
+            "name": "優しさの代理",
+            "artist": "鷺巣詩郎",
+            "id": 1483511215
+        },
+        {
+            "name": "吾への、涙",
+            "artist": "鷺巣詩郎",
+            "id": 1483511239
+        },
+        {
+            "name": "未了への、調律",
+            "artist": "V.A.",
+            "id": 1483511214
+        },
+        {
+            "name": "Kanon D dur (Qurtet)",
+            "artist": "V.A.",
+            "id": 1483512266
+        },
+        {
+            "name": "虚妄への、依存",
+            "artist": "鷺巣詩郎",
+            "id": 1483511222
+        },
+        {
+            "name": "脆弱な、自我境界",
+            "artist": "鷺巣詩郎",
+            "id": 1483511243
+        },
+        {
+            "name": "Kanon D dur (Strings Orchestra)",
+            "artist": "V.A.",
+            "id": 1483511270
+        },
+        {
+            "name": "偽りの、再生",
+            "artist": "鷺巣詩郎",
+            "id": 1483511227
+        },
+        {
+            "name": "魂のルフラン",
+            "artist": "高橋洋子",
+            "id": 1483512261
+        },
+        {
+            "name": "Choeur: Jésus demeure ma joie, Consolation et sève de mon coeur",
+            "artist": "V.A.",
+            "id": 1483512260
+        },
+        {
+            "name": "他人の干渉",
+            "artist": "鷺巣詩郎",
+            "id": 1483521381
+        },
+        {
+            "name": "真夏の終演",
+            "artist": "鷺巣詩郎",
+            "id": 1483522390
+        },
+        {
+            "name": "退行への緊急避難",
+            "artist": "鷺巣詩郎",
+            "id": 1483521387
+        },
+        {
+            "name": "偽りの、再生",
+            "artist": "鷺巣詩郎",
+            "id": 1483521384
+        },
+        {
+            "name": "身代わりの侵入",
+            "artist": "鷺巣詩郎",
+            "id": 1483521386
+        },
+        {
+            "name": "II Air [ORCHESTRAL SUITE No.3 in D Major, BWV. 1068]",
+            "artist": "鷺巣詩郎",
+            "id": 1483522391
+        },
+        {
+            "name": "空しき流れ",
+            "artist": "鷺巣詩郎",
+            "id": 1483522396
+        },
+        {
+            "name": "THANATOS- IF I CAN'T BE YOURS-",
+            "artist": "Loren & MASH",
+            "id": 1483522393
+        },
+        {
+            "name": "始まりへの逃避",
+            "artist": "鷺巣詩郎",
+            "id": 1483522395
+        },
+        {
+            "name": "不安との蜜月",
+            "artist": "鷺巣詩郎",
+            "id": 1483522388
+        },
+        {
+            "name": "Komm, süsser Tod/甘き死よ、来たれ (M 10 Director's Edit. Version)",
+            "artist": "arianne schreiber",
+            "id": 1483521390
+        },
+        {
+            "name": "Jesus bleibet meine Freude Herz und Mund und Tat und Leben BWV.147/主よ、人の望みのみの喜びよ",
+            "artist": "V.A.",
+            "id": 1483521388
+        },
+        {
+            "name": "閉塞の拡大",
+            "artist": "鷺巣詩郎",
+            "id": 1483522397
+        },
+        {
+            "name": "夢のスキマ",
+            "artist": "鷺巣詩郎",
+            "id": 1483521380
+        },
+        {
+            "name": "M9 (閉塞の拡大オリジナル版)",
+            "artist": "鷺巣詩郎",
+            "id": 1483521389
+        },
+        {
+            "name": "F02 version 0706",
+            "artist": "高橋洋子",
+            "id": 1483521378
+        },
+        {
+            "name": "桜流し",
+            "artist": "宇多田ヒカル",
+            "id": 26092656
+        },
+        {
+            "name": "残酷な天使のテーゼ",
+            "artist": "高橋洋子",
+            "id": 657666
+        },
+        {
+            "name": "「新世紀エヴァンゲリオン」~FLY ME TO THE MOON",
+            "artist": "CLAIRE",
+            "id": 30373825
+        },
+        {
+            "name": "魂のルフラン",
+            "artist": "高橋洋子",
+            "id": 25887756
+        },
+        {
+            "name": "残酷な天使のテーゼ",
+            "artist": "三石琴乃",
+            "id": 29783821
+        },
+        {
+            "name": "FALL in STAR",
+            "artist": "三石琴乃",
+            "id": 503670
+        },
+        {
+            "name": "蒼いレジェンド",
+            "artist": "三石琴乃",
+            "id": 503666
+        },
+        {
+            "name": "You are the only one",
+            "artist": "三石琴乃",
+            "id": 503662
+        },
+        {
+            "name": "THANATOS -IF I CAN'T BE YOURS-",
+            "artist": "Loren",
+            "id": 31365695
+        },
+        {
+            "name": "Fly Me To The Moon(In Other Words)-2007 MIX",
+            "artist": "宇多田ヒカル",
+            "id": 503509
+        },
+        {
+            "name": "Prologue de Refrain",
+            "artist": "大森俊之",
+            "id": 22806608
+        },
+        {
+            "name": "Zankoku na Tenshi no Teeze (Ambivalence Mix)",
+            "artist": "高橋洋子",
+            "id": 22806610
+        },
+        {
+            "name": "希望の空へ",
+            "artist": "高橋洋子",
+            "id": 22806605
+        },
+        {
+            "name": "Forbidden Gene",
+            "artist": "高橋洋子",
+            "id": 22806600
+        },
+        {
+            "name": "LOVE ANTIQUE",
+            "artist": "高橋洋子",
+            "id": 22806603
+        },
+        {
+            "name": "Genwaku no Umi Kara",
+            "artist": "高橋洋子",
+            "id": 22806598
+        },
+        {
+            "name": "Epilogue de These",
+            "artist": "高橋洋子",
+            "id": 22806599
+        },
+        {
+            "name": "EM01#070720",
+            "artist": "鷺巣詩郎",
+            "id": 503512
+        },
+        {
+            "name": "EM02#070720",
+            "artist": "鷺巣詩郎",
+            "id": 503516
+        },
+        {
+            "name": "EMA_13_C",
+            "artist": "鷺巣詩郎",
+            "id": 503520
+        },
+        {
+            "name": "EM03_Edit#070705",
+            "artist": "鷺巣詩郎",
+            "id": 503524
+        },
+        {
+            "name": "EM11#070720",
+            "artist": "鷺巣詩郎",
+            "id": 503528
+        },
+        {
+            "name": "EM05B#070720",
+            "artist": "鷺巣詩郎",
+            "id": 503532
+        },
+        {
+            "name": "EM06#070720",
+            "artist": "鷺巣詩郎",
+            "id": 503536
+        },
+        {
+            "name": "EM07_B16_Edit#070705",
+            "artist": "鷺巣詩郎",
+            "id": 503540
+        },
+        {
+            "name": "EM08_B17_Edit#070705",
+            "artist": "鷺巣詩郎",
+            "id": 503545
+        },
+        {
+            "name": "EM09A_NewPiano_Edit#070705",
+            "artist": "鷺巣詩郎",
+            "id": 503549
+        },
+        {
+            "name": "EM10A_Edit#070705",
+            "artist": "鷺巣詩郎",
+            "id": 503553
+        },
+        {
+            "name": "EM04A_Short#070720",
+            "artist": "鷺巣詩郎",
+            "id": 503557
+        },
+        {
+            "name": "EM05A#070720",
+            "artist": "鷺巣詩郎",
+            "id": 503562
+        },
+        {
+            "name": "EM13#070720",
+            "artist": "鷺巣詩郎",
+            "id": 503567
+        },
+        {
+            "name": "EM16_Normal_Edit#070705",
+            "artist": "鷺巣詩郎",
+            "id": 503572
+        },
+        {
+            "name": "EMA_13_A",
+            "artist": "鷺巣詩郎",
+            "id": 503577
+        },
+        {
+            "name": "EMA_13_B#070705",
+            "artist": "鷺巣詩郎",
+            "id": 503582
+        },
+        {
+            "name": "EM15_C05_E#070705",
+            "artist": "鷺巣詩郎",
+            "id": 503586
+        },
+        {
+            "name": "B01_Guit_A_PreMix#070705",
+            "artist": "鷺巣詩郎",
+            "id": 503590
+        },
+        {
+            "name": "EM17_Edit#070705",
+            "artist": "鷺巣詩郎",
+            "id": 503593
+        },
+        {
+            "name": "EM18_Rhythm03_Premix#070705",
+            "artist": "鷺巣詩郎",
+            "id": 503597
+        },
+        {
+            "name": "EM10B_Edit#070705",
+            "artist": "鷺巣詩郎",
+            "id": 503601
+        },
+        {
+            "name": "EM20_Rhythm_Premix#070705",
+            "artist": "鷺巣詩郎",
+            "id": 503606
+        },
+        {
+            "name": "EM10B_Full_#070807",
+            "artist": "鷺巣詩郎",
+            "id": 503611
+        },
+        {
+            "name": "EM10_C_Long_Premix#070705",
+            "artist": "鷺巣詩郎",
+            "id": 503616
+        },
+        {
+            "name": "EM19_Premix#070705",
+            "artist": "鷺巣詩郎",
+            "id": 503621
+        },
+        {
+            "name": "EM20#070720",
+            "artist": "鷺巣詩郎",
+            "id": 503626
+        },
+        {
+            "name": "EM21_Premix#070705",
+            "artist": "鷺巣詩郎",
+            "id": 503631
+        },
+        {
+            "name": "EM09_Piano_D",
+            "artist": "鷺巣詩郎",
+            "id": 503636
+        },
+        {
+            "name": "EMC_01_Nu",
+            "artist": "サントラ",
+            "id": 503649
+        },
+        {
+            "name": "EM09_Piano_D_Full",
+            "artist": "サントラ",
+            "id": 503653
+        },
+        {
+            "name": "EM20_Rhythem_Full",
+            "artist": "サントラ",
+            "id": 503658
+        },
+        {
+            "name": "FLY ME TO THE MOON (On the Street)",
+            "artist": "高橋洋子",
+            "id": 22806604
+        },
+        {
+            "name": "EMF02_Edit#070705",
+            "artist": "鷺巣詩郎",
+            "id": 503645
+        },
+        {
+            "name": "FLY ME TO THE MOON",
+            "artist": "CLAIRE",
+            "id": 657670
+        },
+        {
+            "name": "残酷な天使のテーゼ (OFF VOCAL Version)",
+            "artist": "高橋洋子",
+            "id": 657673
+        },
+        {
+            "name": "FLY ME TO THE MOON (OFF VOCAL Version)",
+            "artist": "CLAIRE",
+            "id": 657677
+        },
+        {
+            "name": "残酷な天使のテーゼ (Director's Edit.Version)",
+            "artist": "高橋洋子",
+            "id": 657680
+        },
+        {
+            "name": "心よ原始に戻れ",
+            "artist": "高橋洋子",
+            "id": 25887758
+        },
+        {
+            "name": "魂のルフラン (Off Vocal Version)",
+            "artist": "高橋洋子",
+            "id": 25887755
+        },
+        {
+            "name": "心よ原始に戻れ (Off Vocal Version)",
+            "artist": "高橋洋子",
+            "id": 25887757
+        }
+    ]
+}

@@ -1,0 +1,762 @@
+{
+    "playlist_info": {
+        "name": "美式摇滚｜不落之辉，传奇之根",
+        "trackcount": 150,
+        "playcount": 306250,
+        "creator": "CallMeProphet",
+        "createDate": "2020-01-17",
+        "heat": 243.0
+    },
+    "songs": [
+        {
+            "name": "Rock And Roll Music (1958 Single Version)",
+            "artist": "Chuck Berry",
+            "id": 22078169
+        },
+        {
+            "name": "Rock Around The Clock",
+            "artist": "Bill Haley & His Comets",
+            "id": 5041029
+        },
+        {
+            "name": "Good Golly Miss Molly",
+            "artist": "Little Richard",
+            "id": 21000623
+        },
+        {
+            "name": "Ain't That A Shame",
+            "artist": "Fats Domino",
+            "id": 5041039
+        },
+        {
+            "name": "Suspicious Minds",
+            "artist": "Elvis Presley",
+            "id": 20867749
+        },
+        {
+            "name": "Movie Maggie",
+            "artist": "Carl Perkins",
+            "id": 5160254
+        },
+        {
+            "name": "Great Balls Of Fire",
+            "artist": "Jerry Lee Lewis",
+            "id": 28057682
+        },
+        {
+            "name": "The General Lee",
+            "artist": "Johnny Cash",
+            "id": 21363247
+        },
+        {
+            "name": "Blue Suede Shoes",
+            "artist": "Elvis Presley",
+            "id": 23420108
+        },
+        {
+            "name": "All I Have To Do Is Dream",
+            "artist": "The Everly Brothers",
+            "id": 27118400
+        },
+        {
+            "name": "Rhythm of the Rain",
+            "artist": "The Cascades",
+            "id": 32208284
+        },
+        {
+            "name": "Bring it to Jerome",
+            "artist": "Bo Diddley",
+            "id": 16684762
+        },
+        {
+            "name": "Oh, Pretty Woman",
+            "artist": "Roy Orbison",
+            "id": 27180488
+        },
+        {
+            "name": "It's So Easy (Single Version)",
+            "artist": "Buddy Holly",
+            "id": 26648665
+        },
+        {
+            "name": "Like A Rolling Stone",
+            "artist": "Bob Dylan",
+            "id": 26473399
+        },
+        {
+            "name": "American Pie",
+            "artist": "Don McLean",
+            "id": 1216195
+        },
+        {
+            "name": "Voodoo Child (Slight Return)",
+            "artist": "Jimi Hendrix",
+            "id": 20363362
+        },
+        {
+            "name": "My Back Pages",
+            "artist": "The Byrds",
+            "id": 4343035
+        },
+        {
+            "name": "Misirlou",
+            "artist": "Dick Dale",
+            "id": 5056602
+        },
+        {
+            "name": "Elenore",
+            "artist": "The Turtles",
+            "id": 5042207
+        },
+        {
+            "name": "Ripple",
+            "artist": "Grateful Dead",
+            "id": 1343288499
+        },
+        {
+            "name": "I Wanna Be Free",
+            "artist": "The Monkees",
+            "id": 3609472
+        },
+        {
+            "name": "Darlin'",
+            "artist": "The Beach Boys",
+            "id": 3556938
+        },
+        {
+            "name": "California Dreaming",
+            "artist": "The Mamas & the Papas",
+            "id": 4875911
+        },
+        {
+            "name": "Fortunate Son",
+            "artist": "Creedence Clearwater Revival",
+            "id": 5057892
+        },
+        {
+            "name": "Pale Blue Eyes",
+            "artist": "The Velvet Underground",
+            "id": 19537508
+        },
+        {
+            "name": "For What It's Worth",
+            "artist": "Buffalo Springfield",
+            "id": 5057898
+        },
+        {
+            "name": "Learning to Fly",
+            "artist": "Tom Petty",
+            "id": 5048423
+        },
+        {
+            "name": "Sweet Home Alabama",
+            "artist": "Lynyrd Skynyrd",
+            "id": 5057912
+        },
+        {
+            "name": "White Rabbit",
+            "artist": "Jefferson Airplane",
+            "id": 2777632
+        },
+        {
+            "name": "Riders On The Storm",
+            "artist": "The Doors",
+            "id": 26940715
+        },
+        {
+            "name": "Sharp Dressed Man",
+            "artist": "ZZ Top",
+            "id": 5092337
+        },
+        {
+            "name": "A Horse With No Name",
+            "artist": "America",
+            "id": 5049664
+        },
+        {
+            "name": "Welcome To My Nightmare",
+            "artist": "Alice Cooper",
+            "id": 16345567
+        },
+        {
+            "name": "More Than a Feeling",
+            "artist": "Boston",
+            "id": 3957247
+        },
+        {
+            "name": "I Was Made For Loving You",
+            "artist": "KISS",
+            "id": 5203758
+        },
+        {
+            "name": "If You Leave Me Now",
+            "artist": "Chicago",
+            "id": 2311480
+        },
+        {
+            "name": "(Don't Fear) The Reaper",
+            "artist": "Blue Oyster Cult",
+            "id": 5187055
+        },
+        {
+            "name": "Sensitive Kind",
+            "artist": "J.J. Cale",
+            "id": 18610093
+        },
+        {
+            "name": "Back in the U.S.A.",
+            "artist": "New York Dolls",
+            "id": 1791282
+        },
+        {
+            "name": "I Wanna Be Sedated",
+            "artist": "Ramones",
+            "id": 3555754
+        },
+        {
+            "name": "The Passenger",
+            "artist": "Iggy Pop",
+            "id": 5056162
+        },
+        {
+            "name": "Jessica",
+            "artist": "The Allman Brothers Band",
+            "id": 19563777
+        },
+        {
+            "name": "The End Of The World",
+            "artist": "John Mellencamp",
+            "id": 18594697
+        },
+        {
+            "name": "It's So Easy",
+            "artist": "Linda Ronstadt",
+            "id": 2926348
+        },
+        {
+            "name": "Carry On Wayward Son",
+            "artist": "Kansas",
+            "id": 4144245
+        },
+        {
+            "name": "Eye of the Tiger",
+            "artist": "Survivor",
+            "id": 2285032
+        },
+        {
+            "name": "Gloria (Digitally Remastered 1996)",
+            "artist": "Patti Smith",
+            "id": 18212267
+        },
+        {
+            "name": "Purple Rain",
+            "artist": "Prince",
+            "id": 21393383
+        },
+        {
+            "name": "Come and Get Your Love",
+            "artist": "Redbone",
+            "id": 28864241
+        },
+        {
+            "name": "Hotel California",
+            "artist": "Eagles",
+            "id": 27000303
+        },
+        {
+            "name": "Some Kind of Wonderful",
+            "artist": "Grand Funk Railroad",
+            "id": 5049660
+        },
+        {
+            "name": "Everybody Hurts",
+            "artist": "R.E.M.",
+            "id": 20282676
+        },
+        {
+            "name": "Please Mr. Postman",
+            "artist": "Carpenters",
+            "id": 3986323
+        },
+        {
+            "name": "Sharing the Night Together",
+            "artist": "Dr. Hook",
+            "id": 28418802
+        },
+        {
+            "name": "Walk This Way",
+            "artist": "Aerosmith",
+            "id": 20506671
+        },
+        {
+            "name": "Born To Be Wild",
+            "artist": "Steppenwolf",
+            "id": 29897834
+        },
+        {
+            "name": "Alone",
+            "artist": "Heart",
+            "id": 2701810
+        },
+        {
+            "name": "Hold the Line",
+            "artist": "TOTO",
+            "id": 5226134
+        },
+        {
+            "name": "Stones",
+            "artist": "Sonic Youth",
+            "id": 19189254
+        },
+        {
+            "name": "Born in the U.S.A.",
+            "artist": "Bruce Springsteen",
+            "id": 1080492
+        },
+        {
+            "name": "Running On Empty",
+            "artist": "Jackson Browne",
+            "id": 26871199
+        },
+        {
+            "name": "Can't Fight This Feeling",
+            "artist": "REO Speedwagon",
+            "id": 22066038
+        },
+        {
+            "name": "Take My Breath Away",
+            "artist": "Berlin",
+            "id": 3961975
+        },
+        {
+            "name": "Panama",
+            "artist": "Van Halen",
+            "id": 26192189
+        },
+        {
+            "name": "Nothin' But a Good Time",
+            "artist": "Poison",
+            "id": 5048928
+        },
+        {
+            "name": "I Can Dream About You",
+            "artist": "Dan Hartman",
+            "id": 5120875
+        },
+        {
+            "name": "Uptown Girl",
+            "artist": "Billy Joel",
+            "id": 1082623
+        },
+        {
+            "name": "Cherry Bomb",
+            "artist": "The Runaways",
+            "id": 28864242
+        },
+        {
+            "name": "Maria (LP Version)",
+            "artist": "Blondie",
+            "id": 3955886
+        },
+        {
+            "name": "I Hate Myself for Loving You",
+            "artist": "Joan Jett & the Blackhearts",
+            "id": 4132379
+        },
+        {
+            "name": "Hit Me With Your Best Shot",
+            "artist": "Pat Benatar",
+            "id": 18205862
+        },
+        {
+            "name": "D.S.",
+            "artist": "Michael Jackson",
+            "id": 1698435
+        },
+        {
+            "name": "Heaven Is A Place On Earth",
+            "artist": "Belinda Carlisle",
+            "id": 26996081
+        },
+        {
+            "name": "We Built This City",
+            "artist": "Starship",
+            "id": 26979820
+        },
+        {
+            "name": "Superstition",
+            "artist": "Stevie Wonder",
+            "id": 21613034
+        },
+        {
+            "name": "Say You Say Me",
+            "artist": "Lionel Richie",
+            "id": 28396861
+        },
+        {
+            "name": "Mary Had a Little Lamb",
+            "artist": "Stevie Ray Vaughan",
+            "id": 1940007
+        },
+        {
+            "name": "Crushing Day",
+            "artist": "Joe Satriani",
+            "id": 18621792
+        },
+        {
+            "name": "For the Love of God",
+            "artist": "Steve Vai",
+            "id": 1937140
+        },
+        {
+            "name": "Gem",
+            "artist": "Eric Johnson",
+            "id": 22243374
+        },
+        {
+            "name": "Home Sweet Home",
+            "artist": "Mötley Crüe",
+            "id": 4176388
+        },
+        {
+            "name": "Fade To Black",
+            "artist": "Metallica",
+            "id": 1695819
+        },
+        {
+            "name": "Holy Diver",
+            "artist": "Dio",
+            "id": 17284086
+        },
+        {
+            "name": "It's My Life",
+            "artist": "Bon Jovi",
+            "id": 3950546
+        },
+        {
+            "name": "All That you Are",
+            "artist": "The Goo Goo Dolls",
+            "id": 1941576
+        },
+        {
+            "name": "Sweet Child O' Mine",
+            "artist": "Guns N' Roses",
+            "id": 18095043
+        },
+        {
+            "name": "Joey",
+            "artist": "Concrete Blonde",
+            "id": 2309623
+        },
+        {
+            "name": "Claymation Courtyard",
+            "artist": "Buckethead",
+            "id": 28533584
+        },
+        {
+            "name": "Don't Stop Believin'",
+            "artist": "Journey",
+            "id": 5218306
+        },
+        {
+            "name": "Take Another Look",
+            "artist": "The Cars",
+            "id": 21795119
+        },
+        {
+            "name": "South Of Heaven",
+            "artist": "Slayer",
+            "id": 21697176
+        },
+        {
+            "name": "Symphony Of Destruction",
+            "artist": "Megadeth",
+            "id": 1703146
+        },
+        {
+            "name": "Madhouse",
+            "artist": "Anthrax",
+            "id": 5199417
+        },
+        {
+            "name": "Basket Case",
+            "artist": "Green Day",
+            "id": 4085062
+        },
+        {
+            "name": "Wake Up",
+            "artist": "Rage Against the Machine",
+            "id": 5054977
+        },
+        {
+            "name": "Scar Tissue",
+            "artist": "Red Hot Chili Peppers",
+            "id": 30148133
+        },
+        {
+            "name": "About a Girl",
+            "artist": "Nirvana",
+            "id": 4213098
+        },
+        {
+            "name": "Last Kiss",
+            "artist": "Pearl Jam",
+            "id": 5219731
+        },
+        {
+            "name": "Man in the Box",
+            "artist": "Alice in Chains",
+            "id": 16496953
+        },
+        {
+            "name": "Head Like A Hole",
+            "artist": "Nine Inch Nails",
+            "id": 1789006
+        },
+        {
+            "name": "Walk",
+            "artist": "Foo Fighters",
+            "id": 17832160
+        },
+        {
+            "name": "The Man Without Fear",
+            "artist": "Drowning Pool",
+            "id": 5051972
+        },
+        {
+            "name": "Lonely Day",
+            "artist": "System of a Down",
+            "id": 21719375
+        },
+        {
+            "name": "Cowboys From Hell",
+            "artist": "Pantera",
+            "id": 3226825
+        },
+        {
+            "name": "Seven Nation Army",
+            "artist": "The White Stripes",
+            "id": 21968164
+        },
+        {
+            "name": "Smooth",
+            "artist": "Rob Thomas",
+            "id": 1937077
+        },
+        {
+            "name": "Celebrity Skin",
+            "artist": "Hole",
+            "id": 18217260
+        },
+        {
+            "name": "Live To Rise",
+            "artist": "Soundgarden",
+            "id": 1936598
+        },
+        {
+            "name": "Slither",
+            "artist": "Velvet Revolver",
+            "id": 19687562
+        },
+        {
+            "name": "Sober",
+            "artist": "Tool",
+            "id": 26653711
+        },
+        {
+            "name": "Plush",
+            "artist": "Stone Temple Pilots",
+            "id": 27445256
+        },
+        {
+            "name": "Accidentally In Love",
+            "artist": "Counting Crows",
+            "id": 5050438
+        },
+        {
+            "name": "What's My Age Again?",
+            "artist": "blink-182",
+            "id": 26329422
+        },
+        {
+            "name": "Blind",
+            "artist": "Korn",
+            "id": 20800822
+        },
+        {
+            "name": "Cult of Personality",
+            "artist": "Living Colour",
+            "id": 5218309
+        },
+        {
+            "name": "Born For Greatness",
+            "artist": "Papa Roach",
+            "id": 469249412
+        },
+        {
+            "name": "Die MF Die",
+            "artist": "Dope",
+            "id": 17266043
+        },
+        {
+            "name": "In This River",
+            "artist": "Black Label Society",
+            "id": 16603466
+        },
+        {
+            "name": "1979",
+            "artist": "The Smashing Pumpkins",
+            "id": 22469981
+        },
+        {
+            "name": "Crash into Me",
+            "artist": "Dave Matthews Band",
+            "id": 528864385
+        },
+        {
+            "name": "This Is The New Sh*t",
+            "artist": "Marilyn Manson",
+            "id": 21256423
+        },
+        {
+            "name": "Numb",
+            "artist": "Linkin Park",
+            "id": 4153366
+        },
+        {
+            "name": "10 Lovers",
+            "artist": "The Black Keys",
+            "id": 28497099
+        },
+        {
+            "name": "The Devil in I",
+            "artist": "Slipknot",
+            "id": 28996918
+        },
+        {
+            "name": "Break Stuff",
+            "artist": "Limp Bizkit",
+            "id": 2922886
+        },
+        {
+            "name": "Bring Me to Life (Album version)",
+            "artist": "Evanescence",
+            "id": 4049648
+        },
+        {
+            "name": "Down With The Sickness",
+            "artist": "Disturbed",
+            "id": 27018936
+        },
+        {
+            "name": "Beat It",
+            "artist": "John 5",
+            "id": 1478051
+        },
+        {
+            "name": "Berlin",
+            "artist": "Black Rebel Motorcycle Club",
+            "id": 16835552
+        },
+        {
+            "name": "Am I Safe",
+            "artist": "Ryan Adams",
+            "id": 29095614
+        },
+        {
+            "name": "*** on Fire",
+            "artist": "Kings of Leon",
+            "id": 18931265
+        },
+        {
+            "name": "Tranquilize",
+            "artist": "The Killers",
+            "id": 21964466
+        },
+        {
+            "name": "We Are",
+            "artist": "Hollywood Undead",
+            "id": 25989793
+        },
+        {
+            "name": "Ambulance",
+            "artist": "My Chemical Romance",
+            "id": 26247682
+        },
+        {
+            "name": "City Of Angels",
+            "artist": "Thirty Seconds To Mars",
+            "id": 26379036
+        },
+        {
+            "name": "The Adults Are Talking",
+            "artist": "The Strokes",
+            "id": 1438724761
+        },
+        {
+            "name": "Playing God",
+            "artist": "Paramore",
+            "id": 1820531
+        },
+        {
+            "name": "Only One",
+            "artist": "Yellowcard",
+            "id": 20752312
+        },
+        {
+            "name": "Paul",
+            "artist": "Big Thief",
+            "id": 415786182
+        },
+        {
+            "name": "Hey, Soul Sister",
+            "artist": "Train",
+            "id": 21803920
+        },
+        {
+            "name": "The Phoenix",
+            "artist": "Fall Out Boy",
+            "id": 26199445
+        },
+        {
+            "name": "Lucky Strike",
+            "artist": "Maroon 5",
+            "id": 21253809
+        },
+        {
+            "name": "Future Looks Good",
+            "artist": "OneRepublic",
+            "id": 429261713
+        },
+        {
+            "name": "About Today",
+            "artist": "The National",
+            "id": 4344893
+        },
+        {
+            "name": "Life Is Beautiful",
+            "artist": "The Afters",
+            "id": 3558691
+        },
+        {
+            "name": "Radioactive",
+            "artist": "Imagine Dragons",
+            "id": 19945726
+        },
+        {
+            "name": "In the End",
+            "artist": "Black Veil Brides",
+            "id": 27037491
+        },
+        {
+            "name": "Renegades",
+            "artist": "X Ambassadors",
+            "id": 31789002
+        },
+        {
+            "name": "Keep On Loving You",
+            "artist": "Cigarettes After Sex",
+            "id": 408277753
+        }
+    ]
+}

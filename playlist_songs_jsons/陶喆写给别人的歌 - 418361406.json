@@ -1,0 +1,542 @@
+{
+    "playlist_info": {
+        "name": "陶喆写给别人的歌",
+        "trackcount": 106,
+        "playcount": 32300,
+        "creator": "风潮乱耳",
+        "createDate": "2016-07-09",
+        "heat": 12.0
+    },
+    "songs": [
+        {
+            "name": "别爱我 像爱个朋友",
+            "artist": "周笔畅",
+            "id": 326855
+        },
+        {
+            "name": "前世",
+            "artist": "杨采妮",
+            "id": 319469
+        },
+        {
+            "name": "拔河",
+            "artist": "陈淑桦",
+            "id": 211186
+        },
+        {
+            "name": "秘密",
+            "artist": "杜德伟",
+            "id": 78634
+        },
+        {
+            "name": "沙滩",
+            "artist": "梅艳芳",
+            "id": 27612616
+        },
+        {
+            "name": "想念你的爱",
+            "artist": "林凡",
+            "id": 257530
+        },
+        {
+            "name": "Goodbye My Love",
+            "artist": "Tension",
+            "id": 382380
+        },
+        {
+            "name": "I Believe",
+            "artist": "陶喆",
+            "id": 150576
+        },
+        {
+            "name": "手牵手",
+            "artist": "王力宏",
+            "id": 5268423
+        },
+        {
+            "name": "啼笑姻缘",
+            "artist": "陈小春",
+            "id": 63959
+        },
+        {
+            "name": "Teardrops",
+            "artist": "S.E.N.S.",
+            "id": 22815081
+        },
+        {
+            "name": "I Love You",
+            "artist": "王若琳",
+            "id": 25699081
+        },
+        {
+            "name": "I'll Be With You",
+            "artist": "Tension",
+            "id": 5251741
+        },
+        {
+            "name": "每一面都美",
+            "artist": "古巨基",
+            "id": 86285
+        },
+        {
+            "name": "绽放2.0",
+            "artist": "关诗敏",
+            "id": 423406230
+        },
+        {
+            "name": "来得及说再见",
+            "artist": "关诗敏",
+            "id": 423407245
+        },
+        {
+            "name": "魔力",
+            "artist": "陈淑桦",
+            "id": 211164
+        },
+        {
+            "name": "爱得比较深",
+            "artist": "陈淑桦",
+            "id": 211160
+        },
+        {
+            "name": "不做情人，不做朋友",
+            "artist": "陈淑桦",
+            "id": 211181
+        },
+        {
+            "name": "Kiss & Tell",
+            "artist": "陈淑桦",
+            "id": 211188
+        },
+        {
+            "name": "发现爱",
+            "artist": "杜德伟",
+            "id": 78622
+        },
+        {
+            "name": "夏日柠檬船",
+            "artist": "SNH48",
+            "id": 479938750
+        },
+        {
+            "name": "醒",
+            "artist": "苏见信 (信)",
+            "id": 1377138000
+        },
+        {
+            "name": "我都知道",
+            "artist": "梁静茹",
+            "id": 254272
+        },
+        {
+            "name": "盼你在此",
+            "artist": "林忆莲",
+            "id": 256620
+        },
+        {
+            "name": "爱…什么稀罕",
+            "artist": "张惠妹",
+            "id": 327340
+        },
+        {
+            "name": "纯真年代",
+            "artist": "张惠妹",
+            "id": 327477
+        },
+        {
+            "name": "不二法门",
+            "artist": "张惠妹",
+            "id": 327487
+        },
+        {
+            "name": "High High High",
+            "artist": "张惠妹",
+            "id": 326970
+        },
+        {
+            "name": "不要骗我",
+            "artist": "张惠妹",
+            "id": 326935
+        },
+        {
+            "name": "幸灾乐祸",
+            "artist": "陈奕迅",
+            "id": 66786
+        },
+        {
+            "name": "Katrina",
+            "artist": "陈奕迅",
+            "id": 66790
+        },
+        {
+            "name": "我明白他",
+            "artist": "莫文蔚",
+            "id": 277193
+        },
+        {
+            "name": "爱美丽",
+            "artist": "古巨基",
+            "id": 86457
+        },
+        {
+            "name": "悟空",
+            "artist": "古巨基",
+            "id": 86951
+        },
+        {
+            "name": "不要说你不知道",
+            "artist": "古巨基",
+            "id": 86983
+        },
+        {
+            "name": "瞬间倾心 恒久钟情",
+            "artist": "张靓颖",
+            "id": 327283
+        },
+        {
+            "name": "关在家",
+            "artist": "关诗敏",
+            "id": 238426
+        },
+        {
+            "name": "魔法爱情",
+            "artist": "关诗敏",
+            "id": 238427
+        },
+        {
+            "name": "快递甜心",
+            "artist": "关诗敏",
+            "id": 238425
+        },
+        {
+            "name": "一比一",
+            "artist": "范玮琪",
+            "id": 229365
+        },
+        {
+            "name": "散心",
+            "artist": "梁咏琪",
+            "id": 254857
+        },
+        {
+            "name": "0932",
+            "artist": "陈小春",
+            "id": 63980
+        },
+        {
+            "name": "算你狠",
+            "artist": "陈小春",
+            "id": 63968
+        },
+        {
+            "name": "最后一支舞",
+            "artist": "梁朝伟",
+            "id": 116340
+        },
+        {
+            "name": "风沙",
+            "artist": "梁朝伟",
+            "id": 116331
+        },
+        {
+            "name": "无话可说",
+            "artist": "赵咏华",
+            "id": 329735
+        },
+        {
+            "name": "爱不爱",
+            "artist": "赵咏华",
+            "id": 329727
+        },
+        {
+            "name": "肯定",
+            "artist": "孙耀威",
+            "id": 146785
+        },
+        {
+            "name": "午夜迷迭香",
+            "artist": "孙耀威",
+            "id": 146834
+        },
+        {
+            "name": "Hello Stranger",
+            "artist": "孙耀威",
+            "id": 146831
+        },
+        {
+            "name": "如果变成一对",
+            "artist": "孙耀威",
+            "id": 146868
+        },
+        {
+            "name": "幻影",
+            "artist": "杨采妮",
+            "id": 319459
+        },
+        {
+            "name": "秘密",
+            "artist": "杨采妮",
+            "id": 319449
+        },
+        {
+            "name": "犹豫不绝",
+            "artist": "杨采妮",
+            "id": 319508
+        },
+        {
+            "name": "Do You Do",
+            "artist": "杨采妮",
+            "id": 319499
+        },
+        {
+            "name": "避风港",
+            "artist": "杨采妮",
+            "id": 319497
+        },
+        {
+            "name": "如果我是男人",
+            "artist": "陶晶莹",
+            "id": 293928
+        },
+        {
+            "name": "L-O-V-E",
+            "artist": "陶晶莹",
+            "id": 293912
+        },
+        {
+            "name": "别对我好",
+            "artist": "陶晶莹",
+            "id": 293922
+        },
+        {
+            "name": "表白",
+            "artist": "周葆元",
+            "id": 198157
+        },
+        {
+            "name": "爱并不容易",
+            "artist": "周葆元",
+            "id": 198156
+        },
+        {
+            "name": "神迷目眩",
+            "artist": "周葆元",
+            "id": 198134
+        },
+        {
+            "name": "爱不在",
+            "artist": "殷悦",
+            "id": 5256944
+        },
+        {
+            "name": "阳光女孩拜金男孩",
+            "artist": "左安安",
+            "id": 335235
+        },
+        {
+            "name": "暗号",
+            "artist": "兄弟联",
+            "id": 388725
+        },
+        {
+            "name": "哎哟爱哟",
+            "artist": "SNH48",
+            "id": 435166168
+        },
+        {
+            "name": "最温暖的祝福",
+            "artist": "L.A. Boyz",
+            "id": 363886
+        },
+        {
+            "name": "Young Guns",
+            "artist": "L.A. Boyz",
+            "id": 363625
+        },
+        {
+            "name": "I Like It",
+            "artist": "L.A. Boyz",
+            "id": 363731
+        },
+        {
+            "name": "小丑和气球",
+            "artist": "L.A. Boyz",
+            "id": 363729
+        },
+        {
+            "name": "Real Man",
+            "artist": "L.A. Boyz",
+            "id": 363724
+        },
+        {
+            "name": "Pure Eenergy",
+            "artist": "L.A. Boyz",
+            "id": 363723
+        },
+        {
+            "name": "怀念的平安夜",
+            "artist": "L.A. Boyz",
+            "id": 363805
+        },
+        {
+            "name": "R.O.C.K",
+            "artist": "L.A. Boyz",
+            "id": 363786
+        },
+        {
+            "name": "Creeping up a G sound",
+            "artist": "L.A. Boyz",
+            "id": 363962
+        },
+        {
+            "name": "夏日恋曲(Island girl)",
+            "artist": "L.A. Boyz",
+            "id": 363964
+        },
+        {
+            "name": "交换礼物",
+            "artist": "L.A. Boyz",
+            "id": 363840
+        },
+        {
+            "name": "迷惑",
+            "artist": "L.A. Boyz",
+            "id": 363847
+        },
+        {
+            "name": "金思顿的梦想",
+            "artist": "L.A. Boyz",
+            "id": 363855
+        },
+        {
+            "name": "新杰克摇摆",
+            "artist": "L.A. Boyz",
+            "id": 363864
+        },
+        {
+            "name": "Yab Ba Dad Ba Doo",
+            "artist": "L.A. Boyz",
+            "id": 363869
+        },
+        {
+            "name": "一点有什麽不好",
+            "artist": "L.A. Boyz",
+            "id": 363900
+        },
+        {
+            "name": "Lover Boy",
+            "artist": "Babes",
+            "id": 347077
+        },
+        {
+            "name": "Peace Song",
+            "artist": "Babes",
+            "id": 347078
+        },
+        {
+            "name": "Baby Baby Baby",
+            "artist": "Babes",
+            "id": 347098
+        },
+        {
+            "name": "Our Story",
+            "artist": "Tension",
+            "id": 382358
+        },
+        {
+            "name": "When I Fall In Love",
+            "artist": "Tension",
+            "id": 382363
+        },
+        {
+            "name": "Irresistible",
+            "artist": "Tension",
+            "id": 382373
+        },
+        {
+            "name": "Sorry",
+            "artist": "Tension",
+            "id": 382366
+        },
+        {
+            "name": "Crazy About You",
+            "artist": "Tension",
+            "id": 382375
+        },
+        {
+            "name": "挑战",
+            "artist": "Tension",
+            "id": 382299
+        },
+        {
+            "name": "One Life One Love",
+            "artist": "Tension",
+            "id": 382323
+        },
+        {
+            "name": "爱. 星球",
+            "artist": "Tension",
+            "id": 382260
+        },
+        {
+            "name": "Friends",
+            "artist": "Tension",
+            "id": 382386
+        },
+        {
+            "name": "I'll Be With You",
+            "artist": "Tension",
+            "id": 382395
+        },
+        {
+            "name": "Our Story(A Cappella)",
+            "artist": "Tension",
+            "id": 382391
+        },
+        {
+            "name": "Once Upon A Time",
+            "artist": "Tension",
+            "id": 382348
+        },
+        {
+            "name": "Arigato",
+            "artist": "Tension",
+            "id": 382311
+        },
+        {
+            "name": "Goodbye是明天的Hello",
+            "artist": "Tension",
+            "id": 382281
+        },
+        {
+            "name": "Who Are We?",
+            "artist": "Tension",
+            "id": 382360
+        },
+        {
+            "name": "Goodbye My Love(Piano Bar Jam)",
+            "artist": "Tension",
+            "id": 382369
+        },
+        {
+            "name": "Strange",
+            "artist": "Tension",
+            "id": 382389
+        },
+        {
+            "name": "Thank You",
+            "artist": "Tension",
+            "id": 382393
+        },
+        {
+            "name": "永远.爱你",
+            "artist": "Tension",
+            "id": 382278
+        },
+        {
+            "name": "做你的男人",
+            "artist": "Tension",
+            "id": 382305
+        }
+    ]
+}

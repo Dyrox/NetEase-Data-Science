@@ -1,0 +1,602 @@
+{
+    "playlist_info": {
+        "name": "Britpop｜英伦留声机",
+        "trackcount": 118,
+        "playcount": 7653,
+        "creator": "icccecube",
+        "createDate": "2017-04-09",
+        "heat": 3.0
+    },
+    "songs": [
+        {
+            "name": "Underwear",
+            "artist": "Pulp",
+            "id": 18304520
+        },
+        {
+            "name": "Common People",
+            "artist": "Pulp",
+            "id": 18304513
+        },
+        {
+            "name": "Bar Italia",
+            "artist": "Pulp",
+            "id": 18304522
+        },
+        {
+            "name": "Sorted For E's & Wizz",
+            "artist": "Pulp",
+            "id": 18304518
+        },
+        {
+            "name": "Mile End",
+            "artist": "Pulp",
+            "id": 5056916
+        },
+        {
+            "name": "Something Changed",
+            "artist": "Pulp",
+            "id": 27192753
+        },
+        {
+            "name": "Made Of Stone",
+            "artist": "The Stone Roses",
+            "id": 4338895
+        },
+        {
+            "name": "Going Down",
+            "artist": "The Stone Roses",
+            "id": 21942066
+        },
+        {
+            "name": "She Bangs the Drums",
+            "artist": "The Stone Roses",
+            "id": 4338883
+        },
+        {
+            "name": "I Wanna Be Adored",
+            "artist": "The Stone Roses",
+            "id": 4338879
+        },
+        {
+            "name": "There She Goes",
+            "artist": "The La's",
+            "id": 19576058
+        },
+        {
+            "name": "Caldey",
+            "artist": "Manic Street Preachers",
+            "id": 28804591
+        },
+        {
+            "name": "Autumnsong",
+            "artist": "Manic Street Preachers",
+            "id": 21269861
+        },
+        {
+            "name": "Ocean Spray (Album Version (Explicit))",
+            "artist": "Manic Street Preachers",
+            "id": 4175218
+        },
+        {
+            "name": "Sweet Song",
+            "artist": "Blur",
+            "id": 3951381
+        },
+        {
+            "name": "Coffee & TV (Radio Edit)",
+            "artist": "Blur",
+            "id": 3951475
+        },
+        {
+            "name": "Beetlebum",
+            "artist": "Blur",
+            "id": 3951464
+        },
+        {
+            "name": "Ong Ong",
+            "artist": "Blur",
+            "id": 31246695
+        },
+        {
+            "name": "Fool's Day",
+            "artist": "Blur",
+            "id": 3951074
+        },
+        {
+            "name": "Jets",
+            "artist": "Blur",
+            "id": 3951385
+        },
+        {
+            "name": "Tender",
+            "artist": "Blur",
+            "id": 16882031
+        },
+        {
+            "name": "Parklife (2012 Remaster)",
+            "artist": "Blur",
+            "id": 16880947
+        },
+        {
+            "name": "Lost in TV",
+            "artist": "Suede",
+            "id": 4278856
+        },
+        {
+            "name": "Everything Will Flow",
+            "artist": "Suede",
+            "id": 4279075
+        },
+        {
+            "name": "So Young",
+            "artist": "Suede",
+            "id": 4279445
+        },
+        {
+            "name": "Sonnet",
+            "artist": "The Verve",
+            "id": 22567647
+        },
+        {
+            "name": "Bitter Sweet Symphony",
+            "artist": "The Verve",
+            "id": 22567646
+        },
+        {
+            "name": "Lucky Man",
+            "artist": "The Verve",
+            "id": 22567654
+        },
+        {
+            "name": "She's Electric (Remastered)",
+            "artist": "Oasis",
+            "id": 17822720
+        },
+        {
+            "name": "Live Forever",
+            "artist": "Oasis",
+            "id": 17822787
+        },
+        {
+            "name": "Married With Children",
+            "artist": "Oasis",
+            "id": 17822795
+        },
+        {
+            "name": "Supersonic",
+            "artist": "Oasis",
+            "id": 17822820
+        },
+        {
+            "name": "Wonderwall",
+            "artist": "Oasis",
+            "id": 4226257
+        },
+        {
+            "name": "Sitting Here In Silence (On My Own)",
+            "artist": "Oasis",
+            "id": 17822810
+        },
+        {
+            "name": "Let There Be Love",
+            "artist": "Oasis",
+            "id": 17822809
+        },
+        {
+            "name": "Don't Look Back In Anger",
+            "artist": "Oasis",
+            "id": 4226232
+        },
+        {
+            "name": "Don't Go Away",
+            "artist": "Oasis",
+            "id": 17822803
+        },
+        {
+            "name": "Stand by Me",
+            "artist": "Oasis",
+            "id": 4225938
+        },
+        {
+            "name": "The Masterplan",
+            "artist": "Oasis",
+            "id": 17822784
+        },
+        {
+            "name": "Sunday Morning Call",
+            "artist": "Oasis",
+            "id": 4225752
+        },
+        {
+            "name": "Champagne Supernova",
+            "artist": "Oasis",
+            "id": 17822769
+        },
+        {
+            "name": "Whatever",
+            "artist": "Oasis",
+            "id": 17822688
+        },
+        {
+            "name": "I'm Outta Time",
+            "artist": "Oasis",
+            "id": 17822689
+        },
+        {
+            "name": "Stop Crying Your Heart Out",
+            "artist": "Oasis",
+            "id": 4225537
+        },
+        {
+            "name": "The Importance Of Being Idle",
+            "artist": "Oasis",
+            "id": 17822676
+        },
+        {
+            "name": "Falling Down",
+            "artist": "Oasis",
+            "id": 17822640
+        },
+        {
+            "name": "If I Had A Gun",
+            "artist": "Noel Gallagher's High Flying Birds",
+            "id": 1789111
+        },
+        {
+            "name": "The Death Of You And Me",
+            "artist": "Noel Gallagher's High Flying Birds",
+            "id": 1789070
+        },
+        {
+            "name": "AKA...Broken Arrow",
+            "artist": "Noel Gallagher's High Flying Birds",
+            "id": 1789085
+        },
+        {
+            "name": "Fallen Angel AKA Broken Arrow",
+            "artist": "Noel Gallagher's High Flying Birds",
+            "id": 29239666
+        },
+        {
+            "name": "Dead In The Water (Live At RTÉ 2FM Studios, Dublin)",
+            "artist": "Noel Gallagher's High Flying Birds",
+            "id": 520537267
+        },
+        {
+            "name": "The Beat Goes On",
+            "artist": "Beady Eye",
+            "id": 16821632
+        },
+        {
+            "name": "Connection",
+            "artist": "Elastica",
+            "id": 17698003
+        },
+        {
+            "name": "2:1",
+            "artist": "Elastica",
+            "id": 5056918
+        },
+        {
+            "name": "For Eternity",
+            "artist": "Ash",
+            "id": 32272167
+        },
+        {
+            "name": "Folk Song",
+            "artist": "Ash",
+            "id": 3883997
+        },
+        {
+            "name": "Alright",
+            "artist": "Supergrass",
+            "id": 21699467
+        },
+        {
+            "name": "Sad Girl",
+            "artist": "Supergrass",
+            "id": 22239414
+        },
+        {
+            "name": "Inbetweener",
+            "artist": "Sleeper",
+            "id": 21597630
+        },
+        {
+            "name": "Atomic",
+            "artist": "Sleeper",
+            "id": 5056911
+        },
+        {
+            "name": "Slight Return",
+            "artist": "The Bluetones",
+            "id": 19414421
+        },
+        {
+            "name": "Bluetonic",
+            "artist": "The Bluetones",
+            "id": 19414416
+        },
+        {
+            "name": "Wide Open Space",
+            "artist": "Mansun",
+            "id": 4175483
+        },
+        {
+            "name": "I Can Only Disappoint U",
+            "artist": "Mansun",
+            "id": 4174920
+        },
+        {
+            "name": "Twenty Years",
+            "artist": "Placebo",
+            "id": 22557327
+        },
+        {
+            "name": "**** U",
+            "artist": "Placebo",
+            "id": 4235737
+        },
+        {
+            "name": "Bosco",
+            "artist": "Placebo",
+            "id": 27698377
+        },
+        {
+            "name": "Too Many Friends",
+            "artist": "Placebo",
+            "id": 26619674
+        },
+        {
+            "name": "Where Is My Mind? (XFM Live Version)",
+            "artist": "Placebo",
+            "id": 27162910
+        },
+        {
+            "name": "Where Is My Mind?",
+            "artist": "Placebo",
+            "id": 28912074
+        },
+        {
+            "name": "A Million Little Pieces",
+            "artist": "Placebo",
+            "id": 28798036
+        },
+        {
+            "name": "The Crawl",
+            "artist": "Placebo",
+            "id": 4236238
+        },
+        {
+            "name": "Post Blue",
+            "artist": "Placebo",
+            "id": 22506116
+        },
+        {
+            "name": "Closer",
+            "artist": "Travis",
+            "id": 4330176
+        },
+        {
+            "name": "Where You Stand",
+            "artist": "Travis",
+            "id": 26291150
+        },
+        {
+            "name": "Walking In The Sun",
+            "artist": "Travis",
+            "id": 21973418
+        },
+        {
+            "name": "Writing to Reach You",
+            "artist": "Travis",
+            "id": 4330521
+        },
+        {
+            "name": "Love Will Come Through",
+            "artist": "Travis",
+            "id": 21973367
+        },
+        {
+            "name": "3 Times And You Lose",
+            "artist": "Travis",
+            "id": 21973393
+        },
+        {
+            "name": "Daisy Lane",
+            "artist": "Stereophonics",
+            "id": 21723675
+        },
+        {
+            "name": "Maybe Tomorrow",
+            "artist": "Stereophonics",
+            "id": 4279655
+        },
+        {
+            "name": "Indian Summer",
+            "artist": "Stereophonics",
+            "id": 25730836
+        },
+        {
+            "name": "Have a Nice Day",
+            "artist": "Stereophonics",
+            "id": 4279440
+        },
+        {
+            "name": "Pedalpusher",
+            "artist": "Stereophonics",
+            "id": 21723615
+        },
+        {
+            "name": "I Stopped To Fill My Car Up",
+            "artist": "Stereophonics",
+            "id": 21723646
+        },
+        {
+            "name": "Dakota",
+            "artist": "Stereophonics",
+            "id": 4279638
+        },
+        {
+            "name": "Gravity",
+            "artist": "Embrace",
+            "id": 17616212
+        },
+        {
+            "name": "Nature's Law",
+            "artist": "Embrace",
+            "id": 17616091
+        },
+        {
+            "name": "Wish 'Em All Away",
+            "artist": "Embrace",
+            "id": 17616074
+        },
+        {
+            "name": "Monday Morning 5.19",
+            "artist": "Rialto",
+            "id": 20272707
+        },
+        {
+            "name": "Summer's Over",
+            "artist": "Rialto",
+            "id": 20272710
+        },
+        {
+            "name": "Broken Barbie Doll",
+            "artist": "Rialto",
+            "id": 20272709
+        },
+        {
+            "name": "Dizzy",
+            "artist": "Ours",
+            "id": 17734910
+        },
+        {
+            "name": "Places",
+            "artist": "Ours",
+            "id": 17734929
+        },
+        {
+            "name": "Life is Beautiful",
+            "artist": "Vega4",
+            "id": 19704125
+        },
+        {
+            "name": "Bullets",
+            "artist": "Vega4",
+            "id": 19704128
+        },
+        {
+            "name": "Tell Me It's Not Over",
+            "artist": "Starsailor",
+            "id": 22227122
+        },
+        {
+            "name": "Fever",
+            "artist": "Starsailor",
+            "id": 21611771
+        },
+        {
+            "name": "No Sound From The Outside",
+            "artist": "Saybia",
+            "id": 35270846
+        },
+        {
+            "name": "The Second You Sleep",
+            "artist": "Saybia",
+            "id": 19068196
+        },
+        {
+            "name": "Angel",
+            "artist": "Saybia",
+            "id": 19068246
+        },
+        {
+            "name": "Sunshine",
+            "artist": "Keane",
+            "id": 19045995
+        },
+        {
+            "name": "Disconnected",
+            "artist": "Keane",
+            "id": 19045919
+        },
+        {
+            "name": "Sovereign Light Café",
+            "artist": "Keane",
+            "id": 19047075
+        },
+        {
+            "name": "Somewhere Only We Know",
+            "artist": "Keane",
+            "id": 19047042
+        },
+        {
+            "name": "Everybody's Changing",
+            "artist": "Keane",
+            "id": 19045883
+        },
+        {
+            "name": "A Bad Dream",
+            "artist": "Keane",
+            "id": 19047063
+        },
+        {
+            "name": "Nothing In My Way",
+            "artist": "Keane",
+            "id": 19047015
+        },
+        {
+            "name": "Into The Fire",
+            "artist": "Thirteen Senses",
+            "id": 19282070
+        },
+        {
+            "name": "Do No Wrong",
+            "artist": "Thirteen Senses",
+            "id": 19282073
+        },
+        {
+            "name": "The Salt Wound Routine",
+            "artist": "Thirteen Senses",
+            "id": 19282074
+        },
+        {
+            "name": "Saving",
+            "artist": "Thirteen Senses",
+            "id": 19282075
+        },
+        {
+            "name": "Automatic",
+            "artist": "Thirteen Senses",
+            "id": 19282081
+        },
+        {
+            "name": "Lights Out",
+            "artist": "Thirteen Senses",
+            "id": 27511197
+        },
+        {
+            "name": "Hey Girl",
+            "artist": "Delays",
+            "id": 17228955
+        },
+        {
+            "name": "Waste Of Space",
+            "artist": "Delays",
+            "id": 17228947
+        },
+        {
+            "name": "Standing In The Right Place",
+            "artist": "Belarus",
+            "id": 25888723
+        },
+        {
+            "name": "In The End Its Easy",
+            "artist": "Belarus",
+            "id": 25888718
+        }
+    ]
+}

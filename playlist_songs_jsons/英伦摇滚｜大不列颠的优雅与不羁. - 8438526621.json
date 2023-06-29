@@ -1,0 +1,352 @@
+{
+    "playlist_info": {
+        "name": "英伦摇滚｜大不列颠的优雅与不羁.",
+        "trackcount": 68,
+        "playcount": 64,
+        "creator": "袁两半i",
+        "createDate": "2023-05-26",
+        "heat": 1.0
+    },
+    "songs": [
+        {
+            "name": "Tender",
+            "artist": "Blur",
+            "id": 16882031
+        },
+        {
+            "name": "Sitting Here In Silence (On My Own)",
+            "artist": "Oasis",
+            "id": 17822810
+        },
+        {
+            "name": "Let There Be Love",
+            "artist": "Oasis",
+            "id": 17822809
+        },
+        {
+            "name": "Disco 2000",
+            "artist": "Pulp",
+            "id": 18304515
+        },
+        {
+            "name": "Indian Summer",
+            "artist": "Stereophonics",
+            "id": 25730836
+        },
+        {
+            "name": "Play On",
+            "artist": "The Parlotones",
+            "id": 21783105
+        },
+        {
+            "name": "Married With Children",
+            "artist": "Noel Gallagher",
+            "id": 1789208
+        },
+        {
+            "name": "Bar Italia",
+            "artist": "Pulp",
+            "id": 18304522
+        },
+        {
+            "name": "Whirl",
+            "artist": "Wiretree",
+            "id": 4428408
+        },
+        {
+            "name": "Just Getting Older",
+            "artist": "Oasis",
+            "id": 4225638
+        },
+        {
+            "name": "Everything Will Flow",
+            "artist": "Suede",
+            "id": 4279075
+        },
+        {
+            "name": "Death Goes To The Disco",
+            "artist": "Pulp",
+            "id": 18304361
+        },
+        {
+            "name": "Fool's Day",
+            "artist": "Blur",
+            "id": 3951074
+        },
+        {
+            "name": "Common People",
+            "artist": "Pulp",
+            "id": 5163338
+        },
+        {
+            "name": "Reach Out",
+            "artist": "Take That",
+            "id": 19567347
+        },
+        {
+            "name": "Jets",
+            "artist": "Blur",
+            "id": 3951385
+        },
+        {
+            "name": "Country House",
+            "artist": "Blur",
+            "id": 3951501
+        },
+        {
+            "name": "Bullets",
+            "artist": "Vega4",
+            "id": 19704128
+        },
+        {
+            "name": "Foreign Time",
+            "artist": "Glass Towers",
+            "id": 26607463
+        },
+        {
+            "name": "Whistle For The Choir",
+            "artist": "The Fratellis",
+            "id": 21799194
+        },
+        {
+            "name": "Where You Stand",
+            "artist": "Travis",
+            "id": 26291150
+        },
+        {
+            "name": "No State to Drive",
+            "artist": "The Pigeon Detectives",
+            "id": 26333675
+        },
+        {
+            "name": "Caldey",
+            "artist": "Manic Street Preachers",
+            "id": 28804591
+        },
+        {
+            "name": "Nature's Law",
+            "artist": "Embrace",
+            "id": 17616091
+        },
+        {
+            "name": "For Eternity",
+            "artist": "Ash",
+            "id": 32272167
+        },
+        {
+            "name": "Stuck on the puzzle",
+            "artist": "Alex Turner",
+            "id": 1068931
+        },
+        {
+            "name": "In The End Its Easy",
+            "artist": "Belarus",
+            "id": 25888718
+        },
+        {
+            "name": "Sovereign Light Café",
+            "artist": "Keane",
+            "id": 19047075
+        },
+        {
+            "name": "Closer",
+            "artist": "Travis",
+            "id": 21973395
+        },
+        {
+            "name": "Under Pressure (2011 Remaster)",
+            "artist": "Queen",
+            "id": 18317677
+        },
+        {
+            "name": "If I Had A Gun…",
+            "artist": "Noel Gallagher's High Flying Birds",
+            "id": 29239661
+        },
+        {
+            "name": "Baby I'm Yours",
+            "artist": "Arctic Monkeys",
+            "id": 16502066
+        },
+        {
+            "name": "Dizzy",
+            "artist": "Ours",
+            "id": 17734910
+        },
+        {
+            "name": "Can't Take My Eyes Off You",
+            "artist": "Manic Street Preachers",
+            "id": 21269933
+        },
+        {
+            "name": "Graffiti on the train",
+            "artist": "Stereophonics",
+            "id": 25730835
+        },
+        {
+            "name": "Wish 'Em All Away",
+            "artist": "Embrace",
+            "id": 17616074
+        },
+        {
+            "name": "Apple Blossom",
+            "artist": "The White Stripes",
+            "id": 39449212
+        },
+        {
+            "name": "Twenty Years",
+            "artist": "Placebo",
+            "id": 22557327
+        },
+        {
+            "name": "Stop Crying Your Heart Out",
+            "artist": "Oasis",
+            "id": 4225537
+        },
+        {
+            "name": "London Loves (2012 Remaster)",
+            "artist": "Blur",
+            "id": 16880953
+        },
+        {
+            "name": "Sunday Sunday (2012 Remaster)",
+            "artist": "Blur",
+            "id": 16880871
+        },
+        {
+            "name": "Coffee & TV (Radio Edit)",
+            "artist": "Blur",
+            "id": 3951475
+        },
+        {
+            "name": "Gone The Dream",
+            "artist": "Ash",
+            "id": 3884125
+        },
+        {
+            "name": "Girl From Mars",
+            "artist": "Ash",
+            "id": 3884115
+        },
+        {
+            "name": "The Powder Room Plan",
+            "artist": "Marion",
+            "id": 21199343
+        },
+        {
+            "name": "Tied to the 90's",
+            "artist": "Travis",
+            "id": 40188813
+        },
+        {
+            "name": "U16 Girls",
+            "artist": "Travis",
+            "id": 4330422
+        },
+        {
+            "name": "Thru The Glass",
+            "artist": "Thirteen Senses",
+            "id": 19282071
+        },
+        {
+            "name": "Smile",
+            "artist": "The Supernaturals",
+            "id": 19274880
+        },
+        {
+            "name": "I Wasn't Built to Get Up",
+            "artist": "The Supernaturals",
+            "id": 19274868
+        },
+        {
+            "name": "Bring You Down",
+            "artist": "The Real People",
+            "id": 19274128
+        },
+        {
+            "name": "The Way You Are",
+            "artist": "The Real People",
+            "id": 19274139
+        },
+        {
+            "name": "Lucky You",
+            "artist": "The Lightning Seeds",
+            "id": 21799741
+        },
+        {
+            "name": "Made Of Stone",
+            "artist": "The Stone Roses",
+            "id": 4338895
+        },
+        {
+            "name": "Going Down",
+            "artist": "The Stone Roses",
+            "id": 21942066
+        },
+        {
+            "name": "Fake Plastic Trees",
+            "artist": "Radiohead",
+            "id": 18795423
+        },
+        {
+            "name": "Underwear",
+            "artist": "Pulp",
+            "id": 18304520
+        },
+        {
+            "name": "Unintended",
+            "artist": "Muse",
+            "id": 21256075
+        },
+        {
+            "name": "Run",
+            "artist": "Snow Patrol",
+            "id": 21730469
+        },
+        {
+            "name": "Connection",
+            "artist": "Elastica",
+            "id": 17698003
+        },
+        {
+            "name": "Do No Wrong",
+            "artist": "Thirteen Senses",
+            "id": 19282073
+        },
+        {
+            "name": "You Showed Me",
+            "artist": "The Lightning Seeds",
+            "id": 2009326
+        },
+        {
+            "name": "Three Lions",
+            "artist": "The Lightning Seeds",
+            "id": 2009370
+        },
+        {
+            "name": "Bullet Proof ... I Wish I Was",
+            "artist": "Radiohead",
+            "id": 18795433
+        },
+        {
+            "name": "Lost in TV",
+            "artist": "Suede",
+            "id": 4278856
+        },
+        {
+            "name": "Wonderwall",
+            "artist": "Oasis",
+            "id": 4226257
+        },
+        {
+            "name": "Don't Look Back In Anger",
+            "artist": "Oasis",
+            "id": 4226232
+        },
+        {
+            "name": "Supersonic",
+            "artist": "Oasis",
+            "id": 17822820
+        }
+    ]
+}

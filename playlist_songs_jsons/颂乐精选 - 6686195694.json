@@ -1,0 +1,162 @@
+{
+    "playlist_info": {
+        "name": "颂乐精选",
+        "trackcount": 30,
+        "playcount": 100,
+        "creator": "云音乐多多",
+        "createDate": "2021-03-30",
+        "heat": 0.0
+    },
+    "songs": [
+        {
+            "name": "Chan Chan",
+            "artist": "Buena Vista Social Club",
+            "id": 16782918
+        },
+        {
+            "name": "El Carretero",
+            "artist": "Buena Vista Social Club",
+            "id": 16782925
+        },
+        {
+            "name": "Morir De Amor (Mourir D'aimer) (con Charles Aznavour)",
+            "artist": "Compay Segundo",
+            "id": 16972317
+        },
+        {
+            "name": "Chanchan",
+            "artist": "Mi Solar",
+            "id": 562149371
+        },
+        {
+            "name": "Ta' Candente",
+            "artist": "Pilar Montenegro",
+            "id": 3285941
+        },
+        {
+            "name": "Que Pasará",
+            "artist": "Beny Moré",
+            "id": 566137196
+        },
+        {
+            "name": "Por Que Sera",
+            "artist": "Pilar Montenegro",
+            "id": 3285937
+        },
+        {
+            "name": "Yolanda",
+            "artist": "Cuarteto Fénix",
+            "id": 862343535
+        },
+        {
+            "name": "Este Mambo",
+            "artist": "Luis Ton",
+            "id": 558242532
+        },
+        {
+            "name": "Conga Conga",
+            "artist": "Chiki Chaka Girls",
+            "id": 558239716
+        },
+        {
+            "name": "Hasta Siempre Comandante",
+            "artist": "Trío Tesis",
+            "id": 574720730
+        },
+        {
+            "name": "Mi Veneración",
+            "artist": "Cuarteto Carenas",
+            "id": 862343527
+        },
+        {
+            "name": "Carinoso, Pero No Mentiroso",
+            "artist": "Soneros de Verdad",
+            "id": 1296477797
+        },
+        {
+            "name": "Puentecito de Mi Rio",
+            "artist": "Osvaldo Pugliese",
+            "id": 571991758
+        },
+        {
+            "name": "Las Golondrinas",
+            "artist": "Son Del Nene",
+            "id": 1380227971
+        },
+        {
+            "name": "Micaela",
+            "artist": "Soneros de Verdad",
+            "id": 560353352
+        },
+        {
+            "name": "Recuerdos",
+            "artist": "Son Del Nene",
+            "id": 1380228818
+        },
+        {
+            "name": "Mariposita de Primavera",
+            "artist": "Trio Matamoros",
+            "id": 1372913644
+        },
+        {
+            "name": "Maria Cervantes (Remastered)",
+            "artist": "Noro Morales",
+            "id": 572174330
+        },
+        {
+            "name": "Mambo No. 5",
+            "artist": "Cubanisimo",
+            "id": 573384356
+        },
+        {
+            "name": "Yamile",
+            "artist": "Maracaibo Oriental",
+            "id": 554143437
+        },
+        {
+            "name": "You Are the Only One",
+            "artist": "Rudi Calzado",
+            "id": 554146198
+        },
+        {
+            "name": "A Quien No Le Gusta el Son",
+            "artist": "Raúl Planas",
+            "id": 560736668
+        },
+        {
+            "name": "Lagrimas Negras",
+            "artist": "Raúl Planas",
+            "id": 560736666
+        },
+        {
+            "name": "¿Y Tú Qué Has Hecho?",
+            "artist": "Buena Vista Social Club",
+            "id": 16782923
+        },
+        {
+            "name": "Virgen Del Pino (con Santiago Auseron)",
+            "artist": "Compay Segundo",
+            "id": 16972313
+        },
+        {
+            "name": "Te Sigo Amando Igual",
+            "artist": "Pilar Montenegro",
+            "id": 3285927
+        },
+        {
+            "name": "Love Is All You Need",
+            "artist": "Pilar Montenegro",
+            "id": 3285950
+        },
+        {
+            "name": "La Pluma (con Omara Portuondo)",
+            "artist": "Compay Segundo",
+            "id": 16972320
+        },
+        {
+            "name": "Macusa (Pablo Milanes)",
+            "artist": "Compay Segundo",
+            "id": 16972319
+        }
+    ]
+}

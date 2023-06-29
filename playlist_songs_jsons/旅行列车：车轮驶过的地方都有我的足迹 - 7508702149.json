@@ -1,0 +1,902 @@
+{
+    "playlist_info": {
+        "name": "旅行列车：车轮驶过的地方都有我的足迹",
+        "trackcount": 178,
+        "playcount": 27176,
+        "creator": "肉肉的作业君",
+        "createDate": "2022-06-27",
+        "heat": 74.0
+    },
+    "songs": [
+        {
+            "name": "一笑江湖 (DJ版)",
+            "artist": "小瑞",
+            "id": 2050215361
+        },
+        {
+            "name": "Die For You",
+            "artist": "Anarosa",
+            "id": 2028588765
+        },
+        {
+            "name": "笼",
+            "artist": "张碧晨",
+            "id": 2057534370
+        },
+        {
+            "name": "She's A 10 But...",
+            "artist": "Artan",
+            "id": 1997372642
+        },
+        {
+            "name": "下个路口再见吧",
+            "artist": "不是花火呀",
+            "id": 2056901270
+        },
+        {
+            "name": "春泥",
+            "artist": "庾澄庆",
+            "id": 573968836
+        },
+        {
+            "name": "海誓山盟",
+            "artist": "王震",
+            "id": 34586275
+        },
+        {
+            "name": "不问",
+            "artist": "王鑫",
+            "id": 2046851439
+        },
+        {
+            "name": "爱情转移",
+            "artist": "陈奕迅",
+            "id": 65536
+        },
+        {
+            "name": "凄美地",
+            "artist": "郭顶",
+            "id": 436346833
+        },
+        {
+            "name": "凛冬将至（Full version）",
+            "artist": "徐骁宇DEAN K",
+            "id": 1456661032
+        },
+        {
+            "name": "像极了℡.",
+            "artist": "AD钙",
+            "id": 1908670475
+        },
+        {
+            "name": "有你",
+            "artist": "赵磊",
+            "id": 2056207547
+        },
+        {
+            "name": "如果可以 (Acapella)",
+            "artist": "韦礼安",
+            "id": 1922931099
+        },
+        {
+            "name": "无聊的",
+            "artist": "小霞",
+            "id": 1901319324
+        },
+        {
+            "name": "我们的歌 0.8x",
+            "artist": "七十二時",
+            "id": 2034233348
+        },
+        {
+            "name": "山海",
+            "artist": "草东没有派对",
+            "id": 411314659
+        },
+        {
+            "name": "莫妮卡贝鲁奇",
+            "artist": "盛宇D-SHINE",
+            "id": 2058287085
+        },
+        {
+            "name": "底牌",
+            "artist": "Capper",
+            "id": 2055808604
+        },
+        {
+            "name": "如果可以·2023",
+            "artist": "yihuik苡慧",
+            "id": 2029895485
+        },
+        {
+            "name": "耳 喃",
+            "artist": "PIggy",
+            "id": 1803936748
+        },
+        {
+            "name": "没有什么不同",
+            "artist": "曲婉婷",
+            "id": 2044458041
+        },
+        {
+            "name": "悬溺（0.8x）",
+            "artist": "陈住气",
+            "id": 1990180060
+        },
+        {
+            "name": "一般的一天",
+            "artist": "Wiz_H张子豪",
+            "id": 2054300084
+        },
+        {
+            "name": "As It Was",
+            "artist": "PREP",
+            "id": 1968869187
+        },
+        {
+            "name": "二两墨",
+            "artist": "Myling",
+            "id": 2055559958
+        },
+        {
+            "name": "亚特兰蒂斯",
+            "artist": "金玟岐",
+            "id": 2054300528
+        },
+        {
+            "name": "21",
+            "artist": "Gracie Abrams",
+            "id": 1462753116
+        },
+        {
+            "name": "One Of The Girls",
+            "artist": "The Weeknd",
+            "id": 2058139099
+        },
+        {
+            "name": "钻石牌香烟",
+            "artist": "Ove",
+            "id": 2027251452
+        },
+        {
+            "name": "ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ʏᴏᴜ",
+            "artist": "Bethybai",
+            "id": 1975321965
+        },
+        {
+            "name": "海阔天空",
+            "artist": "Beyond",
+            "id": 1357375695
+        },
+        {
+            "name": "Baby, Don't Cry (人鱼的眼泪)",
+            "artist": "EXO",
+            "id": 26428032
+        },
+        {
+            "name": "歌词总诉离别",
+            "artist": "Yxpxx",
+            "id": 2039157171
+        },
+        {
+            "name": "我不信你不惭愧-完整版",
+            "artist": "李茜",
+            "id": 2050998280
+        },
+        {
+            "name": "bukiqa",
+            "artist": "Muhpulla Production",
+            "id": 1980685104
+        },
+        {
+            "name": "你是不是也想和我一起走走",
+            "artist": "尹露浠",
+            "id": 2056204117
+        },
+        {
+            "name": "爱人错过 (Live版)",
+            "artist": "告五人",
+            "id": 2052368796
+        },
+        {
+            "name": "泡沫 (Live)",
+            "artist": "G.E.M.邓紫棋",
+            "id": 27949882
+        },
+        {
+            "name": "May Eqip",
+            "artist": "Kaysar Abdukerim",
+            "id": 2057068155
+        },
+        {
+            "name": "冷屁股",
+            "artist": "易烊千玺",
+            "id": 2045076442
+        },
+        {
+            "name": "你是我此生唯一所愿",
+            "artist": "张碧晨",
+            "id": 2056207543
+        },
+        {
+            "name": "还是会寂寞",
+            "artist": "陈绮贞",
+            "id": 209478
+        },
+        {
+            "name": "浆果",
+            "artist": "Tiny7CrosAGO",
+            "id": 2015896805
+        },
+        {
+            "name": "春泥",
+            "artist": "西柚to",
+            "id": 2010834753
+        },
+        {
+            "name": "玫瑰花的葬礼(0.8x)",
+            "artist": "Cubi",
+            "id": 1973058747
+        },
+        {
+            "name": "达尔文 II 进化版",
+            "artist": "蔡健雅",
+            "id": 208950
+        },
+        {
+            "name": "当你的天空突然下起了大雨",
+            "artist": "CashMoon",
+            "id": 2057999966
+        },
+        {
+            "name": "就忘了吧",
+            "artist": "3rq",
+            "id": 1951559204
+        },
+        {
+            "name": "夏夜露天电影(Summer Night Open-Air Movie)",
+            "artist": "白色海岸The White Coast",
+            "id": 1948694170
+        },
+        {
+            "name": "歌曲：是妈妈是女儿",
+            "artist": "黄绮珊",
+            "id": 2016388265
+        },
+        {
+            "name": "关于小熊",
+            "artist": "蛋堡",
+            "id": 76881
+        },
+        {
+            "name": "天若有情（女声版）",
+            "artist": "高杰杰杰杰",
+            "id": 1931994283
+        },
+        {
+            "name": "Every summertime",
+            "artist": "Jerry1",
+            "id": 1909814194
+        },
+        {
+            "name": "Overdose",
+            "artist": "なとり",
+            "id": 1974104377
+        },
+        {
+            "name": "FATALITY",
+            "artist": "Kordhell",
+            "id": 1943523171
+        },
+        {
+            "name": "璃云月海",
+            "artist": "宴宁",
+            "id": 1913819637
+        },
+        {
+            "name": "步步",
+            "artist": "五月天",
+            "id": 2005492354
+        },
+        {
+            "name": "been loving",
+            "artist": "Mayten",
+            "id": 1890385695
+        },
+        {
+            "name": "借过",
+            "artist": "零玖一叁",
+            "id": 1426304544
+        },
+        {
+            "name": "下个，路口，见",
+            "artist": "李宇春",
+            "id": 490602335
+        },
+        {
+            "name": "Heaven",
+            "artist": "Ailee",
+            "id": 1851715422
+        },
+        {
+            "name": "I Wish",
+            "artist": "BoyWithUke",
+            "id": 1820102293
+        },
+        {
+            "name": "Polozhenie",
+            "artist": "T3nzu",
+            "id": 1890256410
+        },
+        {
+            "name": "肯定",
+            "artist": "糯米Nomi",
+            "id": 1440873845
+        },
+        {
+            "name": "干杯时我会想起你",
+            "artist": "新学校废物合唱团",
+            "id": 1989389607
+        },
+        {
+            "name": "Starboy",
+            "artist": "The Weeknd",
+            "id": 2030154457
+        },
+        {
+            "name": "后来 (Live)",
+            "artist": "刘若英",
+            "id": 1447048373
+        },
+        {
+            "name": "Insane",
+            "artist": "Black Gryph0n",
+            "id": 1850706877
+        },
+        {
+            "name": "喜欢就一定要得到吗",
+            "artist": "易谢斌",
+            "id": 2012137045
+        },
+        {
+            "name": "神明",
+            "artist": "NINEONE#赵馨玥",
+            "id": 2057153529
+        },
+        {
+            "name": "32 度的晚风",
+            "artist": "管小天",
+            "id": 2058141670
+        },
+        {
+            "name": "带我走(Live)",
+            "artist": "杨丞琳",
+            "id": 316130
+        },
+        {
+            "name": "trust me",
+            "artist": "Dx",
+            "id": 1901109775
+        },
+        {
+            "name": "novocaine",
+            "artist": "GenriX",
+            "id": 2006693987
+        },
+        {
+            "name": "门的另一端",
+            "artist": "多多poi",
+            "id": 1880127698
+        },
+        {
+            "name": "Hold On Slowed（NO 3D）",
+            "artist": "AD_概",
+            "id": 1862246532
+        },
+        {
+            "name": "陌生女人的来信",
+            "artist": "UmzBeatz",
+            "id": 1478870336
+        },
+        {
+            "name": "歌颂我",
+            "artist": "悲剧药方",
+            "id": 2032183122
+        },
+        {
+            "name": "我有喜欢的人了",
+            "artist": "赵露思",
+            "id": 2056208412
+        },
+        {
+            "name": "爱已随风散",
+            "artist": "美蛋",
+            "id": 1990033985
+        },
+        {
+            "name": "I'll Never Let Go",
+            "artist": "Bilal-上海",
+            "id": 1831795336
+        },
+        {
+            "name": "거짓말",
+            "artist": "BIGBANG",
+            "id": 22673551
+        },
+        {
+            "name": "时空中的绘旅人",
+            "artist": "汤成君Jun",
+            "id": 1489045365
+        },
+        {
+            "name": "눈, 코, 입",
+            "artist": "TAEYANG",
+            "id": 28613217
+        },
+        {
+            "name": "ANTI-UTOPIA（反乌托邦）",
+            "artist": "啃书",
+            "id": 2031713077
+        },
+        {
+            "name": "踮起脚尖爱 (Live版)",
+            "artist": "张碧晨",
+            "id": 2057718180
+        },
+        {
+            "name": "Ferrari",
+            "artist": "Jayvine Ramma",
+            "id": 2020576962
+        },
+        {
+            "name": "风行浪人",
+            "artist": "变色喵IAN",
+            "id": 1859786386
+        },
+        {
+            "name": "Умри, если меня не любишь",
+            "artist": "DAKOOKA",
+            "id": 1831899575
+        },
+        {
+            "name": "恋爱告急_(Live)-鞠婧祎",
+            "artist": "鞠婧御",
+            "id": 2011333120
+        },
+        {
+            "name": "Drive Thru",
+            "artist": "Ivoris",
+            "id": 1954372700
+        },
+        {
+            "name": "Villain",
+            "artist": "Shoto",
+            "id": 2023048688
+        },
+        {
+            "name": "囍 【鬼新娘之入土版】（翻自 葛东琪）",
+            "artist": "叶叶子",
+            "id": 1822276477
+        },
+        {
+            "name": "Love In The Dark",
+            "artist": "Adele",
+            "id": 36841427
+        },
+        {
+            "name": "带我走",
+            "artist": "杨丞琳",
+            "id": 5243408
+        },
+        {
+            "name": "Hot",
+            "artist": "Liili",
+            "id": 1899399617
+        },
+        {
+            "name": "Sea Of Problems (Sped Up)",
+            "artist": "Glichery",
+            "id": 2035279873
+        },
+        {
+            "name": "I Wish My Mind Would Shut Up 慢速版（你应该看看我的日记）",
+            "artist": "Ivoris",
+            "id": 2026262048
+        },
+        {
+            "name": "Here's Your Perfect",
+            "artist": "Jamie Miller",
+            "id": 1941657143
+        },
+        {
+            "name": "葬花",
+            "artist": "THT",
+            "id": 503426999
+        },
+        {
+            "name": "A Thousand Years",
+            "artist": "Jada Facer",
+            "id": 1937340367
+        },
+        {
+            "name": "正年少 - 《某某》广播剧破亿纪念曲",
+            "artist": "Mario",
+            "id": 1976133087
+        },
+        {
+            "name": "字字句句",
+            "artist": "云汐",
+            "id": 1896177348
+        },
+        {
+            "name": "春泥",
+            "artist": "1个球",
+            "id": 1927231651
+        },
+        {
+            "name": "满天星辰不及你",
+            "artist": "良良木",
+            "id": 1818787681
+        },
+        {
+            "name": "我要开花",
+            "artist": "二手玫瑰",
+            "id": 1328892588
+        },
+        {
+            "name": "lain",
+            "artist": "C4FF31N3",
+            "id": 1872223336
+        },
+        {
+            "name": "The job song",
+            "artist": "贝卡",
+            "id": 1980023227
+        },
+        {
+            "name": "最长的旅途 (Live版)",
+            "artist": "单依纯",
+            "id": 2057712077
+        },
+        {
+            "name": "Avid",
+            "artist": "SawanoHiroyuki[nZk]",
+            "id": 2009678546
+        },
+        {
+            "name": "Steal The Show (From \"Elemental\")",
+            "artist": "Lauv",
+            "id": 2052312250
+        },
+        {
+            "name": "dusk till dawn-环绕0.8",
+            "artist": "Slow_77",
+            "id": 2021642772
+        },
+        {
+            "name": "心跳回忆",
+            "artist": "小精灵",
+            "id": 1988565274
+        },
+        {
+            "name": "纸飞机 (Fly away)",
+            "artist": "高玮浩",
+            "id": 1916476913
+        },
+        {
+            "name": "忙しい生活「人山人海」",
+            "artist": "时空储蓄罐",
+            "id": 1877526024
+        },
+        {
+            "name": "迷",
+            "artist": "蔡徐坤",
+            "id": 1837045252
+        },
+        {
+            "name": "爱情转移",
+            "artist": "陈奕迅",
+            "id": 5252854
+        },
+        {
+            "name": "听悲伤的情歌",
+            "artist": "苏星捷",
+            "id": 2051936949
+        },
+        {
+            "name": "岁岁",
+            "artist": "Babystop_山竹",
+            "id": 2054005252
+        },
+        {
+            "name": "Boranliq Kiche",
+            "artist": "Muzo",
+            "id": 1428835900
+        },
+        {
+            "name": "三拜红尘凉 (X0.8降速降调版)",
+            "artist": "尹昔眠",
+            "id": 2035703826
+        },
+        {
+            "name": "天黑黑 (我爱上让我奋不顾身的一个人)",
+            "artist": "Joysaaaa",
+            "id": 2055776589
+        },
+        {
+            "name": "可愛くてごめん",
+            "artist": "HoneyWorks",
+            "id": 1996929972
+        },
+        {
+            "name": "莫妮卡·贝鲁奇 (LIVE版)",
+            "artist": "盛宇D-SHINE",
+            "id": 2058162325
+        },
+        {
+            "name": "1234 (feat. 薩麥爾)",
+            "artist": "Gordon Flanders",
+            "id": 1477754095
+        },
+        {
+            "name": "I Still Want Your Love (feat. Jinnie)",
+            "artist": "Sam Ock",
+            "id": 1979192239
+        },
+        {
+            "name": "到此一游",
+            "artist": "司南",
+            "id": 2050354399
+        },
+        {
+            "name": "亲爱的你呀",
+            "artist": "Bell玲惠",
+            "id": 2047788533
+        },
+        {
+            "name": "不遗憾(0.8)",
+            "artist": "1coco",
+            "id": 2023787297
+        },
+        {
+            "name": "One Last Kiss (Live Version)",
+            "artist": "宇多田ヒカル",
+            "id": 1950674547
+        },
+        {
+            "name": "听悲伤的情歌（原版）",
+            "artist": "Jessie熙熙",
+            "id": 2052070994
+        },
+        {
+            "name": "I Love You Baby",
+            "artist": "Paul Anka",
+            "id": 1406266995
+        },
+        {
+            "name": "精卫（琵琶X竹笛）",
+            "artist": "引商坊",
+            "id": 2037218009
+        },
+        {
+            "name": "Astronaut In the Ocean",
+            "artist": "Kurt Hugo Schneider",
+            "id": 1974416887
+        },
+        {
+            "name": "独一无二的盛夏",
+            "artist": "R!CY",
+            "id": 1950572549
+        },
+        {
+            "name": "Cupid (Twin Ver.)",
+            "artist": "FIFTY FIFTY",
+            "id": 2025227743
+        },
+        {
+            "name": "中间人 0.8x",
+            "artist": "七十二時",
+            "id": 1996697776
+        },
+        {
+            "name": "convolk - gone（纯音乐)",
+            "artist": "ZsFlovexl",
+            "id": 2019035410
+        },
+        {
+            "name": "带我去找夜生活 (Live版)",
+            "artist": "张杰",
+            "id": 2052368814
+        },
+        {
+            "name": "나만 바라봐",
+            "artist": "TAEYANG",
+            "id": 22845915
+        },
+        {
+            "name": "Way Up",
+            "artist": "瘦子E.SO",
+            "id": 1905393008
+        },
+        {
+            "name": "isahini",
+            "artist": "LÜCY",
+            "id": 1954146692
+        },
+        {
+            "name": "雾里（0.8x）",
+            "artist": "独久厌闹",
+            "id": 2025513396
+        },
+        {
+            "name": "世界上的另一个我 (Live版)",
+            "artist": "张碧晨",
+            "id": 2056170674
+        },
+        {
+            "name": "Garden of Lucy",
+            "artist": "Maple暖枫",
+            "id": 2015105945
+        },
+        {
+            "name": "路边野餐",
+            "artist": "Aliosha",
+            "id": 1931648190
+        },
+        {
+            "name": "广东爱情故事",
+            "artist": "广东雨神",
+            "id": 1441285642
+        },
+        {
+            "name": "Maybe it's called ardent love",
+            "artist": "Zvan",
+            "id": 2022215307
+        },
+        {
+            "name": "我看过花开又花落",
+            "artist": "万古",
+            "id": 2025474049
+        },
+        {
+            "name": "アイロニ",
+            "artist": "H△G",
+            "id": 476638472
+        },
+        {
+            "name": "From The Start",
+            "artist": "Laufey",
+            "id": 2047103213
+        },
+        {
+            "name": "One More Shot",
+            "artist": "CIL",
+            "id": 2017070613
+        },
+        {
+            "name": "时落叶影",
+            "artist": "Maple暖枫",
+            "id": 1379958635
+        },
+        {
+            "name": "Sweetly",
+            "artist": "Lord Kael",
+            "id": 1445545567
+        },
+        {
+            "name": "我想我会",
+            "artist": "尹露浠",
+            "id": 2056203126
+        },
+        {
+            "name": "Dehors",
+            "artist": "JORDANN",
+            "id": 1815725297
+        },
+        {
+            "name": "夏日沉溺",
+            "artist": "LBI利比",
+            "id": 2057483817
+        },
+        {
+            "name": "孤独症患者",
+            "artist": "幼稚园杀手",
+            "id": 1365879188
+        },
+        {
+            "name": "知道不知道 (Live)",
+            "artist": "刘若英",
+            "id": 29450945
+        },
+        {
+            "name": "who do you cry for?",
+            "artist": "CPRCRN",
+            "id": 2012616388
+        },
+        {
+            "name": "썸 탈꺼야（some）",
+            "artist": "郁米yumi_",
+            "id": 1301433939
+        },
+        {
+            "name": "golden hour",
+            "artist": "Strictlyviolin荀博",
+            "id": 1994859227
+        },
+        {
+            "name": "开往早晨的午夜 (Live版)",
+            "artist": "胡彦斌",
+            "id": 2057718119
+        },
+        {
+            "name": "Hit the Rhyme",
+            "artist": "蛋堡",
+            "id": 76875
+        },
+        {
+            "name": "宵宫",
+            "artist": "喜欢唱歌的小白",
+            "id": 1983212649
+        },
+        {
+            "name": "Pray4Luv",
+            "artist": "NINEONE#赵馨玥",
+            "id": 2057155827
+        },
+        {
+            "name": "带我走",
+            "artist": "杨丞琳",
+            "id": 523008515
+        },
+        {
+            "name": "明天 (feat. 袁娅维TIA RAY)",
+            "artist": "马思唯",
+            "id": 2036171786
+        },
+        {
+            "name": "Prairies",
+            "artist": "BoyWithUke",
+            "id": 1944897224
+        },
+        {
+            "name": "把回忆结成冰",
+            "artist": "情绪",
+            "id": 2041774699
+        },
+        {
+            "name": "用情 (Live)",
+            "artist": "狮子LION",
+            "id": 461858648
+        },
+        {
+            "name": "要 像 荷 花 一 樣",
+            "artist": "heaten_",
+            "id": 1905315244
+        },
+        {
+            "name": "Azure Skies",
+            "artist": "trxxshed",
+            "id": 1849256862
+        },
+        {
+            "name": "下雨天 (Live)",
+            "artist": "单依纯",
+            "id": 1818731055
+        },
+        {
+            "name": "爱江山更爱美人 (Live版)",
+            "artist": "胡夏",
+            "id": 2057712869
+        },
+        {
+            "name": "bars",
+            "artist": "L.seven",
+            "id": 2047530589
+        },
+        {
+            "name": "Une Hirondelle A Fait Le Printemps（独燕成春）",
+            "artist": "Jasing Rye",
+            "id": 1306752874
+        }
+    ]
+}

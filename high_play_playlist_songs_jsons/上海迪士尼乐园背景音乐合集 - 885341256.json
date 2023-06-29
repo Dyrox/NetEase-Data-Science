@@ -1,0 +1,917 @@
+{
+    "playlist_info": {
+        "name": "上海迪士尼乐园背景音乐合集",
+        "trackcount": 181,
+        "playcount": 635912,
+        "creator": "dgwang0769",
+        "createDate": "2017-08-18",
+        "heat": 297.0
+    },
+    "songs": [
+        {
+            "name": "Pearl No Vox",
+            "artist": "The Hit House",
+            "id": 422419684
+        },
+        {
+            "name": "Kingdom Celebration",
+            "artist": "Alan Menken",
+            "id": 1057558
+        },
+        {
+            "name": "Overture",
+            "artist": "Alan Menken",
+            "id": 1057584
+        },
+        {
+            "name": "Enchanted Suite",
+            "artist": "Alan Menken",
+            "id": 25159672
+        },
+        {
+            "name": "Happy Ending (From \"The Little Mermaid\"/Soundtrack Version)",
+            "artist": "Disney Chorus",
+            "id": 1058179
+        },
+        {
+            "name": "Part of Your World (From \"The Little Mermaid\")",
+            "artist": "Various Artists",
+            "id": 553693034
+        },
+        {
+            "name": "Under the Sea (From \"The Little Mermaid\")",
+            "artist": "Various Artists",
+            "id": 553690217
+        },
+        {
+            "name": "Tale As Old As Time (From \"Beauty and the Beast\")",
+            "artist": "Howard Ashman",
+            "id": 553690218
+        },
+        {
+            "name": "Transformations",
+            "artist": "Alan Menken",
+            "id": 466089452
+        },
+        {
+            "name": "So Close",
+            "artist": "Jon McLaughlin",
+            "id": 25159656
+        },
+        {
+            "name": "Woody's a Star",
+            "artist": "Randy Newman",
+            "id": 1883383
+        },
+        {
+            "name": "Deck the Halls",
+            "artist": "New York Symphony Orchestra and Chorale",
+            "id": 538666931
+        },
+        {
+            "name": "Happily Ever After (Full Version)",
+            "artist": "Jordan Fisher",
+            "id": 478110189
+        },
+        {
+            "name": "从此以后Happily Ever After",
+            "artist": "吴莫愁",
+            "id": 37856448
+        },
+        {
+            "name": "海洋之心",
+            "artist": "蔡依林",
+            "id": 5262014
+        },
+        {
+            "name": "绽放美妙惊喜",
+            "artist": "张靓颖",
+            "id": 1853731672
+        },
+        {
+            "name": "奇妙的惊喜 ",
+            "artist": "摩登兄弟刘宇宁",
+            "id": 1831241783
+        },
+        {
+            "name": "It's a Good Time",
+            "artist": "The DeeKompressors",
+            "id": 1333326900
+        },
+        {
+            "name": "让奇妙飞翔",
+            "artist": "张学友",
+            "id": 5262021
+        },
+        {
+            "name": "你是我唯一所爱",
+            "artist": "庾澄庆",
+            "id": 5262020
+        },
+        {
+            "name": "风之彩",
+            "artist": "李玟",
+            "id": 5262017
+        },
+        {
+            "name": "Can't Help Falling In Love(Live)",
+            "artist": "F4",
+            "id": 354377
+        },
+        {
+            "name": "世界真细小",
+            "artist": "小紫荆儿童合唱团",
+            "id": 388687
+        },
+        {
+            "name": "Santa Claus Is Coming to Town",
+            "artist": "The Andrews Sisters",
+            "id": 564898020
+        },
+        {
+            "name": "Winter Weather",
+            "artist": "Benny Goodman",
+            "id": 538531568
+        },
+        {
+            "name": "I've Got My Love to Keep Me Warm",
+            "artist": "Red Norvo And His Orchestra",
+            "id": 539412893
+        },
+        {
+            "name": "Meet Me Under the Mistletoe",
+            "artist": "Dick Robertson & His Orchestra",
+            "id": 565113419
+        },
+        {
+            "name": "Santa Claus Is Coming To Town",
+            "artist": "Woody Herman",
+            "id": 1304497279
+        },
+        {
+            "name": "Winter Wonderland",
+            "artist": "Alan Kane",
+            "id": 563961233
+        },
+        {
+            "name": "Pines Of Rome",
+            "artist": "Disney",
+            "id": 4024459
+        },
+        {
+            "name": "Carnival Of The Animals, Finale",
+            "artist": "Disney",
+            "id": 4024467
+        },
+        {
+            "name": "Pomp and Circumstance, Marches #1,2,3, & 4",
+            "artist": "Disney",
+            "id": 4024473
+        },
+        {
+            "name": "A Bug's Life Suite",
+            "artist": "Randy Newman",
+            "id": 401699279
+        },
+        {
+            "name": "Mike and Sulley to the Rescue",
+            "artist": "Randy Newman",
+            "id": 401699275
+        },
+        {
+            "name": "Nation on Wheels",
+            "artist": "George Bruns",
+            "id": 401699263
+        },
+        {
+            "name": "Digga Tunnah Dance",
+            "artist": "Lebo M",
+            "id": 5050730
+        },
+        {
+            "name": "The Throne Room",
+            "artist": "John Williams",
+            "id": 401699270
+        },
+        {
+            "name": "Logo Te Pate",
+            "artist": "Don Harper",
+            "id": 441612085
+        },
+        {
+            "name": "When Will My Life Begin (Reprise 2)",
+            "artist": "Mandy Moore",
+            "id": 1057499
+        },
+        {
+            "name": "能走多远",
+            "artist": "刘美麟",
+            "id": 441612080
+        },
+        {
+            "name": "千山万水",
+            "artist": "孟京辉",
+            "id": 441612081
+        },
+        {
+            "name": "能走多远 (重奏)",
+            "artist": "刘美麟",
+            "id": 441612082
+        },
+        {
+            "name": "未知的真相",
+            "artist": "胡维纳",
+            "id": 1403940192
+        },
+        {
+            "name": "Show Yourself (From \"Frozen 2\"/Soundtrack Version)",
+            "artist": "胡维纳",
+            "id": 1403940195
+        },
+        {
+            "name": "好久没在生命里",
+            "artist": "李潇潇",
+            "id": 28814168
+        },
+        {
+            "name": "Try Everything",
+            "artist": "Shakira",
+            "id": 405485737
+        },
+        {
+            "name": "Lead the Way (From \"Raya and the Last Dragon\"/Soundtrack Version)",
+            "artist": "Jhene Aiko",
+            "id": 1823216650
+        },
+        {
+            "name": "Prologue (From \"Raya and the Last Dragon\"/Score)",
+            "artist": "James Newton Howard",
+            "id": 1823216651
+        },
+        {
+            "name": "Search for the Last Dragon (From \"Raya and the Last Dragon\"/Score)",
+            "artist": "James Newton Howard",
+            "id": 1823216657
+        },
+        {
+            "name": "Fleeing from Tail (From \"Raya and the Last Dragon\"/Score)",
+            "artist": "James Newton Howard",
+            "id": 1823216661
+        },
+        {
+            "name": "Captain Boun (From \"Raya and the Last Dragon\"/Score)",
+            "artist": "James Newton Howard",
+            "id": 1823216284
+        },
+        {
+            "name": "Journey to Talon (From \"Raya and the Last Dragon\"/Score)",
+            "artist": "James Newton Howard",
+            "id": 1823216286
+        },
+        {
+            "name": "Sisu Swims (From \"Raya and the Last Dragon\"/Score)",
+            "artist": "James Newton Howard",
+            "id": 1823216287
+        },
+        {
+            "name": "Escape from Talon (From \"Raya and the Last Dragon\"/Score)",
+            "artist": "James Newton Howard",
+            "id": 1823216665
+        },
+        {
+            "name": "Noi and the Ongis (From \"Raya and the Last Dragon\"/Score)",
+            "artist": "James Newton Howard",
+            "id": 1823216289
+        },
+        {
+            "name": "Running on Raindrops (From \"Raya and the Last Dragon\"/Score)",
+            "artist": "James Newton Howard",
+            "id": 1823216669
+        },
+        {
+            "name": "Plans of Attack (From \"Raya and the Last Dragon\"/Score)",
+            "artist": "James Newton Howard",
+            "id": 1823216670
+        },
+        {
+            "name": "Storming Fang (From \"Raya and the Last Dragon\"/Score)",
+            "artist": "James Newton Howard",
+            "id": 1823216294
+        },
+        {
+            "name": "Return (From \"Raya and the Last Dragon\"/Score)",
+            "artist": "James Newton Howard",
+            "id": 1823216295
+        },
+        {
+            "name": "The New World (From \"Raya and the Last Dragon\"/Score)",
+            "artist": "James Newton Howard",
+            "id": 1823216678
+        },
+        {
+            "name": "Honor to Us All (From \"Mulan\"/Score)",
+            "artist": "Harry Gregson-Williams",
+            "id": 1476315917
+        },
+        {
+            "name": "Mulan Rides into Battle (From \"Mulan\"/Score/Extended)",
+            "artist": "Harry Gregson-Williams",
+            "id": 1476315921
+        },
+        {
+            "name": "Loyal Brave True (From \"Mulan\"/Soundtrack Version)",
+            "artist": "Christina Aguilera",
+            "id": 1476319287
+        },
+        {
+            "name": "Reflection (2020) (From \"Mulan\"/Soundtrack Version)",
+            "artist": "Christina Aguilera",
+            "id": 1476319288
+        },
+        {
+            "name": "自己 (花木兰)",
+            "artist": "刘亦菲",
+            "id": 1476319289
+        },
+        {
+            "name": "自己",
+            "artist": "李玟",
+            "id": 1476319290
+        },
+        {
+            "name": "Belle",
+            "artist": "Emma Watson",
+            "id": 464035718
+        },
+        {
+            "name": "Be Our Guest",
+            "artist": "Ewan McGregor",
+            "id": 464035722
+        },
+        {
+            "name": "Days in the Sun",
+            "artist": "Audra McDonald",
+            "id": 464035723
+        },
+        {
+            "name": "Beauty and the Beast",
+            "artist": "Emma Thompson",
+            "id": 464035726
+        },
+        {
+            "name": "How Does a Moment Last Forever",
+            "artist": "Céline Dion",
+            "id": 464035730
+        },
+        {
+            "name": "Trashin' The Camp",
+            "artist": "Cast - Tarzan",
+            "id": 1821352
+        },
+        {
+            "name": "Son Of Man",
+            "artist": "Phil Collins",
+            "id": 1821348
+        },
+        {
+            "name": "Strangers Like Me",
+            "artist": "Phil Collins",
+            "id": 1821360
+        },
+        {
+            "name": "Moves Like An Ape, Looks Like A Man",
+            "artist": "Mark Mancina",
+            "id": 1821389
+        },
+        {
+            "name": "You'll Be In My Heart (Phil Version)",
+            "artist": "Phil Collins",
+            "id": 1821374
+        },
+        {
+            "name": "Two Worlds Finale",
+            "artist": "Phil Collins",
+            "id": 1821406
+        },
+        {
+            "name": "You Shall Go",
+            "artist": "Patrick Doyle",
+            "id": 30967260
+        },
+        {
+            "name": "Valse Royale",
+            "artist": "Patrick Doyle",
+            "id": 30967254
+        },
+        {
+            "name": "Who Is She",
+            "artist": "Patrick Doyle",
+            "id": 30967265
+        },
+        {
+            "name": "La Valse de L'Amour",
+            "artist": "Patrick Doyle",
+            "id": 30967259
+        },
+        {
+            "name": "La Valse Champagne",
+            "artist": "Patrick Doyle",
+            "id": 30967255
+        },
+        {
+            "name": "La Polka Militaire",
+            "artist": "Patrick Doyle",
+            "id": 30967267
+        },
+        {
+            "name": "La Polka de Paris",
+            "artist": "Patrick Doyle",
+            "id": 30967268
+        },
+        {
+            "name": "La Polka de Minuit",
+            "artist": "Patrick Doyle",
+            "id": 30967269
+        },
+        {
+            "name": "A Dream Is a Wish Your Heart Makes",
+            "artist": "Lily James",
+            "id": 30967294
+        },
+        {
+            "name": "Bibbidi-Bobbidi-Boo (The Magic Song) [Instrumental Version]",
+            "artist": "Patrick Doyle",
+            "id": 30967295
+        },
+        {
+            "name": "Searching the Kingdom",
+            "artist": "Patrick Doyle",
+            "id": 30967291
+        },
+        {
+            "name": "Finale (From \"Star Wars: The Rise of Skywalker\"/Score)",
+            "artist": "John Williams",
+            "id": 1410455847
+        },
+        {
+            "name": "Augie's Great Municipal Band/ End Credits",
+            "artist": "John Williams",
+            "id": 1488048
+        },
+        {
+            "name": "For the First Time in Forever (Instrumental Karaoke)",
+            "artist": "Kristen Anderson-Lopez",
+            "id": 28031158
+        },
+        {
+            "name": "Some Things Never Change (From \"Frozen 2\"/Instrumental)",
+            "artist": "Kristen Anderson-Lopez",
+            "id": 1403860236
+        },
+        {
+            "name": "When I Am Older (From \"Frozen 2\"/Instrumental)",
+            "artist": "Kristen Anderson-Lopez",
+            "id": 1403858551
+        },
+        {
+            "name": "Introduction (From \"Frozen 2\"/Score)",
+            "artist": "Christophe Beck",
+            "id": 1403860241
+        },
+        {
+            "name": "Iduna's Scarf (From \"Frozen 2\"/Score)",
+            "artist": "Christophe Beck",
+            "id": 1403858555
+        },
+        {
+            "name": "Reindeer Circle (From \"Frozen 2\"/Score)",
+            "artist": "Cantus",
+            "id": 1403858561
+        },
+        {
+            "name": "All Is Found (From \"Frozen 2\"/Soundtrack Version)",
+            "artist": "Evan Rachel Wood",
+            "id": 1403858538
+        },
+        {
+            "name": "Some Things Never Change (From \"Frozen 2\"/Soundtrack Version)",
+            "artist": "Kristen Bell",
+            "id": 1403858539
+        },
+        {
+            "name": "Into the Unknown (From \"Frozen 2\"/Soundtrack Version)",
+            "artist": "Idina Menzel",
+            "id": 1403858540
+        },
+        {
+            "name": "When I Am Older (From \"Frozen 2\"/Soundtrack Version)",
+            "artist": "Josh Gad",
+            "id": 1403858541
+        },
+        {
+            "name": "Lost in the Woods (From \"Frozen 2\"/Soundtrack Version)",
+            "artist": "Jonathan Groff",
+            "id": 1403858543
+        },
+        {
+            "name": "Show Yourself (From \"Frozen 2\"/Soundtrack Version)",
+            "artist": "Idina Menzel",
+            "id": 1403858544
+        },
+        {
+            "name": "Epilogue (From \"Frozen 2\"/Score)",
+            "artist": "Christophe Beck",
+            "id": 1403860251
+        },
+        {
+            "name": "Never Too Late",
+            "artist": "Elton John",
+            "id": 1377412520
+        },
+        {
+            "name": "Circle of Life/Nants' Ingonyama",
+            "artist": "Lindiwe Mkhize",
+            "id": 1377408854
+        },
+        {
+            "name": "Life's Not Fair",
+            "artist": "Hans Zimmer",
+            "id": 1377408855
+        },
+        {
+            "name": "I Just Can't Wait to Be King",
+            "artist": "JD McCrary",
+            "id": 1377408857
+        },
+        {
+            "name": "Hakuna Matata",
+            "artist": "Billy Eichner",
+            "id": 1377408860
+        },
+        {
+            "name": "Simba Is Alive!",
+            "artist": "Hans Zimmer",
+            "id": 1377412514
+        },
+        {
+            "name": "The Lion Sleeps Tonight (Full Version)",
+            "artist": "Billy Eichner",
+            "id": 1377408861
+        },
+        {
+            "name": "Can You Feel the Love Tonight",
+            "artist": "Beyoncé",
+            "id": 1377412515
+        },
+        {
+            "name": "Remember",
+            "artist": "Hans Zimmer",
+            "id": 1377412519
+        },
+        {
+            "name": "Friend Like Me",
+            "artist": "Will Smith",
+            "id": 1366903032
+        },
+        {
+            "name": "Prince Ali",
+            "artist": "Will Smith",
+            "id": 1366903033
+        },
+        {
+            "name": "A Whole New World",
+            "artist": "Mena Massoud",
+            "id": 1366903034
+        },
+        {
+            "name": "A Whole New World (End Title) (From \"Aladdin\")",
+            "artist": "ZAYN",
+            "id": 1364220373
+        },
+        {
+            "name": "快乐无边",
+            "artist": "WinonKindless✬",
+            "id": 1332607507
+        },
+        {
+            "name": "Swanee River",
+            "artist": "New Orleans Square",
+            "id": 26992471
+        },
+        {
+            "name": "The Many Adventures of Winnie the Pooh",
+            "artist": "Disneyland",
+            "id": 26992477
+        },
+        {
+            "name": "It's a Small World",
+            "artist": "Disneyland",
+            "id": 26992482
+        },
+        {
+            "name": "Mickey's Toontown",
+            "artist": "Disneyland",
+            "id": 26992483
+        },
+        {
+            "name": "20,000 Leagues Under The Sea Medley",
+            "artist": "Disneyland",
+            "id": 26992485
+        },
+        {
+            "name": "Soarin' (Over California)",
+            "artist": "Disneyland",
+            "id": 26992494
+        },
+        {
+            "name": "Married Life",
+            "artist": "Michael Giacchino",
+            "id": 401699241
+        },
+        {
+            "name": "Indiana Jones And The Temple Of The Forbidden Eye",
+            "artist": "John Williams",
+            "id": 401699245
+        },
+        {
+            "name": "Swisskapolka",
+            "artist": "Richard M. Sherman",
+            "id": 401699246
+        },
+        {
+            "name": "Tarzan Medley",
+            "artist": "Phil Collins",
+            "id": 401699247
+        },
+        {
+            "name": "Yo Ho (A Pirate's Life for Me)",
+            "artist": "Paul Frees",
+            "id": 401699248
+        },
+        {
+            "name": "Splash Mountain Medley",
+            "artist": "Ray Gilbert",
+            "id": 401699251
+        },
+        {
+            "name": "The Great Outdoors",
+            "artist": "Wilkins",
+            "id": 401699252
+        },
+        {
+            "name": "It's a Small World Clock Parade",
+            "artist": "Richard M. Sherman",
+            "id": 401699259
+        },
+        {
+            "name": "Honey, I Shrunk the Audience Theme",
+            "artist": "Bruce Broughton",
+            "id": 401699271
+        },
+        {
+            "name": "Suitcase and a Dream",
+            "artist": "Andrew Johnson",
+            "id": 401699273
+        },
+        {
+            "name": "The Little Mermaid Medley",
+            "artist": "Alan Menken",
+            "id": 401699282
+        },
+        {
+            "name": "Walt Disney Medley",
+            "artist": "Disney",
+            "id": 26984988
+        },
+        {
+            "name": "Steamboat Willie",
+            "artist": "The Amazing Keystone Big Band",
+            "id": 518053031
+        },
+        {
+            "name": "You’ll Be In My Heart",
+            "artist": "Mathieu Herzog",
+            "id": 518053035
+        },
+        {
+            "name": "Remember When (LeAnn Rimes)",
+            "artist": "Disneyland",
+            "id": 26992501
+        },
+        {
+            "name": "Portals",
+            "artist": "Alan Silvestri",
+            "id": 1361336473
+        },
+        {
+            "name": "The Real Hero",
+            "artist": "Alan Silvestri",
+            "id": 1361335320
+        },
+        {
+            "name": "Main on End",
+            "artist": "Alan Silvestri",
+            "id": 1361336477
+        },
+        {
+            "name": "Zero",
+            "artist": "Imagine Dragons",
+            "id": 1325847301
+        },
+        {
+            "name": "Never Gonna Give You Up",
+            "artist": "Rick Astley",
+            "id": 5221167
+        },
+        {
+            "name": "A Place Called Slaughter Race",
+            "artist": "Sarah Silverman",
+            "id": 1325846410
+        },
+        {
+            "name": "A Big Strong Man in Need of Rescuing",
+            "artist": "Henry Jackman",
+            "id": 1325846421
+        },
+        {
+            "name": "A Place Called Slaughter Race (Instrumental)",
+            "artist": "Alan Menken",
+            "id": 1325846424
+        },
+        {
+            "name": "When Can I See You Again?",
+            "artist": "Owl City",
+            "id": 27731290
+        },
+        {
+            "name": "Fathoms Below (From \"The Little Mermaid\" / Soundtrack Version)",
+            "artist": "Alan Menken",
+            "id": 1058095
+        },
+        {
+            "name": "Main Titles - The Little Mermaid (From \"The Little Mermaid\"/Score)",
+            "artist": "Alan Menken",
+            "id": 1058100
+        },
+        {
+            "name": "Part of Your World (Reprise) (From \"The Little Mermaid\" / Soundtrack Version)",
+            "artist": "Jodi Benson",
+            "id": 1058128
+        },
+        {
+            "name": "Part of Your World",
+            "artist": "Jessica Simpson",
+            "id": 1058194
+        },
+        {
+            "name": "Float",
+            "artist": "Joel McNeely",
+            "id": 30854663
+        },
+        {
+            "name": "Strange Sight",
+            "artist": "Joel McNeely",
+            "id": 30854666
+        },
+        {
+            "name": "Overture",
+            "artist": "Alan Menken",
+            "id": 464035714
+        },
+        {
+            "name": "Farewell",
+            "artist": "Alan Menken",
+            "id": 1058466
+        },
+        {
+            "name": "Colors of the Wind (End Title)",
+            "artist": "Vanessa Williams",
+            "id": 1058468
+        },
+        {
+            "name": "Let It Go (Instrumental Karaoke)",
+            "artist": "Kristen Anderson-Lopez",
+            "id": 28031156
+        },
+        {
+            "name": "Love Is an Open Door (From \"Frozen\"/Soundtrack Version)",
+            "artist": "Kristen Bell",
+            "id": 28031117
+        },
+        {
+            "name": "A Whole New World",
+            "artist": "Peabo Bryson",
+            "id": 1059001
+        },
+        {
+            "name": "Kingdom Dance",
+            "artist": "Alan Menken",
+            "id": 1057532
+        },
+        {
+            "name": "I See the Light",
+            "artist": "Mandy Moore",
+            "id": 1057507
+        },
+        {
+            "name": "Beyond My Beloved Horizon",
+            "artist": "Geoff Zanelli",
+            "id": 480427354
+        },
+        {
+            "name": "The Medallion Calls",
+            "artist": "Klaus Badelt",
+            "id": 1620463
+        },
+        {
+            "name": "My Name Is Barbossa",
+            "artist": "Geoff Zanelli",
+            "id": 480409495
+        },
+        {
+            "name": "Beauty and the Beast (From \"Beauty and the Beast\"/Shanghai Disneyland Version)",
+            "artist": "Howard Ashman",
+            "id": 417248008
+        },
+        {
+            "name": "You Can Fly! You Can Fly! You Can Fly! (From \"Peter Pan\"/Shanghai Disneyland Version)",
+            "artist": "Sammy Fain",
+            "id": 417833014
+        },
+        {
+            "name": "Honor to Us All",
+            "artist": "Marnie Nixon",
+            "id": 5055765
+        },
+        {
+            "name": "Reflection",
+            "artist": "Lea Salonga",
+            "id": 5055766
+        },
+        {
+            "name": "For the First Time in Forever (From \"Frozen\"/Shanghai Disneyland Version)",
+            "artist": "Robert",
+            "id": 417250882
+        },
+        {
+            "name": "When You Wish Upon a Star",
+            "artist": "Jesse McCartney",
+            "id": 5188181
+        },
+        {
+            "name": "I Just Can't Wait to Be King (From \"The Lion King\"/Soundtrack Version)",
+            "artist": "Jason Weaver",
+            "id": 5057940
+        },
+        {
+            "name": "Be Our Guest (From \"Beauty and the Beast\"/Shanghai Disneyland Version)",
+            "artist": "Howard Ashman",
+            "id": 417250880
+        },
+        {
+            "name": "Let's Go Fly a Kite (From \"Mary Poppins\"/Shanghai Disneyland Version)",
+            "artist": "Richard M. Sherman",
+            "id": 417833011
+        },
+        {
+            "name": "Touch the Sky",
+            "artist": "Julie Fowlis",
+            "id": 1835681
+        },
+        {
+            "name": "Noble Maiden Fair (A Mhaighdean Bhan Uasal)",
+            "artist": "Emma Thompson and Peigi Barker",
+            "id": 1835715
+        },
+        {
+            "name": "We’ve Both Changed",
+            "artist": "Patrick Doyle",
+            "id": 1835724
+        },
+        {
+            "name": "Merida’s Home",
+            "artist": "Patrick Doyle",
+            "id": 1835727
+        },
+        {
+            "name": "Treasure Cove Medley (Shanghai Disneyland Version)",
+            "artist": "Traditionell",
+            "id": 417833013
+        },
+        {
+            "name": "I've Got a Dream (From \"Tangled\"/Shanghai Disneyland Version)",
+            "artist": "Alan Menken",
+            "id": 417833010
+        },
+        {
+            "name": "Courage and Kindness",
+            "artist": "Patrick Doyle",
+            "id": 30967299
+        },
+        {
+            "name": "Strong",
+            "artist": "Sonna Rele",
+            "id": 30967297
+        }
+    ]
+}

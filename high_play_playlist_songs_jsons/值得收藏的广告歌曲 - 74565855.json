@@ -1,0 +1,947 @@
+{
+    "playlist_info": {
+        "name": "值得收藏的广告歌曲",
+        "trackcount": 187,
+        "playcount": 19739492,
+        "creator": "这娃有点彪",
+        "createDate": "2015-05-19",
+        "heat": 6661.0
+    },
+    "songs": [
+        {
+            "name": "坐在巷口的那对男女",
+            "artist": "自然卷",
+            "id": 394653
+        },
+        {
+            "name": "我在那一角落患过伤风",
+            "artist": "冯曦妤",
+            "id": 229072
+        },
+        {
+            "name": "Glitter & Gloss",
+            "artist": "Skott",
+            "id": 455653448
+        },
+        {
+            "name": "Glitter & Gloss (Acoustic Version)",
+            "artist": "Skott",
+            "id": 473870176
+        },
+        {
+            "name": "Leave The World Behind",
+            "artist": "Lune",
+            "id": 27807367
+        },
+        {
+            "name": "Something Real",
+            "artist": "Joanna",
+            "id": 26902790
+        },
+        {
+            "name": "Best Day Of My Life",
+            "artist": "American Authors",
+            "id": 27646851
+        },
+        {
+            "name": "MorningBreeze",
+            "artist": "群星",
+            "id": 29775025
+        },
+        {
+            "name": "The Edge",
+            "artist": "Electro-Light",
+            "id": 30569017
+        },
+        {
+            "name": "Beautiful Light",
+            "artist": "姚贝娜",
+            "id": 28306548
+        },
+        {
+            "name": "Indigo",
+            "artist": "Various Artists",
+            "id": 33085260
+        },
+        {
+            "name": "Are You OK",
+            "artist": "雷军",
+            "id": 31814005
+        },
+        {
+            "name": "Dream It Possible",
+            "artist": "Delacey",
+            "id": 38592976
+        },
+        {
+            "name": "I Miss You",
+            "artist": "Various Artists",
+            "id": 29572679
+        },
+        {
+            "name": "Brave",
+            "artist": "Sara Bareilles",
+            "id": 26222453
+        },
+        {
+            "name": "You're Beautiful",
+            "artist": "James Blunt",
+            "id": 5179544
+        },
+        {
+            "name": "Here I Am",
+            "artist": "Bryan Adams",
+            "id": 16646207
+        },
+        {
+            "name": "突然",
+            "artist": "FIELD OF VIEW",
+            "id": 725873
+        },
+        {
+            "name": "放飞美丽",
+            "artist": "刘亦菲",
+            "id": 255841
+        },
+        {
+            "name": "酷",
+            "artist": "Twins",
+            "id": 382663
+        },
+        {
+            "name": "找自己",
+            "artist": "陶喆",
+            "id": 150617
+        },
+        {
+            "name": "爱你等于爱自己",
+            "artist": "王力宏",
+            "id": 25643227
+        },
+        {
+            "name": "爱的就是你",
+            "artist": "王力宏",
+            "id": 25643327
+        },
+        {
+            "name": "Hello Tomorrow (Adidas Version)",
+            "artist": "Karen O",
+            "id": 31341963
+        },
+        {
+            "name": "Feel Good Inc.",
+            "artist": "Gorillaz",
+            "id": 18137221
+        },
+        {
+            "name": "唱这歌",
+            "artist": "郭富城",
+            "id": 88547
+        },
+        {
+            "name": "游园惊梦",
+            "artist": "郭富城",
+            "id": 88058
+        },
+        {
+            "name": "风里密码",
+            "artist": "郭富城",
+            "id": 88393
+        },
+        {
+            "name": "华丽邂逅",
+            "artist": "容祖儿",
+            "id": 287261
+        },
+        {
+            "name": "想爱",
+            "artist": "倪睿思",
+            "id": 279967
+        },
+        {
+            "name": "River",
+            "artist": "Bishop Briggs",
+            "id": 402070513
+        },
+        {
+            "name": "阆中之恋",
+            "artist": "姚贝娜",
+            "id": 28830388
+        },
+        {
+            "name": "好想你",
+            "artist": "朱主爱",
+            "id": 399353833
+        },
+        {
+            "name": "心里有个人",
+            "artist": "倪睿思",
+            "id": 279978
+        },
+        {
+            "name": "Shining Star",
+            "artist": "Josh Vietti",
+            "id": 38592198
+        },
+        {
+            "name": "天使",
+            "artist": "五月天",
+            "id": 5255928
+        },
+        {
+            "name": "C大调",
+            "artist": "张韶涵",
+            "id": 327092
+        },
+        {
+            "name": "为自己骄傲",
+            "artist": "胡歌",
+            "id": 92864
+        },
+        {
+            "name": "非FUN不可",
+            "artist": "花儿乐队",
+            "id": 357275
+        },
+        {
+            "name": "一大片天空",
+            "artist": "尚雯婕",
+            "id": 288848
+        },
+        {
+            "name": "1234",
+            "artist": "Feist",
+            "id": 17814334
+        },
+        {
+            "name": "雪花抄",
+            "artist": "张敬轩",
+            "id": 188882
+        },
+        {
+            "name": "Release Me",
+            "artist": "Two Steps From Hell",
+            "id": 31654461
+        },
+        {
+            "name": "酸酸甜甜就是我",
+            "artist": "张含韵",
+            "id": 330506
+        },
+        {
+            "name": "It Was May",
+            "artist": "柯智棠",
+            "id": 34248654
+        },
+        {
+            "name": "Set Me Free",
+            "artist": "Diplo",
+            "id": 33035837
+        },
+        {
+            "name": "友情岁月(Yeti一起兄弟版)",
+            "artist": "郑伊健",
+            "id": 33991619
+        },
+        {
+            "name": "友情岁月",
+            "artist": "郑伊健",
+            "id": 193535
+        },
+        {
+            "name": "Harder, Better, Faster, Stronger",
+            "artist": "Daft Punk",
+            "id": 17455854
+        },
+        {
+            "name": "Moves Like Jagger",
+            "artist": "Maroon 5",
+            "id": 21253966
+        },
+        {
+            "name": "Hey Rocket",
+            "artist": "Various Artists",
+            "id": 29819781
+        },
+        {
+            "name": "Rouge In Love",
+            "artist": "Brigitte Bardot",
+            "id": 27946716
+        },
+        {
+            "name": "Everlasting Love song",
+            "artist": "Various Artists",
+            "id": 28190685
+        },
+        {
+            "name": "5! My Baby",
+            "artist": "Beast",
+            "id": 30830701
+        },
+        {
+            "name": "Skinny Baby",
+            "artist": "Beast",
+            "id": 28606429
+        },
+        {
+            "name": "私のTOOKY",
+            "artist": "V.A.",
+            "id": 27901779
+        },
+        {
+            "name": "I Love the Whole World (Boom de ya da)",
+            "artist": "Various Artists",
+            "id": 31563594
+        },
+        {
+            "name": "品味中国",
+            "artist": "群星",
+            "id": 30903805
+        },
+        {
+            "name": "充电器",
+            "artist": "容祖儿",
+            "id": 27583582
+        },
+        {
+            "name": "아프지 마요",
+            "artist": "JYJ",
+            "id": 31168735
+        },
+        {
+            "name": "快乐最快(百老汇广告歌)",
+            "artist": "容祖儿",
+            "id": 28234294
+        },
+        {
+            "name": "Turntable Commercial",
+            "artist": "群星",
+            "id": 27890931
+        },
+        {
+            "name": "全世界的爱",
+            "artist": "周华健",
+            "id": 28606006
+        },
+        {
+            "name": "Close To You 走近你",
+            "artist": "莫文蔚",
+            "id": 5256577
+        },
+        {
+            "name": "Anticipating",
+            "artist": "Britney Spears",
+            "id": 5256578
+        },
+        {
+            "name": "Fingers",
+            "artist": "P!nk",
+            "id": 5256579
+        },
+        {
+            "name": "Les Champs-Elysées",
+            "artist": "Joe Dassin",
+            "id": 5256580
+        },
+        {
+            "name": "Save Your Kisses For Me",
+            "artist": "Natasha Thomas",
+            "id": 5256581
+        },
+        {
+            "name": "The Lion Sleeps Tonight",
+            "artist": "*NSYNC",
+            "id": 5256582
+        },
+        {
+            "name": "Quando,Quando,Quando (Tell Me When)",
+            "artist": "Engelbert Humperdinck",
+            "id": 5256583
+        },
+        {
+            "name": "True Colors",
+            "artist": "Cyndi Lauper",
+            "id": 5256584
+        },
+        {
+            "name": "Moon River",
+            "artist": "Andy Williams",
+            "id": 5256585
+        },
+        {
+            "name": "Stand By Me",
+            "artist": "李敬子",
+            "id": 5256586
+        },
+        {
+            "name": "Shake Your Bon-Bon",
+            "artist": "Ricky Martin",
+            "id": 5256589
+        },
+        {
+            "name": "As Time Goes By 流金岁月",
+            "artist": "王力宏",
+            "id": 5256590
+        },
+        {
+            "name": "Dear Heart",
+            "artist": "Andy Williams",
+            "id": 5256592
+        },
+        {
+            "name": "Longer",
+            "artist": "Dan Fogelberg",
+            "id": 5256593
+        },
+        {
+            "name": "Girls Just Wanna Have Fun",
+            "artist": "Cyndi Lauper",
+            "id": 5256594
+        },
+        {
+            "name": "Mambo No 5",
+            "artist": "Lou Bega",
+            "id": 5256595
+        },
+        {
+            "name": "Two Princess",
+            "artist": "Spin Doctor",
+            "id": 5256596
+        },
+        {
+            "name": "Can't Take My Eyes Off You",
+            "artist": "Andy Williams",
+            "id": 5256597
+        },
+        {
+            "name": "Oh Pretty Woman",
+            "artist": "Roy Orbison",
+            "id": 5256598
+        },
+        {
+            "name": "Torn Between Two Lovers",
+            "artist": "Mary MacGregor",
+            "id": 5256599
+        },
+        {
+            "name": "San Francisco",
+            "artist": "Scott McKenzie",
+            "id": 5256600
+        },
+        {
+            "name": "出色(百老汇广告歌)",
+            "artist": "容祖儿",
+            "id": 28234286
+        },
+        {
+            "name": "Midnight Owl",
+            "artist": "Amphibious Zoo Music",
+            "id": 31838019
+        },
+        {
+            "name": "玩乐令",
+            "artist": "羽·泉",
+            "id": 27906382
+        },
+        {
+            "name": "挚爱",
+            "artist": "群星",
+            "id": 31352202
+        },
+        {
+            "name": "love fool",
+            "artist": "Perfume",
+            "id": 31168671
+        },
+        {
+            "name": "Thematic All Colour",
+            "artist": "Various Artists",
+            "id": 29744594
+        },
+        {
+            "name": "Strawberry letter 23",
+            "artist": "Yuna",
+            "id": 31352183
+        },
+        {
+            "name": "Shake Your Body",
+            "artist": "蔡依林",
+            "id": 28661079
+        },
+        {
+            "name": "So Beautiful",
+            "artist": "Vasco",
+            "id": 28563469
+        },
+        {
+            "name": "beautiful day",
+            "artist": "Henrik Wikstrom",
+            "id": 28577164
+        },
+        {
+            "name": "Higher",
+            "artist": "Matt Todd Naylor",
+            "id": 29019102
+        },
+        {
+            "name": "出色(百老汇广告歌)",
+            "artist": "容祖儿",
+            "id": 25702236
+        },
+        {
+            "name": "感觉 Pure Love(泊美广告曲)",
+            "artist": "张靓颖",
+            "id": 25657388
+        },
+        {
+            "name": "Main Titles",
+            "artist": "Various Artists",
+            "id": 5049423
+        },
+        {
+            "name": "不该少了你(肯德基广告歌曲)",
+            "artist": "余宪忠",
+            "id": 177422
+        },
+        {
+            "name": "Heroes",
+            "artist": "X Factor Finalists 2010",
+            "id": 2063333
+        },
+        {
+            "name": "拥有Masbfca (广告配乐完整版)",
+            "artist": "几米",
+            "id": 103301
+        },
+        {
+            "name": "I’m lovin’it(麦当劳广告)",
+            "artist": "王力宏",
+            "id": 25642451
+        },
+        {
+            "name": "风行 (乐队版)",
+            "artist": "许巍",
+            "id": 167777
+        },
+        {
+            "name": "花田错",
+            "artist": "王力宏",
+            "id": 5257205
+        },
+        {
+            "name": "Rhythm Of The Rain",
+            "artist": "The Cascades",
+            "id": 4370918
+        },
+        {
+            "name": "Always Online",
+            "artist": "林俊杰",
+            "id": 108485
+        },
+        {
+            "name": "Ask For More",
+            "artist": "F4",
+            "id": 354244
+        },
+        {
+            "name": "The Life Of Dreams",
+            "artist": "Julie Doiron",
+            "id": 18781889
+        },
+        {
+            "name": "Unwritten",
+            "artist": "Natasha Bedingfield",
+            "id": 21307845
+        },
+        {
+            "name": "Don't You Want Me",
+            "artist": "The Human League",
+            "id": 5042376
+        },
+        {
+            "name": "The Show",
+            "artist": "Lenka",
+            "id": 16607998
+        },
+        {
+            "name": "知心爱人",
+            "artist": "任静",
+            "id": 84168
+        },
+        {
+            "name": "Yesterday",
+            "artist": "朴慧京",
+            "id": 22841315
+        },
+        {
+            "name": "Tik Tok",
+            "artist": "2PM",
+            "id": 5416561
+        },
+        {
+            "name": "Everybody",
+            "artist": "Ingrid Michaelson",
+            "id": 18374823
+        },
+        {
+            "name": "Everything At Once",
+            "artist": "Lenka",
+            "id": 28337723
+        },
+        {
+            "name": "Mermaid Song (TV Commercial Chivas Regal)",
+            "artist": "Sarah Khider",
+            "id": 19100552
+        },
+        {
+            "name": "Anyclub",
+            "artist": "李孝利",
+            "id": 5350579
+        },
+        {
+            "name": "Juliet",
+            "artist": "LMNT",
+            "id": 1651133
+        },
+        {
+            "name": "You're The One That I Want",
+            "artist": "Lo-Fang",
+            "id": 28280046
+        },
+        {
+            "name": "夏宇的爱情",
+            "artist": "蔡卓妍",
+            "id": 382396
+        },
+        {
+            "name": "发现爱",
+            "artist": "林俊杰",
+            "id": 108576
+        },
+        {
+            "name": "The Lonely Shepherd",
+            "artist": "Zamfir",
+            "id": 5051250
+        },
+        {
+            "name": "小事变乐事",
+            "artist": "罗志祥",
+            "id": 110277
+        },
+        {
+            "name": "白芍花开",
+            "artist": "张碧晨",
+            "id": 31452764
+        },
+        {
+            "name": "Spoonful",
+            "artist": "吉克隽逸",
+            "id": 26291021
+        },
+        {
+            "name": "ABC",
+            "artist": "Jackson 5",
+            "id": 1699551
+        },
+        {
+            "name": "手写的从前",
+            "artist": "周杰伦",
+            "id": 29822018
+        },
+        {
+            "name": "Beautiful life",
+            "artist": "福山雅治",
+            "id": 25704062
+        },
+        {
+            "name": "Gmarket Song",
+            "artist": "G-DRAGON",
+            "id": 28606338
+        },
+        {
+            "name": "天书世界",
+            "artist": "张靓颖",
+            "id": 31814302
+        },
+        {
+            "name": "Dreams",
+            "artist": "The Cranberries",
+            "id": 4330110
+        },
+        {
+            "name": "爱的就是你(浪漫版)",
+            "artist": "王力宏",
+            "id": 27483177
+        },
+        {
+            "name": "Sk8er Boi",
+            "artist": "Avril Lavigne",
+            "id": 2117894
+        },
+        {
+            "name": "香奈儿",
+            "artist": "王菲",
+            "id": 299590
+        },
+        {
+            "name": "蓝色频闪灯",
+            "artist": "陈奕迅",
+            "id": 25638632
+        },
+        {
+            "name": "Lasia",
+            "artist": "牛奶咖啡",
+            "id": 368835
+        },
+        {
+            "name": "A Little Less Conversation",
+            "artist": "Elvis Presley",
+            "id": 5197164
+        },
+        {
+            "name": "Coco",
+            "artist": "Parov Stelar",
+            "id": 26958418
+        },
+        {
+            "name": "That's Not My Name",
+            "artist": "The Ting Tings",
+            "id": 25058269
+        },
+        {
+            "name": "蒲公英的约定",
+            "artist": "周杰伦",
+            "id": 185815
+        },
+        {
+            "name": "Dream Again",
+            "artist": "王力宏",
+            "id": 5256575
+        },
+        {
+            "name": "我的地盘",
+            "artist": "周杰伦",
+            "id": 186000
+        },
+        {
+            "name": "I Love It",
+            "artist": "Icona Pop",
+            "id": 27563878
+        },
+        {
+            "name": "One Two Three Four",
+            "artist": "Feist",
+            "id": 26988328
+        },
+        {
+            "name": "魅力十足",
+            "artist": "张惠妹",
+            "id": 327153
+        },
+        {
+            "name": "我相信",
+            "artist": "杨培安",
+            "id": 176403
+        },
+        {
+            "name": "I.O.I.O.",
+            "artist": "Bee Gees",
+            "id": 16841096
+        },
+        {
+            "name": "天禁诀",
+            "artist": "光良",
+            "id": 31545209
+        },
+        {
+            "name": "I Will Come to You",
+            "artist": "Hanson",
+            "id": 18259390
+        },
+        {
+            "name": "蓝色风暴",
+            "artist": "周杰伦",
+            "id": 185905
+        },
+        {
+            "name": "We Are The Champions",
+            "artist": "Queen",
+            "id": 26693276
+        },
+        {
+            "name": "恋爱新手",
+            "artist": "BOBO",
+            "id": 26026960
+        },
+        {
+            "name": "Stand By Your Man",
+            "artist": "Tammy Wynette",
+            "id": 5256591
+        },
+        {
+            "name": "You're Beautiful",
+            "artist": "James Blunt",
+            "id": 26646979
+        },
+        {
+            "name": "New Soul",
+            "artist": "Yael Naim",
+            "id": 3852042
+        },
+        {
+            "name": "More Than I Can Say",
+            "artist": "Leo Sayer",
+            "id": 1674192
+        },
+        {
+            "name": "Bizarre Love Triangle",
+            "artist": "Frente!",
+            "id": 27071533
+        },
+        {
+            "name": "Rhythm Of The Rain",
+            "artist": "Cascades",
+            "id": 26154359
+        },
+        {
+            "name": "Boats (Swept Away)",
+            "artist": "I Am Not Lefthanded",
+            "id": 4125281
+        },
+        {
+            "name": "Seasons in the Sun",
+            "artist": "Westlife",
+            "id": 20707571
+        },
+        {
+            "name": "Whole World Around",
+            "artist": "Daniel Powter",
+            "id": 17271083
+        },
+        {
+            "name": "爱异想",
+            "artist": "郭采洁",
+            "id": 233922
+        },
+        {
+            "name": "Free Loop",
+            "artist": "Daniel Powter",
+            "id": 5253801
+        },
+        {
+            "name": "Colorful Days",
+            "artist": "朴树",
+            "id": 139351
+        },
+        {
+            "name": "招牌动作",
+            "artist": "蔡依林",
+            "id": 209648
+        },
+        {
+            "name": "Built To Last",
+            "artist": "Mêlée",
+            "id": 5141661
+        },
+        {
+            "name": "When  You  Know",
+            "artist": "Hooverphonic",
+            "id": 28160028
+        },
+        {
+            "name": "天亮以后说分手",
+            "artist": "信乐团",
+            "id": 387600
+        },
+        {
+            "name": "Shine",
+            "artist": "Rosi Golan",
+            "id": 3314358
+        },
+        {
+            "name": "Scar Tissue",
+            "artist": "Red Hot Chili Peppers",
+            "id": 21536212
+        },
+        {
+            "name": "空も飛べるはず",
+            "artist": "スピッツ",
+            "id": 816896
+        },
+        {
+            "name": "Underneath Your Clothes",
+            "artist": "Shakira",
+            "id": 3406611
+        },
+        {
+            "name": "It's My Life",
+            "artist": "Bon Jovi",
+            "id": 3950546
+        },
+        {
+            "name": "我要飞",
+            "artist": "F.I.R.",
+            "id": 354557
+        },
+        {
+            "name": "零距离",
+            "artist": "范玮琪",
+            "id": 229201
+        },
+        {
+            "name": "醉赤壁",
+            "artist": "林俊杰",
+            "id": 108478
+        },
+        {
+            "name": "就现在",
+            "artist": "吴莫愁",
+            "id": 26343111
+        },
+        {
+            "name": "美",
+            "artist": "王力宏",
+            "id": 25643275
+        },
+        {
+            "name": "Good Time",
+            "artist": "Owl City",
+            "id": 17706562
+        },
+        {
+            "name": "Taste The Feeling (Avicii Vs. Conrad Sewell)",
+            "artist": "Avicii",
+            "id": 406096624
+        },
+        {
+            "name": "永远的微笑",
+            "artist": "周璇",
+            "id": 330079
+        },
+        {
+            "name": "康美之恋",
+            "artist": "谭晶",
+            "id": 294134
+        },
+        {
+            "name": "最长的电影",
+            "artist": "周杰伦",
+            "id": 185821
+        },
+        {
+            "name": "Young For You",
+            "artist": "GALA",
+            "id": 356034
+        },
+        {
+            "name": "I Need You",
+            "artist": "张敬轩",
+            "id": 29544616
+        },
+        {
+            "name": "心腹",
+            "artist": "陈奕迅",
+            "id": 64643
+        }
+    ]
+}

@@ -1,0 +1,882 @@
+{
+    "playlist_info": {
+        "name": "那些好听到炸裂的火热英语歌曲",
+        "trackcount": 174,
+        "playcount": 16920,
+        "creator": "不爱说话的蔡宝",
+        "createDate": "2017-12-02",
+        "heat": 8.0
+    },
+    "songs": [
+        {
+            "name": "Slow Down",
+            "artist": "Madnap",
+            "id": 1356658022
+        },
+        {
+            "name": "Go Again (feat. ELYSA)",
+            "artist": "King CAAN",
+            "id": 1952112969
+        },
+        {
+            "name": "California Gurls",
+            "artist": "Katy Perry",
+            "id": 18981900
+        },
+        {
+            "name": "Hands in the Fire",
+            "artist": "James Carter",
+            "id": 1306497271
+        },
+        {
+            "name": "Catch My Breath",
+            "artist": "Kelly Clarkson",
+            "id": 25657526
+        },
+        {
+            "name": "Into You",
+            "artist": "Matisse & Sadko",
+            "id": 523042017
+        },
+        {
+            "name": "golden hour",
+            "artist": "JVKE",
+            "id": 1958557540
+        },
+        {
+            "name": "Edge Of My Life",
+            "artist": "Manafest",
+            "id": 28878559
+        },
+        {
+            "name": "I Really Like You",
+            "artist": "Sabrina",
+            "id": 34913089
+        },
+        {
+            "name": "All For Love",
+            "artist": "Tungevaag & Raaban",
+            "id": 545947135
+        },
+        {
+            "name": "I Really Want to Stay At Your House",
+            "artist": "Rosa Walton",
+            "id": 1496089152
+        },
+        {
+            "name": "Dancing With Your Ghost",
+            "artist": "Sasha Alex Sloan",
+            "id": 1374329431
+        },
+        {
+            "name": "Everybody Dies In Their Nightmares",
+            "artist": "XXXTENTACION",
+            "id": 501133800
+        },
+        {
+            "name": "Bones",
+            "artist": "Imagine Dragons",
+            "id": 1927389937
+        },
+        {
+            "name": "See Tình (Speed Up Version)",
+            "artist": "Hoàng Thùy Linh",
+            "id": 1944518589
+        },
+        {
+            "name": "Stay The Night",
+            "artist": "Just Kiddin",
+            "id": 1376075781
+        },
+        {
+            "name": "In The Shadow Of The Sun",
+            "artist": "Professor Green",
+            "id": 29412405
+        },
+        {
+            "name": "Love Is Gone (Acoustic)",
+            "artist": "SLANDER",
+            "id": 1401671455
+        },
+        {
+            "name": "Cure For Me",
+            "artist": "AURORA",
+            "id": 1859515946
+        },
+        {
+            "name": "So Far Away (Acoustic)",
+            "artist": "Adam Christopher",
+            "id": 1313584359
+        },
+        {
+            "name": "Wake (Live)",
+            "artist": "Hillsong Young & Free",
+            "id": 1873321491
+        },
+        {
+            "name": "So Far Away",
+            "artist": "Martin Garrix",
+            "id": 521416693
+        },
+        {
+            "name": "Normal No More",
+            "artist": "TYSM",
+            "id": 1440570723
+        },
+        {
+            "name": "Is It Just Me?",
+            "artist": "Sasha Alex Sloan",
+            "id": 1496017614
+        },
+        {
+            "name": "Little Do You Know",
+            "artist": "Campsite Dream",
+            "id": 475597495
+        },
+        {
+            "name": "Empty Love",
+            "artist": "Lulleaux",
+            "id": 1435828582
+        },
+        {
+            "name": "Enemy (from the series Arcane League of Legends)",
+            "artist": "Imagine Dragons",
+            "id": 1890494798
+        },
+        {
+            "name": "Contact",
+            "artist": "Lulleaux",
+            "id": 500412390
+        },
+        {
+            "name": "Photo ID",
+            "artist": "Remi Wolf",
+            "id": 1457708912
+        },
+        {
+            "name": "STAY",
+            "artist": "The Kid LAROI",
+            "id": 1859245776
+        },
+        {
+            "name": "lowkey",
+            "artist": "NIKI",
+            "id": 1360642403
+        },
+        {
+            "name": "20",
+            "artist": "朱彦安",
+            "id": 1354451573
+        },
+        {
+            "name": "Million Days",
+            "artist": "SABAI",
+            "id": 1417055605
+        },
+        {
+            "name": "Number",
+            "artist": "Alexander Oscar",
+            "id": 537407969
+        },
+        {
+            "name": "The Way I Still Love You",
+            "artist": "Reynard Silva",
+            "id": 28718313
+        },
+        {
+            "name": "Unstoppable",
+            "artist": "Sia",
+            "id": 436487118
+        },
+        {
+            "name": "We Can't Stop",
+            "artist": "Boyce Avenue",
+            "id": 29480187
+        },
+        {
+            "name": "Bleeding Love",
+            "artist": "Ni/Co",
+            "id": 1388433823
+        },
+        {
+            "name": "Everything Sucks",
+            "artist": "vaultboy",
+            "id": 1840861415
+        },
+        {
+            "name": "Come Back For You (Morgan Page Remix)",
+            "artist": "Morgan Page",
+            "id": 531040135
+        },
+        {
+            "name": "Celebrity",
+            "artist": "IU",
+            "id": 1815389717
+        },
+        {
+            "name": "Fire",
+            "artist": "Gavin DeGraw",
+            "id": 28923579
+        },
+        {
+            "name": "Play with Fire (feat. Yacht Money)",
+            "artist": "Sam Tinnesz",
+            "id": 529823784
+        },
+        {
+            "name": "Everything Black",
+            "artist": "Unlike Pluto",
+            "id": 464373274
+        },
+        {
+            "name": "Get Stüpid",
+            "artist": "Bülow",
+            "id": 1356668705
+        },
+        {
+            "name": "Because of You",
+            "artist": "Kelly Clarkson",
+            "id": 16232697
+        },
+        {
+            "name": "Floating (feat. Khalid) [filous Remix]",
+            "artist": "Alina Baraz",
+            "id": 1344440225
+        },
+        {
+            "name": "Last Call",
+            "artist": "Adib Sin",
+            "id": 1380834060
+        },
+        {
+            "name": "Girl in the Mirror",
+            "artist": "Bebe Rexha",
+            "id": 1360909338
+        },
+        {
+            "name": "The Lazy Song",
+            "artist": "Bruno Mars",
+            "id": 25657280
+        },
+        {
+            "name": "Runaway",
+            "artist": "Sasha Alex Sloan",
+            "id": 521784134
+        },
+        {
+            "name": "Turn All the Lights On",
+            "artist": "T-Pain",
+            "id": 21792987
+        },
+        {
+            "name": "Trampoline",
+            "artist": "Shaed",
+            "id": 563733742
+        },
+        {
+            "name": "Wolves",
+            "artist": "Selena Gomez",
+            "id": 515269424
+        },
+        {
+            "name": "Solo",
+            "artist": "Clean Bandit",
+            "id": 557704117
+        },
+        {
+            "name": "Walk Thru Fire",
+            "artist": "Vicetone",
+            "id": 1297498908
+        },
+        {
+            "name": "End Of The Night",
+            "artist": "Danny Avila",
+            "id": 1324159296
+        },
+        {
+            "name": "Love Yourself",
+            "artist": "Justin Bieber",
+            "id": 36496695
+        },
+        {
+            "name": "Summer Vibe",
+            "artist": "Walk off the Earth",
+            "id": 4433364
+        },
+        {
+            "name": "This Is the Life",
+            "artist": "Angie Miller",
+            "id": 29732659
+        },
+        {
+            "name": "Bad Romance (Radio Edit)",
+            "artist": "Lady Gaga",
+            "id": 21038694
+        },
+        {
+            "name": "Uptown Funk",
+            "artist": "Mark Ronson",
+            "id": 29722263
+        },
+        {
+            "name": "A Place Called You",
+            "artist": "Emma Stevens",
+            "id": 27871272
+        },
+        {
+            "name": "for him.",
+            "artist": "Troye Sivan",
+            "id": 37955044
+        },
+        {
+            "name": "Be What You Wanna Be",
+            "artist": "Darin",
+            "id": 1217823
+        },
+        {
+            "name": "The Show",
+            "artist": "Lenka",
+            "id": 16607998
+        },
+        {
+            "name": "Bang Bang",
+            "artist": "Jessie J",
+            "id": 28850212
+        },
+        {
+            "name": "Good Time",
+            "artist": "Owl City",
+            "id": 17706562
+        },
+        {
+            "name": "Price Tag",
+            "artist": "Jessie J",
+            "id": 18794244
+        },
+        {
+            "name": "We Are Never Ever Getting Back Together",
+            "artist": "Taylor Swift",
+            "id": 1343458283
+        },
+        {
+            "name": "Here's To Never Growing Up",
+            "artist": "Avril Lavigne",
+            "id": 26145391
+        },
+        {
+            "name": "Toxic",
+            "artist": "Britney Spears",
+            "id": 20515939
+        },
+        {
+            "name": "Just The Same",
+            "artist": "Charlotte Lawrence",
+            "id": 533455199
+        },
+        {
+            "name": "Shivers",
+            "artist": "Rachel Platten",
+            "id": 515601126
+        },
+        {
+            "name": "No Roots",
+            "artist": "Alice Merton",
+            "id": 444324644
+        },
+        {
+            "name": "I Really Like You",
+            "artist": "Carly Rae Jepsen",
+            "id": 30841076
+        },
+        {
+            "name": "Poker Face",
+            "artist": "Lady Gaga",
+            "id": 21038748
+        },
+        {
+            "name": "Time Machine",
+            "artist": "Ingrid Michaelson",
+            "id": 28402345
+        },
+        {
+            "name": "Everybody",
+            "artist": "Ingrid Michaelson",
+            "id": 18374823
+        },
+        {
+            "name": "In My Blood",
+            "artist": "The Veronicas",
+            "id": 416531514
+        },
+        {
+            "name": "Reminding Me",
+            "artist": "Shawn Hook",
+            "id": 472219602
+        },
+        {
+            "name": "Sooner Or Later",
+            "artist": "Aaron Carter",
+            "id": 454730079
+        },
+        {
+            "name": "Worth It",
+            "artist": "Fifth Harmony",
+            "id": 30212890
+        },
+        {
+            "name": "Lullaby",
+            "artist": "R3HAB",
+            "id": 529557738
+        },
+        {
+            "name": "Free Loop",
+            "artist": "Daniel Powter",
+            "id": 5253801
+        },
+        {
+            "name": "Revolution",
+            "artist": "The Score",
+            "id": 471411255
+        },
+        {
+            "name": "Best of 2012: Payphone/Call Me Maybe/Wide Awake/Starship/We Are Young",
+            "artist": "Anthem Lights",
+            "id": 33418570
+        },
+        {
+            "name": "Run Free",
+            "artist": "Deep Chills",
+            "id": 500410102
+        },
+        {
+            "name": "Wrap Me In Plastic",
+            "artist": "CHROMANCE",
+            "id": 1383205688
+        },
+        {
+            "name": "Rumors",
+            "artist": "Jake Miller",
+            "id": 33071205
+        },
+        {
+            "name": "Forgettable",
+            "artist": "Project 46",
+            "id": 33035577
+        },
+        {
+            "name": "Lock Me Up",
+            "artist": "The Cab",
+            "id": 28464997
+        },
+        {
+            "name": "Maps",
+            "artist": "MADILYN",
+            "id": 29482234
+        },
+        {
+            "name": "Try",
+            "artist": "P!nk",
+            "id": 27515086
+        },
+        {
+            "name": "Roar",
+            "artist": "Katy Perry",
+            "id": 27566922
+        },
+        {
+            "name": "Six Feet Under",
+            "artist": "Billie Eilish",
+            "id": 418603177
+        },
+        {
+            "name": "Solo Dance",
+            "artist": "Martin Jensen",
+            "id": 439076364
+        },
+        {
+            "name": "In the Name of Love",
+            "artist": "Martin Garrix",
+            "id": 423227295
+        },
+        {
+            "name": "Stay",
+            "artist": "Zedd",
+            "id": 461518855
+        },
+        {
+            "name": "Boys",
+            "artist": "Charli XCX",
+            "id": 493275043
+        },
+        {
+            "name": "Legend",
+            "artist": "The Score",
+            "id": 471411253
+        },
+        {
+            "name": "Havana",
+            "artist": "Camila Cabello",
+            "id": 494865824
+        },
+        {
+            "name": "Superstar",
+            "artist": "Beatrich",
+            "id": 492145159
+        },
+        {
+            "name": "Cheap Thrills",
+            "artist": "Sia",
+            "id": 39224884
+        },
+        {
+            "name": "Insomnia",
+            "artist": "Craig David",
+            "id": 16959121
+        },
+        {
+            "name": "Aloha Heja He",
+            "artist": "Achim Reichel",
+            "id": 32337953
+        },
+        {
+            "name": "Мимими",
+            "artist": "Dramma",
+            "id": 464373438
+        },
+        {
+            "name": "Hello",
+            "artist": "Adele",
+            "id": 35847388
+        },
+        {
+            "name": "Monsters",
+            "artist": "Katie Sky",
+            "id": 28481189
+        },
+        {
+            "name": "Home (Blaze U Remix)",
+            "artist": "ThimLife",
+            "id": 448317566
+        },
+        {
+            "name": "Wonderful U (Demo Version)",
+            "artist": "AGA",
+            "id": 406475394
+        },
+        {
+            "name": "Bye Bye Bye",
+            "artist": "Lovestoned",
+            "id": 4164331
+        },
+        {
+            "name": "Walk Away (feat. Kaptan)",
+            "artist": "Lvndscape",
+            "id": 469243036
+        },
+        {
+            "name": "Stuttering",
+            "artist": "Fefe Dobson",
+            "id": 17783969
+        },
+        {
+            "name": "Summertime Sadness (Basic Tape Remix)",
+            "artist": "Basic Tape",
+            "id": 31830698
+        },
+        {
+            "name": "All Time Low",
+            "artist": "Kurt Hugo Schneider",
+            "id": 461544312
+        },
+        {
+            "name": "Hymn for the Weekend (SeeB Remix)",
+            "artist": "Coldplay",
+            "id": 412951708
+        },
+        {
+            "name": "River",
+            "artist": "Bishop Briggs",
+            "id": 402070513
+        },
+        {
+            "name": "Lone Ranger",
+            "artist": "Rachel Platten",
+            "id": 29803676
+        },
+        {
+            "name": "Galway Girl",
+            "artist": "Ed Sheeran",
+            "id": 460043704
+        },
+        {
+            "name": "Believer (Kaskade Remix)",
+            "artist": "Imagine Dragons",
+            "id": 483156032
+        },
+        {
+            "name": "Wannabe",
+            "artist": "Why Mona",
+            "id": 501220770
+        },
+        {
+            "name": "Something Just Like This (feat. Romy Wave)",
+            "artist": "Anthony Keyrouz",
+            "id": 466794339
+        },
+        {
+            "name": "Me and My Broken Heart",
+            "artist": "Push Baby",
+            "id": 28308080
+        },
+        {
+            "name": "Head Above Water",
+            "artist": "Avril Lavigne",
+            "id": 1310906383
+        },
+        {
+            "name": "Counting Stars",
+            "artist": "OneRepublic",
+            "id": 26060065
+        },
+        {
+            "name": "Take Me To Your Heart",
+            "artist": "Michael Learns To Rock",
+            "id": 4173190
+        },
+        {
+            "name": "Moshi Moshi",
+            "artist": "Poppy",
+            "id": 509728841
+        },
+        {
+            "name": "The Ocean (Radio Edit)",
+            "artist": "Mike Perry",
+            "id": 409916250
+        },
+        {
+            "name": "Counting Sheep",
+            "artist": "SAFIA",
+            "id": 31081299
+        },
+        {
+            "name": "What Are Words",
+            "artist": "Chris Medina",
+            "id": 1210496
+        },
+        {
+            "name": "Demons",
+            "artist": "Imagine Dragons",
+            "id": 19945735
+        },
+        {
+            "name": "Soldier",
+            "artist": "Samantha Jade",
+            "id": 27969800
+        },
+        {
+            "name": "Devil's Tears",
+            "artist": "Vicion",
+            "id": 33544176
+        },
+        {
+            "name": "I Want You to Know",
+            "artist": "Zedd",
+            "id": 30706066
+        },
+        {
+            "name": "Psycho, Pt. 2",
+            "artist": "Russ",
+            "id": 440208643
+        },
+        {
+            "name": "Hangover",
+            "artist": "Taio Cruz",
+            "id": 3570196
+        },
+        {
+            "name": "Hall of Fame",
+            "artist": "The Script",
+            "id": 19542337
+        },
+        {
+            "name": "Love The Way You Lie",
+            "artist": "Eminem",
+            "id": 1297841
+        },
+        {
+            "name": "Skin",
+            "artist": "Rag'N'Bone Man",
+            "id": 455653437
+        },
+        {
+            "name": "The Phoenix",
+            "artist": "Fall Out Boy",
+            "id": 26199445
+        },
+        {
+            "name": "Centuries",
+            "artist": "Fall Out Boy",
+            "id": 29307038
+        },
+        {
+            "name": "Summertrain",
+            "artist": "Greyson Chance",
+            "id": 17996972
+        },
+        {
+            "name": "Whistle",
+            "artist": "Flo Rida",
+            "id": 17793698
+        },
+        {
+            "name": "Here With You",
+            "artist": "Asher Monroe",
+            "id": 27583305
+        },
+        {
+            "name": "East of Eden",
+            "artist": "Zella Day",
+            "id": 29009655
+        },
+        {
+            "name": "All We Know",
+            "artist": "The Chainsmokers",
+            "id": 432698441
+        },
+        {
+            "name": "Shelter",
+            "artist": "Porter Robinson",
+            "id": 425280053
+        },
+        {
+            "name": "On My Own",
+            "artist": "Ashes Remain",
+            "id": 16483438
+        },
+        {
+            "name": "Take My Hand",
+            "artist": "Simple Plan",
+            "id": 21609195
+        },
+        {
+            "name": "Look At Me Now",
+            "artist": "Charlie Puth",
+            "id": 28188171
+        },
+        {
+            "name": "Where The Love Goes",
+            "artist": "Anjulie",
+            "id": 475264163
+        },
+        {
+            "name": "Wicked Wonderland (Radio Edit)",
+            "artist": "Tungevaag",
+            "id": 28694864
+        },
+        {
+            "name": "I Just Wanna Run",
+            "artist": "The Downtown Fiction",
+            "id": 4386589
+        },
+        {
+            "name": "Es rappelt im Karton",
+            "artist": "Pixie Paris",
+            "id": 29750825
+        },
+        {
+            "name": "Vagrant",
+            "artist": "Feint",
+            "id": 34613621
+        },
+        {
+            "name": "Mine (Illenium Remix)",
+            "artist": "ILLENIUM",
+            "id": 30780496
+        },
+        {
+            "name": "Something Just Like This",
+            "artist": "The Chainsmokers",
+            "id": 461347998
+        },
+        {
+            "name": "Despacito (Remix)",
+            "artist": "Luis Fonsi",
+            "id": 472361096
+        },
+        {
+            "name": "Please Don't Go",
+            "artist": "Joel Adams",
+            "id": 37653063
+        },
+        {
+            "name": "Nevada",
+            "artist": "Vicetone",
+            "id": 418602088
+        },
+        {
+            "name": "The Cure",
+            "artist": "Lady Gaga",
+            "id": 472045959
+        },
+        {
+            "name": "Shape of You",
+            "artist": "Ed Sheeran",
+            "id": 451703096
+        },
+        {
+            "name": "Legends Never Die",
+            "artist": "Against the Current",
+            "id": 506196018
+        },
+        {
+            "name": "Panama",
+            "artist": "Matteo",
+            "id": 34229976
+        },
+        {
+            "name": "There For You",
+            "artist": "Martin Garrix",
+            "id": 480426313
+        },
+        {
+            "name": "We Don't Talk Anymore",
+            "artist": "Charlie Puth",
+            "id": 401249910
+        },
+        {
+            "name": "Dream It Possible",
+            "artist": "Delacey",
+            "id": 38592976
+        },
+        {
+            "name": "I Am You",
+            "artist": "Kim Taylor",
+            "id": 2919622
+        },
+        {
+            "name": "Faded",
+            "artist": "Alan Walker",
+            "id": 466817849
+        },
+        {
+            "name": "Waiting For Love",
+            "artist": "Avicii",
+            "id": 31356499
+        },
+        {
+            "name": "Numb",
+            "artist": "Linkin Park",
+            "id": 4153366
+        },
+        {
+            "name": "Fly Away",
+            "artist": "Anjulie",
+            "id": 480648424
+        },
+        {
+            "name": "All Falls Down",
+            "artist": "Alan Walker",
+            "id": 515453363
+        }
+    ]
+}

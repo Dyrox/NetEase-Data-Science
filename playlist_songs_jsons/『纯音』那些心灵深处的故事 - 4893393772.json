@@ -1,0 +1,707 @@
+{
+    "playlist_info": {
+        "name": "『纯音』那些心灵深处的故事",
+        "trackcount": 139,
+        "playcount": 250507,
+        "creator": "Partirdezero",
+        "createDate": "2020-03-02",
+        "heat": 206.0
+    },
+    "songs": [
+        {
+            "name": "清明",
+            "artist": "詹昊晁 Zhan.H.C",
+            "id": 469545781
+        },
+        {
+            "name": "γ",
+            "artist": "α·Pav",
+            "id": 29137875
+        },
+        {
+            "name": "ξ",
+            "artist": "α·Pav",
+            "id": 139235
+        },
+        {
+            "name": "¿",
+            "artist": "Funton",
+            "id": 1320860898
+        },
+        {
+            "name": "///",
+            "artist": "Funton",
+            "id": 1407039907
+        },
+        {
+            "name": "忆",
+            "artist": "吴宇深",
+            "id": 1295750639
+        },
+        {
+            "name": "寻",
+            "artist": "三亩地",
+            "id": 31445474
+        },
+        {
+            "name": "雫",
+            "artist": "Funton",
+            "id": 533343413
+        },
+        {
+            "name": "凉",
+            "artist": "仁辰",
+            "id": 520126220
+        },
+        {
+            "name": "eau",
+            "artist": "yutaka hirasaka",
+            "id": 29535887
+        },
+        {
+            "name": "City",
+            "artist": "羽肿",
+            "id": 451319227
+        },
+        {
+            "name": "最初",
+            "artist": "逆时针向",
+            "id": 477417503
+        },
+        {
+            "name": "转瞬",
+            "artist": "K kure",
+            "id": 571585964
+        },
+        {
+            "name": "半夏",
+            "artist": "十指流玉",
+            "id": 475584898
+        },
+        {
+            "name": "孤寂",
+            "artist": "Hea2t",
+            "id": 862732021
+        },
+        {
+            "name": "无猜",
+            "artist": "十指流玉",
+            "id": 418326230
+        },
+        {
+            "name": "焚梦",
+            "artist": "十指流玉",
+            "id": 416388365
+        },
+        {
+            "name": "枯叶",
+            "artist": "夏小舟",
+            "id": 490989478
+        },
+        {
+            "name": "暗夜",
+            "artist": "夏小舟",
+            "id": 41660056
+        },
+        {
+            "name": "星尘",
+            "artist": "温野",
+            "id": 1345821920
+        },
+        {
+            "name": "星河",
+            "artist": "温野",
+            "id": 529908929
+        },
+        {
+            "name": "逆流",
+            "artist": "逆时针向",
+            "id": 1297940270
+        },
+        {
+            "name": "鱼遇",
+            "artist": "依旧在雨中等你",
+            "id": 1440541421
+        },
+        {
+            "name": "旧还",
+            "artist": "鹤见江野",
+            "id": 1457138365
+        },
+        {
+            "name": "镜花",
+            "artist": "柳不贰",
+            "id": 1449117950
+        },
+        {
+            "name": "朱颜",
+            "artist": "柳不贰",
+            "id": 1449116812
+        },
+        {
+            "name": "将雪",
+            "artist": "国风音乐联盟",
+            "id": 1498623137
+        },
+        {
+            "name": "鸿影",
+            "artist": "变奏的梦想",
+            "id": 562699217
+        },
+        {
+            "name": "为霜",
+            "artist": "羽肿",
+            "id": 535517304
+        },
+        {
+            "name": "晚星",
+            "artist": "逆时针向",
+            "id": 1319520140
+        },
+        {
+            "name": "幽梦",
+            "artist": "阿铭",
+            "id": 437752427
+        },
+        {
+            "name": "白露",
+            "artist": "羽肿",
+            "id": 475311996
+        },
+        {
+            "name": "栀月",
+            "artist": "Mr Chip",
+            "id": 1463138364
+        },
+        {
+            "name": "寂川",
+            "artist": "忘乡",
+            "id": 487864613
+        },
+        {
+            "name": "小樱",
+            "artist": "饭碗的彼岸",
+            "id": 406070435
+        },
+        {
+            "name": "离雨",
+            "artist": "逆时针向",
+            "id": 1371780128
+        },
+        {
+            "name": "落微",
+            "artist": "F.Be.I",
+            "id": 31477885
+        },
+        {
+            "name": "秋霁",
+            "artist": "鹤见江野",
+            "id": 1431636672
+        },
+        {
+            "name": "别念",
+            "artist": "Funton",
+            "id": 552560922
+        },
+        {
+            "name": "Letter",
+            "artist": "iris",
+            "id": 26620638
+        },
+        {
+            "name": "雲流れ",
+            "artist": "みかん箱",
+            "id": 785902
+        },
+        {
+            "name": "日暮里",
+            "artist": "JINBAO",
+            "id": 1351183637
+        },
+        {
+            "name": "上弦月",
+            "artist": "Stefano",
+            "id": 420400178
+        },
+        {
+            "name": "梦江南",
+            "artist": "音乐人小笨喵",
+            "id": 500394467
+        },
+        {
+            "name": "水星湖",
+            "artist": "羽肿",
+            "id": 1472026274
+        },
+        {
+            "name": "花间游",
+            "artist": "逆时针向",
+            "id": 1335796886
+        },
+        {
+            "name": "Refrain",
+            "artist": "阿南亮子",
+            "id": 22712173
+        },
+        {
+            "name": "Gemini",
+            "artist": "MiyakTik",
+            "id": 545907304
+        },
+        {
+            "name": "cocoon",
+            "artist": "林ゆうき",
+            "id": 499818
+        },
+        {
+            "name": "Journey",
+            "artist": "Capo Productions",
+            "id": 16846088
+        },
+        {
+            "name": "My Soul",
+            "artist": "July",
+            "id": 5308028
+        },
+        {
+            "name": "Farewell",
+            "artist": "十指流玉",
+            "id": 491363930
+        },
+        {
+            "name": "Farewell（Piano Solo）",
+            "artist": "十指流玉",
+            "id": 491365293
+        },
+        {
+            "name": "暮·簌雪",
+            "artist": "月下散落出世",
+            "id": 1346671434
+        },
+        {
+            "name": "8月23日",
+            "artist": "吴宇深",
+            "id": 1304719349
+        },
+        {
+            "name": "8月31日",
+            "artist": "吴宇深",
+            "id": 1306448973
+        },
+        {
+            "name": "忆夏思乡",
+            "artist": "MoreanP",
+            "id": 506650377
+        },
+        {
+            "name": "光风霁月",
+            "artist": "Funton",
+            "id": 1314927168
+        },
+        {
+            "name": "落雨残叶",
+            "artist": "清风至",
+            "id": 541917180
+        },
+        {
+            "name": "莲有秀兮",
+            "artist": "饭碗的彼岸",
+            "id": 866032176
+        },
+        {
+            "name": "我的神明",
+            "artist": "温野",
+            "id": 1404110640
+        },
+        {
+            "name": "暮野之诗",
+            "artist": "鹤见江野",
+            "id": 1821252112
+        },
+        {
+            "name": "荒川之月",
+            "artist": "忘乡",
+            "id": 1860122134
+        },
+        {
+            "name": "回忆之末",
+            "artist": "忘乡",
+            "id": 542818195
+        },
+        {
+            "name": "Cold Rain",
+            "artist": "AniFace",
+            "id": 458696351
+        },
+        {
+            "name": "Fell for U",
+            "artist": "Noicybino",
+            "id": 39635710
+        },
+        {
+            "name": "Windy Hill",
+            "artist": "羽肿",
+            "id": 427606780
+        },
+        {
+            "name": "Komorebi",
+            "artist": "m-taku",
+            "id": 29803287
+        },
+        {
+            "name": "繁华的寂静",
+            "artist": "文武贝",
+            "id": 40257852
+        },
+        {
+            "name": "江上清风游",
+            "artist": "变奏的梦想",
+            "id": 32743519
+        },
+        {
+            "name": "待星河长明",
+            "artist": "Otanmine",
+            "id": 1820130405
+        },
+        {
+            "name": "云村的告别",
+            "artist": "邱有句",
+            "id": 523863496
+        },
+        {
+            "name": "云村的烟花",
+            "artist": "邱有句",
+            "id": 555110156
+        },
+        {
+            "name": "Old Money",
+            "artist": "Piano Tribute Players",
+            "id": 29537051
+        },
+        {
+            "name": "Love home",
+            "artist": "夏小舟",
+            "id": 404459321
+        },
+        {
+            "name": "帕萨卡利亚",
+            "artist": "薛弘宇",
+            "id": 1466963184
+        },
+        {
+            "name": "风月明日来",
+            "artist": "鹤见江野",
+            "id": 1808354049
+        },
+        {
+            "name": "灯火不完美",
+            "artist": "smile丶轩",
+            "id": 1313474211
+        },
+        {
+            "name": "所爱隔山海",
+            "artist": "CMJ",
+            "id": 1348896822
+        },
+        {
+            "name": "山海不可平",
+            "artist": "CMJ",
+            "id": 1352045760
+        },
+        {
+            "name": "所念皆星河",
+            "artist": "CMJ",
+            "id": 1384026889
+        },
+        {
+            "name": "星河不可及",
+            "artist": "CMJ",
+            "id": 1409136605
+        },
+        {
+            "name": "山海皆可平",
+            "artist": "CMJ",
+            "id": 1377053293
+        },
+        {
+            "name": "城南花已开",
+            "artist": "三亩地",
+            "id": 468176711
+        },
+        {
+            "name": "かたわれ時",
+            "artist": "RADWIMPS",
+            "id": 426881502
+        },
+        {
+            "name": "尘埃与流萤",
+            "artist": "依旧在雨中等你",
+            "id": 1426611455
+        },
+        {
+            "name": "Haruyo, Koi",
+            "artist": "清塚信也",
+            "id": 1329346713
+        },
+        {
+            "name": "Somewhere",
+            "artist": "July",
+            "id": 5307932
+        },
+        {
+            "name": "Echo of Rain",
+            "artist": "清风至",
+            "id": 1307063992
+        },
+        {
+            "name": "やわらかな光",
+            "artist": "やまだ豊",
+            "id": 28287132
+        },
+        {
+            "name": "Flower Dance",
+            "artist": "DJ Okawari",
+            "id": 406238
+        },
+        {
+            "name": "夏に花が散る",
+            "artist": "羽肿",
+            "id": 490687121
+        },
+        {
+            "name": "Where are you",
+            "artist": "AniFace",
+            "id": 453843751
+        },
+        {
+            "name": "back iN the day",
+            "artist": "横山克",
+            "id": 29786290
+        },
+        {
+            "name": "Cornfield Chase",
+            "artist": "Michael Forster",
+            "id": 496543520
+        },
+        {
+            "name": "隔窗·雾雨人间",
+            "artist": "月下散落出世",
+            "id": 1386523829
+        },
+        {
+            "name": "Asphyxia",
+            "artist": "逆时针向",
+            "id": 454035505
+        },
+        {
+            "name": "一轩明月上帘栊",
+            "artist": "MT1990",
+            "id": 1817913949
+        },
+        {
+            "name": "愿我如星君如月",
+            "artist": "七结音",
+            "id": 1438607152
+        },
+        {
+            "name": "似此星辰非昨夜",
+            "artist": "七结音",
+            "id": 1449553970
+        },
+        {
+            "name": "恍惚交错的记忆",
+            "artist": "余日秋山",
+            "id": 456310390
+        },
+        {
+            "name": "花火が瞬く夜に",
+            "artist": "羽肿",
+            "id": 434902428
+        },
+        {
+            "name": "夜、萤火虫和你",
+            "artist": "AniFace",
+            "id": 509720124
+        },
+        {
+            "name": "Feeling The Rain",
+            "artist": "MoreanP",
+            "id": 496774187
+        },
+        {
+            "name": "城南花开-吉他版",
+            "artist": "三亩地",
+            "id": 516137362
+        },
+        {
+            "name": "未闻花名 (口琴版)",
+            "artist": "V.A.",
+            "id": 31209775
+        },
+        {
+            "name": "一切都会好起来的",
+            "artist": "JINBAO",
+            "id": 1422235141
+        },
+        {
+            "name": "致橡树(Piano ver.)",
+            "artist": "程天意",
+            "id": 1431092646
+        },
+        {
+            "name": "清煜（instrument）",
+            "artist": "smile丶轩",
+            "id": 554822169
+        },
+        {
+            "name": "浮光 (The History)",
+            "artist": "Jannik",
+            "id": 1394601255
+        },
+        {
+            "name": "浮生皆纵 恍如一梦",
+            "artist": "白鸿",
+            "id": 1417465877
+        },
+        {
+            "name": "Rain after Summer",
+            "artist": "羽肿",
+            "id": 430685732
+        },
+        {
+            "name": "Fragmented World",
+            "artist": "Funton",
+            "id": 1295981667
+        },
+        {
+            "name": "Touch the starlight",
+            "artist": "Funton",
+            "id": 1337350239
+        },
+        {
+            "name": "Through the Arbor",
+            "artist": "Kevin Kern",
+            "id": 1614370
+        },
+        {
+            "name": "Illusionary Daytime",
+            "artist": "Shirfine",
+            "id": 28907016
+        },
+        {
+            "name": "時代を超える想い2",
+            "artist": "和田薫",
+            "id": 541131
+        },
+        {
+            "name": "風の住む街",
+            "artist": "磯村由紀子",
+            "id": 586299
+        },
+        {
+            "name": "风居住的街道（钢琴）",
+            "artist": "李勤舍",
+            "id": 567563817
+        },
+        {
+            "name": "Rainy Blue (蓝色阴雨)",
+            "artist": "饭碗的彼岸",
+            "id": 1341912654
+        },
+        {
+            "name": "飞雪玉花-净友钢琴版",
+            "artist": "净友",
+            "id": 422429165
+        },
+        {
+            "name": "你不是他星球上的玫瑰",
+            "artist": "温野",
+            "id": 1353839754
+        },
+        {
+            "name": "愿人心温暖，万物复苏",
+            "artist": "温野",
+            "id": 1304717622
+        },
+        {
+            "name": "Mystery of Love(钢琴版)",
+            "artist": "烂柯",
+            "id": 1318713220
+        },
+        {
+            "name": "The truth that you leave",
+            "artist": "Pianoboy高至豪",
+            "id": 139774
+        },
+        {
+            "name": "满载樱花的列车开往春天",
+            "artist": "温野",
+            "id": 1435225104
+        },
+        {
+            "name": "心绪 Continuous Thought",
+            "artist": "Mr Chip",
+            "id": 1304960504
+        },
+        {
+            "name": "思絮（Thought flocculation）",
+            "artist": "Mr Chip",
+            "id": 1306093088
+        },
+        {
+            "name": "从未记住的名字永远不会被遗忘",
+            "artist": "雪葉",
+            "id": 1422399476
+        },
+        {
+            "name": "似水年华（with依旧在雨中等你）",
+            "artist": "小楠•黄",
+            "id": 1485503179
+        },
+        {
+            "name": "月色与雪色之间，你是第三种绝色。",
+            "artist": "十指流玉",
+            "id": 535612106
+        },
+        {
+            "name": "日月星辉之中，你是第四种难得",
+            "artist": "沈奕秋",
+            "id": 1361694864
+        },
+        {
+            "name": "风花与雪月之外，你是第五种不舍",
+            "artist": "今人落淚",
+            "id": 1818370260
+        },
+        {
+            "name": "夏日限定（insrtrumental version）",
+            "artist": "温野",
+            "id": 1300151290
+        },
+        {
+            "name": "Wildfire  (Piano and Violin Version)",
+            "artist": "SYML",
+            "id": 533368974
+        },
+        {
+            "name": "Having Lived (Finding Paradise Vers.)",
+            "artist": "Kan R. Gao",
+            "id": 529668902
+        },
+        {
+            "name": "云村的重逢/致爱梵高，自由旋转的向日葵",
+            "artist": "邱有句",
+            "id": 541432715
+        },
+        {
+            "name": "夜の光 (「ツキウタ。」夜の光 -Piano arrange Ver.-)",
+            "artist": "じょん",
+            "id": 34204199
+        },
+        {
+            "name": "任世界磨平了我们的棱角，也不曾放弃",
+            "artist": "BobbyER",
+            "id": 1348456770
+        }
+    ]
+}

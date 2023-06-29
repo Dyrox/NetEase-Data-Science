@@ -1,0 +1,507 @@
+{
+    "playlist_info": {
+        "name": "日系°清冽女嗓丨元气少女速成手册",
+        "trackcount": 99,
+        "playcount": 220234,
+        "creator": "瀰生",
+        "createDate": "2020-06-06",
+        "heat": 197.0
+    },
+    "songs": [
+        {
+            "name": "ほろよい",
+            "artist": "さんひ",
+            "id": 1978611826
+        },
+        {
+            "name": "S.S.S.",
+            "artist": "佐藤千亜妃",
+            "id": 1971438498
+        },
+        {
+            "name": "もう少しだけ",
+            "artist": "YOASOBI",
+            "id": 1893590232
+        },
+        {
+            "name": "summertime - maeshima soshi Remix",
+            "artist": "cinnamons",
+            "id": 1855308389
+        },
+        {
+            "name": "若者のすべて",
+            "artist": "Lefty Hand Cream",
+            "id": 1823210550
+        },
+        {
+            "name": "好きだ",
+            "artist": "YOASOBI",
+            "id": 1949547498
+        },
+        {
+            "name": "勘ぐれい",
+            "artist": "ずっと真夜中でいいのに。",
+            "id": 1873232867
+        },
+        {
+            "name": "Into The Night",
+            "artist": "YOASOBI",
+            "id": 1851982133
+        },
+        {
+            "name": "Blue",
+            "artist": "YOASOBI",
+            "id": 1888575509
+        },
+        {
+            "name": "Beautiful Days",
+            "artist": "LOVE PSYCHEDELICO",
+            "id": 22652434
+        },
+        {
+            "name": "Your Song",
+            "artist": "LOVE PSYCHEDELICO",
+            "id": 769652
+        },
+        {
+            "name": "シュガーソングとビターステップ",
+            "artist": "Lefty Hand Cream",
+            "id": 534066460
+        },
+        {
+            "name": "少女たちの終わらない夜",
+            "artist": "ORESAMA",
+            "id": 449578849
+        },
+        {
+            "name": "OCEANSIDE LINER",
+            "artist": "paris match",
+            "id": 22753233
+        },
+        {
+            "name": "good morning",
+            "artist": "藤原さくら",
+            "id": 41666748
+        },
+        {
+            "name": "ビートラム",
+            "artist": "南壽あさ子",
+            "id": 496640186
+        },
+        {
+            "name": "Lie Lie Lie",
+            "artist": "BONNIE PINK",
+            "id": 561877
+        },
+        {
+            "name": "Carnation",
+            "artist": "LOVE PSYCHEDELICO",
+            "id": 5039523
+        },
+        {
+            "name": "女の友情",
+            "artist": "NakamuraEmi",
+            "id": 1356248380
+        },
+        {
+            "name": "Contact",
+            "artist": "鈴木真海子",
+            "id": 498880672
+        },
+        {
+            "name": "MYC",
+            "artist": "仮谷せいら",
+            "id": 34367815
+        },
+        {
+            "name": "ﾗﾝﾅｰ",
+            "artist": "松倉サオリ",
+            "id": 619872
+        },
+        {
+            "name": "ELEKASHI",
+            "artist": "ポップしなないで",
+            "id": 449578417
+        },
+        {
+            "name": "フロアの隅で",
+            "artist": "仮谷せいら",
+            "id": 34367817
+        },
+        {
+            "name": "神様のダンス",
+            "artist": "ヨルシカ",
+            "id": 1387098935
+        },
+        {
+            "name": "Love Is All Around",
+            "artist": "LOVE PSYCHEDELICO",
+            "id": 34723328
+        },
+        {
+            "name": "わかった",
+            "artist": "綿めぐみ",
+            "id": 41654206
+        },
+        {
+            "name": "Sun is coming up",
+            "artist": "Shiggy Jr.",
+            "id": 571073131
+        },
+        {
+            "name": "思い出は奇麗で",
+            "artist": "Aimer",
+            "id": 1297747304
+        },
+        {
+            "name": "カタオモイ",
+            "artist": "Aimer",
+            "id": 431259256
+        },
+        {
+            "name": "1995",
+            "artist": "藤原さくら",
+            "id": 41666746
+        },
+        {
+            "name": "Hz(ヘルツ)",
+            "artist": "Aimer",
+            "id": 431259257
+        },
+        {
+            "name": "夜行",
+            "artist": "ヨルシカ",
+            "id": 1428153831
+        },
+        {
+            "name": "♂♀",
+            "artist": "杉恵ゆりか",
+            "id": 461592172
+        },
+        {
+            "name": "Baby",
+            "artist": "Softly",
+            "id": 34532508
+        },
+        {
+            "name": "RPG",
+            "artist": "Lefty Hand Cream",
+            "id": 1327341487
+        },
+        {
+            "name": "ﾓｰﾙｽ",
+            "artist": "松倉サオリ",
+            "id": 619839
+        },
+        {
+            "name": "Ellie",
+            "artist": "藤原さくら",
+            "id": 29718601
+        },
+        {
+            "name": "StaRt",
+            "artist": "Lefty Hand Cream",
+            "id": 534067472
+        },
+        {
+            "name": "STAR",
+            "artist": "佐藤千亜妃",
+            "id": 1399985356
+        },
+        {
+            "name": "Don't",
+            "artist": "NakamuraEmi",
+            "id": 480769640
+        },
+        {
+            "name": "藍二乗",
+            "artist": "ヨルシカ",
+            "id": 1336075843
+        },
+        {
+            "name": "逃避行",
+            "artist": "関取花",
+            "id": 1425002099
+        },
+        {
+            "name": "RADIO",
+            "artist": "FreeTEMPO",
+            "id": 4898229
+        },
+        {
+            "name": "大停電",
+            "artist": "日食なつこ",
+            "id": 501467335
+        },
+        {
+            "name": "Balloon",
+            "artist": "chelmico",
+            "id": 1378372490
+        },
+        {
+            "name": "ｱﾝﾃｨｰｸ",
+            "artist": "松倉サオリ",
+            "id": 619820
+        },
+        {
+            "name": "Rebirth",
+            "artist": "NakamuraEmi",
+            "id": 464563204
+        },
+        {
+            "name": "ニコイチ",
+            "artist": "仮谷せいら",
+            "id": 571059228
+        },
+        {
+            "name": "ジョキッ",
+            "artist": "杉恵ゆりか",
+            "id": 461592175
+        },
+        {
+            "name": "健全な朝",
+            "artist": "yonige",
+            "id": 1433933699
+        },
+        {
+            "name": "お月さま",
+            "artist": "藤原さくら",
+            "id": 29718605
+        },
+        {
+            "name": "雲と幽霊",
+            "artist": "ヨルシカ",
+            "id": 487527984
+        },
+        {
+            "name": "Highlight",
+            "artist": "chelmico",
+            "id": 499793273
+        },
+        {
+            "name": "闪光少女",
+            "artist": "東京事変",
+            "id": 838313
+        },
+        {
+            "name": "花に亡霊",
+            "artist": "ヨルシカ",
+            "id": 1442466883
+        },
+        {
+            "name": "FANTASY",
+            "artist": "土岐麻子",
+            "id": 569213073
+        },
+        {
+            "name": "雲丹と栗",
+            "artist": "ずっと真夜中でいいのに。",
+            "id": 1325357380
+        },
+        {
+            "name": "Visionary",
+            "artist": "西原健一郎",
+            "id": 26896064
+        },
+        {
+            "name": "After Rain",
+            "artist": "Aimer",
+            "id": 27979413
+        },
+        {
+            "name": "Go home!",
+            "artist": "チーナ",
+            "id": 26483420
+        },
+        {
+            "name": "雨待人模様",
+            "artist": "松崎名央",
+            "id": 22772696
+        },
+        {
+            "name": "YAMABIKO",
+            "artist": "NakamuraEmi",
+            "id": 41636924
+        },
+        {
+            "name": "サンキュー",
+            "artist": "Shiggy Jr.",
+            "id": 29398557
+        },
+        {
+            "name": "カプチーノ",
+            "artist": "椎名林檎",
+            "id": 28593282
+        },
+        {
+            "name": "夜に駆ける",
+            "artist": "YOASOBI",
+            "id": 1409311773
+        },
+        {
+            "name": "Akai Natsu",
+            "artist": "advantage Lucy",
+            "id": 22683598
+        },
+        {
+            "name": "Baby sugar",
+            "artist": "FINLANDS",
+            "id": 573583258
+        },
+        {
+            "name": "青の五線譜",
+            "artist": "関取花",
+            "id": 1428156043
+        },
+        {
+            "name": "街は薄紅色",
+            "artist": "関取花",
+            "id": 1428155750
+        },
+        {
+            "name": "SO WHAT!? (feat. 仮谷せいら)",
+            "artist": "tofubeats",
+            "id": 26389287
+        },
+        {
+            "name": "Hello mate !",
+            "artist": "advantage Lucy",
+            "id": 678203
+        },
+        {
+            "name": "ちょうちょ｡",
+            "artist": "松倉サオリ",
+            "id": 619875
+        },
+        {
+            "name": "Back to girl",
+            "artist": "FINLANDS",
+            "id": 573581218
+        },
+        {
+            "name": "Calendar Girl",
+            "artist": "Aimer",
+            "id": 26128207
+        },
+        {
+            "name": "Love Is Over",
+            "artist": "chelmico",
+            "id": 499793306
+        },
+        {
+            "name": "ハワイと日本",
+            "artist": "NakamuraEmi",
+            "id": 464553280
+        },
+        {
+            "name": "わたしだらけ",
+            "artist": "仮谷せいら",
+            "id": 571059229
+        },
+        {
+            "name": "I wanna go out",
+            "artist": "藤原さくら",
+            "id": 41666743
+        },
+        {
+            "name": "Wonder Flower",
+            "artist": "西原健一郎",
+            "id": 33410322
+        },
+        {
+            "name": "ジャンヌダルク",
+            "artist": "山根万理奈",
+            "id": 676077
+        },
+        {
+            "name": "Southern Waves",
+            "artist": "Miyuu",
+            "id": 449577394
+        },
+        {
+            "name": "彷徨い酔い温度",
+            "artist": "ずっと真夜中でいいのに。",
+            "id": 1371306566
+        },
+        {
+            "name": "あなたが好きで",
+            "artist": "山根万理奈",
+            "id": 676103
+        },
+        {
+            "name": "夜が終わるまで",
+            "artist": "仮谷せいら",
+            "id": 571059231
+        },
+        {
+            "name": "雨とカプチーノ",
+            "artist": "ヨルシカ",
+            "id": 1381706151
+        },
+        {
+            "name": "アイスキャンディ",
+            "artist": "杉恵ゆりか",
+            "id": 29764415
+        },
+        {
+            "name": "光の加減で話した",
+            "artist": "宇宙コンビニ",
+            "id": 28885352
+        },
+        {
+            "name": "キスの前みたいに",
+            "artist": "杉恵ゆりか",
+            "id": 28308492
+        },
+        {
+            "name": "Airy Batida (remix)",
+            "artist": "西原健一郎",
+            "id": 33410326
+        },
+        {
+            "name": "さよならメモリーズ",
+            "artist": "supercell",
+            "id": 22709618
+        },
+        {
+            "name": "丸ノ内サディスティック",
+            "artist": "椎名林檎",
+            "id": 642776
+        },
+        {
+            "name": "Maybe ~どうでもいいの~",
+            "artist": "Softly",
+            "id": 31352581
+        },
+        {
+            "name": "あなたは会えるけど全部ダメ",
+            "artist": "Softly",
+            "id": 484051150
+        },
+        {
+            "name": "最終電車 (FragmentのREMIX)",
+            "artist": "泉まくら",
+            "id": 532940340
+        },
+        {
+            "name": "This Love (original by Maroon5)",
+            "artist": "ミズノマリ",
+            "id": 805937
+        },
+        {
+            "name": "everybody wants to go to Taiwan",
+            "artist": "macaroom",
+            "id": 543988586
+        },
+        {
+            "name": "Sir Duke (original by Stevie Wonder)",
+            "artist": "土岐麻子",
+            "id": 805933
+        },
+        {
+            "name": "A New Field Touch",
+            "artist": "FreeTEMPO",
+            "id": 22740550
+        }
+    ]
+}

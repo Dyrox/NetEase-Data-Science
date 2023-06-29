@@ -1,0 +1,537 @@
+{
+    "playlist_info": {
+        "name": "爱你是我末日夕阳里最壮丽的红",
+        "trackcount": 105,
+        "playcount": 15,
+        "creator": "不必不满",
+        "createDate": "2023-05-28",
+        "heat": 0.0
+    },
+    "songs": [
+        {
+            "name": "Where Damage Isn't Already Done",
+            "artist": "The Radio Dept.",
+            "id": 19288288
+        },
+        {
+            "name": "Welcome Home",
+            "artist": "Radical Face",
+            "id": 34078178
+        },
+        {
+            "name": "Feeling Myself",
+            "artist": "Wolf Alice",
+            "id": 1848253628
+        },
+        {
+            "name": "Light My Fire",
+            "artist": "The Doors",
+            "id": 21978335
+        },
+        {
+            "name": "Rhythm Of The Rain",
+            "artist": "The Cascades",
+            "id": 4370918
+        },
+        {
+            "name": "Mama's Gun",
+            "artist": "Glass Animals",
+            "id": 427416516
+        },
+        {
+            "name": "Luna",
+            "artist": "The Smashing Pumpkins",
+            "id": 4334368
+        },
+        {
+            "name": "Daydream",
+            "artist": "Youth Lagoon",
+            "id": 4440208
+        },
+        {
+            "name": "Hit the Floor",
+            "artist": "Ivan & Alyosha",
+            "id": 1388528478
+        },
+        {
+            "name": "Fire Escape In The Sea",
+            "artist": "Sea Power",
+            "id": 1876755251
+        },
+        {
+            "name": "Strawberry Swing",
+            "artist": "Coldplay",
+            "id": 22589422
+        },
+        {
+            "name": "Plastic Sea",
+            "artist": "Minks",
+            "id": 27569931
+        },
+        {
+            "name": "Lost in TV",
+            "artist": "Suede",
+            "id": 4278856
+        },
+        {
+            "name": "Alcohol",
+            "artist": "The Kinks",
+            "id": 19455185
+        },
+        {
+            "name": "Shalala",
+            "artist": "Moses Gunn Collective",
+            "id": 34200499
+        },
+        {
+            "name": "Heavy Wave",
+            "artist": "Motorama",
+            "id": 30355928
+        },
+        {
+            "name": "The Adults Are Talking",
+            "artist": "The Strokes",
+            "id": 1438724761
+        },
+        {
+            "name": "Feels Good to Laugh",
+            "artist": "Honeywhip",
+            "id": 1460105064
+        },
+        {
+            "name": "Imagine",
+            "artist": "John Lennon",
+            "id": 26961953
+        },
+        {
+            "name": "Chateau",
+            "artist": "Angus & Julia Stone",
+            "id": 506986375
+        },
+        {
+            "name": "Untitled in D",
+            "artist": "Spector",
+            "id": 522320879
+        },
+        {
+            "name": "Life is Beautiful",
+            "artist": "Vega4",
+            "id": 19704125
+        },
+        {
+            "name": "Lake and Ocean",
+            "artist": "The Coral Sea",
+            "id": 26177038
+        },
+        {
+            "name": "Always Getting Over You",
+            "artist": "Angela Ammons",
+            "id": 2118992
+        },
+        {
+            "name": "The Sandman",
+            "artist": "Neo Retros",
+            "id": 21301200
+        },
+        {
+            "name": "Cold November",
+            "artist": "Neo Retros",
+            "id": 21301196
+        },
+        {
+            "name": "Battles and Wastelands",
+            "artist": "Neo Retros",
+            "id": 21301195
+        },
+        {
+            "name": "The Chemical Times",
+            "artist": "Neo Retros",
+            "id": 21301194
+        },
+        {
+            "name": "The High-rise in the Sunshine",
+            "artist": "Neo Retros",
+            "id": 21301190
+        },
+        {
+            "name": "21 Guns",
+            "artist": "Green Day",
+            "id": 18127640
+        },
+        {
+            "name": "Talk",
+            "artist": "Kodaline",
+            "id": 26505369
+        },
+        {
+            "name": "Blinded By The Night",
+            "artist": "Molly Nilsson",
+            "id": 1382720616
+        },
+        {
+            "name": "Midnight Movies",
+            "artist": "Saint Motel",
+            "id": 28946659
+        },
+        {
+            "name": "Wide Open",
+            "artist": "My Sad Captains",
+            "id": 28291059
+        },
+        {
+            "name": "In My Place",
+            "artist": "Coldplay",
+            "id": 17177307
+        },
+        {
+            "name": "No Longer Making Time",
+            "artist": "Slowdive",
+            "id": 468738015
+        },
+        {
+            "name": "Calendar Girl",
+            "artist": "Stars",
+            "id": 19192263
+        },
+        {
+            "name": "Bridges",
+            "artist": "Nine Pound Shadow",
+            "id": 421246695
+        },
+        {
+            "name": "Kids",
+            "artist": "Current Joys",
+            "id": 1442037569
+        },
+        {
+            "name": "I Watched The End With You",
+            "artist": "Sennen",
+            "id": 19068557
+        },
+        {
+            "name": "Primitive Heart",
+            "artist": "Cocteau Twins",
+            "id": 3986105
+        },
+        {
+            "name": "The Present",
+            "artist": "Sailmaker",
+            "id": 1983312
+        },
+        {
+            "name": "The Not Real Lake",
+            "artist": "Loving",
+            "id": 526470165
+        },
+        {
+            "name": "I Can't Handle Change",
+            "artist": "RoaR",
+            "id": 1477386754
+        },
+        {
+            "name": "Fast Furious and Wonderful",
+            "artist": "Summer Salt",
+            "id": 1329719440
+        },
+        {
+            "name": "It Just Comes and Goes",
+            "artist": "Old Man Canyon",
+            "id": 528273378
+        },
+        {
+            "name": "80's Comedown Machine",
+            "artist": "The Strokes",
+            "id": 25986056
+        },
+        {
+            "name": "Easy to Love",
+            "artist": "Ivan & Alyosha",
+            "id": 25779033
+        },
+        {
+            "name": "Goodbye Yellow Brick Road",
+            "artist": "Keane",
+            "id": 5183923
+        },
+        {
+            "name": "Til Death Do Us Part",
+            "artist": "The Kinks",
+            "id": 41554554
+        },
+        {
+            "name": "Somewhere Only We Know",
+            "artist": "Keane",
+            "id": 19047042
+        },
+        {
+            "name": "I Love You So",
+            "artist": "The Walters",
+            "id": 1294899297
+        },
+        {
+            "name": "Creep",
+            "artist": "Radiohead",
+            "id": 22605222
+        },
+        {
+            "name": "Reign",
+            "artist": "Prinzhorn Dance School",
+            "id": 33211435
+        },
+        {
+            "name": "Telescope",
+            "artist": "Cage the Elephant",
+            "id": 27804406
+        },
+        {
+            "name": "Foreign Time",
+            "artist": "Glass Towers",
+            "id": 26607463
+        },
+        {
+            "name": "Is It over",
+            "artist": "Monta",
+            "id": 1700371
+        },
+        {
+            "name": "Closer",
+            "artist": "Travis",
+            "id": 4330176
+        },
+        {
+            "name": "Myth",
+            "artist": "Beach House",
+            "id": 16649839
+        },
+        {
+            "name": "Space Song",
+            "artist": "Beach House",
+            "id": 33075107
+        },
+        {
+            "name": "Way Down We Go",
+            "artist": "KALEO",
+            "id": 34045604
+        },
+        {
+            "name": "California Dreaming",
+            "artist": "The Mamas & the Papas",
+            "id": 4875911
+        },
+        {
+            "name": "Mind Frame",
+            "artist": "Twin Peaks",
+            "id": 28865365
+        },
+        {
+            "name": "Everglow",
+            "artist": "Coldplay",
+            "id": 37240630
+        },
+        {
+            "name": "Sugar for the Pill",
+            "artist": "Slowdive",
+            "id": 468738013
+        },
+        {
+            "name": "Lazy Sunny Days",
+            "artist": "The Parlotones",
+            "id": 27879653
+        },
+        {
+            "name": "Yellow",
+            "artist": "Coldplay",
+            "id": 17177324
+        },
+        {
+            "name": "We Are the Champions",
+            "artist": "Queen",
+            "id": 1868480
+        },
+        {
+            "name": "Dirty Paws",
+            "artist": "Of Monsters And Men",
+            "id": 28143752
+        },
+        {
+            "name": "Supermoon",
+            "artist": "Summer Salt",
+            "id": 2017380670
+        },
+        {
+            "name": "Across the Universe",
+            "artist": "Various Artists",
+            "id": 5097948
+        },
+        {
+            "name": "Lost Star",
+            "artist": "The Jesus and Mary Chain",
+            "id": 4336493
+        },
+        {
+            "name": "To The Sky",
+            "artist": "The Cure",
+            "id": 21969945
+        },
+        {
+            "name": "Leave Out All The Rest",
+            "artist": "Linkin Park",
+            "id": 16686600
+        },
+        {
+            "name": "In The End",
+            "artist": "Linkin Park",
+            "id": 4153632
+        },
+        {
+            "name": "Unintended",
+            "artist": "Muse",
+            "id": 21256075
+        },
+        {
+            "name": "Endlessly",
+            "artist": "Muse",
+            "id": 21255928
+        },
+        {
+            "name": "Devil's Got a Gun",
+            "artist": "Whitehorse",
+            "id": 29544255
+        },
+        {
+            "name": "Den sista sången",
+            "artist": "Kent",
+            "id": 413834574
+        },
+        {
+            "name": "A Different Age",
+            "artist": "Current Joys",
+            "id": 1324068806
+        },
+        {
+            "name": "A Sky Full of Stars",
+            "artist": "Coldplay",
+            "id": 28528999
+        },
+        {
+            "name": "From Comas",
+            "artist": "Ours to Alibi",
+            "id": 1809115
+        },
+        {
+            "name": "All I Want",
+            "artist": "Kodaline",
+            "id": 26505362
+        },
+        {
+            "name": "One Day",
+            "artist": "Kodaline",
+            "id": 26505361
+        },
+        {
+            "name": "Great Expectations",
+            "artist": "Johnny Aries",
+            "id": 29729012
+        },
+        {
+            "name": "Heart of Gold",
+            "artist": "Neil Young",
+            "id": 27317272
+        },
+        {
+            "name": "Oh My Love",
+            "artist": "John Lennon",
+            "id": 1475050
+        },
+        {
+            "name": "Woman",
+            "artist": "John Lennon",
+            "id": 1475818
+        },
+        {
+            "name": "The Scientist",
+            "artist": "Coldplay",
+            "id": 17177367
+        },
+        {
+            "name": "Seasons In The Sun",
+            "artist": "Nirvana",
+            "id": 29775439
+        },
+        {
+            "name": "Shape Of My Heart",
+            "artist": "Sting",
+            "id": 1934649
+        },
+        {
+            "name": "Rain and Tears",
+            "artist": "Aphrodite's Child",
+            "id": 988701
+        },
+        {
+            "name": "Love Me Like There's No Tomorrow",
+            "artist": "Freddie Mercury",
+            "id": 1348599
+        },
+        {
+            "name": "Candy Wrappers",
+            "artist": "Summer Salt",
+            "id": 530801077
+        },
+        {
+            "name": "Fire Flower",
+            "artist": "Summer Salt",
+            "id": 1453011783
+        },
+        {
+            "name": "Life is Golden",
+            "artist": "Suede",
+            "id": 1301970434
+        },
+        {
+            "name": "Lost Myself",
+            "artist": "SYML",
+            "id": 1971033897
+        },
+        {
+            "name": "Broken Flowers",
+            "artist": "Arktika",
+            "id": 3915678
+        },
+        {
+            "name": "Revvin' My Cj7",
+            "artist": "Summer Salt",
+            "id": 530801079
+        },
+        {
+            "name": "Ode To The Mets",
+            "artist": "The Strokes",
+            "id": 1438724765
+        },
+        {
+            "name": "Selfless",
+            "artist": "The Strokes",
+            "id": 1438727132
+        },
+        {
+            "name": "Baila",
+            "artist": "Summer Salt",
+            "id": 1812473324
+        },
+        {
+            "name": "Bad Love",
+            "artist": "Dehd",
+            "id": 1909575750
+        },
+        {
+            "name": "Brain Child",
+            "artist": "The Auteurs",
+            "id": 22510003
+        },
+        {
+            "name": "Miss You in a Heartbeat",
+            "artist": "Def Leppard",
+            "id": 2416769
+        }
+    ]
+}
