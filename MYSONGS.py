@@ -1,7 +1,7 @@
 import os
 import json
 
-folder_path = 'playlist_songs_jsons'
+folder_path = '关于歌单信息/歌单json'
 
 
 MYSONGS = ['Standing Still', 

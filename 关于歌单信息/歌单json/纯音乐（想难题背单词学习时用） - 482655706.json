@@ -1,0 +1,912 @@
+{
+    "playlist_info": {
+        "name": "纯音乐（想难题/背单词/学习时用）",
+        "trackcount": 180,
+        "playcount": 72831056,
+        "creator": "动土的太岁",
+        "createDate": "2016-10-09",
+        "heat": 29640.0
+    },
+    "songs": [
+        {
+            "name": "Variations On The Canon By Pachelbel",
+            "artist": "George Winston",
+            "id": 26908739
+        },
+        {
+            "name": "御琴羽寿沙都 ～小夜曲",
+            "artist": "前馬宏充",
+            "id": 33316491
+        },
+        {
+            "name": "Never Coming Back",
+            "artist": "Evan Call",
+            "id": 548145360
+        },
+        {
+            "name": "お役御免",
+            "artist": "神前暁",
+            "id": 448316753
+        },
+        {
+            "name": "Wonderful Tonight",
+            "artist": "岸部眞明",
+            "id": 441479
+        },
+        {
+            "name": "亜双義一真 ～夜想曲",
+            "artist": "前馬宏充",
+            "id": 33316459
+        },
+        {
+            "name": "Travelers' encore",
+            "artist": "Andrew Prahlow",
+            "id": 1879098277
+        },
+        {
+            "name": "雨上がりの空",
+            "artist": "glassmoon",
+            "id": 35504049
+        },
+        {
+            "name": "M18",
+            "artist": "梶浦由記",
+            "id": 591857
+        },
+        {
+            "name": "「プラチナむかつく」",
+            "artist": "神前暁",
+            "id": 460508
+        },
+        {
+            "name": "Peaceful Moment in a Sunrise",
+            "artist": "神前暁",
+            "id": 1853301360
+        },
+        {
+            "name": "Smile a Little More",
+            "artist": "石濱翔",
+            "id": 1853302808
+        },
+        {
+            "name": "Putting Forth My Heart and Soul",
+            "artist": "帆足圭吾",
+            "id": 1853302816
+        },
+        {
+            "name": "Lazy Daydream",
+            "artist": "Vincent Diamante",
+            "id": 1819696382
+        },
+        {
+            "name": "Cirno's Harbour Café",
+            "artist": "Electric Ginger",
+            "id": 1817063504
+        },
+        {
+            "name": "如夢",
+            "artist": "Michael Azusa",
+            "id": 1453466105
+        },
+        {
+            "name": "The Sound of Rain",
+            "artist": "BigRicePiano",
+            "id": 1408944670
+        },
+        {
+            "name": "Blossoming Romance",
+            "artist": "Wendi Shi",
+            "id": 1449681816
+        },
+        {
+            "name": "秒 · 流云",
+            "artist": "八云轨",
+            "id": 1399286389
+        },
+        {
+            "name": "From Here To Eternity",
+            "artist": "牛尾憲輔",
+            "id": 528271318
+        },
+        {
+            "name": "爱呗",
+            "artist": "GReeeeN",
+            "id": 4901600
+        },
+        {
+            "name": "動く、動く -Piano version-",
+            "artist": "毛蟹",
+            "id": 524149929
+        },
+        {
+            "name": "相思林",
+            "artist": "耸耸肩膀",
+            "id": 1392593028
+        },
+        {
+            "name": "Starlight Waltz",
+            "artist": "Ponyphonic",
+            "id": 443277060
+        },
+        {
+            "name": "Karma -Piano version-",
+            "artist": "阿保剛",
+            "id": 402878
+        },
+        {
+            "name": "勿念他归",
+            "artist": "V.A.",
+            "id": 28253999
+        },
+        {
+            "name": "Summer",
+            "artist": "久石譲",
+            "id": 443242
+        },
+        {
+            "name": "大鱼 钢琴版",
+            "artist": "昼夜",
+            "id": 414706265
+        },
+        {
+            "name": "忆夏思乡",
+            "artist": "MoreanP",
+            "id": 506650377
+        },
+        {
+            "name": "夕月奏",
+            "artist": "smile丶轩",
+            "id": 470051513
+        },
+        {
+            "name": "江上清风游",
+            "artist": "变奏的梦想",
+            "id": 32743519
+        },
+        {
+            "name": "Violet",
+            "artist": "潘玺帆 PorridgePXF",
+            "id": 1329400531
+        },
+        {
+            "name": "Hometown and miss",
+            "artist": "夏小舟",
+            "id": 490991569
+        },
+        {
+            "name": "Time Is A Friend Of Mine",
+            "artist": "MZ92",
+            "id": 482294674
+        },
+        {
+            "name": "Merry Christmas Mr. Lawrence",
+            "artist": "坂本龍一",
+            "id": 4899152
+        },
+        {
+            "name": "Adagio for Summer Wind",
+            "artist": "Key Sounds Label",
+            "id": 760037
+        },
+        {
+            "name": "Bloom of Youth",
+            "artist": "Key Sounds Label",
+            "id": 760058
+        },
+        {
+            "name": "最後の命",
+            "artist": "小瀬村晶",
+            "id": 29498694
+        },
+        {
+            "name": "ほどほどの栄光あれ",
+            "artist": "藤澤慶昌",
+            "id": 27808241
+        },
+        {
+            "name": "hometown",
+            "artist": "mamomo",
+            "id": 33469292
+        },
+        {
+            "name": "最初",
+            "artist": "逆时针向",
+            "id": 477417503
+        },
+        {
+            "name": "熹光",
+            "artist": "逆时针向",
+            "id": 519286594
+        },
+        {
+            "name": "Autumn rain（未修改版）",
+            "artist": "3_key",
+            "id": 430053309
+        },
+        {
+            "name": "Henry",
+            "artist": "Nanofingers",
+            "id": 27679286
+        },
+        {
+            "name": "Minecraft",
+            "artist": "C418",
+            "id": 4010201
+        },
+        {
+            "name": "离川",
+            "artist": "MT1990",
+            "id": 534397180
+        },
+        {
+            "name": "快乐E调",
+            "artist": "林澜叶",
+            "id": 27583103
+        },
+        {
+            "name": "月色与雪色之间，你是第三种绝色。",
+            "artist": "十指流玉",
+            "id": 535612106
+        },
+        {
+            "name": "暖雨",
+            "artist": "林键标",
+            "id": 34731046
+        },
+        {
+            "name": "The promise",
+            "artist": "Secret Garden",
+            "id": 21725725
+        },
+        {
+            "name": "Song from a Secret Garden",
+            "artist": "Secret Garden",
+            "id": 4278298
+        },
+        {
+            "name": "The truth that you leave",
+            "artist": "Pianoboy高至豪",
+            "id": 139774
+        },
+        {
+            "name": "River Flows In You",
+            "artist": "Martin Ermen",
+            "id": 20110049
+        },
+        {
+            "name": "Annie's Wonderland (安妮的仙境) - 钢琴曲",
+            "artist": "幽蓝键",
+            "id": 481261019
+        },
+        {
+            "name": "Azure",
+            "artist": "Saiakoup",
+            "id": 495626744
+        },
+        {
+            "name": "Fell for U",
+            "artist": "Noicybino",
+            "id": 39635710
+        },
+        {
+            "name": "Tassel",
+            "artist": "Cymophane",
+            "id": 357126
+        },
+        {
+            "name": "Pisces",
+            "artist": "和弦",
+            "id": 467163300
+        },
+        {
+            "name": "Time To Love",
+            "artist": "October",
+            "id": 28912659
+        },
+        {
+            "name": "夏の喚く",
+            "artist": "邱有句",
+            "id": 434871406
+        },
+        {
+            "name": "花 が とぶ 飛ぶ",
+            "artist": "邱有句",
+            "id": 421885589
+        },
+        {
+            "name": "花火が瞬く夜に",
+            "artist": "羽肿",
+            "id": 434902428
+        },
+        {
+            "name": "ひだまりの郷",
+            "artist": "八乙女葦菜",
+            "id": 4956882
+        },
+        {
+            "name": "葬花",
+            "artist": "THT",
+            "id": 503426999
+        },
+        {
+            "name": "望天",
+            "artist": "孙无忧",
+            "id": 32217265
+        },
+        {
+            "name": "猫的舞步",
+            "artist": "Candy_Wind",
+            "id": 523902194
+        },
+        {
+            "name": "夏野与暗恋",
+            "artist": "闫东炜",
+            "id": 421934070
+        },
+        {
+            "name": "初秋与七夕",
+            "artist": "闫东炜",
+            "id": 502218792
+        },
+        {
+            "name": "Somnambulating",
+            "artist": "羽肿",
+            "id": 427015054
+        },
+        {
+            "name": "Windy Hill",
+            "artist": "羽肿",
+            "id": 427606780
+        },
+        {
+            "name": "The Right Path",
+            "artist": "Thomas Greenberg",
+            "id": 2061452
+        },
+        {
+            "name": "A Little Story",
+            "artist": "Valentin",
+            "id": 857896
+        },
+        {
+            "name": "The Theory of Everything",
+            "artist": "Jóhann Jóhannsson",
+            "id": 29774805
+        },
+        {
+            "name": "Astral Requiem",
+            "artist": "山下直人",
+            "id": 28815583
+        },
+        {
+            "name": "Megalovania Piano Arrangement",
+            "artist": "Undertale",
+            "id": 426850936
+        },
+        {
+            "name": "His Theme (tieff's Remix)",
+            "artist": "tieff",
+            "id": 419254596
+        },
+        {
+            "name": "Home (Music Box)",
+            "artist": "Toby Fox",
+            "id": 39224614
+        },
+        {
+            "name": "Reunited",
+            "artist": "Toby Fox",
+            "id": 39224654
+        },
+        {
+            "name": "flower",
+            "artist": "makegumi",
+            "id": 28785042
+        },
+        {
+            "name": "Eternity",
+            "artist": "Liquid Cinema",
+            "id": 36668614
+        },
+        {
+            "name": "Academy Hallways",
+            "artist": "Ari Pulkkinen",
+            "id": 1062660
+        },
+        {
+            "name": "枫叶城",
+            "artist": "杨昊昆",
+            "id": 418257945
+        },
+        {
+            "name": "しでの鳥",
+            "artist": "神前暁",
+            "id": 460500
+        },
+        {
+            "name": "Sakae In Action",
+            "artist": "松本晃彦",
+            "id": 22710767
+        },
+        {
+            "name": "手つかずの感情",
+            "artist": "中山真斗",
+            "id": 26215042
+        },
+        {
+            "name": "どれだけ希望を持ったのか",
+            "artist": "中山真斗",
+            "id": 26215043
+        },
+        {
+            "name": "Secret Base (吉他版)",
+            "artist": "uBio高尾和树",
+            "id": 33875750
+        },
+        {
+            "name": "Sky Mirrors",
+            "artist": "Jannik",
+            "id": 492292805
+        },
+        {
+            "name": "Village",
+            "artist": "群星",
+            "id": 29755430
+        },
+        {
+            "name": "Leave my lover",
+            "artist": "流派未確定",
+            "id": 774296
+        },
+        {
+            "name": "アフロディーテ",
+            "artist": "S.E.N.S.",
+            "id": 819664
+        },
+        {
+            "name": "Palace Memories",
+            "artist": "S.E.N.S.",
+            "id": 818820
+        },
+        {
+            "name": "Nightingale",
+            "artist": "Yanni",
+            "id": 20744782
+        },
+        {
+            "name": "「暦お兄ちゃん」",
+            "artist": "神前暁",
+            "id": 461189
+        },
+        {
+            "name": "SPEAK",
+            "artist": "Ken Arai",
+            "id": 34509505
+        },
+        {
+            "name": "Sorrows of Life",
+            "artist": "黒石ひとみ",
+            "id": 22805122
+        },
+        {
+            "name": "If I were a Bird",
+            "artist": "黒石ひとみ",
+            "id": 591772
+        },
+        {
+            "name": "mellow distance",
+            "artist": "Forest306",
+            "id": 729267
+        },
+        {
+            "name": "HAPPINESS",
+            "artist": "SNUG SPACE",
+            "id": 834579
+        },
+        {
+            "name": "black-coffee",
+            "artist": "DDBY",
+            "id": 33584967
+        },
+        {
+            "name": "やわらかな方程式",
+            "artist": "中山真斗",
+            "id": 26215045
+        },
+        {
+            "name": "attack音D",
+            "artist": "澤野弘之",
+            "id": 482633120
+        },
+        {
+            "name": "光りあふれる揺りかごの中で",
+            "artist": "折戸伸治",
+            "id": 761347
+        },
+        {
+            "name": "ALIVE",
+            "artist": "M.Graveyard",
+            "id": 785980
+        },
+        {
+            "name": "人间失格~メインテーマ~",
+            "artist": "中島ノブユキ",
+            "id": 482823
+        },
+        {
+            "name": "渚",
+            "artist": "麻枝准",
+            "id": 22706980
+        },
+        {
+            "name": "you",
+            "artist": "M.Graveyard",
+            "id": 786262
+        },
+        {
+            "name": "ふるさとの匂い",
+            "artist": "吉森信",
+            "id": 541853
+        },
+        {
+            "name": "願いが叶う場所 II",
+            "artist": "麻枝准",
+            "id": 22707020
+        },
+        {
+            "name": "小さな手のひら (off vocal ver.)",
+            "artist": "麻枝准",
+            "id": 22707025
+        },
+        {
+            "name": "空に光る",
+            "artist": "戸越まごめ",
+            "id": 22707003
+        },
+        {
+            "name": "告白",
+            "artist": "ANANT-GARDE EYES",
+            "id": 36307270
+        },
+        {
+            "name": "想いの寄り方は不均一",
+            "artist": "加藤達也",
+            "id": 441736
+        },
+        {
+            "name": "きときと - 四本足の踊り",
+            "artist": "高木正勝",
+            "id": 522645
+        },
+        {
+            "name": "昔の友人が変わらずにいるというのも悪くないものだな…",
+            "artist": "Audio Highs",
+            "id": 4971495
+        },
+        {
+            "name": "鉄を叩きながら　てめーの魂を叩き上げろ",
+            "artist": "Audio Highs",
+            "id": 4962112
+        },
+        {
+            "name": "Void",
+            "artist": "尾澤拓実",
+            "id": 1431611056
+        },
+        {
+            "name": "キミを思うメロディー",
+            "artist": "アッチョリケ",
+            "id": 4966856
+        },
+        {
+            "name": "昼下がりの憂鬱",
+            "artist": "みかん箱",
+            "id": 785887
+        },
+        {
+            "name": "幽雅に咲かせ、墨染の桜 ~ Border of Life",
+            "artist": "ファクトリー・ノイズ&AG",
+            "id": 732206
+        },
+        {
+            "name": "2つのピアノの为の“夜桜と幽世の蝶” (幽雅に咲かせ、墨染の桜~Border of Life/东方妖々梦より)",
+            "artist": "QLOCKS",
+            "id": 803469
+        },
+        {
+            "name": "今日ぞハレの日、われらが祭り",
+            "artist": "Forest306",
+            "id": 729126
+        },
+        {
+            "name": "蓬莱伝説 / 蓬莱伝説 [蓬莱人形 ~Dolls In Psuedo Paradise]",
+            "artist": "Forest306",
+            "id": 729436
+        },
+        {
+            "name": "里の风景",
+            "artist": "趣味工房にんじんわいん",
+            "id": 766038
+        },
+        {
+            "name": "夏風",
+            "artist": "だ",
+            "id": 729317
+        },
+        {
+            "name": "かぜのささやき、みずのうたごえ",
+            "artist": "ハム",
+            "id": 729355
+        },
+        {
+            "name": "姉妹",
+            "artist": "趣味工房にんじんわいん",
+            "id": 767146
+        },
+        {
+            "name": "秋姉妹のなく頃に in the autumn sky",
+            "artist": "ばんばんしー",
+            "id": 691506
+        },
+        {
+            "name": "眠りの吸血鬼",
+            "artist": "流派未確定",
+            "id": 774455
+        },
+        {
+            "name": "酔月",
+            "artist": "はちみつれもん",
+            "id": 29724757
+        },
+        {
+            "name": "歳月-雲流れ-",
+            "artist": "Foxtail-Grass Studio",
+            "id": 730631
+        },
+        {
+            "name": "さくらさくら ～ Japanize Dream...",
+            "artist": "彩音 ~xi-on~",
+            "id": 28577596
+        },
+        {
+            "name": "雲流れ",
+            "artist": "みかん箱",
+            "id": 785902
+        },
+        {
+            "name": "水面の満月",
+            "artist": "神乃木製作所",
+            "id": 767726
+        },
+        {
+            "name": "未だ知られぬ物語 ～ Anticipated Dream",
+            "artist": "凋叶棕",
+            "id": 28234322
+        },
+        {
+            "name": "Old Memory",
+            "artist": "市川淳",
+            "id": 477982
+        },
+        {
+            "name": "いつまでも一绪にいよう",
+            "artist": "三輪学",
+            "id": 478384
+        },
+        {
+            "name": "月は優しく (月)",
+            "artist": "梶浦由記",
+            "id": 590623
+        },
+        {
+            "name": "有哉と美月",
+            "artist": "中西亮輔",
+            "id": 30870642
+        },
+        {
+            "name": "「籠のなか」",
+            "artist": "増田俊郎",
+            "id": 469772
+        },
+        {
+            "name": "あたたかい雪景色",
+            "artist": "吉森信",
+            "id": 541849
+        },
+        {
+            "name": "春を知らせるもの~続 夏目友人帳のテーマ",
+            "artist": "吉森信",
+            "id": 541928
+        },
+        {
+            "name": "騎士王の誇り",
+            "artist": "川井憲次",
+            "id": 448119
+        },
+        {
+            "name": "孤独な巡礼",
+            "artist": "川井憲次",
+            "id": 448065
+        },
+        {
+            "name": "潮鳴り",
+            "artist": "折戸伸治",
+            "id": 22707008
+        },
+        {
+            "name": "风神の调べ~优艶幻想曲集~",
+            "artist": "CrossGear",
+            "id": 707886
+        },
+        {
+            "name": "小夜曲“千年の刻を待ち焦がれて”　(千年幻想郷~History of the Moon)",
+            "artist": "光と暗の协奏曲",
+            "id": 746560
+        },
+        {
+            "name": "メグルユメ",
+            "artist": "Foxtail-Grass Studio",
+            "id": 730763
+        },
+        {
+            "name": "夏祭り、夢花火。",
+            "artist": "妹尾武",
+            "id": 28411784
+        },
+        {
+            "name": "春色のワルツ",
+            "artist": "妹尾武",
+            "id": 28411782
+        },
+        {
+            "name": "Lupinus",
+            "artist": "Foxtail-Grass Studio",
+            "id": 730859
+        },
+        {
+            "name": "Bad Apple (八音盒版)",
+            "artist": "Lizz Robinett",
+            "id": 33785991
+        },
+        {
+            "name": "两个人总是",
+            "artist": "秋山裕和",
+            "id": 33737082
+        },
+        {
+            "name": "Dusky World",
+            "artist": "MoreanP",
+            "id": 519604416
+        },
+        {
+            "name": "Melody",
+            "artist": "梶浦由記",
+            "id": 591371
+        },
+        {
+            "name": "鸟之诗 (八音盒版)",
+            "artist": "折戸伸治",
+            "id": 28606052
+        },
+        {
+            "name": "卡农(音乐盒版)",
+            "artist": "Various Artists",
+            "id": 29802386
+        },
+        {
+            "name": "Big Big World",
+            "artist": "Michael Cramtu",
+            "id": 3950116
+        },
+        {
+            "name": "in cherrycloud",
+            "artist": "饺子屋本舗",
+            "id": 768248
+        },
+        {
+            "name": "風の住む街",
+            "artist": "磯村由紀子",
+            "id": 586299
+        },
+        {
+            "name": "いつも何度でも (千と千尋の神隠し)",
+            "artist": "木村弓",
+            "id": 442300
+        },
+        {
+            "name": "いつも何度でも",
+            "artist": "木村弓",
+            "id": 443078
+        },
+        {
+            "name": "海の見える街",
+            "artist": "小坂明子",
+            "id": 4988618
+        },
+        {
+            "name": "eau",
+            "artist": "yutaka hirasaka",
+            "id": 29535887
+        },
+        {
+            "name": "Kyrie",
+            "artist": "無力P",
+            "id": 539083
+        },
+        {
+            "name": "Outro",
+            "artist": "Mili",
+            "id": 28921691
+        },
+        {
+            "name": "In the Wind",
+            "artist": "July",
+            "id": 26127163
+        },
+        {
+            "name": "Eutopia",
+            "artist": "Yooh",
+            "id": 29129889
+        },
+        {
+            "name": "To the Moon - Main Theme",
+            "artist": "Kan R. Gao",
+            "id": 1645064
+        },
+        {
+            "name": "Refrain",
+            "artist": "阿南亮子",
+            "id": 22712173
+        },
+        {
+            "name": "Feeling The Rain",
+            "artist": "MoreanP",
+            "id": 496774187
+        },
+        {
+            "name": "Last Reincarnation",
+            "artist": "AniFace",
+            "id": 451543833
+        },
+        {
+            "name": "An Old Song",
+            "artist": "MoreanP",
+            "id": 462177081
+        },
+        {
+            "name": "谷雨 伴奏",
+            "artist": "桑葚上的猴子",
+            "id": 410161058
+        },
+        {
+            "name": "青空",
+            "artist": "Candy_Wind",
+            "id": 32717172
+        },
+        {
+            "name": "寂静之空",
+            "artist": "傅许",
+            "id": 461074907
+        },
+        {
+            "name": "城南花已开",
+            "artist": "三亩地",
+            "id": 468176711
+        },
+        {
+            "name": "阳光明媚的早晨我迟到了",
+            "artist": "饭碗的彼岸",
+            "id": 40257799
+        },
+        {
+            "name": "Heart in a Bottle",
+            "artist": "Alexey Omelchuk",
+            "id": 28000677
+        },
+        {
+            "name": "WIND LINER",
+            "artist": "DAISHI DANCE",
+            "id": 406339
+        }
+    ]
+}
