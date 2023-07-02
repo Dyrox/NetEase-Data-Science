@@ -1,3 +1,8 @@
+import os
+import json
+
+folder_path = 'playlist_songs_jsons'
+
 
 MYSONGS = ['Standing Still', 
            'The Whisper Of Galaxy', 
@@ -25,3 +30,23 @@ MYSONGS_ID = [
 1922523191,
 1936650330,
 2013630617]
+
+
+
+playlists = [jsonfile for jsonfile in os.listdir(folder_path) if jsonfile.endswith('.json')]
+contained_playlists = []
+
+
+for playlist in playlists:
+    file_path = os.path.join(folder_path,playlist)
+    
+    with open(file_path,'r') as f:
+        fileStr = f.read()
+        if 'Polaranica' in fileStr:
+            contained_playlists.append(playlist)
+
+
+for p in contained_playlists:
+    print(p)
+        
+print(len(contained_playlists))
