@@ -1,0 +1,912 @@
+{
+    "playlist_info": {
+        "name": "赶作业超燃歌单",
+        "trackcount": 180,
+        "playcount": 1136344,
+        "creator": "Kankikium",
+        "createDate": "2019-03-24",
+        "heat": 727.0
+    },
+    "songs": [
+        {
+            "name": "メロウ",
+            "artist": "須田景凪",
+            "id": 2035518180
+        },
+        {
+            "name": "This Is Me (From The Greatest Showman)",
+            "artist": "Kesha",
+            "id": 525112245
+        },
+        {
+            "name": "Calc.(Game Version)",
+            "artist": "ジミーサムP",
+            "id": 416531748
+        },
+        {
+            "name": "经济舱",
+            "artist": "KEY.L刘聪",
+            "id": 1492049185
+        },
+        {
+            "name": "考神",
+            "artist": "某幻君",
+            "id": 1461430536
+        },
+        {
+            "name": "Dragon Night",
+            "artist": "Sekai no Owari",
+            "id": 30051974
+        },
+        {
+            "name": "银河的流浪家",
+            "artist": "歪歪超",
+            "id": 2011306501
+        },
+        {
+            "name": "화(火花)",
+            "artist": "(G)I-DLE",
+            "id": 1811118551
+        },
+        {
+            "name": "숲의 아이",
+            "artist": "YooA",
+            "id": 1475993250
+        },
+        {
+            "name": "Shots (Broiler Remix)",
+            "artist": "Imagine Dragons",
+            "id": 1810859892
+        },
+        {
+            "name": "Wherever I Go",
+            "artist": "Anthem Lights",
+            "id": 2012412357
+        },
+        {
+            "name": "Runaway Baby",
+            "artist": "Bruno Mars",
+            "id": 25657277
+        },
+        {
+            "name": "ロマンチシズム",
+            "artist": "Mrs. GREEN APPLE",
+            "id": 1351921664
+        },
+        {
+            "name": "Sunshine",
+            "artist": "OneRepublic",
+            "id": 1958346525
+        },
+        {
+            "name": "In The Morning",
+            "artist": "Mrs. GREEN APPLE",
+            "id": 452613201
+        },
+        {
+            "name": "書店ガール (Positive ver.)",
+            "artist": "横山克",
+            "id": 32857745
+        },
+        {
+            "name": "i-mage <in/AR>",
+            "artist": "Aimer",
+            "id": 1357775689
+        },
+        {
+            "name": "Burn the House Down",
+            "artist": "AJR",
+            "id": 545655045
+        },
+        {
+            "name": "Sucker for You",
+            "artist": "Matt Terry",
+            "id": 511678913
+        },
+        {
+            "name": "Take A Walk",
+            "artist": "Passion Pit",
+            "id": 27918900
+        },
+        {
+            "name": "Bones",
+            "artist": "Imagine Dragons",
+            "id": 1942727614
+        },
+        {
+            "name": "At Least I Had Fun",
+            "artist": "Martin Jensen",
+            "id": 1470902634
+        },
+        {
+            "name": "You & I",
+            "artist": "GENERATIONS from EXILE TRIBE",
+            "id": 1446235140
+        },
+        {
+            "name": "Vacation",
+            "artist": "Truslow",
+            "id": 28468491
+        },
+        {
+            "name": "I'm Born To Run",
+            "artist": "American Authors",
+            "id": 409374302
+        },
+        {
+            "name": "青い栞",
+            "artist": "Galileo Galilei",
+            "id": 27684881
+        },
+        {
+            "name": "One Day",
+            "artist": "Matisyahu",
+            "id": 21157332
+        },
+        {
+            "name": "24K Magic",
+            "artist": "Bruno Mars",
+            "id": 433681259
+        },
+        {
+            "name": "Thunder",
+            "artist": "Imagine Dragons",
+            "id": 474932841
+        },
+        {
+            "name": "Peaches",
+            "artist": "Justin Bieber",
+            "id": 1830419924
+        },
+        {
+            "name": "Solo Dance",
+            "artist": "Martin Jensen",
+            "id": 439076364
+        },
+        {
+            "name": "How To Love (Acoustic)",
+            "artist": "Cash Cash",
+            "id": 417250187
+        },
+        {
+            "name": "TiK ToK",
+            "artist": "Kesha",
+            "id": 2918954
+        },
+        {
+            "name": "Bud Like You",
+            "artist": "AJR",
+            "id": 487454620
+        },
+        {
+            "name": "STAY",
+            "artist": "The Kid LAROI",
+            "id": 1859245776
+        },
+        {
+            "name": "2 Die 4",
+            "artist": "Tove Lo",
+            "id": 1967003216
+        },
+        {
+            "name": "High Hopes",
+            "artist": "Gabriela Bee",
+            "id": 1358168845
+        },
+        {
+            "name": "il vento d'oro",
+            "artist": "菅野祐悟",
+            "id": 1334780738
+        },
+        {
+            "name": "Sugar (Remix)",
+            "artist": "Maroon 5",
+            "id": 30953003
+        },
+        {
+            "name": "Color-X 3D (live) -",
+            "artist": "连毅霖",
+            "id": 1880632157
+        },
+        {
+            "name": "M八七",
+            "artist": "米津玄師",
+            "id": 1942372651
+        },
+        {
+            "name": "旦复旦",
+            "artist": "HARVI K",
+            "id": 1877077495
+        },
+        {
+            "name": "打上花火",
+            "artist": "Daoko",
+            "id": 496869422
+        },
+        {
+            "name": "YELLOW",
+            "artist": "神山羊",
+            "id": 1356248072
+        },
+        {
+            "name": "LOVE SCENARIO",
+            "artist": "iKON",
+            "id": 1311347412
+        },
+        {
+            "name": "BOOMBAYAH",
+            "artist": "BLACKPINK",
+            "id": 424474635
+        },
+        {
+            "name": "Worth It",
+            "artist": "Fifth Harmony",
+            "id": 30212890
+        },
+        {
+            "name": "Hey baby!",
+            "artist": "倖田來未",
+            "id": 588743
+        },
+        {
+            "name": "大丈夫 (Movie edit)",
+            "artist": "RADWIMPS",
+            "id": 1378492147
+        },
+        {
+            "name": "星が泳ぐ",
+            "artist": "マカロニえんぴつ",
+            "id": 1933503583
+        },
+        {
+            "name": "はしりがき",
+            "artist": "マカロニえんぴつ",
+            "id": 1902312199
+        },
+        {
+            "name": "Unity",
+            "artist": "LMYK",
+            "id": 1488847601
+        },
+        {
+            "name": "Butter-Fly",
+            "artist": "和田光司",
+            "id": 4940920
+        },
+        {
+            "name": "ハルジオン",
+            "artist": "YOASOBI",
+            "id": 1444071945
+        },
+        {
+            "name": "Break My Heart Myself (feat. YEJI & RYUJIN of ITZY)",
+            "artist": "Bebe Rexha",
+            "id": 1967168648
+        },
+        {
+            "name": "英雄",
+            "artist": "doa",
+            "id": 406347677
+        },
+        {
+            "name": "残響散歌",
+            "artist": "Aimer",
+            "id": 1897084229
+        },
+        {
+            "name": "炎",
+            "artist": "LiSA",
+            "id": 1482908655
+        },
+        {
+            "name": "イマジネーション",
+            "artist": "SPYAIR",
+            "id": 473817023
+        },
+        {
+            "name": "キセキ",
+            "artist": "GReeeeN",
+            "id": 733203
+        },
+        {
+            "name": "キャラクター",
+            "artist": "緑黄色社会",
+            "id": 1906952396
+        },
+        {
+            "name": "A Million Dreams",
+            "artist": "Ziv Zaifman",
+            "id": 522429774
+        },
+        {
+            "name": "Sky (Radio Edit)",
+            "artist": "Steerner",
+            "id": 29553031
+        },
+        {
+            "name": "Rewrite The Stars",
+            "artist": "Zac Efron",
+            "id": 1326144334
+        },
+        {
+            "name": "Payphone",
+            "artist": "Maroon 5",
+            "id": 4172700
+        },
+        {
+            "name": "Wanted! Wanted!",
+            "artist": "Mrs. GREEN APPLE",
+            "id": 496569112
+        },
+        {
+            "name": "Animals",
+            "artist": "Maroon 5",
+            "id": 29019224
+        },
+        {
+            "name": "Bet On Me",
+            "artist": "Walk off the Earth",
+            "id": 1923927650
+        },
+        {
+            "name": "Run Free",
+            "artist": "Deep Chills",
+            "id": 500410102
+        },
+        {
+            "name": "Firework",
+            "artist": "Katy Perry",
+            "id": 2871217
+        },
+        {
+            "name": "This Is It",
+            "artist": "Oh The Larceny",
+            "id": 1342157440
+        },
+        {
+            "name": "Belly Dancer",
+            "artist": "Imanbek",
+            "id": 1920673770
+        },
+        {
+            "name": "Try Everything",
+            "artist": "Shakira",
+            "id": 405485737
+        },
+        {
+            "name": "Maps",
+            "artist": "Maroon 5",
+            "id": 29019223
+        },
+        {
+            "name": "僕にできること",
+            "artist": "Nissy(西島隆弘)",
+            "id": 1456661718
+        },
+        {
+            "name": "周波数",
+            "artist": "Sekai no Owari",
+            "id": 1457704790
+        },
+        {
+            "name": "ラブレター",
+            "artist": "YOASOBI",
+            "id": 1866654479
+        },
+        {
+            "name": "Error",
+            "artist": "Sekai no Owari",
+            "id": 432821983
+        },
+        {
+            "name": "ピースサイン",
+            "artist": "米津玄師",
+            "id": 512359196
+        },
+        {
+            "name": "无名之辈",
+            "artist": "陈雪燃",
+            "id": 1376142151
+        },
+        {
+            "name": "Only The Young (Featured in Miss Americana)",
+            "artist": "Taylor Swift",
+            "id": 1419789491
+        },
+        {
+            "name": "One Last Kiss",
+            "artist": "宇多田ヒカル",
+            "id": 1824020871
+        },
+        {
+            "name": "竈門炭治郎のうた",
+            "artist": "中川奈美",
+            "id": 1397097038
+        },
+        {
+            "name": "紅蓮華",
+            "artist": "LiSA",
+            "id": 1360592706
+        },
+        {
+            "name": "自由の翼",
+            "artist": "Linked Horizon",
+            "id": 478736276
+        },
+        {
+            "name": "踊",
+            "artist": "ABbbb君",
+            "id": 1847081982
+        },
+        {
+            "name": "ベテルギウス",
+            "artist": "優里",
+            "id": 1905070115
+        },
+        {
+            "name": "猫 〜THE FIRST TAKE ver.〜",
+            "artist": "DISH//",
+            "id": 1842206632
+        },
+        {
+            "name": "Immortals",
+            "artist": "Fall Out Boy",
+            "id": 30967261
+        },
+        {
+            "name": "Unstoppable",
+            "artist": "Sia",
+            "id": 400876320
+        },
+        {
+            "name": "Lose Control",
+            "artist": "Hedley",
+            "id": 1850718535
+        },
+        {
+            "name": "Timber",
+            "artist": "Pitbull",
+            "id": 27804336
+        },
+        {
+            "name": "夢灯籠",
+            "artist": "RADWIMPS",
+            "id": 426881480
+        },
+        {
+            "name": "前前前世 (movie ver.)",
+            "artist": "RADWIMPS",
+            "id": 426881487
+        },
+        {
+            "name": "DAYBREAK FRONTLINE",
+            "artist": "めありー",
+            "id": 557579433
+        },
+        {
+            "name": "Waiting For Love",
+            "artist": "Avicii",
+            "id": 1823216550
+        },
+        {
+            "name": "Contact",
+            "artist": "Lulleaux",
+            "id": 500412390
+        },
+        {
+            "name": "神のまにまに",
+            "artist": "Sou",
+            "id": 1311133071
+        },
+        {
+            "name": "僕らの手には何もないけど、",
+            "artist": "RAM WIRE",
+            "id": 32317208
+        },
+        {
+            "name": "僕の戦争(TV Size)",
+            "artist": "神聖かまってちゃん",
+            "id": 1501212275
+        },
+        {
+            "name": "ヴァンパイア",
+            "artist": "DECO*27",
+            "id": 1840474281
+        },
+        {
+            "name": "怪物",
+            "artist": "YOASOBI",
+            "id": 1803908863
+        },
+        {
+            "name": "想去海边",
+            "artist": "夏日入侵企画",
+            "id": 1413863166
+        },
+        {
+            "name": "群青",
+            "artist": "YOASOBI",
+            "id": 1472480890
+        },
+        {
+            "name": "残響散歌",
+            "artist": "Aimer",
+            "id": 1902315758
+        },
+        {
+            "name": "Love You Right",
+            "artist": "Walk off the Earth",
+            "id": 1855311653
+        },
+        {
+            "name": "ハローハロー",
+            "artist": "H△G",
+            "id": 476638473
+        },
+        {
+            "name": "Kachoufugetsu",
+            "artist": "Sekai no Owari",
+            "id": 22814470
+        },
+        {
+            "name": "小さな恋のうた",
+            "artist": "Diana Garnett",
+            "id": 28029647
+        },
+        {
+            "name": "RPG",
+            "artist": "Sekai no Owari",
+            "id": 30051973
+        },
+        {
+            "name": "インフェルノ",
+            "artist": "Mrs. GREEN APPLE",
+            "id": 1378624805
+        },
+        {
+            "name": "Teeth",
+            "artist": "5 Seconds of Summer",
+            "id": 1385738126
+        },
+        {
+            "name": "大幸运术",
+            "artist": "太一",
+            "id": 1375468661
+        },
+        {
+            "name": "アスノヨゾラ哨戒班",
+            "artist": "Orangestar",
+            "id": 31830623
+        },
+        {
+            "name": "飛行艇",
+            "artist": "King Gnu",
+            "id": 1382838382
+        },
+        {
+            "name": "This Is Me",
+            "artist": "Keala Settle",
+            "id": 515535829
+        },
+        {
+            "name": "How Far I'll Go",
+            "artist": "Alessia Cara",
+            "id": 437856225
+        },
+        {
+            "name": "Wildest Dreams",
+            "artist": "Braunshall",
+            "id": 490173581
+        },
+        {
+            "name": "Mine (Illenium Remix)",
+            "artist": "ILLENIUM",
+            "id": 30780496
+        },
+        {
+            "name": "Intro",
+            "artist": "The xx",
+            "id": 4341314
+        },
+        {
+            "name": "We Are Never Ever Getting Back Together",
+            "artist": "Taylor Swift",
+            "id": 1343458283
+        },
+        {
+            "name": "For the First Time in Forever (From \"Frozen\"/Soundtrack Version)",
+            "artist": "Kristen Bell",
+            "id": 28031116
+        },
+        {
+            "name": "Pocketful of Poetry",
+            "artist": "Mindy Gledhill",
+            "id": 27713011
+        },
+        {
+            "name": "I Think He Knows",
+            "artist": "Taylor Swift",
+            "id": 1382781397
+        },
+        {
+            "name": "The Archer",
+            "artist": "Taylor Swift",
+            "id": 1382778829
+        },
+        {
+            "name": "Lover (Remix)",
+            "artist": "Taylor Swift",
+            "id": 1403250178
+        },
+        {
+            "name": "ME!",
+            "artist": "Taylor Swift",
+            "id": 1382781549
+        },
+        {
+            "name": "The Man",
+            "artist": "Taylor Swift",
+            "id": 1382781100
+        },
+        {
+            "name": "Lover",
+            "artist": "Taylor Swift",
+            "id": 1382778514
+        },
+        {
+            "name": "Cruel Summer",
+            "artist": "Taylor Swift",
+            "id": 1382576173
+        },
+        {
+            "name": "7 rings (Remix)",
+            "artist": "Ariana Grande",
+            "id": 1343492095
+        },
+        {
+            "name": "If I Die Young",
+            "artist": "The Band Perry",
+            "id": 28157586
+        },
+        {
+            "name": "Our Own Heaven",
+            "artist": "Masetti",
+            "id": 30070142
+        },
+        {
+            "name": "Look4You",
+            "artist": "Alberto Ciccarini",
+            "id": 483024028
+        },
+        {
+            "name": "Famous",
+            "artist": "Ivy Adara",
+            "id": 522647397
+        },
+        {
+            "name": "Sold Out",
+            "artist": "Hawk Nelson",
+            "id": 31010566
+        },
+        {
+            "name": "You Need To Calm Down",
+            "artist": "Taylor Swift",
+            "id": 1371516984
+        },
+        {
+            "name": "Way Back Home (Sam Feldt Edit)",
+            "artist": "SHAUN",
+            "id": 1334246005
+        },
+        {
+            "name": "Number",
+            "artist": "Alexander Oscar",
+            "id": 537407969
+        },
+        {
+            "name": "Love Me Like You Do",
+            "artist": "Ellie Goulding",
+            "id": 29966565
+        },
+        {
+            "name": "A Little Story",
+            "artist": "Valentin",
+            "id": 857896
+        },
+        {
+            "name": "The Best Is Yet To Come",
+            "artist": "Sheppard",
+            "id": 28814036
+        },
+        {
+            "name": "Young And Beautiful",
+            "artist": "Lana Del Rey",
+            "id": 26243686
+        },
+        {
+            "name": "Don't Worry Be Happy",
+            "artist": "Holly Dolly",
+            "id": 2701514
+        },
+        {
+            "name": "There's Nothing Holdin' Me Back",
+            "artist": "Shawn Mendes",
+            "id": 473602620
+        },
+        {
+            "name": "Believer (Kaskade Remix)",
+            "artist": "Imagine Dragons",
+            "id": 483156032
+        },
+        {
+            "name": "Rescue Me",
+            "artist": "OneRepublic",
+            "id": 1365844416
+        },
+        {
+            "name": "Earth",
+            "artist": "Lil Dicky",
+            "id": 1359521578
+        },
+        {
+            "name": "Sugar",
+            "artist": "Maroon 5",
+            "id": 29019227
+        },
+        {
+            "name": "Gasoline",
+            "artist": "Halsey",
+            "id": 34144942
+        },
+        {
+            "name": "bad guy",
+            "artist": "Billie Eilish",
+            "id": 1355147933
+        },
+        {
+            "name": "Pretty Girl (Cheat Codes X CADE Remix)",
+            "artist": "Cheat Codes",
+            "id": 465920775
+        },
+        {
+            "name": "If I Can't Have You",
+            "artist": "Shawn Mendes",
+            "id": 1362857141
+        },
+        {
+            "name": "Seve",
+            "artist": "Tez Cadey",
+            "id": 30394891
+        },
+        {
+            "name": "I Don't Care",
+            "artist": "Ed Sheeran",
+            "id": 1364137053
+        },
+        {
+            "name": "Everybody",
+            "artist": "Ingrid Michaelson",
+            "id": 18374823
+        },
+        {
+            "name": "Bigcitydreams",
+            "artist": "Never Shout Never",
+            "id": 21267236
+        },
+        {
+            "name": "ME! (feat. Brendon Urie of Panic! At The Disco)",
+            "artist": "Taylor Swift",
+            "id": 1361348080
+        },
+        {
+            "name": "Waiting For Love",
+            "artist": "Avicii",
+            "id": 32196550
+        },
+        {
+            "name": "Waiting For Love",
+            "artist": "Avicii",
+            "id": 31356499
+        },
+        {
+            "name": "There Is Nothing Holding Me Back (Novalight Remix)",
+            "artist": "Novalight",
+            "id": 494388056
+        },
+        {
+            "name": "Love Yourself (Natio Remix)",
+            "artist": "Natio",
+            "id": 410801521
+        },
+        {
+            "name": "The Ocean (Radio Edit)",
+            "artist": "Mike Perry",
+            "id": 409916250
+        },
+        {
+            "name": "Fresh Eyes",
+            "artist": "Andy Grammer",
+            "id": 423118988
+        },
+        {
+            "name": "Think of Me",
+            "artist": "HARIZ",
+            "id": 1297494209
+        },
+        {
+            "name": "Sober",
+            "artist": "G-Eazy",
+            "id": 522511677
+        },
+        {
+            "name": "There For You",
+            "artist": "Martin Garrix",
+            "id": 480426313
+        },
+        {
+            "name": "Please Don't Go",
+            "artist": "Joel Adams",
+            "id": 37653063
+        },
+        {
+            "name": "Just Like Fire (From the Original Motion Picture \"Alice Through The Looking Glass\")",
+            "artist": "P!nk",
+            "id": 409931224
+        },
+        {
+            "name": "Soaring (Original Mix)",
+            "artist": "TomLeevis",
+            "id": 33340727
+        },
+        {
+            "name": "Du swipa höger",
+            "artist": "Emil Berg",
+            "id": 33340022
+        },
+        {
+            "name": "Samsara",
+            "artist": "Tungevaag & Raaban",
+            "id": 33291435
+        },
+        {
+            "name": "Something Just Like This",
+            "artist": "The Chainsmokers",
+            "id": 461347998
+        },
+        {
+            "name": "HandClap",
+            "artist": "Fitz and The Tantrums",
+            "id": 407839677
+        },
+        {
+            "name": "Closer",
+            "artist": "The Chainsmokers",
+            "id": 423228325
+        },
+        {
+            "name": "We Are Young (feat. Janelle Monáe)",
+            "artist": "Fun.",
+            "id": 17910220
+        },
+        {
+            "name": "Roar",
+            "artist": "Katy Perry",
+            "id": 27566922
+        },
+        {
+            "name": "Best Day Of My Life",
+            "artist": "American Authors",
+            "id": 27646851
+        },
+        {
+            "name": "Shape of You",
+            "artist": "Ed Sheeran",
+            "id": 451703096
+        },
+        {
+            "name": "Despacito (Remix)",
+            "artist": "Luis Fonsi",
+            "id": 472361096
+        }
+    ]
+}

@@ -1,0 +1,352 @@
+{
+    "playlist_info": {
+        "name": "初学英语就唱歌吧（入门版）",
+        "trackcount": 68,
+        "playcount": 799036,
+        "creator": "MR胡萝卜先生",
+        "createDate": "2016-01-09",
+        "heat": 292.0
+    },
+    "songs": [
+        {
+            "name": "Good Time",
+            "artist": "Alex Goot",
+            "id": 27566697
+        },
+        {
+            "name": "Find You",
+            "artist": "HIDDN",
+            "id": 464192074
+        },
+        {
+            "name": "Human",
+            "artist": "MADILYN",
+            "id": 491686047
+        },
+        {
+            "name": "Not Alone",
+            "artist": "Otto Knows",
+            "id": 442867312
+        },
+        {
+            "name": "Wonderful U (Demo Version)",
+            "artist": "AGA",
+            "id": 405681663
+        },
+        {
+            "name": "Fire",
+            "artist": "Gavin DeGraw",
+            "id": 28923579
+        },
+        {
+            "name": "Yellow",
+            "artist": "Coldplay",
+            "id": 17177324
+        },
+        {
+            "name": "Tomorrow",
+            "artist": "Avril Lavigne",
+            "id": 16431885
+        },
+        {
+            "name": "Traveling Light",
+            "artist": "Joel Hanson",
+            "id": 1491585
+        },
+        {
+            "name": "Five Hundred Miles",
+            "artist": "Justin Timberlake",
+            "id": 27759600
+        },
+        {
+            "name": "Seasons in the Sun",
+            "artist": "Westlife",
+            "id": 20707571
+        },
+        {
+            "name": "Landing Guy",
+            "artist": "刘昊霖",
+            "id": 422428548
+        },
+        {
+            "name": "Something Just Like This",
+            "artist": "The Chainsmokers",
+            "id": 461347998
+        },
+        {
+            "name": "Mad World (American Idol Studio Version)",
+            "artist": "Adam Lambert",
+            "id": 988191
+        },
+        {
+            "name": "Just A Kiss",
+            "artist": "Lady A",
+            "id": 16686122
+        },
+        {
+            "name": "Home",
+            "artist": "Michael Bublé",
+            "id": 5149899
+        },
+        {
+            "name": "Hero",
+            "artist": "Enrique Iglesias",
+            "id": 17579515
+        },
+        {
+            "name": "Apologize",
+            "artist": "OneRepublic",
+            "id": 4224657
+        },
+        {
+            "name": "Tonight I Wanna Cry",
+            "artist": "Keith Urban",
+            "id": 1615656
+        },
+        {
+            "name": "Belle Of The Boulevard",
+            "artist": "Dashboard Confessional",
+            "id": 1219149
+        },
+        {
+            "name": "Gotta Have You",
+            "artist": "The Weepies",
+            "id": 19572271
+        },
+        {
+            "name": "Until You",
+            "artist": "Shayne Ward",
+            "id": 19081573
+        },
+        {
+            "name": "The Sound of Silence",
+            "artist": "Garfunkel",
+            "id": 27200172
+        },
+        {
+            "name": "Drama, Love & 'Lationships",
+            "artist": "Babyface",
+            "id": 16667371
+        },
+        {
+            "name": "With Him",
+            "artist": "Babyface",
+            "id": 1077483
+        },
+        {
+            "name": "As Long as You Love Me",
+            "artist": "Anthem Lights",
+            "id": 33418566
+        },
+        {
+            "name": "Walking Away",
+            "artist": "ChianoSky",
+            "id": 26524358
+        },
+        {
+            "name": "Grace",
+            "artist": "Oohyo",
+            "id": 35288251
+        },
+        {
+            "name": "I Don't Mind If You Don't Mind",
+            "artist": "Ron Pope",
+            "id": 27472194
+        },
+        {
+            "name": "Demons",
+            "artist": "Anthem Lights",
+            "id": 28681434
+        },
+        {
+            "name": "Love Me Like You Do",
+            "artist": "MADILYN",
+            "id": 30496792
+        },
+        {
+            "name": "21 Guns",
+            "artist": "Green Day",
+            "id": 18127640
+        },
+        {
+            "name": "Try",
+            "artist": "Colbie Caillat",
+            "id": 28639182
+        },
+        {
+            "name": "Love Me Like You Do",
+            "artist": "Alex Goot",
+            "id": 31010482
+        },
+        {
+            "name": "Little Do You Know",
+            "artist": "Alex & Sierra",
+            "id": 28815381
+        },
+        {
+            "name": "Last Goodbye",
+            "artist": "Denny White",
+            "id": 28838375
+        },
+        {
+            "name": "Demons",
+            "artist": "Boyce Avenue",
+            "id": 28485819
+        },
+        {
+            "name": "Turnin'",
+            "artist": "Young Rising Sons",
+            "id": 28859948
+        },
+        {
+            "name": "This One (Crying Like A Child)",
+            "artist": "宇多田ヒカル",
+            "id": 666154
+        },
+        {
+            "name": "See You Again (Piano Demo Version)",
+            "artist": "Charlie Puth",
+            "id": 32009001
+        },
+        {
+            "name": "Hold Each Other",
+            "artist": "A Great Big World",
+            "id": 33705776
+        },
+        {
+            "name": "Skyscraper",
+            "artist": "Travis Ratledge",
+            "id": 2064079
+        },
+        {
+            "name": "Zombie",
+            "artist": "Jay Brannan",
+            "id": 18551721
+        },
+        {
+            "name": "I'm Not the Only One",
+            "artist": "MADILYN",
+            "id": 29825423
+        },
+        {
+            "name": "I'm Not the Only One",
+            "artist": "Jason Chen",
+            "id": 31587014
+        },
+        {
+            "name": "See You Again (Acoustic Version)",
+            "artist": "Tyler Ward",
+            "id": 31830411
+        },
+        {
+            "name": "I Need Your Love",
+            "artist": "MADILYN",
+            "id": 27560006
+        },
+        {
+            "name": "Beautiful",
+            "artist": "MADILYN",
+            "id": 27560015
+        },
+        {
+            "name": "When I Was Your Man",
+            "artist": "Sam Smith",
+            "id": 29544142
+        },
+        {
+            "name": "Once in a Lifetime",
+            "artist": "Landon Austin",
+            "id": 34229584
+        },
+        {
+            "name": "See You Again",
+            "artist": "Boyce Avenue",
+            "id": 33941662
+        },
+        {
+            "name": "Say Something",
+            "artist": "Jona Selle",
+            "id": 31719141
+        },
+        {
+            "name": "Rolling In The Deep",
+            "artist": "Hobbie Stuart",
+            "id": 34586749
+        },
+        {
+            "name": "Say Something",
+            "artist": "Chester See",
+            "id": 35407035
+        },
+        {
+            "name": "Beautiful In White (Demo)",
+            "artist": "Shane Filan",
+            "id": 2080139
+        },
+        {
+            "name": "You Took My Heart Away",
+            "artist": "Michael Learns To Rock",
+            "id": 5134067
+        },
+        {
+            "name": "Say Something",
+            "artist": "A Great Big World",
+            "id": 28208046
+        },
+        {
+            "name": "We Can't Stop",
+            "artist": "Boyce Avenue",
+            "id": 29480187
+        },
+        {
+            "name": "Slippin'",
+            "artist": "Taylor Thrash",
+            "id": 28592013
+        },
+        {
+            "name": "Wake Me Up (Glee Cast Version)",
+            "artist": "Lea Michele",
+            "id": 28798475
+        },
+        {
+            "name": "Demons",
+            "artist": "Sam Tsui",
+            "id": 28391049
+        },
+        {
+            "name": "Dark Horse",
+            "artist": "Alex Goot",
+            "id": 30706109
+        },
+        {
+            "name": "Say Something",
+            "artist": "Anthem Lights",
+            "id": 28681431
+        },
+        {
+            "name": "I Am You",
+            "artist": "Kim Taylor",
+            "id": 2919622
+        },
+        {
+            "name": "Cheap Hotel",
+            "artist": "Leon Else",
+            "id": 29561495
+        },
+        {
+            "name": "Marvin Gaye (feat. Meghan Trainor)",
+            "artist": "Charlie Puth",
+            "id": 30590170
+        },
+        {
+            "name": "Problem (Acoustic)",
+            "artist": "Tyler Ward",
+            "id": 29709786
+        },
+        {
+            "name": "Backstreet Boys Medley",
+            "artist": "Jason Chen",
+            "id": 34578307
+        }
+    ]
+}

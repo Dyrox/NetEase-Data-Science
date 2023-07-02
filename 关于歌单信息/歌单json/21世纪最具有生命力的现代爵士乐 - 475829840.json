@@ -1,0 +1,812 @@
+{
+    "playlist_info": {
+        "name": "21世纪最具有生命力的现代爵士乐",
+        "trackcount": 160,
+        "playcount": 604378,
+        "creator": "夕阳下的盛宴",
+        "createDate": "2016-10-01",
+        "heat": 245.0
+    },
+    "songs": [
+        {
+            "name": "Modern Music",
+            "artist": "Brad Mehldau",
+            "id": 16611302
+        },
+        {
+            "name": "Through the Looking Glass",
+            "artist": "邱之昊",
+            "id": 2055966204
+        },
+        {
+            "name": "大爵咒 - The Fusion Mantra",
+            "artist": "GeorgeJIANG",
+            "id": 1446306562
+        },
+        {
+            "name": "For Long Tomorrow",
+            "artist": "牛天宇 Daniel Niu",
+            "id": 1388083487
+        },
+        {
+            "name": "Change of the Guard",
+            "artist": "Kamasi Washington",
+            "id": 31876624
+        },
+        {
+            "name": "Maurice & Michael (sorry i didn't say hello) (Live)",
+            "artist": "Ambrose Akinmusire",
+            "id": 483156066
+        },
+        {
+            "name": "Godspelized",
+            "artist": "Matthew Shipp",
+            "id": 505104031
+        },
+        {
+            "name": "Mid-October Migration",
+            "artist": "Scott DuBois",
+            "id": 558090208
+        },
+        {
+            "name": "Story Table",
+            "artist": "David Ake",
+            "id": 28346817
+        },
+        {
+            "name": "Choctaw",
+            "artist": "Enrico Rava",
+            "id": 17535756
+        },
+        {
+            "name": "Mirage",
+            "artist": "Michel Reis",
+            "id": 26602703
+        },
+        {
+            "name": "As Usual",
+            "artist": "Satoko Fujii Quartet",
+            "id": 19092943
+        },
+        {
+            "name": "Strange Ways",
+            "artist": "Diego Pinera",
+            "id": 566968076
+        },
+        {
+            "name": "Portrait of a Man in a Late Nineteenth-Century Frame",
+            "artist": "Peripheral Vision",
+            "id": 548556462
+        },
+        {
+            "name": "Santa Ynez",
+            "artist": "Holophonor",
+            "id": 504870223
+        },
+        {
+            "name": "Book of Sighs",
+            "artist": "Mike Holober & Balancing Act",
+            "id": 562959011
+        },
+        {
+            "name": "Jambo",
+            "artist": "Fabian Almazan",
+            "id": 28396495
+        },
+        {
+            "name": "September 9th: Wayne Phases",
+            "artist": "The Claudia Quintet",
+            "id": 27778919
+        },
+        {
+            "name": "A Cosmic Rhythm With Each Stroke: Labyrinths",
+            "artist": "Vijay Iyer",
+            "id": 450553200
+        },
+        {
+            "name": "Stingray Shuffle",
+            "artist": "Tim Berne's Snakeoil",
+            "id": 501501228
+        },
+        {
+            "name": "Sowf (Substance of We Feeling)",
+            "artist": "The Angelica Sanchez Trio",
+            "id": 470573425
+        },
+        {
+            "name": "That's Blues, Right?",
+            "artist": "Tyshawn Sorey",
+            "id": 531784389
+        },
+        {
+            "name": "High Risk (feat. Shigeto, Jonathan Maron & Mark Guiliana)",
+            "artist": "Dave Douglas",
+            "id": 32835802
+        },
+        {
+            "name": "Oasis",
+            "artist": "Antonella Chionna",
+            "id": 507261446
+        },
+        {
+            "name": "Daylight Ghosts",
+            "artist": "Craig Taborn",
+            "id": 488019646
+        },
+        {
+            "name": "Not Sure",
+            "artist": "Tim Berne",
+            "id": 19266655
+        },
+        {
+            "name": "yellow are crowds of flowers, ii",
+            "artist": "Myra Melford",
+            "id": 17064240
+        },
+        {
+            "name": "Reverse Blue",
+            "artist": "Mary Halvorson",
+            "id": 29521760
+        },
+        {
+            "name": "Imaginary Cities (Pt. 4, Rebuilding)",
+            "artist": "Chris Potter",
+            "id": 487753912
+        },
+        {
+            "name": "Ain't Goin' out Like That",
+            "artist": "Steve Coleman",
+            "id": 507563056
+        },
+        {
+            "name": "Balkan Roundtrip",
+            "artist": "Dejan Terzic",
+            "id": 547453191
+        },
+        {
+            "name": "Blind Desert",
+            "artist": "Aki Rissanen",
+            "id": 565316984
+        },
+        {
+            "name": "A Picture Of Doris Travelling With Boris",
+            "artist": "Esbjörn Svensson Trio",
+            "id": 4053599
+        },
+        {
+            "name": "Just in Time",
+            "artist": "Tom Rainey",
+            "id": 28277350
+        },
+        {
+            "name": "Hangover",
+            "artist": "Christoph Irniger",
+            "id": 558849250
+        },
+        {
+            "name": "Malabar",
+            "artist": "Nolatet",
+            "id": 535377301
+        },
+        {
+            "name": "Politix",
+            "artist": "Enemy",
+            "id": 547566481
+        },
+        {
+            "name": "Major Hope",
+            "artist": "Gerald Clayton",
+            "id": 402549557
+        },
+        {
+            "name": "Red Velvet Bun / I Want You Back",
+            "artist": "Steve Davis",
+            "id": 537687767
+        },
+        {
+            "name": "Circle Mind",
+            "artist": "Joe Sanders",
+            "id": 1614225
+        },
+        {
+            "name": "Spy",
+            "artist": "Ben Allison",
+            "id": 561387663
+        },
+        {
+            "name": "Amian",
+            "artist": "Ben Wendel",
+            "id": 447281254
+        },
+        {
+            "name": "Lost On The Way",
+            "artist": "Louis Sclavis",
+            "id": 16392249
+        },
+        {
+            "name": "One False Move (Fo'tet)",
+            "artist": "Ralph Peterson",
+            "id": 3326264
+        },
+        {
+            "name": "More Light",
+            "artist": "Sandro Zerafa",
+            "id": 476598666
+        },
+        {
+            "name": "La castafiore",
+            "artist": "Sophie Alour",
+            "id": 19113457
+        },
+        {
+            "name": "Sediments",
+            "artist": "Jacob Anderskov",
+            "id": 530684961
+        },
+        {
+            "name": "Il confinato",
+            "artist": "Roberto Ottaviano",
+            "id": 28161144
+        },
+        {
+            "name": "State Of Flux",
+            "artist": "Denys Baptiste",
+            "id": 560972777
+        },
+        {
+            "name": "Cipres",
+            "artist": "Diego Barber",
+            "id": 28373789
+        },
+        {
+            "name": "Vashkar",
+            "artist": "Carla Bley",
+            "id": 27753046
+        },
+        {
+            "name": "Take My Life",
+            "artist": "Theo Bleckmann",
+            "id": 489041530
+        },
+        {
+            "name": "Incipit",
+            "artist": "Cappelletti, Ottaviano Quartet",
+            "id": 512757815
+        },
+        {
+            "name": "Play On Words",
+            "artist": "Rudy Royston",
+            "id": 28252907
+        },
+        {
+            "name": "Modern Enunciator",
+            "artist": "Carl Maguire's Floriculture",
+            "id": 555736787
+        },
+        {
+            "name": "El Segundo (Original Version)",
+            "artist": "Frank Carlberg",
+            "id": 505179545
+        },
+        {
+            "name": "Tanz des Tages",
+            "artist": "Julia Kadel Trio",
+            "id": 408212911
+        },
+        {
+            "name": "St. Cyr",
+            "artist": "Kris Davis",
+            "id": 26578530
+        },
+        {
+            "name": "Fernanda",
+            "artist": "Eyolf Dale",
+            "id": 531151318
+        },
+        {
+            "name": "A Night in Hong Kong",
+            "artist": "New Jungle Orchestra",
+            "id": 550287132
+        },
+        {
+            "name": "Not Withstanding",
+            "artist": "Mark Dresser",
+            "id": 30394873
+        },
+        {
+            "name": "Blues for Peace",
+            "artist": "Marty Ehrlich",
+            "id": 28001276
+        },
+        {
+            "name": "Fir",
+            "artist": "Jason Roebke",
+            "id": 561589814
+        },
+        {
+            "name": "To a Dream Pursuit",
+            "artist": "Tony Tixier",
+            "id": 444394709
+        },
+        {
+            "name": "Bellsonian Scales",
+            "artist": "Empirical",
+            "id": 27742596
+        },
+        {
+            "name": "Tiny Expanding Universe",
+            "artist": "Peter Epstein Quartet",
+            "id": 28675747
+        },
+        {
+            "name": "Descargando",
+            "artist": "New Cuban Express",
+            "id": 569123946
+        },
+        {
+            "name": "Solitary Confinement",
+            "artist": "Cuong Vu",
+            "id": 2381375
+        },
+        {
+            "name": "Museum Piece",
+            "artist": "Jim Black",
+            "id": 562817738
+        },
+        {
+            "name": "Stae",
+            "artist": "Claudio Fasoli",
+            "id": 499665557
+        },
+        {
+            "name": "Circus",
+            "artist": "Jonathan Finlayson",
+            "id": 26560023
+        },
+        {
+            "name": "The New Electric",
+            "artist": "Michael Formanek",
+            "id": 29540899
+        },
+        {
+            "name": "Recurring Dreams",
+            "artist": "John Hollenbeck",
+            "id": 28244060
+        },
+        {
+            "name": "Howling Circle",
+            "artist": "Erik Friedlander",
+            "id": 542646059
+        },
+        {
+            "name": "Polari",
+            "artist": "Elliot Galvin Trio",
+            "id": 549876310
+        },
+        {
+            "name": "Father of Spectralism",
+            "artist": "Leo Genovese",
+            "id": 27750663
+        },
+        {
+            "name": "Chachmiel",
+            "artist": "Ben Goldberg",
+            "id": 1132137
+        },
+        {
+            "name": "Peace Treaty/Peace Warriors",
+            "artist": "Giovanni Guidi",
+            "id": 1397067
+        },
+        {
+            "name": "Rosalia",
+            "artist": "Barry Guy",
+            "id": 1129099
+        },
+        {
+            "name": "Arfia",
+            "artist": "Daniel Humair",
+            "id": 563783853
+        },
+        {
+            "name": "Lament",
+            "artist": "Pablo Held Trio",
+            "id": 446792314
+        },
+        {
+            "name": "Danse De La Fureur, Pour Les Sept Trompettes",
+            "artist": "idée manu",
+            "id": 561992161
+        },
+        {
+            "name": "Ambivalsante",
+            "artist": "Kari Ikonen Trio",
+            "id": 27719903
+        },
+        {
+            "name": "Potofen",
+            "artist": "Emile Parisien Quartet",
+            "id": 29569390
+        },
+        {
+            "name": "States of Matter",
+            "artist": "Jon Irabagon",
+            "id": 26200108
+        },
+        {
+            "name": "Eff-Time",
+            "artist": "Keefe Jackson",
+            "id": 1643081
+        },
+        {
+            "name": "Coda (Resist)",
+            "artist": "Michael Jefry Stevens / Dominic Duval Quintet",
+            "id": 532066546
+        },
+        {
+            "name": "This Far (And Further)",
+            "artist": "Maria Kannegaard",
+            "id": 472851419
+        },
+        {
+            "name": "Sticks and Stones",
+            "artist": "Darrell Katz",
+            "id": 561477801
+        },
+        {
+            "name": "Tornado",
+            "artist": "Kaze",
+            "id": 27943582
+        },
+        {
+            "name": "Squeeze",
+            "artist": "Will Vinson",
+            "id": 26411932
+        },
+        {
+            "name": "Luminism",
+            "artist": "Frank Woeste",
+            "id": 514162119
+        },
+        {
+            "name": "Lil' Darlin'",
+            "artist": "McCoy Tyner",
+            "id": 565874678
+        },
+        {
+            "name": "Match",
+            "artist": "Kirk Knuffke",
+            "id": 27891023
+        },
+        {
+            "name": "Dolphy",
+            "artist": "Adam Kolker",
+            "id": 552991997
+        },
+        {
+            "name": "You Name It",
+            "artist": "Olga Konkova",
+            "id": 535426709
+        },
+        {
+            "name": "La Tristeza De Ma",
+            "artist": "Marta Sánchez Trio",
+            "id": 559182109
+        },
+        {
+            "name": "The Freedom Is There (Instrumental)",
+            "artist": "Joachim Kühn",
+            "id": 473003147
+        },
+        {
+            "name": "Várias Danças",
+            "artist": "Mário Laginha",
+            "id": 532172183
+        },
+        {
+            "name": "Night Will Fall",
+            "artist": "Robert Landfermann",
+            "id": 490973793
+        },
+        {
+            "name": "Hannah's Song",
+            "artist": "Ingrid Laubrock",
+            "id": 530200133
+        },
+        {
+            "name": "Out On a Limb",
+            "artist": "Peggy Lee",
+            "id": 572282051
+        },
+        {
+            "name": "A Gathering of Souls",
+            "artist": "James Brandon Lewis",
+            "id": 28374071
+        },
+        {
+            "name": "Bop About",
+            "artist": "Fredrik Ljungkvist Quartet",
+            "id": 465878123
+        },
+        {
+            "name": "Japanish Flower",
+            "artist": "Ramon Lopez / Flowers Trio / Sophia Domancich / Joëlle Leandre",
+            "id": 566171813
+        },
+        {
+            "name": "Julia",
+            "artist": "Jesper Lovdal",
+            "id": 530331799
+        },
+        {
+            "name": "AC Ultra Art - Luca!",
+            "artist": "Luca Sisera Roofer",
+            "id": 530959718
+        },
+        {
+            "name": "Floating Head",
+            "artist": "Tony Malaby",
+            "id": 32737552
+        },
+        {
+            "name": "Fanfares - collective",
+            "artist": "Andy Manndorff",
+            "id": 472974050
+        },
+        {
+            "name": "Fin",
+            "artist": "Phil Meadows Group",
+            "id": 524280336
+        },
+        {
+            "name": "High Priest",
+            "artist": "Tiziano Tononi",
+            "id": 505095850
+        },
+        {
+            "name": "Rising",
+            "artist": "Tobias Meinhart",
+            "id": 564114098
+        },
+        {
+            "name": "Trembling of the Puppy",
+            "artist": "Mezei Szilárd Trio",
+            "id": 557700138
+        },
+        {
+            "name": "Cheyenne",
+            "artist": "Allison Miller",
+            "id": 2146116
+        },
+        {
+            "name": "Zeybekiko for the Brave",
+            "artist": "Guy Mintus Trio",
+            "id": 562848960
+        },
+        {
+            "name": "Action Field",
+            "artist": "Matt Mitchell",
+            "id": 27865140
+        },
+        {
+            "name": "The Manifesto.",
+            "artist": "Robert Mitchell",
+            "id": 563134934
+        },
+        {
+            "name": "Drainlick",
+            "artist": "Mostly Other People Do the Killing",
+            "id": 17278317
+        },
+        {
+            "name": "Vamp Vitale",
+            "artist": "Simon Nabatov",
+            "id": 34557960
+        },
+        {
+            "name": "Satin Doll",
+            "artist": "Gene Jackson",
+            "id": 564639465
+        },
+        {
+            "name": "Kudzu",
+            "artist": "Miles Okazaki",
+            "id": 467805818
+        },
+        {
+            "name": "Schiaffo",
+            "artist": "Stephan Oliva",
+            "id": 488626396
+        },
+        {
+            "name": "Change",
+            "artist": "Jeff Parker",
+            "id": 1563968
+        },
+        {
+            "name": "Gloria's Step",
+            "artist": "Gary Peacock",
+            "id": 489041183
+        },
+        {
+            "name": "A Forest",
+            "artist": "Pierrick Pédron",
+            "id": 28701892
+        },
+        {
+            "name": "Bell Clear",
+            "artist": "Jeff Platz",
+            "id": 26569422
+        },
+        {
+            "name": "Whirl",
+            "artist": "RGG",
+            "id": 506432398
+        },
+        {
+            "name": "Beak Lunch Manifesto",
+            "artist": "Marc Ribot",
+            "id": 21123325
+        },
+        {
+            "name": "Formerly",
+            "artist": "Howard Riley",
+            "id": 27931745
+        },
+        {
+            "name": "Cahutchuca",
+            "artist": "Yves Robert Trio",
+            "id": 553706475
+        },
+        {
+            "name": "Mule",
+            "artist": "Sam Sadigursky",
+            "id": 552463182
+        },
+        {
+            "name": "Trevor's Luffa Complex",
+            "artist": "Kris Davis",
+            "id": 26306482
+        },
+        {
+            "name": "North End",
+            "artist": "Francis Drake",
+            "id": 568206428
+        },
+        {
+            "name": "Arfvedsonite",
+            "artist": "Wadada Leo Smith",
+            "id": 29425537
+        },
+        {
+            "name": "From a to B to Infinity",
+            "artist": "Loz Speyer",
+            "id": 564095068
+        },
+        {
+            "name": "El jardín",
+            "artist": "Paula Shocron",
+            "id": 561637531
+        },
+        {
+            "name": "Barysjnikov",
+            "artist": "Emil Strandberg",
+            "id": 540259355
+        },
+        {
+            "name": "Wednesday",
+            "artist": "Thomas Strønen",
+            "id": 531672349
+        },
+        {
+            "name": "Garissa",
+            "artist": "Félix Stüssi",
+            "id": 565116030
+        },
+        {
+            "name": "Buzzard's Breath",
+            "artist": "Thumbscrew",
+            "id": 28646782
+        },
+        {
+            "name": "Prophet's Path",
+            "artist": "Trio 3",
+            "id": 563994237
+        },
+        {
+            "name": "Disparietto / Siparietto",
+            "artist": "Gianluigi Trovesi",
+            "id": 1386209
+        },
+        {
+            "name": "Iggy's Secret",
+            "artist": "Roland Fidezius",
+            "id": 569294968
+        },
+        {
+            "name": "Sica",
+            "artist": "Greg Ward",
+            "id": 566162562
+        },
+        {
+            "name": "You & You",
+            "artist": "Lisbeth Quartett",
+            "id": 555024880
+        },
+        {
+            "name": "To Don't List",
+            "artist": "Nils Wogram",
+            "id": 559342270
+        },
+        {
+            "name": "G (Groove)",
+            "artist": "Zeitgeist Chamber Orchestra",
+            "id": 566630627
+        },
+        {
+            "name": "You and the Night and the Music",
+            "artist": "Denny Zeitlin",
+            "id": 562350119
+        },
+        {
+            "name": "Identities Are Changeable",
+            "artist": "Miguel Zenón",
+            "id": 41658837
+        },
+        {
+            "name": "Reflection",
+            "artist": "Billy Bang",
+            "id": 408507348
+        },
+        {
+            "name": "In Pursuit of Pleasure",
+            "artist": "Joe Morris",
+            "id": 565034706
+        },
+        {
+            "name": "Smooth",
+            "artist": "Andrew Hill",
+            "id": 22405833
+        },
+        {
+            "name": "Composition No. 147",
+            "artist": "Anthony Braxton",
+            "id": 551228004
+        },
+        {
+            "name": "Isn't It Over?",
+            "artist": "Ches Smith",
+            "id": 404543736
+        },
+        {
+            "name": "Fletch Pot",
+            "artist": "Mark Fletcher",
+            "id": 530925398
+        },
+        {
+            "name": "I'll Play The Blues For You",
+            "artist": "Jason Moran",
+            "id": 18572446
+        },
+        {
+            "name": "The Court Jester",
+            "artist": "Tigran Hamasyan",
+            "id": 27661266
+        },
+        {
+            "name": "Syndrome - Narrow Window",
+            "artist": "Uwe Oberg",
+            "id": 566830353
+        },
+        {
+            "name": "No Time Soon",
+            "artist": "Mark O'Leary",
+            "id": 562792198
+        },
+        {
+            "name": "New Viper Dance",
+            "artist": "Max Nagl",
+            "id": 556846549
+        }
+    ]
+}

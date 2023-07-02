@@ -1,0 +1,932 @@
+{
+    "playlist_info": {
+        "name": "『百词斩』英语四级高频单词",
+        "trackcount": 184,
+        "playcount": 626605,
+        "creator": "醉楫",
+        "createDate": "2018-08-05",
+        "heat": 349.0
+    },
+    "songs": [
+        {
+            "name": "第一周 Lesson1 Group1",
+            "artist": "英语听力",
+            "id": 28509176
+        },
+        {
+            "name": "第一周 Lesson1 Group2",
+            "artist": "英语听力",
+            "id": 28509177
+        },
+        {
+            "name": "第一周 Lesson1 Group3",
+            "artist": "英语听力",
+            "id": 28509178
+        },
+        {
+            "name": "第一周 Lesson1 Group4",
+            "artist": "英语听力",
+            "id": 28509179
+        },
+        {
+            "name": "第一周 Lesson2 Group1",
+            "artist": "英语听力",
+            "id": 28509180
+        },
+        {
+            "name": "第一周 Lesson2 Group2",
+            "artist": "英语听力",
+            "id": 28509181
+        },
+        {
+            "name": "第一周 Lesson2 Group3",
+            "artist": "英语听力",
+            "id": 28509182
+        },
+        {
+            "name": "第一周 Lesson2 Group4",
+            "artist": "英语听力",
+            "id": 28509183
+        },
+        {
+            "name": "第一周 Lesson3 Group1",
+            "artist": "英语听力",
+            "id": 28509184
+        },
+        {
+            "name": "第一周 Lesson3 Group2",
+            "artist": "英语听力",
+            "id": 28509185
+        },
+        {
+            "name": "第一周 Lesson3 Group3",
+            "artist": "英语听力",
+            "id": 28509186
+        },
+        {
+            "name": "第一周 Lesson3 Group4",
+            "artist": "英语听力",
+            "id": 28509187
+        },
+        {
+            "name": "第一周 Lesson4 Group1",
+            "artist": "英语听力",
+            "id": 28509188
+        },
+        {
+            "name": "第一周 Lesson4 Group2",
+            "artist": "英语听力",
+            "id": 28509189
+        },
+        {
+            "name": "第一周 Lesson4 Group3",
+            "artist": "英语听力",
+            "id": 28509190
+        },
+        {
+            "name": "第一周 Lesson4 Group4",
+            "artist": "英语听力",
+            "id": 28509191
+        },
+        {
+            "name": "第一周 Lesson5 Group1",
+            "artist": "英语听力",
+            "id": 28509192
+        },
+        {
+            "name": "第一周 Lesson5 Group2",
+            "artist": "英语听力",
+            "id": 28509193
+        },
+        {
+            "name": "第一周 Lesson5 Group3",
+            "artist": "英语听力",
+            "id": 28509194
+        },
+        {
+            "name": "第一周 Lesson5 Group4",
+            "artist": "英语听力",
+            "id": 28509195
+        },
+        {
+            "name": "第二周 Lesson6 Group1",
+            "artist": "英语听力",
+            "id": 28509264
+        },
+        {
+            "name": "第二周 Lesson6 Group2",
+            "artist": "英语听力",
+            "id": 28509265
+        },
+        {
+            "name": "第二周 Lesson6 Group4",
+            "artist": "英语听力",
+            "id": 28509267
+        },
+        {
+            "name": "第二周 Lesson7 Group1",
+            "artist": "英语听力",
+            "id": 28509268
+        },
+        {
+            "name": "第二周 Lesson7 Group2",
+            "artist": "英语听力",
+            "id": 28509269
+        },
+        {
+            "name": "第二周 Lesson7 Group3",
+            "artist": "英语听力",
+            "id": 28509270
+        },
+        {
+            "name": "第二周 Lesson7 Group4",
+            "artist": "英语听力",
+            "id": 28509271
+        },
+        {
+            "name": "第二周 Lesson8 Group1",
+            "artist": "英语听力",
+            "id": 28509272
+        },
+        {
+            "name": "第二周 Lesson8 Group2",
+            "artist": "英语听力",
+            "id": 28509273
+        },
+        {
+            "name": "第二周 Lesson8 Group3",
+            "artist": "英语听力",
+            "id": 28509274
+        },
+        {
+            "name": "第二周 Lesson8 Group4",
+            "artist": "英语听力",
+            "id": 28509275
+        },
+        {
+            "name": "第二周 Lesson9 Group1",
+            "artist": "英语听力",
+            "id": 28509276
+        },
+        {
+            "name": "第二周 Lesson9 Group2",
+            "artist": "英语听力",
+            "id": 28509277
+        },
+        {
+            "name": "第二周 Lesson9 Group3",
+            "artist": "英语听力",
+            "id": 28509278
+        },
+        {
+            "name": "第二周 Lesson9 Group4",
+            "artist": "英语听力",
+            "id": 28509279
+        },
+        {
+            "name": "第二周 Lesson10 Group1",
+            "artist": "英语听力",
+            "id": 28509260
+        },
+        {
+            "name": "第二周 Lesson10 Group2",
+            "artist": "英语听力",
+            "id": 28509261
+        },
+        {
+            "name": "第二周 Lesson10 Group3",
+            "artist": "英语听力",
+            "id": 28509262
+        },
+        {
+            "name": "第二周 Lesson10 Group4",
+            "artist": "英语听力",
+            "id": 28509263
+        },
+        {
+            "name": "第三周 Lesson11 Group1",
+            "artist": "英语听力",
+            "id": 28509240
+        },
+        {
+            "name": "第三周 Lesson11 Group2",
+            "artist": "英语听力",
+            "id": 28509241
+        },
+        {
+            "name": "第三周 Lesson11 Group3",
+            "artist": "英语听力",
+            "id": 28509242
+        },
+        {
+            "name": "第三周 Lesson11 Group4",
+            "artist": "英语听力",
+            "id": 28509243
+        },
+        {
+            "name": "第三周 Lesson12 Group1",
+            "artist": "英语听力",
+            "id": 28509244
+        },
+        {
+            "name": "第三周 Lesson12 Group2",
+            "artist": "英语听力",
+            "id": 28509245
+        },
+        {
+            "name": "第三周 Lesson12 Group3",
+            "artist": "英语听力",
+            "id": 28509246
+        },
+        {
+            "name": "第三周 Lesson12 Group4",
+            "artist": "英语听力",
+            "id": 28509247
+        },
+        {
+            "name": "第三周 Lesson13 Group1",
+            "artist": "英语听力",
+            "id": 28509248
+        },
+        {
+            "name": "第三周 Lesson13 Group2",
+            "artist": "英语听力",
+            "id": 28509249
+        },
+        {
+            "name": "第三周 Lesson13 Group3",
+            "artist": "英语听力",
+            "id": 28509250
+        },
+        {
+            "name": "第三周 Lesson13 Group4",
+            "artist": "英语听力",
+            "id": 28509251
+        },
+        {
+            "name": "第三周 Lesson14 Group1",
+            "artist": "英语听力",
+            "id": 28509252
+        },
+        {
+            "name": "第三周 Lesson14 Group2",
+            "artist": "英语听力",
+            "id": 28509253
+        },
+        {
+            "name": "第三周 Lesson14 Group3",
+            "artist": "英语听力",
+            "id": 28509254
+        },
+        {
+            "name": "第三周 Lesson14 Group4",
+            "artist": "英语听力",
+            "id": 28509255
+        },
+        {
+            "name": "第三周 Lesson15 Group1",
+            "artist": "英语听力",
+            "id": 28509256
+        },
+        {
+            "name": "第三周 Lesson15 Group2",
+            "artist": "英语听力",
+            "id": 28509257
+        },
+        {
+            "name": "第三周 Lesson15 Group3",
+            "artist": "英语听力",
+            "id": 28509258
+        },
+        {
+            "name": "第三周 Lesson15 Group4",
+            "artist": "英语听力",
+            "id": 28509259
+        },
+        {
+            "name": "第四周 Lesson16 Group1",
+            "artist": "英语听力",
+            "id": 28509340
+        },
+        {
+            "name": "第四周 Lesson16 Group2",
+            "artist": "英语听力",
+            "id": 28509341
+        },
+        {
+            "name": "第四周 Lesson16 Group3",
+            "artist": "英语听力",
+            "id": 28509342
+        },
+        {
+            "name": "第四周 Lesson16 Group4",
+            "artist": "英语听力",
+            "id": 28509343
+        },
+        {
+            "name": "第四周 Lesson17 Group1",
+            "artist": "英语听力",
+            "id": 28509344
+        },
+        {
+            "name": "第四周 Lesson17 Group2",
+            "artist": "英语听力",
+            "id": 28509345
+        },
+        {
+            "name": "第四周 Lesson17 Group3",
+            "artist": "英语听力",
+            "id": 28509346
+        },
+        {
+            "name": "第四周 Lesson17 Group4",
+            "artist": "英语听力",
+            "id": 28509347
+        },
+        {
+            "name": "第四周 Lesson18 Group1",
+            "artist": "英语听力",
+            "id": 28509348
+        },
+        {
+            "name": "第四周 Lesson18 Group2",
+            "artist": "英语听力",
+            "id": 28509349
+        },
+        {
+            "name": "第四周 Lesson18 Group3",
+            "artist": "英语听力",
+            "id": 28509350
+        },
+        {
+            "name": "第四周 Lesson18 Group4",
+            "artist": "英语听力",
+            "id": 28509351
+        },
+        {
+            "name": "第四周 Lesson19 Group1",
+            "artist": "英语听力",
+            "id": 28509352
+        },
+        {
+            "name": "第四周 Lesson19 Group2",
+            "artist": "英语听力",
+            "id": 28509353
+        },
+        {
+            "name": "第四周 Lesson19 Group3",
+            "artist": "英语听力",
+            "id": 28509354
+        },
+        {
+            "name": "第四周 Lesson19 Group4",
+            "artist": "英语听力",
+            "id": 28509355
+        },
+        {
+            "name": "第四周 Lesson20 Group1",
+            "artist": "英语听力",
+            "id": 28509356
+        },
+        {
+            "name": "第四周 Lesson20 Group2",
+            "artist": "英语听力",
+            "id": 28509357
+        },
+        {
+            "name": "第四周 Lesson20 Group3",
+            "artist": "英语听力",
+            "id": 28509358
+        },
+        {
+            "name": "第四周 Lesson20 Group4",
+            "artist": "英语听力",
+            "id": 28509359
+        },
+        {
+            "name": "第五周 Lesson21 Group1",
+            "artist": "英语听力",
+            "id": 28509280
+        },
+        {
+            "name": "第五周 Lesson21 Group2",
+            "artist": "英语听力",
+            "id": 28509281
+        },
+        {
+            "name": "第五周 Lesson21 Group3",
+            "artist": "英语听力",
+            "id": 28509282
+        },
+        {
+            "name": "第五周 Lesson21 Group4",
+            "artist": "英语听力",
+            "id": 28509283
+        },
+        {
+            "name": "第五周 Lesson22 Group1",
+            "artist": "英语听力",
+            "id": 28509284
+        },
+        {
+            "name": "第五周 Lesson22 Group2",
+            "artist": "英语听力",
+            "id": 28509285
+        },
+        {
+            "name": "第五周 Lesson22 Group3",
+            "artist": "英语听力",
+            "id": 28509286
+        },
+        {
+            "name": "第五周 Lesson22 Group4",
+            "artist": "英语听力",
+            "id": 28509287
+        },
+        {
+            "name": "第五周 Lesson23 Group1",
+            "artist": "英语听力",
+            "id": 28509288
+        },
+        {
+            "name": "第五周 Lesson23 Group2",
+            "artist": "英语听力",
+            "id": 28509289
+        },
+        {
+            "name": "第五周 Lesson23 Group3",
+            "artist": "英语听力",
+            "id": 28509290
+        },
+        {
+            "name": "第五周 Lesson23 Group4",
+            "artist": "英语听力",
+            "id": 28509291
+        },
+        {
+            "name": "第五周 Lesson24 Group1",
+            "artist": "英语听力",
+            "id": 28509292
+        },
+        {
+            "name": "第五周 Lesson24 Group2",
+            "artist": "英语听力",
+            "id": 28509293
+        },
+        {
+            "name": "第五周 Lesson24 Group3",
+            "artist": "英语听力",
+            "id": 28509294
+        },
+        {
+            "name": "第五周 Lesson24 Group4",
+            "artist": "英语听力",
+            "id": 28509295
+        },
+        {
+            "name": "第五周 Lesson25 Group1",
+            "artist": "英语听力",
+            "id": 28509296
+        },
+        {
+            "name": "第五周 Lesson25 Group2",
+            "artist": "英语听力",
+            "id": 28509297
+        },
+        {
+            "name": "第五周 Lesson25 Group3",
+            "artist": "英语听力",
+            "id": 28509298
+        },
+        {
+            "name": "第五周 Lesson25 Group4",
+            "artist": "英语听力",
+            "id": 28509299
+        },
+        {
+            "name": "第六周 Lesson26 Group1",
+            "artist": "英语听力",
+            "id": 28509300
+        },
+        {
+            "name": "第六周 Lesson26 Group2",
+            "artist": "英语听力",
+            "id": 28509301
+        },
+        {
+            "name": "第六周 Lesson26 Group3",
+            "artist": "英语听力",
+            "id": 28509302
+        },
+        {
+            "name": "第六周 Lesson26 Group4",
+            "artist": "英语听力",
+            "id": 28509303
+        },
+        {
+            "name": "第六周 Lesson26 Group5",
+            "artist": "英语听力",
+            "id": 28509304
+        },
+        {
+            "name": "第六周 Lesson26 Group6",
+            "artist": "英语听力",
+            "id": 28509305
+        },
+        {
+            "name": "第六周 Lesson26 Group7",
+            "artist": "英语听力",
+            "id": 28509306
+        },
+        {
+            "name": "第六周 Lesson26 Group8",
+            "artist": "英语听力",
+            "id": 28509307
+        },
+        {
+            "name": "第六周 Lesson27 Group1",
+            "artist": "英语听力",
+            "id": 28509308
+        },
+        {
+            "name": "第六周 Lesson27 Group2",
+            "artist": "英语听力",
+            "id": 28509309
+        },
+        {
+            "name": "第六周 Lesson27 Group3",
+            "artist": "英语听力",
+            "id": 28509310
+        },
+        {
+            "name": "第六周 Lesson27 Group4",
+            "artist": "英语听力",
+            "id": 28509311
+        },
+        {
+            "name": "第六周 Lesson27 Group5",
+            "artist": "英语听力",
+            "id": 28509312
+        },
+        {
+            "name": "第六周 Lesson27 Group6",
+            "artist": "英语听力",
+            "id": 28509313
+        },
+        {
+            "name": "第六周 Lesson27 Group7",
+            "artist": "英语听力",
+            "id": 28509314
+        },
+        {
+            "name": "第六周 Lesson27 Group8",
+            "artist": "英语听力",
+            "id": 28509315
+        },
+        {
+            "name": "第六周 Lesson28 Group1",
+            "artist": "英语听力",
+            "id": 28509316
+        },
+        {
+            "name": "第六周 Lesson28 Group2",
+            "artist": "英语听力",
+            "id": 28509317
+        },
+        {
+            "name": "第六周 Lesson28 Group3",
+            "artist": "英语听力",
+            "id": 28509318
+        },
+        {
+            "name": "第六周 Lesson28 Group4",
+            "artist": "英语听力",
+            "id": 28509319
+        },
+        {
+            "name": "第六周 Lesson28 Group5",
+            "artist": "英语听力",
+            "id": 28509320
+        },
+        {
+            "name": "第六周 Lesson28 Group6",
+            "artist": "英语听力",
+            "id": 28509321
+        },
+        {
+            "name": "第六周 Lesson28 Group7",
+            "artist": "英语听力",
+            "id": 28509322
+        },
+        {
+            "name": "第六周 Lesson28 Group8",
+            "artist": "英语听力",
+            "id": 28509323
+        },
+        {
+            "name": "第六周 Lesson29 Group1",
+            "artist": "英语听力",
+            "id": 28509324
+        },
+        {
+            "name": "第六周 Lesson29 Group2",
+            "artist": "英语听力",
+            "id": 28509325
+        },
+        {
+            "name": "第六周 Lesson29 Group3",
+            "artist": "英语听力",
+            "id": 28509326
+        },
+        {
+            "name": "第六周 Lesson29 Group4",
+            "artist": "英语听力",
+            "id": 28509327
+        },
+        {
+            "name": "第六周 Lesson29 Group5",
+            "artist": "英语听力",
+            "id": 28509328
+        },
+        {
+            "name": "第六周 Lesson29 Group6",
+            "artist": "英语听力",
+            "id": 28509329
+        },
+        {
+            "name": "第六周 Lesson29 Group7",
+            "artist": "英语听力",
+            "id": 28509330
+        },
+        {
+            "name": "第六周 Lesson29 Group8",
+            "artist": "英语听力",
+            "id": 28509331
+        },
+        {
+            "name": "第六周 Lesson30 Group1",
+            "artist": "英语听力",
+            "id": 28509332
+        },
+        {
+            "name": "第六周 Lesson30 Group2",
+            "artist": "英语听力",
+            "id": 28509333
+        },
+        {
+            "name": "第六周 Lesson30 Group3",
+            "artist": "英语听力",
+            "id": 28509334
+        },
+        {
+            "name": "第六周 Lesson30 Group4",
+            "artist": "英语听力",
+            "id": 28509335
+        },
+        {
+            "name": "第六周 Lesson30 Group5",
+            "artist": "英语听力",
+            "id": 28509336
+        },
+        {
+            "name": "第六周 Lesson30 Group6",
+            "artist": "英语听力",
+            "id": 28509337
+        },
+        {
+            "name": "第六周 Lesson30 Group7",
+            "artist": "英语听力",
+            "id": 28509338
+        },
+        {
+            "name": "第六周 Lesson30 Group8",
+            "artist": "英语听力",
+            "id": 28509339
+        },
+        {
+            "name": "第七周 Lesson31 Group1",
+            "artist": "英语听力",
+            "id": 28509096
+        },
+        {
+            "name": "第七周 Lesson31 Group2",
+            "artist": "英语听力",
+            "id": 28509097
+        },
+        {
+            "name": "第七周 Lesson31 Group3",
+            "artist": "英语听力",
+            "id": 28509098
+        },
+        {
+            "name": "第七周 Lesson31 Group5",
+            "artist": "英语听力",
+            "id": 28509100
+        },
+        {
+            "name": "第七周 Lesson31 Group6",
+            "artist": "英语听力",
+            "id": 28509101
+        },
+        {
+            "name": "第七周 Lesson31 Group7",
+            "artist": "英语听力",
+            "id": 28509102
+        },
+        {
+            "name": "第七周 Lesson31 Group8",
+            "artist": "英语听力",
+            "id": 28509103
+        },
+        {
+            "name": "第七周 Lesson32 Group1",
+            "artist": "英语听力",
+            "id": 28509104
+        },
+        {
+            "name": "第七周 Lesson32 Group2",
+            "artist": "英语听力",
+            "id": 28509105
+        },
+        {
+            "name": "第七周 Lesson32 Group3",
+            "artist": "英语听力",
+            "id": 28509106
+        },
+        {
+            "name": "第七周 Lesson32 Group4",
+            "artist": "英语听力",
+            "id": 28509107
+        },
+        {
+            "name": "第七周 Lesson32 Group5",
+            "artist": "英语听力",
+            "id": 28509108
+        },
+        {
+            "name": "第七周 Lesson32 Group6",
+            "artist": "英语听力",
+            "id": 28509109
+        },
+        {
+            "name": "第七周 Lesson32 Group7",
+            "artist": "英语听力",
+            "id": 28509110
+        },
+        {
+            "name": "第七周 Lesson32 Group8",
+            "artist": "英语听力",
+            "id": 28509111
+        },
+        {
+            "name": "第七周 Lesson33 Group1",
+            "artist": "英语听力",
+            "id": 28509112
+        },
+        {
+            "name": "第七周 Lesson33 Group2",
+            "artist": "英语听力",
+            "id": 28509113
+        },
+        {
+            "name": "第七周 Lesson33 Group3",
+            "artist": "英语听力",
+            "id": 28509114
+        },
+        {
+            "name": "第七周 Lesson33 Group4",
+            "artist": "英语听力",
+            "id": 28509115
+        },
+        {
+            "name": "第七周 Lesson33 Group5",
+            "artist": "英语听力",
+            "id": 28509116
+        },
+        {
+            "name": "第七周 Lesson33 Group6",
+            "artist": "英语听力",
+            "id": 28509117
+        },
+        {
+            "name": "第七周 Lesson33 Group7",
+            "artist": "英语听力",
+            "id": 28509118
+        },
+        {
+            "name": "第七周 Lesson33 Group8",
+            "artist": "英语听力",
+            "id": 28509119
+        },
+        {
+            "name": "第七周 Lesson34 Group1",
+            "artist": "英语听力",
+            "id": 28509120
+        },
+        {
+            "name": "第七周 Lesson34 Group10",
+            "artist": "英语听力",
+            "id": 28509121
+        },
+        {
+            "name": "第七周 Lesson34 Group2",
+            "artist": "英语听力",
+            "id": 28509122
+        },
+        {
+            "name": "第七周 Lesson34 Group3",
+            "artist": "英语听力",
+            "id": 28509123
+        },
+        {
+            "name": "第七周 Lesson34 Group4",
+            "artist": "英语听力",
+            "id": 28509124
+        },
+        {
+            "name": "第七周 Lesson34 Group5",
+            "artist": "英语听力",
+            "id": 28509125
+        },
+        {
+            "name": "第七周 Lesson34 Group6",
+            "artist": "英语听力",
+            "id": 28509126
+        },
+        {
+            "name": "第七周 Lesson34 Group7",
+            "artist": "英语听力",
+            "id": 28509127
+        },
+        {
+            "name": "第七周 Lesson34 Group8",
+            "artist": "英语听力",
+            "id": 28509128
+        },
+        {
+            "name": "第七周 Lesson34 Group9",
+            "artist": "英语听力",
+            "id": 28509129
+        },
+        {
+            "name": "第七周 Lesson35 Group1",
+            "artist": "英语听力",
+            "id": 28509130
+        },
+        {
+            "name": "第七周 Lesson35 Group10",
+            "artist": "英语听力",
+            "id": 28509131
+        },
+        {
+            "name": "第七周 Lesson35 Group2",
+            "artist": "英语听力",
+            "id": 28509132
+        },
+        {
+            "name": "第七周 Lesson35 Group3",
+            "artist": "英语听力",
+            "id": 28509133
+        },
+        {
+            "name": "第七周 Lesson35 Group4",
+            "artist": "英语听力",
+            "id": 28509134
+        },
+        {
+            "name": "第七周 Lesson35 Group5",
+            "artist": "英语听力",
+            "id": 28509135
+        },
+        {
+            "name": "第七周 Lesson35 Group6",
+            "artist": "英语听力",
+            "id": 28509136
+        },
+        {
+            "name": "第七周 Lesson35 Group7",
+            "artist": "英语听力",
+            "id": 28509137
+        },
+        {
+            "name": "第七周 Lesson35 Group8",
+            "artist": "英语听力",
+            "id": 28509138
+        },
+        {
+            "name": "第七周 Lesson35 Group9",
+            "artist": "英语听力",
+            "id": 28509139
+        },
+        {
+            "name": "第七周 Lesson35 Group10",
+            "artist": "英语听力",
+            "id": 28509231
+        },
+        {
+            "name": "六级词汇:联想记忆法(乱序版)1-1",
+            "artist": "英语听力",
+            "id": 28507456
+        }
+    ]
+}

@@ -1,0 +1,507 @@
+{
+    "playlist_info": {
+        "name": "不如\"乐\"读——适合读书时听的古典音乐",
+        "trackcount": 99,
+        "playcount": 5080626,
+        "creator": "团战专用小火把",
+        "createDate": "2018-04-20",
+        "heat": 2674.0
+    },
+    "songs": [
+        {
+            "name": "夜曲，作品15，G小调，第三号",
+            "artist": "傅聪",
+            "id": 82134
+        },
+        {
+            "name": "Piano Sonata No.13 In A, D.664:1. Allegro moderato",
+            "artist": "Wilhelm Kempff",
+            "id": 33480276
+        },
+        {
+            "name": "Piano Concerto No.20 in D minor, K.466:2. Romance",
+            "artist": "内田光子",
+            "id": 35445812
+        },
+        {
+            "name": "Piano Concerto No.21 in C Major K.467:2. Andante",
+            "artist": "Philharmonia Orchestra",
+            "id": 25294996
+        },
+        {
+            "name": "Piano Concerto No. 2 in F Major, Op. 102:II. Andante",
+            "artist": "André Cluytens",
+            "id": 22485961
+        },
+        {
+            "name": "Piano Concerto:I. Andante con moto",
+            "artist": "Waldemar Malicki",
+            "id": 465203156
+        },
+        {
+            "name": "Suite for Cello Solo No.1 in G, BWV 1007 - Transcribed for Solo Guitar by Göran Söllscher:1. Prélude",
+            "artist": "Göran Söllscher",
+            "id": 403813415
+        },
+        {
+            "name": "Cello Suite No. 1 in G Major, BWV 1007:I. Prélude",
+            "artist": "Janos Starker",
+            "id": 1501606
+        },
+        {
+            "name": "Cello Suite No. 1 in G Major, BWV 1007:Sarabande",
+            "artist": "Janos Starker",
+            "id": 1501622
+        },
+        {
+            "name": "Ave Maria, \"Ellens Gesang III\", D839",
+            "artist": "Gil Shaham",
+            "id": 1415328
+        },
+        {
+            "name": "The Seasons, Op.37bis:No 6. June. Barcarole",
+            "artist": "Sviatoslav Richter",
+            "id": 21685018
+        },
+        {
+            "name": "Piano Concerto No.1 in C Major, Op.15:2. Largo",
+            "artist": "Martha Argerich",
+            "id": 534881765
+        },
+        {
+            "name": "Piano Sonata No.1 in F minor, Op.2 No.1:2. Adagio",
+            "artist": "Daniel Barenboim",
+            "id": 20674992
+        },
+        {
+            "name": "Piano Sonata No.4 in E flat, Op.7:2. Largo, con gran espressione",
+            "artist": "Daniel Barenboim",
+            "id": 20675017
+        },
+        {
+            "name": "Piano Sonata No.5 in C minor, Op.10 No.1:2. Adagio molto",
+            "artist": "Daniel Barenboim",
+            "id": 20675004
+        },
+        {
+            "name": "Piano Sonata No.8 in C minor, Op.13 -\"Pathétique\":2. Adagio cantabile",
+            "artist": "Daniel Barenboim",
+            "id": 20675014
+        },
+        {
+            "name": "Piano Sonata No.11 in B flat, Op.22:2. Adagio con molto espressione",
+            "artist": "Daniel Barenboim",
+            "id": 20675031
+        },
+        {
+            "name": "Piano Sonata No.12 in A flat, Op.26:1. Andante con variazioni",
+            "artist": "Daniel Barenboim",
+            "id": 20675034
+        },
+        {
+            "name": "Piano Sonata No.13 in E flat, Op.27 No.1:3. Adagio con espressione",
+            "artist": "Daniel Barenboim",
+            "id": 20675028
+        },
+        {
+            "name": "Piano Sonata No.14 in C sharp minor, Op.27 No.2 -\"Moonlight\":1. Adagio sostenuto",
+            "artist": "Daniel Barenboim",
+            "id": 20675038
+        },
+        {
+            "name": "Piano Sonata No.17 in D minor, Op.31 No.2 -\"Tempest\":2. Adagio",
+            "artist": "Daniel Barenboim",
+            "id": 20675051
+        },
+        {
+            "name": "Piano Sonata No.19 in G minor, Op.49 No.1:1. Andante",
+            "artist": "Daniel Barenboim",
+            "id": 20675057
+        },
+        {
+            "name": "Piano Sonata No.23 in F minor, Op.57 -\"Appassionata\":2. Andante con moto",
+            "artist": "Daniel Barenboim",
+            "id": 20675067
+        },
+        {
+            "name": "Piano Sonata No.25 in G, Op.79:2. Andante",
+            "artist": "Daniel Barenboim",
+            "id": 20675072
+        },
+        {
+            "name": "Piano Sonata No.26 in E flat, Op.81a -\"Les adieux\":2. Abwesendheit (Andante espressivo)",
+            "artist": "Daniel Barenboim",
+            "id": 20675075
+        },
+        {
+            "name": "Violin Romance No.1 In G Major, Op.40",
+            "artist": "Anne-Sophie Mutter",
+            "id": 27378709
+        },
+        {
+            "name": "Violin Romance No.2 In F Major, Op.50",
+            "artist": "Anne-Sophie Mutter",
+            "id": 27378710
+        },
+        {
+            "name": "Clair de lune",
+            "artist": "Ronan O'Hora",
+            "id": 26875199
+        },
+        {
+            "name": "Prélude à l'après-midi d'un faune",
+            "artist": "Vladimir Ashkenazy",
+            "id": 29769185
+        },
+        {
+            "name": "24 Préludes, Op.28:2. in A minor",
+            "artist": "Maurizio Pollini",
+            "id": 403779879
+        },
+        {
+            "name": "24 Préludes, Op.28:7. in A major",
+            "artist": "Maurizio Pollini",
+            "id": 403779884
+        },
+        {
+            "name": "24 Préludes, Op.28:15. in D flat major (\"Raindrop\")",
+            "artist": "Maurizio Pollini",
+            "id": 403779892
+        },
+        {
+            "name": "Nocturne No.1 in B Flat Minor Op.9 No.1",
+            "artist": "Vladimir Ashkenazy",
+            "id": 472876132
+        },
+        {
+            "name": "Nocturne No.3 In B, Op.9 No.3",
+            "artist": "Maria Joao Pires",
+            "id": 28749183
+        },
+        {
+            "name": "Nocturne No.14 In F Sharp Minor, Op.48 No.2",
+            "artist": "Maurizio Pollini",
+            "id": 21095284
+        },
+        {
+            "name": "Nocturne No.14 in F sharp minor Op.48 No.2",
+            "artist": "Claudio Arrau",
+            "id": 473315917
+        },
+        {
+            "name": "Clarinet Quintet in A Major, K. 581 \"Stadler\":II. Larghetto",
+            "artist": "Andrew Marriner",
+            "id": 22366610
+        },
+        {
+            "name": "Piano Trio No.7 in B flat major, Op.97“Archduke”:I. Allegro moderato",
+            "artist": "Beaux Arts Trio",
+            "id": 27693886
+        },
+        {
+            "name": "Images - Book 2, L. 111 - 1. Cloches à travers les feuilles",
+            "artist": "Pascal Rogé",
+            "id": 27682863
+        },
+        {
+            "name": "Concerto for 5 Obbligati in F Major:II. Adagio",
+            "artist": "La Folia Barockorchester",
+            "id": 519265156
+        },
+        {
+            "name": "Piano Concerto No.12 in A, K.414:2. Andante",
+            "artist": "Rudolf Serkin",
+            "id": 26965600
+        },
+        {
+            "name": "Concerto for Violin, Strings and Continuo in A Major:II. Adagio",
+            "artist": "La Folia Barockorchester",
+            "id": 519265147
+        },
+        {
+            "name": "Concerto for Violin, Strings and Continuo in A Minor:II. Largo",
+            "artist": "La Folia Barockorchester",
+            "id": 519265160
+        },
+        {
+            "name": "Concierto De Aranjuez:II Adagio",
+            "artist": "Pepe Romero",
+            "id": 5203650
+        },
+        {
+            "name": "Piano Quintet in A, D.667 - \"The Trout\":2. Andante",
+            "artist": "James Levine",
+            "id": 1345365
+        },
+        {
+            "name": "Piano Quintet in A, D.667 - \"The Trout\":4. Thema - Andantino - Variazioni I-V - Allegretto",
+            "artist": "James Levine",
+            "id": 1345369
+        },
+        {
+            "name": "12 Etudes, L.136:11. Pour les Arpèges composés",
+            "artist": "内田光子",
+            "id": 32681849
+        },
+        {
+            "name": "Debussy: Preludes for Piano, Book I: Danseuses de Delphes",
+            "artist": "Paul Jacobs",
+            "id": 18019537
+        },
+        {
+            "name": "Préludes - Book 1:2. Voiles",
+            "artist": "Maurizio Pollini",
+            "id": 403850826
+        },
+        {
+            "name": "Préludes - Book 1:8. La fille aux cheveux de lin",
+            "artist": "Maurizio Pollini",
+            "id": 403850832
+        },
+        {
+            "name": "24 Preludes and Fugues Op 87:No 1a: Prelude in C major",
+            "artist": "Tatiana Nikolayeva",
+            "id": 463352445
+        },
+        {
+            "name": "24 Preludes and Fugues Op 87:No 1b: Fugue in C major",
+            "artist": "Tatiana Nikolayeva",
+            "id": 463352446
+        },
+        {
+            "name": "24 Preludes and Fugues Op 87:No 5a: Prelude in D major",
+            "artist": "Tatiana Nikolayeva",
+            "id": 463352453
+        },
+        {
+            "name": "Fantasy In C Major \"Wanderer\" D. 760:2. Adagio",
+            "artist": "Maurizio Pollini",
+            "id": 32695695
+        },
+        {
+            "name": "Liebesträume - 3 Notturnos für das Pianoforte S.541:Hohe Liebe",
+            "artist": "Leslie Howard",
+            "id": 36226132
+        },
+        {
+            "name": "Liebesträume - 3 Notturnos für das Pianoforte S.541:O lieb, so lang du lieben kannst!",
+            "artist": "Leslie Howard",
+            "id": 36226134
+        },
+        {
+            "name": "Le Tombeau De Couperin:Fugue",
+            "artist": "Anne Queffélec",
+            "id": 22477849
+        },
+        {
+            "name": "String Quartet in E flat, HIII No.2, Op.1 No.2:3. Adagio",
+            "artist": "Aeolian String Quartet",
+            "id": 401581944
+        },
+        {
+            "name": "Gaspard de la nuit, M. 55: 1. Ondine",
+            "artist": "Ivo Pogorelich",
+            "id": 26039565
+        },
+        {
+            "name": "Gaspard de la nuit, M. 55: 2. Le Gibet",
+            "artist": "Ivo Pogorelich",
+            "id": 26039559
+        },
+        {
+            "name": "Le Tombeau de Couperin:V. Menuet",
+            "artist": "François-Joël Thiollier",
+            "id": 27299814
+        },
+        {
+            "name": "Violin Concerto In E Minor, Op.64, MWV O14:2. Andante",
+            "artist": "Herbert von Karajan",
+            "id": 2123606
+        },
+        {
+            "name": "Mozart : Sonata for Piano Duet in F major K497 : I Adagio - Allegro di molto",
+            "artist": "Güher & Süher Pekinel",
+            "id": 406024470
+        },
+        {
+            "name": "Piano Concerto No.8 in C, K.246 \"Lützow\":2. Andante",
+            "artist": "内田光子",
+            "id": 413142463
+        },
+        {
+            "name": "String Quintet No. 4 in G minor K516:III. Adagio Ma Non Troppo",
+            "artist": "Hausmusik",
+            "id": 22512615
+        },
+        {
+            "name": "Deux Arabesques L. 66 - No. 1 Andante con moto",
+            "artist": "Pascal Rogé",
+            "id": 27682859
+        },
+        {
+            "name": "Oboe Quartet in F Major, K. 370:II. Adagio",
+            "artist": "Chilingirian Quartet",
+            "id": 22366607
+        },
+        {
+            "name": "Petite Suite:I. En bateau",
+            "artist": "Lee Luvisi",
+            "id": 25506205
+        },
+        {
+            "name": "Piano Concerto No. 15 in B-Flat Major, K. 450:II. Andante",
+            "artist": "Berliner Philharmoniker",
+            "id": 405990706
+        },
+        {
+            "name": "Piano Concerto No.17 in G major, K453:2. Andante",
+            "artist": "Angela Hewitt",
+            "id": 27544324
+        },
+        {
+            "name": "Piano Concerto No. 19 in F Major, K. 459:II. Allegretto",
+            "artist": "Berliner Philharmoniker",
+            "id": 20673506
+        },
+        {
+            "name": "Piano Concerto No. 27 in B-Flat Major, Op. 17, K. 595:II. Larghetto",
+            "artist": "Arne Akselberg",
+            "id": 22447619
+        },
+        {
+            "name": "Piano Concerto No. 22 in E-Flat Major, K. 482:II. Andante",
+            "artist": "Walter Jellinek",
+            "id": 22279629
+        },
+        {
+            "name": "Piano Concerto No. 26 in D K537 'Coronation' (1981 Digital Remaster):II. Larghetto",
+            "artist": "Rafael Orozco",
+            "id": 22532216
+        },
+        {
+            "name": "Piano Trio in E K542:II. Andante grazioso",
+            "artist": "Daniel Barenboim",
+            "id": 22280022
+        },
+        {
+            "name": "Piano concerto No. 14 in E flat major, K. 449: II. Andantino",
+            "artist": "Paul Badura-Skoda",
+            "id": 484230337
+        },
+        {
+            "name": "Quintet for Piano and Winds in E-Flat Major, K. 452:II. Larghetto",
+            "artist": "Wolfgang Amadeus Mozart",
+            "id": 405619634
+        },
+        {
+            "name": "Quintet for Horn, Violin, 2 Violas and Bass in E-Flat Major, K. 407: II. Andante",
+            "artist": "Fine Arts Quartet",
+            "id": 1451935770
+        },
+        {
+            "name": "Rhapsody On A Theme By Paganini, Op.43:Variation 18",
+            "artist": "郎朗",
+            "id": 115202
+        },
+        {
+            "name": "Miroirs M.43:5. La vallée des cloches",
+            "artist": "Pierre-Laurent Aimard",
+            "id": 1863697
+        },
+        {
+            "name": "Piano Concerto in G Major, M. 83:2. Adagio assai",
+            "artist": "Martha Argerich",
+            "id": 21183176
+        },
+        {
+            "name": "Rêverie",
+            "artist": "Pascal Rogé",
+            "id": 3309640
+        },
+        {
+            "name": "Schwanengesang, D.957:Ständchen",
+            "artist": "Arthur Grumiaux",
+            "id": 5168414
+        },
+        {
+            "name": "Fantasie in C, Op.17 : 3. Langsam getragen. Durchweg leise zu halten - Etwas bewegter",
+            "artist": "李云迪",
+            "id": 28288516
+        },
+        {
+            "name": "Kinderszenen, Op.15:7. Träumerei",
+            "artist": "Martha Argerich",
+            "id": 21183199
+        },
+        {
+            "name": "Piano Sonata No.2 In G Minor, Op.22:2. Andantino",
+            "artist": "Martha Argerich",
+            "id": 21183181
+        },
+        {
+            "name": "3 Pieces for piano, Op.2:No.2. Prelude in B",
+            "artist": "Valentina Lisitsa",
+            "id": 402001918
+        },
+        {
+            "name": "3 Pieces for piano, Op.2:No.3 Impromptu A La Mazur",
+            "artist": "Valentina Lisitsa",
+            "id": 402001919
+        },
+        {
+            "name": "String Quartet in A Minor, JS 183:II. Adagio ma non tanto",
+            "artist": "Jean Sibelius Quartet",
+            "id": 465873222
+        },
+        {
+            "name": "String Quartet in D Minor, Op. 56, \"Voces Intimae\":III. Adagio di molto",
+            "artist": "Jean Sibelius Quartet",
+            "id": 465873227
+        },
+        {
+            "name": "String Quartet in G Major, K. 387 \"Spring\": III. Andante cantabile",
+            "artist": "Hagen Quartett",
+            "id": 445143506
+        },
+        {
+            "name": "Cello Suite No. 1 in G Major, BWV 1007:Allemande",
+            "artist": "Janos Starker",
+            "id": 1501611
+        },
+        {
+            "name": "The Carnival of the Animals: The Swan",
+            "artist": "Jacqueline du Pré",
+            "id": 25017517
+        },
+        {
+            "name": "Préludes / Book 1, L.117 - 2. Voiles",
+            "artist": "Pascal Rogé",
+            "id": 27682866
+        },
+        {
+            "name": "Piano Concerto No. 24 in C Minor, K. 491:II. Larghetto",
+            "artist": "郎朗",
+            "id": 29415906
+        },
+        {
+            "name": "3 Gymnopédies:i. Lent Et Douloureux",
+            "artist": "Aldo Ciccolini",
+            "id": 27198092
+        },
+        {
+            "name": "3 Gymnopédies:ii. Lent Et Triste",
+            "artist": "Aldo Ciccolini",
+            "id": 27198097
+        },
+        {
+            "name": "3 Gymnopédies:iii. Lent Et Grave",
+            "artist": "Aldo Ciccolini",
+            "id": 27198102
+        },
+        {
+            "name": "4'33\" (Cage Against The Machine Version)",
+            "artist": "John Cage",
+            "id": 18650035
+        }
+    ]
+}
