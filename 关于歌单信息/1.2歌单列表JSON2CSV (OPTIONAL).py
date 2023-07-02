@@ -12,7 +12,7 @@ NumberOfFiles = 0
 for json_file in json_files:
     NumberOfFiles += 1
     playlist_name = json_file.split('.')[0]
-    with open(os.path.join(folder_path, json_file), 'r') as f:
+    with open(os.path.join(folder_path, json_file), 'r', encoding='utf-8') as f:
         data = json.load(f)
 
         fieldnames = data[0].keys()

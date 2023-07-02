@@ -83,5 +83,5 @@ def generate_playlist_json(playlist_id):
 
     file_path = os.path.join(folder_name, file_name)
 
-    with open(file_path, 'w') as f:
+    with open(file_path, 'w', encoding='utf-8') as f:
         json.dump(playlist_json, f, indent=4, ensure_ascii=False)
