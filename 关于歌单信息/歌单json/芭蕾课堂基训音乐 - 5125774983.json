@@ -1,0 +1,882 @@
+{
+    "playlist_info": {
+        "name": "芭蕾课堂基训音乐",
+        "trackcount": 174,
+        "playcount": 844719,
+        "creator": "Echo彤仔",
+        "createDate": "2020-07-17",
+        "heat": 781.0
+    },
+    "songs": [
+        {
+            "name": "Reverence",
+            "artist": "Sky Tan",
+            "id": 1457956165
+        },
+        {
+            "name": "Révérence",
+            "artist": "MetodoVadim",
+            "id": 1388957093
+        },
+        {
+            "name": "Stretching exercises 2",
+            "artist": "Alessio De Franzoni",
+            "id": 1318249129
+        },
+        {
+            "name": "Stretch. Metre 4/4.",
+            "artist": "MetodoVadim",
+            "id": 1311099672
+        },
+        {
+            "name": "Presbarra dall'operetta \"Frasquita\": o fanciulla all'imbrunir",
+            "artist": "Alessio De Franzoni",
+            "id": 1318248530
+        },
+        {
+            "name": "Warm Up",
+            "artist": "Sky Tan",
+            "id": 1457956154
+        },
+        {
+            "name": "Warm Up",
+            "artist": "BalletMusicDK",
+            "id": 511679263
+        },
+        {
+            "name": "Warm Up",
+            "artist": "BalletMusicDK",
+            "id": 511666704
+        },
+        {
+            "name": "Warm Up",
+            "artist": "BalletMusicDK",
+            "id": 511817850
+        },
+        {
+            "name": "Warm Up. Metre 4/4.",
+            "artist": "MetodoVadim",
+            "id": 1311099662
+        },
+        {
+            "name": "Demi Plié, Grand Plié, Port De Bras. Metre 4/4",
+            "artist": "MetodoVadim",
+            "id": 1388956350
+        },
+        {
+            "name": "Plies dall'operetta \"Ballo al savoia\": toujours l'amour",
+            "artist": "Alessio De Franzoni",
+            "id": 1318249118
+        },
+        {
+            "name": "Plies dall'operetta \"Il valzer perduto\": das ist ken zufall",
+            "artist": "Alessio De Franzoni",
+            "id": 1318248531
+        },
+        {
+            "name": "Plie",
+            "artist": "Sky Tan",
+            "id": 1435898802
+        },
+        {
+            "name": "Plie",
+            "artist": "Sky Tan",
+            "id": 1457956155
+        },
+        {
+            "name": "Plie",
+            "artist": "Lisa Harris",
+            "id": 557730837
+        },
+        {
+            "name": "Plié 1",
+            "artist": "BalletMusicDK",
+            "id": 511666705
+        },
+        {
+            "name": "Plié 1",
+            "artist": "BalletMusicDK",
+            "id": 511817851
+        },
+        {
+            "name": "Plié 2",
+            "artist": "BalletMusicDK",
+            "id": 511666706
+        },
+        {
+            "name": "Plié 2 with Port de Bras",
+            "artist": "BalletMusicDK",
+            "id": 511817852
+        },
+        {
+            "name": "Tendu",
+            "artist": "Lisa Harris",
+            "id": 557730839
+        },
+        {
+            "name": "Slow Tendu",
+            "artist": "Lisa Harris",
+            "id": 557733232
+        },
+        {
+            "name": "Slow Tendu",
+            "artist": "Lisa Harris",
+            "id": 557733231
+        },
+        {
+            "name": "Slow Tendu",
+            "artist": "Sky Tan",
+            "id": 1457956156
+        },
+        {
+            "name": "Tendu",
+            "artist": "Lisa Harris",
+            "id": 557733233
+        },
+        {
+            "name": "Tendu 1 (slow swing jazz)",
+            "artist": "BalletMusicDK",
+            "id": 511817853
+        },
+        {
+            "name": "Tendu 1",
+            "artist": "BalletMusicDK",
+            "id": 511666707
+        },
+        {
+            "name": "Tendu 1 (fast)",
+            "artist": "BalletMusicDK",
+            "id": 511666708
+        },
+        {
+            "name": "Tendu 2",
+            "artist": "BalletMusicDK",
+            "id": 511666709
+        },
+        {
+            "name": "Tendu 2 (medium swing jazz)",
+            "artist": "BalletMusicDK",
+            "id": 511817854
+        },
+        {
+            "name": "Tendu in Fifth",
+            "artist": "Sky Tan",
+            "id": 1457955305
+        },
+        {
+            "name": "Quick Tendu",
+            "artist": "Sky Tan",
+            "id": 1457956157
+        },
+        {
+            "name": "Battement Tendu",
+            "artist": "Lisa Harris",
+            "id": 557730848
+        },
+        {
+            "name": "Battement Tendu Simple, Battement Tendu Jeté. Metre 4/4",
+            "artist": "MetodoVadim",
+            "id": 1388957094
+        },
+        {
+            "name": "Battement Tendu Simple, Battement Tendu Jeté. Metre 2/4",
+            "artist": "MetodoVadim",
+            "id": 1388957100
+        },
+        {
+            "name": "Battement Tendu Simple. Metre 4/4.",
+            "artist": "MetodoVadim",
+            "id": 1311100654
+        },
+        {
+            "name": "Battements tendus dall'operetta \"Al cavallino bianco\": occhioni blu",
+            "artist": "Alessio De Franzoni",
+            "id": 1318248534
+        },
+        {
+            "name": "Battements tendus dall'opera \"Don giovanni\": la ci darem la mano",
+            "artist": "Alessio De Franzoni",
+            "id": 1318249120
+        },
+        {
+            "name": "Degagé",
+            "artist": "BalletMusicDK",
+            "id": 511817855
+        },
+        {
+            "name": "Degage 1",
+            "artist": "Sky Tan",
+            "id": 1457955306
+        },
+        {
+            "name": "Degage 2",
+            "artist": "Sky Tan",
+            "id": 1457956158
+        },
+        {
+            "name": "Battement Jete",
+            "artist": "Lisa Harris",
+            "id": 557730838
+        },
+        {
+            "name": "Battement Jete",
+            "artist": "Lisa Harris",
+            "id": 557733234
+        },
+        {
+            "name": "Jeté 1",
+            "artist": "BalletMusicDK",
+            "id": 511666710
+        },
+        {
+            "name": "Jeté 1 (stride piano jazz style)",
+            "artist": "BalletMusicDK",
+            "id": 511817856
+        },
+        {
+            "name": "Jeté 1 (fast, with breaks)",
+            "artist": "BalletMusicDK",
+            "id": 511666711
+        },
+        {
+            "name": "Jeté 1 (fast, with breaks, variation)",
+            "artist": "BalletMusicDK",
+            "id": 511666712
+        },
+        {
+            "name": "Jeté 2",
+            "artist": "BalletMusicDK",
+            "id": 511666713
+        },
+        {
+            "name": "Jeté 2 (fast swing jazz)",
+            "artist": "BalletMusicDK",
+            "id": 511817857
+        },
+        {
+            "name": "Jeté 3",
+            "artist": "BalletMusicDK",
+            "id": 511817858
+        },
+        {
+            "name": "Jeté 3 (fast)",
+            "artist": "BalletMusicDK",
+            "id": 511817859
+        },
+        {
+            "name": "Jeté 3 (fast, long version)",
+            "artist": "BalletMusicDK",
+            "id": 511817860
+        },
+        {
+            "name": "Battement jetè, tarantella dall'opera \"Il barbiere di siviglia\": aria di figaro",
+            "artist": "Alessio De Franzoni",
+            "id": 1318248536
+        },
+        {
+            "name": "Battements jetè dall'opera \"Le nozze di figaro\": non so più cosa son cosa faccio",
+            "artist": "Alessio De Franzoni",
+            "id": 1318248535
+        },
+        {
+            "name": "Ronde de Jambe",
+            "artist": "Lisa Harris",
+            "id": 557730840
+        },
+        {
+            "name": "Rond de jambe a terre",
+            "artist": "Sky Tan",
+            "id": 1457955307
+        },
+        {
+            "name": "Rond de Jambe à Terre",
+            "artist": "BalletMusicDK",
+            "id": 511666714
+        },
+        {
+            "name": "Rond De Jambe Par Terre. Metre 3/4.",
+            "artist": "MetodoVadim",
+            "id": 1311099663
+        },
+        {
+            "name": "Rond de Jambe à Terre with Port de Bras",
+            "artist": "BalletMusicDK",
+            "id": 511817861
+        },
+        {
+            "name": "Ronds de jambe par terre dall'operetta \"La vedova allegra\": tace il labbro",
+            "artist": "Alessio De Franzoni",
+            "id": 1318248537
+        },
+        {
+            "name": "Rond de Jambe en L'air",
+            "artist": "BalletMusicDK",
+            "id": 511666718
+        },
+        {
+            "name": "Rond de Jambe en L'air",
+            "artist": "BalletMusicDK",
+            "id": 511817864
+        },
+        {
+            "name": "RDJ en l'air",
+            "artist": "Lisa Harris",
+            "id": 557730843
+        },
+        {
+            "name": "Fondu",
+            "artist": "Sky Tan",
+            "id": 1457956159
+        },
+        {
+            "name": "Fondu",
+            "artist": "Lisa Harris",
+            "id": 557733238
+        },
+        {
+            "name": "Fondu",
+            "artist": "Lisa Harris",
+            "id": 557733237
+        },
+        {
+            "name": "Fondu",
+            "artist": "BalletMusicDK",
+            "id": 511666715
+        },
+        {
+            "name": "Tango Fondu",
+            "artist": "Lisa Harris",
+            "id": 557733236
+        },
+        {
+            "name": "Tango Fondu",
+            "artist": "Lisa Harris",
+            "id": 557730841
+        },
+        {
+            "name": "Fondu (soft tango)",
+            "artist": "BalletMusicDK",
+            "id": 511817865
+        },
+        {
+            "name": "Battement Fondu, Rond De Jambe en L'air. Metre 3/4.",
+            "artist": "MetodoVadim",
+            "id": 1311100656
+        },
+        {
+            "name": "Battements fondus dall'operetta \"Cin - ci - la\": l'ultima bambola",
+            "artist": "Alessio De Franzoni",
+            "id": 1318249121
+        },
+        {
+            "name": "Battements fondus dall'opera \"Boheme\": valzer di musetta",
+            "artist": "Alessio De Franzoni",
+            "id": 1318248538
+        },
+        {
+            "name": "Polonaise",
+            "artist": "Sky Tan",
+            "id": 1457955308
+        },
+        {
+            "name": "Frappe",
+            "artist": "Lisa Harris",
+            "id": 557730846
+        },
+        {
+            "name": "Frappe",
+            "artist": "Lisa Harris",
+            "id": 557733235
+        },
+        {
+            "name": "Frappe",
+            "artist": "Sky Tan",
+            "id": 1457955309
+        },
+        {
+            "name": "Frappé",
+            "artist": "BalletMusicDK",
+            "id": 511666716
+        },
+        {
+            "name": "Frappé (slow)",
+            "artist": "BalletMusicDK",
+            "id": 511817862
+        },
+        {
+            "name": "Frappé (fast)",
+            "artist": "BalletMusicDK",
+            "id": 511666717
+        },
+        {
+            "name": "Frappé (fast)",
+            "artist": "BalletMusicDK",
+            "id": 511817863
+        },
+        {
+            "name": "Battements frappè dall'opera \"Il barbiere di siviglia\": preludio",
+            "artist": "Alessio De Franzoni",
+            "id": 1318248539
+        },
+        {
+            "name": "Petit Battement",
+            "artist": "BalletMusicDK",
+            "id": 511666721
+        },
+        {
+            "name": "Petit Battement",
+            "artist": "Lisa Harris",
+            "id": 557730842
+        },
+        {
+            "name": "Port de Bras",
+            "artist": "Lisa Harris",
+            "id": 557730847
+        },
+        {
+            "name": "Adagio",
+            "artist": "Sky Tan",
+            "id": 1457955310
+        },
+        {
+            "name": "Adagio",
+            "artist": "BalletMusicDK",
+            "id": 511666719
+        },
+        {
+            "name": "Adagio",
+            "artist": "Lisa Harris",
+            "id": 557733240
+        },
+        {
+            "name": "Adagio",
+            "artist": "Lisa Harris",
+            "id": 557730845
+        },
+        {
+            "name": "Adagio (slower)",
+            "artist": "BalletMusicDK",
+            "id": 511666720
+        },
+        {
+            "name": "Adagio (barre)",
+            "artist": "BalletMusicDK",
+            "id": 511817866
+        },
+        {
+            "name": "Adage dall'opera \"Gianni schicchi\": o mio babbino caro",
+            "artist": "Alessio De Franzoni",
+            "id": 1318249123
+        },
+        {
+            "name": "Grand battement",
+            "artist": "Sky Tan",
+            "id": 1457956160
+        },
+        {
+            "name": "Grand Battement",
+            "artist": "BalletMusicDK",
+            "id": 511666722
+        },
+        {
+            "name": "Grand Battement",
+            "artist": "Lisa Harris",
+            "id": 557733239
+        },
+        {
+            "name": "Grand Battement (slow)",
+            "artist": "BalletMusicDK",
+            "id": 511666723
+        },
+        {
+            "name": "Grand Battement 1 (march)",
+            "artist": "BalletMusicDK",
+            "id": 511817867
+        },
+        {
+            "name": "Grand Battement 2 (tango habanera)",
+            "artist": "BalletMusicDK",
+            "id": 511817868
+        },
+        {
+            "name": "Grands battements dall'opera \"La gazza ladra\": marcia",
+            "artist": "Alessio De Franzoni",
+            "id": 1318249122
+        },
+        {
+            "name": "Releve",
+            "artist": "Sky Tan",
+            "id": 1457955311
+        },
+        {
+            "name": "Stretch",
+            "artist": "Sky Tan",
+            "id": 1457955312
+        },
+        {
+            "name": "Center Port de bras",
+            "artist": "Sky Tan",
+            "id": 1457955313
+        },
+        {
+            "name": "Plíe. Metre 4/4.",
+            "artist": "MetodoVadim",
+            "id": 1311100653
+        },
+        {
+            "name": "Temps liè dall'opera \"Anna bolena\": aria di anna",
+            "artist": "Alessio De Franzoni",
+            "id": 1318249124
+        },
+        {
+            "name": "Small Adagio. Metre 4/4",
+            "artist": "MetodoVadim",
+            "id": 1388956353
+        },
+        {
+            "name": "Small Adagio. Metre 4/4.",
+            "artist": "MetodoVadim",
+            "id": 1311100657
+        },
+        {
+            "name": "Center Tendu",
+            "artist": "Sky Tan",
+            "id": 1457955314
+        },
+        {
+            "name": "Battement Tendu Simple. Metre 2/4.",
+            "artist": "MetodoVadim",
+            "id": 1311100659
+        },
+        {
+            "name": "Battement Tendu Jeté. Metre 2/4.",
+            "artist": "MetodoVadim",
+            "id": 1311100660
+        },
+        {
+            "name": "Battement Tendu Jeté. Metre 4/4.",
+            "artist": "MetodoVadim",
+            "id": 1311100655
+        },
+        {
+            "name": "Battements tendus dall'operetta \"Il paese dei campanelli\": fox della luna",
+            "artist": "Alessio De Franzoni",
+            "id": 1318249125
+        },
+        {
+            "name": "Rond De Jambe Par Terre. Metre 3/4.",
+            "artist": "MetodoVadim",
+            "id": 1388957095
+        },
+        {
+            "name": "Rond De Jambe en L'air. Metre 3/4",
+            "artist": "MetodoVadim",
+            "id": 1388957097
+        },
+        {
+            "name": "Waltz",
+            "artist": "Sky Tan",
+            "id": 1457956161
+        },
+        {
+            "name": "Valse Slow. Metre 3/4.",
+            "artist": "MetodoVadim",
+            "id": 1311100661
+        },
+        {
+            "name": "Valse Quick. Metre 3/4.",
+            "artist": "MetodoVadim",
+            "id": 1311099667
+        },
+        {
+            "name": "Pirouette",
+            "artist": "Lisa Harris",
+            "id": 557733241
+        },
+        {
+            "name": "Pirouette",
+            "artist": "Lisa Harris",
+            "id": 557730849
+        },
+        {
+            "name": "Pirouette",
+            "artist": "Lisa Harris",
+            "id": 557730850
+        },
+        {
+            "name": "Pirouette",
+            "artist": "Lisa Harris",
+            "id": 557730851
+        },
+        {
+            "name": "Pirouettes",
+            "artist": "Sky Tan",
+            "id": 1457955316
+        },
+        {
+            "name": "Valse pirouettes dall'operetta \"Al cavallino bianco\": al cavallino bianco",
+            "artist": "Alessio De Franzoni",
+            "id": 1318248540
+        },
+        {
+            "name": "Battement Fondu. Metre 4/4",
+            "artist": "MetodoVadim",
+            "id": 1388956352
+        },
+        {
+            "name": "Battement Frappe. Metre 4/4.",
+            "artist": "MetodoVadim",
+            "id": 1311099664
+        },
+        {
+            "name": "Battement Frappe. Metre 4/4",
+            "artist": "MetodoVadim",
+            "id": 1388957096
+        },
+        {
+            "name": "Grand Battement 2. Metre 3/4.",
+            "artist": "MetodoVadim",
+            "id": 1311099666
+        },
+        {
+            "name": "Grand Battement. Metre 3/4.",
+            "artist": "MetodoVadim",
+            "id": 1311100658
+        },
+        {
+            "name": "Grand Battement. Metre 3/4",
+            "artist": "MetodoVadim",
+            "id": 1388957101
+        },
+        {
+            "name": "Grand Battement. Metre 6/8",
+            "artist": "MetodoVadim",
+            "id": 1388957098
+        },
+        {
+            "name": "Grand Adagio. Metre 4/4",
+            "artist": "MetodoVadim",
+            "id": 1388957099
+        },
+        {
+            "name": "Gran Adagio. Metre 3/4.",
+            "artist": "MetodoVadim",
+            "id": 1311099665
+        },
+        {
+            "name": "Center Adagio",
+            "artist": "Sky Tan",
+            "id": 1457955315
+        },
+        {
+            "name": "Chainee",
+            "artist": "Lisa Harris",
+            "id": 557730855
+        },
+        {
+            "name": "Pique turns",
+            "artist": "Lisa Harris",
+            "id": 557730854
+        },
+        {
+            "name": "Foute",
+            "artist": "Lisa Harris",
+            "id": 557730858
+        },
+        {
+            "name": "Coda. Metre 4/4",
+            "artist": "MetodoVadim",
+            "id": 1388956354
+        },
+        {
+            "name": "Coda. Metre 2/4.",
+            "artist": "MetodoVadim",
+            "id": 1311100669
+        },
+        {
+            "name": "Coda",
+            "artist": "Sky Tan",
+            "id": 1457955320
+        },
+        {
+            "name": "Variation 1: Giselle Theme",
+            "artist": "MetodoVadim",
+            "id": 1388957102
+        },
+        {
+            "name": "Variation 2: Giselle Theme",
+            "artist": "MetodoVadim",
+            "id": 1388957103
+        },
+        {
+            "name": "Variation 3: Giselle Theme",
+            "artist": "MetodoVadim",
+            "id": 1388957104
+        },
+        {
+            "name": "Variation 4: Giselle Theme",
+            "artist": "MetodoVadim",
+            "id": 1388957105
+        },
+        {
+            "name": "First Jump",
+            "artist": "Sky Tan",
+            "id": 1457955317
+        },
+        {
+            "name": "Second Jump",
+            "artist": "Sky Tan",
+            "id": 1457955318
+        },
+        {
+            "name": "Small Jumps",
+            "artist": "Lisa Harris",
+            "id": 557730852
+        },
+        {
+            "name": "More Jumps",
+            "artist": "Lisa Harris",
+            "id": 557733242
+        },
+        {
+            "name": "Jump in 3/4",
+            "artist": "Sky Tan",
+            "id": 1457956162
+        },
+        {
+            "name": "Regular Jumps",
+            "artist": "Lisa Harris",
+            "id": 557730853
+        },
+        {
+            "name": "Petit Allegro. Jumps 1. Metre 2/4.",
+            "artist": "MetodoVadim",
+            "id": 1311100662
+        },
+        {
+            "name": "Petit Allegro. Jumps 2. Metre 2/4.",
+            "artist": "MetodoVadim",
+            "id": 1311099668
+        },
+        {
+            "name": "Petit Allegro. Jumps 3. Metre 2/4.",
+            "artist": "MetodoVadim",
+            "id": 1311100663
+        },
+        {
+            "name": "Petit Allegro. Jumps 4. Metre 2/4.",
+            "artist": "MetodoVadim",
+            "id": 1311100664
+        },
+        {
+            "name": "Medium Allegro. Jumps 1. Metre 2/4.",
+            "artist": "MetodoVadim",
+            "id": 1311099669
+        },
+        {
+            "name": "Medium Allegro. Jumps 2. Metre 3/4.",
+            "artist": "MetodoVadim",
+            "id": 1311099670
+        },
+        {
+            "name": "Medium Allegro. Jumps 3. Metre 2/4.",
+            "artist": "MetodoVadim",
+            "id": 1311100665
+        },
+        {
+            "name": "Sissonne",
+            "artist": "Sky Tan",
+            "id": 1457956163
+        },
+        {
+            "name": "Grand Allegro 1",
+            "artist": "Sky Tan",
+            "id": 1457955319
+        },
+        {
+            "name": "Grand Allegro 2",
+            "artist": "Sky Tan",
+            "id": 1457956164
+        },
+        {
+            "name": "Grand Allegro. Jumps 1. Metre 3/4.",
+            "artist": "MetodoVadim",
+            "id": 1311100666
+        },
+        {
+            "name": "Grand Allegro. Jumps 2. Metre 3/4.",
+            "artist": "MetodoVadim",
+            "id": 1311099671
+        },
+        {
+            "name": "Grand Allegro. Jumps 3. Metre 3/4.",
+            "artist": "MetodoVadim",
+            "id": 1311100667
+        },
+        {
+            "name": "Grand Allegro. Jumps 4. Metre 3/4.",
+            "artist": "MetodoVadim",
+            "id": 1311100668
+        },
+        {
+            "name": "Grand valse da \"Parata di primavera\": grand valse",
+            "artist": "Alessio De Franzoni",
+            "id": 1318248541
+        },
+        {
+            "name": "Grand valse dall'operetta \"La vedova allegra\": le sirene del ballo",
+            "artist": "Alessio De Franzoni",
+            "id": 1318248542
+        },
+        {
+            "name": "Grand valse dall'operetta \"Al cavallino bianco\": valzer d'amore",
+            "artist": "Alessio De Franzoni",
+            "id": 1318249126
+        },
+        {
+            "name": "Grand Valse",
+            "artist": "Lisa Harris",
+            "id": 557730857
+        },
+        {
+            "name": "Big Jumps",
+            "artist": "Lisa Harris",
+            "id": 557730856
+        },
+        {
+            "name": "Piccoli salti dall'operetta \"La principessa della czarda\": ma senza donne",
+            "artist": "Alessio De Franzoni",
+            "id": 1318249127
+        },
+        {
+            "name": "Piccoli salti dall'opera \"Il flauto magico\": das klingett",
+            "artist": "Alessio De Franzoni",
+            "id": 1318248543
+        },
+        {
+            "name": "Piccoli salti dall'operetta \"La principessa della czarda\": duetto delle rondini",
+            "artist": "Alessio De Franzoni",
+            "id": 1318248544
+        },
+        {
+            "name": "Galop - coda dall'operetta \"La vedova allegra\": e' scabroso",
+            "artist": "Alessio De Franzoni",
+            "id": 1318248545
+        },
+        {
+            "name": "Galop - coda dall'operetta \"Cin - ci - la\": cin - ci - la",
+            "artist": "Alessio De Franzoni",
+            "id": 1318249128
+        },
+        {
+            "name": "Reverence",
+            "artist": "Lisa Harris",
+            "id": 557730859
+        },
+        {
+            "name": "Révérence 2",
+            "artist": "MetodoVadim",
+            "id": 1388956355
+        }
+    ]
+}

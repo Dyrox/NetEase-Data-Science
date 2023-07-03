@@ -1,0 +1,507 @@
+{
+    "playlist_info": {
+        "name": "「纯音/阅读」静心享受这惬意的时光。",
+        "trackcount": 99,
+        "playcount": 7333371,
+        "creator": "野良兔",
+        "createDate": "2016-09-22",
+        "heat": 2963.0
+    },
+    "songs": [
+        {
+            "name": "祈り",
+            "artist": "MANYO",
+            "id": 28481646
+        },
+        {
+            "name": "\"文学少女\"",
+            "artist": "七瀬光",
+            "id": 570391
+        },
+        {
+            "name": "三葉のテーマ",
+            "artist": "RADWIMPS",
+            "id": 426881500
+        },
+        {
+            "name": "表裏な想い",
+            "artist": "出羽良彰",
+            "id": 28724485
+        },
+        {
+            "name": "3人でいる時間",
+            "artist": "北川勝利",
+            "id": 32857643
+        },
+        {
+            "name": "Snow light",
+            "artist": "水月陵",
+            "id": 623060
+        },
+        {
+            "name": "こういう気持ちを何て言ったかな",
+            "artist": "横山克",
+            "id": 30245055
+        },
+        {
+            "name": "さみしさひとかけら",
+            "artist": "川田瑠夏",
+            "id": 29848757
+        },
+        {
+            "name": "ふたりのおもいで",
+            "artist": "七瀬光",
+            "id": 414118726
+        },
+        {
+            "name": "やさしい星座",
+            "artist": "志倉千代丸",
+            "id": 515270
+        },
+        {
+            "name": "ムーンブライト",
+            "artist": "折戸伸治",
+            "id": 28561102
+        },
+        {
+            "name": "风の歌",
+            "artist": "広橋真紀子",
+            "id": 577879
+        },
+        {
+            "name": "風の止まり木",
+            "artist": "水月陵",
+            "id": 36103287
+        },
+        {
+            "name": "夢の歩みを見上げて",
+            "artist": "松本文紀",
+            "id": 399367379
+        },
+        {
+            "name": "穏やかな朝",
+            "artist": "佐藤直紀",
+            "id": 31108773
+        },
+        {
+            "name": "穏やかな時",
+            "artist": "戸田信子",
+            "id": 29401155
+        },
+        {
+            "name": "膝枕で過ごす放課後-Anime Version-(M7)",
+            "artist": "三輪学",
+            "id": 431534258
+        },
+        {
+            "name": "阳だまりにて和む猫",
+            "artist": "Falcom Sound Team J.D.K.",
+            "id": 730267
+        },
+        {
+            "name": "陽だまりの小部屋",
+            "artist": "I've",
+            "id": 752062
+        },
+        {
+            "name": "永遠を願うとき",
+            "artist": "松本文紀",
+            "id": 28700043
+        },
+        {
+            "name": "クオリアの想い",
+            "artist": "忍",
+            "id": 30051479
+        },
+        {
+            "name": "ハルヒの想い",
+            "artist": "神前暁",
+            "id": 29836459
+        },
+        {
+            "name": "愛すれど、切なくて",
+            "artist": "坂本昌一郎",
+            "id": 459066
+        },
+        {
+            "name": "淡き心象を抱き締めて",
+            "artist": "樋口秀樹",
+            "id": 28306060
+        },
+        {
+            "name": "風に舞う木の葉と神の社",
+            "artist": "みかん箱",
+            "id": 785895
+        },
+        {
+            "name": "共に過ごした時間",
+            "artist": "光宗信吉",
+            "id": 28190768
+        },
+        {
+            "name": "黄昏のゆりかご",
+            "artist": "松岡純也",
+            "id": 4988864
+        },
+        {
+            "name": "凰華",
+            "artist": "山西利治",
+            "id": 4970191
+        },
+        {
+            "name": "夢",
+            "artist": "天門",
+            "id": 528297
+        },
+        {
+            "name": "木漏れ日の小道",
+            "artist": "吉森信",
+            "id": 541355
+        },
+        {
+            "name": "青い森",
+            "artist": "出羽良彰",
+            "id": 414826614
+        },
+        {
+            "name": "陽だまり道",
+            "artist": "水谷広実",
+            "id": 28167020
+        },
+        {
+            "name": "月に寄りそう乙女の夜の作法",
+            "artist": "Arte Refact",
+            "id": 28568064
+        },
+        {
+            "name": "真冬の日溜まり",
+            "artist": "吉森信",
+            "id": 541314
+        },
+        {
+            "name": "Gentle",
+            "artist": "天門",
+            "id": 32320897
+        },
+        {
+            "name": "1Memory (想い)",
+            "artist": "松本慎一郎",
+            "id": 4969071
+        },
+        {
+            "name": "introduction",
+            "artist": "solfa",
+            "id": 29122123
+        },
+        {
+            "name": "Leaving",
+            "artist": "stretta di mano",
+            "id": 654569
+        },
+        {
+            "name": "Melody",
+            "artist": "長谷川智樹",
+            "id": 632019
+        },
+        {
+            "name": "memories of...",
+            "artist": "羽鳥風画",
+            "id": 29979542
+        },
+        {
+            "name": "Monologue",
+            "artist": "石濱翔",
+            "id": 26629665
+        },
+        {
+            "name": "pure heart",
+            "artist": "松田彬人",
+            "id": 4946902
+        },
+        {
+            "name": "Thin Moonlight",
+            "artist": "麗美",
+            "id": 26135473
+        },
+        {
+            "name": "あたたかな雪",
+            "artist": "Peak A Soul+",
+            "id": 32192109
+        },
+        {
+            "name": "いってきまーす",
+            "artist": "林有三",
+            "id": 26322449
+        },
+        {
+            "name": "いつまでもあなたと一緒",
+            "artist": "MANYO",
+            "id": 32823133
+        },
+        {
+            "name": "はじまりの唄",
+            "artist": "森脇正敏",
+            "id": 30394175
+        },
+        {
+            "name": "イントロダクション",
+            "artist": "羽鳥風画",
+            "id": 26386960
+        },
+        {
+            "name": "ソ・ラ・ソ・ミ ~piano ver.~",
+            "artist": "コーコーヤ",
+            "id": 768767
+        },
+        {
+            "name": "残りの夕日を追いかけて",
+            "artist": "OdiakeS",
+            "id": 644481
+        },
+        {
+            "name": "初恋.",
+            "artist": "濱剛",
+            "id": 22675568
+        },
+        {
+            "name": "春のひだまり",
+            "artist": "Angel Note",
+            "id": 681974
+        },
+        {
+            "name": "放课后",
+            "artist": "S.E.N.S.",
+            "id": 816741
+        },
+        {
+            "name": "告白",
+            "artist": "Famishin",
+            "id": 28838659
+        },
+        {
+            "name": "涙の色",
+            "artist": "solfa",
+            "id": 30431455
+        },
+        {
+            "name": "夢見草",
+            "artist": "BURTON",
+            "id": 28949715
+        },
+        {
+            "name": "面影ワープ(ピアノアレンジ)",
+            "artist": "浜口史郎",
+            "id": 27853871
+        },
+        {
+            "name": "木漏れ日の散歩道",
+            "artist": "八乙女葦菜",
+            "id": 4956883
+        },
+        {
+            "name": "勿忘草",
+            "artist": "筒井香織",
+            "id": 4970170
+        },
+        {
+            "name": "夕間暮れ",
+            "artist": "Active Planets",
+            "id": 692893
+        },
+        {
+            "name": "形状記憶姿勢のパヴァーヌ",
+            "artist": "水谷広実",
+            "id": 418708318
+        },
+        {
+            "name": "優しい瞳",
+            "artist": "安瀬聖",
+            "id": 31209543
+        },
+        {
+            "name": "優しさのかたち",
+            "artist": "忍",
+            "id": 28556038
+        },
+        {
+            "name": "Ennui",
+            "artist": "S.E.N.S.",
+            "id": 816720
+        },
+        {
+            "name": "EVERLASTING BLUE - Piano Solo -",
+            "artist": "stretta di mano",
+            "id": 654624
+        },
+        {
+            "name": "Gentle Jena ~Extended Version~",
+            "artist": "戸越まごめ",
+            "id": 22706965
+        },
+        {
+            "name": "Home",
+            "artist": "折倉俊則",
+            "id": 4961134
+        },
+        {
+            "name": "looking back",
+            "artist": "横山克",
+            "id": 36492138
+        },
+        {
+            "name": "Passion",
+            "artist": "光宗信吉",
+            "id": 471267
+        },
+        {
+            "name": "SABBATH",
+            "artist": "川越好博",
+            "id": 872591
+        },
+        {
+            "name": "Snowflake",
+            "artist": "MANYO",
+            "id": 26196617
+        },
+        {
+            "name": "solitude",
+            "artist": "solfa",
+            "id": 29122113
+        },
+        {
+            "name": "We Are Back",
+            "artist": "麗美",
+            "id": 26135446
+        },
+        {
+            "name": "White memory",
+            "artist": "MANYO",
+            "id": 28466103
+        },
+        {
+            "name": "あの时、もし君が振り返ったなら",
+            "artist": "戯画",
+            "id": 753714
+        },
+        {
+            "name": "いつまでもこのままで",
+            "artist": "Peak A Soul+",
+            "id": 4922740
+        },
+        {
+            "name": "お昼は2人で",
+            "artist": "戸田信子",
+            "id": 28738500
+        },
+        {
+            "name": "ごはんできたよー",
+            "artist": "林有三",
+            "id": 26322448
+        },
+        {
+            "name": "さやか M2",
+            "artist": "猫野こめっと",
+            "id": 515466
+        },
+        {
+            "name": "それでも誰かを好きになる",
+            "artist": "松岡純也",
+            "id": 4988875
+        },
+        {
+            "name": "であい",
+            "artist": "七瀬光",
+            "id": 414118718
+        },
+        {
+            "name": "アルモリカ村",
+            "artist": "Falcom Sound Team J.D.K.",
+            "id": 28872700
+        },
+        {
+            "name": "不器用な乙女ほど美しく",
+            "artist": "浜口史郎",
+            "id": 430449
+        },
+        {
+            "name": "告白",
+            "artist": "松田彬人",
+            "id": 411315166
+        },
+        {
+            "name": "紅茶の気分なひと時",
+            "artist": "BURTON",
+            "id": 28949713
+        },
+        {
+            "name": "佳城ノスタルジア",
+            "artist": "坂本昌一郎",
+            "id": 28699438
+        },
+        {
+            "name": "眠りの訪れ",
+            "artist": "樋口秀樹",
+            "id": 583481
+        },
+        {
+            "name": "木陰",
+            "artist": "安瀬聖",
+            "id": 412951825
+        },
+        {
+            "name": "千夜の語り",
+            "artist": "ピクセルビー",
+            "id": 33861615
+        },
+        {
+            "name": "染み渡る気持ち",
+            "artist": "solfa",
+            "id": 32717818
+        },
+        {
+            "name": "同じ雲を見つめて",
+            "artist": "山西利治",
+            "id": 4970200
+        },
+        {
+            "name": "夏の終わりに",
+            "artist": "Angel Note",
+            "id": 407459037
+        },
+        {
+            "name": "星の滴-Anime Version-(M19)",
+            "artist": "三輪学",
+            "id": 431357973
+        },
+        {
+            "name": "雪溶け",
+            "artist": "Active Planets",
+            "id": 28832069
+        },
+        {
+            "name": "言の葉",
+            "artist": "Active Planets",
+            "id": 692903
+        },
+        {
+            "name": "優しい心",
+            "artist": "川田瑠夏",
+            "id": 33111799
+        },
+        {
+            "name": "願い",
+            "artist": "飯塚昌明",
+            "id": 31381263
+        },
+        {
+            "name": "雲流れ",
+            "artist": "みかん箱",
+            "id": 785902
+        },
+        {
+            "name": "図書館",
+            "artist": "RADWIMPS",
+            "id": 426881494
+        }
+    ]
+}

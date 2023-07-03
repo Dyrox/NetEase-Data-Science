@@ -1,0 +1,927 @@
+{
+    "playlist_info": {
+        "name": "如果他喜欢我，会不会不一样啊……",
+        "trackcount": 183,
+        "playcount": 1012387,
+        "creator": "每晚听歌入睡很nice",
+        "createDate": "2021-05-22",
+        "heat": 1311.0
+    },
+    "songs": [
+        {
+            "name": "Жаздың соңы",
+            "artist": "Kairat Nurtas",
+            "id": 2042064743
+        },
+        {
+            "name": "Сан тұрлі роман",
+            "artist": "ADEKE",
+            "id": 2040631154
+        },
+        {
+            "name": "Мен сүйетін ару сен ғана",
+            "artist": "ADEKE",
+            "id": 2040631155
+        },
+        {
+            "name": "Жүрегім жарасы",
+            "artist": "ADEKE",
+            "id": 2040630404
+        },
+        {
+            "name": "Самға",
+            "artist": "Батыр Байназаров",
+            "id": 2040625969
+        },
+        {
+            "name": "Tyńda",
+            "artist": "Patcha & Beka",
+            "id": 2040305472
+        },
+        {
+            "name": "Бұл соңы емес",
+            "artist": "Black Dial",
+            "id": 2040246621
+        },
+        {
+            "name": "Жан Жарым",
+            "artist": "AUKA",
+            "id": 2036862696
+        },
+        {
+            "name": "Бiр, eкі, үш",
+            "artist": "Duman",
+            "id": 2036861234
+        },
+        {
+            "name": "SU BETINDE",
+            "artist": "AUKA",
+            "id": 2036216013
+        },
+        {
+            "name": "Сағындым",
+            "artist": "BUYRAABAS",
+            "id": 2036193675
+        },
+        {
+            "name": "Kesh Meni",
+            "artist": "Rauan Qalambek",
+            "id": 2036188315
+        },
+        {
+            "name": "Екі жүрек Арасы",
+            "artist": "Duman",
+            "id": 2035914310
+        },
+        {
+            "name": "UMYTAM DEME",
+            "artist": "Rauan Qalambek",
+            "id": 2013112562
+        },
+        {
+            "name": "Менде Өлең",
+            "artist": "2RAR",
+            "id": 2024245166
+        },
+        {
+            "name": "SENNEN BASQA",
+            "artist": "Фариза Беймаханбет & Тиллабек Алихан",
+            "id": 2022145083
+        },
+        {
+            "name": "TOQTA",
+            "artist": "Тиллабек Алихан",
+            "id": 2022146700
+        },
+        {
+            "name": "SONGY AYALDAMA",
+            "artist": "AUKA",
+            "id": 2017929752
+        },
+        {
+            "name": "Janyma Kel",
+            "artist": "Mona Songz",
+            "id": 2015862875
+        },
+        {
+            "name": "Still with you （qazaq version）",
+            "artist": "XAN",
+            "id": 2015335418
+        },
+        {
+            "name": "Still with you (Speed Up)",
+            "artist": "XAN",
+            "id": 2015336841
+        },
+        {
+            "name": "DRIFT",
+            "artist": "Ninety One",
+            "id": 2013701494
+        },
+        {
+            "name": "eMoji",
+            "artist": "Ninety One",
+            "id": 2013703121
+        },
+        {
+            "name": "Dudar Ai (Speed Up)",
+            "artist": "Dake",
+            "id": 2013452276
+        },
+        {
+            "name": "Dudar Ai (Remix)",
+            "artist": "Dake",
+            "id": 2013451411
+        },
+        {
+            "name": "SAĞYNYP ÜLGERDIM SENI",
+            "artist": "SOLAIDE",
+            "id": 2008453493
+        },
+        {
+            "name": "Ақылдым (Live)",
+            "artist": "RAIM",
+            "id": 2008269150
+        },
+        {
+            "name": "AQILDI",
+            "artist": "RAIM",
+            "id": 2008015205
+        },
+        {
+            "name": "SYBYRLAIYN (Live)",
+            "artist": "JUREK",
+            "id": 2008206609
+        },
+        {
+            "name": "Әп-әдемі (Speed Up Version)",
+            "artist": "JUREK",
+            "id": 2008014829
+        },
+        {
+            "name": "Suikimdi",
+            "artist": "BEKARDI x KASYYM",
+            "id": 2006191779
+        },
+        {
+            "name": "Таптым-ау сені",
+            "artist": "Kazybek Kuraiysh",
+            "id": 2006024511
+        },
+        {
+            "name": "Өзіңды іздедым",
+            "artist": "Rauan Qalambek",
+            "id": 2004340551
+        },
+        {
+            "name": "JANA JYL (Speed up)",
+            "artist": "2RAR",
+            "id": 2003612989
+        },
+        {
+            "name": "Seni Kōzi",
+            "artist": "Adilbek Baitanat",
+            "id": 2002702247
+        },
+        {
+            "name": "Бөлме",
+            "artist": "RAIM",
+            "id": 1992386069
+        },
+        {
+            "name": "Дем",
+            "artist": "RAIM",
+            "id": 1992384263
+        },
+        {
+            "name": "Жанім ау сен",
+            "artist": "RAIM",
+            "id": 1992386070
+        },
+        {
+            "name": "Жұлдіздар",
+            "artist": "RAIM",
+            "id": 1992384264
+        },
+        {
+            "name": "Өізге",
+            "artist": "RAIM",
+            "id": 1992386071
+        },
+        {
+            "name": "Плачут все улицы (fear.Alina Gerc&Adil)",
+            "artist": "RAIM",
+            "id": 1992384265
+        },
+        {
+            "name": "Сол кейіпте қал (fear.Alina Gerc)",
+            "artist": "RAIM",
+            "id": 1992386072
+        },
+        {
+            "name": "Соңынан басына",
+            "artist": "RAIM",
+            "id": 1992386073
+        },
+        {
+            "name": "Толғау",
+            "artist": "RAIM",
+            "id": 1992384266
+        },
+        {
+            "name": "Ысырамын",
+            "artist": "RAIM",
+            "id": 1992386074
+        },
+        {
+            "name": "AIALA",
+            "artist": "JUREK",
+            "id": 1988024456
+        },
+        {
+            "name": "爱",
+            "artist": "Kazybek Kuraiysh",
+            "id": 1983494284
+        },
+        {
+            "name": "Daridai",
+            "artist": "JUREK",
+            "id": 1961264159
+        },
+        {
+            "name": "Daridai",
+            "artist": "Aidhn",
+            "id": 1961264158
+        },
+        {
+            "name": "1000000",
+            "artist": "RAIM",
+            "id": 1961262504
+        },
+        {
+            "name": "TABAMIN QALAI",
+            "artist": "2RAR",
+            "id": 1961262232
+        },
+        {
+            "name": "AGSAR ANIM",
+            "artist": "MUZART LIFE",
+            "id": 1960558382
+        },
+        {
+            "name": "Ne boldy sagan",
+            "artist": "Кобыланды Болат",
+            "id": 1960559451
+        },
+        {
+            "name": "GAZAIP TUN",
+            "artist": "Руфат Маратұлы",
+            "id": 1960095703
+        },
+        {
+            "name": "Maqabat Degen (Live)",
+            "artist": "Duman",
+            "id": 1959396439
+        },
+        {
+            "name": "Men Eshkimdi Suimeimin (Live)",
+            "artist": "2RAR",
+            "id": 1959403637
+        },
+        {
+            "name": "DRAMA",
+            "artist": "Kalifarniya",
+            "id": 1958697036
+        },
+        {
+            "name": "MAQABAT ARALE",
+            "artist": "JUREK",
+            "id": 1954947578
+        },
+        {
+            "name": "TUN",
+            "artist": "JUREK",
+            "id": 1953836767
+        },
+        {
+            "name": "Kelshi Qasyma",
+            "artist": "JUREK",
+            "id": 1953836693
+        },
+        {
+            "name": "Men Eshkimdi Suimeimin",
+            "artist": "2RAR",
+            "id": 1944487856
+        },
+        {
+            "name": "Seni Jiberemin",
+            "artist": "2RAR",
+            "id": 1877070876
+        },
+        {
+            "name": "Tunmen",
+            "artist": "2RAR",
+            "id": 1938180964
+        },
+        {
+            "name": "Әке",
+            "artist": "2RAR",
+            "id": 1953002720
+        },
+        {
+            "name": "Araym",
+            "artist": "JUREK",
+            "id": 1850343737
+        },
+        {
+            "name": "Алып Келем",
+            "artist": "JUREK",
+            "id": 1879112125
+        },
+        {
+            "name": "Кіммін Саған",
+            "artist": "JUREK",
+            "id": 1896525234
+        },
+        {
+            "name": "M.B.B.A.B.B",
+            "artist": "JUREK",
+            "id": 1917685393
+        },
+        {
+            "name": "雨",
+            "artist": "JUREK",
+            "id": 1879176369
+        },
+        {
+            "name": "AILY TUNDE",
+            "artist": "JUREK",
+            "id": 1868488701
+        },
+        {
+            "name": "Сол Қалпің",
+            "artist": "oskar",
+            "id": 1864417419
+        },
+        {
+            "name": "Mystery lady (cover)",
+            "artist": "teen",
+            "id": 1847799721
+        },
+        {
+            "name": "Жаным сол",
+            "artist": "JUREK",
+            "id": 1874451673
+        },
+        {
+            "name": "Oh My Love（吉他版）",
+            "artist": "JUREK",
+            "id": 1849465136
+        },
+        {
+            "name": "Құшағыма қысып аймалайын",
+            "artist": "raim",
+            "id": 1827331091
+        },
+        {
+            "name": "Oinamaqo",
+            "artist": "JUREK",
+            "id": 1843042880
+        },
+        {
+            "name": "Suiemin seni（YSTYQ) ",
+            "artist": "JUREK",
+            "id": 1832656534
+        },
+        {
+            "name": "Janem sol",
+            "artist": "MONA SONZ",
+            "id": 1819690108
+        },
+        {
+            "name": "мен сені сүйемін",
+            "artist": "Mona songz",
+            "id": 1820541544
+        },
+        {
+            "name": "Пальцами по губам",
+            "artist": "Ramil'",
+            "id": 1818408022
+        },
+        {
+            "name": "Echo",
+            "artist": "Erbol",
+            "id": 1465853870
+        },
+        {
+            "name": "Oralam",
+            "artist": "qrushev",
+            "id": 1479640550
+        },
+        {
+            "name": "Qayırlı tañ（早安）",
+            "artist": "АуылBoy",
+            "id": 1803564581
+        },
+        {
+            "name": "Where Are You",
+            "artist": "RAIM",
+            "id": 1838518173
+        },
+        {
+            "name": "Bir öziñdi",
+            "artist": "АуылBoy",
+            "id": 1839554090
+        },
+        {
+            "name": "nege sezbedim?",
+            "artist": "Dana Tunes",
+            "id": 1388578768
+        },
+        {
+            "name": "Saual",
+            "artist": "Madi Rymbaev",
+            "id": 1423634153
+        },
+        {
+            "name": "Qandai galamshar",
+            "artist": "Araycheg",
+            "id": 1830607645
+        },
+        {
+            "name": "Birge",
+            "artist": "O'zay & Dabyl",
+            "id": 1836310962
+        },
+        {
+            "name": "come back （Келшы）",
+            "artist": "山K",
+            "id": 1360679637
+        },
+        {
+            "name": "Suymeymin men（眼鼻嘴）",
+            "artist": "АуылBoy",
+            "id": 1822330635
+        },
+        {
+            "name": "Шоколад",
+            "artist": "Bonapart",
+            "id": 1389085956
+        },
+        {
+            "name": "Жолдар",
+            "artist": "Жубаныш Жексен",
+            "id": 1407404568
+        },
+        {
+            "name": "Bárі jaqsy bolady",
+            "artist": "Ali",
+            "id": 1498445348
+        },
+        {
+            "name": "Sham",
+            "artist": "Madi Rymbaev",
+            "id": 1367213188
+        },
+        {
+            "name": "Назар Аудармаймын",
+            "artist": "De Lacure",
+            "id": 1415646005
+        },
+        {
+            "name": "Qiyalman",
+            "artist": "Ninety One",
+            "id": 1835925453
+        },
+        {
+            "name": "Тап-татти",
+            "artist": "Zot-Bek丨Official",
+            "id": 1805122868
+        },
+        {
+            "name": "Sahenex",
+            "artist": "Shine",
+            "id": 1395654445
+        },
+        {
+            "name": "Тоқта",
+            "artist": "Абзал Утешов",
+            "id": 1403232645
+        },
+        {
+            "name": "KOGEL",
+            "artist": "MELODY-GROUP",
+            "id": 1464596029
+        },
+        {
+            "name": "Сүйіктіме ｜Suiyktyme",
+            "artist": "Serik Gamza-zade",
+            "id": 1821475270
+        },
+        {
+            "name": "12 - Kozіmnіn qarasy (Original Mix)",
+            "artist": "ALMAS duo",
+            "id": 1362559953
+        },
+        {
+            "name": "Boiy Bolgan",
+            "artist": "dudeontheguitar",
+            "id": 1470190427
+        },
+        {
+            "name": "Зын зын зын",
+            "artist": "Zonti",
+            "id": 551203021
+        },
+        {
+            "name": "baq",
+            "artist": "dudeontheguitar",
+            "id": 1813110710
+        },
+        {
+            "name": "kolenke",
+            "artist": "dudeontheguitar",
+            "id": 1813110712
+        },
+        {
+            "name": "Qoi,kursinbe",
+            "artist": "Marhaba Sabi",
+            "id": 1805017091
+        },
+        {
+            "name": "EŃ JAQYN ADAM",
+            "artist": "Rustem Zhugunussov",
+            "id": 1812450856
+        },
+        {
+            "name": "Baribir",
+            "artist": "DAQ",
+            "id": 1425984825
+        },
+        {
+            "name": "Теңіз",
+            "artist": "The Buhars",
+            "id": 1803887289
+        },
+        {
+            "name": "Okinbei tynda",
+            "artist": "Zineken",
+            "id": 1497087624
+        },
+        {
+            "name": "үндеме",
+            "artist": "The Buhars",
+            "id": 1803887290
+        },
+        {
+            "name": "airlgm kelmeidi",
+            "artist": "quttay",
+            "id": 1451440994
+        },
+        {
+            "name": "Ұмытпа сен",
+            "artist": "АуылBoy",
+            "id": 1804315471
+        },
+        {
+            "name": "Балуюсь",
+            "artist": "Ирина Кайратовна",
+            "id": 1491283067
+        },
+        {
+            "name": "Левый",
+            "artist": "canyekyey",
+            "id": 1486212519
+        },
+        {
+            "name": "Tanga Dein",
+            "artist": "canyekyey",
+            "id": 1480509437
+        },
+        {
+            "name": "Sol Bir Kesh",
+            "artist": "Madi Rymbaev",
+            "id": 1368215166
+        },
+        {
+            "name": "Aiym",
+            "artist": "Madi Rymbaev",
+            "id": 1407677008
+        },
+        {
+            "name": "Tatti bi",
+            "artist": "Muhammedali Zhugunussov",
+            "id": 1408301866
+        },
+        {
+            "name": "UAIYMDAMA",
+            "artist": "Muhammedali Zhugunussov",
+            "id": 1500114385
+        },
+        {
+            "name": "Ádemi",
+            "artist": "Screamteen",
+            "id": 1457646994
+        },
+        {
+            "name": "Songy Tun",
+            "artist": "Kyle Ruh",
+            "id": 1419040993
+        },
+        {
+            "name": "Jaryq ber",
+            "artist": "Kyle Ruh",
+            "id": 1437990562
+        },
+        {
+            "name": "Bari Tez",
+            "artist": "DAQ",
+            "id": 1396939832
+        },
+        {
+            "name": "Juregimdi Emdeshi",
+            "artist": "Shokan Ualikhan",
+            "id": 1441315452
+        },
+        {
+            "name": "Qialmai seni baramyn",
+            "artist": "The Darian",
+            "id": 1451096801
+        },
+        {
+            "name": "KYNDE-TYNDE",
+            "artist": "DemAir",
+            "id": 1407931013
+        },
+        {
+            "name": "Korikti",
+            "artist": "DemAir",
+            "id": 1437959895
+        },
+        {
+            "name": "Maley Boo",
+            "artist": "DemAir",
+            "id": 1366889266
+        },
+        {
+            "name": "Сүйген жүрек",
+            "artist": "Moldir Auelbekova",
+            "id": 1477797524
+        },
+        {
+            "name": "Ozger",
+            "artist": "Baiqan",
+            "id": 1448046720
+        },
+        {
+            "name": "Keipker",
+            "artist": "Darkhan Juzz",
+            "id": 1490263070
+        },
+        {
+            "name": "Umyt",
+            "artist": "Arsenaleen",
+            "id": 1411332989
+        },
+        {
+            "name": "SURAIDY",
+            "artist": "Kyle Ruh",
+            "id": 1497101357
+        },
+        {
+            "name": "Asylym",
+            "artist": "Zineken",
+            "id": 1497086708
+        },
+        {
+            "name": "ТЕЛЕФОНЫҢДЫ АЛ",
+            "artist": "АуылBoy",
+            "id": 1492213555
+        },
+        {
+            "name": "Көзімнің қарасы",
+            "artist": "Полина Тырина",
+            "id": 1403431528
+        },
+        {
+            "name": "Latte",
+            "artist": "RAIM",
+            "id": 1449664462
+        },
+        {
+            "name": "Интрига",
+            "artist": "RAIM",
+            "id": 1336866699
+        },
+        {
+            "name": "Oinamaqo",
+            "artist": "Ninety One",
+            "id": 1483986995
+        },
+        {
+            "name": "Ertegidegi Aru",
+            "artist": "2rar",
+            "id": 1444620681
+        },
+        {
+            "name": "Ne qalaisyn?",
+            "artist": "DAQ",
+            "id": 1392276836
+        },
+        {
+            "name": "Kiss",
+            "artist": "Moonlight",
+            "id": 1383765041
+        },
+        {
+            "name": "Еркем",
+            "artist": "2rar",
+            "id": 1434325371
+        },
+        {
+            "name": "Lova Lo",
+            "artist": "RAIM",
+            "id": 1495851505
+        },
+        {
+            "name": "В сердце",
+            "artist": "Qara Bala",
+            "id": 1378715559
+        },
+        {
+            "name": "Оп-Оңай",
+            "artist": "Марат Думан",
+            "id": 1461511742
+        },
+        {
+            "name": "Ozin Gana",
+            "artist": "2rar",
+            "id": 1444620684
+        },
+        {
+            "name": "Kimmin sagan (Original Mix)",
+            "artist": "Zineken",
+            "id": 1427330619
+        },
+        {
+            "name": "Oralma Qashqyn",
+            "artist": "TASPAY",
+            "id": 1424136863
+        },
+        {
+            "name": "Sen keregіńdі",
+            "artist": "ICE",
+            "id": 1454443253
+        },
+        {
+            "name": "Ertegi Emes",
+            "artist": "2rar",
+            "id": 1444621477
+        },
+        {
+            "name": "Сен Үшін",
+            "artist": "TASPAY",
+            "id": 1410304972
+        },
+        {
+            "name": "Cүйемін",
+            "artist": "Марат Думан",
+            "id": 1425984826
+        },
+        {
+            "name": "Uade Ber",
+            "artist": "oskar",
+            "id": 1409361403
+        },
+        {
+            "name": "Сөнген үміт",
+            "artist": "Bater official",
+            "id": 1421305613
+        },
+        {
+            "name": "Көк аспан",
+            "artist": "дастан оразбеков",
+            "id": 1388172336
+        },
+        {
+            "name": "Mooz",
+            "artist": "Ninety One",
+            "id": 548509546
+        },
+        {
+            "name": "Қош енді, жаным",
+            "artist": "ШYNGYS",
+            "id": 1420592657
+        },
+        {
+            "name": "Keregindi Al",
+            "artist": "JETI",
+            "id": 1432624300
+        },
+        {
+            "name": "Сүйгенді Сүй",
+            "artist": "TASPAY",
+            "id": 1447450815
+        },
+        {
+            "name": "Tell Me",
+            "artist": "FATBELLY",
+            "id": 1407462754
+        },
+        {
+            "name": "M.B.B.A.B.B.D.",
+            "artist": "Ninety One",
+            "id": 548509545
+        },
+        {
+            "name": "Әндетемін",
+            "artist": "Мирас Жугунусов",
+            "id": 1400259595
+        },
+        {
+            "name": "Sen maǵan kereksiń",
+            "artist": "Rustem Zhugunussov",
+            "id": 1437674405
+        },
+        {
+            "name": "Қайда ( жок жок )",
+            "artist": "еяхат музыка",
+            "id": 546500270
+        },
+        {
+            "name": "Сүю",
+            "artist": "RAIM",
+            "id": 1407322698
+        },
+        {
+            "name": "Sagat 4-Te",
+            "artist": "Jeltoksan.",
+            "id": 1425940243
+        },
+        {
+            "name": "Unamaid",
+            "artist": "Soulbirkez",
+            "id": 1378055500
+        },
+        {
+            "name": "Лучший",
+            "artist": "BN",
+            "id": 1318880202
+        },
+        {
+            "name": "Úıde",
+            "artist": "Darkhan Juzz",
+            "id": 1361223510
+        },
+        {
+            "name": "Сәукеле",
+            "artist": "Райм & Артур",
+            "id": 1336871983
+        },
+        {
+            "name": "Сүйе алмаймын.",
+            "artist": "OtravaMusic",
+            "id": 454053703
+        },
+        {
+            "name": "Ауылымды сағындым",
+            "artist": "RAIM",
+            "id": 1347417524
+        },
+        {
+            "name": "Sheksiz Sezim",
+            "artist": "Zineken",
+            "id": 1376935808
+        },
+        {
+            "name": "Qara Jorga",
+            "artist": "RAIM",
+            "id": 1372696298
+        },
+        {
+            "name": "Алыста журсен де",
+            "artist": "Нуржан Керменбаев",
+            "id": 464009762
+        },
+        {
+            "name": "Лаула",
+            "artist": "Қуандық Рахым",
+            "id": 512450469
+        },
+        {
+            "name": "Бар мен жоқ ",
+            "artist": "RAIM",
+            "id": 1336856774
+        },
+        {
+            "name": "Oralxi",
+            "artist": "Meyrban_买热班",
+            "id": 500671201
+        },
+        {
+            "name": "Менімен біле",
+            "artist": "AD丨",
+            "id": 408845099
+        }
+    ]
+}

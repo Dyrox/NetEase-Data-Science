@@ -1,0 +1,982 @@
+{
+    "playlist_info": {
+        "name": "Chillhop | 宁静深夜的陪伴",
+        "trackcount": 194,
+        "playcount": 859049,
+        "creator": "ChillhopMusic",
+        "createDate": "2019-02-18",
+        "heat": 538.0
+    },
+    "songs": [
+        {
+            "name": "Two Thousand Miles",
+            "artist": "Aviino",
+            "id": 1876539819
+        },
+        {
+            "name": "Everlight",
+            "artist": "Parkbench Epiphany",
+            "id": 1891712155
+        },
+        {
+            "name": "Warmth.",
+            "artist": "chromonicci",
+            "id": 1883800388
+        },
+        {
+            "name": "Surfloop",
+            "artist": "Philanthrope",
+            "id": 1888153517
+        },
+        {
+            "name": "Woozii",
+            "artist": "invention_",
+            "id": 1883793622
+        },
+        {
+            "name": "Burgundy",
+            "artist": "Philanthrope",
+            "id": 1888155451
+        },
+        {
+            "name": "Mortal Wombat",
+            "artist": "Ian Ewing",
+            "id": 1883800387
+        },
+        {
+            "name": "Polaroid",
+            "artist": "Mama Aiuto",
+            "id": 1882510265
+        },
+        {
+            "name": "Fingertips In The Snow",
+            "artist": "juniorodeo",
+            "id": 1883800392
+        },
+        {
+            "name": "Dawn",
+            "artist": "Hanz",
+            "id": 1883800395
+        },
+        {
+            "name": "Libra",
+            "artist": "oatmello",
+            "id": 1809713357
+        },
+        {
+            "name": "Illegal Caviar",
+            "artist": "Philanthrope",
+            "id": 1888153519
+        },
+        {
+            "name": "Soulsounds",
+            "artist": "Parkbench Epiphany",
+            "id": 1891713104
+        },
+        {
+            "name": "Bud",
+            "artist": "Loop Schrauber",
+            "id": 1809713358
+        },
+        {
+            "name": "Desire",
+            "artist": "Psalm Trees",
+            "id": 1488649527
+        },
+        {
+            "name": "Limitless.",
+            "artist": "chromonicci",
+            "id": 1804406401
+        },
+        {
+            "name": "Sandig",
+            "artist": "Testiculo Y Uno",
+            "id": 1309301868
+        },
+        {
+            "name": "Hereafter",
+            "artist": "Makzo",
+            "id": 1497840661
+        },
+        {
+            "name": "Sorry",
+            "artist": "Swørn",
+            "id": 1392031789
+        },
+        {
+            "name": "String Along",
+            "artist": "miscél",
+            "id": 1487708836
+        },
+        {
+            "name": "bringmesun Pt.2",
+            "artist": "Psalm Trees",
+            "id": 1488652231
+        },
+        {
+            "name": "Getting Stronger",
+            "artist": "Montell Fish",
+            "id": 1487708845
+        },
+        {
+            "name": "Waiting",
+            "artist": "Parkbench Epiphany",
+            "id": 1891712157
+        },
+        {
+            "name": "Hung Up",
+            "artist": "Ezzy",
+            "id": 1883800394
+        },
+        {
+            "name": "Turbulence",
+            "artist": "Parkbench Epiphany",
+            "id": 1891712156
+        },
+        {
+            "name": "samba to massage your mate by",
+            "artist": "Wun Two",
+            "id": 28273694
+        },
+        {
+            "name": "Frozen in Time",
+            "artist": "Kendall Miles",
+            "id": 1487708840
+        },
+        {
+            "name": "Funkaholic",
+            "artist": "Flitz",
+            "id": 1346275325
+        },
+        {
+            "name": "Waybackwhen",
+            "artist": "Parkbench Epiphany",
+            "id": 1891713105
+        },
+        {
+            "name": "noite em dia (feat. Alexander Van Popta)",
+            "artist": "Psalm Trees",
+            "id": 1863980236
+        },
+        {
+            "name": "Transcend",
+            "artist": "Evil Needle",
+            "id": 1883793623
+        },
+        {
+            "name": "taiguara",
+            "artist": "Psalm Trees",
+            "id": 1863980238
+        },
+        {
+            "name": "railway pulse",
+            "artist": "Sleepy Fish",
+            "id": 1846569607
+        },
+        {
+            "name": "mas lindo",
+            "artist": "Psalm Trees",
+            "id": 1863981678
+        },
+        {
+            "name": "la zona",
+            "artist": "Maydee",
+            "id": 1893536284
+        },
+        {
+            "name": "The Little Place",
+            "artist": "TARO",
+            "id": 1883800386
+        },
+        {
+            "name": "Perfect Storm",
+            "artist": "Aviino",
+            "id": 1876539818
+        },
+        {
+            "name": "Winter Chill",
+            "artist": "Emapea",
+            "id": 1883793626
+        },
+        {
+            "name": "Just Put Up Some String Lights",
+            "artist": "Sleepy Fish",
+            "id": 1879904477
+        },
+        {
+            "name": "Banksy",
+            "artist": "masked man",
+            "id": 1883800390
+        },
+        {
+            "name": "Campus",
+            "artist": "Philanthrope",
+            "id": 1888153522
+        },
+        {
+            "name": "Move It On",
+            "artist": "Vhsceral",
+            "id": 1883800391
+        },
+        {
+            "name": "Vitamin D",
+            "artist": "fantompower",
+            "id": 1863158374
+        },
+        {
+            "name": "Flight 1",
+            "artist": "BAO",
+            "id": 1883805628
+        },
+        {
+            "name": "I Main Samus Now",
+            "artist": "Sleepy Fish",
+            "id": 1879914634
+        },
+        {
+            "name": "Good Things",
+            "artist": "Aso",
+            "id": 1883805631
+        },
+        {
+            "name": "Bluefield",
+            "artist": "Philanthrope",
+            "id": 1888155456
+        },
+        {
+            "name": "Gone Forever",
+            "artist": "C Y G N",
+            "id": 1883800396
+        },
+        {
+            "name": "Nice Couch",
+            "artist": "Philanthrope",
+            "id": 1888155457
+        },
+        {
+            "name": "Slowly Gone",
+            "artist": "leavv",
+            "id": 1883800397
+        },
+        {
+            "name": "Release The Stress (Instrumental)",
+            "artist": "Lewis Parker",
+            "id": 1337691647
+        },
+        {
+            "name": "Pathways",
+            "artist": "Smile High",
+            "id": 1881521536
+        },
+        {
+            "name": "It’s All Ok",
+            "artist": "brillion.",
+            "id": 1883805629
+        },
+        {
+            "name": "Tournament Arc",
+            "artist": "Sleepy Fish",
+            "id": 1879904478
+        },
+        {
+            "name": "Bonus Book",
+            "artist": "middle school",
+            "id": 1883800398
+        },
+        {
+            "name": "Sketchbook Memory",
+            "artist": "Aviino",
+            "id": 1876539820
+        },
+        {
+            "name": "Safflower Field",
+            "artist": "Mama Aiuto",
+            "id": 1883800399
+        },
+        {
+            "name": "Sorry Matthew",
+            "artist": "Aviino",
+            "id": 1876539821
+        },
+        {
+            "name": "Better Days",
+            "artist": "Iamcloud",
+            "id": 1883800400
+        },
+        {
+            "name": "Time Went By",
+            "artist": "Delayde",
+            "id": 1872095624
+        },
+        {
+            "name": "Come Inside",
+            "artist": "C4C",
+            "id": 1883800401
+        },
+        {
+            "name": "Deja",
+            "artist": "Smile High",
+            "id": 1881527631
+        },
+        {
+            "name": "Underwater",
+            "artist": "SwuM",
+            "id": 1883800402
+        },
+        {
+            "name": "Setting Up Our Beds in Minecraft",
+            "artist": "Sleepy Fish",
+            "id": 1879914635
+        },
+        {
+            "name": "Cold Fire",
+            "artist": "Stan Forebee",
+            "id": 1883793627
+        },
+        {
+            "name": "I Will Never Stop Writing Songs About the Rain",
+            "artist": "Sleepy Fish",
+            "id": 1879904482
+        },
+        {
+            "name": "Snaring River",
+            "artist": "Moods",
+            "id": 1883793621
+        },
+        {
+            "name": "Rounds",
+            "artist": "Moo Latte",
+            "id": 1844892200
+        },
+        {
+            "name": "Happy In My Mind",
+            "artist": "Otxhello",
+            "id": 1883800385
+        },
+        {
+            "name": "003",
+            "artist": "digitalluc",
+            "id": 1355009498
+        },
+        {
+            "name": "Out Biking",
+            "artist": "Blue Wednesday",
+            "id": 1883793624
+        },
+        {
+            "name": "Peace Of Mind",
+            "artist": "Chill Select",
+            "id": 1876818784
+        },
+        {
+            "name": "Hope",
+            "artist": "Kissamilé",
+            "id": 1883793625
+        },
+        {
+            "name": "Jasmine",
+            "artist": "Aviino",
+            "id": 1876539822
+        },
+        {
+            "name": "Forecast",
+            "artist": "Ezzy",
+            "id": 1883805630
+        },
+        {
+            "name": "Getting Soup",
+            "artist": "Sleepy Fish",
+            "id": 1879914638
+        },
+        {
+            "name": "Philosophies for Arctic Explorers",
+            "artist": "Scayos",
+            "id": 1883800393
+        },
+        {
+            "name": "Coral Cadavers (Instrumental)",
+            "artist": "jr & ph7",
+            "id": 1301280379
+        },
+        {
+            "name": "Abeja",
+            "artist": "Mndsgn",
+            "id": 450553040
+        },
+        {
+            "name": "Autumn Rain",
+            "artist": "Freddie Joachim",
+            "id": 1836920196
+        },
+        {
+            "name": "Stakes Is High",
+            "artist": "Dela",
+            "id": 1434813173
+        },
+        {
+            "name": "Reign Dance",
+            "artist": "The Doppelgangaz",
+            "id": 1346706281
+        },
+        {
+            "name": "Tubes",
+            "artist": "Philanthrope",
+            "id": 1888155454
+        },
+        {
+            "name": "Haagen-Daz (Instrumental Version)",
+            "artist": "The Boulevard Connection",
+            "id": 1388780697
+        },
+        {
+            "name": "Only Meant Well",
+            "artist": "Philanthrope",
+            "id": 1888153525
+        },
+        {
+            "name": "Old Beat",
+            "artist": "mr. carmack",
+            "id": 504909050
+        },
+        {
+            "name": "Locker (Remix)",
+            "artist": "Noyland",
+            "id": 1347209550
+        },
+        {
+            "name": "Where Did You Go",
+            "artist": "Philanthrope",
+            "id": 1888153527
+        },
+        {
+            "name": "Can’t Get Enough",
+            "artist": "Montell Fish",
+            "id": 1858925787
+        },
+        {
+            "name": "Hope Island",
+            "artist": "Aviino",
+            "id": 1876537115
+        },
+        {
+            "name": "Learning How to Skateboard",
+            "artist": "Sleepy Fish",
+            "id": 1879904481
+        },
+        {
+            "name": "Nomad",
+            "artist": "Aviino",
+            "id": 1876537114
+        },
+        {
+            "name": "Saudade",
+            "artist": "Juan RIOS",
+            "id": 1861174218
+        },
+        {
+            "name": "Everything’s Gonna B Ok",
+            "artist": "Aviino",
+            "id": 1876539824
+        },
+        {
+            "name": "Southwesterly",
+            "artist": "Delayde",
+            "id": 1872105132
+        },
+        {
+            "name": "Looking In",
+            "artist": "Smile High",
+            "id": 1881527630
+        },
+        {
+            "name": "Little Bird",
+            "artist": "Liphe",
+            "id": 1858924036
+        },
+        {
+            "name": "Odyssey",
+            "artist": "Smile High",
+            "id": 1881521528
+        },
+        {
+            "name": "I Miss the Magic",
+            "artist": "Aviino",
+            "id": 1876539823
+        },
+        {
+            "name": "Clarity",
+            "artist": "fantompower",
+            "id": 1863163804
+        },
+        {
+            "name": "Triple D (Instrumental)",
+            "artist": "The Doppelgangaz",
+            "id": 1872943903
+        },
+        {
+            "name": "Man I Miss My Cats",
+            "artist": "Sleepy Fish",
+            "id": 1879904480
+        },
+        {
+            "name": "Where The Sun Goes",
+            "artist": "Delayde",
+            "id": 1872105131
+        },
+        {
+            "name": "Transparent",
+            "artist": "Smile High",
+            "id": 1881521531
+        },
+        {
+            "name": "By The Window",
+            "artist": "middle school",
+            "id": 1862613215
+        },
+        {
+            "name": "Inside a Saltwater Room",
+            "artist": "Delayde",
+            "id": 1872095625
+        },
+        {
+            "name": "Exotic Feelings",
+            "artist": "C Y G N",
+            "id": 1877167337
+        },
+        {
+            "name": "RED RING (INSTRUMENTAL)",
+            "artist": "Philanthrope",
+            "id": 1884535993
+        },
+        {
+            "name": "Memories Pt.2",
+            "artist": "Ruck P",
+            "id": 1859146629
+        },
+        {
+            "name": "Blue",
+            "artist": "Delayde",
+            "id": 1872095623
+        },
+        {
+            "name": "When I Get Up In the Morning",
+            "artist": "middle school",
+            "id": 1862614100
+        },
+        {
+            "name": "Library Card",
+            "artist": "Sleepy Fish",
+            "id": 1879904479
+        },
+        {
+            "name": "Dreamstate",
+            "artist": "Toonorth",
+            "id": 1849196783
+        },
+        {
+            "name": "Hngkng",
+            "artist": "Philanthrope",
+            "id": 1888155458
+        },
+        {
+            "name": "Places",
+            "artist": "Ruck P",
+            "id": 1859146631
+        },
+        {
+            "name": "Same Old Circles",
+            "artist": "middle school",
+            "id": 1862614101
+        },
+        {
+            "name": "Changing Lanes",
+            "artist": "sugi.wa",
+            "id": 1387656789
+        },
+        {
+            "name": "Bird In The Floorboards",
+            "artist": "Delayde",
+            "id": 1872105134
+        },
+        {
+            "name": "Fireworks Festival",
+            "artist": "Sleepy Fish",
+            "id": 1879914637
+        },
+        {
+            "name": "Gratitude",
+            "artist": "fantompower",
+            "id": 1863158375
+        },
+        {
+            "name": "Little Windows",
+            "artist": "Delayde",
+            "id": 1872095627
+        },
+        {
+            "name": "Glaciar",
+            "artist": "Juan RIOS",
+            "id": 1861174923
+        },
+        {
+            "name": "I Thought Graduating Would Feel Weirder",
+            "artist": "Sleepy Fish",
+            "id": 1879914636
+        },
+        {
+            "name": "pretty af",
+            "artist": "Aves",
+            "id": 1408204460
+        },
+        {
+            "name": "Lost In The Fire",
+            "artist": "Dotlights",
+            "id": 1849571450
+        },
+        {
+            "name": "Still",
+            "artist": "idealism",
+            "id": 1387659194
+        },
+        {
+            "name": "Driftwood",
+            "artist": "Delayde",
+            "id": 1872095626
+        },
+        {
+            "name": "Perspective",
+            "artist": "fantompower",
+            "id": 1863158376
+        },
+        {
+            "name": "Talk About It",
+            "artist": "Moods",
+            "id": 1869863484
+        },
+        {
+            "name": "There and Back",
+            "artist": "Delayde",
+            "id": 1872105133
+        },
+        {
+            "name": "Chop City",
+            "artist": "middle school",
+            "id": 1862613216
+        },
+        {
+            "name": "Viatecture",
+            "artist": "Makzo",
+            "id": 1853134033
+        },
+        {
+            "name": "THIRTYSEVEN",
+            "artist": "L'indécis",
+            "id": 1864788331
+        },
+        {
+            "name": "Move",
+            "artist": "fantompower",
+            "id": 1863163803
+        },
+        {
+            "name": "9:45",
+            "artist": "L'indécis",
+            "id": 1864788985
+        },
+        {
+            "name": "All The Tired Ways (Philanthrope Remix)",
+            "artist": "Dotlights",
+            "id": 1867153739
+        },
+        {
+            "name": "Blueshift",
+            "artist": "FloFilz",
+            "id": 1501607105
+        },
+        {
+            "name": "Objects With Intent (j'san Remix)",
+            "artist": "Dotlights",
+            "id": 1867150481
+        },
+        {
+            "name": "Boardwalk (Bad Snacks Remix)",
+            "artist": "Imagiro",
+            "id": 1856511646
+        },
+        {
+            "name": "FLIP",
+            "artist": "L'indécis",
+            "id": 1864788987
+        },
+        {
+            "name": "Cabaña",
+            "artist": "Juan RIOS",
+            "id": 1861174216
+        },
+        {
+            "name": "Chit Chat",
+            "artist": "middle school",
+            "id": 1862613214
+        },
+        {
+            "name": "OFF WHITE (Instrumental)",
+            "artist": "Philanthrope",
+            "id": 1864802748
+        },
+        {
+            "name": "Windward",
+            "artist": "Anbuu",
+            "id": 1859831362
+        },
+        {
+            "name": "Vscrl_",
+            "artist": "invention_",
+            "id": 525239319
+        },
+        {
+            "name": "Mellowed Out Cruisin (HazyMix)",
+            "artist": "BudaMunk",
+            "id": 31643952
+        },
+        {
+            "name": "Cherish",
+            "artist": "Shrimpnose",
+            "id": 1488720256
+        },
+        {
+            "name": "Morning Rides",
+            "artist": "Brous One",
+            "id": 1446079112
+        },
+        {
+            "name": "exits",
+            "artist": "Sleepy Fish",
+            "id": 1846569609
+        },
+        {
+            "name": "Don't Be Shy (Instrumental)",
+            "artist": "Sensi Sye",
+            "id": 1408027272
+        },
+        {
+            "name": "Reason",
+            "artist": "Ruck P",
+            "id": 1859146633
+        },
+        {
+            "name": "Luz",
+            "artist": "Juan RIOS",
+            "id": 1861174219
+        },
+        {
+            "name": "Be Here Now (Chillhop Live Session)",
+            "artist": "Chillhop Music",
+            "id": 1857991114
+        },
+        {
+            "name": "What If I Told You",
+            "artist": "Juan RIOS",
+            "id": 1861174217
+        },
+        {
+            "name": "Space Drift",
+            "artist": "Mono:Massive",
+            "id": 511921481
+        },
+        {
+            "name": "Have Doughnut (Shigeto Remix)",
+            "artist": "Dotlights",
+            "id": 1863641064
+        },
+        {
+            "name": "Lost Sight",
+            "artist": "Elaquent",
+            "id": 1815241368
+        },
+        {
+            "name": "Lavish",
+            "artist": "Toonorth",
+            "id": 1848022473
+        },
+        {
+            "name": "The Way We Were",
+            "artist": "middle school",
+            "id": 1862614102
+        },
+        {
+            "name": "Cause",
+            "artist": "Vhsceral",
+            "id": 1501922238
+        },
+        {
+            "name": "Cocktail Hour",
+            "artist": "Strehlow",
+            "id": 1454213790
+        },
+        {
+            "name": "Halklow",
+            "artist": "middle school",
+            "id": 1862614104
+        },
+        {
+            "name": "Fat Bao",
+            "artist": "Vhsceral",
+            "id": 1382794347
+        },
+        {
+            "name": "Toddle",
+            "artist": "Oddfish",
+            "id": 1831956248
+        },
+        {
+            "name": "Passing Notes",
+            "artist": "middle school",
+            "id": 1862614103
+        },
+        {
+            "name": "Libélula",
+            "artist": "Juan RIOS",
+            "id": 1861174221
+        },
+        {
+            "name": "jazz ting",
+            "artist": "Otxhello",
+            "id": 1367387978
+        },
+        {
+            "name": "Caravan",
+            "artist": "Makzo",
+            "id": 1853134919
+        },
+        {
+            "name": "Kakuna",
+            "artist": "Glue70",
+            "id": 1805229070
+        },
+        {
+            "name": "sopha",
+            "artist": "plusma",
+            "id": 1408202741
+        },
+        {
+            "name": "Leña",
+            "artist": "Juan RIOS",
+            "id": 1861174924
+        },
+        {
+            "name": "LuvnYou (Chillhop Live Session)",
+            "artist": "Chillhop Music",
+            "id": 1857991115
+        },
+        {
+            "name": "Esfera (Instrumental)",
+            "artist": "Juan RIOS",
+            "id": 1861174925
+        },
+        {
+            "name": "Hillside.",
+            "artist": "chromonicci",
+            "id": 1831955224
+        },
+        {
+            "name": "throwback port",
+            "artist": "Philanthrope",
+            "id": 1382794943
+        },
+        {
+            "name": "Stagnant",
+            "artist": "Supertask",
+            "id": 1382778841
+        },
+        {
+            "name": "Ámbar",
+            "artist": "Juan RIOS",
+            "id": 1861174223
+        },
+        {
+            "name": "New Moon",
+            "artist": "Toonorth",
+            "id": 1848022503
+        },
+        {
+            "name": "L.A. Vibe",
+            "artist": "Iman Omari",
+            "id": 1448741244
+        },
+        {
+            "name": "Cueva",
+            "artist": "Juan RIOS",
+            "id": 1861174224
+        },
+        {
+            "name": "Elusive",
+            "artist": "Arbour",
+            "id": 1828016659
+        },
+        {
+            "name": "After Dark",
+            "artist": "sugi.wa",
+            "id": 1422182056
+        },
+        {
+            "name": "vhs tapes 1993-1996",
+            "artist": "Edapollo",
+            "id": 1501276472
+        },
+        {
+            "name": "Memories Pt.1",
+            "artist": "Ruck P",
+            "id": 1859146628
+        },
+        {
+            "name": "Say",
+            "artist": "Kankick",
+            "id": 1433353808
+        },
+        {
+            "name": "Shine",
+            "artist": "Ruck P",
+            "id": 1859146632
+        },
+        {
+            "name": "Remedy",
+            "artist": "Dotlights",
+            "id": 1849571448
+        },
+        {
+            "name": "Look",
+            "artist": "Kev Brown",
+            "id": 567660064
+        },
+        {
+            "name": "Nomind",
+            "artist": "FloFilz",
+            "id": 29458280
+        },
+        {
+            "name": "Driftwood",
+            "artist": "Fujitsu",
+            "id": 569890970
+        },
+        {
+            "name": "Grim Canaria",
+            "artist": "Dotlights",
+            "id": 1849571782
+        },
+        {
+            "name": "Have Doughnut",
+            "artist": "Dotlights",
+            "id": 1849571783
+        },
+        {
+            "name": "Grid Search",
+            "artist": "afternoon bike ride",
+            "id": 1847597226
+        },
+        {
+            "name": "Puesta De Sol",
+            "artist": "Juan RIOS",
+            "id": 1861174926
+        }
+    ]
+}
