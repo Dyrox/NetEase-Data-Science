@@ -29,11 +29,16 @@ def generate_playlist_json(playlist_id):
         playlist_name = playlist_info['playlist']['name'] 
     except:
         print(f'\033[91m {playlist_id}无法获取歌单ID\033[0m')
-        return
+        
     
+
+
+
 
     file_name = f'{playlist_name} - {playlist_id}.json'
     file_name = file_name.replace('/', '')
+    file_name = file_name.replace('"','')
+    file_name = file_name.replace('“','')
 
     if os.path.exists(os.path.join(folder_name, file_name)):
         print(f'\033[92m {playlist_id}已存在\033[0m')
@@ -51,7 +56,7 @@ def generate_playlist_json(playlist_id):
     playlist_createDate = convert_timestamp_to_date(playlist_createTimeStamp)
 
     
-    
+    file_path = os.path.join(folder_name, file_name)
 
     playlist_json = {
         'playlist_info': {
@@ -65,11 +70,18 @@ def generate_playlist_json(playlist_id):
         'songs': []
     }
 
+
     try:
         playlist_tracks = get_playlist_tracks(playlist_id)
 
+
     except:
         print(f'\033[91m {playlist_id}无法获取歌单信息\033[0m')
+        file_name = f'[歌单内容获取失败]{file_name}'
+        file_path = os.path.join(folder_name, file_name)
+        with open(file_path, 'w', encoding='utf-8') as f:
+            json.dump([], f, indent=4, ensure_ascii=False)
+        
         return
     
 
@@ -81,7 +93,7 @@ def generate_playlist_json(playlist_id):
         }
         playlist_json['songs'].append(one_song)
 
-    file_path = os.path.join(folder_name, file_name)
+    
 
     with open(file_path, 'w', encoding='utf-8') as f:
         json.dump(playlist_json, f, indent=4, ensure_ascii=False)
