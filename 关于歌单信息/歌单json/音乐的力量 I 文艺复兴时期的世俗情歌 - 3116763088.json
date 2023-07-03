@@ -1,0 +1,362 @@
+{
+    "playlist_info": {
+        "name": "音乐的力量 I 文艺复兴时期的世俗情歌",
+        "trackcount": 70,
+        "playcount": 747035,
+        "creator": "一只喵喵喵星人",
+        "createDate": "2019-12-13",
+        "heat": 575.0
+    },
+    "songs": [
+        {
+            "name": "Vive Le Roy",
+            "artist": "Josquin des Prez",
+            "id": 561301331
+        },
+        {
+            "name": "01-II: Caro, amoroso neo. (Prima Parte)",
+            "artist": "Carlo Gesualdo",
+            "id": 485833601
+        },
+        {
+            "name": "Une jeune fillette",
+            "artist": "Jordi Savall",
+            "id": 1508898
+        },
+        {
+            "name": "Allegro from \"Concerto for Lute, 2 Violins and Continuo in D, RV. 93\"",
+            "artist": "New London Consort",
+            "id": 31152707
+        },
+        {
+            "name": "Folias Criollas",
+            "artist": "Jordi Savall",
+            "id": 1508260
+        },
+        {
+            "name": "02-II: Ma se tale hà costei. (Seconda Parte)",
+            "artist": "Carlo Gesualdo",
+            "id": 485833602
+        },
+        {
+            "name": "L'Orfeo / Act 2:Ritornello-Vi ricorda o bosch'ombrosi",
+            "artist": "New London Consort",
+            "id": 37707419
+        },
+        {
+            "name": "Io tacerò",
+            "artist": "Manfred Schreier",
+            "id": 556522166
+        },
+        {
+            "name": "L'Orfeo - Prologo:Toccata",
+            "artist": "New London Consort",
+            "id": 37707410
+        },
+        {
+            "name": "Plainchant: Pange lingua",
+            "artist": "Josquin des Prez",
+            "id": 1610431
+        },
+        {
+            "name": "A Sad Pavan for These Distracted Tymes",
+            "artist": "Thomas Tomkins",
+            "id": 565290675
+        },
+        {
+            "name": "Missa La sol fa re mi: Sanctus & Benedictus",
+            "artist": "Josquin des Prez",
+            "id": 1610446
+        },
+        {
+            "name": "enigme",
+            "artist": "Manfred Schreier",
+            "id": 556521178
+        },
+        {
+            "name": "Patientiam muss ich hen, Patientia: Mein Fleiss und Mueh (Arr. Kelly)",
+            "artist": "Frances Kelly",
+            "id": 568320186
+        },
+        {
+            "name": "Concerto for Lute, 2 Violins and Continuo in D major, RV 93:3. Allegro",
+            "artist": "Tom Finucane",
+            "id": 1806042160
+        },
+        {
+            "name": "Das G'laut zu Speyer",
+            "artist": "The Royal Wind Music",
+            "id": 555492423
+        },
+        {
+            "name": "Ricercar VII: Ricercar VII",
+            "artist": "Jaroslav Tuma",
+            "id": 555479209
+        },
+        {
+            "name": "Civitas Sancti Tui",
+            "artist": "Gordon Stewart",
+            "id": 529744108
+        },
+        {
+            "name": "Water Music - Suite #1 In F, HWV 348 - Prelude",
+            "artist": "Jordi Savall",
+            "id": 552328482
+        },
+        {
+            "name": "Canon",
+            "artist": "Pro arte antiqua",
+            "id": 553302999
+        },
+        {
+            "name": "Ha Venido: No. 1, La Primavera",
+            "artist": "Luigi Nono",
+            "id": 492752551
+        },
+        {
+            "name": "Magnificat: Magnificat",
+            "artist": "John Dunstable",
+            "id": 569454657
+        },
+        {
+            "name": "Agnus Dei",
+            "artist": "Schola Discantus",
+            "id": 531187904
+        },
+        {
+            "name": "Prophetiae Sibyllarum: Carmina Chromatico",
+            "artist": "Orlandus Lassus",
+            "id": 544526067
+        },
+        {
+            "name": "Salve Crux (Arr. Wood)",
+            "artist": "The New London Chamber Choir",
+            "id": 556125414
+        },
+        {
+            "name": "The Feast of Fools / Mass of the Asses, Drunkards and Gamblers:Lux optata claruit",
+            "artist": "New London Consort",
+            "id": 36529855
+        },
+        {
+            "name": "A Collection of the Sacred Compositions:No. 15, This Is the Record of John",
+            "artist": "Orlando Gibbons",
+            "id": 535667805
+        },
+        {
+            "name": "Italská renesanční poezie a hudba",
+            "artist": "Prague Madrigal Singers and Orchestra",
+            "id": 1405376096
+        },
+        {
+            "name": "Ha Venido: No. 3, Y el Doble Sauce",
+            "artist": "Luigi Nono",
+            "id": 492752553
+        },
+        {
+            "name": "Verbum caro factum est",
+            "artist": "Augsburger Domsingknaben",
+            "id": 1328071288
+        },
+        {
+            "name": "Requiem: Introitus",
+            "artist": "Laudantes Consort",
+            "id": 561514723
+        },
+        {
+            "name": "Nun bin Ich einmal frei, .",
+            "artist": "Pavel Jurkovič",
+            "id": 1470214352
+        },
+        {
+            "name": "Canzona",
+            "artist": "Roman Perucki",
+            "id": 559667883
+        },
+        {
+            "name": "Gia torna a rallegrar l'aria e la terra",
+            "artist": "Corale Polifonica Valchiusella",
+            "id": 553715429
+        },
+        {
+            "name": "O Clarissima mater",
+            "artist": "Hildegard Von Bingen",
+            "id": 490523332
+        },
+        {
+            "name": "Lít Allar Tínar Leiðir",
+            "artist": "Nicolina",
+            "id": 507271329
+        },
+        {
+            "name": "Moro, lasso",
+            "artist": "Manfred Schreier",
+            "id": 556521180
+        },
+        {
+            "name": "Ich hab´ vermeint, .",
+            "artist": "Angel Jankov",
+            "id": 1470214355
+        },
+        {
+            "name": "Le cuer est bon (à 3, à 4) - Reprise (à 4 (Arr. Thorby))",
+            "artist": "Claudin de Sermisy",
+            "id": 551686740
+        },
+        {
+            "name": "08-II: Ma se avverrà ch'io moia. (Seconda Parte)",
+            "artist": "Carlo Gesualdo",
+            "id": 485833608
+        },
+        {
+            "name": "In va, dunque",
+            "artist": "Neue Vocalsolisten Stuttgart",
+            "id": 556522168
+        },
+        {
+            "name": "Tant que vivray",
+            "artist": "Capella de la Torre",
+            "id": 568212767
+        },
+        {
+            "name": "Venus du und dein Kind, .",
+            "artist": "Václav Bechyně",
+            "id": 1470214353
+        },
+        {
+            "name": "Musique de joie: Branle de bourgoigne No 1 / Branle de bourgoigne No 2 / Branle de bourgoigne No 3 / Branle gay",
+            "artist": "anonymous",
+            "id": 562195819
+        },
+        {
+            "name": "04-II: Se per lieve ferita. (Prima Parte)",
+            "artist": "Carlo Gesualdo",
+            "id": 485833604
+        },
+        {
+            "name": "Missa Ave regina caelorum: Credo",
+            "artist": "Prague Madrigal Singers",
+            "id": 563031937
+        },
+        {
+            "name": "A dur. Marias Besuch bei Elisabeth: Sonata",
+            "artist": "Heinrich Ignaz Franz Biber",
+            "id": 536007544
+        },
+        {
+            "name": "Capricciata e contrappunto bestiale alla mente",
+            "artist": "Corale Polifonica Valchiusella",
+            "id": 553715430
+        },
+        {
+            "name": "Brandenburg Concerto No. 2 in F Major, BWV 1047:I. (without tempo indication)",
+            "artist": "Academy of St. Martin in the Fields",
+            "id": 22294014
+        },
+        {
+            "name": "14-II: Nè tien face o saetta. (Seconda Parte)",
+            "artist": "Carlo Gesualdo",
+            "id": 485833614
+        },
+        {
+            "name": "Brandenburg Concerto No. 4 in G, BWV 1049:I. Allegro",
+            "artist": "Academy of St. Martin in the Fields",
+            "id": 22294020
+        },
+        {
+            "name": "17-II: E quella arpa felice. (Seconda Parte)",
+            "artist": "Carlo Gesualdo",
+            "id": 485833617
+        },
+        {
+            "name": "La, La, La",
+            "artist": "Cristián Hernánez Larguía",
+            "id": 562195817
+        },
+        {
+            "name": "Sixiéme Suite from: Troisième Livre de Pièces de Clavecin",
+            "artist": "Josse Boutmy",
+            "id": 562531688
+        },
+        {
+            "name": "Phantasy Upon One Note",
+            "artist": "Pro arte antiqua",
+            "id": 553303000
+        },
+        {
+            "name": "Du mien amant",
+            "artist": "Noël Akchoté",
+            "id": 490050995
+        },
+        {
+            "name": "O Pastor animarum",
+            "artist": "Hildegard von Bingen",
+            "id": 544526068
+        },
+        {
+            "name": "Factor Orbis (Arr. Wood)",
+            "artist": "James Wood",
+            "id": 556124862
+        },
+        {
+            "name": "Missa pro defunctis: II. Te decet hymnus",
+            "artist": "Kühn Chamber Soloists",
+            "id": 530677503
+        },
+        {
+            "name": "Gloria",
+            "artist": "Schola Discantus",
+            "id": 531187905
+        },
+        {
+            "name": "(V5) O dolorosa gioia",
+            "artist": "Noël Akchoté",
+            "id": 29354961
+        },
+        {
+            "name": "Veni Sancte Spiritus",
+            "artist": "John Dunstable",
+            "id": 548326767
+        },
+        {
+            "name": "The Beloved: II. Quam Pulcra Es",
+            "artist": "Lionheart",
+            "id": 561624154
+        },
+        {
+            "name": "03-II: Hai rotto e sciolto e spento.",
+            "artist": "Carlo Gesualdo",
+            "id": 485833603
+        },
+        {
+            "name": "Ricercar a 4",
+            "artist": "Symposium Musicum",
+            "id": 537695576
+        },
+        {
+            "name": "Lustgarten, Intradas: Intrada No. 45",
+            "artist": "Hans Leo Hassler",
+            "id": 533071882
+        },
+        {
+            "name": "Intabulations from the Clemens Hör organ book: 3. Allein din Huld",
+            "artist": "The Choir of Gonville & Caius College Cambridge",
+            "id": 538141893
+        },
+        {
+            "name": "A Sad Pavan for These Distracted Times, MB 53",
+            "artist": "Simon Ponsford",
+            "id": 561598621
+        },
+        {
+            "name": "Sing Unto God",
+            "artist": "Red Byrd",
+            "id": 535667807
+        },
+        {
+            "name": "L'Orfeo - Act 1:Lasciate i monti",
+            "artist": "New London Consort",
+            "id": 37707414
+        }
+    ]
+}

@@ -1,0 +1,562 @@
+{
+    "playlist_info": {
+        "name": "我是歌手【第一季】",
+        "trackcount": 110,
+        "playcount": 507469,
+        "creator": "孔大锤",
+        "createDate": "2016-03-20",
+        "heat": 190.0
+    },
+    "songs": [
+        {
+            "name": "梦田 (Live)",
+            "artist": "齐秦",
+            "id": 26191005
+        },
+        {
+            "name": "给所有知道我名字的人 (Live)",
+            "artist": "羽·泉",
+            "id": 26191004
+        },
+        {
+            "name": "浮夸 (Live)",
+            "artist": "林志炫",
+            "id": 26191007
+        },
+        {
+            "name": "只有你 (Live)",
+            "artist": "黄绮珊",
+            "id": 26191003
+        },
+        {
+            "name": "我离开我自己 (Live)",
+            "artist": "杨宗纬",
+            "id": 26191002
+        },
+        {
+            "name": "相见恨晚 (Live)",
+            "artist": "彭佳慧",
+            "id": 26191001
+        },
+        {
+            "name": "味道 (Live)",
+            "artist": "辛晓琪",
+            "id": 26188043
+        },
+        {
+            "name": "Easy Lover (Live)",
+            "artist": "林志炫",
+            "id": 26188042
+        },
+        {
+            "name": "我要我们在一起 (Live)",
+            "artist": "杨宗纬",
+            "id": 26188041
+        },
+        {
+            "name": "十年 (Live)",
+            "artist": "沙宝亮",
+            "id": 26188040
+        },
+        {
+            "name": "Everything I Do (Live)",
+            "artist": "周晓鸥",
+            "id": 26188039
+        },
+        {
+            "name": "奔跑＋冷酷到底 (Live)",
+            "artist": "羽·泉",
+            "id": 26188038
+        },
+        {
+            "name": "当爱已成往事 (Live)",
+            "artist": "辛晓琪",
+            "id": 26188037
+        },
+        {
+            "name": "Without You (Live)",
+            "artist": "黄绮珊",
+            "id": 26188035
+        },
+        {
+            "name": "天下没有不散的宴席 (Live)",
+            "artist": "周晓鸥",
+            "id": 26184006
+        },
+        {
+            "name": "闷 (Live)",
+            "artist": "尚雯婕",
+            "id": 26182041
+        },
+        {
+            "name": "Better Man (Live)",
+            "artist": "陈明",
+            "id": 26182039
+        },
+        {
+            "name": "龙的传人 (Live)",
+            "artist": "黄贯中",
+            "id": 26182033
+        },
+        {
+            "name": "最爱",
+            "artist": "杨宗纬",
+            "id": 26142919
+        },
+        {
+            "name": "大地",
+            "artist": "羽·泉",
+            "id": 26142920
+        },
+        {
+            "name": "Memory",
+            "artist": "辛晓琪",
+            "id": 26142918
+        },
+        {
+            "name": "回家+断了线",
+            "artist": "林志炫",
+            "id": 26142916
+        },
+        {
+            "name": "One Moment In Time",
+            "artist": "彭佳慧",
+            "id": 26142917
+        },
+        {
+            "name": "一样的月光",
+            "artist": "黄绮珊",
+            "id": 26142915
+        },
+        {
+            "name": "流星无悔(狮子王改编)",
+            "artist": "周晓鸥",
+            "id": 26142921
+        },
+        {
+            "name": "我就是这样的 (Live)",
+            "artist": "黄贯中",
+            "id": 26075651
+        },
+        {
+            "name": "我 (Live)",
+            "artist": "尚雯婕",
+            "id": 26075650
+        },
+        {
+            "name": "馋 (Live)",
+            "artist": "杨宗纬",
+            "id": 26075645
+        },
+        {
+            "name": "梨花又开放 (Live)",
+            "artist": "陈明",
+            "id": 26075647
+        },
+        {
+            "name": "Someone Like You (Live)",
+            "artist": "沙宝亮",
+            "id": 26075644
+        },
+        {
+            "name": "最初的信仰 (Live)",
+            "artist": "沙宝亮",
+            "id": 26075654
+        },
+        {
+            "name": "寂寞让我如此美丽 (Live)",
+            "artist": "陈明",
+            "id": 26075646
+        },
+        {
+            "name": "流浪记 (Live)",
+            "artist": "杨宗纬",
+            "id": 26075648
+        },
+        {
+            "name": "战 (Live)",
+            "artist": "尚雯婕",
+            "id": 26075653
+        },
+        {
+            "name": "特别的爱给特别的你 (Live)",
+            "artist": "黄贯中",
+            "id": 26075649
+        },
+        {
+            "name": "我只在乎你 (Live)",
+            "artist": "齐秦",
+            "id": 26045013
+        },
+        {
+            "name": "爱情宣言＋九个太阳 (Live)",
+            "artist": "周晓鸥",
+            "id": 26045009
+        },
+        {
+            "name": "原来的我 (Live)",
+            "artist": "辛晓琪",
+            "id": 26045016
+        },
+        {
+            "name": "往事随风 (Live)",
+            "artist": "沙宝亮",
+            "id": 26045014
+        },
+        {
+            "name": "狂流 (Live)",
+            "artist": "羽·泉",
+            "id": 26045012
+        },
+        {
+            "name": "不让我的眼泪陪我过夜 (Live)",
+            "artist": "黄绮珊",
+            "id": 26045010
+        },
+        {
+            "name": "残酷的温柔 (Live)",
+            "artist": "彭佳慧",
+            "id": 26045011
+        },
+        {
+            "name": "夜夜夜夜 (Live)",
+            "artist": "林志炫",
+            "id": 26045015
+        },
+        {
+            "name": "Dog Days Are Over (Live)",
+            "artist": "尚雯婕",
+            "id": 25984154
+        },
+        {
+            "name": "走在红毯那一天 (Live)",
+            "artist": "彭佳慧",
+            "id": 25984155
+        },
+        {
+            "name": "不再掩饰 (Live)",
+            "artist": "周晓鸥",
+            "id": 25984158
+        },
+        {
+            "name": "亲爱的小孩 (Live)",
+            "artist": "辛晓琪",
+            "id": 25984151
+        },
+        {
+            "name": "死了都要爱 (Live)",
+            "artist": "沙宝亮",
+            "id": 25984153
+        },
+        {
+            "name": "男人哭吧不是罪 (Live)",
+            "artist": "羽·泉",
+            "id": 25984156
+        },
+        {
+            "name": "Making Love Out Of Nothing At All (Live)",
+            "artist": "林志炫",
+            "id": 25984152
+        },
+        {
+            "name": "剪爱 (Live)",
+            "artist": "黄绮珊",
+            "id": 25984157
+        },
+        {
+            "name": "你的眼神 (Live)",
+            "artist": "林志炫",
+            "id": 25782713
+        },
+        {
+            "name": "爱 (Live)",
+            "artist": "羽·泉",
+            "id": 25782712
+        },
+        {
+            "name": "Super star (Live)",
+            "artist": "尚雯婕",
+            "id": 25782711
+        },
+        {
+            "name": "无地自容 (Live)",
+            "artist": "周晓鸥",
+            "id": 25782716
+        },
+        {
+            "name": "至少还有你 (Live)",
+            "artist": "辛晓琪",
+            "id": 25782717
+        },
+        {
+            "name": "让我一次爱个够  (Live)",
+            "artist": "黄绮珊",
+            "id": 25782715
+        },
+        {
+            "name": "你快回来 (Live)",
+            "artist": "沙宝亮",
+            "id": 25782714
+        },
+        {
+            "name": "听说爱情回来过 (Live)",
+            "artist": "陈明",
+            "id": 25730246
+        },
+        {
+            "name": "领悟 (Live)",
+            "artist": "辛晓琪",
+            "id": 25730249
+        },
+        {
+            "name": "无情的雨无情的你 (Live)",
+            "artist": "周晓鸥",
+            "id": 25730247
+        },
+        {
+            "name": "Opera (Live)",
+            "artist": "林志炫",
+            "id": 25730245
+        },
+        {
+            "name": "大中国 (Live)",
+            "artist": "羽·泉",
+            "id": 25730248
+        },
+        {
+            "name": "Moves Like Jagger (Live)",
+            "artist": "尚雯婕",
+            "id": 25730244
+        },
+        {
+            "name": "The Power Of Love (Live)",
+            "artist": "黄绮珊",
+            "id": 25730243
+        },
+        {
+            "name": "鸿雁 (Live)",
+            "artist": "沙宝亮",
+            "id": 25730242
+        },
+        {
+            "name": "回来 (Live)",
+            "artist": "黄绮珊",
+            "id": 25723152
+        },
+        {
+            "name": "天空 (Live)",
+            "artist": "周晓鸥",
+            "id": 25723153
+        },
+        {
+            "name": "烟花易冷 (Live)",
+            "artist": "林志炫",
+            "id": 25723157
+        },
+        {
+            "name": "新不了情 (Live)",
+            "artist": "陈明",
+            "id": 25723156
+        },
+        {
+            "name": "王妃 (Live)",
+            "artist": "尚雯婕",
+            "id": 25723154
+        },
+        {
+            "name": "我想有个家 (Live)",
+            "artist": "羽·泉",
+            "id": 25723155
+        },
+        {
+            "name": "让每个人都心碎 (Live)",
+            "artist": "沙宝亮",
+            "id": 25723151
+        },
+        {
+            "name": "空白格 (Live)",
+            "artist": "杨宗纬",
+            "id": 25714352
+        },
+        {
+            "name": "爱不爱我 (Live)",
+            "artist": "周晓鸥",
+            "id": 25714353
+        },
+        {
+            "name": "没离开过 (Live)",
+            "artist": "林志炫",
+            "id": 25714355
+        },
+        {
+            "name": "日不落 (Live)",
+            "artist": "陈明",
+            "id": 25714349
+        },
+        {
+            "name": "女人的选择 (Live)",
+            "artist": "沙宝亮",
+            "id": 25714351
+        },
+        {
+            "name": "牵手 (Live)",
+            "artist": "黄绮珊",
+            "id": 25714350
+        },
+        {
+            "name": "Man In The Mirror (Live)",
+            "artist": "尚雯婕",
+            "id": 25714354
+        },
+        {
+            "name": "再回首 (Live)",
+            "artist": "羽·泉",
+            "id": 25714348
+        },
+        {
+            "name": "征服 (Live)",
+            "artist": "杨宗纬",
+            "id": 25714280
+        },
+        {
+            "name": "心痛的感觉 (Live)",
+            "artist": "陈明",
+            "id": 25714279
+        },
+        {
+            "name": "你把我灌醉 (Live)",
+            "artist": "沙宝亮",
+            "id": 25714276
+        },
+        {
+            "name": "跟着感觉走 (Live)",
+            "artist": "黄绮珊",
+            "id": 25714274
+        },
+        {
+            "name": "如果云知道 (Live)",
+            "artist": "齐秦",
+            "id": 25714278
+        },
+        {
+            "name": "可惜不是你 (Live)",
+            "artist": "尚雯婕",
+            "id": 25714275
+        },
+        {
+            "name": "热情的沙漠 (Live)",
+            "artist": "羽·泉",
+            "id": 25714277
+        },
+        {
+            "name": "我终于失去了你 (Live)",
+            "artist": "黄贯中",
+            "id": 25714087
+        },
+        {
+            "name": "矜持 (Live)",
+            "artist": "杨宗纬",
+            "id": 25714086
+        },
+        {
+            "name": "情人的眼泪+思念是一种病 (Live)",
+            "artist": "陈明",
+            "id": 25714083
+        },
+        {
+            "name": "I Will Always Love You (Live)",
+            "artist": "黄绮珊",
+            "id": 25714085
+        },
+        {
+            "name": "张三的歌 (Live)",
+            "artist": "齐秦",
+            "id": 25714084
+        },
+        {
+            "name": "浏阳河 (Live)",
+            "artist": "沙宝亮",
+            "id": 25714080
+        },
+        {
+            "name": "Let's Get It Started (Live)",
+            "artist": "尚雯婕",
+            "id": 25714081
+        },
+        {
+            "name": "老男孩 (Live)",
+            "artist": "羽·泉",
+            "id": 25714082
+        },
+        {
+            "name": "当我想你的时候 (Live)",
+            "artist": "陈明",
+            "id": 25702216
+        },
+        {
+            "name": "吻别 (Live)",
+            "artist": "黄贯中",
+            "id": 25702217
+        },
+        {
+            "name": "离不开你 (Live)",
+            "artist": "黄绮珊",
+            "id": 25702218
+        },
+        {
+            "name": "用心良苦 (Live)",
+            "artist": "齐秦",
+            "id": 25702219
+        },
+        {
+            "name": "秋意浓 (Live)",
+            "artist": "沙宝亮",
+            "id": 25702220
+        },
+        {
+            "name": "你怎么舍得我难过 (Live)",
+            "artist": "尚雯婕",
+            "id": 25702221
+        },
+        {
+            "name": "烛光里的妈妈",
+            "artist": "羽·泉",
+            "id": 25702222
+        },
+        {
+            "name": "飘",
+            "artist": "沙宝亮",
+            "id": 25702227
+        },
+        {
+            "name": "夜夜夜夜",
+            "artist": "齐秦",
+            "id": 25702226
+        },
+        {
+            "name": "等你爱我",
+            "artist": "陈明",
+            "id": 25702223
+        },
+        {
+            "name": "等待",
+            "artist": "黄绮珊",
+            "id": 25702225
+        },
+        {
+            "name": "海阔天空 (Live)",
+            "artist": "黄贯中",
+            "id": 25702224
+        },
+        {
+            "name": "最终信仰",
+            "artist": "尚雯婕",
+            "id": 25702228
+        },
+        {
+            "name": "心似狂潮",
+            "artist": "羽·泉",
+            "id": 25702229
+        }
+    ]
+}

@@ -1,0 +1,492 @@
+{
+    "playlist_info": {
+        "name": "华语独立乐团｜将温柔塞满黄昏",
+        "trackcount": 96,
+        "playcount": 2382091,
+        "creator": "蜜糖男孩",
+        "createDate": "2020-02-08",
+        "heat": 1918.0
+    },
+    "songs": [
+        {
+            "name": "我曾诅咒你",
+            "artist": "槑槑MEIMEI乐队",
+            "id": 2029308796
+        },
+        {
+            "name": "深海怪物",
+            "artist": "Tizzy Bac",
+            "id": 1318687266
+        },
+        {
+            "name": "一见钟情",
+            "artist": "大都会乐团",
+            "id": 1919555631
+        },
+        {
+            "name": "他没时间给你",
+            "artist": "SoFarSoGood恰好乐队",
+            "id": 1393608760
+        },
+        {
+            "name": "珍珠芋圆",
+            "artist": "旺福",
+            "id": 1903992282
+        },
+        {
+            "name": "昏迷指数",
+            "artist": "Night Keepers 守夜人",
+            "id": 1469053708
+        },
+        {
+            "name": "再见琳尼尔",
+            "artist": "新学校废物合唱团",
+            "id": 485413811
+        },
+        {
+            "name": "呼吸决定",
+            "artist": "Fine乐团",
+            "id": 35678875
+        },
+        {
+            "name": "忘掉所有烦心事(Forget About All These Things)",
+            "artist": "白色海岸The White Coast",
+            "id": 1940595822
+        },
+        {
+            "name": "Why Don't You Kill Us All",
+            "artist": "雞蛋蒸肉餅",
+            "id": 1350853720
+        },
+        {
+            "name": "相爱就是说了100次对不起",
+            "artist": "Crispy脆乐团",
+            "id": 1981999919
+        },
+        {
+            "name": "游荡的人 (feat. 李玖哲 Nicky Lee)",
+            "artist": "好乐团",
+            "id": 1992746370
+        },
+        {
+            "name": "肺结核",
+            "artist": "异国人",
+            "id": 1498062158
+        },
+        {
+            "name": "Miss Greenwood(Acoustic Version)",
+            "artist": "不超级的马里奥",
+            "id": 1882677041
+        },
+        {
+            "name": "云烟",
+            "artist": "皇后皮箱",
+            "id": 1859934612
+        },
+        {
+            "name": "隧道口虫鸣夜",
+            "artist": "动物园钉子户",
+            "id": 1391335941
+        },
+        {
+            "name": "该死的车站",
+            "artist": "Bad Sweetheart",
+            "id": 1822995790
+        },
+        {
+            "name": "出门前又天黑",
+            "artist": "Violet Lens 绀",
+            "id": 446508575
+        },
+        {
+            "name": "青涩的我",
+            "artist": "雾虹",
+            "id": 1435577310
+        },
+        {
+            "name": "灯塔 Lighthouse",
+            "artist": "TONELESS",
+            "id": 1404470160
+        },
+        {
+            "name": "艳红",
+            "artist": "deca joins",
+            "id": 1451856376
+        },
+        {
+            "name": "银河旅行者",
+            "artist": "青柠檬乐队",
+            "id": 1337238703
+        },
+        {
+            "name": "且听风吟",
+            "artist": "温莎森林",
+            "id": 29562126
+        },
+        {
+            "name": "恒星",
+            "artist": "薄荷绿乐队",
+            "id": 491350373
+        },
+        {
+            "name": "她",
+            "artist": "不可撤销",
+            "id": 29747622
+        },
+        {
+            "name": "两个人",
+            "artist": "潜水大象",
+            "id": 1379619847
+        },
+        {
+            "name": "蜜糖",
+            "artist": "破碎乐队",
+            "id": 1413386558
+        },
+        {
+            "name": "半山",
+            "artist": "MOONAGE",
+            "id": 558408327
+        },
+        {
+            "name": "我会想起关于她的一切",
+            "artist": "赫兹乐队",
+            "id": 1320238092
+        },
+        {
+            "name": "Summer (Original Version)",
+            "artist": "葡萄不愤怒",
+            "id": 29369013
+        },
+        {
+            "name": "不文藝的自白",
+            "artist": "黑色收音机派对",
+            "id": 534540443
+        },
+        {
+            "name": "随风去",
+            "artist": "特殊任务乐队",
+            "id": 461544403
+        },
+        {
+            "name": "雪国列车",
+            "artist": "翻糖乐队",
+            "id": 36897616
+        },
+        {
+            "name": "你在我的世界",
+            "artist": "宋泊",
+            "id": 1359570037
+        },
+        {
+            "name": "你的样子",
+            "artist": "余声乐队",
+            "id": 481514197
+        },
+        {
+            "name": "木子在笑",
+            "artist": "日食乐队",
+            "id": 438900761
+        },
+        {
+            "name": "人生浪费指南",
+            "artist": "夏日入侵企画",
+            "id": 497572729
+        },
+        {
+            "name": "你好，兰州",
+            "artist": "小金先生",
+            "id": 537660477
+        },
+        {
+            "name": "噢，你",
+            "artist": "魔术小马驹",
+            "id": 1310763374
+        },
+        {
+            "name": "青色眷恋",
+            "artist": "叁伏便利店",
+            "id": 1357275865
+        },
+        {
+            "name": "蓦然",
+            "artist": "未来世乐队",
+            "id": 1341813416
+        },
+        {
+            "name": "年轻诗人",
+            "artist": "理想后花园",
+            "id": 479384314
+        },
+        {
+            "name": "日常",
+            "artist": "茄子蛋",
+            "id": 516724816
+        },
+        {
+            "name": "燃烧",
+            "artist": "V89乐队",
+            "id": 1346933724
+        },
+        {
+            "name": "黄叶",
+            "artist": "庙乐队",
+            "id": 518057756
+        },
+        {
+            "name": "像月亮的人 ( feat.黄玠 )",
+            "artist": "激肤乐团",
+            "id": 1365011589
+        },
+        {
+            "name": "热带雨林",
+            "artist": "浪味仙贝",
+            "id": 1324879655
+        },
+        {
+            "name": "石头",
+            "artist": "浅堤",
+            "id": 1302614376
+        },
+        {
+            "name": "鲸鱼岛的梦",
+            "artist": "鲸鱼岛乐队",
+            "id": 32977010
+        },
+        {
+            "name": "迷途未返",
+            "artist": "葡萄不愤怒",
+            "id": 29369011
+        },
+        {
+            "name": "海边旅馆一夜",
+            "artist": "Schoolgirl byebye",
+            "id": 1479510189
+        },
+        {
+            "name": "你终究不爱这世界",
+            "artist": "傻子与白痴",
+            "id": 1371382065
+        },
+        {
+            "name": "风来吹",
+            "artist": "水源",
+            "id": 1410233870
+        },
+        {
+            "name": "恋爱困难少女",
+            "artist": "ChiliChill",
+            "id": 1494813207
+        },
+        {
+            "name": "啥子都没得",
+            "artist": "飞行游戏/The Flying Game",
+            "id": 1381873401
+        },
+        {
+            "name": "爱是",
+            "artist": "Schoolgirl byebye",
+            "id": 1479507542
+        },
+        {
+            "name": "三月的街头",
+            "artist": "DSPS",
+            "id": 1387183583
+        },
+        {
+            "name": "于我之中",
+            "artist": "狮童乐队",
+            "id": 1415141898
+        },
+        {
+            "name": "彗星",
+            "artist": "白鲨JAWS",
+            "id": 1404506846
+        },
+        {
+            "name": "“世界啊”",
+            "artist": "Hoo!",
+            "id": 1456406618
+        },
+        {
+            "name": "逃跑之处",
+            "artist": "蓝色窗帘",
+            "id": 1320098035
+        },
+        {
+            "name": "男孩boy",
+            "artist": "红宇乐团",
+            "id": 1400407781
+        },
+        {
+            "name": "Rollin' On",
+            "artist": "椅子乐团 The Chairs",
+            "id": 574925512
+        },
+        {
+            "name": "城市逃亡罗曼史",
+            "artist": "イルカポリス 海豚刑警",
+            "id": 1372514385
+        },
+        {
+            "name": "我会记得你",
+            "artist": "好乐团",
+            "id": 1378455473
+        },
+        {
+            "name": "皇都大厦",
+            "artist": "杨公堤上下运动社团",
+            "id": 1370255315
+        },
+        {
+            "name": "前面转个弯",
+            "artist": "NEKO Highway",
+            "id": 1334785128
+        },
+        {
+            "name": "Dong da da",
+            "artist": "爱是唯一",
+            "id": 1378905810
+        },
+        {
+            "name": "土耳其蓝的梦",
+            "artist": "DSPS",
+            "id": 1387182509
+        },
+        {
+            "name": "周而复始的黄昏",
+            "artist": "绿巴士乐队",
+            "id": 1417671270
+        },
+        {
+            "name": "你是被抹去的那一段风景(tour mix)",
+            "artist": "Hello Nico",
+            "id": 534542059
+        },
+        {
+            "name": "浴室(2019 Reprise)",
+            "artist": "deca joins",
+            "id": 1393399161
+        },
+        {
+            "name": "我是一只鱼",
+            "artist": "落日飞车",
+            "id": 1411718813
+        },
+        {
+            "name": "猜拳",
+            "artist": "莉莉周她說",
+            "id": 1319634837
+        },
+        {
+            "name": "人们来了",
+            "artist": "无妄合作社",
+            "id": 1393632575
+        },
+        {
+            "name": "雨季型恋人",
+            "artist": "Limi",
+            "id": 1401468018
+        },
+        {
+            "name": "Tonight We'll Be Fine",
+            "artist": "椅子乐团 The Chairs",
+            "id": 1405202956
+        },
+        {
+            "name": "蠢蛋",
+            "artist": "八三夭",
+            "id": 1354213798
+        },
+        {
+            "name": "山海经 (Vol.1)",
+            "artist": "ZaZaZsu",
+            "id": 1378039059
+        },
+        {
+            "name": "米店",
+            "artist": "衣湿乐队",
+            "id": 28605004
+        },
+        {
+            "name": "果然你还是",
+            "artist": "告五人",
+            "id": 1368756116
+        },
+        {
+            "name": "Sunset Dance",
+            "artist": "午夜乒乓",
+            "id": 483242417
+        },
+        {
+            "name": "你是被抹去的那一段风景",
+            "artist": "Hello Nico",
+            "id": 30841619
+        },
+        {
+            "name": "接下来要去哪",
+            "artist": "Frandé",
+            "id": 1391909527
+        },
+        {
+            "name": "葫洲女孩",
+            "artist": "问题总部",
+            "id": 1398905590
+        },
+        {
+            "name": "我怎么哭了",
+            "artist": "八三夭",
+            "id": 1354221309
+        },
+        {
+            "name": "倾雨",
+            "artist": "荷尔蒙少年 Hormone Boys",
+            "id": 536154882
+        },
+        {
+            "name": "九霄雲外",
+            "artist": "皇后皮箱",
+            "id": 1316375907
+        },
+        {
+            "name": "转圈圈",
+            "artist": "Crispy脆乐团",
+            "id": 1385884973
+        },
+        {
+            "name": "日常的镜头",
+            "artist": "椅子乐团 The Chairs",
+            "id": 574925509
+        },
+        {
+            "name": "黑猫",
+            "artist": "大粉乐队",
+            "id": 41652656
+        },
+        {
+            "name": "I Need You",
+            "artist": "赤世代",
+            "id": 1404927015
+        },
+        {
+            "name": "紫色的梦",
+            "artist": "随性乐团",
+            "id": 438462494
+        },
+        {
+            "name": "作弊人生",
+            "artist": "Chick en Chicks",
+            "id": 1381134793
+        },
+        {
+            "name": "幾乎是幻想",
+            "artist": "康姆士COM'Z",
+            "id": 1350149185
+        },
+        {
+            "name": "You'll See",
+            "artist": "Tizzy Bac",
+            "id": 382108
+        }
+    ]
+}

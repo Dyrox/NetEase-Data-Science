@@ -1,0 +1,482 @@
+{
+    "playlist_info": {
+        "name": "声声入耳，句句灼情的日系少年音",
+        "trackcount": 94,
+        "playcount": 629402,
+        "creator": "澜月港",
+        "createDate": "2018-08-23",
+        "heat": 354.0
+    },
+    "songs": [
+        {
+            "name": "koi",
+            "artist": "SPANK PAGE",
+            "id": 22711284
+        },
+        {
+            "name": "日々",
+            "artist": "吉田山田",
+            "id": 28432480
+        },
+        {
+            "name": "18/6",
+            "artist": "saji",
+            "id": 22768778
+        },
+        {
+            "name": "四季",
+            "artist": "w-inds.",
+            "id": 22672090
+        },
+        {
+            "name": "遠雷",
+            "artist": "PolyphonicBranch",
+            "id": 26303534
+        },
+        {
+            "name": "西瓜",
+            "artist": "アルケミスト",
+            "id": 690887
+        },
+        {
+            "name": "春愁",
+            "artist": "Mrs. GREEN APPLE",
+            "id": 538290027
+        },
+        {
+            "name": "呼吸",
+            "artist": "mol-74",
+            "id": 31648216
+        },
+        {
+            "name": "light",
+            "artist": "mol-74",
+            "id": 481523514
+        },
+        {
+            "name": "Calc.",
+            "artist": "ジミーサムP",
+            "id": 29498678
+        },
+        {
+            "name": "crack",
+            "artist": "りぶ",
+            "id": 27588343
+        },
+        {
+            "name": "Ghost",
+            "artist": "androp",
+            "id": 33705038
+        },
+        {
+            "name": "*tear*",
+            "artist": "コニー",
+            "id": 28458019
+        },
+        {
+            "name": "Ghost",
+            "artist": "SHE'S",
+            "id": 455488937
+        },
+        {
+            "name": "Shoes",
+            "artist": "雨のパレード",
+            "id": 546724051
+        },
+        {
+            "name": "Futari",
+            "artist": "SHE'S",
+            "id": 402298257
+        },
+        {
+            "name": "キセキ",
+            "artist": "グリーンボーイズ",
+            "id": 441116584
+        },
+        {
+            "name": "ブレス",
+            "artist": "RADWIMPS",
+            "id": 28095561
+        },
+        {
+            "name": "ブリキ",
+            "artist": "RADWIMPS",
+            "id": 28000572
+        },
+        {
+            "name": "儚々な",
+            "artist": "OverTheDogs",
+            "id": 22819249
+        },
+        {
+            "name": "夢花火",
+            "artist": "まふまふ",
+            "id": 28308659
+        },
+        {
+            "name": "夢番地",
+            "artist": "RADWIMPS",
+            "id": 22810676
+        },
+        {
+            "name": "探し物",
+            "artist": "MAGIC OF LiFE",
+            "id": 714434
+        },
+        {
+            "name": "天と点",
+            "artist": "Polaris",
+            "id": 32835613
+        },
+        {
+            "name": "Strobo",
+            "artist": "illion",
+            "id": 434974552
+        },
+        {
+            "name": "寿限夢",
+            "artist": "RADWIMPS",
+            "id": 26141550
+        },
+        {
+            "name": "幻の命",
+            "artist": "Sekai no Owari",
+            "id": 22814479
+        },
+        {
+            "name": "831143",
+            "artist": "nero",
+            "id": 34852492
+        },
+        {
+            "name": "singing",
+            "artist": "りぶ",
+            "id": 30431408
+        },
+        {
+            "name": "longing",
+            "artist": "りょーくん",
+            "id": 32341279
+        },
+        {
+            "name": "アイロニ",
+            "artist": "4円",
+            "id": 26447698
+        },
+        {
+            "name": "アンセム",
+            "artist": "荒川ケンタウロス",
+            "id": 28288151
+        },
+        {
+            "name": "愛のうた",
+            "artist": "4円",
+            "id": 430053400
+        },
+        {
+            "name": "自傷無色",
+            "artist": "ササノマリイ",
+            "id": 29582960
+        },
+        {
+            "name": "フルール",
+            "artist": "近藤晃央",
+            "id": 26562529
+        },
+        {
+            "name": "僕の外側",
+            "artist": "luz",
+            "id": 36492376
+        },
+        {
+            "name": "鏡花水月",
+            "artist": "まふまふ",
+            "id": 33913866
+        },
+        {
+            "name": "Kachoufugetsu",
+            "artist": "Sekai no Owari",
+            "id": 22814470
+        },
+        {
+            "name": "すべり台",
+            "artist": "森翼",
+            "id": 25927256
+        },
+        {
+            "name": "オレンジ",
+            "artist": "赤ティン",
+            "id": 28458138
+        },
+        {
+            "name": "白鶴ノ刃",
+            "artist": "足首",
+            "id": 441491502
+        },
+        {
+            "name": "洗濯日和",
+            "artist": "アルケミスト",
+            "id": 690856
+        },
+        {
+            "name": "Leave Me",
+            "artist": "SHE'S",
+            "id": 28840165
+        },
+        {
+            "name": "Bed Room",
+            "artist": "LILI LIMIT",
+            "id": 421807896
+        },
+        {
+            "name": "heartbreak",
+            "artist": "KFK",
+            "id": 434659718
+        },
+        {
+            "name": "(Over You)",
+            "artist": "NoisyCell",
+            "id": 32944078
+        },
+        {
+            "name": "Normalism",
+            "artist": "Suck a Stew Dry",
+            "id": 29097230
+        },
+        {
+            "name": "もしもの日",
+            "artist": "タニザワトモフミ",
+            "id": 528083
+        },
+        {
+            "name": "雨き声残響 (カバー)",
+            "artist": "すぃ",
+            "id": 41666353
+        },
+        {
+            "name": "星者の行进",
+            "artist": "OverTheDogs",
+            "id": 22819250
+        },
+        {
+            "name": "カタルシス",
+            "artist": "雨のパレード",
+            "id": 29498316
+        },
+        {
+            "name": "ハロ/ハワユ",
+            "artist": "キクチリョウタ",
+            "id": 22826145
+        },
+        {
+            "name": "心拍数♯0822",
+            "artist": "コニー",
+            "id": 28458022
+        },
+        {
+            "name": "银のバラード",
+            "artist": "ひいらぎ",
+            "id": 743023
+        },
+        {
+            "name": "うつらうつら",
+            "artist": "OverTheDogs",
+            "id": 28660970
+        },
+        {
+            "name": "tou-gen-kyo",
+            "artist": "HaKU",
+            "id": 22780499
+        },
+        {
+            "name": "右に曲ガール",
+            "artist": "Sou",
+            "id": 38679401
+        },
+        {
+            "name": "ヘールシャム",
+            "artist": "mol-74",
+            "id": 31648215
+        },
+        {
+            "name": "距離感の部屋",
+            "artist": "Suck a Stew Dry",
+            "id": 28786930
+        },
+        {
+            "name": "ドナーソング (カバー)",
+            "artist": "伊礼亮",
+            "id": 41666359
+        },
+        {
+            "name": "TOMORROW",
+            "artist": "kain",
+            "id": 423314020
+        },
+        {
+            "name": "今、このとき。",
+            "artist": "ひいらぎ",
+            "id": 28661200
+        },
+        {
+            "name": "空想フォレスト",
+            "artist": "伊東歌詞太郎",
+            "id": 28524471
+        },
+        {
+            "name": "東京テディベア",
+            "artist": "りぶ",
+            "id": 27588353
+        },
+        {
+            "name": "さよなら告げた",
+            "artist": "りぶ",
+            "id": 28190640
+        },
+        {
+            "name": "思春期少年少女",
+            "artist": "Sou",
+            "id": 38673411
+        },
+        {
+            "name": "この世とあの世",
+            "artist": "ユビキタス",
+            "id": 28406769
+        },
+        {
+            "name": "RAIN -Arrange-",
+            "artist": "まふまふ",
+            "id": 524150987
+        },
+        {
+            "name": "HIRUNO HOSHI",
+            "artist": "illion",
+            "id": 26116354
+        },
+        {
+            "name": "Parallel Universe",
+            "artist": "新社会人",
+            "id": 29498684
+        },
+        {
+            "name": "フラッシュライト",
+            "artist": "Eve",
+            "id": 34852491
+        },
+        {
+            "name": "夕溜まりのしおり",
+            "artist": "そらる",
+            "id": 32098156
+        },
+        {
+            "name": "なまえのないうた",
+            "artist": "少年T-佐香智久",
+            "id": 858760
+        },
+        {
+            "name": "自転车に乗れた日",
+            "artist": "神谷浩史",
+            "id": 449480
+        },
+        {
+            "name": "2月のセプテンバー",
+            "artist": "GOOD ON THE REEL",
+            "id": 22637430
+        },
+        {
+            "name": "koi (alternative ver.)",
+            "artist": "SPANK PAGE",
+            "id": 22711272
+        },
+        {
+            "name": "冬の海のスーベニア",
+            "artist": "mol-74",
+            "id": 31648219
+        },
+        {
+            "name": "rain stops,good-bye",
+            "artist": "コゲ犬",
+            "id": 461756
+        },
+        {
+            "name": "ナノナキシラベ 奏 ver",
+            "artist": "花江夏樹",
+            "id": 427419099
+        },
+        {
+            "name": "君のいない夜を越えて",
+            "artist": "MY FIRST STORY",
+            "id": 526472528
+        },
+        {
+            "name": "さよならだけが人生だ",
+            "artist": "伊東歌詞太郎",
+            "id": 28959255
+        },
+        {
+            "name": "こころは愛を探している",
+            "artist": "Suck a Stew Dry",
+            "id": 30953550
+        },
+        {
+            "name": "大人になってゆくんだね",
+            "artist": "神様、僕は気づいてしまった",
+            "id": 492879371
+        },
+        {
+            "name": "ぼくらのレットイットビー",
+            "artist": "4円",
+            "id": 26447701
+        },
+        {
+            "name": "君以外害（翻自 泣き虫）",
+            "artist": "电鸟个灯泡",
+            "id": 567544544
+        },
+        {
+            "name": "それがあなたの幸せとしても (カバー)",
+            "artist": "伊礼亮",
+            "id": 41666363
+        },
+        {
+            "name": "絶望と希望のシーソーゲーム",
+            "artist": "Suck a Stew Dry",
+            "id": 30953548
+        },
+        {
+            "name": "シュガーソングとビターステップ",
+            "artist": "4円",
+            "id": 433107989
+        },
+        {
+            "name": "Little Traveler(piano arranged ver.)",
+            "artist": "伊礼亮",
+            "id": 30355913
+        },
+        {
+            "name": "透明で透き通って何にでもなれそうで",
+            "artist": "HaKU",
+            "id": 28480834
+        },
+        {
+            "name": "さよならのかわりに (piano arranged ver.)",
+            "artist": "kain",
+            "id": 31680319
+        },
+        {
+            "name": "なんでもないや (movie ver.)",
+            "artist": "RADWIMPS",
+            "id": 426881506
+        },
+        {
+            "name": "さよならミッドナイト (arranged ver.)",
+            "artist": "伊礼亮",
+            "id": 32823353
+        },
+        {
+            "name": "僕らの永遠～何度生まれ変わっても、手を繋ぎたいだけの愛だから～",
+            "artist": "WEAVER",
+            "id": 28665595
+        }
+    ]
+}

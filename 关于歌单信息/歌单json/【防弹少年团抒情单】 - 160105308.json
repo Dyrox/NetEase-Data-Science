@@ -1,0 +1,612 @@
+{
+    "playlist_info": {
+        "name": "【防弹少年团抒情单】",
+        "trackcount": 120,
+        "playcount": 1597621,
+        "creator": "松鼠先生郑小芙",
+        "createDate": "2016-01-26",
+        "heat": 588.0
+    },
+    "songs": [
+        {
+            "name": "My You",
+            "artist": "Jung Kook",
+            "id": 1955953505
+        },
+        {
+            "name": "Stay Alive (Prod. SUGA of BTS)",
+            "artist": "Jung Kook",
+            "id": 1919440370
+        },
+        {
+            "name": "Snow Flower",
+            "artist": "V",
+            "id": 1807551210
+        },
+        {
+            "name": "Christmas Tree",
+            "artist": "V",
+            "id": 1906293389
+        },
+        {
+            "name": "Permission to Dance (R&B Remix)",
+            "artist": "BTS (防弹少年团)",
+            "id": 1862813143
+        },
+        {
+            "name": "Your eyes tell",
+            "artist": "BTS (防弹少年团)",
+            "id": 1461433170
+        },
+        {
+            "name": "Film out",
+            "artist": "BTS (防弹少年团)",
+            "id": 1834176131
+        },
+        {
+            "name": "10000 Hours (cover)",
+            "artist": "Jung Kook",
+            "id": 1466893845
+        },
+        {
+            "name": "알아요",
+            "artist": "RM",
+            "id": 1466926393
+        },
+        {
+            "name": "2U (cover)",
+            "artist": "Jung Kook",
+            "id": 1466911746
+        },
+        {
+            "name": "Christmas Love",
+            "artist": "Jimin",
+            "id": 1806791292
+        },
+        {
+            "name": "Stay",
+            "artist": "BTS (防弹少年团)",
+            "id": 1496585549
+        },
+        {
+            "name": "Blue & Grey",
+            "artist": "BTS (防弹少年团)",
+            "id": 1496587392
+        },
+        {
+            "name": "Fly To My Room",
+            "artist": "BTS (防弹少年团)",
+            "id": 1496587387
+        },
+        {
+            "name": "Life Goes On",
+            "artist": "BTS (防弹少年团)",
+            "id": 1496585524
+        },
+        {
+            "name": "We are Bulletproof : the Eternal",
+            "artist": "BTS (防弹少年团)",
+            "id": 1423946406
+        },
+        {
+            "name": "A Supplementary Story : You Never Walk Alone",
+            "artist": "BTS (防弹少年团)",
+            "id": 459159227
+        },
+        {
+            "name": "Answer : Love Myself",
+            "artist": "BTS (防弹少年团)",
+            "id": 1303027538
+        },
+        {
+            "name": "2! 3!",
+            "artist": "BTS (防弹少年团)",
+            "id": 434550489
+        },
+        {
+            "name": "EPILOGUE : Young Forever",
+            "artist": "BTS (防弹少年团)",
+            "id": 411314824
+        },
+        {
+            "name": "Spring Day",
+            "artist": "BTS (防弹少年团)",
+            "id": 459139374
+        },
+        {
+            "name": "HOME",
+            "artist": "BTS (防弹少年团)",
+            "id": 1357652431
+        },
+        {
+            "name": "Stay Gold",
+            "artist": "BTS (防弹少年团)",
+            "id": 1456400642
+        },
+        {
+            "name": "Lost",
+            "artist": "BTS (防弹少年团)",
+            "id": 434659337
+        },
+        {
+            "name": "Lights",
+            "artist": "BTS (防弹少年团)",
+            "id": 1375568704
+        },
+        {
+            "name": "Mikrokosmos",
+            "artist": "BTS (防弹少年团)",
+            "id": 1357661237
+        },
+        {
+            "name": "Still With You",
+            "artist": "Jung Kook",
+            "id": 1453341352
+        },
+        {
+            "name": "4 O'CLOCK",
+            "artist": "RM",
+            "id": 1453943822
+        },
+        {
+            "name": "Winter Bear",
+            "artist": "V",
+            "id": 1453343940
+        },
+        {
+            "name": "풍경",
+            "artist": "V",
+            "id": 1453346192
+        },
+        {
+            "name": "forever rain",
+            "artist": "RM",
+            "id": 1319874011
+        },
+        {
+            "name": "지나가 (with Nell)",
+            "artist": "RM",
+            "id": 1319874010
+        },
+        {
+            "name": "Filter",
+            "artist": "BTS (防弹少年团)",
+            "id": 1423946152
+        },
+        {
+            "name": "Louder than bombs",
+            "artist": "BTS (防弹少年团)",
+            "id": 1423947250
+        },
+        {
+            "name": "Inner Child",
+            "artist": "BTS (防弹少年团)",
+            "id": 1423946349
+        },
+        {
+            "name": "Friends",
+            "artist": "BTS (防弹少年团)",
+            "id": 1423946361
+        },
+        {
+            "name": "Moon",
+            "artist": "BTS (防弹少年团)",
+            "id": 1423946371
+        },
+        {
+            "name": "My Time",
+            "artist": "BTS (防弹少年团)",
+            "id": 1423946275
+        },
+        {
+            "name": "00:00 (Zero O'Clock)",
+            "artist": "BTS (防弹少年团)",
+            "id": 1423947288
+        },
+        {
+            "name": "Crystal Snow",
+            "artist": "BTS (防弹少年团)",
+            "id": 522617172
+        },
+        {
+            "name": "Moving On",
+            "artist": "BTS (防弹少年团)",
+            "id": 31654643
+        },
+        {
+            "name": "Blue Side (Outro)",
+            "artist": "j-hope",
+            "id": 541480565
+        },
+        {
+            "name": "Who",
+            "artist": "Lauv",
+            "id": 1426775937
+        },
+        {
+            "name": "Don't Leave Me",
+            "artist": "BTS (防弹少年团)",
+            "id": 549941050
+        },
+        {
+            "name": "Save ME",
+            "artist": "BTS (防弹少年团)",
+            "id": 411314823
+        },
+        {
+            "name": "Make It Right (feat. Lauv)",
+            "artist": "BTS (防弹少年团)",
+            "id": 1397513050
+        },
+        {
+            "name": "Let Go",
+            "artist": "BTS (防弹少年团)",
+            "id": 549941040
+        },
+        {
+            "name": "FAKE LOVE (Rocking Vibe Mix)",
+            "artist": "BTS (防弹少年团)",
+            "id": 571073031
+        },
+        {
+            "name": "Good Day",
+            "artist": "BTS (防弹少年团)",
+            "id": 406716679
+        },
+        {
+            "name": "OUTRO.",
+            "artist": "BTS (防弹少年团)",
+            "id": 31066279
+        },
+        {
+            "name": "Could you turn off your cell phone",
+            "artist": "BTS (防弹少年团)",
+            "id": 28959195
+        },
+        {
+            "name": "防弹少年团-BTS（combination/piano cover）（ムラサキP/防弹少年团 Remix）",
+            "artist": "ムラサキP",
+            "id": 554297531
+        },
+        {
+            "name": "Where You From",
+            "artist": "BTS (防弹少年团)",
+            "id": 28242985
+        },
+        {
+            "name": "Justin Bieber & 田柾国 - 2U(荡荡 Mashup)",
+            "artist": "FLANEUR",
+            "id": 503419998
+        },
+        {
+            "name": "Jamais Vu",
+            "artist": "BTS (防弹少年团)",
+            "id": 1357652434
+        },
+        {
+            "name": "A Brand New Day (BTS WORLD OST Part.2)",
+            "artist": "BTS (防弹少年团)",
+            "id": 1371593535
+        },
+        {
+            "name": "Dream Glow (BTS WORLD OST Part.1)",
+            "artist": "BTS (防弹少年团)",
+            "id": 1370007646
+        },
+        {
+            "name": "田柾国&朴智旻 - We Don't Talk Anymore(荡荡 Mashup)",
+            "artist": "FLANEUR",
+            "id": 488719168
+        },
+        {
+            "name": "Awake",
+            "artist": "BTS (防弹少年团)",
+            "id": 434659336
+        },
+        {
+            "name": "Stigma",
+            "artist": "BTS (防弹少年团)",
+            "id": 434659333
+        },
+        {
+            "name": "Lie",
+            "artist": "BTS (防弹少年团)",
+            "id": 434659332
+        },
+        {
+            "name": "Begin",
+            "artist": "BTS (防弹少年团)",
+            "id": 434550485
+        },
+        {
+            "name": "House Of Cards (full length edition)",
+            "artist": "BTS (防弹少年团)",
+            "id": 411315799
+        },
+        {
+            "name": "I NEED U urban mix",
+            "artist": "BTS (防弹少年团)",
+            "id": 411315801
+        },
+        {
+            "name": "24/7=heaven",
+            "artist": "BTS (防弹少年团)",
+            "id": 28959197
+        },
+        {
+            "name": "Promise",
+            "artist": "Jimin",
+            "id": 1341321543
+        },
+        {
+            "name": "Awake (Christmas Ver.)",
+            "artist": "Jin",
+            "id": 444524410
+        },
+        {
+            "name": "Christmas Day",
+            "artist": "Jimin",
+            "id": 31917464
+        },
+        {
+            "name": "죽어도 너야",
+            "artist": "V",
+            "id": 447925109
+        },
+        {
+            "name": "Purpose",
+            "artist": "Jung Kook",
+            "id": 431357902
+        },
+        {
+            "name": "Heartbeat (BTS WORLD OST)",
+            "artist": "BTS (防弹少年团)",
+            "id": 1374507779
+        },
+        {
+            "name": "OUTRO : House Of Cards",
+            "artist": "BTS (防弹少年团)",
+            "id": 37239512
+        },
+        {
+            "name": "Whalien 52",
+            "artist": "BTS (防弹少年团)",
+            "id": 37240488
+        },
+        {
+            "name": "Autumn Leaves",
+            "artist": "BTS (防弹少年团)",
+            "id": 37239513
+        },
+        {
+            "name": "Make It Right",
+            "artist": "BTS (防弹少年团)",
+            "id": 1357661238
+        },
+        {
+            "name": "Paradise",
+            "artist": "BTS (防弹少年团)",
+            "id": 557581712
+        },
+        {
+            "name": "Intro: Singularity",
+            "artist": "BTS (防弹少年团)",
+            "id": 557584723
+        },
+        {
+            "name": "Pied Piper",
+            "artist": "BTS (防弹少年团)",
+            "id": 506094568
+        },
+        {
+            "name": "dimple",
+            "artist": "BTS (防弹少年团)",
+            "id": 506092586
+        },
+        {
+            "name": "Trivia 承 : Love",
+            "artist": "BTS (防弹少年团)",
+            "id": 1303027532
+        },
+        {
+            "name": "Epiphany",
+            "artist": "BTS (防弹少年团)",
+            "id": 1303026556
+        },
+        {
+            "name": "Serendipity (Full Length Edition)",
+            "artist": "BTS (防弹少年团)",
+            "id": 1303019579
+        },
+        {
+            "name": "Trivia 轉 : Seesaw",
+            "artist": "BTS (防弹少年团)",
+            "id": 1303026554
+        },
+        {
+            "name": "Euphoria",
+            "artist": "BTS (防弹少年团)",
+            "id": 1303028510
+        },
+        {
+            "name": "Love Maze",
+            "artist": "BTS (防弹少年团)",
+            "id": 557581713
+        },
+        {
+            "name": "Look here",
+            "artist": "BTS (防弹少年团)",
+            "id": 28959198
+        },
+        {
+            "name": "Rain",
+            "artist": "BTS (防弹少年团)",
+            "id": 28959192
+        },
+        {
+            "name": "Like (Slow Jam Remix)",
+            "artist": "BTS (防弹少年团)",
+            "id": 28546068
+        },
+        {
+            "name": "Tomorrow",
+            "artist": "BTS (防弹少年团)",
+            "id": 28242987
+        },
+        {
+            "name": "Go Go",
+            "artist": "BTS (防弹少年团)",
+            "id": 506092589
+        },
+        {
+            "name": "Magic Shop",
+            "artist": "BTS (防弹少年团)",
+            "id": 557581714
+        },
+        {
+            "name": "I NEED U",
+            "artist": "BTS (防弹少年团)",
+            "id": 31654637
+        },
+        {
+            "name": "Crystal Snow",
+            "artist": "BTS (防弹少年团)",
+            "id": 549941045
+        },
+        {
+            "name": "MISS RIGHT",
+            "artist": "BTS (防弹少年团)",
+            "id": 28546067
+        },
+        {
+            "name": "Outro : Her",
+            "artist": "BTS (防弹少年团)",
+            "id": 506092590
+        },
+        {
+            "name": "Intro : Serendipity",
+            "artist": "BTS (防弹少年团)",
+            "id": 506094566
+        },
+        {
+            "name": "The Truth Untold (Feat. Steve Aoki)",
+            "artist": "BTS (防弹少年团)",
+            "id": 557583742
+        },
+        {
+            "name": "Wishing on a star",
+            "artist": "BTS (防弹少年团)",
+            "id": 428642921
+        },
+        {
+            "name": "Butterfly (alternative mix)",
+            "artist": "BTS (防弹少年团)",
+            "id": 411314831
+        },
+        {
+            "name": "RUN ballad mix",
+            "artist": "BTS (防弹少年团)",
+            "id": 411314829
+        },
+        {
+            "name": "Love is not over (full length edition)",
+            "artist": "BTS (防弹少年团)",
+            "id": 411315800
+        },
+        {
+            "name": "Butterfly prologue mix",
+            "artist": "BTS (防弹少年团)",
+            "id": 411315793
+        },
+        {
+            "name": "Coffee",
+            "artist": "BTS (防弹少年团)",
+            "id": 27713473
+        },
+        {
+            "name": "いいね!Pt.2 ～あの場所で～",
+            "artist": "BTS (防弹少年团)",
+            "id": 31066273
+        },
+        {
+            "name": "Let Me Know",
+            "artist": "BTS (防弹少年团)",
+            "id": 28959191
+        },
+        {
+            "name": "안아줘",
+            "artist": "V",
+            "id": 33024046
+        },
+        {
+            "name": "Lost Stars",
+            "artist": "Jung Kook",
+            "id": 35270161
+        },
+        {
+            "name": "SOFA",
+            "artist": "Jung Kook",
+            "id": 31967424
+        },
+        {
+            "name": "일하는 중",
+            "artist": "Jung Kook",
+            "id": 31917389
+        },
+        {
+            "name": "Embarrassed",
+            "artist": "BTS (防弹少年团)",
+            "id": 28959196
+        },
+        {
+            "name": "Outro : Propose",
+            "artist": "BTS (防弹少年团)",
+            "id": 28242991
+        },
+        {
+            "name": "FOR YOU",
+            "artist": "BTS (防弹少年团)",
+            "id": 32683665
+        },
+        {
+            "name": "Butterfly",
+            "artist": "BTS (防弹少年团)",
+            "id": 37240486
+        },
+        {
+            "name": "Outro : Love is Not Over",
+            "artist": "BTS (防弹少年团)",
+            "id": 31654644
+        },
+        {
+            "name": "Hold Me Tight",
+            "artist": "BTS (防弹少年团)",
+            "id": 31654638
+        },
+        {
+            "name": "Outro : Do you think it makes sense?",
+            "artist": "BTS (防弹少年团)",
+            "id": 28959200
+        },
+        {
+            "name": "Just One Day",
+            "artist": "BTS (防弹少年团)",
+            "id": 28242986
+        },
+        {
+            "name": "Converse High",
+            "artist": "BTS (防弹少年团)",
+            "id": 31654642
+        },
+        {
+            "name": "Like",
+            "artist": "BTS (防弹少年团)",
+            "id": 26505897
+        },
+        {
+            "name": "OUTRO : LUV IN SKOOL",
+            "artist": "BTS (防弹少年团)",
+            "id": 27713476
+        }
+    ]
+}

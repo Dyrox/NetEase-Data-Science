@@ -25,16 +25,22 @@ playlist_num_count = 0
 
 ALREADY_COLLECTED = str([f for f in os.listdir('关于歌单信息/歌单json') if f.endswith('.json')])
 
-
+BLACKLIST = ['0','4862334130']
 while playlist_num_count <100000:
     playlist_num_count += 1
     playlist_link = playlist_links[playlist_num_count]
     print(f'\033[92m 正在处理{playlist_link}...\033[0m')
     playlist_id = playlist_id_extractor(playlist_link)
 
+    if playlist_id in BLACKLIST:
+        print(f'\033[93m {playlist_id}被拉入黑名单, 跳过!\033[0m')
+        continue
+
     if playlist_id in ALREADY_COLLECTED:
         print(f'\033[93m {playlist_id}已经存在, 跳过!\033[0m')
         continue
+
+    
             
     generate_playlist_json(playlist_id)
     print(f'\033[93m {playlist_link}处理完毕\033[0m')

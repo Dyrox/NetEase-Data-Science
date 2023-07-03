@@ -1,0 +1,557 @@
+{
+    "playlist_info": {
+        "name": "古典音乐史上最著名的100个旋律",
+        "trackcount": 109,
+        "playcount": 2100839,
+        "creator": "海布里之汪",
+        "createDate": "2018-12-26",
+        "heat": 1273.0
+    },
+    "songs": [
+        {
+            "name": "Symphony No.5 In C Minor Op.67:1. Allegro con brio",
+            "artist": "Wiener Philharmoniker",
+            "id": 1213304
+        },
+        {
+            "name": "Toccata and Fugue in D minor, BWV 565:Toccata",
+            "artist": "Karl Richter",
+            "id": 1644716
+        },
+        {
+            "name": "Serenade In G, K.525 \"Eine kleine Nachtmusik\":1. Allegro",
+            "artist": "Karl Böhm",
+            "id": 1644789
+        },
+        {
+            "name": "The Messiah, HWV 56:Hallelujah Chorus",
+            "artist": "David Parry",
+            "id": 27256825
+        },
+        {
+            "name": "Carmen / Act 1:Prélude",
+            "artist": "Berliner Philharmoniker",
+            "id": 18279043
+        },
+        {
+            "name": "Symphony No. 9 in D Minor, Op. 125 - \"Choral\":V. Presto- \"O Freunde, nicht diese T?ne!-Allegro assai",
+            "artist": "Herbert von Karajan",
+            "id": 1458729
+        },
+        {
+            "name": "Cradle Song",
+            "artist": "Johannes Brahms",
+            "id": 406346476
+        },
+        {
+            "name": "William Tell Overture",
+            "artist": "Rossini",
+            "id": 26731550
+        },
+        {
+            "name": "Fur Elise",
+            "artist": "Ludwig van Beethoven",
+            "id": 406346452
+        },
+        {
+            "name": "Minuet in G (Bach)",
+            "artist": "Charles Segal",
+            "id": 1468421875
+        },
+        {
+            "name": "A Midsummer Night's Dream - incidental music Opp. 21 and 61 (1985 Digital Remaster):Wedding March (Entr'acte to Act 5)",
+            "artist": "André Previn",
+            "id": 3578900
+        },
+        {
+            "name": "In The Hall Of The Mountain King",
+            "artist": "Edvard Grieg",
+            "id": 27323013
+        },
+        {
+            "name": "Dance of the Sugar Plum Fairy",
+            "artist": "London Symphony Orchestra",
+            "id": 26971649
+        },
+        {
+            "name": "Also Sprach Zarathustra [Main Title from Thus Spake Zarathustra]",
+            "artist": "Wiener Philharmoniker",
+            "id": 5056805
+        },
+        {
+            "name": "An der schönen blauen Donau, Walzer, Op. 314",
+            "artist": "Wiener Philharmoniker",
+            "id": 452324543
+        },
+        {
+            "name": "瓦格纳：婚礼进行曲",
+            "artist": "中国交响乐团",
+            "id": 419485765
+        },
+        {
+            "name": "Orpheé aux Enfers:Overture",
+            "artist": "Wiener Philharmoniker",
+            "id": 28908593
+        },
+        {
+            "name": "Piano Sonata No.11 in A, K.331 -\"Alla Turca\":3. Alla turca (Allegretto)",
+            "artist": "内田光子",
+            "id": 667148
+        },
+        {
+            "name": "Gran Vals",
+            "artist": "Francisco Tárrega",
+            "id": 563180585
+        },
+        {
+            "name": "Sabre Dance",
+            "artist": "Aram Khachaturian",
+            "id": 5259435
+        },
+        {
+            "name": "Pomp and Circumstance March No. I",
+            "artist": "Wendy Carlos",
+            "id": 5058792
+        },
+        {
+            "name": "Bolero",
+            "artist": "Leonard Bernstein",
+            "id": 32680467
+        },
+        {
+            "name": "Ouverture solennelle \"1812 \" Op.49",
+            "artist": "Minnesota Orchestra",
+            "id": 29750838
+        },
+        {
+            "name": "Flight of the Bumblebee(Rimsky-Korsakov)",
+            "artist": "Henryk Szeryng",
+            "id": 5208715
+        },
+        {
+            "name": "Canon and Gigue in D major - arr. Max Seiffert:1. Canon",
+            "artist": "Herbert von Karajan",
+            "id": 26203838
+        },
+        {
+            "name": "Entry of the Gladiators",
+            "artist": "André Rieu",
+            "id": 1049228
+        },
+        {
+            "name": "The Nutcracker Suite, Op. 71a, TH 35: III. Waltz of the Flowers",
+            "artist": "Lorin Maazel",
+            "id": 405599453
+        },
+        {
+            "name": "Rhapsody in Blue",
+            "artist": "New York Philharmonic",
+            "id": 28043958
+        },
+        {
+            "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27, No. 2 \"Moonlight\":I. Adagio sostenuto",
+            "artist": "Rudolf Serkin",
+            "id": 1926572
+        },
+        {
+            "name": "Suite No.3 In D, BWV 1068:2. Air",
+            "artist": "Berliner Philharmoniker",
+            "id": 3965284
+        },
+        {
+            "name": "Hungarian Rhapsody No.2 In C Sharp Minor S.244",
+            "artist": "Berliner Philharmoniker",
+            "id": 26656616
+        },
+        {
+            "name": "Ride of the Valkyries",
+            "artist": "Daniel Barenboim",
+            "id": 27069754
+        },
+        {
+            "name": "Über den Wellen",
+            "artist": "Franz Bauer-Theussl",
+            "id": 38449298
+        },
+        {
+            "name": "La Gioconda, Act 3: Dance of the Hours",
+            "artist": "Herbert von Karajan",
+            "id": 519373242
+        },
+        {
+            "name": "Carmina Burana",
+            "artist": "Wildlife",
+            "id": 562826133
+        },
+        {
+            "name": "Piano Sonata No. 2 in B-Flat Minor, Op. 35, \"Funeral March\":III. Marche funebre: Lento",
+            "artist": "Vladimir Horowitz",
+            "id": 464749606
+        },
+        {
+            "name": "Liszt-Paraphrase über den Flohwalzer",
+            "artist": "BosArt Trio",
+            "id": 1306695000
+        },
+        {
+            "name": "J.S. Bach: Orchestral Suite No.2:Badinerie",
+            "artist": "Academy of St. Martin in the Fields",
+            "id": 472899003
+        },
+        {
+            "name": "Symphony No.40 in G minor, K.550:1. Molto allegro",
+            "artist": "Academy of St. Martin in the Fields",
+            "id": 402136145
+        },
+        {
+            "name": "Carmen, Act I:No.5 Habanera : L'amour est un oiseau rebelle (Carmen/Cigarières/Jeunes gens/Dragons)",
+            "artist": "Angela Gheorghiu",
+            "id": 22373424
+        },
+        {
+            "name": "21 Hungarian Dances, WoO 1 (version for orchestra):Hungarian Dance No. 5 (orch. Schmeling)",
+            "artist": "István Bogár",
+            "id": 25813579
+        },
+        {
+            "name": "Csardas",
+            "artist": "London Philharmonic Orchestra",
+            "id": 2987798
+        },
+        {
+            "name": "Piano Sonata No.16 in C , K.545",
+            "artist": "David Hoffman",
+            "id": 1296882
+        },
+        {
+            "name": "Peter and the Wolf, Orchestral Suite, Op. 67 (Instrumental Version)",
+            "artist": "Sergei Prokofiev",
+            "id": 484059903
+        },
+        {
+            "name": "The Sorcerer's Apprentice",
+            "artist": "Paul Dukas",
+            "id": 27242074
+        },
+        {
+            "name": "Suite bergamasque, L.75 - 3. Clair de lune",
+            "artist": "Pascal Rogé",
+            "id": 27682855
+        },
+        {
+            "name": "String Quintet in E Major, Op. 13:Minuet",
+            "artist": "London Philharmonic Orchestra",
+            "id": 28224496
+        },
+        {
+            "name": "The Four Seasons:Spring",
+            "artist": "Antonio Vivaldi",
+            "id": 406347381
+        },
+        {
+            "name": "Aida:Grand March",
+            "artist": "Orchestra del Teatro alla Scala di Milano",
+            "id": 1317400207
+        },
+        {
+            "name": "Morning Mood (From \"Peer Gynt\")",
+            "artist": "Various Artists",
+            "id": 5198788
+        },
+        {
+            "name": "The Nutcracker, Op. 71, Act II:No. 12c, Divertissement. Tea, Chinese Dance",
+            "artist": "André Previn",
+            "id": 22474729
+        },
+        {
+            "name": "Alla Hornpipe from Water Music",
+            "artist": "Georg Friedrich Händel",
+            "id": 26788962
+        },
+        {
+            "name": "Adagio For Strings, Op.11",
+            "artist": "Academy of St. Martin in the Fields",
+            "id": 399349992
+        },
+        {
+            "name": "Jesu Joy of Man's Desiring",
+            "artist": "Jesu, Joy of Man's Desiring Strings",
+            "id": 545709015
+        },
+        {
+            "name": "Carmen Suite No. 1:Aragonaise:  Allegro vivo (Prelude to Act IV)",
+            "artist": "Leonard Bernstein",
+            "id": 27182188
+        },
+        {
+            "name": "Symphony No. 9 in D Minor, Op. 125 - \"Choral\":II. Molto vivace",
+            "artist": "Herbert von Karajan",
+            "id": 1458714
+        },
+        {
+            "name": "The Stars and Stripes Forever",
+            "artist": "Leonard Bernstein",
+            "id": 1683296
+        },
+        {
+            "name": "Swan Lake (Suite), Op. 20a, TH. 219:I. Scene - Swan Theme",
+            "artist": "Berliner Philharmoniker",
+            "id": 29539584
+        },
+        {
+            "name": "The Carnival of the Animals: Finale",
+            "artist": "Academy of London",
+            "id": 22534870
+        },
+        {
+            "name": "Pizzicato From Ballet Sylvia",
+            "artist": "Miguel Del Oro Orchestra",
+            "id": 551452224
+        },
+        {
+            "name": "La Donna E Mobile",
+            "artist": "Luciano Pavarotti",
+            "id": 26921396
+        },
+        {
+            "name": "The Marriage Of Figaro (Die Hochzeit des Figaro): Overture",
+            "artist": "London Philharmonic Orchestera",
+            "id": 574269783
+        },
+        {
+            "name": "Night on Bald Mountain",
+            "artist": "Modest Mussorgsky",
+            "id": 26760980
+        },
+        {
+            "name": "Mozart: The Magic Flute, Queen of the Night - Aria N° 14",
+            "artist": "Edda Moser",
+            "id": 28631313
+        },
+        {
+            "name": "The Typewriter",
+            "artist": "Leroy Anderson",
+            "id": 5042037
+        },
+        {
+            "name": "Bugler's Dream/Olympic Fanfare and Theme",
+            "artist": "Boston Pops Orchestra",
+            "id": 2260147
+        },
+        {
+            "name": "Colonel Bogey March",
+            "artist": "Various Artists",
+            "id": 26584877
+        },
+        {
+            "name": "Jazz Suite No.2:6. Waltz II",
+            "artist": "Concertgebouworkest",
+            "id": 29049009
+        },
+        {
+            "name": "Rhapsody on a Theme of Paganini:Variation XVIII - Andante cantabile",
+            "artist": "Andrew Keener",
+            "id": 22464416
+        },
+        {
+            "name": "Te Deum in D Major, H. 146:I. Prelude. Marche en rondeau",
+            "artist": "Choeurs et Orchestre des Arts Florissants",
+            "id": 25042961
+        },
+        {
+            "name": "Arrival of the Queen of Sheba (from 'Solomon')",
+            "artist": "Georg Friedrich Händel",
+            "id": 406346429
+        },
+        {
+            "name": "Les Contes d'Hoffmann, Act 4:No. 13, Barcarolle \"Belle nuit, ô nuit d'amour\" (Orchestral Version)",
+            "artist": "Studio 2 Symphony Orchestra",
+            "id": 25129400
+        },
+        {
+            "name": "The Barber Of Seville:Overture",
+            "artist": "Gioachino Rossini",
+            "id": 406346461
+        },
+        {
+            "name": "Radetzky March Op. 228 (2005 Digital Remaster)",
+            "artist": "Herbert von Karajan",
+            "id": 22483836
+        },
+        {
+            "name": "Concerto No. 21 in C Major for Piano and Orchestra, K. 467:II. Andante \"Theme from Elvira Madigan\"",
+            "artist": "Robert Casadesus",
+            "id": 469562782
+        },
+        {
+            "name": "The Nutcracker / March",
+            "artist": "Suisse Romande Orchestra",
+            "id": 36587155
+        },
+        {
+            "name": "Il Trovatore - Anvil Chorus",
+            "artist": "Nuremberg Symphonic Orchestra & Munich State Opera Choir",
+            "id": 567698043
+        },
+        {
+            "name": "The Rite of Spring:Part One: The Adoration of the Earth - Introduction",
+            "artist": "Igor Stravinsky",
+            "id": 1471195
+        },
+        {
+            "name": "Minuet In G",
+            "artist": "Wolfgang Amadeus Mozart",
+            "id": 492366123
+        },
+        {
+            "name": "American Patrol (1998 Digital Remaster)",
+            "artist": "Concert Arts Symphonic Band",
+            "id": 22530660
+        },
+        {
+            "name": "Prelude In C Major",
+            "artist": "Water Music Records",
+            "id": 572619519
+        },
+        {
+            "name": "Requiem in D Minor, K. 626 (arr. C. Czerny for soli, choir and piano 4 hands):Sequence No. 1: Dies Irae (Chorus)",
+            "artist": "Ars Cantica Choir",
+            "id": 465570992
+        },
+        {
+            "name": "Tritsch-Tratsch Polka, Op. 214",
+            "artist": "Carlos Kleiber",
+            "id": 1213366
+        },
+        {
+            "name": "Turandot: Nessun Dorma!",
+            "artist": "Luciano Pavarotti",
+            "id": 1648315
+        },
+        {
+            "name": "24 Caprices For Violin, Op.1, MS. 25:No. 24 In A Minor",
+            "artist": "Charles Dutoit",
+            "id": 1990488
+        },
+        {
+            "name": "Cello Suite No. 1 in G Major, BWV 1007:I. Prelude",
+            "artist": "Alexander Rudin",
+            "id": 27471609
+        },
+        {
+            "name": "Por Una Cabeza",
+            "artist": "Thomas Newman",
+            "id": 2007819
+        },
+        {
+            "name": "Minuet in G",
+            "artist": "Ludwig van Beethoven",
+            "id": 5220538
+        },
+        {
+            "name": "La gazza ladra - Overture",
+            "artist": "Carlo Maria Giulini",
+            "id": 22484179
+        },
+        {
+            "name": "Light Cavalry:Overture",
+            "artist": "Franz von Suppé",
+            "id": 406346475
+        },
+        {
+            "name": "The Planets, Op. 32:1. Mars, the Bringer of War",
+            "artist": "Herbert von Karajan",
+            "id": 1458761
+        },
+        {
+            "name": "Flower Duet:Lakme (Delibes)",
+            "artist": "Eliina Garancha",
+            "id": 28184762
+        },
+        {
+            "name": "Palladio (Diamond Music)",
+            "artist": "Karl Jenkins",
+            "id": 1619094
+        },
+        {
+            "name": "Symphony No.7 In A Op.92:2. Allegretto",
+            "artist": "Wiener Philharmoniker",
+            "id": 1213309
+        },
+        {
+            "name": "The Skaters Waltz",
+            "artist": "Emil Waldteufel",
+            "id": 28021996
+        },
+        {
+            "name": "Prelude in C-Sharp Minor, Op. 3, No. 2",
+            "artist": "Sergei Rachmaninoff",
+            "id": 25954374
+        },
+        {
+            "name": "Bouree In E Minor",
+            "artist": "Erik Vargas",
+            "id": 1806540314
+        },
+        {
+            "name": "Dance of The Knights",
+            "artist": "Sydney Symphony Orchestra",
+            "id": 5042038
+        },
+        {
+            "name": "Liebestraum No. 3 in A-Flat Major, G 541, Op. 62:'O lieb so lang' Du lieben kannst''",
+            "artist": "Jerome Rose",
+            "id": 27256802
+        },
+        {
+            "name": "加沃特舞曲",
+            "artist": "中国爱乐乐团",
+            "id": 29414798
+        },
+        {
+            "name": "Requiem: Dies Irae",
+            "artist": "Giuseppe Verdi",
+            "id": 559087847
+        },
+        {
+            "name": "The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 \"Winter\":I. Allegro non molto",
+            "artist": "Anne-Sophie Mutter",
+            "id": 2123727
+        },
+        {
+            "name": "Má vlast (My Fatherland):No. 2. Vltava (Moldau)",
+            "artist": "Rafael Kubelík",
+            "id": 1112818
+        },
+        {
+            "name": "Suite de Symphonies (arr. R. Hayman): Suite de Symphonies: 1. Rondeau (Masterpiece Theatre Theme) - 2. Gracieusement, sans lenteur - 3. Mo",
+            "artist": "Richard Hayman Symphony Orchestra",
+            "id": 504367828
+        },
+        {
+            "name": "Symphony No.9 in E minor, Op.95 \"From the New World\": III.Scherzo (Molto vivace)",
+            "artist": "Herbert von Karajan",
+            "id": 33638485
+        },
+        {
+            "name": "Piano Concerto In A Minor Op.16:1. Allegro molto moderato",
+            "artist": "Krystian Zimerman",
+            "id": 27192237
+        },
+        {
+            "name": "Gymmopedie No. 1",
+            "artist": "John Tesh",
+            "id": 1570954
+        },
+        {
+            "name": "Military March in D, Op.51, No.1",
+            "artist": "Latvian Philharmonic Chamber Orchestra",
+            "id": 1361126366
+        },
+        {
+            "name": "Album for the Young, Op. 68: No. 10, The Merry Peasant Returning from Work",
+            "artist": "Cyprien Katsaris",
+            "id": 1301937597
+        }
+    ]
+}

@@ -1,0 +1,2952 @@
+{
+    "playlist_info": {
+        "name": "贝多芬钢琴曲",
+        "trackcount": 588,
+        "playcount": 752344,
+        "creator": "梦影青衫",
+        "createDate": "2016-04-23",
+        "heat": 286.0
+    },
+    "songs": [
+        {
+            "name": "月光奏鸣曲",
+            "artist": "Ludwig van Beethoven",
+            "id": 5276808
+        },
+        {
+            "name": "悲怆奏鸣曲",
+            "artist": "Ludwig van Beethoven",
+            "id": 5276807
+        },
+        {
+            "name": "热情奏鸣曲(选段)",
+            "artist": "群星",
+            "id": 5264785
+        },
+        {
+            "name": "Piano Sonata No.14 in C sharp minor, Op.27 No.2 -\"Moonlight\":1. Adagio sostenuto",
+            "artist": "Alfred Brendel",
+            "id": 1068229
+        },
+        {
+            "name": "Piano Sonata No.14 in C sharp minor, Op.27 No.2 -\"Moonlight\":2. Allegretto",
+            "artist": "Alfred Brendel",
+            "id": 1068233
+        },
+        {
+            "name": "Piano Sonata No.14 in C sharp minor, Op.27 No.2 -\"Moonlight\":3. Presto",
+            "artist": "Alfred Brendel",
+            "id": 1068237
+        },
+        {
+            "name": "Piano Sonata No.8 in C minor, Op.13 -\"Pathétique\":1. Grave - Allegro di molto e con brio",
+            "artist": "Alfred Brendel",
+            "id": 1068241
+        },
+        {
+            "name": "Piano Sonata No.8 in C minor, Op.13 -\"Pathétique\":2. Adagio cantabile",
+            "artist": "Alfred Brendel",
+            "id": 1068244
+        },
+        {
+            "name": "Piano Sonata No.8 in C minor, Op.13 -\"Pathétique\":3. Rondo (Allegro)",
+            "artist": "Alfred Brendel",
+            "id": 1068247
+        },
+        {
+            "name": "Piano Sonata No.23 in F minor, Op.57 -\"Appassionata\":1. Allegro assai",
+            "artist": "Alfred Brendel",
+            "id": 1068249
+        },
+        {
+            "name": "Piano Sonata No.23 in F minor, Op.57 -\"Appassionata\":2. Andante con moto",
+            "artist": "Alfred Brendel",
+            "id": 1068252
+        },
+        {
+            "name": "Piano Sonata No.23 in F minor, Op.57 -\"Appassionata\":3. Allegro ma non troppo",
+            "artist": "Alfred Brendel",
+            "id": 1068255
+        },
+        {
+            "name": "Sonata No. 14 in C-sharp minor, Op. 27, No. 2 \"Moonlight\":I. Adagio sostenuto - attacca:",
+            "artist": "Glenn Gould",
+            "id": 405348109
+        },
+        {
+            "name": "Sonata No. 14 in C-sharp minor, Op. 27, No. 2 \"Moonlight\":II. Allegretto - attacca:",
+            "artist": "Glenn Gould",
+            "id": 405348110
+        },
+        {
+            "name": "Sonata No. 14 in C-sharp minor, Op. 27, No. 2 \"Moonlight\":III. Presto agitato",
+            "artist": "Glenn Gould",
+            "id": 405348111
+        },
+        {
+            "name": "Sonata No. 8 in C minor for Piano, Op. 13 \"Pathétique\": II. Adagio cantabile:I. Grave - Allegro di molto e con brio",
+            "artist": "Glenn Gould",
+            "id": 405348096
+        },
+        {
+            "name": "Sonata No. 8 in C minor for Piano, Op. 13 \"Pathétique\": II. Adagio cantabile:II. Adagio cantabile",
+            "artist": "Glenn Gould",
+            "id": 405348097
+        },
+        {
+            "name": "Sonata No. 8 in C minor for Piano, Op. 13 \"Pathétique\": II. Adagio cantabile:III. Rondo. Allegro",
+            "artist": "Glenn Gould",
+            "id": 405348098
+        },
+        {
+            "name": "Sonata No. 23 in F minor, Op. 57, \"Appassionata\":I.  Allegro assai",
+            "artist": "Glenn Gould",
+            "id": 405348116
+        },
+        {
+            "name": "Sonata No. 23 in F minor, Op. 57, \"Appassionata\":II.  Andante con moto",
+            "artist": "Glenn Gould",
+            "id": 405348117
+        },
+        {
+            "name": "Sonata No. 23 in F minor, Op. 57, \"Appassionata\":III.  Allegro ma non troppo;  Presto",
+            "artist": "Glenn Gould",
+            "id": 405348118
+        },
+        {
+            "name": "Piano Sonata No.14 in C sharp minor, Op.27 No.2 -\"Moonlight\":1. Adagio sostenuto",
+            "artist": "Daniel Barenboim",
+            "id": 20675038
+        },
+        {
+            "name": "Piano Sonata No.14 in C sharp minor, Op.27 No.2 -\"Moonlight\":2. Allegretto",
+            "artist": "Daniel Barenboim",
+            "id": 20675039
+        },
+        {
+            "name": "Piano Sonata No.14 in C sharp minor, Op.27 No.2 -\"Moonlight\":3. Presto agitato",
+            "artist": "Daniel Barenboim",
+            "id": 20675040
+        },
+        {
+            "name": "Piano Sonata No.8 in C minor, Op.13 -\"Pathétique\":1. Grave - Allegro di molto e con brio",
+            "artist": "Daniel Barenboim",
+            "id": 20675013
+        },
+        {
+            "name": "Piano Sonata No.8 in C minor, Op.13 -\"Pathétique\":2. Adagio cantabile",
+            "artist": "Daniel Barenboim",
+            "id": 20675014
+        },
+        {
+            "name": "Piano Sonata No.8 in C minor, Op.13 -\"Pathétique\":3. Rondo (Allegro)",
+            "artist": "Daniel Barenboim",
+            "id": 20675015
+        },
+        {
+            "name": "Piano Sonata No.23 in F minor, Op.57 -\"Appassionata\":1. Allegro assai",
+            "artist": "Daniel Barenboim",
+            "id": 20675066
+        },
+        {
+            "name": "Piano Sonata No.23 in F minor, Op.57 -\"Appassionata\":2. Andante con moto",
+            "artist": "Daniel Barenboim",
+            "id": 20675067
+        },
+        {
+            "name": "Piano Sonata No.23 in F minor, Op.57 -\"Appassionata\":3. Allegro ma non troppo",
+            "artist": "Daniel Barenboim",
+            "id": 20675068
+        },
+        {
+            "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27, No. 2 \"Moonlight\":I. Adagio sostenuto",
+            "artist": "Rudolf Serkin",
+            "id": 1926572
+        },
+        {
+            "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27, No. 2 \"Moonlight\":II. Allegretto",
+            "artist": "Rudolf Serkin",
+            "id": 1926575
+        },
+        {
+            "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27, No. 2 \"Moonlight\":III. Presto agitato",
+            "artist": "Rudolf Serkin",
+            "id": 1926578
+        },
+        {
+            "name": "Piano Sonata No. 8 in C Minor, Op. 13 \"Pathétique\":I. Grave - Allegro di molto e con brio",
+            "artist": "Rudolf Serkin",
+            "id": 1926582
+        },
+        {
+            "name": "Piano Sonata No. 8 in C Minor, Op. 13 \"Pathétique\":II. Adagio cantabile",
+            "artist": "Rudolf Serkin",
+            "id": 1926586
+        },
+        {
+            "name": "Piano Sonata No. 8 in C Minor, Op. 13 \"Pathétique\":III. Rondo. Allegro",
+            "artist": "Rudolf Serkin",
+            "id": 1926590
+        },
+        {
+            "name": "Piano Sonata No. 23 in F Minor, Op. 57 \"Appassionata\":I. Allegro assai",
+            "artist": "Rudolf Serkin",
+            "id": 1926594
+        },
+        {
+            "name": "Piano Sonata No. 23 in F Minor, Op. 57 \"Appassionata\":II. Andante con moto",
+            "artist": "Rudolf Serkin",
+            "id": 1926598
+        },
+        {
+            "name": "Piano Sonata No. 23 in F Minor, Op. 57 \"Appassionata\":III. Allegro ma non troppo; Presto",
+            "artist": "Rudolf Serkin",
+            "id": 1926602
+        },
+        {
+            "name": "Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto",
+            "artist": "Arthur Rubinstein",
+            "id": 25842621
+        },
+        {
+            "name": "Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": II. Allegretto",
+            "artist": "Arthur Rubinstein",
+            "id": 25842622
+        },
+        {
+            "name": "Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": III. Presto agitato",
+            "artist": "Arthur Rubinstein",
+            "id": 25842624
+        },
+        {
+            "name": "Sonata No. 8 in C Minor, Op. 13, \"Pathétique\": I. Grave - Allegro di molto e con brio",
+            "artist": "Arthur Rubinstein",
+            "id": 25842626
+        },
+        {
+            "name": "Sonata No. 8 in C Minor, Op. 13, \"Pathétique\": II. Adagio cantabile",
+            "artist": "Arthur Rubinstein",
+            "id": 25842619
+        },
+        {
+            "name": "Sonata No. 8 in C Minor, Op. 13, \"Pathétique\": III. Rondo: Allegro",
+            "artist": "Arthur Rubinstein",
+            "id": 25842623
+        },
+        {
+            "name": "Sonata No. 23 in F Minor, Op. 57 \"Appassionata\": I. Allegro assai",
+            "artist": "Arthur Rubinstein",
+            "id": 25842625
+        },
+        {
+            "name": "Sonata No. 23 in F Minor, Op. 57 \"Appassionata\": II. Andante con moto",
+            "artist": "Arthur Rubinstein",
+            "id": 25842629
+        },
+        {
+            "name": "Sonata No. 23 in F Minor, Op. 57 \"Appassionata\": III. Allegro, ma non troppo - Presto",
+            "artist": "Arthur Rubinstein",
+            "id": 25842628
+        },
+        {
+            "name": "Piano Sonata No.14 In C Sharp Minor, Op.27 No.2 -\"Moonlight\" - 1. Adagio sostenuto",
+            "artist": "Emil Gilels",
+            "id": 29334582
+        },
+        {
+            "name": "Piano Sonata No.14 In C Sharp Minor, Op.27 No.2 -\"Moonlight\" - 2. Allegretto",
+            "artist": "Emil Gilels",
+            "id": 29334583
+        },
+        {
+            "name": "Piano Sonata No.14 In C Sharp Minor, Op.27 No.2 -\"Moonlight\" - 3. Presto agitato",
+            "artist": "Emil Gilels",
+            "id": 29334584
+        },
+        {
+            "name": "Piano Sonata No.8 In C Minor, Op.13 -\"Pathétique\" - 1. Grave - Allegro di molto e con brio",
+            "artist": "Emil Gilels",
+            "id": 29334575
+        },
+        {
+            "name": "Piano Sonata No.8 In C Minor, Op.13 -\"Pathétique\" - 2. Adagio cantabile",
+            "artist": "Emil Gilels",
+            "id": 29334576
+        },
+        {
+            "name": "Piano Sonata No.8 In C Minor, Op.13 -\"Pathétique\" - 3. Rondo (Allegro)",
+            "artist": "Emil Gilels",
+            "id": 29334577
+        },
+        {
+            "name": "Piano Sonata No.23 In F Minor, Op.57 -\"Appassionata\":1. Allegro assai",
+            "artist": "Emil Gilels",
+            "id": 32701054
+        },
+        {
+            "name": "Piano Sonata No.23 In F Minor, Op.57 -\"Appassionata\":2. Andante con moto",
+            "artist": "Emil Gilels",
+            "id": 32701055
+        },
+        {
+            "name": "Piano Sonata No.23 In F Minor, Op.57 -\"Appassionata\":3. Allegro ma non troppo",
+            "artist": "Emil Gilels",
+            "id": 32701056
+        },
+        {
+            "name": "Piano Sonata No. 14 in C sharp minor (\"Moonlight\"), Op. 27/2:Adagio Sostenuto",
+            "artist": "András Schiff",
+            "id": 1004443
+        },
+        {
+            "name": "Piano Sonata No. 14 in C sharp minor (\"Moonlight\"), Op. 27/2:Allegretto",
+            "artist": "András Schiff",
+            "id": 1004446
+        },
+        {
+            "name": "Piano Sonata No. 14 in C sharp minor (\"Moonlight\"), Op. 27/2:Presto Agitato",
+            "artist": "András Schiff",
+            "id": 1004449
+        },
+        {
+            "name": "Piano Sonata No. 8 In C Minor, Op. 13 -\"Pathétique\" : 1. Grave - Allegro di molto e con brio (Live)",
+            "artist": "András Schiff",
+            "id": 1004652
+        },
+        {
+            "name": "Piano Sonata No. 8 In C Minor, Op. 13 -\"Pathétique\" : 2. Adagio cantabile (Live)",
+            "artist": "András Schiff",
+            "id": 1004656
+        },
+        {
+            "name": "Piano Sonata No. 8 In C Minor, Op. 13 -\"Pathétique\" :3. Rondo (Allegro) (Live)",
+            "artist": "András Schiff",
+            "id": 1004659
+        },
+        {
+            "name": "Piano Sonata No. 23 In F Minor, Op. 57 -\"Appassionata\":1. Allegro assai (Live)",
+            "artist": "András Schiff",
+            "id": 1004522
+        },
+        {
+            "name": "Piano Sonata No. 23 In F Minor, Op. 57 -\"Appassionata\":2. Andante con moto (Live)",
+            "artist": "András Schiff",
+            "id": 1004525
+        },
+        {
+            "name": "Piano Sonata No. 23 In F Minor, Op. 57 -\"Appassionata\":3. Allegro ma non troppo (Live)",
+            "artist": "András Schiff",
+            "id": 1004528
+        },
+        {
+            "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\":I. Adagio sostenuto",
+            "artist": "Stephen Kovacevich",
+            "id": 22294386
+        },
+        {
+            "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\":II. Allegretto",
+            "artist": "Stephen Kovacevich",
+            "id": 22294387
+        },
+        {
+            "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\":III. Presto agitato",
+            "artist": "Stephen Kovacevich",
+            "id": 22294388
+        },
+        {
+            "name": "Piano Sonata No. 8 in C Minor, Op. 13 \"Pathétique\":I. Grave - Allegro di molto e con brio",
+            "artist": "Stephen Kovacevich",
+            "id": 22468604
+        },
+        {
+            "name": "Piano Sonata No. 8 in C Minor, Op. 13 \"Pathétique\":II. Adagio cantabile",
+            "artist": "Stephen Kovacevich",
+            "id": 22468605
+        },
+        {
+            "name": "Piano Sonata No. 8 in C Minor, Op. 13 \"Pathétique\":III. Rondo. Allegro",
+            "artist": "Stephen Kovacevich",
+            "id": 22468606
+        },
+        {
+            "name": "Piano Sonata No. 23 in F Minor, Op. 57 \"Appassionata\":I. Allegro assai",
+            "artist": "Stephen Kovacevich",
+            "id": 22536071
+        },
+        {
+            "name": "Piano Sonata No. 23 in F Minor, Op. 57 \"Appassionata\":II. Andante con moto",
+            "artist": "Stephen Kovacevich",
+            "id": 22536072
+        },
+        {
+            "name": "Piano Sonata No. 23 in F Minor, Op. 57 \"Appassionata\":III. Allegro ma non troppo - Presto",
+            "artist": "Stephen Kovacevich",
+            "id": 22536073
+        },
+        {
+            "name": "Piano Sonata No.14 In C Sharp Minor, Op.27 No.2 -\"Moonlight\":1. Adagio sostenuto",
+            "artist": "Wilhelm Kempff",
+            "id": 25729689
+        },
+        {
+            "name": "Piano Sonata No.14 In C Sharp Minor, Op.27 No.2 -\"Moonlight\":2. Allegretto",
+            "artist": "Wilhelm Kempff",
+            "id": 25729690
+        },
+        {
+            "name": "Piano Sonata No.14 In C Sharp Minor, Op.27 No.2 -\"Moonlight\":3. Presto agitato",
+            "artist": "Wilhelm Kempff",
+            "id": 25729693
+        },
+        {
+            "name": "Piano Sonata No.8 In C Minor, Op.13 -\"Pathétique\":1. Grave - Allegro di molto e con brio",
+            "artist": "Wilhelm Kempff",
+            "id": 25729687
+        },
+        {
+            "name": "Piano Sonata No.8 In C Minor, Op.13 -\"Pathétique\":2. Adagio cantabile",
+            "artist": "Wilhelm Kempff",
+            "id": 25729694
+        },
+        {
+            "name": "Piano Sonata No.8 In C Minor, Op.13 -\"Pathétique\":3. Rondo (Allegro)",
+            "artist": "Wilhelm Kempff",
+            "id": 25729684
+        },
+        {
+            "name": "Piano Sonata No.23 In F Minor, Op.57 -\"Appassionata\":1. Allegro assai",
+            "artist": "Wilhelm Kempff",
+            "id": 25729683
+        },
+        {
+            "name": "Piano Sonata No.23 In F Minor, Op.57 -\"Appassionata\":2. Andante con moto",
+            "artist": "Wilhelm Kempff",
+            "id": 25729685
+        },
+        {
+            "name": "Piano Sonata No.23 In F Minor, Op.57 -\"Appassionata\":3. Allegro ma non troppo",
+            "artist": "Wilhelm Kempff",
+            "id": 25729692
+        },
+        {
+            "name": "Piano Sonata No.14 In C Sharp Minor, Op.27 No.2 -\"Moonlight\":1. Adagio sostenuto",
+            "artist": "Maurizio Pollini",
+            "id": 402059421
+        },
+        {
+            "name": "Piano Sonata No.14 In C Sharp Minor, Op.27 No.2 -\"Moonlight\":2. Allegretto",
+            "artist": "Maurizio Pollini",
+            "id": 402059422
+        },
+        {
+            "name": "Piano Sonata No.14 In C Sharp Minor, Op.27 No.2 -\"Moonlight\":3. Presto agitato",
+            "artist": "Maurizio Pollini",
+            "id": 402059423
+        },
+        {
+            "name": "Piano Sonata No.8 In C Minor, Op.13 -\"Pathétique\":1. Grave - Allegro di molto e con brio",
+            "artist": "Maurizio Pollini",
+            "id": 402059410
+        },
+        {
+            "name": "Piano Sonata No.8 In C Minor, Op.13 -\"Pathétique\":2. Adagio cantabile",
+            "artist": "Maurizio Pollini",
+            "id": 402059411
+        },
+        {
+            "name": "Piano Sonata No.8 In C Minor, Op.13 -\"Pathétique\":3. Rondo (Allegro)",
+            "artist": "Maurizio Pollini",
+            "id": 402059412
+        },
+        {
+            "name": "Piano Sonata No.23 In F Minor, Op.57 -\"Appassionata\":1. Allegro assai",
+            "artist": "Maurizio Pollini",
+            "id": 402059444
+        },
+        {
+            "name": "Piano Sonata No.23 In F Minor, Op.57 -\"Appassionata\":2. Andante con moto",
+            "artist": "Maurizio Pollini",
+            "id": 402059445
+        },
+        {
+            "name": "Piano Sonata No.23 In F Minor, Op.57 -\"Appassionata\":3. Allegro ma non troppo",
+            "artist": "Maurizio Pollini",
+            "id": 402059446
+        },
+        {
+            "name": "Sonata No. 1 in F minor, Op. 2, No. 1:I. Allegro",
+            "artist": "Glenn Gould",
+            "id": 405348070
+        },
+        {
+            "name": "Sonata No. 1 in F minor, Op. 2, No. 1:II. Adagio",
+            "artist": "Glenn Gould",
+            "id": 405348071
+        },
+        {
+            "name": "Sonata No. 1 in F minor, Op. 2, No. 1:III. Menuetto. Allegretto",
+            "artist": "Glenn Gould",
+            "id": 405348072
+        },
+        {
+            "name": "Sonata No. 1 in F minor, Op. 2, No. 1:IV. Prestissimo",
+            "artist": "Glenn Gould",
+            "id": 405348073
+        },
+        {
+            "name": "Sonata No. 2 in A Major, Op. 2, No. 2:I. Allegro vivace",
+            "artist": "Glenn Gould",
+            "id": 405348074
+        },
+        {
+            "name": "Sonata No. 2 in A Major, Op. 2, No. 2:II. Largo appassionato",
+            "artist": "Glenn Gould",
+            "id": 405348075
+        },
+        {
+            "name": "Sonata No. 2 in A Major, Op. 2, No. 2:III. Scherzo. Allegretto",
+            "artist": "Glenn Gould",
+            "id": 405348076
+        },
+        {
+            "name": "Sonata No. 2 in A Major, Op. 2, No. 2:IV. Rondo. Grazioso",
+            "artist": "Glenn Gould",
+            "id": 405348077
+        },
+        {
+            "name": "Sonata No. 3 in C Major, Op. 2, No. 3:I. Allegro con brio",
+            "artist": "Glenn Gould",
+            "id": 405348078
+        },
+        {
+            "name": "Sonata No. 3 in C Major, Op. 2, No. 3:II. Adagio",
+            "artist": "Glenn Gould",
+            "id": 405348079
+        },
+        {
+            "name": "Sonata No. 3 in C Major, Op. 2, No. 3:III. Scherzo. Allegro",
+            "artist": "Glenn Gould",
+            "id": 405348080
+        },
+        {
+            "name": "Sonata No. 3 in C Major, Op. 2, No. 3:IV. Allegro assai",
+            "artist": "Glenn Gould",
+            "id": 405348081
+        },
+        {
+            "name": "Sonata No. 5 in C minor, Op. 10, No. 1:I. Allegro molto e con brio",
+            "artist": "Glenn Gould",
+            "id": 405348082
+        },
+        {
+            "name": "Sonata No. 5 in C minor, Op. 10, No. 1:II. Adagio molto",
+            "artist": "Glenn Gould",
+            "id": 405348083
+        },
+        {
+            "name": "Sonata No. 5 in C minor, Op. 10, No. 1:III. Finale. Prestissimo",
+            "artist": "Glenn Gould",
+            "id": 405348084
+        },
+        {
+            "name": "Sonata No. 6 in F Major, Op. 10, No. 2:I. Allegro",
+            "artist": "Glenn Gould",
+            "id": 405348085
+        },
+        {
+            "name": "Sonata No. 6 in F Major, Op. 10, No. 2:II. Allegretto",
+            "artist": "Glenn Gould",
+            "id": 405348086
+        },
+        {
+            "name": "Sonata No. 6 in F Major, Op. 10, No. 2:III. Presto",
+            "artist": "Glenn Gould",
+            "id": 405348087
+        },
+        {
+            "name": "Sonata No. 7 in D Major, Op. 10, No. 3:I. Presto",
+            "artist": "Glenn Gould",
+            "id": 405348088
+        },
+        {
+            "name": "Sonata No. 7 in D Major, Op. 10, No. 3:II. Largo e mesto",
+            "artist": "Glenn Gould",
+            "id": 405348089
+        },
+        {
+            "name": "Sonata No. 7 in D Major, Op. 10, No. 3:III. Menuetto. Allegro",
+            "artist": "Glenn Gould",
+            "id": 405348090
+        },
+        {
+            "name": "Sonata No. 7 in D Major, Op. 10, No. 3:IV. Rondo. Allegro",
+            "artist": "Glenn Gould",
+            "id": 405348091
+        },
+        {
+            "name": "Sonata No. 9 in E Major, Op. 14, No. 1:I. Allegro",
+            "artist": "Glenn Gould",
+            "id": 405348099
+        },
+        {
+            "name": "Sonata No. 9 in E Major, Op. 14, No. 1:II. Allegretto",
+            "artist": "Glenn Gould",
+            "id": 405348100
+        },
+        {
+            "name": "Sonata No. 9 in E Major, Op. 14, No. 1:III. Rondo. Allegro commodo",
+            "artist": "Glenn Gould",
+            "id": 405348101
+        },
+        {
+            "name": "Sonata No. 10 in G Major, Op. 14, No. 2:I. Allegro",
+            "artist": "Glenn Gould",
+            "id": 405348102
+        },
+        {
+            "name": "Sonata No. 10 in G Major, Op. 14, No. 2:II. Andante",
+            "artist": "Glenn Gould",
+            "id": 405348103
+        },
+        {
+            "name": "Sonata No. 10 in G Major, Op. 14, No. 2:III. Scherzo. Allegro assai",
+            "artist": "Glenn Gould",
+            "id": 405348104
+        },
+        {
+            "name": "Sonata No. 12 in A-flat Major, Op. 26:I. Andante con Variazioni",
+            "artist": "Glenn Gould",
+            "id": 405348092
+        },
+        {
+            "name": "Sonata No. 12 in A-flat Major, Op. 26:II. Scherzo. Allegro molto",
+            "artist": "Glenn Gould",
+            "id": 405348093
+        },
+        {
+            "name": "Sonata No. 12 in A-flat Major, Op. 26:III. Marcia funebre sulla morte d'un Eroe",
+            "artist": "Glenn Gould",
+            "id": 405348094
+        },
+        {
+            "name": "Sonata No. 12 in A-flat Major, Op. 26:IV. Allegro",
+            "artist": "Glenn Gould",
+            "id": 405348095
+        },
+        {
+            "name": "Sonata No. 13 in E-flat Major, Op. 27, No. 1 \"Sonata quasi una fantasia\":I. Andante - Allegro - Tempo I - attacca:",
+            "artist": "Glenn Gould",
+            "id": 405348105
+        },
+        {
+            "name": "Sonata No. 13 in E-flat Major, Op. 27, No. 1 \"Sonata quasi una fantasia\":II. Allegro molto e vivace - attacca:",
+            "artist": "Glenn Gould",
+            "id": 405348106
+        },
+        {
+            "name": "Sonata No. 13 in E-flat Major, Op. 27, No. 1 \"Sonata quasi una fantasia\":III. Adagio con espressione - attacca:",
+            "artist": "Glenn Gould",
+            "id": 405348107
+        },
+        {
+            "name": "Sonata No. 13 in E-flat Major, Op. 27, No. 1 \"Sonata quasi una fantasia\":IV. Allegro vivace",
+            "artist": "Glenn Gould",
+            "id": 405348108
+        },
+        {
+            "name": "Sonata No. 15 in D Major, Op. 28 \"Pastorale\":I. Allegro",
+            "artist": "Glenn Gould",
+            "id": 405348112
+        },
+        {
+            "name": "Sonata No. 15 in D Major, Op. 28 \"Pastorale\":II. Andante",
+            "artist": "Glenn Gould",
+            "id": 405348113
+        },
+        {
+            "name": "Sonata No. 15 in D Major, Op. 28 \"Pastorale\":III. Scherzo. Allegro vivace",
+            "artist": "Glenn Gould",
+            "id": 405348114
+        },
+        {
+            "name": "Sonata No. 15 in D Major, Op. 28 \"Pastorale\":IV. Rondo. Allegro, ma non troppo",
+            "artist": "Glenn Gould",
+            "id": 405348115
+        },
+        {
+            "name": "Sonata No. 16 in G Major, Op. 31, No. 1:I. Allegro vivace",
+            "artist": "Glenn Gould",
+            "id": 405348119
+        },
+        {
+            "name": "Sonata No. 16 in G Major, Op. 31, No. 1:II. Adagio grazioso",
+            "artist": "Glenn Gould",
+            "id": 405348120
+        },
+        {
+            "name": "Sonata No. 16 in G Major, Op. 31, No. 1:III. Rondo. Allegretto",
+            "artist": "Glenn Gould",
+            "id": 405348121
+        },
+        {
+            "name": "Sonata No. 17 in D Minor, Op. 31, No. 2 \"The Tempest\":I. Largo - Allegro",
+            "artist": "Glenn Gould",
+            "id": 405348122
+        },
+        {
+            "name": "Sonata No. 17 in D Minor, Op. 31, No. 2 \"The Tempest\":II. Adagio",
+            "artist": "Glenn Gould",
+            "id": 405348123
+        },
+        {
+            "name": "Sonata No. 17 in D Minor, Op. 31, No. 2 \"The Tempest\":III. Allegretto",
+            "artist": "Glenn Gould",
+            "id": 405348124
+        },
+        {
+            "name": "Sonata No. 18 in E-Flat Major, Op. 31, No. 3:I. Allegro",
+            "artist": "Glenn Gould",
+            "id": 405348125
+        },
+        {
+            "name": "Sonata No. 18 in E-Flat Major, Op. 31, No. 3:II. Scherzo. Allegretto vivace",
+            "artist": "Glenn Gould",
+            "id": 405348126
+        },
+        {
+            "name": "Sonata No. 18 in E-Flat Major, Op. 31, No. 3:III. Menuetto. Moderato e grazioso",
+            "artist": "Glenn Gould",
+            "id": 405348127
+        },
+        {
+            "name": "Sonata No. 18 in E-Flat Major, Op. 31, No. 3:IV. Presto con fuoco",
+            "artist": "Glenn Gould",
+            "id": 405348128
+        },
+        {
+            "name": "Sonata No. 30 in E Major, Op. 109:I. Vivace, ma non troppo",
+            "artist": "Glenn Gould",
+            "id": 405348129
+        },
+        {
+            "name": "Sonata No. 30 in E Major, Op. 109:II. Prestissimo",
+            "artist": "Glenn Gould",
+            "id": 405348130
+        },
+        {
+            "name": "Sonata No. 30 in E Major, Op. 109:III. Andante molto cantabile ed espressivo (Gesangvoll, mit innigster Empfindung)",
+            "artist": "Glenn Gould",
+            "id": 405348131
+        },
+        {
+            "name": "Sonata No. 31 in A-flat Major, Op. 110:I. Moderato cantabile molto espressivo",
+            "artist": "Glenn Gould",
+            "id": 405348132
+        },
+        {
+            "name": "Sonata No. 31 in A-flat Major, Op. 110:II. Allegro molto",
+            "artist": "Glenn Gould",
+            "id": 405348133
+        },
+        {
+            "name": "Sonata No. 31 in A-flat Major, Op. 110:III. Adagio, ma non troppo - Fuga. Allegro, ma non troppo",
+            "artist": "Glenn Gould",
+            "id": 405348134
+        },
+        {
+            "name": "Sonata No. 32 in C minor, Op. 111:I. Maestoso - Allegro con brio ed appassionato",
+            "artist": "Glenn Gould",
+            "id": 405348135
+        },
+        {
+            "name": "Sonata No. 32 in C minor, Op. 111:II. Arietta. Adagio molto semplice e cantabile",
+            "artist": "Glenn Gould",
+            "id": 405348136
+        },
+        {
+            "name": "Piano Sonata No.1 in F minor, Op.2 No.1:1. Allegro",
+            "artist": "Daniel Barenboim",
+            "id": 20674991
+        },
+        {
+            "name": "Piano Sonata No.1 in F minor, Op.2 No.1:2. Adagio",
+            "artist": "Daniel Barenboim",
+            "id": 20674992
+        },
+        {
+            "name": "Piano Sonata No.1 in F minor, Op.2 No.1:3. Menuetto (Allegretto)",
+            "artist": "Daniel Barenboim",
+            "id": 20674993
+        },
+        {
+            "name": "Piano Sonata No.1 in F minor, Op.2 No.1:4. Prestissimo",
+            "artist": "Daniel Barenboim",
+            "id": 20674994
+        },
+        {
+            "name": "Piano Sonata No.2 in A, Op.2 No.2:1. Allegro vivace",
+            "artist": "Daniel Barenboim",
+            "id": 20674995
+        },
+        {
+            "name": "Piano Sonata No.2 in A, Op.2 No.2:2. Largo appassionato",
+            "artist": "Daniel Barenboim",
+            "id": 20674996
+        },
+        {
+            "name": "Piano Sonata No.2 in A, Op.2 No.2:3. Scherzo (Allegretto)",
+            "artist": "Daniel Barenboim",
+            "id": 20674997
+        },
+        {
+            "name": "Piano Sonata No.2 in A, Op.2 No.2:4. Rondo (Grazioso)",
+            "artist": "Daniel Barenboim",
+            "id": 20674998
+        },
+        {
+            "name": "Piano Sonata No.3 in C, Op.2 No.3:1. Allegro con brio",
+            "artist": "Daniel Barenboim",
+            "id": 20674999
+        },
+        {
+            "name": "Piano Sonata No.3 in C, Op.2 No.3:2. Adagio",
+            "artist": "Daniel Barenboim",
+            "id": 20675000
+        },
+        {
+            "name": "Piano Sonata No.3 in C, Op.2 No.3:3. Scherzo (Allegro)",
+            "artist": "Daniel Barenboim",
+            "id": 20675001
+        },
+        {
+            "name": "Piano Sonata No.3 in C, Op.2 No.3:4. Allegro assai",
+            "artist": "Daniel Barenboim",
+            "id": 20675002
+        },
+        {
+            "name": "Piano Sonata No.4 in E flat, Op.7:1. Allegro molto e con brio",
+            "artist": "Daniel Barenboim",
+            "id": 20675016
+        },
+        {
+            "name": "Piano Sonata No.4 in E flat, Op.7:2. Largo, con gran espressione",
+            "artist": "Daniel Barenboim",
+            "id": 20675017
+        },
+        {
+            "name": "Piano Sonata No.4 in E flat, Op.7:3. Allegro",
+            "artist": "Daniel Barenboim",
+            "id": 20675018
+        },
+        {
+            "name": "Piano Sonata No.4 in E flat, Op.7:4. Rondo (Poco allegretto e grazioso)",
+            "artist": "Daniel Barenboim",
+            "id": 20675019
+        },
+        {
+            "name": "Piano Sonata No.5 in C minor, Op.10 No.1:1. Allegro molto e con brio",
+            "artist": "Daniel Barenboim",
+            "id": 20675003
+        },
+        {
+            "name": "Piano Sonata No.5 in C minor, Op.10 No.1:2. Adagio molto",
+            "artist": "Daniel Barenboim",
+            "id": 20675004
+        },
+        {
+            "name": "Piano Sonata No.5 in C minor, Op.10 No.1:3. Finale (Prestissimo)",
+            "artist": "Daniel Barenboim",
+            "id": 20675005
+        },
+        {
+            "name": "Piano Sonata No.6 in F, Op.10 No.2:1. Allegro",
+            "artist": "Daniel Barenboim",
+            "id": 20675006
+        },
+        {
+            "name": "Piano Sonata No.6 in F, Op.10 No.2:2. Allegretto",
+            "artist": "Daniel Barenboim",
+            "id": 20675007
+        },
+        {
+            "name": "Piano Sonata No.6 in F, Op.10 No.2:3. Presto",
+            "artist": "Daniel Barenboim",
+            "id": 20675008
+        },
+        {
+            "name": "Piano Sonata No.7 in D, Op.10 No.3:1. Presto",
+            "artist": "Daniel Barenboim",
+            "id": 20675009
+        },
+        {
+            "name": "Piano Sonata No.7 in D, Op.10 No.3:2. Largo e mesto",
+            "artist": "Daniel Barenboim",
+            "id": 20675010
+        },
+        {
+            "name": "Piano Sonata No.7 in D, Op.10 No.3:3. Menuetto (Allegro)",
+            "artist": "Daniel Barenboim",
+            "id": 20675011
+        },
+        {
+            "name": "Piano Sonata No.7 in D, Op.10 No.3:4. Rondo (Allegro)",
+            "artist": "Daniel Barenboim",
+            "id": 20675012
+        },
+        {
+            "name": "Piano Sonata No.9 in E, Op.14 No.1:1. Allegro",
+            "artist": "Daniel Barenboim",
+            "id": 20675020
+        },
+        {
+            "name": "Piano Sonata No.9 in E, Op.14 No.1:2. Allegretto",
+            "artist": "Daniel Barenboim",
+            "id": 20675021
+        },
+        {
+            "name": "Piano Sonata No.9 in E, Op.14 No.1:3. Rondo (Allegro comodo)",
+            "artist": "Daniel Barenboim",
+            "id": 20675022
+        },
+        {
+            "name": "Piano Sonata No.10 in G, Op.14 No.2:1. Allegro",
+            "artist": "Daniel Barenboim",
+            "id": 20675023
+        },
+        {
+            "name": "Piano Sonata No.10 in G, Op.14 No.2:2. Andante",
+            "artist": "Daniel Barenboim",
+            "id": 20675024
+        },
+        {
+            "name": "Piano Sonata No.10 in G, Op.14 No.2:3. Scherzo (Allegro assai)",
+            "artist": "Daniel Barenboim",
+            "id": 20675025
+        },
+        {
+            "name": "Piano Sonata No.11 in B flat, Op.22:1. Allegro con brio",
+            "artist": "Daniel Barenboim",
+            "id": 20675030
+        },
+        {
+            "name": "Piano Sonata No.11 in B flat, Op.22:2. Adagio con molto espressione",
+            "artist": "Daniel Barenboim",
+            "id": 20675031
+        },
+        {
+            "name": "Piano Sonata No.11 in B flat, Op.22:3. Menuetto",
+            "artist": "Daniel Barenboim",
+            "id": 20675032
+        },
+        {
+            "name": "Piano Sonata No.11 in B flat, Op.22:4. Rondo (Allegretto)",
+            "artist": "Daniel Barenboim",
+            "id": 20675033
+        },
+        {
+            "name": "Piano Sonata No.12 in A flat, Op.26:1. Andante con variazioni",
+            "artist": "Daniel Barenboim",
+            "id": 20675034
+        },
+        {
+            "name": "Piano Sonata No.12 in A flat, Op.26:2. Scherzo (Allegro molto)",
+            "artist": "Daniel Barenboim",
+            "id": 20675035
+        },
+        {
+            "name": "Piano Sonata No.12 in A flat, Op.26:3. Marcia funebre sulla morte d'un Eroe",
+            "artist": "Daniel Barenboim",
+            "id": 20675036
+        },
+        {
+            "name": "Piano Sonata No.12 in A flat, Op.26:4. Allegro",
+            "artist": "Daniel Barenboim",
+            "id": 20675037
+        },
+        {
+            "name": "Piano Sonata No.13 in E flat, Op.27 No.1:1. Andante - Allegro - Tempo I",
+            "artist": "Daniel Barenboim",
+            "id": 20675026
+        },
+        {
+            "name": "Piano Sonata No.13 in E flat, Op.27 No.1:2. Allegro molto e vivace",
+            "artist": "Daniel Barenboim",
+            "id": 20675027
+        },
+        {
+            "name": "Piano Sonata No.13 in E flat, Op.27 No.1:3. Adagio con espressione",
+            "artist": "Daniel Barenboim",
+            "id": 20675028
+        },
+        {
+            "name": "Piano Sonata No.13 in E flat, Op.27 No.1:4. Allegro vivace - Tempo I - Presto",
+            "artist": "Daniel Barenboim",
+            "id": 20675029
+        },
+        {
+            "name": "Piano Sonata No.15 in D, Op.28 -\"Pastorale\":1. Allegro",
+            "artist": "Daniel Barenboim",
+            "id": 20675043
+        },
+        {
+            "name": "Piano Sonata No.15 in D, Op.28 -\"Pastorale\":2. Andante",
+            "artist": "Daniel Barenboim",
+            "id": 20675044
+        },
+        {
+            "name": "Piano Sonata No.15 in D, Op.28 -\"Pastorale\":3. Scherzo. Allegro vivace",
+            "artist": "Daniel Barenboim",
+            "id": 20675045
+        },
+        {
+            "name": "Piano Sonata No.15 in D, Op.28 -\"Pastorale\":4. Rondo. Allegro ma non troppo",
+            "artist": "Daniel Barenboim",
+            "id": 20675046
+        },
+        {
+            "name": "Piano Sonata No.16 in G, Op.31 No.1:1. Allegro vivace",
+            "artist": "Daniel Barenboim",
+            "id": 20675047
+        },
+        {
+            "name": "Piano Sonata No.16 in G, Op.31 No.1:2. Adagio grazioso",
+            "artist": "Daniel Barenboim",
+            "id": 20675048
+        },
+        {
+            "name": "Piano Sonata No.16 in G, Op.31 No.1:3. Rondo (Allegretto)",
+            "artist": "Daniel Barenboim",
+            "id": 20675049
+        },
+        {
+            "name": "Piano Sonata No.17 in D minor, Op.31 No.2 -\"Tempest\":1. Largo - Allegro",
+            "artist": "Daniel Barenboim",
+            "id": 20675050
+        },
+        {
+            "name": "Piano Sonata No.17 in D minor, Op.31 No.2 -\"Tempest\":2. Adagio",
+            "artist": "Daniel Barenboim",
+            "id": 20675051
+        },
+        {
+            "name": "Piano Sonata No.17 in D minor, Op.31 No.2 -\"Tempest\":3. Allegretto",
+            "artist": "Daniel Barenboim",
+            "id": 20675052
+        },
+        {
+            "name": "Piano Sonata No.18 in E flat, Op.31 No.3 -\"The Hunt\":1. Allegro",
+            "artist": "Daniel Barenboim",
+            "id": 20675053
+        },
+        {
+            "name": "Piano Sonata No.18 in E flat, Op.31 No.3 -\"The Hunt\":2. Scherzo (Allegretto vivace)",
+            "artist": "Daniel Barenboim",
+            "id": 20675054
+        },
+        {
+            "name": "Piano Sonata No.18 in E flat, Op.31 No.3 -\"The Hunt\":3. Menuetto (Moderato e grazioso)",
+            "artist": "Daniel Barenboim",
+            "id": 20675055
+        },
+        {
+            "name": "Piano Sonata No.18 in E flat, Op.31 No.3 -\"The Hunt\":4. Presto con fuoco",
+            "artist": "Daniel Barenboim",
+            "id": 20675056
+        },
+        {
+            "name": "Piano Sonata No.19 in G minor, Op.49 No.1:1. Andante",
+            "artist": "Daniel Barenboim",
+            "id": 20675057
+        },
+        {
+            "name": "Piano Sonata No.19 in G minor, Op.49 No.1:2. Rondo (Allegro)",
+            "artist": "Daniel Barenboim",
+            "id": 20675058
+        },
+        {
+            "name": "Piano Sonata No.20 in G, Op.49 No.2:1. Allegro ma non troppo",
+            "artist": "Daniel Barenboim",
+            "id": 20675059
+        },
+        {
+            "name": "Piano Sonata No.20 in G, Op.49 No.2:2. Tempo di Menuetto",
+            "artist": "Daniel Barenboim",
+            "id": 20675060
+        },
+        {
+            "name": "Piano Sonata No.21 in C, Op.53 -\"Waldstein\":1. Allegro con brio",
+            "artist": "Daniel Barenboim",
+            "id": 20675061
+        },
+        {
+            "name": "Piano Sonata No.21 in C, Op.53 -\"Waldstein\":2. Introduzione (Adagio molto)",
+            "artist": "Daniel Barenboim",
+            "id": 20675062
+        },
+        {
+            "name": "Piano Sonata No.21 in C, Op.53 -\"Waldstein\":3. Rondo (Allegretto moderato - Prestissimo)",
+            "artist": "Daniel Barenboim",
+            "id": 20675063
+        },
+        {
+            "name": "Piano Sonata No.22 in F, Op.54:1. In Tempo d'un Menuetto",
+            "artist": "Daniel Barenboim",
+            "id": 20675064
+        },
+        {
+            "name": "Piano Sonata No.22 in F, Op.54:2. Allegretto",
+            "artist": "Daniel Barenboim",
+            "id": 20675065
+        },
+        {
+            "name": "Piano Sonata No.24 in F sharp, Op.78 \"For Therese\":1. Adagio cantabile - Allegro ma non troppo",
+            "artist": "Daniel Barenboim",
+            "id": 20675069
+        },
+        {
+            "name": "Piano Sonata No.24 in F sharp, Op.78 \"For Therese\":2. Allegro vivace",
+            "artist": "Daniel Barenboim",
+            "id": 20675070
+        },
+        {
+            "name": "Piano Sonata No.25 in G, Op.79:1. Presto alla tedesca",
+            "artist": "Daniel Barenboim",
+            "id": 20675071
+        },
+        {
+            "name": "Piano Sonata No.25 in G, Op.79:2. Andante",
+            "artist": "Daniel Barenboim",
+            "id": 20675072
+        },
+        {
+            "name": "Piano Sonata No.25 in G, Op.79:3. Vivace",
+            "artist": "Daniel Barenboim",
+            "id": 20675073
+        },
+        {
+            "name": "Piano Sonata No.26 in E flat, Op.81a -\"Les adieux\":1. Das Lebewohl (Adagio - Allegro)",
+            "artist": "Daniel Barenboim",
+            "id": 20675074
+        },
+        {
+            "name": "Piano Sonata No.26 in E flat, Op.81a -\"Les adieux\":2. Abwesendheit (Andante espressivo)",
+            "artist": "Daniel Barenboim",
+            "id": 20675075
+        },
+        {
+            "name": "Piano Sonata No.26 in E flat, Op.81a -\"Les adieux\":3. Das Wiedersehn (Vivacissimamente)",
+            "artist": "Daniel Barenboim",
+            "id": 20675076
+        },
+        {
+            "name": "Piano Sonata No.27 in E minor, Op.90:1. Mit Lebhaftigkeit und durchaus mit Empfindung und Ausdruck",
+            "artist": "Daniel Barenboim",
+            "id": 20675041
+        },
+        {
+            "name": "Piano Sonata No.27 in E minor, Op.90:2. Nicht zu geschwind und sehr singbar vorgetragen",
+            "artist": "Daniel Barenboim",
+            "id": 20675042
+        },
+        {
+            "name": "Piano Sonata No.28 in A, Op.101:1. Etwas lebhaft und mit der innigsten Empfindung (Allegretto ma non troppo)",
+            "artist": "Daniel Barenboim",
+            "id": 20675077
+        },
+        {
+            "name": "Piano Sonata No.28 in A, Op.101:2. Lebhaft, marschmäßig (Vivace alla marcia)",
+            "artist": "Daniel Barenboim",
+            "id": 20675078
+        },
+        {
+            "name": "Piano Sonata No.28 in A, Op.101:3. Langsam und sehnsuchtsvoll (Adagio ma non troppo, con affetto)",
+            "artist": "Daniel Barenboim",
+            "id": 20675079
+        },
+        {
+            "name": "Piano Sonata No.28 in A, Op.101:4. Geschwind, doch nicht zu sehr und mit Entschlossen- heit (Allegro)",
+            "artist": "Daniel Barenboim",
+            "id": 20675080
+        },
+        {
+            "name": "Piano Sonata No.29 in B flat, Op.106 -\"Hammerklavier\":1. Allegro",
+            "artist": "Daniel Barenboim",
+            "id": 20675081
+        },
+        {
+            "name": "Piano Sonata No.29 in B flat, Op.106 -\"Hammerklavier\":2. Scherzo (Assai vivace - Presto - Prestissimo - Tempo I)",
+            "artist": "Daniel Barenboim",
+            "id": 20675082
+        },
+        {
+            "name": "Piano Sonata No.29 in B flat, Op.106 -\"Hammerklavier\":3. Adagio sostenuto",
+            "artist": "Daniel Barenboim",
+            "id": 20675083
+        },
+        {
+            "name": "Piano Sonata No.29 in B flat, Op.106 -\"Hammerklavier\":4. Largo - Allegro risoluto",
+            "artist": "Daniel Barenboim",
+            "id": 20675084
+        },
+        {
+            "name": "Piano Sonata No.30 in E, Op.109:1. Vivace, ma non troppo - Adagio espressivo - Tempo I",
+            "artist": "Daniel Barenboim",
+            "id": 20675085
+        },
+        {
+            "name": "Piano Sonata No.30 in E, Op.109:2. Prestissimo",
+            "artist": "Daniel Barenboim",
+            "id": 20675086
+        },
+        {
+            "name": "Piano Sonata No.30 in E, Op.109:3. Gesangvoll, mit innigster Empfindung (Andante molto cantabile ed espressivo)",
+            "artist": "Daniel Barenboim",
+            "id": 20675087
+        },
+        {
+            "name": "Piano Sonata No.31 in A flat, Op.110:1. Moderato cantabile molto espressivo",
+            "artist": "Daniel Barenboim",
+            "id": 20675088
+        },
+        {
+            "name": "Piano Sonata No.31 in A flat, Op.110:2. Allegro molto",
+            "artist": "Daniel Barenboim",
+            "id": 20675089
+        },
+        {
+            "name": "Piano Sonata No.31 in A flat, Op.110:3. Adagio ma non troppo - Fuga (Allegro ma non troppo)",
+            "artist": "Daniel Barenboim",
+            "id": 20675090
+        },
+        {
+            "name": "Piano Sonata No.32 in C minor, Op.111:1. Maestoso - Allegro con brio ed appassionato",
+            "artist": "Daniel Barenboim",
+            "id": 20675091
+        },
+        {
+            "name": "Piano Sonata No.32 in C minor, Op.111:2. Arietta (Adagio molto semplice e cantabile)",
+            "artist": "Daniel Barenboim",
+            "id": 20675092
+        },
+        {
+            "name": "Piano Sonata No. 1 In F Minor, Op. 2, No. 1:1. Allegro (Live)",
+            "artist": "András Schiff",
+            "id": 1004671
+        },
+        {
+            "name": "Piano Sonata No. 1 In F Minor, Op. 2, No. 1:2. Adagio (Live)",
+            "artist": "András Schiff",
+            "id": 1004674
+        },
+        {
+            "name": "Piano Sonata No. 1 In F Minor, Op. 2, No. 1:3. Menuetto (Allegretto) (Live)",
+            "artist": "András Schiff",
+            "id": 1004676
+        },
+        {
+            "name": "Piano Sonata No. 1 In F Minor, Op. 2, No. 1:4. Prestissimo (Live)",
+            "artist": "András Schiff",
+            "id": 1004677
+        },
+        {
+            "name": "Piano Sonata No. 2 In A Major, Op. 2, No. 2:1. Allegro vivace (Live)",
+            "artist": "András Schiff",
+            "id": 1004679
+        },
+        {
+            "name": "Piano Sonata No. 2 In A Major, Op. 2, No. 2:2. Largo appassionato (Live)",
+            "artist": "András Schiff",
+            "id": 1004681
+        },
+        {
+            "name": "Piano Sonata No. 2 In A Major, Op. 2, No. 2:3. Scherzo (Allegretto) (Live)",
+            "artist": "András Schiff",
+            "id": 1004683
+        },
+        {
+            "name": "Piano Sonata No. 2 In A Major, Op. 2, No. 2:4. Rondo (Grazioso) (Live)",
+            "artist": "András Schiff",
+            "id": 1004686
+        },
+        {
+            "name": "Piano Sonata No. 3 In C Major, Op. 2, No. 3:1. Allegro con brio (Live)",
+            "artist": "András Schiff",
+            "id": 1004689
+        },
+        {
+            "name": "Piano Sonata No. 3 In C Major, Op. 2, No. 3:2. Adagio (Live)",
+            "artist": "András Schiff",
+            "id": 1004692
+        },
+        {
+            "name": "Piano Sonata No. 3 In C Major, Op. 2, No. 3:3. Scherzo (Allegro) (Live)",
+            "artist": "András Schiff",
+            "id": 1004695
+        },
+        {
+            "name": "Piano Sonata No. 3 In C Major, Op. 2, No. 3:4. Allegro assai (Live)",
+            "artist": "András Schiff",
+            "id": 1004698
+        },
+        {
+            "name": "Piano Sonata No. 4 In E Flat Major, Op. 7:1. Allegro molto e con brio (Live)",
+            "artist": "András Schiff",
+            "id": 1004701
+        },
+        {
+            "name": "Piano Sonata No. 4 In E Flat Major, Op. 7:2. Largo, con gran espressione (Live)",
+            "artist": "András Schiff",
+            "id": 1004705
+        },
+        {
+            "name": "Piano Sonata No. 4 In E Flat Major, Op. 7:3. Allegro (Live)",
+            "artist": "András Schiff",
+            "id": 1004709
+        },
+        {
+            "name": "Piano Sonata No. 4 In E Flat Major, Op. 7:4. Rondo (Poco allegretto e grazioso) (Live)",
+            "artist": "András Schiff",
+            "id": 1004713
+        },
+        {
+            "name": "Piano Sonata No. 5 In C Minor, Op. 10, No. 1 : 1. Allegro molto e con brio (Live)",
+            "artist": "András Schiff",
+            "id": 1004626
+        },
+        {
+            "name": "Piano Sonata No. 5 In C Minor, Op. 10, No. 1 : 2. Adagio molto (Live)",
+            "artist": "András Schiff",
+            "id": 1004631
+        },
+        {
+            "name": "Piano Sonata No. 5 In C Minor, Op. 10, No. 1 : 3. Finale (Prestissimo) (Live)",
+            "artist": "András Schiff",
+            "id": 1004633
+        },
+        {
+            "name": "Piano Sonata No. 6 In F Major, Op. 10, No. 2 : 1. Allegro (Live)",
+            "artist": "András Schiff",
+            "id": 1004635
+        },
+        {
+            "name": "Piano Sonata No. 6 In F Major, Op. 10, No. 2 : 2. Allegretto (Live)",
+            "artist": "András Schiff",
+            "id": 1004637
+        },
+        {
+            "name": "Piano Sonata No. 6 In F Major, Op. 10, No. 2 : 3. Presto (Live)",
+            "artist": "András Schiff",
+            "id": 1004639
+        },
+        {
+            "name": "Piano Sonata No. 7 In D Major, Op. 10, No. 3 : 1. Presto (Live)",
+            "artist": "András Schiff",
+            "id": 1004641
+        },
+        {
+            "name": "Piano Sonata No. 7 In D Major, Op. 10, No. 3 : 2. Largo e mesto (Live)",
+            "artist": "András Schiff",
+            "id": 1004643
+        },
+        {
+            "name": "Piano Sonata No. 7 In D Major, Op. 10, No. 3 : 3. Menuetto (Allegro) (Live)",
+            "artist": "András Schiff",
+            "id": 1004646
+        },
+        {
+            "name": "Piano Sonata No. 7 In D Major, Op. 10, No. 3 :4. Rondo (Allegro) (Live)",
+            "artist": "András Schiff",
+            "id": 1004649
+        },
+        {
+            "name": "Piano Sonata No. 9 In E Major, Op. 14, No. 1:1. Allegro (Live)",
+            "artist": "András Schiff",
+            "id": 1004600
+        },
+        {
+            "name": "Piano Sonata No. 9 In E Major, Op. 14, No. 1:2. Allegretto (Live)",
+            "artist": "András Schiff",
+            "id": 1004601
+        },
+        {
+            "name": "Piano Sonata No. 9 In E Major, Op. 14, No. 1:3. Rondo (Allegro comodo) (Live)",
+            "artist": "András Schiff",
+            "id": 1004604
+        },
+        {
+            "name": "Piano Sonata No. 10 In G Major, Op. 14, No. 2:1. Allegro (Live)",
+            "artist": "András Schiff",
+            "id": 1004607
+        },
+        {
+            "name": "Piano Sonata No. 10 In G Major, Op. 14, No. 2:2. Andante (Live)",
+            "artist": "András Schiff",
+            "id": 1004609
+        },
+        {
+            "name": "Piano Sonata No. 10 In G Major, Op. 14, No. 2:3. Scherzo (Allegro assai) (Live)",
+            "artist": "András Schiff",
+            "id": 1004611
+        },
+        {
+            "name": "Piano Sonata No. 11 In B Flat Major, Op. 22:1. Allegro con brio (Live)",
+            "artist": "András Schiff",
+            "id": 1004613
+        },
+        {
+            "name": "Piano Sonata No. 11 In B Flat Major, Op. 22:2. Adagio con molto espressione (Live)",
+            "artist": "András Schiff",
+            "id": 1004616
+        },
+        {
+            "name": "Piano Sonata No. 11 In B Flat Major, Op. 22:3. Menuetto (Live)",
+            "artist": "András Schiff",
+            "id": 1004619
+        },
+        {
+            "name": "Piano Sonata No. 11 In B Flat Major, Op. 22:4. Rondo (Allegretto) (Live)",
+            "artist": "András Schiff",
+            "id": 1004622
+        },
+        {
+            "name": "Piano Sonata No. 12 in A flat major (\"Funeral March\"), Op. 26:Andante Con Variazioni",
+            "artist": "András Schiff",
+            "id": 1004425
+        },
+        {
+            "name": "Piano Sonata No. 12 in A flat major (\"Funeral March\"), Op. 26:Scherzo. Allegro Molto",
+            "artist": "András Schiff",
+            "id": 1004427
+        },
+        {
+            "name": "Piano Sonata No. 12 in A flat major (\"Funeral March\"), Op. 26:Marcia Funebre Sulla Morte D'un Eroe",
+            "artist": "András Schiff",
+            "id": 1004429
+        },
+        {
+            "name": "Piano Sonata No. 12 in A flat major (\"Funeral March\"), Op. 26:Allegro",
+            "artist": "András Schiff",
+            "id": 1004430
+        },
+        {
+            "name": "Piano Sonata No. 13 in E flat major (\"Quasi una fantasia\"), Op. 27/1:Andante - Allegro - Tempo I",
+            "artist": "András Schiff",
+            "id": 1004432
+        },
+        {
+            "name": "Piano Sonata No. 13 in E flat major (\"Quasi una fantasia\"), Op. 27/1:Allegro Molto E Vivace",
+            "artist": "András Schiff",
+            "id": 1004434
+        },
+        {
+            "name": "Piano Sonata No. 13 in E flat major (\"Quasi una fantasia\"), Op. 27/1:Adagio Con Espressione",
+            "artist": "András Schiff",
+            "id": 1004437
+        },
+        {
+            "name": "Piano Sonata No. 13 in E flat major (\"Quasi una fantasia\"), Op. 27/1:Allegro Vivace",
+            "artist": "András Schiff",
+            "id": 1004440
+        },
+        {
+            "name": "Piano Sonata No. 15 in D major (\"Pastoral\"), Op. 28:Allegro",
+            "artist": "András Schiff",
+            "id": 1004452
+        },
+        {
+            "name": "Piano Sonata No. 15 in D major (\"Pastoral\"), Op. 28:Andante",
+            "artist": "András Schiff",
+            "id": 1004454
+        },
+        {
+            "name": "Piano Sonata No. 15 in D major (\"Pastoral\"), Op. 28:Scherzo. Allegro Vivace",
+            "artist": "András Schiff",
+            "id": 1004456
+        },
+        {
+            "name": "Piano Sonata No. 15 in D major (\"Pastoral\"), Op. 28:Rondo. Allegro Ma Non Troppo",
+            "artist": "András Schiff",
+            "id": 1004457
+        },
+        {
+            "name": "Piano Sonata No. 16 In G Major, Op. 31, No. 1:1. Allegro vivace (Live)",
+            "artist": "András Schiff",
+            "id": 1004550
+        },
+        {
+            "name": "Piano Sonata No. 16 In G Major, Op. 31, No. 1:2. Adagio grazioso (Live)",
+            "artist": "András Schiff",
+            "id": 1004554
+        },
+        {
+            "name": "Piano Sonata No. 16 In G Major, Op. 31, No. 1:3. Rondo (Allegretto) (Live)",
+            "artist": "András Schiff",
+            "id": 1004558
+        },
+        {
+            "name": "Piano Sonata No. 17 In D Minor, Op. 31, No. 2 -\"The Tempest\":1. Largo - Allegro (Live)",
+            "artist": "András Schiff",
+            "id": 1004560
+        },
+        {
+            "name": "Piano Sonata No. 17 In D Minor, Op. 31, No. 2 -\"The Tempest\":2. Adagio (Live)",
+            "artist": "András Schiff",
+            "id": 1004562
+        },
+        {
+            "name": "Piano Sonata No. 17 In D Minor, Op. 31, No. 2 -\"The Tempest\":3. Allegretto (Live)",
+            "artist": "András Schiff",
+            "id": 1004564
+        },
+        {
+            "name": "Piano Sonata No. 18 In E Flat Major, Op. 31, No. 3 -\"The Hunt\":1. Allegro (Live)",
+            "artist": "András Schiff",
+            "id": 1004566
+        },
+        {
+            "name": "Piano Sonata No. 18 In E Flat Major, Op. 31, No. 3 -\"The Hunt\" 4:2. Scherzo (Allegretto vivace) (Live)",
+            "artist": "András Schiff",
+            "id": 1004569
+        },
+        {
+            "name": "Piano Sonata No. 18 In E Flat Major, Op. 31, No. 3 -\"The Hunt\":3. Menuetto (Moderato e grazioso) (Live)",
+            "artist": "András Schiff",
+            "id": 1004572
+        },
+        {
+            "name": "Piano Sonata No. 18 In E Flat Major, Op. 31, No. 3 -\"The Hunt\":4. Presto con fuoco (Live)",
+            "artist": "András Schiff",
+            "id": 1004575
+        },
+        {
+            "name": "Piano Sonata No. 19 In G Minor, Op. 49, No. 1:1. Andante (Live)",
+            "artist": "András Schiff",
+            "id": 1004593
+        },
+        {
+            "name": "Piano Sonata No. 19 In G Minor, Op. 49, No. 1:2. Rondo (Allegro) (Live)",
+            "artist": "András Schiff",
+            "id": 1004596
+        },
+        {
+            "name": "Piano Sonata No. 20 In G Major, Op. 49, No. 2:1. Allegro ma non troppo (Live)",
+            "artist": "András Schiff",
+            "id": 1004598
+        },
+        {
+            "name": "Piano Sonata No. 20 In G Major, Op. 49, No. 2:2. Tempo di Menuetto (Live)",
+            "artist": "András Schiff",
+            "id": 1004599
+        },
+        {
+            "name": "Piano Sonata No. 21 In C Major, Op. 53 -\"Waldstein\":1. Allegro con brio (Live)",
+            "artist": "András Schiff",
+            "id": 1004578
+        },
+        {
+            "name": "Piano Sonata No. 21 In C Major, Op. 53 -\"Waldstein\":2. Introduzione (Adagio molto) (Live)",
+            "artist": "András Schiff",
+            "id": 1004580
+        },
+        {
+            "name": "Piano Sonata No. 21 In C Major, Op. 53 -\"Waldstein\":3. Rondo (Allegretto moderato) (Live)",
+            "artist": "András Schiff",
+            "id": 1004582
+        },
+        {
+            "name": "Piano Sonata No. 22 In F Major, Op. 54:1. In Tempo d'un Menuetto (Live)",
+            "artist": "András Schiff",
+            "id": 1004516
+        },
+        {
+            "name": "Piano Sonata No. 22 In F Major, Op. 54:2. Allegretto (Live)",
+            "artist": "András Schiff",
+            "id": 1004520
+        },
+        {
+            "name": "Piano Sonata No. 24 In F Sharp Major, Op. 78 \"For Therese\":1. Adagio cantabile - Allegro ma non troppo (Live)",
+            "artist": "András Schiff",
+            "id": 1004531
+        },
+        {
+            "name": "Piano Sonata No. 24 In F Sharp Major, Op. 78 \"For Therese\":2. Allegro vivace (Live)",
+            "artist": "András Schiff",
+            "id": 1004533
+        },
+        {
+            "name": "Piano Sonata No. 25 In G Major, Op. 79:1. Presto alla tedesca (Live)",
+            "artist": "András Schiff",
+            "id": 1004535
+        },
+        {
+            "name": "Piano Sonata No. 25 In G Major, Op. 79:2. Andante (Live)",
+            "artist": "András Schiff",
+            "id": 1004537
+        },
+        {
+            "name": "Piano Sonata No. 25 In G Major, Op. 79:3. Vivace (Live)",
+            "artist": "András Schiff",
+            "id": 1004539
+        },
+        {
+            "name": "Piano Sonata No. 26 In E Flat Major, Op. 81a -\"Les adieux\":1. Das Lebewohl (Adagio - Allegro) (Live)",
+            "artist": "András Schiff",
+            "id": 1004541
+        },
+        {
+            "name": "Piano Sonata No. 26 In E Flat Major, Op. 81a -\"Les adieux\":2. Abwesenheit (Andante espressivo) (Live)",
+            "artist": "András Schiff",
+            "id": 1004542
+        },
+        {
+            "name": "Piano Sonata No. 26 In E Flat Major, Op. 81a -\"Les adieux\":3. Das Wiedersehen (Vivacissimamente) (Live)",
+            "artist": "András Schiff",
+            "id": 1004543
+        },
+        {
+            "name": "Piano Sonata No. 27 In E Minor, Op. 90:Mit Lebhaftigkeit und durchaus mit Empfindung und Ausdruck",
+            "artist": "András Schiff",
+            "id": 1004489
+        },
+        {
+            "name": "Piano Sonata No. 27 In E Minor, Op. 90:Nicht zu geschwind und sehr singbar vorgetragen",
+            "artist": "András Schiff",
+            "id": 1004492
+        },
+        {
+            "name": "Piano Sonata No. 28 In A Major, Op. 101:Etwas lebhaft und mit der innigsten Empfindung. Allegretto, ma non troppo",
+            "artist": "András Schiff",
+            "id": 1004494
+        },
+        {
+            "name": "Piano Sonata No. 28 In A Major, Op. 101:Lebhaft, Marschmäßig. Vivace alla Marcia",
+            "artist": "András Schiff",
+            "id": 1004495
+        },
+        {
+            "name": "Piano Sonata No. 28 In A Major, Op. 101:Langsam und sehnsuchtvoll. Adagio, ma non troppo, con affetto",
+            "artist": "András Schiff",
+            "id": 1004496
+        },
+        {
+            "name": "Piano Sonata No. 28 In A Major, Op. 101:Geschwinde, doch nicht zu sehr, und mit Entschlossenheit. Allegro",
+            "artist": "András Schiff",
+            "id": 1004497
+        },
+        {
+            "name": "Piano Sonata No. 29 In B Flat Major, Op. 106 -\"Hammerklavier\":Allegro",
+            "artist": "András Schiff",
+            "id": 1004500
+        },
+        {
+            "name": "Piano Sonata No. 29 In B Flat Major, Op. 106 -\"Hammerklavier\":Scherzo. Assai vivace",
+            "artist": "András Schiff",
+            "id": 1004503
+        },
+        {
+            "name": "Piano Sonata No. 29 In B Flat Major, Op. 106 -\"Hammerklavier\":Adagio sostenuto",
+            "artist": "András Schiff",
+            "id": 1004506
+        },
+        {
+            "name": "Piano Sonata No. 29 In B Flat Major, Op. 106 -\"Hammerklavier\":Largo - Allegro risoluto",
+            "artist": "András Schiff",
+            "id": 1004509
+        },
+        {
+            "name": "Piano Sonata No. 30 In E Major, Op. 109 : Vivace, ma non troppo - Adagio esspressivo (Live)",
+            "artist": "András Schiff",
+            "id": 1004466
+        },
+        {
+            "name": "Piano Sonata No. 30 In E Major, Op. 109 : Presstissimo (Live)",
+            "artist": "András Schiff",
+            "id": 1004469
+        },
+        {
+            "name": "Piano Sonata No. 30 In E Major, Op. 109 : Gesangvoll, mit innigster Empfindung. Andante molto cantabile ed espressivo (Live)",
+            "artist": "András Schiff",
+            "id": 1004472
+        },
+        {
+            "name": "Piano Sonata No. 31 In A Flat Major, Op. 110 : Moderato cantabile molto espressivo (Live)",
+            "artist": "András Schiff",
+            "id": 1004475
+        },
+        {
+            "name": "Piano Sonata No. 31 In A Flat Major, Op. 110 : Allegro molto (Live)",
+            "artist": "András Schiff",
+            "id": 1004477
+        },
+        {
+            "name": "Piano Sonata No. 31 In A Flat Major, Op. 110 : Adagio ma non troppo - Fuga. Allegro ma non troppo (Live)",
+            "artist": "András Schiff",
+            "id": 1004478
+        },
+        {
+            "name": "Piano Sonata No. 32 In C Minor, Op. 111 : Maestroso - Allegro con brio ed appassionato (Live)",
+            "artist": "András Schiff",
+            "id": 1004479
+        },
+        {
+            "name": "Piano Sonata No. 32 In C Minor, Op. 111 : Arietta. Adagio molto semplice e cantabile (Live)",
+            "artist": "András Schiff",
+            "id": 1004480
+        },
+        {
+            "name": "Piano Sonata No. 1 in F Minor, Op. 2 No. 1:I. Allegro",
+            "artist": "Stephen Kovacevich",
+            "id": 18874990
+        },
+        {
+            "name": "Piano Sonata No. 1 in F Minor, Op. 2 No. 1:II. Adagio",
+            "artist": "Stephen Kovacevich",
+            "id": 18874991
+        },
+        {
+            "name": "Piano Sonata No. 1 in F Minor, Op. 2 No. 1:III. Menuetto. Allegretto",
+            "artist": "Stephen Kovacevich",
+            "id": 18874992
+        },
+        {
+            "name": "Piano Sonata No. 1 in F Minor, Op. 2 No. 1:IV. Prestissimo",
+            "artist": "Stephen Kovacevich",
+            "id": 18874993
+        },
+        {
+            "name": "Piano Sonata No. 2 in A Major, Op. 2 No. 2:I. Allegro vivace",
+            "artist": "Stephen Kovacevich",
+            "id": 18874994
+        },
+        {
+            "name": "Piano Sonata No. 2 in A Major, Op. 2 No. 2:II. Largo appassionato",
+            "artist": "Stephen Kovacevich",
+            "id": 18874995
+        },
+        {
+            "name": "Piano Sonata No. 2 in A Major, Op. 2 No. 2:III. Scherzo. Allegretto",
+            "artist": "Stephen Kovacevich",
+            "id": 18874996
+        },
+        {
+            "name": "Piano Sonata No. 2 in A Major, Op. 2 No. 2:IV. Rondo. Grazioso",
+            "artist": "Stephen Kovacevich",
+            "id": 18874997
+        },
+        {
+            "name": "Piano Sonata No. 3 in C Major, Op. 2 No. 3:I. Allegro con brio",
+            "artist": "Stephen Kovacevich",
+            "id": 18874998
+        },
+        {
+            "name": "Piano Sonata No. 3 in C Major, Op. 2 No. 3:II. Adagio",
+            "artist": "Stephen Kovacevich",
+            "id": 18874999
+        },
+        {
+            "name": "Piano Sonata No. 3 in C Major, Op. 2 No. 3:III. Scherzo. Allegro",
+            "artist": "Stephen Kovacevich",
+            "id": 18875000
+        },
+        {
+            "name": "Piano Sonata No. 3 in C Major, Op. 2 No. 3:IV. Allegro assai",
+            "artist": "Stephen Kovacevich",
+            "id": 18877001
+        },
+        {
+            "name": "Piano Sonata No. 4 in E-Flat Major, Op. 7:I. Allegro molto e con brio",
+            "artist": "Stephen Kovacevich",
+            "id": 22536079
+        },
+        {
+            "name": "Piano Sonata No. 4 in E-Flat Major, Op. 7:II. Largo, con gran espressione",
+            "artist": "Stephen Kovacevich",
+            "id": 22536080
+        },
+        {
+            "name": "Piano Sonata No. 4 in E-Flat Major, Op. 7:III. Allegro",
+            "artist": "Stephen Kovacevich",
+            "id": 22536081
+        },
+        {
+            "name": "Piano Sonata No. 4 in E-Flat Major, Op. 7:IV. Rondo. Poco allegretto e grazioso",
+            "artist": "Stephen Kovacevich",
+            "id": 22536082
+        },
+        {
+            "name": "Sonata Opus 10, No. 5 in C minor, No. 1:I. Allegro molto e con brio",
+            "artist": "Richard Goode",
+            "id": 21503743
+        },
+        {
+            "name": "Sonata Opus 10, No. 5 in C minor, No. 1:II. Adagio molto",
+            "artist": "Richard Goode",
+            "id": 21503744
+        },
+        {
+            "name": "Sonata Opus 10, No. 5 in C minor, No. 1 III. Finale:Prestissimo",
+            "artist": "Richard Goode",
+            "id": 21503745
+        },
+        {
+            "name": "Sonata Opus 10, No. 6 in F Major, No. 2:I. Allegro",
+            "artist": "Richard Goode",
+            "id": 21503746
+        },
+        {
+            "name": "Sonata Opus 10, No. 6 in F Major, No. 2:II. Allegretto",
+            "artist": "Richard Goode",
+            "id": 21503747
+        },
+        {
+            "name": "Sonata Opus 10, No. 6 in F Major, No. 2:III. Presto",
+            "artist": "Richard Goode",
+            "id": 21503748
+        },
+        {
+            "name": "Sonata Opus 10, No. 7 in D Major, No. 3:I. Presto",
+            "artist": "Richard Goode",
+            "id": 21503749
+        },
+        {
+            "name": "Sonata Opus 10, No. 7 in D Major, No. 3:II. Largo e mesto",
+            "artist": "Richard Goode",
+            "id": 21503750
+        },
+        {
+            "name": "Sonata Opus 10, No. 7 in D Major, No. 3:III. Menuetto: Allegro",
+            "artist": "Richard Goode",
+            "id": 21503751
+        },
+        {
+            "name": "Sonata Opus 10, No. 7 in D Major, No. 3:IV. Rondo: Allegro",
+            "artist": "Richard Goode",
+            "id": 21503752
+        },
+        {
+            "name": "Piano Sonata No. 9 in E Major, Op. 14 No. 1:I. Allegro",
+            "artist": "Stephen Kovacevich",
+            "id": 22535711
+        },
+        {
+            "name": "Piano Sonata No. 9 in E Major, Op. 14 No. 1:II. Allegretto",
+            "artist": "Stephen Kovacevich",
+            "id": 22535712
+        },
+        {
+            "name": "Piano Sonata No. 9 in E Major, Op. 14 No. 1:III. Rondo - Allegro comodo",
+            "artist": "Stephen Kovacevich",
+            "id": 22535713
+        },
+        {
+            "name": "Piano Sonata No. 10 in G Major, Op. 14 No. 2:I. Allegro",
+            "artist": "Stephen Kovacevich",
+            "id": 22535714
+        },
+        {
+            "name": "Piano Sonata No. 10 in G Major, Op. 14 No. 2:II. Andante",
+            "artist": "Stephen Kovacevich",
+            "id": 22535715
+        },
+        {
+            "name": "Piano Sonata No. 10 in G Major, Op. 14 No. 2:III. Scherzo - Allegro assai",
+            "artist": "Stephen Kovacevich",
+            "id": 22535716
+        },
+        {
+            "name": "Piano Sonata No. 11 in B-Flat Major, Op. 22:I. Allegro con brio",
+            "artist": "Stephen Kovacevich",
+            "id": 22535717
+        },
+        {
+            "name": "Piano Sonata No. 11 in B-Flat Major, Op. 22:II. Adagio con molta espressione",
+            "artist": "Stephen Kovacevich",
+            "id": 22535718
+        },
+        {
+            "name": "Piano Sonata No. 11 in B-Flat Major, Op. 22:III. Minuetto",
+            "artist": "Stephen Kovacevich",
+            "id": 22535719
+        },
+        {
+            "name": "Piano Sonata No. 11 in B-Flat Major, Op. 22:IV. Rondo - Allegretto",
+            "artist": "Stephen Kovacevich",
+            "id": 22535720
+        },
+        {
+            "name": "Sonata No. 12 in A-flat Major, Op. 26:I. Andante con Variazioni",
+            "artist": "Glenn Gould",
+            "id": 17999944
+        },
+        {
+            "name": "Sonata No. 12 in A-flat Major, Op. 26:II. Scherzo. Allegro molto",
+            "artist": "Glenn Gould",
+            "id": 17999945
+        },
+        {
+            "name": "Sonata No. 12 in A-flat Major, Op. 26:III. Marcia funebre sulla morte d'un Eroe",
+            "artist": "Glenn Gould",
+            "id": 17999946
+        },
+        {
+            "name": "Sonata No. 12 in A-flat Major, Op. 26:IV. Allegro",
+            "artist": "Glenn Gould",
+            "id": 17999947
+        },
+        {
+            "name": "Piano Sonata No. 12 in A-Flat Major, Op. 26:I. (a) Andante con variazoni",
+            "artist": "Stephen Kovacevich",
+            "id": 22294389
+        },
+        {
+            "name": "Piano Sonata No. 12 in A-Flat Major, Op. 26:I. (b) Variation I -",
+            "artist": "Stephen Kovacevich",
+            "id": 22294390
+        },
+        {
+            "name": "Piano Sonata No. 12 in A-Flat Major, Op. 26:I. (c) Variation II -",
+            "artist": "Stephen Kovacevich",
+            "id": 22294391
+        },
+        {
+            "name": "Piano Sonata No. 12 in A-Flat Major, Op. 26:I. (d) Variation III -",
+            "artist": "Stephen Kovacevich",
+            "id": 22294392
+        },
+        {
+            "name": "Piano Sonata No. 15 in D Major, Op. 28 \"Pastoral\":I. Allegro",
+            "artist": "Stephen Kovacevich",
+            "id": 22468610
+        },
+        {
+            "name": "Piano Sonata No. 15 in D Major, Op. 28 \"Pastoral\":II. Andante",
+            "artist": "Stephen Kovacevich",
+            "id": 22468611
+        },
+        {
+            "name": "Piano Sonata No. 15 in D Major, Op. 28 \"Pastoral\":III. Scherzo. Allegro vivace",
+            "artist": "Stephen Kovacevich",
+            "id": 22468612
+        },
+        {
+            "name": "Piano Sonata No. 15 in D Major, Op. 28 \"Pastoral\":IV. Rondo. Allegro ma non troppo",
+            "artist": "Stephen Kovacevich",
+            "id": 22468613
+        },
+        {
+            "name": "Piano Sonata No. 17 in D Minor, Op. 31 No. 2 \"The Tempest\":I. Largo - Allegro",
+            "artist": "Stephen Kovacevich",
+            "id": 22468629
+        },
+        {
+            "name": "Piano Sonata No. 17 in D Minor, Op. 31 No. 2 \"The Tempest\":II. Adagio",
+            "artist": "Stephen Kovacevich",
+            "id": 22468630
+        },
+        {
+            "name": "Piano Sonata No. 17 in D Minor, Op. 31 No. 2 \"The Tempest\":III. Allegretto",
+            "artist": "Stephen Kovacevich",
+            "id": 22468631
+        },
+        {
+            "name": "Piano Sonata No. 19 in G Minor, Op. 49 No. 1 \"Easy Sonata\":I. Andante",
+            "artist": "Stephen Kovacevich",
+            "id": 22294396
+        },
+        {
+            "name": "Piano Sonata No. 19 in G Minor, Op. 49 No. 1 \"Easy Sonata\":II. Rondo. Allegro",
+            "artist": "Stephen Kovacevich",
+            "id": 22294397
+        },
+        {
+            "name": "Piano Sonata No. 20 in G Major, Op. 49 No. 2 \"Easy Sonata\":I. Allegro, ma non troppo",
+            "artist": "Stephen Kovacevich",
+            "id": 22294398
+        },
+        {
+            "name": "Piano Sonata No. 20 in G Major, Op. 49 No. 2 \"Easy Sonata\":II. Tempo di Menuetto",
+            "artist": "Stephen Kovacevich",
+            "id": 22294399
+        },
+        {
+            "name": "Piano Sonata No. 21 in C Major, Op. 53 \"Waldstein\":I. Allegro con brio",
+            "artist": "Stephen Kovacevich",
+            "id": 22468621
+        },
+        {
+            "name": "Piano Sonata No. 21 in C Major, Op. 53 \"Waldstein\":II. Introduzione. Adagio molto",
+            "artist": "Stephen Kovacevich",
+            "id": 22468622
+        },
+        {
+            "name": "Piano Sonata No. 21 in C Major, Op. 53 \"Waldstein\":III. Rondo. Allegretto moderato - Prestissimo",
+            "artist": "Stephen Kovacevich",
+            "id": 22468623
+        },
+        {
+            "name": "Piano Sonata No. 22 in F Major, Op. 54:I. In tempo d'un menuetto",
+            "artist": "Stephen Kovacevich",
+            "id": 22536074
+        },
+        {
+            "name": "Piano Sonata No. 22 in F Major, Op. 54:II. Allegretto - Più allegro",
+            "artist": "Stephen Kovacevich",
+            "id": 22536075
+        },
+        {
+            "name": "Piano Sonata No. 25 in G Major, Op. 79:I. Presto alla tedesca",
+            "artist": "Stephen Kovacevich",
+            "id": 22536076
+        },
+        {
+            "name": "Piano Sonata No. 25 in G Major, Op. 79:II. Andante",
+            "artist": "Stephen Kovacevich",
+            "id": 22536077
+        },
+        {
+            "name": "Piano Sonata No. 25 in G Major, Op. 79:III. Vivace",
+            "artist": "Stephen Kovacevich",
+            "id": 22536078
+        },
+        {
+            "name": "Piano Sonata No. 26 in E-Flat Major, Op. 81a \"Les Adieux\":I. Das Lebewohl. Adagio - Allegro",
+            "artist": "Stephen Kovacevich",
+            "id": 22468632
+        },
+        {
+            "name": "Piano Sonata No. 26 in E-Flat Major, Op. 81a \"Les Adieux\":II. Abwesenheit. Andante espressivo",
+            "artist": "Stephen Kovacevich",
+            "id": 22468633
+        },
+        {
+            "name": "Piano Sonata No. 26 in E-Flat Major, Op. 81a \"Les Adieux\":III. Das Wiedersehen. Vivacissimamente",
+            "artist": "Stephen Kovacevich",
+            "id": 22468634
+        },
+        {
+            "name": "Piano Sonata No. 27 in E Minor, Op. 90:I. Mit Lebhaftigkeit und durchaus mit Empfindung und Ausdruck",
+            "artist": "Stephen Kovacevich",
+            "id": 22484277
+        },
+        {
+            "name": "Piano Sonata No. 27 in E Minor, Op. 90:II. Nicht zu geschwind und sehr singbar vorzutragen",
+            "artist": "Stephen Kovacevich",
+            "id": 22484278
+        },
+        {
+            "name": "Piano Sonata No. 28 in A Major, Op. 101:I. Allegretto, ma non troppo",
+            "artist": "Stephen Kovacevich",
+            "id": 22484279
+        },
+        {
+            "name": "Piano Sonata No. 28 in A Major, Op. 101:II. Vivace alla Marcia",
+            "artist": "Stephen Kovacevich",
+            "id": 22484280
+        },
+        {
+            "name": "Piano Sonata No. 28 in A Major, Op. 101:III. Adagio, ma non troppo",
+            "artist": "Stephen Kovacevich",
+            "id": 22484281
+        },
+        {
+            "name": "Piano Sonata No. 28 in A Major, Op. 101:IV. Allegro",
+            "artist": "Stephen Kovacevich",
+            "id": 22484282
+        },
+        {
+            "name": "Piano Sonata No. 29 in B-Flat Major, Op. 106 \"Hammerklavier\":I. Allegro",
+            "artist": "Stephen Kovacevich",
+            "id": 22468635
+        },
+        {
+            "name": "Piano Sonata No. 29 in B-Flat Major, Op. 106 \"Hammerklavier\":II. Scherzo. Assai vivace",
+            "artist": "Stephen Kovacevich",
+            "id": 22468636
+        },
+        {
+            "name": "Piano Sonata No. 29 in B-Flat Major, Op. 106 \"Hammerklavier\":III. Adagio sostenuto. Appassionato e con molto sentimento",
+            "artist": "Stephen Kovacevich",
+            "id": 22468637
+        },
+        {
+            "name": "Piano Sonata No. 29 in B-Flat Major, Op. 106 \"Hammerklavier\":IV. Introduzione. Largo - Fuga. Allegro risoluto",
+            "artist": "Stephen Kovacevich",
+            "id": 22468638
+        },
+        {
+            "name": "No. 30 in E Major, Opus 109: Vivace ma non troppo; Adaggio espressivo",
+            "artist": "Richard Goode",
+            "id": 21503899
+        },
+        {
+            "name": "No. 30 in E Major, Opus 109: Prestissimo",
+            "artist": "Richard Goode",
+            "id": 21503900
+        },
+        {
+            "name": "No. 30 in E Major, Opus 109: Tema: Molto cantabile es espressivo; Variazioni I-VI",
+            "artist": "Richard Goode",
+            "id": 21503901
+        },
+        {
+            "name": "Piano Sonata No. 32 in C Minor, Op. 111:I. Maestoso - Allegro con brio ed appassionato",
+            "artist": "Stephen Kovacevich",
+            "id": 22468627
+        },
+        {
+            "name": "Piano Sonata No. 32 in C Minor, Op. 111:II. Arietta. Adagio molto semplice e cantabile",
+            "artist": "Stephen Kovacevich",
+            "id": 22468628
+        },
+        {
+            "name": "Piano Sonata No.13 In E Flat, Op.27 No.1 - 1. Andante - Allegro - Tempo I",
+            "artist": "Emil Gilels",
+            "id": 29334578
+        },
+        {
+            "name": "Piano Sonata No.13 In E Flat, Op.27 No.1 - 2. Allegro molto e vivace",
+            "artist": "Emil Gilels",
+            "id": 29334579
+        },
+        {
+            "name": "Piano Sonata No.13 In E Flat, Op.27 No.1 - 3. Adagio con espressione",
+            "artist": "Emil Gilels",
+            "id": 29334580
+        },
+        {
+            "name": "Piano Sonata No.13 In E Flat, Op.27 No.1 - 4. Allegro vivace - Tempo I - Presto",
+            "artist": "Emil Gilels",
+            "id": 29334581
+        },
+        {
+            "name": "Piano Sonata #14 in C-sharp minor 'Quasi una fantasia' Op. 27-2, I. Adagio sostenuto",
+            "artist": "Alexei Lubimov",
+            "id": 27855693
+        },
+        {
+            "name": "Piano Sonata #14 in C-sharp minor 'Quasi una fantasia' Op. 27-2, II. Allegretto",
+            "artist": "Alexei Lubimov",
+            "id": 27855694
+        },
+        {
+            "name": "Piano Sonata #14 in C-sharp minor 'Quasi una fantasia' Op. 27-2, III. Presto agitato",
+            "artist": "Alexei Lubimov",
+            "id": 27855695
+        },
+        {
+            "name": "Piano Sonata No.15 in D, Op.28 -\"Pastorale\":1. Allegro",
+            "artist": "Alfred Brendel",
+            "id": 1068172
+        },
+        {
+            "name": "Piano Sonata No.15 in D, Op.28 -\"Pastorale\":2. Andante",
+            "artist": "Alfred Brendel",
+            "id": 1068174
+        },
+        {
+            "name": "Piano Sonata No.15 in D, Op.28 -\"Pastorale\":3. Scherzo (Allegro assai)",
+            "artist": "Alfred Brendel",
+            "id": 1068176
+        },
+        {
+            "name": "Piano Sonata No.15 in D, Op.28 -\"Pastorale\":4. Rondo (Allegro ma non troppo)",
+            "artist": "Alfred Brendel",
+            "id": 1068178
+        },
+        {
+            "name": "Piano Sonata No.17 in D minor, Op.31 No.2 -\"Tempest\":1. Largo - Allegro",
+            "artist": "Alfred Brendel",
+            "id": 1068183
+        },
+        {
+            "name": "Piano Sonata No.17 in D minor, Op.31 No.2 -\"Tempest\":2. Adagio",
+            "artist": "Alfred Brendel",
+            "id": 1068185
+        },
+        {
+            "name": "Piano Sonata No.17 in D minor, Op.31 No.2 -\"Tempest\":3. Allegretto",
+            "artist": "Alfred Brendel",
+            "id": 1068187
+        },
+        {
+            "name": "Piano Sonata #17 in D minor Op. 31-2, I. Largo - Allegro",
+            "artist": "Alexei Lubimov",
+            "id": 27855699
+        },
+        {
+            "name": "Piano Sonata #17 in D minor Op. 31-2, II. Adagio",
+            "artist": "Alexei Lubimov",
+            "id": 27855700
+        },
+        {
+            "name": "Piano Sonata #17 in D minor Op. 31-2, III. Allegretto",
+            "artist": "Alexei Lubimov",
+            "id": 27855701
+        },
+        {
+            "name": "Piano Sonata No.21 in C, Op.53 -\"Waldstein\":1. Allegro con brio",
+            "artist": "Alfred Brendel",
+            "id": 1068189
+        },
+        {
+            "name": "Piano Sonata No.21 in C, Op.53 -\"Waldstein\":2. Introduzione (Adagio molto)",
+            "artist": "Alfred Brendel",
+            "id": 1068191
+        },
+        {
+            "name": "Piano Sonata No.21 in C, Op.53 -\"Waldstein\":3. Rondo (Allegretto moderato - Prestissimo)",
+            "artist": "Alfred Brendel",
+            "id": 1068193
+        },
+        {
+            "name": "Piano Sonata #21 in C major Op. 53, I. Allegro con brio",
+            "artist": "Alexei Lubimov",
+            "id": 27855696
+        },
+        {
+            "name": "Piano Sonata #21 in C major Op. 53, II. Introduzione- Adagio molto - attacca (in F major)",
+            "artist": "Alexei Lubimov",
+            "id": 27855697
+        },
+        {
+            "name": "Piano Sonata #21 in C major Op. 53, III. Rondo. Allegretto moderato - Prestissimo",
+            "artist": "Alexei Lubimov",
+            "id": 27855698
+        },
+        {
+            "name": "Piano Sonata No. 21 in C major, Op. 53, &quot;Waldstein&quot;:I. Allegro con brio",
+            "artist": "Emil Gilels",
+            "id": 30070930
+        },
+        {
+            "name": "Piano Sonata No. 21 in C major, Op. 53, &quot;Waldstein&quot;:II. Introduzione",
+            "artist": "Emil Gilels",
+            "id": 30070927
+        },
+        {
+            "name": "Piano Sonata No. 21 in C major, Op. 53, &quot;Waldstein&quot;:III. Rondo",
+            "artist": "Emil Gilels",
+            "id": 30070929
+        },
+        {
+            "name": "Piano Sonata No.21 In C, Op.53 -\"Waldstein\":1. Allegro con brio",
+            "artist": "Maurizio Pollini",
+            "id": 402059452
+        },
+        {
+            "name": "Piano Sonata No.21 In C, Op.53 -\"Waldstein\":2. Introduzione (Adagio molto)",
+            "artist": "Maurizio Pollini",
+            "id": 402059453
+        },
+        {
+            "name": "Piano Sonata No.21 In C, Op.53 -\"Waldstein\":3. Rondo (Allegretto moderato - Prestissimo)",
+            "artist": "Maurizio Pollini",
+            "id": 402059454
+        },
+        {
+            "name": "Piano Sonata No.21 In C, Op.53 -\"Waldstein\":1. Allegro con brio",
+            "artist": "Wilhelm Kempff",
+            "id": 25729691
+        },
+        {
+            "name": "Piano Sonata No.21 In C, Op.53 -\"Waldstein\":2. Introduzione (Adagio molto)",
+            "artist": "Wilhelm Kempff",
+            "id": 25729686
+        },
+        {
+            "name": "Piano Sonata No.21 In C, Op.53 -\"Waldstein\":3. Rondo (Allegretto moderato - Prestissimo)",
+            "artist": "Wilhelm Kempff",
+            "id": 25729688
+        },
+        {
+            "name": "Piano Sonata No.26 in E flat, Op.81a -\"Les adieux\":1. Das Lebewohl (Adagio - Allegro)",
+            "artist": "Alfred Brendel",
+            "id": 1068180
+        },
+        {
+            "name": "Piano Sonata No.26 in E flat, Op.81a -\"Les adieux\":2. Abwesendheit (Andante espressivo)",
+            "artist": "Alfred Brendel",
+            "id": 1068181
+        },
+        {
+            "name": "Piano Sonata No.26 in E flat, Op.81a -\"Les adieux\":3. Das Wiedersehn (Vivacissimamente)",
+            "artist": "Alfred Brendel",
+            "id": 1068182
+        },
+        {
+            "name": "Sonata No. 26 in E-Flat, Op. 81a \"Les Adieux\": I. Adagio - Allegro",
+            "artist": "Arthur Rubinstein",
+            "id": 25842630
+        },
+        {
+            "name": "Sonata No. 26 in E-Flat, Op. 81a \"Les Adieux\": II. Andante espressivo",
+            "artist": "Arthur Rubinstein",
+            "id": 25842627
+        },
+        {
+            "name": "Sonata No. 26 in E-Flat, Op. 81a \"Les Adieux\": III. Vivacissimamente",
+            "artist": "Arthur Rubinstein",
+            "id": 25842620
+        },
+        {
+            "name": "Piano Sonata No.26 In E Flat, Op.81a -\"Les adieux\":1. Das Lebewohl (Adagio - Allegro)",
+            "artist": "Maurizio Pollini",
+            "id": 402059455
+        },
+        {
+            "name": "Piano Sonata No.26 In E Flat, Op.81a -\"Les adieux\":2. Abwesenheit (Andante espressivo)",
+            "artist": "Maurizio Pollini",
+            "id": 402059456
+        },
+        {
+            "name": "Piano Sonata No.26 In E Flat, Op.81a -\"Les adieux\":3. Das Wiedersehen (Vivacissimamente)",
+            "artist": "Maurizio Pollini",
+            "id": 402059457
+        },
+        {
+            "name": "Piano Sonata No. 29 in B-Flat Major, Op. 106 \"Hammerklavier\": I. Allegro",
+            "artist": "Igor Levit",
+            "id": 28122944
+        },
+        {
+            "name": "Piano Sonata No. 29 in B-Flat Major, Op. 106 \"Hammerklavier\": II. Scherzo. Assai vivace",
+            "artist": "Igor Levit",
+            "id": 28122946
+        },
+        {
+            "name": "Piano Sonata No. 29 in B-Flat Major, Op. 106 \"Hammerklavier\": III. Adagio sostenuto. Appassionato e con molto sentimento",
+            "artist": "Igor Levit",
+            "id": 28122948
+        },
+        {
+            "name": "Piano Sonata No. 29 in B-Flat Major, Op. 106 \"Hammerklavier\": IV. Largo - Allegro risoluto",
+            "artist": "Igor Levit",
+            "id": 28122950
+        },
+        {
+            "name": "Piano Sonata No.30 in E, Op.109:1. Vivace, ma non troppo - Adagio espressivo - Tempo I",
+            "artist": "内田光子",
+            "id": 401629713
+        },
+        {
+            "name": "Piano Sonata No.30 in E, Op.109:2. Prestissimo",
+            "artist": "内田光子",
+            "id": 401629714
+        },
+        {
+            "name": "Piano Sonata No.30 in E, Op.109:3. Gesangvoll, mit innigster Empfindung (Andante molto cantabile ed espressivo)",
+            "artist": "内田光子",
+            "id": 401629715
+        },
+        {
+            "name": "Piano Sonata No.31 in A flat, Op.110:1. Moderato cantabile molto espressivo",
+            "artist": "内田光子",
+            "id": 401629716
+        },
+        {
+            "name": "Piano Sonata No.31 in A flat, Op.110:2. Allegro molto",
+            "artist": "内田光子",
+            "id": 401629717
+        },
+        {
+            "name": "Piano Sonata No.31 in A flat, Op.110:3. Adagio ma non troppo",
+            "artist": "内田光子",
+            "id": 401629718
+        },
+        {
+            "name": "Piano Sonata No.31 in A flat, Op.110:4. Fuga (Allegro ma non troppo)",
+            "artist": "内田光子",
+            "id": 401629719
+        },
+        {
+            "name": "Piano Sonata No.32 in C minor, Op.111:1. Maestoso - Allegro con brio ed appassionato",
+            "artist": "内田光子",
+            "id": 401629720
+        },
+        {
+            "name": "Piano Sonata No.32 in C minor, Op.111:2. Arietta (Adagio molto semplice e cantabile)",
+            "artist": "内田光子",
+            "id": 401629721
+        },
+        {
+            "name": "32 Variations In C Minor, WoO80",
+            "artist": "Georges Cziffra",
+            "id": 485321956
+        },
+        {
+            "name": "32 Variations in C Minor, WoO 80",
+            "artist": "Vladimir Horowitz",
+            "id": 411490740
+        },
+        {
+            "name": "32 Variations in C minor, WoO 80",
+            "artist": "Emil Gilels",
+            "id": 30070934
+        },
+        {
+            "name": "32 Variations in C Minor, WoO 80",
+            "artist": "Claudio Arrau",
+            "id": 1310124721
+        },
+        {
+            "name": "Thirty Two Variations on an Original Theme, WoO 80",
+            "artist": "Murray Perahia",
+            "id": 435403622
+        },
+        {
+            "name": "Piano Concerto No.1 in C major Op.15:1. Allegro con brio",
+            "artist": "内田光子",
+            "id": 667050
+        },
+        {
+            "name": "32 Piano Variations In C Minor On An Original Theme, WoO 80",
+            "artist": "Radu Lupu",
+            "id": 401660847
+        },
+        {
+            "name": "32 Piano Variations In C Minor On An Original Theme, WoO 80",
+            "artist": "Daniel Barenboim",
+            "id": 439076465
+        },
+        {
+            "name": "32 Variations in C minor for Piano on an original theme, WoO 80:Tema. Allegretto; Var. I; Var. II",
+            "artist": "Glenn Gould",
+            "id": 1376831
+        },
+        {
+            "name": "Beethoven: 32 Piano Variations in C minor on an original theme, WoO 80 - Thema. Allegretto - Variations I - XXXII",
+            "artist": "Wilhelm Kempff",
+            "id": 399368247
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Tema (Vivace) - Variation I (Alla marcia maestoso)",
+            "artist": "Alfred Brendel",
+            "id": 16254213
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Variation II (Poco allegro)",
+            "artist": "Alfred Brendel",
+            "id": 16254214
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Variation III (L'istesso tempo)",
+            "artist": "Alfred Brendel",
+            "id": 16254215
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Variation IV (Un poco più vivace)",
+            "artist": "Alfred Brendel",
+            "id": 16254216
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Variation V (Allegro vivace)",
+            "artist": "Alfred Brendel",
+            "id": 16254217
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Variation VI (Allegro ma non troppo e serioso)",
+            "artist": "Alfred Brendel",
+            "id": 16254218
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Variation VII (Un poco più allegro)",
+            "artist": "Alfred Brendel",
+            "id": 16254219
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Variation VIII (Poco vivace)",
+            "artist": "Alfred Brendel",
+            "id": 16254220
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Variation IX (Allegro pesante e risoluto)",
+            "artist": "Alfred Brendel",
+            "id": 16254221
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Variation X (Presto)",
+            "artist": "Alfred Brendel",
+            "id": 16254222
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Variation XI (Allegretto)",
+            "artist": "Alfred Brendel",
+            "id": 16254223
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Variation XII (Un poco più moto)",
+            "artist": "Alfred Brendel",
+            "id": 16254224
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Variation XIII (Vivace)",
+            "artist": "Alfred Brendel",
+            "id": 16254225
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Variation XIV (Grave e maestoso)",
+            "artist": "Alfred Brendel",
+            "id": 16254226
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Variation XV (Presto scherzando)",
+            "artist": "Alfred Brendel",
+            "id": 16254227
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Variation XVI (Allegro)",
+            "artist": "Alfred Brendel",
+            "id": 16254228
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Variation XVII (Allegro)",
+            "artist": "Alfred Brendel",
+            "id": 16254229
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Variation XVIII (Poco moderato)",
+            "artist": "Alfred Brendel",
+            "id": 16254230
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Variation XIX (Presto)",
+            "artist": "Alfred Brendel",
+            "id": 16254231
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Variation XX (Andante)",
+            "artist": "Alfred Brendel",
+            "id": 16254232
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Variation XXI (Allegro con brio - Meno allegro - Tempo I)",
+            "artist": "Alfred Brendel",
+            "id": 16254233
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Variation XXII (Allegro molto): Alla \"Notte e giorno faticar\" di Mozart",
+            "artist": "Alfred Brendel",
+            "id": 16254234
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Variation XXIII (Allegro assai)",
+            "artist": "Alfred Brendel",
+            "id": 16254235
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Variation XXIV: Fughetta (Andante)",
+            "artist": "Alfred Brendel",
+            "id": 16254236
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Variation XXV (Allegro)",
+            "artist": "Alfred Brendel",
+            "id": 16254237
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Variation XXVI (Piacevole)",
+            "artist": "Alfred Brendel",
+            "id": 16254238
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Variation XXVII (Vivace)",
+            "artist": "Alfred Brendel",
+            "id": 16254239
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Variation XXVIII (Allegro)",
+            "artist": "Alfred Brendel",
+            "id": 16254240
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Variation XXIX (Adagio ma non troppo)",
+            "artist": "Alfred Brendel",
+            "id": 16254241
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Variation XXX (Andante, sempre cantabile)",
+            "artist": "Alfred Brendel",
+            "id": 16254242
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Variation XXXI (Largo, molto espressivo)",
+            "artist": "Alfred Brendel",
+            "id": 16254243
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Variation XXXII: Fuga (Allegro - Poco adagio)",
+            "artist": "Alfred Brendel",
+            "id": 16254244
+        },
+        {
+            "name": "33 Piano Variations in C, Op.120 on a Waltz by Anton Diabelli:Variation XXXIII (Tempo di minuetto moderato, ma non tirarsi dietro)",
+            "artist": "Alfred Brendel",
+            "id": 16254245
+        },
+        {
+            "name": "Piano Variations and Fugue in E flat, Op.35 -Eroica Variations:Variation 1",
+            "artist": "Alfred Brendel",
+            "id": 1068415
+        },
+        {
+            "name": "Piano Variations and Fugue in E flat, Op.35 -Eroica Variations:Variation 2",
+            "artist": "Alfred Brendel",
+            "id": 1068418
+        },
+        {
+            "name": "Piano Variations and Fugue in E flat, Op.35 -Eroica Variations:Variation 3",
+            "artist": "Alfred Brendel",
+            "id": 1068421
+        },
+        {
+            "name": "Piano Variations and Fugue in E flat, Op.35 -Eroica Variations:Variation 4",
+            "artist": "Alfred Brendel",
+            "id": 1068424
+        },
+        {
+            "name": "Piano Variations and Fugue in E flat, Op.35 -Eroica Variations:Variation 5",
+            "artist": "Alfred Brendel",
+            "id": 1068426
+        },
+        {
+            "name": "Piano Variations and Fugue in E flat, Op.35 -Eroica Variations:Variation 6&7",
+            "artist": "Alfred Brendel",
+            "id": 1068427
+        },
+        {
+            "name": "Piano Variations and Fugue in E flat, Op.35 -Eroica Variations:Variation 8",
+            "artist": "Alfred Brendel",
+            "id": 1068428
+        },
+        {
+            "name": "Piano Variations and Fugue in E flat, Op.35 -Eroica Variations:Variation 9",
+            "artist": "Alfred Brendel",
+            "id": 1068429
+        },
+        {
+            "name": "Piano Variations and Fugue in E flat, Op.35 -Eroica Variations:Variation 10",
+            "artist": "Alfred Brendel",
+            "id": 1068431
+        },
+        {
+            "name": "Piano Variations and Fugue in E flat, Op.35 -Eroica Variations:Variation 11",
+            "artist": "Alfred Brendel",
+            "id": 1068433
+        },
+        {
+            "name": "Piano Variations and Fugue in E flat, Op.35 -Eroica Variations:Variation 12",
+            "artist": "Alfred Brendel",
+            "id": 1068435
+        },
+        {
+            "name": "Piano Variations and Fugue in E flat, Op.35 -Eroica Variations:Variation 13",
+            "artist": "Alfred Brendel",
+            "id": 1068438
+        },
+        {
+            "name": "Piano Variations and Fugue in E flat, Op.35 -Eroica Variations:Variation 14&15",
+            "artist": "Alfred Brendel",
+            "id": 1068440
+        },
+        {
+            "name": "Piano Variations and Fugue in E flat, Op.35 -Eroica Variations:Introduction col basso del Tema",
+            "artist": "Alfred Brendel",
+            "id": 1068412
+        },
+        {
+            "name": "Piano Variations and Fugue in E flat, Op.35 -Eroica Variations:Finale. Alla Fuga. Allegro con brio",
+            "artist": "Alfred Brendel",
+            "id": 1068441
+        },
+        {
+            "name": "7 Bagatelles, Op.33:1. Andante grazioso, quasi Allegretto",
+            "artist": "Alfred Brendel",
+            "id": 1067924
+        },
+        {
+            "name": "7 Bagatelles, Op.33:2. Scherzo (Allegro)",
+            "artist": "Alfred Brendel",
+            "id": 1067926
+        },
+        {
+            "name": "7 Bagatelles, Op.33:3. Allegretto",
+            "artist": "Alfred Brendel",
+            "id": 1067928
+        },
+        {
+            "name": "7 Bagatelles, Op.33:4. Andante",
+            "artist": "Alfred Brendel",
+            "id": 1067930
+        },
+        {
+            "name": "7 Bagatelles, Op.33:5. Allegro, ma non troppo",
+            "artist": "Alfred Brendel",
+            "id": 1067932
+        },
+        {
+            "name": "7 Bagatelles, Op.33:6. Allegretto quasi Andante",
+            "artist": "Alfred Brendel",
+            "id": 1067934
+        },
+        {
+            "name": "7 Bagatelles, Op.33:7. Presto",
+            "artist": "Alfred Brendel",
+            "id": 1067936
+        },
+        {
+            "name": "11 Bagatelles, Op.119:1. Allegretto",
+            "artist": "Alfred Brendel",
+            "id": 1067943
+        },
+        {
+            "name": "11 Bagatelles, Op.119:2. Andante con moto",
+            "artist": "Alfred Brendel",
+            "id": 1067945
+        },
+        {
+            "name": "11 Bagatelles, Op.119:3. à l'Allemande",
+            "artist": "Alfred Brendel",
+            "id": 1067947
+        },
+        {
+            "name": "11 Bagatelles, Op.119:4. Andante cantabile",
+            "artist": "Alfred Brendel",
+            "id": 1067950
+        },
+        {
+            "name": "11 Bagatelles, Op.119:5. Risoluto",
+            "artist": "Alfred Brendel",
+            "id": 1067953
+        },
+        {
+            "name": "11 Bagatelles, Op.119:6. Andante - Allegretto leggiermente",
+            "artist": "Alfred Brendel",
+            "id": 1067956
+        },
+        {
+            "name": "11 Bagatelles, Op.119:7. Allegro ma non troppo",
+            "artist": "Alfred Brendel",
+            "id": 1067960
+        },
+        {
+            "name": "11 Bagatelles, Op.119:8. Moderato cantabile",
+            "artist": "Alfred Brendel",
+            "id": 1067964
+        },
+        {
+            "name": "11 Bagatelles, Op.119:9. Vivace moderato",
+            "artist": "Alfred Brendel",
+            "id": 1067968
+        },
+        {
+            "name": "11 Bagatelles, Op.119:10. Allegramente",
+            "artist": "Alfred Brendel",
+            "id": 1067972
+        },
+        {
+            "name": "11 Bagatelles, Op.119:11. Andante, ma non troppo",
+            "artist": "Alfred Brendel",
+            "id": 1067975
+        },
+        {
+            "name": "6 Bagatelles, Op.126:1. Andante con moto",
+            "artist": "Alfred Brendel",
+            "id": 1067978
+        },
+        {
+            "name": "6 Bagatelles, Op.126:2. Allegro",
+            "artist": "Alfred Brendel",
+            "id": 1067981
+        },
+        {
+            "name": "6 Bagatelles, Op.126:3. Andante",
+            "artist": "Alfred Brendel",
+            "id": 1067984
+        },
+        {
+            "name": "6 Bagatelles, Op.126:4. Presto",
+            "artist": "Alfred Brendel",
+            "id": 1067987
+        },
+        {
+            "name": "6 Bagatelles, Op.126:5. Quasi Allegretto",
+            "artist": "Alfred Brendel",
+            "id": 1067990
+        },
+        {
+            "name": "6 Bagatelles, Op.126:6. Presto - Andante amabile e con moto",
+            "artist": "Alfred Brendel",
+            "id": 1067993
+        },
+        {
+            "name": "6 Bagatelles, Op. 126 - #1 in G major",
+            "artist": "Steven Osborne",
+            "id": 25953556
+        },
+        {
+            "name": "6 Bagatelles, Op. 126 - #2 in G minor",
+            "artist": "Steven Osborne",
+            "id": 25953549
+        },
+        {
+            "name": "6 Bagatelles, Op. 126 - #3 in E flat major",
+            "artist": "Steven Osborne",
+            "id": 25953564
+        },
+        {
+            "name": "6 Bagatelles, Op. 126 - #4 in B minor",
+            "artist": "Steven Osborne",
+            "id": 25953557
+        },
+        {
+            "name": "6 Bagatelles, Op. 126 - #5 in G major",
+            "artist": "Steven Osborne",
+            "id": 25953547
+        },
+        {
+            "name": "6 Bagatelles, Op. 126 - #6 in E flat major",
+            "artist": "Steven Osborne",
+            "id": 25953544
+        },
+        {
+            "name": "7 Bagatelles, Op. 33 - #1 in E flat major",
+            "artist": "Steven Osborne",
+            "id": 25953553
+        },
+        {
+            "name": "7 Bagatelles, Op. 33 - #2 in C major",
+            "artist": "Steven Osborne",
+            "id": 25953571
+        },
+        {
+            "name": "7 Bagatelles, Op. 33 - #3 in F major",
+            "artist": "Steven Osborne",
+            "id": 25953543
+        },
+        {
+            "name": "7 Bagatelles, Op. 33 - #4 in A major",
+            "artist": "Steven Osborne",
+            "id": 25953555
+        },
+        {
+            "name": "7 Bagatelles, Op. 33 - #5 in C major",
+            "artist": "Steven Osborne",
+            "id": 25953560
+        },
+        {
+            "name": "7 Bagatelles, Op. 33 - #6 in D major",
+            "artist": "Steven Osborne",
+            "id": 25953565
+        },
+        {
+            "name": "7 Bagatelles, Op. 33 - #7 in A flat major",
+            "artist": "Steven Osborne",
+            "id": 25953562
+        },
+        {
+            "name": "11 Bagatelles, Op. 119 - #01 in G minor",
+            "artist": "Steven Osborne",
+            "id": 25953548
+        },
+        {
+            "name": "11 Bagatelles, Op. 119 - #02 in C major",
+            "artist": "Steven Osborne",
+            "id": 25953554
+        },
+        {
+            "name": "11 Bagatelles, Op. 119 - #03 in D major",
+            "artist": "Steven Osborne",
+            "id": 25953542
+        },
+        {
+            "name": "11 Bagatelles, Op. 119 - #04 in A major",
+            "artist": "Steven Osborne",
+            "id": 25953546
+        },
+        {
+            "name": "11 Bagatelles, Op. 119 - #05 in C minor",
+            "artist": "Steven Osborne",
+            "id": 25953563
+        },
+        {
+            "name": "11 Bagatelles, Op. 119 - #06 in G major",
+            "artist": "Steven Osborne",
+            "id": 25953559
+        },
+        {
+            "name": "11 Bagatelles, Op. 119 - #07 in C major",
+            "artist": "Steven Osborne",
+            "id": 25953561
+        },
+        {
+            "name": "11 Bagatelles, Op. 119 - #08 in C major",
+            "artist": "Steven Osborne",
+            "id": 25953552
+        },
+        {
+            "name": "11 Bagatelles, Op. 119 - #09 in A minor",
+            "artist": "Steven Osborne",
+            "id": 25953570
+        },
+        {
+            "name": "11 Bagatelles, Op. 119 - #10 in A major",
+            "artist": "Steven Osborne",
+            "id": 25953550
+        },
+        {
+            "name": "11 Bagatelles, Op. 119 - #11 in B flat major",
+            "artist": "Steven Osborne",
+            "id": 25953558
+        },
+        {
+            "name": "Minuet in G",
+            "artist": "Ludwig van Beethoven",
+            "id": 5220538
+        },
+        {
+            "name": "Für Elise",
+            "artist": "Ludwig van Beethoven",
+            "id": 5189651
+        },
+        {
+            "name": "Beethoven - Fur Elise",
+            "artist": "Alfred Brendel",
+            "id": 5161646
+        },
+        {
+            "name": "Für Elise in A Minor, WoO 59",
+            "artist": "Herbert Blomstedt",
+            "id": 862799397
+        },
+        {
+            "name": "Piano Concerto No.1 in C major Op.15:2. Largo",
+            "artist": "内田光子",
+            "id": 666983
+        },
+        {
+            "name": "Piano Concerto No.1 in C major Op.15:3. Rondo (Allegro scherzando)",
+            "artist": "内田光子",
+            "id": 666989
+        },
+        {
+            "name": "Piano Concerto No.2 in B flat major Op.19:1. Allegro con brio",
+            "artist": "内田光子",
+            "id": 666992
+        },
+        {
+            "name": "Piano Concerto No.2 in B flat major Op.19:2. Adagio",
+            "artist": "内田光子",
+            "id": 666995
+        },
+        {
+            "name": "Piano Concerto No.2 in B flat major Op.19:3. Rondo (Molto allegro)",
+            "artist": "内田光子",
+            "id": 667004
+        },
+        {
+            "name": "Piano Concerto No.3 in C minor Op.37:1. Allegro con brio",
+            "artist": "内田光子",
+            "id": 667010
+        }
+    ]
+}

@@ -1,0 +1,987 @@
+{
+    "playlist_info": {
+        "name": "【单曲循环系列】那些听到流泪的伤感英文歌",
+        "trackcount": 195,
+        "playcount": 510874,
+        "creator": "无限爱无悔生",
+        "createDate": "2015-02-05",
+        "heat": 166.0
+    },
+    "songs": [
+        {
+            "name": "Volver A Amar",
+            "artist": "José José",
+            "id": 19978369
+        },
+        {
+            "name": "It's Not Good-Bye",
+            "artist": "Laura Pausini",
+            "id": 21035006
+        },
+        {
+            "name": "When You Told Me You Loved Me",
+            "artist": "Jessica Simpson",
+            "id": 18836674
+        },
+        {
+            "name": "Stay",
+            "artist": "Tonya Mitchell",
+            "id": 25880349
+        },
+        {
+            "name": "Колыбельная",
+            "artist": "Rauf & Faik",
+            "id": 1407268967
+        },
+        {
+            "name": "Volver a Amar",
+            "artist": "Cristian Castro",
+            "id": 27902224
+        },
+        {
+            "name": "Solo Due Parole",
+            "artist": "Biagio Antonacci",
+            "id": 1100844
+        },
+        {
+            "name": "Escondidos",
+            "artist": "Cristian Castro",
+            "id": 27902225
+        },
+        {
+            "name": "Dos Amantes",
+            "artist": "Cristian Castro",
+            "id": 1205674
+        },
+        {
+            "name": "그대라는 세상",
+            "artist": "尹美莱",
+            "id": 454698810
+        },
+        {
+            "name": "슬픔보다 더 슬픈이야기",
+            "artist": "金范秀",
+            "id": 5406542
+        },
+        {
+            "name": "A Thousand Years",
+            "artist": "Christina Perri",
+            "id": 28788849
+        },
+        {
+            "name": "Blue... The Color Of Dreams",
+            "artist": "Yakuro",
+            "id": 408532838
+        },
+        {
+            "name": "Constellation of Tatyana",
+            "artist": "Yakuro",
+            "id": 28914253
+        },
+        {
+            "name": "In assenza di te (New Version 2013)",
+            "artist": "Laura Pausini",
+            "id": 27985220
+        },
+        {
+            "name": "Incancellabile (New Version 2013)",
+            "artist": "Laura Pausini",
+            "id": 27985192
+        },
+        {
+            "name": "Where You Are (featuring Nick Lachey) (New Version)",
+            "artist": "Jessica Simpson",
+            "id": 18836725
+        },
+        {
+            "name": "UntilWeBleed (Remix)",
+            "artist": "GRIM",
+            "id": 436305165
+        },
+        {
+            "name": "La Incondicional",
+            "artist": "Luis Miguel",
+            "id": 1658141
+        },
+        {
+            "name": "Romantico",
+            "artist": "Giovanni Marradi",
+            "id": 27510268
+        },
+        {
+            "name": "When I Dream at Night (Album Version)",
+            "artist": "Marc Anthony",
+            "id": 21157591
+        },
+        {
+            "name": "To Fall In Love Again",
+            "artist": "Jessica Simpson",
+            "id": 18836719
+        },
+        {
+            "name": "Casablanca",
+            "artist": "Bertie Higgins",
+            "id": 564648449
+        },
+        {
+            "name": "Mystery of Love",
+            "artist": "Sufjan Stevens",
+            "id": 516358164
+        },
+        {
+            "name": "All of Me Wants All of You (Helado Negro Remix)",
+            "artist": "Sufjan Stevens",
+            "id": 520461060
+        },
+        {
+            "name": "Hello",
+            "artist": "Lionel Richie",
+            "id": 499384050
+        },
+        {
+            "name": "From Sarah With Love",
+            "artist": "Sarah Connor",
+            "id": 3405464
+        },
+        {
+            "name": "Knife",
+            "artist": "Rockwell",
+            "id": 3382279
+        },
+        {
+            "name": "Just One Last Dance",
+            "artist": "Sarah Connor",
+            "id": 21674656
+        },
+        {
+            "name": "雪千寻",
+            "artist": "胡伟立",
+            "id": 96113
+        },
+        {
+            "name": "Unbreak My Heart",
+            "artist": "Toni Braxton",
+            "id": 28952185
+        },
+        {
+            "name": "Saturn Boy",
+            "artist": "Dream Koala",
+            "id": 28687214
+        },
+        {
+            "name": "Soledad",
+            "artist": "Westlife",
+            "id": 29592186
+        },
+        {
+            "name": "Against All Odds (Live)",
+            "artist": "Phil Collins",
+            "id": 1820938
+        },
+        {
+            "name": "People Help The People",
+            "artist": "Birdy",
+            "id": 16780427
+        },
+        {
+            "name": "I'll Leave It up to You",
+            "artist": "Don Philip",
+            "id": 1286909
+        },
+        {
+            "name": "Whataya Want From Me",
+            "artist": "Adam Lambert",
+            "id": 26852295
+        },
+        {
+            "name": "Adagio",
+            "artist": "Lara Fabian",
+            "id": 2924423
+        },
+        {
+            "name": "Inside",
+            "artist": "Richard Marx",
+            "id": 28773020
+        },
+        {
+            "name": "Sealed With A Kiss",
+            "artist": "Jason Donovan",
+            "id": 18668448
+        },
+        {
+            "name": "Could This Be Love",
+            "artist": "Victoria Acosta",
+            "id": 3801865
+        },
+        {
+            "name": "The Story Never Ends (Piano Version)",
+            "artist": "Lauv",
+            "id": 437802479
+        },
+        {
+            "name": "La La Land (爱乐之城）Jazz随想",
+            "artist": "xyzn",
+            "id": 455542583
+        },
+        {
+            "name": "Undo",
+            "artist": "Sanna Nielsen",
+            "id": 28378127
+        },
+        {
+            "name": "Cry Aloud",
+            "artist": "Aaron J Robinson",
+            "id": 1070576
+        },
+        {
+            "name": "A Thousand Years",
+            "artist": "Christina Perri",
+            "id": 2411634
+        },
+        {
+            "name": "Y, ¿Si Fuera Ella? (En Directo En El Estadio Vicente Calderón / 2017)",
+            "artist": "Pablo Alborán",
+            "id": 479408290
+        },
+        {
+            "name": "Say Something",
+            "artist": "A Great Big World",
+            "id": 28208046
+        },
+        {
+            "name": "Everytime",
+            "artist": "Britney Spears",
+            "id": 33584994
+        },
+        {
+            "name": "Let My Cry",
+            "artist": "Aaron J Robinson",
+            "id": 1070560
+        },
+        {
+            "name": "In Greece/The Wedding",
+            "artist": "Richard Robbins",
+            "id": 3326386
+        },
+        {
+            "name": "Grande amore",
+            "artist": "IL Volo",
+            "id": 30706416
+        },
+        {
+            "name": "The Color of the Night",
+            "artist": "Lauren Christy",
+            "id": 28952226
+        },
+        {
+            "name": "Time",
+            "artist": "Hans Zimmer",
+            "id": 1426503
+        },
+        {
+            "name": "Inconsolable",
+            "artist": "Maria Arredondo",
+            "id": 17004224
+        },
+        {
+            "name": "Hello",
+            "artist": "Adele",
+            "id": 35847388
+        },
+        {
+            "name": "Callow",
+            "artist": "Novo Amor",
+            "id": 30148001
+        },
+        {
+            "name": "Lucifer",
+            "artist": "XOV",
+            "id": 35437610
+        },
+        {
+            "name": "I Gave It All",
+            "artist": "Aquilo",
+            "id": 29722689
+        },
+        {
+            "name": "Run",
+            "artist": "Collective Soul",
+            "id": 17073458
+        },
+        {
+            "name": "Waiting for You",
+            "artist": "Gotye",
+            "id": 1422197
+        },
+        {
+            "name": "True Love",
+            "artist": "Coldplay",
+            "id": 28535293
+        },
+        {
+            "name": "Closer",
+            "artist": "Travis",
+            "id": 4330176
+        },
+        {
+            "name": "Outlaws of Love",
+            "artist": "Adam Lambert",
+            "id": 16343629
+        },
+        {
+            "name": "Silent Storm (Norway)",
+            "artist": "Carl Espen",
+            "id": 28417143
+        },
+        {
+            "name": "Porcelain",
+            "artist": "Moby",
+            "id": 22356968
+        },
+        {
+            "name": "Mother (Belgium)",
+            "artist": "Axel Hirsoux",
+            "id": 28417132
+        },
+        {
+            "name": "To Build A Home",
+            "artist": "The Cinematic Orchestra",
+            "id": 19529215
+        },
+        {
+            "name": "Spring",
+            "artist": "Ilya",
+            "id": 4120041
+        },
+        {
+            "name": "Erase You",
+            "artist": "Matt Cab",
+            "id": 1774258
+        },
+        {
+            "name": "Insatiable (Live)",
+            "artist": "Darren Hayes",
+            "id": 17282440
+        },
+        {
+            "name": "Muted Cries",
+            "artist": "Martin Hall",
+            "id": 27546364
+        },
+        {
+            "name": "Forgetting the Details",
+            "artist": "Martin Hall",
+            "id": 27546369
+        },
+        {
+            "name": "The First Time Ever I Saw Your Face (Live)",
+            "artist": "George Michael",
+            "id": 28306560
+        },
+        {
+            "name": "Condition Of My Heart",
+            "artist": "Justin Guarini",
+            "id": 18502311
+        },
+        {
+            "name": "Si Mes Larmes Tombent (Jerome Okresik Remix)",
+            "artist": "Christophe Willem",
+            "id": 20566011
+        },
+        {
+            "name": "our love will always last(最后之舞)",
+            "artist": "Various Artists",
+            "id": 27901385
+        },
+        {
+            "name": "Tender Love",
+            "artist": "Jordan Knight",
+            "id": 1520276
+        },
+        {
+            "name": "Anaesthesia",
+            "artist": "Maximilian Hecker",
+            "id": 1695649
+        },
+        {
+            "name": "Unchained Melody",
+            "artist": "Justin Guarini",
+            "id": 18502304
+        },
+        {
+            "name": "Beautiful In White (Demo)",
+            "artist": "Shane Filan",
+            "id": 2080139
+        },
+        {
+            "name": "You Are Not Alone",
+            "artist": "Michael Jackson",
+            "id": 1697653
+        },
+        {
+            "name": "Mad World (American Idol Studio Version)",
+            "artist": "Adam Lambert",
+            "id": 988191
+        },
+        {
+            "name": "Better Man",
+            "artist": "Thomas Barsoe",
+            "id": 2052047
+        },
+        {
+            "name": "Broken",
+            "artist": "Thomas Barsoe",
+            "id": 2051994
+        },
+        {
+            "name": "Yo Te Amo (Album Version)",
+            "artist": "Chayanne",
+            "id": 1160412
+        },
+        {
+            "name": "Tutkun",
+            "artist": "Fatih Erkoc",
+            "id": 26453961
+        },
+        {
+            "name": "Cuidarte el Alma",
+            "artist": "Chayanne",
+            "id": 1160389
+        },
+        {
+            "name": "Samsara",
+            "artist": "Thomas Otten",
+            "id": 2024656
+        },
+        {
+            "name": "My Commitment",
+            "artist": "Gary Barlow",
+            "id": 17967898
+        },
+        {
+            "name": "Underdown Aperture",
+            "artist": "Thomas Otten",
+            "id": 5221302
+        },
+        {
+            "name": "Love Will Follow",
+            "artist": "Kenny Loggins",
+            "id": 26398422
+        },
+        {
+            "name": "Walking In The Air (Album Version)",
+            "artist": "Kenny Loggins",
+            "id": 18929350
+        },
+        {
+            "name": "Melt The Snow",
+            "artist": "Shayne Ward",
+            "id": 19081575
+        },
+        {
+            "name": "Temptation",
+            "artist": "Moby",
+            "id": 22295507
+        },
+        {
+            "name": "Sorry Seems To Be The Hardest Word",
+            "artist": "Kenny G",
+            "id": 18940388
+        },
+        {
+            "name": "Longer",
+            "artist": "Babyface",
+            "id": 1077412
+        },
+        {
+            "name": "How Am I Supposed to Live Without You",
+            "artist": "Michael Bolton",
+            "id": 1701081
+        },
+        {
+            "name": "ui underscore1",
+            "artist": "Valve Studio Orchestra",
+            "id": 31877306
+        },
+        {
+            "name": "ui underscore2",
+            "artist": "Valve Studio Orchestra",
+            "id": 31877308
+        },
+        {
+            "name": "I Know You",
+            "artist": "Skylar Grey",
+            "id": 30474370
+        },
+        {
+            "name": "Angel",
+            "artist": "Sarah McLachlan",
+            "id": 19168459
+        },
+        {
+            "name": "Wish You Well",
+            "artist": "Katie Herzig",
+            "id": 2872414
+        },
+        {
+            "name": "Because You Loved Me",
+            "artist": "Céline Dion",
+            "id": 2309992
+        },
+        {
+            "name": "Breathless (TV Version)",
+            "artist": "Shayne Ward",
+            "id": 19081582
+        },
+        {
+            "name": "Love To Be Loved By You (The Wedding Song)",
+            "artist": "Marc Terenzi",
+            "id": 21116721
+        },
+        {
+            "name": "I Will Always Love You",
+            "artist": "Whitney Houston",
+            "id": 3819561
+        },
+        {
+            "name": "Wish You Were Here",
+            "artist": "Delta Goodrem",
+            "id": 25706208
+        },
+        {
+            "name": "Suddenly",
+            "artist": "Richard Marx",
+            "id": 3313483
+        },
+        {
+            "name": "Someone Like You",
+            "artist": "Adele",
+            "id": 16435049
+        },
+        {
+            "name": "When You Believe",
+            "artist": "Whitney Houston",
+            "id": 3027425
+        },
+        {
+            "name": "Seasons in the Sun",
+            "artist": "Westlife",
+            "id": 20707571
+        },
+        {
+            "name": "Leave Your Lover",
+            "artist": "Sam Smith",
+            "id": 28577188
+        },
+        {
+            "name": "I Don't Know How It Feels To Be U",
+            "artist": "Robin Thicke",
+            "id": 18538020
+        },
+        {
+            "name": "Just Give Me a Reason",
+            "artist": "P!nk",
+            "id": 21373645
+        },
+        {
+            "name": "Hero",
+            "artist": "Enrique Iglesias",
+            "id": 17579515
+        },
+        {
+            "name": "Back To You",
+            "artist": "Brett Anderson",
+            "id": 16581706
+        },
+        {
+            "name": "Summertime Sadness",
+            "artist": "Lana Del Rey",
+            "id": 3025202
+        },
+        {
+            "name": "Bleeding Love",
+            "artist": "Leona Lewis",
+            "id": 2923416
+        },
+        {
+            "name": "I Believe I Can Fly",
+            "artist": "R. Kelly",
+            "id": 21534286
+        },
+        {
+            "name": "Better in Time",
+            "artist": "Leona Lewis",
+            "id": 5142101
+        },
+        {
+            "name": "How Deep Is Your Love",
+            "artist": "Bee Gees",
+            "id": 3953026
+        },
+        {
+            "name": "Forever",
+            "artist": "Stratovarius",
+            "id": 1935810
+        },
+        {
+            "name": "Hurt",
+            "artist": "Christina Aguilera",
+            "id": 17059131
+        },
+        {
+            "name": "Should It Matter",
+            "artist": "Sissel",
+            "id": 3405267
+        },
+        {
+            "name": "The Touch",
+            "artist": "Maria Arredondo",
+            "id": 3026413
+        },
+        {
+            "name": "Close Your Eyes",
+            "artist": "Michael Bublé",
+            "id": 26608459
+        },
+        {
+            "name": "Goodbye",
+            "artist": "Air Supply",
+            "id": 16493344
+        },
+        {
+            "name": "Vincent",
+            "artist": "Don McLean",
+            "id": 1215678
+        },
+        {
+            "name": "I Surrender",
+            "artist": "Céline Dion",
+            "id": 2309191
+        },
+        {
+            "name": "Live Tomorrow",
+            "artist": "Laleh",
+            "id": 21029472
+        },
+        {
+            "name": "Home",
+            "artist": "Michael Bublé",
+            "id": 22064607
+        },
+        {
+            "name": "We Are Here",
+            "artist": "Alicia Keys",
+            "id": 29378046
+        },
+        {
+            "name": "Skipalong (Album Version)",
+            "artist": "Lenka",
+            "id": 16607966
+        },
+        {
+            "name": "Every Moment Of My Life",
+            "artist": "Sarah Connor",
+            "id": 21674667
+        },
+        {
+            "name": "With Him",
+            "artist": "Babyface",
+            "id": 1077483
+        },
+        {
+            "name": "Right Here Waiting",
+            "artist": "Richard Marx",
+            "id": 3313653
+        },
+        {
+            "name": "That's Why (You Go Away)",
+            "artist": "Michael Learns To Rock",
+            "id": 22463088
+        },
+        {
+            "name": "Get Away",
+            "artist": "Jessie J",
+            "id": 29482713
+        },
+        {
+            "name": "With You",
+            "artist": "Various Artists",
+            "id": 29600522
+        },
+        {
+            "name": "On a Slow Boat to China",
+            "artist": "Luke Thompson",
+            "id": 27591140
+        },
+        {
+            "name": "Everytime",
+            "artist": "Britney Spears",
+            "id": 5145734
+        },
+        {
+            "name": "Thank You",
+            "artist": "Dido",
+            "id": 17346999
+        },
+        {
+            "name": "Dream On",
+            "artist": "Brooke White",
+            "id": 2195218
+        },
+        {
+            "name": "Smile",
+            "artist": "Brooke White",
+            "id": 2195171
+        },
+        {
+            "name": "Take Me To Church",
+            "artist": "Hozier",
+            "id": 28160720
+        },
+        {
+            "name": "Beautiful",
+            "artist": "Christina Aguilera",
+            "id": 17059318
+        },
+        {
+            "name": "When You Say Nothing At All",
+            "artist": "Alison Krauss",
+            "id": 16439857
+        },
+        {
+            "name": "Here I Am",
+            "artist": "Bryan Adams",
+            "id": 16646207
+        },
+        {
+            "name": "I Still Believe",
+            "artist": "Mariah Carey",
+            "id": 3027414
+        },
+        {
+            "name": "I'm Not the Only One",
+            "artist": "Sam Smith",
+            "id": 28586064
+        },
+        {
+            "name": "My Heart Will Go On (Love Theme from \"Titanic\")",
+            "artist": "Céline Dion",
+            "id": 2308499
+        },
+        {
+            "name": "Burning",
+            "artist": "Maria Arredondo",
+            "id": 3026472
+        },
+        {
+            "name": "Nothing Without You",
+            "artist": "史逸欣",
+            "id": 286755
+        },
+        {
+            "name": "I Believe I Can Fly",
+            "artist": "R. Kelly",
+            "id": 1872305
+        },
+        {
+            "name": "Because of You",
+            "artist": "Kelly Clarkson",
+            "id": 16232697
+        },
+        {
+            "name": "Nothing Hurts Like This",
+            "artist": "Slo",
+            "id": 32069280
+        },
+        {
+            "name": "I Am You",
+            "artist": "Kim Taylor",
+            "id": 2919622
+        },
+        {
+            "name": "Eversleeping",
+            "artist": "Xandria",
+            "id": 20740864
+        },
+        {
+            "name": "Light A Fire",
+            "artist": "Rachel Taylor",
+            "id": 29497924
+        },
+        {
+            "name": "Stuttering",
+            "artist": "Fefe Dobson",
+            "id": 17783969
+        },
+        {
+            "name": "I wanted you",
+            "artist": "Ina Wroldsen",
+            "id": 2772113
+        },
+        {
+            "name": "Broken Angel",
+            "artist": "Arash",
+            "id": 26677654
+        },
+        {
+            "name": "Colors",
+            "artist": "Amos Lee",
+            "id": 16341550
+        },
+        {
+            "name": "Best Part Of Me",
+            "artist": "St Leonards",
+            "id": 33715896
+        },
+        {
+            "name": "Sailing",
+            "artist": "Declan Galbraith",
+            "id": 1215437
+        },
+        {
+            "name": "Dreams",
+            "artist": "Carmen Cuesta",
+            "id": 2310292
+        },
+        {
+            "name": "Rave On Sad Songs",
+            "artist": "Jason Collett",
+            "id": 18551962
+        },
+        {
+            "name": "Seasons of Love",
+            "artist": "Various Artists",
+            "id": 5048635
+        },
+        {
+            "name": "Love Is You",
+            "artist": "Lawson",
+            "id": 34601738
+        },
+        {
+            "name": "Pendulum",
+            "artist": "Tatiana Owens",
+            "id": 27949670
+        },
+        {
+            "name": "Confession",
+            "artist": "Natalia Barbu",
+            "id": 28556263
+        },
+        {
+            "name": "Unfriend You",
+            "artist": "Greyson Chance",
+            "id": 17996960
+        },
+        {
+            "name": "How You Remind Me",
+            "artist": "Avril Lavigne",
+            "id": 27937702
+        },
+        {
+            "name": "When You're Gone",
+            "artist": "Avril Lavigne",
+            "id": 16432049
+        },
+        {
+            "name": "Slipping Away",
+            "artist": "Greyson Chance",
+            "id": 28528665
+        },
+        {
+            "name": "Me and My Broken Heart",
+            "artist": "Push Baby",
+            "id": 28308080
+        },
+        {
+            "name": "If Time Is All I Have",
+            "artist": "James Blunt",
+            "id": 18660120
+        },
+        {
+            "name": "Love of My Life",
+            "artist": "Declan Galbraith",
+            "id": 1215394
+        },
+        {
+            "name": "Stuck in My Heart",
+            "artist": "C21",
+            "id": 22407775
+        },
+        {
+            "name": "La solitudine",
+            "artist": "Laura Pausini",
+            "id": 2924363
+        },
+        {
+            "name": "You Are a Lover",
+            "artist": "The Unbending Trees",
+            "id": 19506418
+        },
+        {
+            "name": "Shape Of My Heart",
+            "artist": "Sting",
+            "id": 1934649
+        },
+        {
+            "name": "Song For Zula",
+            "artist": "Phosphorescent",
+            "id": 28023430
+        },
+        {
+            "name": "Sin Final Feliz",
+            "artist": "Osvaldo Montes",
+            "id": 29816269
+        },
+        {
+            "name": "Stay Here Forever",
+            "artist": "Jewel",
+            "id": 18836961
+        },
+        {
+            "name": "Love Used to Be",
+            "artist": "Jewel",
+            "id": 34601556
+        },
+        {
+            "name": "Imagine Me Without You",
+            "artist": "Jaci Velasquez",
+            "id": 2781188
+        },
+        {
+            "name": "Never Had A Dream Come True",
+            "artist": "S Club 7",
+            "id": 3409042
+        },
+        {
+            "name": "It's Not Goodbye (New Version 2013)",
+            "artist": "Laura Pausini",
+            "id": 27985196
+        },
+        {
+            "name": "Ring My Bells",
+            "artist": "Enrique Iglesias",
+            "id": 17579310
+        },
+        {
+            "name": "My Heart Will Go On (Love Theme from \"Titanic\")",
+            "artist": "Céline Dion",
+            "id": 1484889
+        },
+        {
+            "name": "We Are Love",
+            "artist": "IL Volo",
+            "id": 26425240
+        },
+        {
+            "name": "Un Amore Cosi Grande",
+            "artist": "IL Volo",
+            "id": 27053788
+        },
+        {
+            "name": "My Love (Radio Edit)",
+            "artist": "Westlife",
+            "id": 2081057
+        }
+    ]
+}

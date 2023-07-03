@@ -1,0 +1,417 @@
+{
+    "playlist_info": {
+        "name": "老版地下城与勇士所有bgm",
+        "trackcount": 81,
+        "playcount": 526130,
+        "creator": "单曲循环酱",
+        "createDate": "2016-04-17",
+        "heat": 199.0
+    },
+    "songs": [
+        {
+            "name": "Leshphon / 레쉬폰",
+            "artist": "Dungeon and Fighter",
+            "id": 401249050
+        },
+        {
+            "name": "登录界面音乐(大转移前) - character select stage",
+            "artist": "Dungeon and Fighter",
+            "id": 409646230
+        },
+        {
+            "name": "阿法利亚营地(ACT.8-大转移前) - alfhlyra new",
+            "artist": "Dungeon and Fighter",
+            "id": 37239611
+        },
+        {
+            "name": "洛兰(旧) - forest01 old",
+            "artist": "Dungeon and Fighter",
+            "id": 37239612
+        },
+        {
+            "name": "洛兰(新)领主：投掷哥布林 - forest02",
+            "artist": "Dungeon and Fighter",
+            "id": 37239613
+        },
+        {
+            "name": "洛兰(新) - forest01 new",
+            "artist": "Dungeon and Fighter",
+            "id": 37239614
+        },
+        {
+            "name": "山脊 - charnakridge",
+            "artist": "Dungeon and Fighter",
+            "id": 37239615
+        },
+        {
+            "name": "死亡之塔(下阶) - eviltower 01",
+            "artist": "Dungeon and Fighter",
+            "id": 37239616
+        },
+        {
+            "name": "无尽的祭坛(1图) - Bloodtower 01",
+            "artist": "Dungeon and Fighter",
+            "id": 37239617
+        },
+        {
+            "name": "无尽的祭坛(3图)领主：混沌之阿加雷斯 - Bloodtower 03",
+            "artist": "Dungeon and Fighter",
+            "id": 37239618
+        },
+        {
+            "name": "悬空城 - float castle",
+            "artist": "Dungeon and Fighter",
+            "id": 37239619
+        },
+        {
+            "name": "艾尔文防线 - forest town",
+            "artist": "Dungeon and Fighter",
+            "id": 37240590
+        },
+        {
+            "name": "冰心少年查理 - cold boy",
+            "artist": "Dungeon and Fighter",
+            "id": 37240591
+        },
+        {
+            "name": "黑暗玄廊领主：天之驱逐者 - darkness enter boss",
+            "artist": "Dungeon and Fighter",
+            "id": 37240592
+        },
+        {
+            "name": "龙人之塔 - draconian tower",
+            "artist": "Dungeon and Fighter",
+            "id": 37240593
+        },
+        {
+            "name": "赛丽亚的旅馆(ACT.1-ACT.4) - gate",
+            "artist": "Dungeon and Fighter",
+            "id": 37240594
+        },
+        {
+            "name": "神殿外围领主：GBL教大主教&大祭司 - behemoth b01_1",
+            "artist": "Dungeon and Fighter",
+            "id": 37240595
+        },
+        {
+            "name": "死亡之塔(上阶) - eviltower 02",
+            "artist": "Dungeon and Fighter",
+            "id": 37240596
+        },
+        {
+            "name": "无尽的祭坛(2图) - Bloodtower 02",
+            "artist": "Dungeon and Fighter",
+            "id": 37240597
+        },
+        {
+            "name": "暗精灵墓地领主：邪龙斯皮兹的头部 - darkelf boss",
+            "artist": "Dungeon and Fighter",
+            "id": 37240598
+        },
+        {
+            "name": "冰雪宫殿 - icepalace",
+            "artist": "Dungeon and Fighter",
+            "id": 37853511
+        },
+        {
+            "name": "补给线阻断战 - interception",
+            "artist": "Dungeon and Fighter",
+            "id": 37853512
+        },
+        {
+            "name": "格拉卡 - grakkarak new",
+            "artist": "Dungeon and Fighter",
+            "id": 37853513
+        },
+        {
+            "name": "根特北门 - gentgate north",
+            "artist": "Dungeon and Fighter",
+            "id": 37853514
+        },
+        {
+            "name": "根特防御战 - gentgate defence",
+            "artist": "Dungeon and Fighter",
+            "id": 37853515
+        },
+        {
+            "name": "赫顿玛尔(ACT.8-大转移前) - hendonmyre new",
+            "artist": "Dungeon and Fighter",
+            "id": 37853516
+        },
+        {
+            "name": "迷乱之村哈穆林 - hameln",
+            "artist": "Dungeon and Fighter",
+            "id": 37853517
+        },
+        {
+            "name": "迷妄之塔 - illusiontower",
+            "artist": "Dungeon and Fighter",
+            "id": 37853518
+        },
+        {
+            "name": "诺伊佩拉领主：狄瑞吉的幻影 - Npera boss",
+            "artist": "Dungeon and Fighter",
+            "id": 37853519
+        },
+        {
+            "name": "人偶玄关领主：人偶王道格里 - hall of doll boss",
+            "artist": "Dungeon and Fighter",
+            "id": 37853520
+        },
+        {
+            "name": "深渊派对 - hellmonster",
+            "artist": "Dungeon and Fighter",
+            "id": 37853521
+        },
+        {
+            "name": "石巨人塔领主：黄金巨人普拉塔尼 - golem tower boss",
+            "artist": "Dungeon and Fighter",
+            "id": 37853522
+        },
+        {
+            "name": "痛苦之村列瑟芬领主：黑色瘟疫狄瑞吉 - leshphon boss",
+            "artist": "Dungeon and Fighter",
+            "id": 37853523
+        },
+        {
+            "name": "幽灵列车 - ghost train",
+            "artist": "Dungeon and Fighter",
+            "id": 37853524
+        },
+        {
+            "name": "月光酒馆 - tavern",
+            "artist": "Dungeon and Fighter",
+            "id": 37853525
+        },
+        {
+            "name": "冰雪宫殿领主：冰雪女王洛丝 - icepalace boss",
+            "artist": "Dungeon and Fighter",
+            "id": 37856479
+        },
+        {
+            "name": "哥布林王国 - gblkingdom",
+            "artist": "Dungeon and Fighter",
+            "id": 37856480
+        },
+        {
+            "name": "格拉卡领主：牛头王萨乌塔 - grakkarak new boss",
+            "artist": "Dungeon and Fighter",
+            "id": 37856481
+        },
+        {
+            "name": "根特北门领主：机械臂捷克 - gentgate north boss",
+            "artist": "Dungeon and Fighter",
+            "id": 37856482
+        },
+        {
+            "name": "根特防御战领主：夜战司令官巴比伦 - gentgate defence boss",
+            "artist": "Dungeon and Fighter",
+            "id": 37856483
+        },
+        {
+            "name": "赫顿玛尔(ACT.1-ACT.7) - hendonmyre",
+            "artist": "Dungeon and Fighter",
+            "id": 37856484
+        },
+        {
+            "name": "开场漫画 - intro",
+            "artist": "Dungeon and Fighter",
+            "id": 37856485
+        },
+        {
+            "name": "迷乱之村哈穆林领主：魔笛使者皮特 -  hameln boss",
+            "artist": "Dungeon and Fighter",
+            "id": 37856486
+        },
+        {
+            "name": "谜之觉悟 - t_iris song",
+            "artist": "Dungeon and Fighter",
+            "id": 37856487
+        },
+        {
+            "name": "人偶玄关 - hall of doll",
+            "artist": "Dungeon and Fighter",
+            "id": 37856488
+        },
+        {
+            "name": "蠕动之城 - skycastle",
+            "artist": "Dungeon and Fighter",
+            "id": 37856489
+        },
+        {
+            "name": "石巨人塔 - golem tower",
+            "artist": "Dungeon and Fighter",
+            "id": 37856490
+        },
+        {
+            "name": "痛苦之村列瑟芬 - leshphon",
+            "artist": "Dungeon and Fighter",
+            "id": 37856491
+        },
+        {
+            "name": "根特南门领主：GT-9600 - gentgate boss",
+            "artist": "Dungeon and Fighter",
+            "id": 37856492
+        },
+        {
+            "name": "幽灵列车领主：巨灵布鲁 - ghost train boss",
+            "artist": "Dungeon and Fighter",
+            "id": 37856493
+        },
+        {
+            "name": "浅栖之地领主：怨恨之摩根 - shallow keep b01",
+            "artist": "Dungeon and Fighter",
+            "id": 37239794
+        },
+        {
+            "name": "老版PK场BGM - pvp01",
+            "artist": "Dungeon and Fighter",
+            "id": 38018891
+        },
+        {
+            "name": "PK场(追击歼灭战) - pvp counter",
+            "artist": "Dungeon and Fighter",
+            "id": 38018892
+        },
+        {
+            "name": "PK场(风云道场) - pvp practice",
+            "artist": "Dungeon and Fighter",
+            "id": 38018893
+        },
+        {
+            "name": "PK场(死亡之塔) - pvp tower",
+            "artist": "Dungeon and Fighter",
+            "id": 38018894
+        },
+        {
+            "name": "比尔马克帝国试验场领主：牛头械王 - vilmark boss",
+            "artist": "Dungeon and Fighter",
+            "id": 38018895
+        },
+        {
+            "name": "斯卡萨之巢领主：冰龙斯卡萨 - skasa boss",
+            "artist": "Dungeon and Fighter",
+            "id": 38018896
+        },
+        {
+            "name": "城主宫殿领主：光之城主赛格哈特 - palace of load boss",
+            "artist": "Dungeon and Fighter",
+            "id": 38018897
+        },
+        {
+            "name": "夺回西部线领主：烈焰盾波迪尔 - seatrain boss",
+            "artist": "Dungeon and Fighter",
+            "id": 38018898
+        },
+        {
+            "name": "堕落的盗贼领主：犬使魔震 - thief boss",
+            "artist": "Dungeon and Fighter",
+            "id": 38018899
+        },
+        {
+            "name": "极昼 - whitenight",
+            "artist": "Dungeon and Fighter",
+            "id": 38018900
+        },
+        {
+            "name": "海上列车随机领主：小美人鱼空空伊 - seatrain kong",
+            "artist": "Dungeon and Fighter",
+            "id": 38018901
+        },
+        {
+            "name": "绿都格罗兹尼 - shallow keep",
+            "artist": "Dungeon and Fighter",
+            "id": 38018902
+        },
+        {
+            "name": "雷鸣废墟领主：落雷凯诺 - sunderland boss",
+            "artist": "Dungeon and Fighter",
+            "id": 38018903
+        },
+        {
+            "name": "斯顿雪域 - storm pass",
+            "artist": "Dungeon and Fighter",
+            "id": 38018904
+        },
+        {
+            "name": "疑惑之村 - suspicion",
+            "artist": "Dungeon and Fighter",
+            "id": 38018905
+        },
+        {
+            "name": "PK场(雪山修炼场) - pvp bwanga",
+            "artist": "Dungeon and Fighter",
+            "id": 38019922
+        },
+        {
+            "name": "PK场(热血八番街) - pvp odesa",
+            "artist": "Dungeon and Fighter",
+            "id": 38019923
+        },
+        {
+            "name": "PK场(酒馆) - pvp pub",
+            "artist": "Dungeon and Fighter",
+            "id": 38019924
+        },
+        {
+            "name": "比尔马克帝国试验场 - vilmark",
+            "artist": "Dungeon and Fighter",
+            "id": 38019925
+        },
+        {
+            "name": "斯卡萨之巢 - skasa",
+            "artist": "Dungeon and Fighter",
+            "id": 38019926
+        },
+        {
+            "name": "城主宫殿 - palace of load",
+            "artist": "Dungeon and Fighter",
+            "id": 38019927
+        },
+        {
+            "name": "夺回西部线 - seatrain",
+            "artist": "Dungeon and Fighter",
+            "id": 38019928
+        },
+        {
+            "name": "堕落的盗贼 - thief",
+            "artist": "Dungeon and Fighter",
+            "id": 38019929
+        },
+        {
+            "name": "世帕罗塔下层领主：天之驱逐者 - sc_b01",
+            "artist": "Dungeon and Fighter",
+            "id": 38019930
+        },
+        {
+            "name": "追击歼灭战 - pursuit",
+            "artist": "Dungeon and Fighter",
+            "id": 38019931
+        },
+        {
+            "name": "兰蒂卢斯的鹰犬 - squadwar",
+            "artist": "Dungeon and Fighter",
+            "id": 38019932
+        },
+        {
+            "name": "雷鸣废墟 - sunderland",
+            "artist": "Dungeon and Fighter",
+            "id": 38019933
+        },
+        {
+            "name": "蠕动之城领主：贝里斯克 - skycastle boss",
+            "artist": "Dungeon and Fighter",
+            "id": 38019934
+        },
+        {
+            "name": "神之都-根特 - gent city",
+            "artist": "Dungeon and Fighter",
+            "id": 38019935
+        },
+        {
+            "name": "疑惑之村领主：魔女阿嘉璐 - suspicion boss",
+            "artist": "Dungeon and Fighter",
+            "id": 38019936
+        }
+    ]
+}

@@ -1,0 +1,567 @@
+{
+    "playlist_info": {
+        "name": "倾听自然 · 鸟语水声",
+        "trackcount": 111,
+        "playcount": 661494,
+        "creator": "探纪自然",
+        "createDate": "2018-05-28",
+        "heat": 355.0
+    },
+    "songs": [
+        {
+            "name": "Magical Land",
+            "artist": "Kenio Fuke",
+            "id": 18931083
+        },
+        {
+            "name": "Nature Flow (Teil 1)",
+            "artist": "Jens Buchert",
+            "id": 494093413
+        },
+        {
+            "name": "Sunny Mornings",
+            "artist": "Peder B. Helland",
+            "id": 1456445892
+        },
+        {
+            "name": "Espheras",
+            "artist": "Kenio Fuke",
+            "id": 18931080
+        },
+        {
+            "name": "Cherry Wood Paddle",
+            "artist": "Dan Gibson",
+            "id": 1217186
+        },
+        {
+            "name": "Cool Forest Rain",
+            "artist": "Dan Gibson",
+            "id": 1220792
+        },
+        {
+            "name": "Spring Peeper, Wood Frog",
+            "artist": "Dan Gibson",
+            "id": 1221194
+        },
+        {
+            "name": "Returning Home",
+            "artist": "Dan Gibson",
+            "id": 1217242
+        },
+        {
+            "name": "Inner Musing",
+            "artist": "Dan Gibson",
+            "id": 5023045
+        },
+        {
+            "name": "Sunshowers",
+            "artist": "Dan Gibson",
+            "id": 5023037
+        },
+        {
+            "name": "Effotless",
+            "artist": "Dan Gibson",
+            "id": 5023043
+        },
+        {
+            "name": "Morning Light",
+            "artist": "Dan Gibson",
+            "id": 5023359
+        },
+        {
+            "name": "Emerald Forest",
+            "artist": "Dan Gibson",
+            "id": 1218985
+        },
+        {
+            "name": "Green Grow the Rushes",
+            "artist": "Dan Gibson",
+            "id": 1220211
+        },
+        {
+            "name": "The Soothing Source",
+            "artist": "Dan Gibson",
+            "id": 1220746
+        },
+        {
+            "name": "Crystal Mist",
+            "artist": "Dan Gibson",
+            "id": 1220742
+        },
+        {
+            "name": "Giselle",
+            "artist": "Dan Gibson",
+            "id": 1219720
+        },
+        {
+            "name": "Water Ballet",
+            "artist": "Dan Gibson",
+            "id": 29338608
+        },
+        {
+            "name": "Gaia",
+            "artist": "Monroe Products",
+            "id": 4199429
+        },
+        {
+            "name": "14 April",
+            "artist": "Musette",
+            "id": 16927698
+        },
+        {
+            "name": "24 Maj",
+            "artist": "Musette",
+            "id": 16927693
+        },
+        {
+            "name": "garten am abend",
+            "artist": "Sinebag",
+            "id": 19046176
+        },
+        {
+            "name": "White Feathers",
+            "artist": "Wayne Gratz",
+            "id": 2085734
+        },
+        {
+            "name": "Blanket Angels",
+            "artist": "Wayne Gratz",
+            "id": 2085730
+        },
+        {
+            "name": "幻境森林",
+            "artist": "Della",
+            "id": 717381
+        },
+        {
+            "name": "夏之印象",
+            "artist": "Della",
+            "id": 717203
+        },
+        {
+            "name": "Yune~Intro~",
+            "artist": "α·Pav",
+            "id": 139192
+        },
+        {
+            "name": "σ",
+            "artist": "α·Pav",
+            "id": 139224
+        },
+        {
+            "name": "Temple Garden",
+            "artist": "Anzan",
+            "id": 1012931
+        },
+        {
+            "name": "The Treehouse",
+            "artist": "David Arkenstone",
+            "id": 1234725
+        },
+        {
+            "name": "My Love",
+            "artist": "Dan Gibson",
+            "id": 5023231
+        },
+        {
+            "name": "Old Friend",
+            "artist": "Dan Gibson",
+            "id": 19696775
+        },
+        {
+            "name": "Island Romance",
+            "artist": "Dan Gibson",
+            "id": 5022550
+        },
+        {
+            "name": "Pine Forest Repose",
+            "artist": "Dan Gibson",
+            "id": 5022819
+        },
+        {
+            "name": "Spruce Woods",
+            "artist": "Dan Gibson",
+            "id": 5022679
+        },
+        {
+            "name": "Drei",
+            "artist": "Deuter",
+            "id": 17304501
+        },
+        {
+            "name": "Forest",
+            "artist": "Deuter",
+            "id": 2428562
+        },
+        {
+            "name": "Jungle River",
+            "artist": "Echoes of Nature",
+            "id": 17673536
+        },
+        {
+            "name": "Deep Woods",
+            "artist": "Echoes of Nature",
+            "id": 17673500
+        },
+        {
+            "name": "Birds, Forest Reverb",
+            "artist": "The Nature Sounds Society Japan",
+            "id": 853683
+        },
+        {
+            "name": "Emerald Forest",
+            "artist": "Steve Middleton",
+            "id": 33875381
+        },
+        {
+            "name": "Gentle Day",
+            "artist": "Anjey Satori",
+            "id": 1067006
+        },
+        {
+            "name": "Patience",
+            "artist": "Anzan",
+            "id": 1012947
+        },
+        {
+            "name": "Secret Fountain",
+            "artist": "David & Steve Gordon",
+            "id": 1277529
+        },
+        {
+            "name": "Falling blossoms",
+            "artist": "Hummingbert Stereo",
+            "id": 4453004
+        },
+        {
+            "name": "The Arran Boat",
+            "artist": "Dan Gibson",
+            "id": 1217567
+        },
+        {
+            "name": "Just as I Am",
+            "artist": "Dan Gibson",
+            "id": 1217298
+        },
+        {
+            "name": "A Path to Solitude",
+            "artist": "Dan Gibson",
+            "id": 29192242
+        },
+        {
+            "name": "A Gentle Grace",
+            "artist": "Dan Gibson",
+            "id": 5022749
+        },
+        {
+            "name": "Floating Euphoria",
+            "artist": "Dan Gibson",
+            "id": 1221590
+        },
+        {
+            "name": "The very thought of you",
+            "artist": "Dan Gibson",
+            "id": 5022718
+        },
+        {
+            "name": "After The Sunset",
+            "artist": "Dan Gibson",
+            "id": 1217396
+        },
+        {
+            "name": "the gateway",
+            "artist": "Dan Gibson",
+            "id": 1218618
+        },
+        {
+            "name": "Literary Walk at Dawn",
+            "artist": "Dan Gibson",
+            "id": 1219033
+        },
+        {
+            "name": "Hermit Thrush",
+            "artist": "Dan Gibson",
+            "id": 5022625
+        },
+        {
+            "name": "Awakenes Spirit",
+            "artist": "Dan Gibson",
+            "id": 5023039
+        },
+        {
+            "name": "Voice of the Canyon",
+            "artist": "Dan Gibson",
+            "id": 1218490
+        },
+        {
+            "name": "Spring Awakening",
+            "artist": "Dan Gibson",
+            "id": 1219424
+        },
+        {
+            "name": "Impromptu, D. 899, No. 3 [Looped with Nature Sounds]",
+            "artist": "Dan Gibson",
+            "id": 1218797
+        },
+        {
+            "name": "Song Sparrow/Rose-Breasted Grosbeak/White-Throated Sparrow/Common Crow",
+            "artist": "Dan Gibson",
+            "id": 5022839
+        },
+        {
+            "name": "Literary Walk at Dawn from Central Park",
+            "artist": "Dan Gibson",
+            "id": 1217832
+        },
+        {
+            "name": "Adagio",
+            "artist": "Dan Gibson",
+            "id": 1221057
+        },
+        {
+            "name": "Claire de Lune",
+            "artist": "Dan Gibson",
+            "id": 1220509
+        },
+        {
+            "name": "Prelude in C Major (Bach)",
+            "artist": "Dan Gibson",
+            "id": 5023366
+        },
+        {
+            "name": "Printemps Au Saguenayaurentides",
+            "artist": "Dan Gibson",
+            "id": 5023157
+        },
+        {
+            "name": "Mountain Dew",
+            "artist": "Dan Gibson",
+            "id": 19696769
+        },
+        {
+            "name": "Sienna Sky",
+            "artist": "Dan Gibson",
+            "id": 5023353
+        },
+        {
+            "name": "Vincent",
+            "artist": "Dan Gibson",
+            "id": 5023239
+        },
+        {
+            "name": "Splendor",
+            "artist": "Dan Gibson",
+            "id": 1220988
+        },
+        {
+            "name": "Vital Spring",
+            "artist": "Dan Gibson",
+            "id": 1218277
+        },
+        {
+            "name": "Heart of the Forest",
+            "artist": "Dan Gibson",
+            "id": 1219977
+        },
+        {
+            "name": "Wind Beneath My Wings",
+            "artist": "Dan Gibson",
+            "id": 5022518
+        },
+        {
+            "name": "A Delicate Balance",
+            "artist": "Dan Gibson",
+            "id": 5023018
+        },
+        {
+            "name": "Nature in Balance",
+            "artist": "Dan Gibson",
+            "id": 1220426
+        },
+        {
+            "name": "Atmosfera",
+            "artist": "Kenio Fuke",
+            "id": 18931046
+        },
+        {
+            "name": "Monte Fuji",
+            "artist": "Kenio Fuke",
+            "id": 18931051
+        },
+        {
+            "name": "Flor de Maio",
+            "artist": "Kenio Fuke",
+            "id": 18931056
+        },
+        {
+            "name": "Sakura",
+            "artist": "Kenio Fuke",
+            "id": 18931062
+        },
+        {
+            "name": "里叶色",
+            "artist": "いろのみ",
+            "id": 22663108
+        },
+        {
+            "name": "夏虫色",
+            "artist": "いろのみ",
+            "id": 22663105
+        },
+        {
+            "name": "Songbirds",
+            "artist": "Corciolli",
+            "id": 1214871
+        },
+        {
+            "name": "Water",
+            "artist": "Corciolli",
+            "id": 1214873
+        },
+        {
+            "name": "Sunshine on My Shoulders",
+            "artist": "Dan Gibson",
+            "id": 1219359
+        },
+        {
+            "name": "Source Of Peace",
+            "artist": "Dan Gibson",
+            "id": 1219652
+        },
+        {
+            "name": "hajimari",
+            "artist": "hideyuki hashimoto",
+            "id": 28679438
+        },
+        {
+            "name": "tobira",
+            "artist": "hideyuki hashimoto",
+            "id": 28679437
+        },
+        {
+            "name": "Glory Lily",
+            "artist": "Andemund Orchestra",
+            "id": 34532663
+        },
+        {
+            "name": "Pacific Rainforest",
+            "artist": "Dan Gibson",
+            "id": 5023663
+        },
+        {
+            "name": "Crystal Cascades",
+            "artist": "Dan Gibson",
+            "id": 1220439
+        },
+        {
+            "name": "Morning Dew",
+            "artist": "Dan Gibson",
+            "id": 1219288
+        },
+        {
+            "name": "Whispering Water",
+            "artist": "Dan Gibson",
+            "id": 1217773
+        },
+        {
+            "name": "Cedar Rapids",
+            "artist": "Dan Gibson",
+            "id": 1217205
+        },
+        {
+            "name": "Over the Rainbow",
+            "artist": "Dan Gibson",
+            "id": 5022792
+        },
+        {
+            "name": "Spirit of the Rockies",
+            "artist": "Dan Gibson",
+            "id": 1217993
+        },
+        {
+            "name": "Clean and Clear",
+            "artist": "Dan Gibson",
+            "id": 1217997
+        },
+        {
+            "name": "The Winding River",
+            "artist": "David Arkenstone",
+            "id": 1234609
+        },
+        {
+            "name": "The Water's Edge",
+            "artist": "David Arkenstone",
+            "id": 1234603
+        },
+        {
+            "name": "The Secret Waterfall",
+            "artist": "Llewellyn",
+            "id": 20936391
+        },
+        {
+            "name": "Across the Fields",
+            "artist": "Llewellyn",
+            "id": 20936390
+        },
+        {
+            "name": "Yellow-Rumped Warbler",
+            "artist": "Dan Gibson",
+            "id": 5022629
+        },
+        {
+            "name": "Golden Slumbers",
+            "artist": "Dan Gibson",
+            "id": 1221805
+        },
+        {
+            "name": "The Old Bridge",
+            "artist": "Dan Gibson",
+            "id": 1220822
+        },
+        {
+            "name": "Nature's Path",
+            "artist": "Dan Gibson",
+            "id": 1220787
+        },
+        {
+            "name": "演员 钢琴   即兴（Cover 薛之谦）",
+            "artist": "Elsee",
+            "id": 468550309
+        },
+        {
+            "name": "流行歌钢琴即兴1",
+            "artist": "Elsee",
+            "id": 476205417
+        },
+        {
+            "name": "遇见 钢琴（Cover 孙燕姿）",
+            "artist": "Elsee",
+            "id": 467025782
+        },
+        {
+            "name": "Past（Cover 天翼之链）",
+            "artist": "Elsee",
+            "id": 449793681
+        },
+        {
+            "name": "千与千寻 いつも何度でも 钢琴 即兴（Cover 久石让）",
+            "artist": "Elsee",
+            "id": 472021850
+        },
+        {
+            "name": "约定",
+            "artist": "Elsee",
+            "id": 517258845
+        },
+        {
+            "name": "Prophecies and Dreams",
+            "artist": "Debbie Wiseman",
+            "id": 31141000
+        },
+        {
+            "name": "Wolf Hall",
+            "artist": "Debbie Wiseman",
+            "id": 31192013
+        }
+    ]
+}

@@ -1,0 +1,927 @@
+{
+    "playlist_info": {
+        "name": "夏日纯音集｜浅梦中的风铃与蝉鸣",
+        "trackcount": 183,
+        "playcount": 1266959,
+        "creator": "花嫁赫萝",
+        "createDate": "2019-06-16",
+        "heat": 857.0
+    },
+    "songs": [
+        {
+            "name": "Last Train Home - Still Far",
+            "artist": "麗美",
+            "id": 26135471
+        },
+        {
+            "name": "钟楼のパトリ~ネオ?ヴェネチア~",
+            "artist": "V.A.",
+            "id": 4945085
+        },
+        {
+            "name": "All I Can Give You (Senjougahara Tore Cover)",
+            "artist": "Xeuphoria",
+            "id": 406072658
+        },
+        {
+            "name": "Summer Pockets BGM01",
+            "artist": "鈴木このみ",
+            "id": 547973257
+        },
+        {
+            "name": "Second Season～出会い～",
+            "artist": "Choro Club",
+            "id": 29463925
+        },
+        {
+            "name": "陽だまり道とれんちょん",
+            "artist": "水谷広実",
+            "id": 28160990
+        },
+        {
+            "name": "ゆったりゆっくり",
+            "artist": "水谷広実",
+            "id": 28167042
+        },
+        {
+            "name": "「プラチナむかつく」",
+            "artist": "神前暁",
+            "id": 460508
+        },
+        {
+            "name": "小さなてのひら",
+            "artist": "水月陵",
+            "id": 22706975
+        },
+        {
+            "name": "木漏れ日の小道",
+            "artist": "吉森信",
+            "id": 541355
+        },
+        {
+            "name": "ハルカノココロ",
+            "artist": "市川淳",
+            "id": 477972
+        },
+        {
+            "name": "めぐる夏の便り",
+            "artist": "吉森信",
+            "id": 541968
+        },
+        {
+            "name": "Waltz for ARIA",
+            "artist": "V.A.",
+            "id": 4945096
+        },
+        {
+            "name": "消えゆく陽菜",
+            "artist": "RADWIMPS",
+            "id": 1378491288
+        },
+        {
+            "name": "十一年後の姿",
+            "artist": "神前暁",
+            "id": 506986187
+        },
+        {
+            "name": "橙色のワルツ",
+            "artist": "吉森信",
+            "id": 1313102789
+        },
+        {
+            "name": "東風-piano-",
+            "artist": "折戸伸治",
+            "id": 22707013
+        },
+        {
+            "name": "家族の時間",
+            "artist": "RADWIMPS",
+            "id": 1378491294
+        },
+        {
+            "name": "夏の続きを",
+            "artist": "ANANT-GARDE EYES",
+            "id": 31260756
+        },
+        {
+            "name": "海風と太陽",
+            "artist": "水月陵",
+            "id": 523035902
+        },
+        {
+            "name": "数学の妖精",
+            "artist": "羽岡佳",
+            "id": 408328884
+        },
+        {
+            "name": "笑顔の行方",
+            "artist": "市川淳",
+            "id": 477922
+        },
+        {
+            "name": "かえりみち",
+            "artist": "七瀬光",
+            "id": 471403828
+        },
+        {
+            "name": "日々の遑",
+            "artist": "折戸伸治",
+            "id": 22707000
+        },
+        {
+            "name": "トリビア",
+            "artist": "神前暁",
+            "id": 506986180
+        },
+        {
+            "name": "はなむけ",
+            "artist": "神前暁",
+            "id": 29366987
+        },
+        {
+            "name": "デート",
+            "artist": "RADWIMPS",
+            "id": 426881489
+        },
+        {
+            "name": "恋",
+            "artist": "神前暁",
+            "id": 26117112
+        },
+        {
+            "name": "汐",
+            "artist": "戸越まごめ",
+            "id": 22706979
+        },
+        {
+            "name": "you",
+            "artist": "M.Graveyard",
+            "id": 786262
+        },
+        {
+            "name": "前世",
+            "artist": "ヨルシカ",
+            "id": 557584330
+        },
+        {
+            "name": "夏影 ~",
+            "artist": "水月陵",
+            "id": 761317
+        },
+        {
+            "name": "青空 ~",
+            "artist": "水月陵",
+            "id": 761319
+        },
+        {
+            "name": "自己愛",
+            "artist": "羽岡佳",
+            "id": 523035580
+        },
+        {
+            "name": "相合傘",
+            "artist": "橋本由香利",
+            "id": 29953750
+        },
+        {
+            "name": "であい",
+            "artist": "七瀬光",
+            "id": 414118718
+        },
+        {
+            "name": "海の涙",
+            "artist": "出羽良彰",
+            "id": 28445798
+        },
+        {
+            "name": "Rivulet",
+            "artist": "水月陵",
+            "id": 22706972
+        },
+        {
+            "name": "Leaving",
+            "artist": "stretta di mano",
+            "id": 654569
+        },
+        {
+            "name": "しみじみ",
+            "artist": "水谷広実",
+            "id": 28167003
+        },
+        {
+            "name": "memory",
+            "artist": "ANANT-GARDE EYES",
+            "id": 471820
+        },
+        {
+            "name": "透ける瞳",
+            "artist": "橋本由香利",
+            "id": 26218587
+        },
+        {
+            "name": "One Summer's Day",
+            "artist": "久石譲",
+            "id": 443249
+        },
+        {
+            "name": "橙色の時",
+            "artist": "吉森信",
+            "id": 541879
+        },
+        {
+            "name": "透明な涙",
+            "artist": "橋本由香利",
+            "id": 26218571
+        },
+        {
+            "name": "飛騨探訪",
+            "artist": "RADWIMPS",
+            "id": 426881492
+        },
+        {
+            "name": "my heart",
+            "artist": "麻枝准",
+            "id": 471925
+        },
+        {
+            "name": "pure heart",
+            "artist": "松田彬人",
+            "id": 4946902
+        },
+        {
+            "name": "空とりどり",
+            "artist": "吉森信",
+            "id": 1313102790
+        },
+        {
+            "name": "朱色の祈り",
+            "artist": "吉森信",
+            "id": 541397
+        },
+        {
+            "name": "雲の気持ち",
+            "artist": "吉森信",
+            "id": 1313052952
+        },
+        {
+            "name": "誰かの特別",
+            "artist": "羽岡佳",
+            "id": 411928634
+        },
+        {
+            "name": "同じ高みへ",
+            "artist": "水月陵",
+            "id": 22706973
+        },
+        {
+            "name": "あの日の川",
+            "artist": "久石譲",
+            "id": 443823
+        },
+        {
+            "name": "Kenji",
+            "artist": "松本晃彦",
+            "id": 22710771
+        },
+        {
+            "name": "Suspended",
+            "artist": "市川淳",
+            "id": 477935
+        },
+        {
+            "name": "Old Memory",
+            "artist": "市川淳",
+            "id": 477982
+        },
+        {
+            "name": "I Left You Last",
+            "artist": "麗美",
+            "id": 26135447
+        },
+        {
+            "name": "秋も冬も春も",
+            "artist": "吉森信",
+            "id": 541381
+        },
+        {
+            "name": "あの夏の坂道",
+            "artist": "池頼広",
+            "id": 420693
+        },
+        {
+            "name": "君をば待たむ",
+            "artist": "吉森信",
+            "id": 482633554
+        },
+        {
+            "name": "風の止まり木",
+            "artist": "水月陵",
+            "id": 36103287
+        },
+        {
+            "name": "親と子の物語",
+            "artist": "吉森信",
+            "id": 1313052955
+        },
+        {
+            "name": "Two, Only Two.",
+            "artist": "天門",
+            "id": 527778
+        },
+        {
+            "name": "繋がるものたち",
+            "artist": "吉森信",
+            "id": 482633555
+        },
+        {
+            "name": "神原駿河の人生",
+            "artist": "羽岡佳",
+            "id": 29436603
+        },
+        {
+            "name": "すぐそばの彼方",
+            "artist": "浅野隼人",
+            "id": 472361884
+        },
+        {
+            "name": "海の音を探して",
+            "artist": "加藤達也",
+            "id": 444058031
+        },
+        {
+            "name": "悪くない春休み",
+            "artist": "神前暁",
+            "id": 489970797
+        },
+        {
+            "name": "星影のゴンドラ",
+            "artist": "Choro Club",
+            "id": 22760437
+        },
+        {
+            "name": "Melodies of Life",
+            "artist": "浜口史郎",
+            "id": 540527
+        },
+        {
+            "name": "in living memory",
+            "artist": "白神真志朗",
+            "id": 31260740
+        },
+        {
+            "name": "ソーイングセット",
+            "artist": "阿保剛",
+            "id": 28160259
+        },
+        {
+            "name": "8月 いつかの畦道",
+            "artist": "加賀谷玲",
+            "id": 27566774
+        },
+        {
+            "name": "陽だまりの小部屋",
+            "artist": "I've",
+            "id": 752062
+        },
+        {
+            "name": "月日を重ねて、今",
+            "artist": "吉森信",
+            "id": 1313107910
+        },
+        {
+            "name": "夏と待ち合わせて",
+            "artist": "吉森信",
+            "id": 541369
+        },
+        {
+            "name": "鉄弦アンソロジー",
+            "artist": "松本淳一",
+            "id": 525239168
+        },
+        {
+            "name": "ふたりのおもいで",
+            "artist": "七瀬光",
+            "id": 414118726
+        },
+        {
+            "name": "夏陰、ピアノを弾く",
+            "artist": "ヨルシカ",
+            "id": 487527978
+        },
+        {
+            "name": "わかっていたつもり",
+            "artist": "神前暁",
+            "id": 448317736
+        },
+        {
+            "name": "目に焼き付いた物語",
+            "artist": "じん",
+            "id": 31260749
+        },
+        {
+            "name": "夏、バス停、君を待つ",
+            "artist": "ヨルシカ",
+            "id": 557581318
+        },
+        {
+            "name": "夏風～かぜの通りみち～",
+            "artist": "藤間仁",
+            "id": 421180
+        },
+        {
+            "name": "Leaving the Ceremony",
+            "artist": "麗美",
+            "id": 27671039
+        },
+        {
+            "name": "Still...- Follow You Still...",
+            "artist": "麗美",
+            "id": 27671035
+        },
+        {
+            "name": "白金ディスコ(Piano Ver.)",
+            "artist": "V.A.",
+            "id": 399366140
+        },
+        {
+            "name": "雲の気持ち～五丁町を歩く",
+            "artist": "吉森信",
+            "id": 1313107908
+        },
+        {
+            "name": "陽だまり道 (Piano Ver.)",
+            "artist": "水谷広実",
+            "id": 28167016
+        },
+        {
+            "name": "风のアルペジオ Piano Ver.",
+            "artist": "戯画",
+            "id": 753746
+        },
+        {
+            "name": "Sounds Inside the House",
+            "artist": "麗美",
+            "id": 27671034
+        },
+        {
+            "name": "Ref:rain (Instrumental Version)",
+            "artist": "吉俣良",
+            "id": 1355897613
+        },
+        {
+            "name": "my most precious treasure",
+            "artist": "麻枝准",
+            "id": 471825
+        },
+        {
+            "name": "The Afternoon Of Rainy day",
+            "artist": "柏大輔",
+            "id": 26465048
+        },
+        {
+            "name": "四季～そして僕は海に還る～",
+            "artist": "妹尾武",
+            "id": 607402
+        },
+        {
+            "name": "透明な世界 (Piano Arrange Ver.)",
+            "artist": "松田彬人",
+            "id": 29418697
+        },
+        {
+            "name": "あの时、もし君が振り返ったなら",
+            "artist": "戯画",
+            "id": 753714
+        },
+        {
+            "name": "ヨスガノソラ メインテーマ -記憶-",
+            "artist": "市川淳",
+            "id": 477931
+        },
+        {
+            "name": "ヨスガノソラ メインテーマ -祈り-",
+            "artist": "市川淳",
+            "id": 477918
+        },
+        {
+            "name": "「儂のほうこそ悪かった - 生死郎」",
+            "artist": "羽岡佳",
+            "id": 411928636
+        },
+        {
+            "name": "鐘楼のパトリ～ネオ・ヴェネツィア～",
+            "artist": "Choro Club",
+            "id": 22760441
+        },
+        {
+            "name": "一輪の願い〜夏目友人帳 陸のテーマ",
+            "artist": "吉森信",
+            "id": 482633570
+        },
+        {
+            "name": "ヒマワリの教会 -piano solo long ver-",
+            "artist": "松本文紀",
+            "id": 28699502
+        },
+        {
+            "name": "きみが呼ぶ名まえ~夏目友人帐のテーマ",
+            "artist": "吉森信",
+            "id": 541962
+        },
+        {
+            "name": "ヨスガノソラ メインテーマ -遠い空へ-",
+            "artist": "市川淳",
+            "id": 477913
+        },
+        {
+            "name": "いちばんのたからもの (一番の宝物より)",
+            "artist": "Key Sounds Label",
+            "id": 34014166
+        },
+        {
+            "name": "My Soul, Your Beats! -Piano Arrange Ver.-",
+            "artist": "Key Sounds Label",
+            "id": 34014160
+        },
+        {
+            "name": "サンタクロウスの空～Riverside Christmas Mix～",
+            "artist": "Choro Club",
+            "id": 29463908
+        },
+        {
+            "name": "Sakae In Action",
+            "artist": "松本晃彦",
+            "id": 22710767
+        },
+        {
+            "name": "Dynamic Sunset - Words I Heard in the Silent Dawn",
+            "artist": "麗美",
+            "id": 27671031
+        },
+        {
+            "name": "On a Silent Afternoon - Childhood Marks on The Wall",
+            "artist": "麗美",
+            "id": 27671036
+        },
+        {
+            "name": "「私は何も知りませんよ。あなたが知っているんです-阿良々木先輩。」",
+            "artist": "羽岡佳",
+            "id": 408328894
+        },
+        {
+            "name": "Before it Gets Dark - While the Sun Sets",
+            "artist": "麗美",
+            "id": 27671029
+        },
+        {
+            "name": "Secret Feelings - From Childhood",
+            "artist": "麗美",
+            "id": 26135454
+        },
+        {
+            "name": "四季～そして僕は海に還る～",
+            "artist": "Choro Club",
+            "id": 4960158
+        },
+        {
+            "name": "いつまでもあなたと一緒",
+            "artist": "MANYO",
+            "id": 32823133
+        },
+        {
+            "name": "奥寺先輩のテーマ",
+            "artist": "RADWIMPS",
+            "id": 426881485
+        },
+        {
+            "name": "ふるさとの匂い",
+            "artist": "吉森信",
+            "id": 541853
+        },
+        {
+            "name": "风のアルペジオ",
+            "artist": "戯画",
+            "id": 753613
+        },
+        {
+            "name": "未来への航跡",
+            "artist": "Choro Club",
+            "id": 4960148
+        },
+        {
+            "name": "ひとりぼっち",
+            "artist": "伊賀拓郎",
+            "id": 465677830
+        },
+        {
+            "name": "いつか来た道",
+            "artist": "Choro Club",
+            "id": 29463914
+        },
+        {
+            "name": "暖かい家路",
+            "artist": "吉森信",
+            "id": 541259
+        },
+        {
+            "name": "かたわれ時",
+            "artist": "RADWIMPS",
+            "id": 426881502
+        },
+        {
+            "name": "６番目の駅",
+            "artist": "久石譲",
+            "id": 443842
+        },
+        {
+            "name": "いつも傍に",
+            "artist": "吉森信",
+            "id": 541883
+        },
+        {
+            "name": "夕暮れの風",
+            "artist": "Famishin",
+            "id": 28838655
+        },
+        {
+            "name": "「ただいま」",
+            "artist": "神前暁",
+            "id": 28048772
+        },
+        {
+            "name": "終夏～乙姫～",
+            "artist": "MANYO",
+            "id": 29004977
+        },
+        {
+            "name": "夕景が滲んで",
+            "artist": "ANANT-GARDE EYES",
+            "id": 31260734
+        },
+        {
+            "name": "黄昏の帰り道",
+            "artist": "三輪学",
+            "id": 478099
+        },
+        {
+            "name": "夏祭り、夢花火。",
+            "artist": "妹尾武",
+            "id": 28411784
+        },
+        {
+            "name": "なずなの「もし」",
+            "artist": "神前暁",
+            "id": 496640119
+        },
+        {
+            "name": "満月のドルチェ",
+            "artist": "Choro Club",
+            "id": 22760429
+        },
+        {
+            "name": "やさしい星座",
+            "artist": "志倉千代丸",
+            "id": 515270
+        },
+        {
+            "name": "月日を重ねて",
+            "artist": "吉森信",
+            "id": 482633577
+        },
+        {
+            "name": "夕暮れの顷",
+            "artist": "藤澤慶昌",
+            "id": 639106
+        },
+        {
+            "name": "cool",
+            "artist": "天門",
+            "id": 469410705
+        },
+        {
+            "name": "秋祭り",
+            "artist": "RADWIMPS",
+            "id": 426881490
+        },
+        {
+            "name": "夏待ち",
+            "artist": "窪田ミナ",
+            "id": 29463842
+        },
+        {
+            "name": "Girl’s pleasure",
+            "artist": "七瀬光",
+            "id": 570315
+        },
+        {
+            "name": "花冷え",
+            "artist": "窪田ミナ",
+            "id": 29463841
+        },
+        {
+            "name": "AQUA",
+            "artist": "窪田ミナ",
+            "id": 29463840
+        },
+        {
+            "name": "蝎の火",
+            "artist": "加賀谷玲",
+            "id": 454458
+        },
+        {
+            "name": "南十字座",
+            "artist": "加賀谷玲",
+            "id": 454462
+        },
+        {
+            "name": "デート2",
+            "artist": "RADWIMPS",
+            "id": 426881504
+        },
+        {
+            "name": "月の眠り",
+            "artist": "MANYO",
+            "id": 26196648
+        },
+        {
+            "name": "儚き梦を",
+            "artist": "八乙女葦菜",
+            "id": 4956897
+        },
+        {
+            "name": "お見舞い",
+            "artist": "羽岡佳",
+            "id": 408328887
+        },
+        {
+            "name": "旅館の夜",
+            "artist": "RADWIMPS",
+            "id": 426881495
+        },
+        {
+            "name": "Rainbow",
+            "artist": "窪田ミナ",
+            "id": 29463854
+        },
+        {
+            "name": "山神の森へ",
+            "artist": "吉森信",
+            "id": 541393
+        },
+        {
+            "name": "夜の向日葵",
+            "artist": "松本文紀",
+            "id": 4937357
+        },
+        {
+            "name": "夏の大三角",
+            "artist": "ryo (supercell)",
+            "id": 4937375
+        },
+        {
+            "name": "戸惑いの中",
+            "artist": "市川淳",
+            "id": 477978
+        },
+        {
+            "name": "その日の事",
+            "artist": "市川淳",
+            "id": 477948
+        },
+        {
+            "name": "Smile Again",
+            "artist": "窪田ミナ",
+            "id": 29463845
+        },
+        {
+            "name": "いとはかなし",
+            "artist": "吉森信",
+            "id": 541887
+        },
+        {
+            "name": "ユーフォリア",
+            "artist": "窪田ミナ",
+            "id": 29463838
+        },
+        {
+            "name": "ウンディーネ",
+            "artist": "窪田ミナ",
+            "id": 29463848
+        },
+        {
+            "name": "やわらかな風",
+            "artist": "Famishin",
+            "id": 28341810
+        },
+        {
+            "name": "三葉のテーマ",
+            "artist": "RADWIMPS",
+            "id": 426881500
+        },
+        {
+            "name": "星空を见上げて",
+            "artist": "I've",
+            "id": 752719
+        },
+        {
+            "name": "海底、月明かり",
+            "artist": "ヨルシカ",
+            "id": 1387098939
+        },
+        {
+            "name": "かなかなしぐれ",
+            "artist": "吉森信",
+            "id": 541389
+        },
+        {
+            "name": "ガラス色の星空",
+            "artist": "Foxtail-Grass Studio",
+            "id": 34367079
+        },
+        {
+            "name": "「戦場ヶ原先輩」",
+            "artist": "神前暁",
+            "id": 461179
+        },
+        {
+            "name": "Cry for the moon",
+            "artist": "出羽良彰",
+            "id": 28445796
+        },
+        {
+            "name": "明日、夕暮れまで",
+            "artist": "妹尾武",
+            "id": 607428
+        },
+        {
+            "name": "君想う、星屑の空。",
+            "artist": "妹尾武",
+            "id": 28411779
+        },
+        {
+            "name": "サンタクロウスの空",
+            "artist": "窪田ミナ",
+            "id": 29463851
+        },
+        {
+            "name": "夜ふかしスイートタイム",
+            "artist": "Foxtail-Grass Studio",
+            "id": 454711344
+        },
+        {
+            "name": "Here to Stay",
+            "artist": "Evan Call",
+            "id": 574925100
+        },
+        {
+            "name": "リフレイン ~Piano Version~",
+            "artist": "Famishin",
+            "id": 28838680
+        },
+        {
+            "name": "Lost my pieces (Piano Ver.)",
+            "artist": "橋本由香利",
+            "id": 28910248
+        },
+        {
+            "name": "きみが呼ぶなまえ~夢のつづき",
+            "artist": "吉森信",
+            "id": 541844
+        },
+        {
+            "name": "「私はあいつが一羨ましかったんだ」",
+            "artist": "羽岡佳",
+            "id": 29586702
+        },
+        {
+            "name": "Takin' It Easy",
+            "artist": "Evan Call",
+            "id": 574925102
+        },
+        {
+            "name": "妖光の月に~夏目友人帐 参 のテーマ",
+            "artist": "吉森信",
+            "id": 541238
+        },
+        {
+            "name": "長月の空から〜夏目友人帳 伍のテーマ",
+            "artist": "吉森信",
+            "id": 482633552
+        },
+        {
+            "name": "春を知らせるもの~続 夏目友人帳のテーマ",
+            "artist": "吉森信",
+            "id": 541928
+        },
+        {
+            "name": "「わたしは阿良々木さんと会えたんですから」",
+            "artist": "神前暁",
+            "id": 28254848
+        },
+        {
+            "name": "secret base 〜君がくれたもの〜 Piano Ver.",
+            "artist": "ZONE",
+            "id": 22817222
+        }
+    ]
+}

@@ -29,6 +29,7 @@ def generate_playlist_json(playlist_id):
         playlist_name = playlist_info['playlist']['name'] 
     except:
         print(f'\033[91m {playlist_id}无法获取歌单ID\033[0m')
+        return
         
     
 

@@ -1,0 +1,917 @@
+{
+    "playlist_info": {
+        "name": "刷题·学习·冥思·抗噪·助眠",
+        "trackcount": 181,
+        "playcount": 1779896,
+        "creator": "一只喵喵喵星人",
+        "createDate": "2019-04-09",
+        "heat": 1151.0
+    },
+    "songs": [
+        {
+            "name": "Looking Back",
+            "artist": "Laurence Ipsum",
+            "id": 1345131241
+        },
+        {
+            "name": "晖",
+            "artist": "路口区林先生",
+            "id": 1898001278
+        },
+        {
+            "name": "10. 岚山夜 - Take Me Away",
+            "artist": "废铁",
+            "id": 1351687036
+        },
+        {
+            "name": "雾色花园",
+            "artist": "废铁",
+            "id": 1892480001
+        },
+        {
+            "name": "Opus",
+            "artist": "坂本龍一",
+            "id": 500014
+        },
+        {
+            "name": "goldfish.",
+            "artist": "URii",
+            "id": 1421557694
+        },
+        {
+            "name": "新海诚的雨",
+            "artist": "WR-锐",
+            "id": 1428746590
+        },
+        {
+            "name": "Air",
+            "artist": "Aage Kvalbein",
+            "id": 1003876
+        },
+        {
+            "name": "Gjendines banlat",
+            "artist": "Iver Kleive",
+            "id": 1003880
+        },
+        {
+            "name": "Eg veit i himmerik ei borg",
+            "artist": "Iver Kleive",
+            "id": 1003883
+        },
+        {
+            "name": "Tema fra Adagio",
+            "artist": "Iver Kleive",
+            "id": 1003887
+        },
+        {
+            "name": "Blott en dag",
+            "artist": "Iver Kleive",
+            "id": 1003891
+        },
+        {
+            "name": "Jag har hort om en stad ovan malnen",
+            "artist": "Iver Kleive",
+            "id": 1003873
+        },
+        {
+            "name": "林深见鹿 海蓝见鲸 梦醒见你",
+            "artist": "MT1990",
+            "id": 1451572449
+        },
+        {
+            "name": "月下",
+            "artist": "WR-锐",
+            "id": 1436947751
+        },
+        {
+            "name": "落日归山海，陪伴成告白",
+            "artist": "Seto",
+            "id": 1379215363
+        },
+        {
+            "name": "晚霞",
+            "artist": "WR-锐",
+            "id": 1430527005
+        },
+        {
+            "name": "Etter en drom",
+            "artist": "Iver Kleive",
+            "id": 1003894
+        },
+        {
+            "name": "痕",
+            "artist": "白鸿",
+            "id": 1430652175
+        },
+        {
+            "name": "I himmelen, i himmelen",
+            "artist": "Iver Kleive",
+            "id": 1003898
+        },
+        {
+            "name": "Voyage among Galaxies",
+            "artist": "冷罗KS",
+            "id": 1430029350
+        },
+        {
+            "name": "Ave Maria",
+            "artist": "Iver Kleive",
+            "id": 1003902
+        },
+        {
+            "name": "O bli hos meg",
+            "artist": "Iver Kleive",
+            "id": 1003907
+        },
+        {
+            "name": "I ensomme stunde",
+            "artist": "Iver Kleive",
+            "id": 1003910
+        },
+        {
+            "name": "The Wisp Sings",
+            "artist": "Winter Aid",
+            "id": 1352526310
+        },
+        {
+            "name": "Tryggare Kan ingen vara",
+            "artist": "Iver Kleive",
+            "id": 1003914
+        },
+        {
+            "name": "Gabriels obo",
+            "artist": "Iver Kleive",
+            "id": 1003918
+        },
+        {
+            "name": "Eg ser",
+            "artist": "Iver Kleive",
+            "id": 1003922
+        },
+        {
+            "name": "Ved Rondane",
+            "artist": "Iver Kleive",
+            "id": 1003926
+        },
+        {
+            "name": "Velt alle dine veie",
+            "artist": "Iver Kleive",
+            "id": 1003930
+        },
+        {
+            "name": "Bred dina vida vingar",
+            "artist": "Iver Kleive",
+            "id": 1003933
+        },
+        {
+            "name": "Moon River",
+            "artist": "西村由紀江",
+            "id": 22695990
+        },
+        {
+            "name": "Gymnopedies 1",
+            "artist": "Erik Satie",
+            "id": 5299097
+        },
+        {
+            "name": "Cedars of Lebanon",
+            "artist": "Steve Barakatt",
+            "id": 1992360
+        },
+        {
+            "name": "Sundial Dreams",
+            "artist": "Kevin Kern",
+            "id": 1614642
+        },
+        {
+            "name": "Wonderland",
+            "artist": "David Nevue",
+            "id": 1237366
+        },
+        {
+            "name": "Against All Odds",
+            "artist": "Martin Ermen",
+            "id": 524231582
+        },
+        {
+            "name": "wa1c oo",
+            "artist": "nunu",
+            "id": 3204370
+        },
+        {
+            "name": "Starlight Memories",
+            "artist": "Dennis Kuo",
+            "id": 1293032
+        },
+        {
+            "name": "Love Story",
+            "artist": "Music Box Angels",
+            "id": 569587107
+        },
+        {
+            "name": "Stay",
+            "artist": "Steve Wingfield",
+            "id": 539548389
+        },
+        {
+            "name": "Nero",
+            "artist": "Electus",
+            "id": 406072455
+        },
+        {
+            "name": "Gently Dreaming",
+            "artist": "Peter Kater",
+            "id": 18110955
+        },
+        {
+            "name": "明日を信じて(フィルムバージョン)",
+            "artist": "西村由紀江",
+            "id": 668667
+        },
+        {
+            "name": "Ever Eternity",
+            "artist": "Dennis Kuo",
+            "id": 28941070
+        },
+        {
+            "name": "Moon As My Heart",
+            "artist": "Robert Bonfiglio",
+            "id": 1919382
+        },
+        {
+            "name": "Song from a Secret Garden",
+            "artist": "Secret Garden",
+            "id": 4278298
+        },
+        {
+            "name": "Infiltrate an Inlet",
+            "artist": "冷罗KS",
+            "id": 1430024593
+        },
+        {
+            "name": "Apologize",
+            "artist": "Martin Ermen",
+            "id": 1784227
+        },
+        {
+            "name": "Suite bergamasque, L.75 - 3. Clair de lune",
+            "artist": "Pascal Rogé",
+            "id": 27682855
+        },
+        {
+            "name": "やまない雨",
+            "artist": "林有三",
+            "id": 463730
+        },
+        {
+            "name": "The promise",
+            "artist": "Secret Garden",
+            "id": 21725725
+        },
+        {
+            "name": "Butterfly Waltz",
+            "artist": "Brian Crain",
+            "id": 1091873
+        },
+        {
+            "name": "Just the Way You Are",
+            "artist": "Top 10 Piano",
+            "id": 570821513
+        },
+        {
+            "name": "Love Letters",
+            "artist": "Christopher Peacock",
+            "id": 1196485
+        },
+        {
+            "name": "Pachelbel's Canon in D",
+            "artist": "Christopher Peacock",
+            "id": 1196850
+        },
+        {
+            "name": "Do You?",
+            "artist": "Yiruma",
+            "id": 22829926
+        },
+        {
+            "name": "STEPPING ON THE RAINY STREET",
+            "artist": "群星",
+            "id": 5271071
+        },
+        {
+            "name": "River Flows in You",
+            "artist": "Yiruma",
+            "id": 26237342
+        },
+        {
+            "name": "Down by the Sally Gardens",
+            "artist": "David Nevue",
+            "id": 1236863
+        },
+        {
+            "name": "拓郎とアズ",
+            "artist": "渡辺俊幸",
+            "id": 537616
+        },
+        {
+            "name": "Land just on the Horizon",
+            "artist": "冷罗KS",
+            "id": 1430029376
+        },
+        {
+            "name": "Believe Me",
+            "artist": "阿保剛",
+            "id": 22722861
+        },
+        {
+            "name": "Always With Me",
+            "artist": "木村弓",
+            "id": 5267808
+        },
+        {
+            "name": "静かな夜に、君と話そう",
+            "artist": "坂本昌一郎",
+            "id": 28699443
+        },
+        {
+            "name": "柠檬树下",
+            "artist": "dylanf",
+            "id": 1351936553
+        },
+        {
+            "name": "四月樱花",
+            "artist": "dylanf",
+            "id": 1355079681
+        },
+        {
+            "name": "Cry for the moon",
+            "artist": "出羽良彰",
+            "id": 28445796
+        },
+        {
+            "name": "Buddhists",
+            "artist": "小瀬村晶",
+            "id": 408140418
+        },
+        {
+            "name": "Tempo",
+            "artist": "Andrei Machado",
+            "id": 28273864
+        },
+        {
+            "name": "Counting Stars",
+            "artist": "Piano Covers Club",
+            "id": 514416805
+        },
+        {
+            "name": "Six Gnossiennes:No.1: Lent",
+            "artist": "Anne Queffélec",
+            "id": 22540898
+        },
+        {
+            "name": "Adagio in B minor, K.540",
+            "artist": "Claudio Arrau",
+            "id": 401716924
+        },
+        {
+            "name": "Dream (1948)",
+            "artist": "John Cage",
+            "id": 1501903
+        },
+        {
+            "name": "The Lark",
+            "artist": "Evgeny Kissin",
+            "id": 405272776
+        },
+        {
+            "name": "Lyric Pieces Book IV, Op.47:No. 3 Melodie",
+            "artist": "Emil Gilels",
+            "id": 17551588
+        },
+        {
+            "name": "The Seasons, Op. 37a:VI. June - Barcarolle",
+            "artist": "郎朗",
+            "id": 34923884
+        },
+        {
+            "name": "Frosoblomster (Froso-Flowers), Book 1, Op. 16:No. 2. Sommarsang (Summer Song)",
+            "artist": "Niklas Sivelov",
+            "id": 465073092
+        },
+        {
+            "name": "Somewhere",
+            "artist": "July",
+            "id": 5307932
+        },
+        {
+            "name": "Refrain",
+            "artist": "阿南亮子",
+            "id": 22712173
+        },
+        {
+            "name": "River Flows In You",
+            "artist": "Martin Ermen",
+            "id": 20110049
+        },
+        {
+            "name": "Rain",
+            "artist": "Tempo",
+            "id": 518891390
+        },
+        {
+            "name": "Purity",
+            "artist": "Painless Destiny",
+            "id": 28692665
+        },
+        {
+            "name": "Bamboo",
+            "artist": "Piano Master",
+            "id": 801827
+        },
+        {
+            "name": "Childhood Memory",
+            "artist": "熱田公紀",
+            "id": 401767
+        },
+        {
+            "name": "canon in d",
+            "artist": "Brian Crain",
+            "id": 1091088
+        },
+        {
+            "name": "Child's Christmas Medley (Jolly Old St. Nicholas, Up On the Housetop, Toyland)",
+            "artist": "Brad Jacobsen",
+            "id": 32337064
+        },
+        {
+            "name": "Twinkle Twinkle Little Star",
+            "artist": "Jon Schmidt",
+            "id": 1491112
+        },
+        {
+            "name": "Air from Orchestral Suite No. 3 in D major, BWV 1068",
+            "artist": "Hamish Milne",
+            "id": 26012224
+        },
+        {
+            "name": "Concerto For Piano And Orchestra No. 5 In F Minor, BWV 1056:II. Largo",
+            "artist": "Glenn Gould",
+            "id": 26883751
+        },
+        {
+            "name": "Minuet in G, BWV Suppl. 114:Minuet in G Major, BWV A 114, and Minuet in G Minor, BWV A 115",
+            "artist": "Marshall McGuire",
+            "id": 440556277
+        },
+        {
+            "name": "Lazaro (Solo Piano Version)",
+            "artist": "Francesco Tristano",
+            "id": 1354632456
+        },
+        {
+            "name": "Patterns",
+            "artist": "Steve Gibbs",
+            "id": 29540375
+        },
+        {
+            "name": "Clair de Lune (from Suite Bergamasque)",
+            "artist": "Kun Woo Paik",
+            "id": 1145380
+        },
+        {
+            "name": "Goldberg Variations, BWV 988:Aria",
+            "artist": "Glenn Gould",
+            "id": 18001009
+        },
+        {
+            "name": "Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto",
+            "artist": "Arthur Rubinstein",
+            "id": 25842621
+        },
+        {
+            "name": "Canon (Over a Basso Ostinato)",
+            "artist": "Peerless 2x2",
+            "id": 5188837
+        },
+        {
+            "name": "Triumph of Love",
+            "artist": "Isaac Shepard",
+            "id": 19934753
+        },
+        {
+            "name": "Week #13",
+            "artist": "Fabrizio Paterlini",
+            "id": 1369848
+        },
+        {
+            "name": "Gymnopedie No.3",
+            "artist": "Pascal Rogé",
+            "id": 32680243
+        },
+        {
+            "name": "The Obscure Streets of Montmartre",
+            "artist": "Laurence Ipsum",
+            "id": 1345131252
+        },
+        {
+            "name": "Sleep Well",
+            "artist": "Laurence Ipsum",
+            "id": 1345131251
+        },
+        {
+            "name": "Paper Lanterns Parade",
+            "artist": "Laurence Ipsum",
+            "id": 1345133111
+        },
+        {
+            "name": "Mirror",
+            "artist": "Laurence Ipsum",
+            "id": 1345133108
+        },
+        {
+            "name": "Night (Orchestral)",
+            "artist": "Laurence Ipsum",
+            "id": 1345133107
+        },
+        {
+            "name": "Moths (Flourescent)",
+            "artist": "Laurence Ipsum",
+            "id": 1345133104
+        },
+        {
+            "name": "Lune Road",
+            "artist": "Laurence Ipsum",
+            "id": 1345133101
+        },
+        {
+            "name": "A Flowing Somberness",
+            "artist": "Laurence Ipsum",
+            "id": 1345133099
+        },
+        {
+            "name": "3 Gymnopédies:I. Lent et douloureux",
+            "artist": "Alain Lefèvre",
+            "id": 1357753226
+        },
+        {
+            "name": "You Send Me (arr. piano)",
+            "artist": "Music Lab Collective",
+            "id": 1353357387
+        },
+        {
+            "name": "Seven Days Walking / Day 1:Golden Butterflies",
+            "artist": "Ludovico Einaudi",
+            "id": 1351917745
+        },
+        {
+            "name": "Seven Days Walking / Day 1:Gravity",
+            "artist": "Ludovico Einaudi",
+            "id": 1351918602
+        },
+        {
+            "name": "Seven Days Walking / Day 1:Low Mist",
+            "artist": "Ludovico Einaudi",
+            "id": 1351917742
+        },
+        {
+            "name": "Dusk",
+            "artist": "Peter Jeremias",
+            "id": 36953776
+        },
+        {
+            "name": "Seven Days Walking / Day 1:Low Mist Var. 1",
+            "artist": "Ludovico Einaudi",
+            "id": 1351917741
+        },
+        {
+            "name": "Prelude in B Minor, Op. 28, No. 6 (Arr. By Chad Lawson for Piano, Violin, Cello)",
+            "artist": "Chad Lawson",
+            "id": 33861072
+        },
+        {
+            "name": "Nocturne in F Minor, Op. 55, No. 1 (Arr. By Chad Lawson for Piano, Violin, Cello)",
+            "artist": "Chad Lawson",
+            "id": 33861071
+        },
+        {
+            "name": "The Friendly Dark",
+            "artist": "Laurence Ipsum",
+            "id": 1338598297
+        },
+        {
+            "name": "Gloria:II. The Prayer: Laudamus te",
+            "artist": "Karl Jenkins",
+            "id": 1344792962
+        },
+        {
+            "name": "Stella Natalis:II. Lullay",
+            "artist": "Karl Jenkins",
+            "id": 1344792961
+        },
+        {
+            "name": "Hymn",
+            "artist": "Karl Jenkins",
+            "id": 1344792960
+        },
+        {
+            "name": "Palladio",
+            "artist": "Karl Jenkins",
+            "id": 1344792959
+        },
+        {
+            "name": "The Armed Man - A Mass For Peace:XII. Benedictus",
+            "artist": "Karl Jenkins",
+            "id": 1344793556
+        },
+        {
+            "name": "Cantilena",
+            "artist": "Karl Jenkins",
+            "id": 1344792958
+        },
+        {
+            "name": "Blind Vision",
+            "artist": "Alexandra Streliski",
+            "id": 1315662265
+        },
+        {
+            "name": "Changing Winds",
+            "artist": "Alexandra Streliski",
+            "id": 1315662263
+        },
+        {
+            "name": "Ellipse",
+            "artist": "Alexandra Streliski",
+            "id": 1315662262
+        },
+        {
+            "name": "Par la fenêtre de Théo",
+            "artist": "Alexandra Streliski",
+            "id": 1315662261
+        },
+        {
+            "name": "The Quiet Voice",
+            "artist": "Alexandra Streliski",
+            "id": 1315659758
+        },
+        {
+            "name": "Plus tôt",
+            "artist": "Alexandra Streliski",
+            "id": 1315662260
+        },
+        {
+            "name": "Mary's Boy Child",
+            "artist": "Alexis Ffrench",
+            "id": 1328051720
+        },
+        {
+            "name": "Winter Nights",
+            "artist": "Alexis Ffrench",
+            "id": 1328053429
+        },
+        {
+            "name": "Chestnuts Roasting on an Open Fire",
+            "artist": "Alexis Ffrench",
+            "id": 1328053428
+        },
+        {
+            "name": "Together At Last",
+            "artist": "Alexis Ffrench",
+            "id": 1328053427
+        },
+        {
+            "name": "Place",
+            "artist": "Luke Howard",
+            "id": 1331797470
+        },
+        {
+            "name": "This",
+            "artist": "Luke Howard",
+            "id": 1331798089
+        },
+        {
+            "name": "Open",
+            "artist": "Luke Howard",
+            "id": 1331797468
+        },
+        {
+            "name": "Gnossiennes:3. Lent",
+            "artist": "Alice Sara Ott",
+            "id": 1304860927
+        },
+        {
+            "name": "Suite bergamasque, L. 75:3. Clair de lune",
+            "artist": "Alice Sara Ott",
+            "id": 1296828197
+        },
+        {
+            "name": "Rêverie, L. 68",
+            "artist": "Alice Sara Ott",
+            "id": 1304861582
+        },
+        {
+            "name": "Gnossiennes:1. Lent",
+            "artist": "Alice Sara Ott",
+            "id": 1304861586
+        },
+        {
+            "name": "Piano Concerto No.12 in A, K.414:1. Allegro",
+            "artist": "Rudolf Serkin",
+            "id": 26965599
+        },
+        {
+            "name": "LEH",
+            "artist": "Martin Kohlstedt",
+            "id": 554724243
+        },
+        {
+            "name": "NIODOM",
+            "artist": "Martin Kohlstedt",
+            "id": 1331374634
+        },
+        {
+            "name": "Concerto Italiano in F Major, BWV 971: II. Andante (Transcribed for Piano)",
+            "artist": "Olga Scheps",
+            "id": 1350392003
+        },
+        {
+            "name": "Gymnopédie No. 1: Lent et douloureux",
+            "artist": "Olga Scheps",
+            "id": 412242542
+        },
+        {
+            "name": "Avril 14th",
+            "artist": "Olga Scheps",
+            "id": 1348828953
+        },
+        {
+            "name": "Nocturnes, Op. 9, No. 2 in E-Flat Major",
+            "artist": "Olga Scheps",
+            "id": 1350395345
+        },
+        {
+            "name": "Memories of a Promenade II",
+            "artist": "Olga Scheps",
+            "id": 1350391997
+        },
+        {
+            "name": "Ab Ovo",
+            "artist": "Joep Beving",
+            "id": 470793090
+        },
+        {
+            "name": "Chi No Oto (Solo Piano Version)",
+            "artist": "Francesco Tristano",
+            "id": 1348838663
+        },
+        {
+            "name": "Six Pieces for Piano, Volume 2:4. La Valse d'Amélie",
+            "artist": "郎朗",
+            "id": 1344737523
+        },
+        {
+            "name": "Kinderszenen, Op.15:7. Träumerei",
+            "artist": "郎朗",
+            "id": 115098
+        },
+        {
+            "name": "Piano Sonata No.10 In C Major, K.330:2. Andante cantabile",
+            "artist": "郎朗",
+            "id": 115055
+        },
+        {
+            "name": "City 40",
+            "artist": "Pieter de Graaf",
+            "id": 564005990
+        },
+        {
+            "name": "Deep Blue",
+            "artist": "Pieter de Graaf",
+            "id": 1352983717
+        },
+        {
+            "name": "Mystic",
+            "artist": "Jackson Mullane",
+            "id": 1343855311
+        },
+        {
+            "name": "Wilds",
+            "artist": "Jackson Mullane",
+            "id": 1343855310
+        },
+        {
+            "name": "Hermitage",
+            "artist": "Jackson Mullane",
+            "id": 1343855309
+        },
+        {
+            "name": "Departures",
+            "artist": "Jackson Mullane",
+            "id": 1343850984
+        },
+        {
+            "name": "Embryo",
+            "artist": "Jackson Mullane",
+            "id": 1343855308
+        },
+        {
+            "name": "Grand Sonata in A:Andantino variato",
+            "artist": "Julian Bream",
+            "id": 1591807
+        },
+        {
+            "name": "Grand Sonata in A:Romanze",
+            "artist": "Julian Bream",
+            "id": 1591804
+        },
+        {
+            "name": "Grand Sonata in A:Allegro risoluto",
+            "artist": "Julian Bream",
+            "id": 1591801
+        },
+        {
+            "name": "Ballade No.1 In G Minor, Op.23",
+            "artist": "Krystian Zimerman",
+            "id": 32696188
+        },
+        {
+            "name": "Waltz No.19 in A minor, Op.posth.",
+            "artist": "Claudio Arrau",
+            "id": 27708297
+        },
+        {
+            "name": "Waltz No. 9 in A flat major, Op. 69 No. 1 'Farewell Waltz'",
+            "artist": "Jean-Marc Luisada",
+            "id": 26818416
+        },
+        {
+            "name": "Les saisons (The Seasons), Op. 37b:No. 6. June: Barcarolle",
+            "artist": "Ilona Prunyi",
+            "id": 27200546
+        },
+        {
+            "name": "6 Morceaux, Op. 19: No. 4. Nocturne (version for cello and orchestra)",
+            "artist": "Maria Kliegel",
+            "id": 27200540
+        },
+        {
+            "name": "Sonata In E Flat, BWV 1031:2. Siciliano",
+            "artist": "Andrea Oliva",
+            "id": 27650571
+        },
+        {
+            "name": "Lieder ohne Worte Op.62:No.6 Allegretto grazioso in A Major -Frühlingslied (Spring Song)",
+            "artist": "András Schiff",
+            "id": 5164972
+        },
+        {
+            "name": "Lagrima (Prelude)",
+            "artist": "Julian Bream",
+            "id": 1591833
+        },
+        {
+            "name": "Stella del Mattino",
+            "artist": "Ludovico Einaudi",
+            "id": 1649335
+        },
+        {
+            "name": "Cache-cache",
+            "artist": "Ludovico Einaudi",
+            "id": 1648640
+        },
+        {
+            "name": "L'origine Nascosta",
+            "artist": "Ludovico Einaudi",
+            "id": 1648635
+        },
+        {
+            "name": "Variations on the Kanon By Pachelbel",
+            "artist": "George Winston",
+            "id": 1374348
+        },
+        {
+            "name": "Nocturne No. 1 in B Flat Minor, Op. 9, No. 1",
+            "artist": "Arthur Rubinstein",
+            "id": 1060910
+        },
+        {
+            "name": "Nocturne No. 2 in E Flat Major, Op. 9, No. 2",
+            "artist": "Arthur Rubinstein",
+            "id": 1060914
+        },
+        {
+            "name": "Nocturne No. 3 in B Major, Op. 9, No. 3",
+            "artist": "Arthur Rubinstein",
+            "id": 1060917
+        },
+        {
+            "name": "Nocturne No. 4 in F Major, Op. 15, No. 1",
+            "artist": "Arthur Rubinstein",
+            "id": 1060920
+        },
+        {
+            "name": "Nocturne No. 5 in F Sharp Major, Op. 15, No. 2",
+            "artist": "Arthur Rubinstein",
+            "id": 1060923
+        }
+    ]
+}
