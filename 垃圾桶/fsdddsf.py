@@ -4,7 +4,7 @@ import json
 folder_path = '关于歌单信息/歌单json'
 
 
-MYSONGS = ['Standing Still', 
+MYSONGS_LIST = ['Standing Still', 
            'The Whisper Of Galaxy', 
            'Everything Flows', 
            'The Breeze Of Dusk', 
@@ -32,21 +32,6 @@ MYSONGS_ID = [
 2013630617]
 
 
+MYSONGS_DICT = {a:b for a,b in zip(MYSONGS_ID,MYSONGS_LIST)}
 
-playlists = [jsonfile for jsonfile in os.listdir(folder_path) if jsonfile.endswith('.json')]
-contained_playlists = []
-
-
-for playlist in playlists:
-    file_path = os.path.join(folder_path,playlist)
-    
-    with open(file_path,'r') as f:
-        fileStr = f.read()
-        if 'Polaranica' in fileStr:
-            contained_playlists.append(playlist)
-
-
-for p in contained_playlists:
-    print(p)
-        
-print(len(contained_playlists))
+print(MYSONGS_DICT)

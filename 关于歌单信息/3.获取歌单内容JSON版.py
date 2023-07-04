@@ -22,7 +22,6 @@ print(f'\033[93m 歌单链接获取完毕\033[0m')
 playlist_num_count = 0
 
 
-
 ALREADY_COLLECTED = str([f for f in os.listdir('关于歌单信息/歌单json') if f.endswith('.json')])
 
 BLACKLIST = ['0','4862334130']

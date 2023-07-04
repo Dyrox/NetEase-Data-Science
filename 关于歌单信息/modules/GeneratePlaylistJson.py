@@ -23,6 +23,8 @@ def generate_playlist_json(playlist_id):
     folder_name = '关于歌单信息/歌单json'
     if not os.path.exists(folder_name):
         os.mkdir(folder_name)
+
+
     
     try:
         playlist_info = get_playlist_info(playlist_id)
