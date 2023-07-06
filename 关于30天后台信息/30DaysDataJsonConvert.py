@@ -1,11 +1,19 @@
 import os
 import csv
 import json
-from modules.Toolkit import convert_timestamp_to_date
+import datetime
+import pytz
+
+def convert_timestamp_to_date(timestamp):
+    timestamp /= 1000
+    dt = datetime.datetime.utcfromtimestamp(timestamp)
+    timezone = pytz.timezone('Asia/Shanghai')
+    dt = dt.replace(tzinfo=pytz.utc).astimezone(timezone)
+    date_str = dt.strftime("%Y-%m-%d")
+    return date_str
 
 
-
-folder_path = '30daysdata'
+folder_path = '关于30天后台信息/30daysdata'
 
 json_files = [jsonfile for jsonfile in os.listdir(folder_path) if jsonfile.endswith('.json')]
 date_added = False
@@ -68,16 +76,14 @@ with open(csvfilepath, 'w', newline='') as csvfile:
 
             #只在第一行加入日期
             if not date_added:
-                writer.writerow(["日期"] + dates)
+                writer.writerow(["歌曲名字"] + dates + ['平均播放量'])
                 date_added = True
             
             song_name = json_file.split('.')[0]
             song_name = song_name.title()
 
             #write the number row on the file_count column
-            writer.writerow([song_name] + data) 
+            writer.writerow([song_name] + data + [sum(data) // len(data)]) 
 
 
 print(f'\033[93m 处理完成\033[0m')
-        
-    
