@@ -1,11 +1,11 @@
 {
     "playlist_info": {
         "name": "一秒入耳 直接上头",
-        "trackcount": 548,
-        "playcount": 1051270,
+        "trackcount": 551,
+        "playcount": 1258890,
         "creator": "Kowpsr",
         "createDate": "2018-03-16",
-        "heat": 544.0
+        "heat": 622.0
     },
     "songs": [
         {
@@ -14,9 +14,94 @@
             "id": 2021279106
         },
         {
-            "name": "Secrets (Orginal mix )",
+            "name": "Gangsta (Orginal mix )",
+            "artist": "Sara",
+            "id": 2054719554
+        },
+        {
+            "name": "Italia e voi (Orginal mix )",
             "artist": "Azeri",
-            "id": 2048271919
+            "id": 2062853835
+        },
+        {
+            "name": "Titanium (feat. Sia) [David Guetta & MORTEN Future Rave Remix]",
+            "artist": "David Guetta",
+            "id": 1870407742
+        },
+        {
+            "name": "Heroes (we could be)",
+            "artist": "Alesso",
+            "id": 29378212
+        },
+        {
+            "name": "Break Free",
+            "artist": "Ariana Grande",
+            "id": 28761177
+        },
+        {
+            "name": "Repeat",
+            "artist": "Chester Young",
+            "id": 2018458208
+        },
+        {
+            "name": "Cyka",
+            "artist": "Russian Village Boys",
+            "id": 1810264325
+        },
+        {
+            "name": "Feel The Beat",
+            "artist": "Raven & Kreyn",
+            "id": 1875417607
+        },
+        {
+            "name": "SanJin Session 16",
+            "artist": "格莱美汇",
+            "id": 1895347547
+        },
+        {
+            "name": "No Twerk feat. Panther & Odalisk (VIP)",
+            "artist": "Panther",
+            "id": 34723989
+        },
+        {
+            "name": "OVERDO$E 2 - RELAP$E",
+            "artist": "Pharmacist",
+            "id": 2012568462
+        },
+        {
+            "name": "Fearless",
+            "artist": "Guapdad 4000",
+            "id": 1914603573
+        },
+        {
+            "name": "POWER (Radio Edit)",
+            "artist": "Epiik",
+            "id": 1826386204
+        },
+        {
+            "name": "Flux",
+            "artist": "3LAU",
+            "id": 1919110586
+        },
+        {
+            "name": "We Never",
+            "artist": "Hi Noise",
+            "id": 1414054917
+        },
+        {
+            "name": "Uber",
+            "artist": "Sevenn",
+            "id": 1425270553
+        },
+        {
+            "name": "Sumo 相扑",
+            "artist": "Lona.X",
+            "id": 1375758808
+        },
+        {
+            "name": "VUK VUK",
+            "artist": "Kordhell",
+            "id": 2032661143
         },
         {
             "name": "Be Something",
@@ -132,11 +217,6 @@
             "name": "Rotten",
             "artist": "YROR?",
             "id": 1874895765
-        },
-        {
-            "name": "Savage",
-            "artist": "Tiësto",
-            "id": 1941657533
         },
         {
             "name": "Bubblegum",
@@ -319,29 +399,9 @@
             "id": 28612173
         },
         {
-            "name": "Real Fire",
-            "artist": "Mystical Complex",
-            "id": 1362603770
-        },
-        {
-            "name": "Let's Chat",
-            "artist": "Paris & Simo",
-            "id": 1376196270
-        },
-        {
             "name": "Spark",
             "artist": "MOTi",
             "id": 1385757372
-        },
-        {
-            "name": "One Last Time",
-            "artist": "Robbe",
-            "id": 1808328503
-        },
-        {
-            "name": "The Best Of Me",
-            "artist": "Dion Timmer",
-            "id": 1329938686
         },
         {
             "name": "It Don’t Matter",
@@ -372,11 +432,6 @@
             "name": "BOUNCE!",
             "artist": "Zack Merci",
             "id": 1938150975
-        },
-        {
-            "name": "dashstar*",
-            "artist": "Knock2",
-            "id": 1905515047
         },
         {
             "name": "Turn It Up",
@@ -414,7 +469,7 @@
             "id": 1862507836
         },
         {
-            "name": "Bamba",
+            "name": "Bamba!",
             "artist": "Armağan Oruç",
             "id": 1892409985
         },
@@ -427,11 +482,6 @@
             "name": "Fool For You (VIP Mix)",
             "artist": "KASTRA",
             "id": 1844087305
-        },
-        {
-            "name": "Uniforms",
-            "artist": "GANGSTER CITY",
-            "id": 1888417621
         },
         {
             "name": "Sky High (feat. Nonô)",
@@ -479,24 +529,9 @@
             "id": 1862753740
         },
         {
-            "name": "Heat",
-            "artist": "Ephwurd",
-            "id": 1370358116
-        },
-        {
             "name": "OBSIDIAN",
             "artist": "ASMODEUS",
             "id": 1868173849
-        },
-        {
-            "name": "Atomic Bomb (feat. Juan Alcasar)",
-            "artist": "Dubdogz",
-            "id": 1449539197
-        },
-        {
-            "name": "Fly With Us",
-            "artist": "AC Slater",
-            "id": 1873050260
         },
         {
             "name": "Tataki",
@@ -507,16 +542,6 @@
             "name": "Losing It",
             "artist": "Fisher",
             "id": 864564034
-        },
-        {
-            "name": "This Feeling",
-            "artist": "my!lane",
-            "id": 1897255962
-        },
-        {
-            "name": "LASER",
-            "artist": "Hardwell",
-            "id": 1956865336
         },
         {
             "name": "Sick Like That (Original Mix)",
@@ -1189,7 +1214,7 @@
             "id": 1449960388
         },
         {
-            "name": "Cyka Blyat",
+            "name": "Сука блядь",
             "artist": "DJ Blyatman",
             "id": 1368324900
         },
@@ -1282,16 +1307,6 @@
             "name": "Rolling",
             "artist": "Wildcap",
             "id": 1327427643
-        },
-        {
-            "name": "Slow Down",
-            "artist": "Madnap",
-            "id": 1356658022
-        },
-        {
-            "name": "Like You!",
-            "artist": "Danny Shark",
-            "id": 1372851456
         },
         {
             "name": "Duality",

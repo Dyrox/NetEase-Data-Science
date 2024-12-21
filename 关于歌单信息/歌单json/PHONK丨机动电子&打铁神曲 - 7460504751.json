@@ -1,13 +1,93 @@
 {
     "playlist_info": {
         "name": "PHONK丨机动电子&打铁神曲",
-        "trackcount": 409,
-        "playcount": 1913822,
+        "trackcount": 429,
+        "playcount": 2170479,
         "creator": "NEON_BOW",
         "createDate": "2022-05-29",
-        "heat": 4829.0
+        "heat": 4454.0
     },
     "songs": [
+        {
+            "name": "Losted",
+            "artist": "Lowx",
+            "id": 2060161151
+        },
+        {
+            "name": "Sea Memories",
+            "artist": "TTM",
+            "id": 2044044350
+        },
+        {
+            "name": "Endless Night",
+            "artist": "Habentub",
+            "id": 2010174935
+        },
+        {
+            "name": "Feel You",
+            "artist": "MAXPVNK",
+            "id": 2063009019
+        },
+        {
+            "name": "Flawless",
+            "artist": "KSLV Noh",
+            "id": 1990562471
+        },
+        {
+            "name": "gxddamn",
+            "artist": "MUPP",
+            "id": 2003181252
+        },
+        {
+            "name": "DOOMSDAY",
+            "artist": "SHADXWBXRN",
+            "id": 2070313333
+        },
+        {
+            "name": "BLACKOUT (feat. Surgeon & Nateki)",
+            "artist": "GhostyPlaya",
+            "id": 1975123054
+        },
+        {
+            "name": "Heavenly Key",
+            "artist": "Glichery",
+            "id": 2055889170
+        },
+        {
+            "name": "Endless Love (Slowed & Reverb)",
+            "artist": "DruGTRaffickerS",
+            "id": 2034142729
+        },
+        {
+            "name": "Keraunos Killer",
+            "artist": "4WHEEL",
+            "id": 1896269399
+        },
+        {
+            "name": "Trend",
+            "artist": "YPD",
+            "id": 2052763780
+        },
+        {
+            "name": "BURN OUT!",
+            "artist": "HXVSAGE",
+            "id": 2061270051
+        },
+        {
+            "name": "Meiyo to Songen",
+            "artist": "Sprnova",
+            "id": 1923651836
+        },
+        {
+            "name": "Miss You",
+            "artist": "bxkq",
+            "id": 2051452070
+        },
+        {
+            "name": "FALLEN ANGEL II (SLOWED)",
+            "artist": "ROCSET MOON",
+            "id": 2055956364
+        },
         {
             "name": "FUTURE SOUL",
             "artist": "ROCSET MOON",
@@ -22,6 +102,11 @@
             "name": "Sea Of Problems",
             "artist": "Glichery",
             "id": 2025457557
+        },
+        {
+            "name": "SO TIRED 2",
+            "artist": "NUEKI",
+            "id": 2052502176
         },
         {
             "name": "Recollection",
@@ -64,9 +149,19 @@
             "id": 1977547993
         },
         {
+            "name": "CHAOS143296.021,641731.42",
+            "artist": "Shibuya Nasu",
+            "id": 2027609746
+        },
+        {
             "name": "IWNERIED",
             "artist": "多佛拉蒙哥",
             "id": 2052706512
+        },
+        {
+            "name": "Caliber(蒙)",
+            "artist": "多佛拉蒙哥",
+            "id": 2063056117
         },
         {
             "name": "anything!",
@@ -84,7 +179,7 @@
             "id": 1973749002
         },
         {
-            "name": "Rays Of Serenity",
+            "name": "Rays of Serenity",
             "artist": "DVRST",
             "id": 1996292489
         },
@@ -147,6 +242,11 @@
             "name": "Blood Stains",
             "artist": "AKIRVTXNSHI",
             "id": 2021590030
+        },
+        {
+            "name": "TIRED OF PROBLEMS",
+            "artist": "NUEKI",
+            "id": 2061508316
         },
         {
             "name": "Chimera",
@@ -212,11 +312,6 @@
             "name": "MERCENARY",
             "artist": "XAN$X",
             "id": 2014671379
-        },
-        {
-            "name": "Breath",
-            "artist": "VK-The Joker",
-            "id": 2033352008
         },
         {
             "name": "LET'S RIDE! (Drift Phonk)",
@@ -355,7 +450,7 @@
         },
         {
             "name": "jeff xchris",
-            "artist": "XyMAil",
+            "artist": "XySober",
             "id": 2037345825
         },
         {
@@ -387,11 +482,6 @@
             "name": "SHADOW DANCE",
             "artist": "SHADXWBXRN",
             "id": 2014774532
-        },
-        {
-            "name": "VANDAL",
-            "artist": "Diutalon",
-            "id": 2040119819
         },
         {
             "name": "J D M",
@@ -634,6 +724,11 @@
             "id": 2016154104
         },
         {
+            "name": "Calm Before the Storm",
+            "artist": "DVRST",
+            "id": 2062087098
+        },
+        {
             "name": "MASSACRE",
             "artist": "KXNVRA",
             "id": 1997011998
@@ -732,6 +827,11 @@
             "name": "DARK SOUL PHONK",
             "artist": "KaznidKox",
             "id": 1996974378
+        },
+        {
+            "name": "Epiphany",
+            "artist": "DVRST",
+            "id": 2059617725
         },
         {
             "name": "I'M SORRY",

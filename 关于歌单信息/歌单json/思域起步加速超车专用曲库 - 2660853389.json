@@ -1,11 +1,11 @@
 {
     "playlist_info": {
         "name": "思域起步加速超车专用曲库",
-        "trackcount": 131,
-        "playcount": 1656035,
+        "trackcount": 130,
+        "playcount": 1872135,
         "creator": "趁我还有一腔热血",
         "createDate": "2019-02-09",
-        "heat": 1034.0
+        "heat": 1106.0
     },
     "songs": [
         {
@@ -47,11 +47,6 @@
             "name": "Move Your Body (RAIZHELL Remix)",
             "artist": "Öwnboss",
             "id": 1969098089
-        },
-        {
-            "name": "Rompasso-Angetenar",
-            "artist": "帝",
-            "id": 2025960537
         },
         {
             "name": "Numb Frozen",
@@ -314,7 +309,7 @@
             "id": 1444529848
         },
         {
-            "name": "ALan-Octopus（DruGTRaffickerS remix）",
+            "name": "Octopus (Original Mix)",
             "artist": "DruGTRaffickerS",
             "id": 1423297895
         },
@@ -429,7 +424,7 @@
             "id": 1470748403
         },
         {
-            "name": "Bouncer（翻自 TangTian） ",
+            "name": "Bouncer（翻自 TangTian）",
             "artist": "TangTian",
             "id": 1418706801
         },

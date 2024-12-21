@@ -1,0 +1,922 @@
+{
+    "playlist_info": {
+        "name": "重低音+鼓点=极致享受",
+        "trackcount": 182,
+        "playcount": 1329040,
+        "creator": "焉归于渊",
+        "createDate": "2019-11-02",
+        "heat": 931.0
+    },
+    "songs": [
+        {
+            "name": "Bandit",
+            "artist": "DJ七七",
+            "id": 2065669099
+        },
+        {
+            "name": "Lenox",
+            "artist": "Fontaine",
+            "id": 2083538805
+        },
+        {
+            "name": "ZER-SLAP",
+            "artist": "@ZERO",
+            "id": 2057013790
+        },
+        {
+            "name": "Sweet Memories",
+            "artist": "CID",
+            "id": 427373563
+        },
+        {
+            "name": "track1",
+            "artist": "光合唱片",
+            "id": 29816049
+        },
+        {
+            "name": "Welcome (Here We Go)",
+            "artist": "Rnbstylerz",
+            "id": 1824622772
+        },
+        {
+            "name": "Disco Treats",
+            "artist": "SCNDL",
+            "id": 1997414823
+        },
+        {
+            "name": "BLACK WINDOWS",
+            "artist": "WYR GEMI",
+            "id": 1979146957
+        },
+        {
+            "name": "Badass",
+            "artist": "BeMax",
+            "id": 1943963375
+        },
+        {
+            "name": "The Runner",
+            "artist": "Yubik",
+            "id": 1963232440
+        },
+        {
+            "name": "One Two shree",
+            "artist": "MaFia",
+            "id": 1945589411
+        },
+        {
+            "name": "Have You Never Been Mellow",
+            "artist": "Keanu Silva",
+            "id": 1418462816
+        },
+        {
+            "name": "Club House Packs Part 11",
+            "artist": "WeiMUSIQUE",
+            "id": 1876223525
+        },
+        {
+            "name": "It's My Life (Dance Edit)",
+            "artist": "Max Oazo",
+            "id": 2004667954
+        },
+        {
+            "name": "REIGN OF ANUBIS",
+            "artist": "OSVISS",
+            "id": 1972130047
+        },
+        {
+            "name": "Italia e voi（Reset）",
+            "artist": "Pnan",
+            "id": 1955571906
+        },
+        {
+            "name": "Bamba!",
+            "artist": "Armağan Oruç",
+            "id": 1892409985
+        },
+        {
+            "name": "Perfect（完美主义）",
+            "artist": "PUUSUN",
+            "id": 1983524772
+        },
+        {
+            "name": "What You Want",
+            "artist": "Ilkay Sencan",
+            "id": 1335350266
+        },
+        {
+            "name": "The Drum and Beat (Radio Edit)",
+            "artist": "DJ KAI",
+            "id": 1806361420
+        },
+        {
+            "name": "Wind Water（风生水起）",
+            "artist": "YPD",
+            "id": 1973135557
+        },
+        {
+            "name": "Xanadu",
+            "artist": "Ummet Ozcan",
+            "id": 1971291768
+        },
+        {
+            "name": "In The Jungle",
+            "artist": "WYR GEMI",
+            "id": 1462114904
+        },
+        {
+            "name": "Back Forth",
+            "artist": "YPD",
+            "id": 1960435362
+        },
+        {
+            "name": "WHAT&OMW (Bootleg)",
+            "artist": "Morello Malt",
+            "id": 1919347736
+        },
+        {
+            "name": "Milking (Radio Mix)",
+            "artist": "Croatia Squad",
+            "id": 406072746
+        },
+        {
+            "name": "I'll Get Seen Then",
+            "artist": "Lucas7",
+            "id": 1469060750
+        },
+        {
+            "name": "Hard Bone（硬骨）",
+            "artist": "YPD",
+            "id": 1948217270
+        },
+        {
+            "name": "M Power",
+            "artist": "Pnan",
+            "id": 1944612067
+        },
+        {
+            "name": "Rihanna-Umbrella（7unknown remix）",
+            "artist": "7unknown",
+            "id": 1454644626
+        },
+        {
+            "name": "Beast Lust",
+            "artist": "YPD",
+            "id": 1933822487
+        },
+        {
+            "name": "Decepticons",
+            "artist": "Aini",
+            "id": 1809328830
+        },
+        {
+            "name": "Angel",
+            "artist": "A-Mase",
+            "id": 1422634614
+        },
+        {
+            "name": "Murder",
+            "artist": "Soulji",
+            "id": 1300600191
+        },
+        {
+            "name": "神秘湘西 (Original Mix)",
+            "artist": "ZHANG JUN（张俊）",
+            "id": 1484080677
+        },
+        {
+            "name": "WTF",
+            "artist": "Poylow",
+            "id": 1837558496
+        },
+        {
+            "name": "Klub",
+            "artist": "AREZ",
+            "id": 1480072347
+        },
+        {
+            "name": "Altai",
+            "artist": "Rompasso",
+            "id": 1412258606
+        },
+        {
+            "name": "Today",
+            "artist": "Foyon",
+            "id": 1842561393
+        },
+        {
+            "name": "Suavemente",
+            "artist": "Beowülf",
+            "id": 506139165
+        },
+        {
+            "name": "Nigga",
+            "artist": "Akif Sarıkaya",
+            "id": 1488445122
+        },
+        {
+            "name": "Golden Ticket",
+            "artist": "Rnbstylerz",
+            "id": 1477751205
+        },
+        {
+            "name": "LED Spirals",
+            "artist": "Le Castle Vania",
+            "id": 30355289
+        },
+        {
+            "name": "光粒（Light Particle）",
+            "artist": "BOY",
+            "id": 1901838921
+        },
+        {
+            "name": "Italia e voi（Orginal Mix）",
+            "artist": "HSHK",
+            "id": 1493816591
+        },
+        {
+            "name": "Beyond",
+            "artist": "AREZ",
+            "id": 1480192612
+        },
+        {
+            "name": "Depravity",
+            "artist": "ᴇᴀ⁷ преступник",
+            "id": 1469039328
+        },
+        {
+            "name": "Selena Gomez-Back To You（J.Ale / L.Chen remix）",
+            "artist": "J.Ale",
+            "id": 1452449261
+        },
+        {
+            "name": "GUCCI（Orginal Mix）",
+            "artist": "HSHK",
+            "id": 1499917240
+        },
+        {
+            "name": "J. Balvin-Mi Gente（zZAZz remix）",
+            "artist": "zZAZz",
+            "id": 1818009713
+        },
+        {
+            "name": "Mercenary",
+            "artist": "F.O.O.L",
+            "id": 1483373454
+        },
+        {
+            "name": "Collars",
+            "artist": "G-POL",
+            "id": 1809764481
+        },
+        {
+            "name": "Không Sao Mà Em Đây Rồi",
+            "artist": "AREZ",
+            "id": 1473704094
+        },
+        {
+            "name": "Goosebumps",
+            "artist": "HVME",
+            "id": 1447573604
+        },
+        {
+            "name": "Morsmordre (ZHANG JUN Remix)",
+            "artist": "ZHANG JUN（张俊）",
+            "id": 1821548580
+        },
+        {
+            "name": "Criminal",
+            "artist": "DEITIES",
+            "id": 1814505448
+        },
+        {
+            "name": "Desanimado",
+            "artist": "Prime",
+            "id": 1305815005
+        },
+        {
+            "name": "Oriente",
+            "artist": "INNDRIVE",
+            "id": 1331479338
+        },
+        {
+            "name": "Back and Forth",
+            "artist": "Tom Holland",
+            "id": 1853067263
+        },
+        {
+            "name": "Cash",
+            "artist": "Aini",
+            "id": 1806095814
+        },
+        {
+            "name": "Everybody",
+            "artist": "Steff Da Campo",
+            "id": 1363905876
+        },
+        {
+            "name": "Sweet Dreams",
+            "artist": "Trinix",
+            "id": 1424573815
+        },
+        {
+            "name": "Queen-We Will Rock You（9DIUZ / 张鹤方 remix）",
+            "artist": "9DIUZ",
+            "id": 1826032121
+        },
+        {
+            "name": "Take You Dancing (R3HAB Remix)",
+            "artist": "Jason Derulo",
+            "id": 1472727501
+        },
+        {
+            "name": "Summer Up",
+            "artist": "Khiska",
+            "id": 1810631740
+        },
+        {
+            "name": "New Rules (Enes Yurtlu Remix)",
+            "artist": "Enes Yurtlu",
+            "id": 1424558406
+        },
+        {
+            "name": "Calavera (Original Edit)",
+            "artist": "Klaas",
+            "id": 33955931
+        },
+        {
+            "name": "Down for U (Radio Mix)",
+            "artist": "Lika Morgan",
+            "id": 560747983
+        },
+        {
+            "name": "Living for the Moment (Croatia Squad Radio Mix)",
+            "artist": "Me & My Toothbrush",
+            "id": 561798030
+        },
+        {
+            "name": "Zambia (Original Mix)",
+            "artist": "Nora En Pure",
+            "id": 411236345
+        },
+        {
+            "name": "Pop Dat",
+            "artist": "KEAN DYSSO",
+            "id": 1364507434
+        },
+        {
+            "name": "Leave the lights on (Stoto remix)",
+            "artist": "Meiko",
+            "id": 33291727
+        },
+        {
+            "name": "Work (Original Mix)",
+            "artist": "Andrey Exx & Hot Hotels",
+            "id": 554720499
+        },
+        {
+            "name": "Maroon 5-One More Night（zZAZz remix）",
+            "artist": "zZAZz",
+            "id": 1494476384
+        },
+        {
+            "name": "Catch Fire/Spada/Anna Leyne/EDX-Catch Fire (Sun Sun Sun)（皇阿玛Remix Remix）",
+            "artist": "丰子凯Remix",
+            "id": 1362520750
+        },
+        {
+            "name": "Shape Of You",
+            "artist": "MINGYANG",
+            "id": 1394009854
+        },
+        {
+            "name": "Tokyo Project-Siren（VaSka / 恩赐 remix）",
+            "artist": "VaSka",
+            "id": 1803801708
+        },
+        {
+            "name": "Diamond Cut Diamond (Original Mix)",
+            "artist": "Worry Free Studios",
+            "id": 1830225972
+        },
+        {
+            "name": "Rompasso-Angetenar 2020（ISZTT remix）",
+            "artist": "Uzller",
+            "id": 1417825384
+        },
+        {
+            "name": "No Stop (Club Mix)",
+            "artist": "Maga",
+            "id": 1467546293
+        },
+        {
+            "name": "Moonlight",
+            "artist": "Gaullin",
+            "id": 1306534099
+        },
+        {
+            "name": "Moskau",
+            "artist": "DOPEDROP",
+            "id": 475279147
+        },
+        {
+            "name": "Step Back",
+            "artist": "BVX",
+            "id": 1318827940
+        },
+        {
+            "name": "Animality",
+            "artist": "Maga",
+            "id": 1415645455
+        },
+        {
+            "name": "Predator",
+            "artist": "WYR GEMI",
+            "id": 1448658697
+        },
+        {
+            "name": "ily",
+            "artist": "7evens",
+            "id": 1467558127
+        },
+        {
+            "name": "Roll",
+            "artist": "Gustavo Mota",
+            "id": 1300159228
+        },
+        {
+            "name": "SA-MY-D",
+            "artist": "Hedegaard",
+            "id": 1349198586
+        },
+        {
+            "name": "Uber (Extended Mix)",
+            "artist": "Sevenn",
+            "id": 1433409547
+        },
+        {
+            "name": "Cinnamone-Summertime（念宸 / 情白 remix）",
+            "artist": "念宸",
+            "id": 1470977029
+        },
+        {
+            "name": "Kina-Can We Kiss Forever Deep Mix（Savior remix）",
+            "artist": "Savior",
+            "id": 1467121320
+        },
+        {
+            "name": "Clean Bandit-Solo（Nurselim Boy / DruGTRaffickerS remix）",
+            "artist": "Eal7 NS",
+            "id": 1384178569
+        },
+        {
+            "name": "NOT SO BAD",
+            "artist": "Fecko Boltz",
+            "id": 1420917065
+        },
+        {
+            "name": "Gopnik",
+            "artist": "DJ Blyatman",
+            "id": 1348770762
+        },
+        {
+            "name": "Battle Theme",
+            "artist": "明洋",
+            "id": 1358003389
+        },
+        {
+            "name": "It's windy",
+            "artist": "我不是鞋神",
+            "id": 1347022166
+        },
+        {
+            "name": "植物大战僵尸（7Grams&DiESi Bootleg）",
+            "artist": "DiESi",
+            "id": 1387591467
+        },
+        {
+            "name": "Sueta",
+            "artist": "ALEXEMELYA",
+            "id": 1423030096
+        },
+        {
+            "name": "A.H.A.M",
+            "artist": "D-Groov",
+            "id": 1398880002
+        },
+        {
+            "name": "Wild Out",
+            "artist": "Platinum Doug",
+            "id": 497223010
+        },
+        {
+            "name": "Sin or the rum",
+            "artist": "Peterovic",
+            "id": 1447552027
+        },
+        {
+            "name": "Love Right Here (Original Mix)",
+            "artist": "Twenty Feet Down",
+            "id": 399411800
+        },
+        {
+            "name": "Reality",
+            "artist": "Eedion",
+            "id": 1433079105
+        },
+        {
+            "name": "San Andreas (Radio Edit)",
+            "artist": "Groove Delight",
+            "id": 865309738
+        },
+        {
+            "name": "Samsara (instrumental)",
+            "artist": "Tungevaag & Raaban",
+            "id": 435289750
+        },
+        {
+            "name": "So Fresh",
+            "artist": "Patriky Bonny",
+            "id": 1325973276
+        },
+        {
+            "name": "Criminals",
+            "artist": "Rezz",
+            "id": 1394899704
+        },
+        {
+            "name": "Brown Sugar (Original Mix)",
+            "artist": "Platinum Doug",
+            "id": 31838181
+        },
+        {
+            "name": "Воображение",
+            "artist": "Max Strugay",
+            "id": 864041038
+        },
+        {
+            "name": "Rezz-Lost Mixing female（DruGTRaffickerS remix）",
+            "artist": "DruGTRaffickerS",
+            "id": 1333940962
+        },
+        {
+            "name": "WET",
+            "artist": "Wax Motif",
+            "id": 1369535258
+        },
+        {
+            "name": "BRB",
+            "artist": "Valentino Khan",
+            "id": 1380428056
+        },
+        {
+            "name": "All About That Bass (Raveboiz Radio Edit)",
+            "artist": "twoloud",
+            "id": 553933113
+        },
+        {
+            "name": "4 Real (Drezo Remix)",
+            "artist": "Ty Dolla $ign",
+            "id": 526618038
+        },
+        {
+            "name": "Pump",
+            "artist": "Valentino Khan",
+            "id": 480427338
+        },
+        {
+            "name": "JIEBOSS-Car.5（JIEBOSS remix）",
+            "artist": "JIEBOSS",
+            "id": 557250368
+        },
+        {
+            "name": "aEZi-ayaya（冯冯YON / aEZi remix）",
+            "artist": "TangTian",
+            "id": 1412899148
+        },
+        {
+            "name": "****ed Up (Original Mix)",
+            "artist": "Dirty Palm",
+            "id": 479028360
+        },
+        {
+            "name": "EA7-Fck The Music (Original Mix)",
+            "artist": "еяхат музыка",
+            "id": 542136859
+        },
+        {
+            "name": "R E P L I C A",
+            "artist": "1788-L",
+            "id": 545592054
+        },
+        {
+            "name": "No Girlfriend No Problem (Original Mix)",
+            "artist": "Rainer Mizu",
+            "id": 506977968
+        },
+        {
+            "name": "Legenda (Original Mix)",
+            "artist": "Alwa Game",
+            "id": 862881959
+        },
+        {
+            "name": "Void",
+            "artist": "KTRL",
+            "id": 526470871
+        },
+        {
+            "name": "Shelter (Madeon's Evil Edit)",
+            "artist": "Madeon",
+            "id": 1334297091
+        },
+        {
+            "name": "Living For The Moment (Croatia Squad Remix)",
+            "artist": "Me & My Toothbrush",
+            "id": 420125428
+        },
+        {
+            "name": "I'm The Sexy Girl (Original Mix)",
+            "artist": "DJMuchY",
+            "id": 552257337
+        },
+        {
+            "name": "Party Shaker (PH Electro Radio Edit)",
+            "artist": "R.I.O.",
+            "id": 26389052
+        },
+        {
+            "name": "Flow",
+            "artist": "Dirty Palm",
+            "id": 474574853
+        },
+        {
+            "name": "Splash",
+            "artist": "Dirty Palm",
+            "id": 1306366073
+        },
+        {
+            "name": "Breathe",
+            "artist": "ZABO",
+            "id": 1314751313
+        },
+        {
+            "name": "Brass",
+            "artist": "Dirty Rush & Gregor Es",
+            "id": 500412055
+        },
+        {
+            "name": "Ready (Extended Mix)",
+            "artist": "Lucky Charmes",
+            "id": 408772573
+        },
+        {
+            "name": "#тамада (Сингл)",
+            "artist": "Wooshendoo",
+            "id": 1360740756
+        },
+        {
+            "name": "Peanut Butter",
+            "artist": "CARTA",
+            "id": 1310320756
+        },
+        {
+            "name": "Human",
+            "artist": "HVDES",
+            "id": 1376250956
+        },
+        {
+            "name": "Shiva (Radio Edit)",
+            "artist": "MD DJ",
+            "id": 558148812
+        },
+        {
+            "name": "Push",
+            "artist": "lick",
+            "id": 519342682
+        },
+        {
+            "name": "BODY",
+            "artist": "LICK",
+            "id": 1381738557
+        },
+        {
+            "name": "Маргаашийн Нар луу Хамт Аялах уу?",
+            "artist": "UKA",
+            "id": 1410633193
+        },
+        {
+            "name": "RSAC-NBA（NUANHAO / MINGYANG remix）",
+            "artist": "NUANHAO",
+            "id": 1385929681
+        },
+        {
+            "name": "Come Again",
+            "artist": "Lucky Charmes",
+            "id": 524300631
+        },
+        {
+            "name": "11PM",
+            "artist": "LICK",
+            "id": 563733562
+        },
+        {
+            "name": "Double Cup",
+            "artist": "CARTA",
+            "id": 546597001
+        },
+        {
+            "name": "Top hard tune",
+            "artist": "GRABOTE",
+            "id": 1352575830
+        },
+        {
+            "name": "Blockin (Raveboiz Edit)",
+            "artist": "KYANU",
+            "id": 1297799895
+        },
+        {
+            "name": "Earthquake (Radio Edit)",
+            "artist": "Anthony Keyrouz",
+            "id": 487003072
+        },
+        {
+            "name": "Calabria",
+            "artist": "Cat Dealers",
+            "id": 511236067
+        },
+        {
+            "name": "Fukka (Original Mix)",
+            "artist": "David Puentez",
+            "id": 454966835
+        },
+        {
+            "name": "Let's Escape (Lucky Charmes Remix)",
+            "artist": "Vigiland",
+            "id": 458725731
+        },
+        {
+            "name": "Old Town Road (ANGEMI G-House Remix)",
+            "artist": "ANGEMI",
+            "id": 1377289570
+        },
+        {
+            "name": "U",
+            "artist": "Jarico",
+            "id": 1361913825
+        },
+        {
+            "name": "Want Love",
+            "artist": "JLV",
+            "id": 1348588759
+        },
+        {
+            "name": "дьявол ( EA7 Remix )",
+            "artist": "еяхат музыка",
+            "id": 546488667
+        },
+        {
+            "name": "No Introduction",
+            "artist": "Dr. Fresch",
+            "id": 865962359
+        },
+        {
+            "name": "Broken Love",
+            "artist": "Fella",
+            "id": 1362743850
+        },
+        {
+            "name": "Alcoholic",
+            "artist": "Frey",
+            "id": 543006228
+        },
+        {
+            "name": "< @_@ > < @_@ >",
+            "artist": "Rezz",
+            "id": 509728989
+        },
+        {
+            "name": "I Won't Lie",
+            "artist": "Krimsonn",
+            "id": 1378371937
+        },
+        {
+            "name": "Twisted",
+            "artist": "KTRL",
+            "id": 1339897258
+        },
+        {
+            "name": "Feel (Radio Edit)",
+            "artist": "Mahmut Orhan",
+            "id": 412785125
+        },
+        {
+            "name": "EA7_SEVEN_FIRST. 2",
+            "artist": "7先森",
+            "id": 471761809
+        },
+        {
+            "name": "David & Goliath (Extended Mix)",
+            "artist": "Jonas Aden",
+            "id": 470771043
+        },
+        {
+            "name": "Fire",
+            "artist": "Dr. Fresch",
+            "id": 863438167
+        },
+        {
+            "name": "Hit A Line",
+            "artist": "Dualmind",
+            "id": 474764315
+        },
+        {
+            "name": "Crusade",
+            "artist": "ZABO",
+            "id": 1347214184
+        },
+        {
+            "name": "Inside Out",
+            "artist": "ItaloBrothers",
+            "id": 1309975421
+        },
+        {
+            "name": "Scandals",
+            "artist": "Aztec",
+            "id": 1313255030
+        },
+        {
+            "name": "Danger",
+            "artist": "Deathpact",
+            "id": 865749777
+        },
+        {
+            "name": "Let Me See",
+            "artist": "Haechi",
+            "id": 515803250
+        },
+        {
+            "name": "Music Is Magic (DCUP Deep Bitch Remix)",
+            "artist": "Silverstar",
+            "id": 26478972
+        },
+        {
+            "name": "Gravity",
+            "artist": "Tolein",
+            "id": 34775458
+        },
+        {
+            "name": "Addicted To Your Love",
+            "artist": "Million Dollar Weekends",
+            "id": 417250672
+        },
+        {
+            "name": "Make You Hustle",
+            "artist": "Croatia Squad",
+            "id": 475073477
+        },
+        {
+            "name": "Jason.c-COCO (Jason.c Extended Mix)（Jason.c Remix）",
+            "artist": "Jason.c",
+            "id": 1314794977
+        },
+        {
+            "name": "Move On",
+            "artist": "Platinum Doug",
+            "id": 461518866
+        },
+        {
+            "name": "Keke",
+            "artist": "Lucky Luke",
+            "id": 1325898542
+        },
+        {
+            "name": "With U  (Original Mix)",
+            "artist": "Frey",
+            "id": 485607248
+        },
+        {
+            "name": "Droppin (Original Mix)",
+            "artist": "Tom Reason",
+            "id": 526412093
+        },
+        {
+            "name": "Jason.c - Earthquake(Jason.c Extended Mix)",
+            "artist": "Jason.c",
+            "id": 487387216
+        },
+        {
+            "name": "Cooler Than Me (Radio Edit)",
+            "artist": "Lucky Luke",
+            "id": 1365398014
+        },
+        {
+            "name": "Fiery Sky",
+            "artist": "Jarico",
+            "id": 1325896666
+        },
+        {
+            "name": "Mans Not Hot (Deep)",
+            "artist": "GRABOTE",
+            "id": 1325125720
+        }
+    ]
+}

@@ -1,11 +1,11 @@
 {
     "playlist_info": {
         "name": "运动系 | 阳光洒落在 我朝你奔跑的心里",
-        "trackcount": 69,
-        "playcount": 523919,
+        "trackcount": 70,
+        "playcount": 527892,
         "creator": "尘埃之海",
         "createDate": "2021-02-25",
-        "heat": 613.0
+        "heat": 558.0
     },
     "songs": [
         {
@@ -52,6 +52,11 @@
             "name": "Always Running",
             "artist": "Vicetone",
             "id": 1972543189
+        },
+        {
+            "name": "Go Solo",
+            "artist": "Zwette",
+            "id": 1401522756
         },
         {
             "name": "We Used To Love",
@@ -235,7 +240,7 @@
         },
         {
             "name": "Fireworks (feat. Moss Kena & The Knocks)",
-            "artist": "Purple Disco Machine",
+            "artist": "Moss Kena",
             "id": 1813842697
         },
         {

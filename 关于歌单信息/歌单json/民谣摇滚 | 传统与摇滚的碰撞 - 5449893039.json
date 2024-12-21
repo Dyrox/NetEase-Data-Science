@@ -2,101 +2,66 @@
     "playlist_info": {
         "name": "民谣摇滚 | 传统与摇滚的碰撞",
         "trackcount": 30,
-        "playcount": 3286983,
+        "playcount": 3350417,
         "creator": "云音乐官方歌单",
         "createDate": "2021-01-06",
-        "heat": 3638.0
+        "heat": 3366.0
     },
     "songs": [
         {
-            "name": "Bella",
+            "name": "The Devil's Tears",
             "artist": "Angus & Julia Stone",
-            "id": 3884611
+            "id": 19466008
         },
         {
-            "name": "Angela",
-            "artist": "The Lumineers",
-            "id": 409149453
+            "name": "The Engine Driver",
+            "artist": "The Decemberists",
+            "id": 4341056
         },
         {
-            "name": "I Have Been to the Mountain",
-            "artist": "Kevin Morby",
-            "id": 409941542
-        },
-        {
-            "name": "Over Everything",
-            "artist": "Courtney Barnett",
-            "id": 507246067
-        },
-        {
-            "name": "Sunblind",
-            "artist": "Fleet Foxes",
-            "id": 1480533117
-        },
-        {
-            "name": "Hush",
+            "name": "Big Jet Plane",
             "artist": "Angus & Julia Stone",
-            "id": 19466005
+            "id": 19465999
         },
         {
-            "name": "Singing Saw",
-            "artist": "Kevin Morby",
-            "id": 409941543
+            "name": "Little Lion Man",
+            "artist": "Mumford & Sons",
+            "id": 17212698
         },
         {
-            "name": "Cello Drop",
-            "artist": "Oysterband",
-            "id": 1359465731
+            "name": "Wild World",
+            "artist": "Yusuf / Cat Stevens",
+            "id": 16970423
         },
         {
-            "name": "Commotion",
-            "artist": "Creedence Clearwater Revival",
-            "id": 20545051
+            "name": "High Germany",
+            "artist": "Pentangle",
+            "id": 3253888
         },
         {
-            "name": "Last November",
-            "artist": "Fotheringay",
-            "id": 2603881
+            "name": "Father And Son",
+            "artist": "Yusuf / Cat Stevens",
+            "id": 16970436
         },
         {
-            "name": "Cross-Tie Walker",
-            "artist": "Creedence Clearwater Revival",
-            "id": 27215126
+            "name": "The Crane Wife 1 & 2",
+            "artist": "The Decemberists",
+            "id": 22551518
         },
         {
-            "name": "Get Together",
-            "artist": "The Youngbloods",
-            "id": 4363258
+            "name": "Try",
+            "artist": "Neil Young",
+            "id": 1447930791
         },
         {
-            "name": "If My Love Loves Me",
-            "artist": "June Tabor",
-            "id": 1453456674
+            "name": "The Weight (Remastered)",
+            "artist": "The Band",
+            "id": 1861576130
         },
         {
-            "name": "Carolina In My Mind",
-            "artist": "Carole King",
-            "id": 1487689
-        },
-        {
-            "name": "The Sunnyside of the Street",
-            "artist": "The Pogues",
-            "id": 4342331
-        },
-        {
-            "name": "Requiem",
-            "artist": "Blitzen Trapper",
-            "id": 1440287376
-        },
-        {
-            "name": "Butchie's Tune",
-            "artist": "The Lovin' Spoonful",
-            "id": 19419845
-        },
-        {
-            "name": "Pop Plinn",
-            "artist": "Alan Stivell",
-            "id": 1037080
+            "name": "Prison Grove",
+            "artist": "Warren Zevon",
+            "id": 19778543
         },
         {
             "name": "Fear Is Like a Forest",
@@ -104,14 +69,9 @@
             "id": 507246069
         },
         {
-            "name": "Fishin' Blues (Alternate Take/Previously Unreleased)",
-            "artist": "The Lovin' Spoonful",
-            "id": 19419847
-        },
-        {
-            "name": "The Songs of National Freedom",
-            "artist": "Richard Swift",
-            "id": 1305806246
+            "name": "All I Really Want to Do",
+            "artist": "The Byrds",
+            "id": 32147837
         },
         {
             "name": "Long Goodbye",
@@ -119,44 +79,84 @@
             "id": 498549098
         },
         {
+            "name": "In This Camp",
+            "artist": "Midlake",
+            "id": 17323680
+        },
+        {
+            "name": "Son David",
+            "artist": "June Tabor",
+            "id": 1453456672
+        },
+        {
+            "name": "Jug Band Music (Alternate Instrumental Version/Previously Unreleased)",
+            "artist": "The Lovin' Spoonful",
+            "id": 19419849
+        },
+        {
             "name": "Lady Diamond",
             "artist": "Steeleye Span",
             "id": 22535350
         },
         {
-            "name": "Burn That Broken Bed",
-            "artist": "Iron & Wine",
-            "id": 1459882
+            "name": "Milly's Garden",
+            "artist": "Steve Gunn",
+            "id": 29477086
         },
         {
-            "name": "The Ship",
+            "name": "Good Time for a Fiddle and Bow / The Christmas Eve Reel",
+            "artist": "Fairport Convention",
+            "id": 1430019651
+        },
+        {
+            "name": "Baby",
+            "artist": "The King Of Luxembourg",
+            "id": 548053333
+        },
+        {
+            "name": "Sleep Better",
+            "artist": "Pete Yorn",
+            "id": 27594864
+        },
+        {
+            "name": "Wild Side (Oh the Places You'll Go)",
+            "artist": "Kevin Morby",
+            "id": 28037850
+        },
+        {
+            "name": "Shine on Love",
+            "artist": "Richard Thompson",
+            "id": 1890818
+        },
+        {
+            "name": "How Many Miles to Babylon?",
             "artist": "The Albion Band",
-            "id": 560277276
+            "id": 1461400050
         },
         {
-            "name": "Wedding Dress",
-            "artist": "Pentangle",
-            "id": 3253519
+            "name": "She's A Lover",
+            "artist": "John Martyn",
+            "id": 26789362
         },
         {
-            "name": "Lazy (2005 Remaster)",
-            "artist": "Lindisfarne",
-            "id": 22340736
+            "name": "This Town",
+            "artist": "Oysterband",
+            "id": 1359466527
         },
         {
-            "name": "The Singing Cowboy (Album Version)",
-            "artist": "Beau Brummels",
-            "id": 19344166
+            "name": "Everybody Takes a Tumble",
+            "artist": "The Waterboys",
+            "id": 19459842
         },
         {
-            "name": "Diese Welt Ist Mein Zuhause",
-            "artist": "Tilman Rossmy Quartett",
-            "id": 1436425083
+            "name": "Looking out My Window",
+            "artist": "Slow Leaves",
+            "id": 1437545601
         },
         {
-            "name": "LONG TIME (LP Version)",
-            "artist": "The Rose Garden",
-            "id": 19497016
+            "name": "You Won't See The Light (2019 Remaster)",
+            "artist": "Strawbs",
+            "id": 1406193386
         }
     ]
 }

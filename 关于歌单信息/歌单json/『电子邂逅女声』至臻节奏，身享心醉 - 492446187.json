@@ -1,11 +1,11 @@
 {
     "playlist_info": {
         "name": "『电子邂逅女声』至臻节奏，身享心醉",
-        "trackcount": 50,
-        "playcount": 5910854,
+        "trackcount": 51,
+        "playcount": 5937867,
         "creator": "萌德不萌",
         "createDate": "2016-10-22",
-        "heat": 2421.0
+        "heat": 2345.0
     },
     "songs": [
         {
@@ -19,7 +19,7 @@
             "id": 1371069945
         },
         {
-            "name": " Alone",
+            "name": "Alone",
             "artist": "FrogMonster",
             "id": 1364751214
         },
@@ -27,6 +27,11 @@
             "name": "Nobody",
             "artist": "Danelle Sandoval",
             "id": 426850398
+        },
+        {
+            "name": "Lost Soul",
+            "artist": "S70S",
+            "id": 2078446534
         },
         {
             "name": "Solo Dance",

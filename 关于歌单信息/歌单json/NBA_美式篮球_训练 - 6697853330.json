@@ -1,15 +1,25 @@
 {
     "playlist_info": {
         "name": "NBA_美式篮球_训练",
-        "trackcount": 169,
-        "playcount": 1840750,
-        "creator": "人间之子-",
+        "trackcount": 168,
+        "playcount": 1976131,
+        "creator": "y颜人中",
         "createDate": "2021-04-05",
-        "heat": 2249.0
+        "heat": 2180.0
     },
     "songs": [
         {
-            "name": "\"Still K.I.N.G\"—Boombap Type Beat",
+            "name": "Sacred Play Secret Place",
+            "artist": "Matryoshka",
+            "id": 26093064
+        },
+        {
+            "name": "Adderall",
+            "artist": "Popp Hunna",
+            "id": 1486654728
+        },
+        {
+            "name": "\"Still K.I.N.G\"—Boombap Beat",
             "artist": "KINGOFJ",
             "id": 2029287952
         },
@@ -249,7 +259,7 @@
             "id": 1444959592
         },
         {
-            "name": "In The End",
+            "name": "In the End",
             "artist": "Linkin Park",
             "id": 4153632
         },
@@ -310,7 +320,7 @@
         },
         {
             "name": "Rentz-Alone（Nzi Jian remix）",
-            "artist": "Nzi Jian",
+            "artist": "Necy",
             "id": 1934264835
         },
         {
@@ -434,11 +444,6 @@
             "id": 568098114
         },
         {
-            "name": "Me, Myself & I",
-            "artist": "G-Eazy",
-            "id": 1803511479
-        },
-        {
             "name": "Flash Funk (Marshmello Remix)",
             "artist": "英雄联盟",
             "id": 400161903
@@ -452,11 +457,6 @@
             "name": "Episode 33",
             "artist": "She Her Her Hers",
             "id": 1311427648
-        },
-        {
-            "name": "Alibi (Far Out Remix)",
-            "artist": "Far Out",
-            "id": 863515475
         },
         {
             "name": "Love Story",
@@ -817,11 +817,6 @@
             "name": "Lordly (feat. Alex Aiono) [MDZN Remix]",
             "artist": "Alex Aiono",
             "id": 442562232
-        },
-        {
-            "name": "水晶 (Live)",
-            "artist": "GALI",
-            "id": 1474621496
         },
         {
             "name": "23",

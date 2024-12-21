@@ -1,13 +1,18 @@
 {
     "playlist_info": {
         "name": "彭于晏自律歌单",
-        "trackcount": 160,
-        "playcount": 742159,
+        "trackcount": 161,
+        "playcount": 758921,
         "creator": "湖南下大雨",
         "createDate": "2018-11-30",
-        "heat": 443.0
+        "heat": 430.0
     },
     "songs": [
+        {
+            "name": "Scared 2 Be Lonely",
+            "artist": "Lil Tjay",
+            "id": 2063378636
+        },
         {
             "name": "Surround Sound",
             "artist": "JID",
@@ -405,7 +410,7 @@
         },
         {
             "name": "Sold Out",
-            "artist": "Hawk Nelson",
+            "artist": "Jonathan Steingard",
             "id": 31010566
         },
         {
@@ -620,7 +625,7 @@
         },
         {
             "name": "despair",
-            "artist": "YINSHENG",
+            "artist": "Flower Kiss",
             "id": 550829288
         },
         {

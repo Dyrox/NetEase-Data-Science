@@ -1,13 +1,23 @@
 {
     "playlist_info": {
         "name": "梦想路上，我们需要力量（励志歌单）",
-        "trackcount": 200,
-        "playcount": 989291,
+        "trackcount": 201,
+        "playcount": 1045378,
         "creator": "想念科比的第N天",
         "createDate": "2015-06-19",
-        "heat": 336.0
+        "heat": 345.0
     },
     "songs": [
+        {
+            "name": "妳啊",
+            "artist": "邵子陈",
+            "id": 2068401251
+        },
+        {
+            "name": "篇章",
+            "artist": "张韶涵",
+            "id": 1943043408
+        },
         {
             "name": "谁能明白我 (奋斗版)",
             "artist": "大笨",
@@ -267,11 +277,6 @@
             "name": "愿我能",
             "artist": "Beyond",
             "id": 346074
-        },
-        {
-            "name": "鸿鹄志",
-            "artist": "耳光乐队",
-            "id": 353993
         },
         {
             "name": "在路上",

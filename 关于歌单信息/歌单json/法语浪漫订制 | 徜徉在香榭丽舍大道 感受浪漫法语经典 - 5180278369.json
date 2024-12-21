@@ -2,51 +2,46 @@
     "playlist_info": {
         "name": "法语浪漫订制 | 徜徉在香榭丽舍大道 感受浪漫法语经典",
         "trackcount": 20,
-        "playcount": 3714852,
+        "playcount": 3744375,
         "creator": "云音乐官方歌单",
         "createDate": "2020-08-14",
-        "heat": 3542.0
+        "heat": 3283.0
     },
     "songs": [
         {
-            "name": "L'amour Est Bleu",
-            "artist": "Clémentine",
-            "id": 2311538
+            "name": "Decrocher Les Etoiles",
+            "artist": "Keren Ann",
+            "id": 19001823
         },
         {
-            "name": "Cap Diamant",
-            "artist": "Cœur de pirate",
-            "id": 2309155
+            "name": "Solitaire",
+            "artist": "17 Hippies",
+            "id": 16148508
         },
         {
-            "name": "Neige",
-            "artist": "Cécile Corbel",
-            "id": 36019606
+            "name": "Mon Dieu",
+            "artist": "Édith Piaf",
+            "id": 2531037
         },
         {
-            "name": "Danser Sur Le Disco",
-            "artist": "La Grande Sophie",
-            "id": 21014925
-        },
-        {
-            "name": "Mélancolie",
-            "artist": "Yves Duteil",
-            "id": 511825250
-        },
-        {
-            "name": "A toi",
-            "artist": "Joe Dassin",
-            "id": 1567943
-        },
-        {
-            "name": "Les passantes",
-            "artist": "Georges Brassens",
-            "id": 27156645
-        },
-        {
-            "name": "LES PETITS MIROIRS",
+            "name": "NOS BALLADES",
             "artist": "Peppermoon",
-            "id": 4241447
+            "id": 4241455
+        },
+        {
+            "name": "Dans Mon le",
+            "artist": "Sara Lazarus",
+            "id": 5132082
+        },
+        {
+            "name": "Je Cherche Un Homme (I Want A Man)",
+            "artist": "Eartha Kitt",
+            "id": 5205793
+        },
+        {
+            "name": "À La Fin De L'Été",
+            "artist": "Brigitte Bardot",
+            "id": 488983209
         },
         {
             "name": "déranger les pierres",
@@ -54,59 +49,64 @@
             "id": 17086522
         },
         {
-            "name": "带我飞向月球 (选自TV动画\"新世纪福音战士\")",
+            "name": "Que Sera Sera",
             "artist": "Clémentine",
-            "id": 28457952
+            "id": 2311602
         },
         {
-            "name": "La bande a bonnot",
-            "artist": "Joe Dassin",
-            "id": 1567958
+            "name": "Il y a",
+            "artist": "Vanessa Paradis",
+            "id": 3796510
         },
         {
-            "name": "Celle de mes 20 ans",
-            "artist": "Mélanie Pain",
-            "id": 3028734
+            "name": "Quand Tu Dors Pres De Moi",
+            "artist": "Helen Merrill",
+            "id": 2704511
         },
         {
-            "name": "Une série d'accidents",
-            "artist": "Andrea Lindsay",
-            "id": 2178090
+            "name": "Itsi Bitsi Petit Bikini",
+            "artist": "Clémentine",
+            "id": 2311530
         },
         {
-            "name": "Lettre A P...",
-            "artist": "Paris Combo",
-            "id": 5179671
+            "name": "Mustang cabriolet",
+            "artist": "Paris Brune",
+            "id": 4254253
         },
         {
-            "name": "L'onde amère",
+            "name": "Jardin D'hiver",
             "artist": "Keren Ann",
-            "id": 22295049
+            "id": 19001923
         },
         {
-            "name": "A la Renverse",
-            "artist": "Hélène Ségara",
-            "id": 2699940
+            "name": "S'il Suffisait D'Aimer",
+            "artist": "Céline Dion",
+            "id": 16869220
         },
         {
-            "name": "Que reste t-il de nos amours ?",
-            "artist": "Françoise Hardy",
-            "id": 2589489
+            "name": "C'est Si Bon",
+            "artist": "Halie Loren",
+            "id": 18214752
         },
         {
-            "name": "Salle des Pas Perdus",
-            "artist": "Coralie Clément",
-            "id": 5177851
+            "name": "Les Moulins De Mon Coeur",
+            "artist": "Ilona Knopfler",
+            "id": 18381393
         },
         {
-            "name": "Les Champs - Elysées",
-            "artist": "Chantal Chamberland",
-            "id": 2326300
+            "name": "Et si tu n'existais pas",
+            "artist": "Joe Dassin",
+            "id": 1567910
         },
         {
-            "name": "Parachute (L’Eclipse)",
-            "artist": "Sean Lennon",
-            "id": 22616670
+            "name": "Petite Fleur",
+            "artist": "Petula Clark",
+            "id": 5104671
+        },
+        {
+            "name": "L'eau à la bouche",
+            "artist": "Anne Ducros",
+            "id": 16401839
         }
     ]
 }

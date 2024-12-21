@@ -1,13 +1,98 @@
 {
     "playlist_info": {
         "name": "很上头很嗨 节奏感 车载蹦迪",
-        "trackcount": 638,
-        "playcount": 18322022,
+        "trackcount": 644,
+        "playcount": 18704428,
         "creator": "狂野又迷人g",
         "createDate": "2017-09-19",
-        "heat": 8685.0
+        "heat": 8500.0
     },
     "songs": [
+        {
+            "name": "Stronger",
+            "artist": "EQRIC",
+            "id": 1901270129
+        },
+        {
+            "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+            "artist": "ABBA",
+            "id": 3880252
+        },
+        {
+            "name": "Bones",
+            "artist": "Imagine Dragons",
+            "id": 1927389937
+        },
+        {
+            "name": "All For Love",
+            "artist": "Tungevaag & Raaban",
+            "id": 545947135
+        },
+        {
+            "name": "Wake (Live)",
+            "artist": "Hillsong Young & Free",
+            "id": 1873321491
+        },
+        {
+            "name": "Hey Mamma (Radio Edit)",
+            "artist": "Sunstroke Project",
+            "id": 482246882
+        },
+        {
+            "name": "BABYDOLL (Speed)",
+            "artist": "Ari Abdul",
+            "id": 1932769322
+        },
+        {
+            "name": "Cake",
+            "artist": "Flo Rida",
+            "id": 447296411
+        },
+        {
+            "name": "君が好きだと叫びたい",
+            "artist": "BAAD",
+            "id": 695016
+        },
+        {
+            "name": "Empty Love",
+            "artist": "Lulleaux",
+            "id": 1435828582
+        },
+        {
+            "name": "Wake (Studio)",
+            "artist": "Hillsong Young & Free",
+            "id": 33051312
+        },
+        {
+            "name": "Go Again (feat. ELYSA)",
+            "artist": "King CAAN",
+            "id": 1952112969
+        },
+        {
+            "name": "I Really Like You",
+            "artist": "Carly Rae Jepsen",
+            "id": 30841076
+        },
+        {
+            "name": "Numb",
+            "artist": "Marshmello",
+            "id": 1952734362
+        },
+        {
+            "name": "Astronaut In The Ocean",
+            "artist": "Arem Ozguc",
+            "id": 1823356122
+        },
+        {
+            "name": "My 100",
+            "artist": "KIDDO",
+            "id": 1821462308
+        },
+        {
+            "name": "Love Me Like You Do",
+            "artist": "Ellie Goulding",
+            "id": 36308236
+        },
         {
             "name": "My City",
             "artist": "24kGoldn",
@@ -139,8 +224,8 @@
             "id": 1938248779
         },
         {
-            "name": "Everybody (Radio Edit)",
-            "artist": "Evelyn",
+            "name": "Everybody",
+            "artist": "Mike Candys",
             "id": 26830970
         },
         {
@@ -157,11 +242,6 @@
             "name": "拉个勾说永远爱我",
             "artist": "刘楚",
             "id": 1969373959
-        },
-        {
-            "name": "Gido",
-            "artist": "Psaxxx",
-            "id": 1936116560
         },
         {
             "name": "We Could Be Together",
@@ -182,16 +262,6 @@
             "name": "That Way",
             "artist": "VINAI",
             "id": 1922357798
-        },
-        {
-            "name": "Dreamers (feat. Jungkook & Cerdick)",
-            "artist": "Damaahmad",
-            "id": 2003183051
-        },
-        {
-            "name": "詹雯婷 -诀爱（FarAty Bootleg）",
-            "artist": "FarAty",
-            "id": 1987734598
         },
         {
             "name": "dashstar*",
@@ -389,11 +459,6 @@
             "id": 452997172
         },
         {
-            "name": "戒烟(DJ版)",
-            "artist": "子哝",
-            "id": 1831805530
-        },
-        {
             "name": "Long Shot",
             "artist": "Trademark",
             "id": 422977912
@@ -494,11 +559,6 @@
             "id": 1430568757
         },
         {
-            "name": "WaKe",
-            "artist": "Stay",
-            "id": 1892874315
-        },
-        {
             "name": "Dirty Boy World (DJ版原版)",
             "artist": "six nine",
             "id": 1496337522
@@ -524,7 +584,7 @@
             "id": 1314811712
         },
         {
-            "name": "Hoaprox-PDD洪荒之力（OMZHZ Remix）",
+            "name": "Hoaprox-PDD洪荒之力（OMZING Remix）",
             "artist": "OMZING郑小天",
             "id": 1313214480
         },
@@ -560,7 +620,7 @@
         },
         {
             "name": "R.I.O.-Like I Love You（DJ版）",
-            "artist": "民浩",
+            "artist": "魯帥",
             "id": 1466242414
         },
         {
@@ -617,11 +677,6 @@
             "name": "队长-队长 - 11(CU Rework)（CU remix）",
             "artist": "CU",
             "id": 1913593632
-        },
-        {
-            "name": "One Day（DJ版）",
-            "artist": "民浩",
-            "id": 1466215198
         },
         {
             "name": "Sanjin-Shake It（AH.啊黑 / DJ佳赫 remix）",
@@ -820,7 +875,7 @@
         },
         {
             "name": "abc (The Wild Remix)",
-            "artist": "GAYLE",
+            "artist": "The Wild",
             "id": 1908067287
         },
         {
@@ -840,7 +895,7 @@
         },
         {
             "name": "黄昏 (女声版)(DJ歌者达达版)",
-            "artist": "抖音热歌DJ",
+            "artist": "Kag Chuu",
             "id": 1480350899
         },
         {
@@ -884,7 +939,7 @@
             "id": 448157854
         },
         {
-            "name": "ALan-Octopus（DruGTRaffickerS remix）",
+            "name": "Octopus (Original Mix)",
             "artist": "DruGTRaffickerS",
             "id": 1423297895
         },
@@ -1040,7 +1095,7 @@
         },
         {
             "name": "迷人的危险 (抖音DJ版) (翻自 dance flow)",
-            "artist": "抖音热歌DJ",
+            "artist": "Kag Chuu",
             "id": 1410635261
         },
         {
@@ -1119,11 +1174,6 @@
             "id": 1451922516
         },
         {
-            "name": "Tình Bạn Diệu Kỳ Vinahouse || Đại Mèo",
-            "artist": "BD Media Music",
-            "id": 1822880065
-        },
-        {
             "name": "#SELFIE (Instrumental Mix)",
             "artist": "The Chainsmokers",
             "id": 28690875
@@ -1165,7 +1215,7 @@
         },
         {
             "name": "爱的故事上集",
-            "artist": "抖音热歌DJ",
+            "artist": "Kag Chuu",
             "id": 1413362292
         },
         {
@@ -1384,11 +1434,6 @@
             "id": 35288209
         },
         {
-            "name": "EA7",
-            "artist": "我也不知道叫什么喔",
-            "id": 1320873950
-        },
-        {
             "name": "Золото (Ramirez Remix)",
             "artist": "Kartashow",
             "id": 1372471346
@@ -1579,7 +1624,7 @@
             "id": 1433933823
         },
         {
-            "name": "God Save the Rave",
+            "name": "God Save The Rave",
             "artist": "Scooter",
             "id": 1368219740
         },
@@ -1654,11 +1699,6 @@
             "id": 1334414461
         },
         {
-            "name": "曾沛慈-蹦迪计划（为你着迷的猫 remix）",
-            "artist": "为你着迷的猫",
-            "id": 1419653592
-        },
-        {
             "name": "Astronomia (Original Mix)",
             "artist": "MaxRiven",
             "id": 1456782294
@@ -1700,7 +1740,7 @@
         },
         {
             "name": "Sunrise",
-            "artist": "Arty",
+            "artist": "ARTY",
             "id": 531295947
         },
         {
@@ -1782,11 +1822,6 @@
             "name": "Summer",
             "artist": "Calvin Harris",
             "id": 28306554
-        },
-        {
-            "name": "Huynh Đệ À（翻自 Đinh Đại Vũ/KN）",
-            "artist": "CHOSENONEYX",
-            "id": 1468675180
         },
         {
             "name": "RISE",
@@ -1875,7 +1910,7 @@
         },
         {
             "name": "萧敬腾-怎么说我不爱你(弹鼓版)（苏亦枫吖 remix）",
-            "artist": "Girl Super",
+            "artist": "Hawk",
             "id": 1438282140
         },
         {
@@ -1895,7 +1930,7 @@
         },
         {
             "name": "Club Remix（DJ版）",
-            "artist": "新旭",
+            "artist": "xxx Cr3",
             "id": 1401433415
         },
         {
@@ -1950,7 +1985,7 @@
         },
         {
             "name": "EA7 Still D.R.E,（DJ版）",
-            "artist": "新旭",
+            "artist": "xxx Cr3",
             "id": 1403501533
         },
         {
@@ -1975,7 +2010,7 @@
         },
         {
             "name": "我的自卑都源于生活",
-            "artist": "新旭",
+            "artist": "xxx Cr3",
             "id": 1396568386
         },
         {
@@ -2035,12 +2070,12 @@
         },
         {
             "name": "像鱼(DJ版)",
-            "artist": "泽亦龙",
+            "artist": "xxx Cr3",
             "id": 1401710635
         },
         {
             "name": "真的爱你 (咚鼓版)",
-            "artist": "新旭",
+            "artist": "xxx Cr3",
             "id": 1396568322
         },
         {
@@ -2055,7 +2090,7 @@
         },
         {
             "name": "Candy Shop (DJ版)",
-            "artist": "新旭",
+            "artist": "xxx Cr3",
             "id": 1386946638
         },
         {
@@ -2185,7 +2220,7 @@
         },
         {
             "name": "Be Your Sun (DJ版)",
-            "artist": "新旭",
+            "artist": "xxx Cr3",
             "id": 1386946637
         },
         {
@@ -2315,7 +2350,7 @@
         },
         {
             "name": "Trend (DJ)",
-            "artist": "新旭",
+            "artist": "xxx Cr3",
             "id": 1392986529
         },
         {
@@ -2385,7 +2420,7 @@
         },
         {
             "name": "K.Will-说吧爱我（DJ版）",
-            "artist": "民浩",
+            "artist": "魯帥",
             "id": 1392514480
         },
         {
@@ -2427,11 +2462,6 @@
             "name": "La La Land-EA7蹦迪大电（苏刚.Music / 君老头 / KAY· X remix）",
             "artist": "苏刚.Music",
             "id": 1363616015
-        },
-        {
-            "name": "电音任瑶-Muse 潮音混搭 (Remix)（电音任瑶 remix）",
-            "artist": "电音任瑶",
-            "id": 1348599361
         },
         {
             "name": "像极了爱情 (DJ版)",
@@ -3050,7 +3080,7 @@
         },
         {
             "name": "　斯卡拉",
-            "artist": "DJ瀚泽",
+            "artist": "说与山鬼听",
             "id": 36897083
         },
         {

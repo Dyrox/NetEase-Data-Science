@@ -1,13 +1,28 @@
 {
     "playlist_info": {
         "name": "《丑八怪》-薛之谦",
-        "trackcount": 133,
-        "playcount": 1007561,
+        "trackcount": 136,
+        "playcount": 1016074,
         "creator": "谢小小七",
         "createDate": "2016-01-31",
-        "heat": 371.0
+        "heat": 363.0
     },
     "songs": [
+        {
+            "name": "有没有一首歌会让你想起我 (Live)",
+            "artist": "周华健",
+            "id": 2067808259
+        },
+        {
+            "name": "让我欢喜让我忧 (Live)",
+            "artist": "薛之谦",
+            "id": 2067808196
+        },
+        {
+            "name": "念",
+            "artist": "薛之谦",
+            "id": 2064033095
+        },
         {
             "name": "崇拜",
             "artist": "薛之谦",

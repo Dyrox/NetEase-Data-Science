@@ -1,13 +1,118 @@
 {
     "playlist_info": {
         "name": "开心欢乐快节奏的歌",
-        "trackcount": 325,
-        "playcount": 5166947,
+        "trackcount": 344,
+        "playcount": 5481438,
         "creator": "coolcakee",
         "createDate": "2020-03-27",
-        "heat": 4348.0
+        "heat": 4282.0
     },
     "songs": [
+        {
+            "name": "破天荒",
+            "artist": "张芸京",
+            "id": 328073
+        },
+        {
+            "name": "blue blur (feat. mabanua)",
+            "artist": "Ryu Matsuyama",
+            "id": 1961814267
+        },
+        {
+            "name": "ダンスホール",
+            "artist": "Mrs. GREEN APPLE",
+            "id": 1996223213
+        },
+        {
+            "name": "enchanted love (and the witch's selfish heart)",
+            "artist": "linear ring",
+            "id": 1838956563
+        },
+        {
+            "name": "爱情闯进门",
+            "artist": "By2",
+            "id": 344387
+        },
+        {
+            "name": "BB88",
+            "artist": "方大同",
+            "id": 81890
+        },
+        {
+            "name": "Sunroof",
+            "artist": "Nicky Youre",
+            "id": 1970735771
+        },
+        {
+            "name": "下个，路口，见",
+            "artist": "李宇春",
+            "id": 254285
+        },
+        {
+            "name": "Pillow (枕头)",
+            "artist": "早安",
+            "id": 1981835144
+        },
+        {
+            "name": "Moonlight",
+            "artist": "lil MILK",
+            "id": 1475637391
+        },
+        {
+            "name": "双人舞",
+            "artist": "潘玮柏",
+            "id": 5247625
+        },
+        {
+            "name": "SUMMER!",
+            "artist": "PENTAGON",
+            "id": 1378220830
+        },
+        {
+            "name": "不要想太多",
+            "artist": "郭顶",
+            "id": 85575
+        },
+        {
+            "name": "我和BUG谈恋爱",
+            "artist": "转世虚拟猫",
+            "id": 2000116221
+        },
+        {
+            "name": "爱的鼓励",
+            "artist": "林俊杰",
+            "id": 29850679
+        },
+        {
+            "name": "Cookie (Ft.热水澡)",
+            "artist": "热水澡",
+            "id": 1492047114
+        },
+        {
+            "name": "尝一口夏天",
+            "artist": "徐明浩",
+            "id": 1981567377
+        },
+        {
+            "name": "风，雾，阳光和你",
+            "artist": "很美味",
+            "id": 1977216700
+        },
+        {
+            "name": "反正我也没什么关系",
+            "artist": "庄东茹（豆芽鱼）",
+            "id": 2042072949
+        },
+        {
+            "name": "WE LIKE 2 PARTY",
+            "artist": "BIGBANG",
+            "id": 445844853
+        },
+        {
+            "name": "I Don’t Think That I Like Her",
+            "artist": "Charlie Puth",
+            "id": 1981056341
+        },
         {
             "name": "对手戏2000",
             "artist": "王晗General",
@@ -29,7 +134,7 @@
             "id": 1852627346
         },
         {
-            "name": "心愿涂鸦（翻自 鞠婧祎） ",
+            "name": "心愿涂鸦（翻自 鞠婧祎）",
             "artist": "武楚皓",
             "id": 1385186565
         },
@@ -119,11 +224,6 @@
             "id": 187215
         },
         {
-            "name": "Pillow (枕头)",
-            "artist": "早安",
-            "id": 1981835144
-        },
-        {
             "name": "Fool For You",
             "artist": "KASTRA",
             "id": 1897685644
@@ -149,7 +249,7 @@
             "id": 1969519579
         },
         {
-            "name": "I LOVE...(日剧《将恋爱进行到底》主题曲)（翻自 Official髭男dism） ",
+            "name": "I LOVE...(日剧《将恋爱进行到底》主题曲)（翻自 Official髭男dism）",
             "artist": "倩倩1204",
             "id": 1430566577
         },
@@ -479,11 +579,6 @@
             "id": 1478965643
         },
         {
-            "name": "Yellow",
-            "artist": "Coldplay",
-            "id": 17177324
-        },
-        {
             "name": "一首开心快乐的歌",
             "artist": "OranG小橙小橙",
             "id": 1910937178
@@ -549,7 +644,7 @@
             "id": 548103176
         },
         {
-            "name": "애인 만들기 (드라마 꽃보다 남자)",
+            "name": "애인 만들기",
             "artist": "V.A.",
             "id": 504707146
         },
@@ -744,7 +839,7 @@
             "id": 1380262830
         },
         {
-            "name": "私奔到月球（翻自 陈绮贞） ",
+            "name": "私奔到月球（翻自 陈绮贞）",
             "artist": "蒋欣w",
             "id": 1428259272
         },
@@ -760,7 +855,7 @@
         },
         {
             "name": "热爱105℃的你（翻自 阿肆）",
-            "artist": "应钟Clochette",
+            "artist": "_Cinnabar_",
             "id": 1424722420
         },
         {
@@ -1259,7 +1354,7 @@
             "id": 139808
         },
         {
-            "name": "Lover Boy 88 (翻自 Phum Viphurit&Higher Brothers) ",
+            "name": "Lover Boy 88 (翻自 Phum Viphurit&Higher Brothers)",
             "artist": "姜鹏Calm",
             "id": 1343311848
         },

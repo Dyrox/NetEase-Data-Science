@@ -2,126 +2,71 @@
     "playlist_info": {
         "name": "心灵休憩站 | 在新世纪音乐中听见内心的声音",
         "trackcount": 30,
-        "playcount": 1032077,
+        "playcount": 1092184,
         "creator": "云音乐官方歌单",
         "createDate": "2021-08-30",
-        "heat": 1548.0
+        "heat": 1438.0
     },
     "songs": [
         {
-            "name": "Moon Temple",
-            "artist": "Karunesh",
-            "id": 1614722
+            "name": "The Birdbath",
+            "artist": "David Arkenstone",
+            "id": 1234568
         },
         {
-            "name": "Kamigami No Uta",
+            "name": "Soaring from the Sea",
+            "artist": "Dan Gibson",
+            "id": 1219633
+        },
+        {
+            "name": "An umbrella over bosporus",
+            "artist": "风潮音乐",
+            "id": 26418553
+        },
+        {
+            "name": "天山",
+            "artist": "喜多郎",
+            "id": 443376
+        },
+        {
+            "name": "Golden Slumbers",
+            "artist": "Dan Gibson",
+            "id": 1221805
+        },
+        {
+            "name": "めぐり逢う星の夜",
             "artist": "姫神",
-            "id": 438626
+            "id": 438952
         },
         {
-            "name": "See Things",
-            "artist": "Steve Roach",
-            "id": 1961297
-        },
-        {
-            "name": "Luna Y Mar",
-            "artist": "Dan Gibson",
-            "id": 1219757
-        },
-        {
-            "name": "Sonata Pathétique:2nd Movement",
-            "artist": "Dan Gibson",
-            "id": 5022944
-        },
-        {
-            "name": "Soul Essence",
-            "artist": "Nadama",
-            "id": 1803062
-        },
-        {
-            "name": "In Your Grace (Maa)",
-            "artist": "Ajeet",
-            "id": 558578725
-        },
-        {
-            "name": "The Unforgetting Heart",
-            "artist": "Michael Hoppé",
-            "id": 1717490
-        },
-        {
-            "name": "天使灵气",
-            "artist": "风潮音乐",
-            "id": 26421014
-        },
-        {
-            "name": "Medicine Woman",
-            "artist": "Medwyn Goodall",
-            "id": 21105671
-        },
-        {
-            "name": "How the Universe Works Season music v2",
-            "artist": "Various Artists",
-            "id": 36103307
-        },
-        {
-            "name": "Guru Ram Das Meditation",
-            "artist": "Ajeet",
-            "id": 558578726
-        },
-        {
-            "name": "Shakyamuni",
-            "artist": "Anael & Bradfield",
-            "id": 16453943
-        },
-        {
-            "name": "Four Worlds",
+            "name": "Lost Tribe",
             "artist": "Nicholas Gunn",
-            "id": 17446945
+            "id": 17446946
         },
         {
-            "name": "Liberation's Door",
-            "artist": "Snatam Kaur",
-            "id": 3420725
+            "name": "The Yearning",
+            "artist": "Kamal",
+            "id": 18914077
         },
         {
-            "name": "How the Universe Works Season music v1",
-            "artist": "Various Artists",
-            "id": 36102307
+            "name": "太陽の島",
+            "artist": "京田誠一",
+            "id": 25879842
         },
         {
-            "name": "Anthem of the gods",
-            "artist": "Dagda",
-            "id": 5112004
+            "name": "The Mill Race",
+            "artist": "Declan Masterson",
+            "id": 2518881
         },
         {
-            "name": "Om Ram Ramaya",
-            "artist": "Deva Premal",
-            "id": 2430620
+            "name": "Goodbye, My Dreams",
+            "artist": "Yakuro",
+            "id": 28914260
         },
         {
-            "name": "Sun Drumming",
-            "artist": "Medwyn Goodall",
-            "id": 21105673
-        },
-        {
-            "name": "爱的触动 　",
-            "artist": "风潮音乐",
-            "id": 26421024
-        },
-        {
-            "name": "Many Voices, One Spirit",
-            "artist": "Kevin Wood",
-            "id": 1621539
-        },
-        {
-            "name": "River of Dreams",
-            "artist": "Dean Evenson",
-            "id": 1262257
-        },
-        {
-            "name": "Children",
-            "artist": "David Darling",
-            "id": 17241582
+            "name": "Ocaso",
+            "artist": "Nicholas Gunn",
+            "id": 1502416
         },
         {
             "name": "Flight of the Wild Geese",
@@ -129,34 +74,89 @@
             "id": 18782903
         },
         {
-            "name": "Temple Of Love",
-            "artist": "Erotic Dreams",
-            "id": 5112003
+            "name": "Song of the Hills",
+            "artist": "Michael Hoppé",
+            "id": 1717564
         },
         {
-            "name": "Ardas Bhaee (Blessings)",
-            "artist": "GuruGanesha",
-            "id": 561884351
+            "name": "Turning",
+            "artist": "Suzanne Ciani",
+            "id": 3421509
         },
         {
-            "name": "Peaceful Dreams",
-            "artist": "Tranquility Spa Universe",
-            "id": 1448102982
+            "name": "Moon Temple",
+            "artist": "Karunesh",
+            "id": 1614682
         },
         {
-            "name": "Ancient Forest",
-            "artist": "Acoustic Ocean",
-            "id": 3928169
+            "name": "Follow Your Heart",
+            "artist": "Karunesh",
+            "id": 1614785
         },
         {
-            "name": "The Great Mercy Incantation",
-            "artist": "Oliver Shanti",
-            "id": 1808979
+            "name": "Lavender Shadows",
+            "artist": "Michael Hoppé",
+            "id": 1717568
         },
         {
-            "name": "The Twisting of the Rope",
+            "name": "Precious Waters",
+            "artist": "Ah Nee Mah",
+            "id": 3894389
+        },
+        {
+            "name": "Women of Ireland",
             "artist": "Joanie Madden",
-            "id": 18782909
+            "id": 25540292
+        },
+        {
+            "name": "Nominus Musica (Da Beat Mix)",
+            "artist": "Hypnotic",
+            "id": 5084129
+        },
+        {
+            "name": "Rose Of Tralee",
+            "artist": "Ethno Music Project",
+            "id": 17661962
+        },
+        {
+            "name": "Uno 　",
+            "artist": "风潮音乐",
+            "id": 26421021
+        },
+        {
+            "name": "Nuur el AB",
+            "artist": "Oliver Shanti",
+            "id": 1808896
+        },
+        {
+            "name": "Mojave Morning",
+            "artist": "Golaná",
+            "id": 1421204
+        },
+        {
+            "name": "Song of the River",
+            "artist": "Ah Nee Mah",
+            "id": 3894287
+        },
+        {
+            "name": "Ardas Bhayee",
+            "artist": "Snatam Kaur",
+            "id": 3420742
+        },
+        {
+            "name": "Land of Forever",
+            "artist": "2002",
+            "id": 5225873
+        },
+        {
+            "name": "Scarborough Fair",
+            "artist": "Panpipes",
+            "id": 3301144
+        },
+        {
+            "name": "Anthem of the gods",
+            "artist": "Dagda",
+            "id": 5112004
         }
     ]
 }

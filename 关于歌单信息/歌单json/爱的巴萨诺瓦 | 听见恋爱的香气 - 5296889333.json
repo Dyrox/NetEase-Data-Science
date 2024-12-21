@@ -2,46 +2,91 @@
     "playlist_info": {
         "name": "爱的巴萨诺瓦 | 听见恋爱的香气",
         "trackcount": 30,
-        "playcount": 4406691,
+        "playcount": 4462298,
         "creator": "云音乐官方歌单",
         "createDate": "2020-10-20",
-        "heat": 4489.0
+        "heat": 4157.0
     },
     "songs": [
         {
-            "name": "Movin' Me On",
-            "artist": "Eliane Elias",
-            "id": 507499640
-        },
-        {
-            "name": "Once I Loved",
-            "artist": "Astrud Gilberto",
-            "id": 16437474
-        },
-        {
-            "name": "Will You Dance?",
-            "artist": "naomi & goro",
-            "id": 26402526
-        },
-        {
             "name": "Every Breath You Take",
             "artist": "Karen Souza",
-            "id": 566696650
+            "id": 568624679
         },
         {
-            "name": "Aguas De Marco (Waters Of March)",
-            "artist": "John Pizzarelli",
-            "id": 18637847
+            "name": "Bossa Per Emilia",
+            "artist": "Blank & Jones",
+            "id": 403711343
         },
         {
-            "name": "Slow Motion Bossa Nova",
-            "artist": "Celso Fonseca",
-            "id": 2327895
+            "name": "You Will Know (Bossa Nova Version) feat. Aida Tung",
+            "artist": "先知玛莉",
+            "id": 562510594
         },
         {
-            "name": "One on One",
+            "name": "Desafinado [Off Key]",
             "artist": "naomi & goro",
-            "id": 789132
+            "id": 26402513
+        },
+        {
+            "name": "Plage des Amoureux",
+            "artist": "Mary L.",
+            "id": 27598734
+        },
+        {
+            "name": "Ran into a Bookstore",
+            "artist": "naomi & goro",
+            "id": 26402481
+        },
+        {
+            "name": "Águas De Março",
+            "artist": "Antonio Carlos Jobim",
+            "id": 990534
+        },
+        {
+            "name": "Dancing All Night",
+            "artist": "Ive Mendes",
+            "id": 2772030
+        },
+        {
+            "name": "You're Beautiful",
+            "artist": "Marcela Mangabeira",
+            "id": 5119580
+        },
+        {
+            "name": "Samba Saravah",
+            "artist": "Stacey Kent",
+            "id": 22490365
+        },
+        {
+            "name": "Close Your Eyes",
+            "artist": "Bebel Gilberto",
+            "id": 16772855
+        },
+        {
+            "name": "Intimidade",
+            "artist": "Tania Maria",
+            "id": 3739208
+        },
+        {
+            "name": "Corcovado",
+            "artist": "Gal Costa",
+            "id": 22467604
+        },
+        {
+            "name": "Tanto Tempo",
+            "artist": "Bebel Gilberto",
+            "id": 16772847
+        },
+        {
+            "name": "Na Pele De Um Flaneur",
+            "artist": "Celso Fonseca",
+            "id": 17084184
+        },
+        {
+            "name": "Don't Speak",
+            "artist": "Sarah Menescal",
+            "id": 5165669
         },
         {
             "name": "Mar Azul",
@@ -49,84 +94,34 @@
             "id": 3401795
         },
         {
-            "name": "O Pato",
-            "artist": "Eden Atwood",
-            "id": 2538727
+            "name": "Beat It",
+            "artist": "Cris Delanno",
+            "id": 5152146
         },
         {
-            "name": "Insane Stoicism",
-            "artist": "Irus",
-            "id": 1363105429
-        },
-        {
-            "name": "Corcovado (Quiet Nights Of Quiet Stars)",
+            "name": "Tribute To Stan",
             "artist": "Stan Getz",
-            "id": 2057461350
+            "id": 1941163
         },
         {
-            "name": "Menina Flor",
-            "artist": "Stan Getz",
-            "id": 1941142
+            "name": "Summertime",
+            "artist": "Taryn Spilman",
+            "id": 566782527
         },
         {
-            "name": "Love me do",
-            "artist": "3L",
-            "id": 1363105428
+            "name": "Rumo Dos Ventos",
+            "artist": "Paulinho da Viola",
+            "id": 21435348
         },
         {
-            "name": "Desafinado",
-            "artist": "Antonio Carlos Jobim",
-            "id": 16157645
+            "name": "Flor de Lis",
+            "artist": "Djavan",
+            "id": 568269832
         },
         {
-            "name": "Tin Tin Por Tin Tin",
+            "name": "Saudade Da Bahia",
             "artist": "João Gilberto",
-            "id": 26810483
-        },
-        {
-            "name": "Brazil (Alternate Take)",
-            "artist": "Antonio Carlos Jobim",
-            "id": 16157633
-        },
-        {
-            "name": "Voyage Pacifique",
-            "artist": "Mary L.",
-            "id": 27598742
-        },
-        {
-            "name": "Bossa Do Bahia",
-            "artist": "Lounge Cafe",
-            "id": 566052397
-        },
-        {
-            "name": "one Note Samba",
-            "artist": "Dizzy Gillespie",
-            "id": 5208344
-        },
-        {
-            "name": "On Aime Se Sentir Aimée",
-            "artist": "Charlotte Rampling",
-            "id": 2411879
-        },
-        {
-            "name": "Super Freak (Bossa Version)",
-            "artist": "Rachelle Spring",
-            "id": 526560477
-        },
-        {
-            "name": "lovin' you",
-            "artist": "Jazzamor",
-            "id": 18576804
-        },
-        {
-            "name": "Don't Know Why (Bossa Version)",
-            "artist": "Liz Menezes",
-            "id": 526560472
-        },
-        {
-            "name": "This Masquerade",
-            "artist": "Gary Farr",
-            "id": 1363550593
+            "id": 1493158
         },
         {
             "name": "Poker Face",
@@ -134,29 +129,34 @@
             "id": 609740
         },
         {
-            "name": "Beat It",
-            "artist": "Cris Delanno",
-            "id": 5152146
+            "name": "Viva La Vida",
+            "artist": "V.A.",
+            "id": 31010646
         },
         {
-            "name": "Smooth Operator (Bossa Version)",
-            "artist": "Eduardo Braga",
-            "id": 5078745
+            "name": "The Drifter",
+            "artist": "Rita Calypso",
+            "id": 3313374
         },
         {
-            "name": "Summerboy",
-            "artist": "Lica",
-            "id": 609749
+            "name": "Comètes",
+            "artist": "Mary L.",
+            "id": 27598744
         },
         {
-            "name": "The Girl from Ipanema",
-            "artist": "Eden Atwood",
-            "id": 2538729
+            "name": "The Way It Is (Bossa Version)",
+            "artist": "Monique Kessous",
+            "id": 526560469
         },
         {
-            "name": "Prelude In E Minor",
-            "artist": "Gerry Mulligan",
-            "id": 1384692509
+            "name": "Perdi",
+            "artist": "Celso Fonseca",
+            "id": 17084176
+        },
+        {
+            "name": "La Rua Madureira",
+            "artist": "Nino Ferrer",
+            "id": 27856146
         }
     ]
 }

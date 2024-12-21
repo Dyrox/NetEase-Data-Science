@@ -1,17 +1,27 @@
 {
     "playlist_info": {
         "name": "【BGM】震撼背景音乐燃到你想哭！！",
-        "trackcount": 125,
-        "playcount": 949702,
+        "trackcount": 129,
+        "playcount": 1413158,
         "creator": "JoySong是我的名字竟然被占用了",
         "createDate": "2016-04-26",
-        "heat": 362.0
+        "heat": 521.0
     },
     "songs": [
         {
             "name": "Apex",
             "artist": "Far Out",
             "id": 1333144056
+        },
+        {
+            "name": "Grace",
+            "artist": "Jannik",
+            "id": 528423473
+        },
+        {
+            "name": "浮光 (The History)",
+            "artist": "Jannik",
+            "id": 1394601255
         },
         {
             "name": "Fake Love (Orchestral Version)",
@@ -32,6 +42,11 @@
             "name": "Breath And Life",
             "artist": "Audiomachine",
             "id": 3934523
+        },
+        {
+            "name": "惊涛落日（Official Vers.）",
+            "artist": "Platix_Zhang",
+            "id": 1433075058
         },
         {
             "name": "Fire",
@@ -147,6 +162,11 @@
             "name": "Gravity",
             "artist": "Steven Price",
             "id": 27756683
+        },
+        {
+            "name": "Villanelle",
+            "artist": "Jo Blankenburg",
+            "id": 32857600
         },
         {
             "name": "Inevitable Destiny",

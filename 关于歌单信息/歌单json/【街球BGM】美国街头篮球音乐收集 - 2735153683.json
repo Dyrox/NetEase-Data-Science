@@ -1,11 +1,11 @@
 {
     "playlist_info": {
         "name": "【街球BGM】美国街头篮球音乐收集",
-        "trackcount": 320,
-        "playcount": 1006650,
+        "trackcount": 321,
+        "playcount": 1022148,
         "creator": "奋力爬上山巅的山羊",
         "createDate": "2019-04-01",
-        "heat": 649.0
+        "heat": 622.0
     },
     "songs": [
         {
@@ -82,6 +82,11 @@
             "name": "Gametime",
             "artist": "Shepherd",
             "id": 1382823009
+        },
+        {
+            "name": "Boss Mackin'",
+            "artist": "Falcons",
+            "id": 542685206
         },
         {
             "name": "The Mission",
@@ -1105,7 +1110,7 @@
         },
         {
             "name": "Pullin Up",
-            "artist": "Eric Bellinger",
+            "artist": "Poncho Belly & Dizzle",
             "id": 1321583734
         },
         {

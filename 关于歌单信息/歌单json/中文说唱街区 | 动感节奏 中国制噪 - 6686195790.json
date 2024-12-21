@@ -2,10 +2,10 @@
     "playlist_info": {
         "name": "中文说唱街区 | 动感节奏 中国制噪",
         "trackcount": 60,
-        "playcount": 1253929,
+        "playcount": 1364725,
         "creator": "云音乐官方歌单",
         "createDate": "2021-03-30",
-        "heat": 1527.0
+        "heat": 1495.0
     },
     "songs": [
         {
@@ -42,6 +42,11 @@
             "name": "罗生门（Follow）",
             "artist": "梨冻紧",
             "id": 1456890009
+        },
+        {
+            "name": "P.Y.T",
+            "artist": "马思唯",
+            "id": 2059246226
         },
         {
             "name": "随身汀",
@@ -302,11 +307,6 @@
             "name": "Yellow Skin Flow",
             "artist": "艾福杰尼",
             "id": 1325898369
-        },
-        {
-            "name": "早点早点",
-            "artist": "沙一汀EL",
-            "id": 1432491214
         }
     ]
 }

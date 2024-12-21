@@ -1,13 +1,28 @@
 {
     "playlist_info": {
         "name": "欧美电音※沦陷在节奏和旋律中",
-        "trackcount": 290,
-        "playcount": 2787172,
+        "trackcount": 293,
+        "playcount": 2790188,
         "creator": "Zz_Glory",
         "createDate": "2016-04-16",
-        "heat": 1059.0
+        "heat": 1025.0
     },
     "songs": [
+        {
+            "name": "Roads",
+            "artist": "Joakim Molitor",
+            "id": 1810535196
+        },
+        {
+            "name": "Fight For You",
+            "artist": "Zay",
+            "id": 1345494813
+        },
+        {
+            "name": "Better Anyway",
+            "artist": "Borgeous",
+            "id": 1367114866
+        },
         {
             "name": "GLOW",
             "artist": "CORSAK胡梦周",

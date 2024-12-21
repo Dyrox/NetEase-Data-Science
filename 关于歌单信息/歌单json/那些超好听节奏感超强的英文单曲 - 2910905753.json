@@ -1,11 +1,11 @@
 {
     "playlist_info": {
         "name": "那些超好听节奏感超强的英文单曲",
-        "trackcount": 230,
-        "playcount": 3908662,
+        "trackcount": 231,
+        "playcount": 4519934,
         "creator": "妹妹真漂亮-",
         "createDate": "2019-08-01",
-        "heat": 2736.0
+        "heat": 2974.0
     },
     "songs": [
         {
@@ -80,8 +80,13 @@
         },
         {
             "name": "Sold Out",
-            "artist": "Hawk Nelson",
+            "artist": "Jonathan Steingard",
             "id": 31010566
+        },
+        {
+            "name": "Give you all my love",
+            "artist": "阮瀚林",
+            "id": 2078687914
         },
         {
             "name": "Holy Grail (Adieu Remix)",
@@ -444,7 +449,7 @@
             "id": 1396365414
         },
         {
-            "name": "失眠症 Insomnia (抒情版) ",
+            "name": "失眠症 Insomnia (抒情版)",
             "artist": "姚智鑫",
             "id": 1408713927
         },

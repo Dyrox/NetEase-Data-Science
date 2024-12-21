@@ -2,91 +2,26 @@
     "playlist_info": {
         "name": "后摇思潮情绪 | 沉入后摇海洋 与情绪共舞",
         "trackcount": 20,
-        "playcount": 9172777,
+        "playcount": 9424731,
         "creator": "云音乐官方歌单",
         "createDate": "2020-08-04",
-        "heat": 8666.0
+        "heat": 8193.0
     },
     "songs": [
         {
-            "name": "Fractured",
-            "artist": "Lights & Motion",
-            "id": 27955717
+            "name": "踏出一条白色的路",
+            "artist": "Cicada",
+            "id": 1399998683
         },
         {
-            "name": "New Topia",
-            "artist": "This Will Destroy You",
-            "id": 29011186
+            "name": "走入有雾的森林",
+            "artist": "Cicada",
+            "id": 1399998675
         },
         {
-            "name": "Be Comfortable, Creature",
-            "artist": "Explosions In The Sky",
-            "id": 17670019
-        },
-        {
-            "name": "Perfect Symmetry",
-            "artist": "Lights & Motion",
-            "id": 454698094
-        },
-        {
-            "name": "Last Known Surroundings",
-            "artist": "Explosions In The Sky",
-            "id": 17670016
-        },
-        {
-            "name": "New Jade",
-            "artist": "Dreem",
-            "id": 1843718191
-        },
-        {
-            "name": "Volga",
+            "name": "Co-Conspirators",
             "artist": "Maybeshewill",
-            "id": 28987637
-        },
-        {
-            "name": "Symbios",
-            "artist": "Ever So Blue",
-            "id": 1913295369
-        },
-        {
-            "name": "Deception Has a Way With Words",
-            "artist": "I Hear Sirens",
-            "id": 28524257
-        },
-        {
-            "name": "Just the Way",
-            "artist": "Parmalee",
-            "id": 1862331744
-        },
-        {
-            "name": "Auto Rock",
-            "artist": "Mogwai",
-            "id": 21257336
-        },
-        {
-            "name": "Purity",
-            "artist": "Yao Chen",
-            "id": 1981523012
-        },
-        {
-            "name": "厌倦和眷恋",
-            "artist": "沼泽",
-            "id": 395037
-        },
-        {
-            "name": "Midsummer Field",
-            "artist": "U137",
-            "id": 27640060
-        },
-        {
-            "name": "Garden Highway",
-            "artist": "The Echelon Effect",
-            "id": 28703933
-        },
-        {
-            "name": "Our Mountain Pass, a Winding Trench",
-            "artist": "Saxon Shore",
-            "id": 19138644
+            "id": 21218340
         },
         {
             "name": "Radio Protector",
@@ -94,19 +29,84 @@
             "id": 16154500
         },
         {
-            "name": "Meteor shower",
-            "artist": "咸空气乐队",
-            "id": 451506515
+            "name": "Lucid Dreaming",
+            "artist": "Lights & Motion",
+            "id": 454698096
         },
         {
-            "name": "See the Storm",
-            "artist": "The Echelon Effect",
-            "id": 28232248
+            "name": "Over The Pond",
+            "artist": "The Album Leaf",
+            "id": 19292135
         },
         {
-            "name": "Impuissance",
-            "artist": "Luisa Amogida",
-            "id": 1895490217
+            "name": "Midsummer Field",
+            "artist": "U137",
+            "id": 27640060
+        },
+        {
+            "name": "Summer Baby",
+            "artist": "Jonas Brothers",
+            "id": 2046964175
+        },
+        {
+            "name": "At Last",
+            "artist": "Lights & Motion",
+            "id": 409031985
+        },
+        {
+            "name": "Auto Rock",
+            "artist": "Mogwai",
+            "id": 21257336
+        },
+        {
+            "name": "Red Fire Alarm",
+            "artist": "Esmerine",
+            "id": 17595191
+        },
+        {
+            "name": "Our Mountain Pass, a Winding Trench",
+            "artist": "Saxon Shore",
+            "id": 19138644
+        },
+        {
+            "name": "In Another Life, When We Are Cats",
+            "artist": "Maybeshewill",
+            "id": 3031874
+        },
+        {
+            "name": "Weekends",
+            "artist": "Jonas Blue",
+            "id": 2019512060
+        },
+        {
+            "name": "Window",
+            "artist": "The Album Leaf",
+            "id": 19292130
+        },
+        {
+            "name": "Numb",
+            "artist": "Marshmello",
+            "id": 1952734362
+        },
+        {
+            "name": "Small Steps",
+            "artist": "Saxon Shore",
+            "id": 3415105
+        },
+        {
+            "name": "Watching The Storm",
+            "artist": "U137",
+            "id": 27640056
+        },
+        {
+            "name": "One Margarita",
+            "artist": "Luke Bryan",
+            "id": 1430528294
+        },
+        {
+            "name": "Are You A Dancer?",
+            "artist": "Mogwai",
+            "id": 407000802
         }
     ]
 }

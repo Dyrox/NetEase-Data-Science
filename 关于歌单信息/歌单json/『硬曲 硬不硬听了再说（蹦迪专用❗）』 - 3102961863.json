@@ -1,13 +1,18 @@
 {
     "playlist_info": {
         "name": "『硬曲 硬不硬听了再说（蹦迪专用❗）』",
-        "trackcount": 594,
-        "playcount": 11561340,
+        "trackcount": 592,
+        "playcount": 11588632,
         "creator": "见个青",
         "createDate": "2019-12-03",
-        "heat": 8865.0
+        "heat": 8307.0
     },
     "songs": [
+        {
+            "name": "Killers From The Northside",
+            "artist": "Kordhell",
+            "id": 1878791667
+        },
         {
             "name": "After Hours",
             "artist": "The Weeknd",
@@ -24,7 +29,7 @@
             "id": 1890256410
         },
         {
-            "name": "Play",
+            "name": "PLAY",
             "artist": "KKK_OFFICIAL",
             "id": 2009911649
         },
@@ -39,8 +44,13 @@
             "id": 1935950259
         },
         {
+            "name": "Bandit",
+            "artist": "DJ七七",
+            "id": 2065669099
+        },
+        {
             "name": "Ass Like That",
-            "artist": "Psaxxx",
+            "artist": "அலாதீன் இசை",
             "id": 1948083890
         },
         {
@@ -475,7 +485,7 @@
         },
         {
             "name": "Baby (抖音版)",
-            "artist": "新旭",
+            "artist": "xxx Cr3",
             "id": 1386946635
         },
         {
@@ -545,7 +555,7 @@
         },
         {
             "name": "麻将之歌 (DJ版)",
-            "artist": "新旭",
+            "artist": "xxx Cr3",
             "id": 1396568323
         },
         {
@@ -580,7 +590,7 @@
         },
         {
             "name": "Oh Na Na Na（DJ重低音）",
-            "artist": "新旭",
+            "artist": "xxx Cr3",
             "id": 1401433416
         },
         {
@@ -605,7 +615,7 @@
         },
         {
             "name": "Be Your Sun (DJ版)",
-            "artist": "新旭",
+            "artist": "xxx Cr3",
             "id": 1386946637
         },
         {
@@ -625,7 +635,7 @@
         },
         {
             "name": "Club Remix（DJ版）",
-            "artist": "新旭",
+            "artist": "xxx Cr3",
             "id": 1401433415
         },
         {
@@ -685,12 +695,12 @@
         },
         {
             "name": "喝醉了才知道自己爱谁 (Perfect Mix)",
-            "artist": "泽亦龙",
+            "artist": "xxx Cr3",
             "id": 1396920778
         },
         {
             "name": "bboy danny",
-            "artist": "新旭",
+            "artist": "xxx Cr3",
             "id": 1391281654
         },
         {
@@ -707,11 +717,6 @@
             "name": "你是我的爱 (DJ版)",
             "artist": "肖琴",
             "id": 1357646934
-        },
-        {
-            "name": "曾沛慈-蹦迪计划（为你着迷的猫 remix）",
-            "artist": "为你着迷的猫",
-            "id": 1419653592
         },
         {
             "name": "不要聊了先上DJ",
@@ -1100,7 +1105,7 @@
         },
         {
             "name": "Candy Shop (DJ版)",
-            "artist": "新旭",
+            "artist": "xxx Cr3",
             "id": 1386946638
         },
         {
@@ -1585,7 +1590,7 @@
         },
         {
             "name": "Bad Bubble",
-            "artist": "Athylias",
+            "artist": "Shauco",
             "id": 1378868625
         },
         {
@@ -1680,7 +1685,7 @@
         },
         {
             "name": "Fatrik,Epiik-wong土嗨（王佳电音）（KidWu remix）",
-            "artist": "KIDWU",
+            "artist": "KidWuSound",
             "id": 1394731586
         },
         {
@@ -1705,12 +1710,12 @@
         },
         {
             "name": "ProgHouse (DJ版)",
-            "artist": "泽亦龙",
+            "artist": "xxx Cr3",
             "id": 1397288794
         },
         {
             "name": "口哨战歌 (Perfect Mix)",
-            "artist": "泽亦龙",
+            "artist": "xxx Cr3",
             "id": 1396568160
         },
         {
@@ -1755,7 +1760,7 @@
         },
         {
             "name": "敲杯  (DJ版)",
-            "artist": "新旭",
+            "artist": "xxx Cr3",
             "id": 1354488639
         },
         {
@@ -1769,7 +1774,7 @@
             "id": 30590630
         },
         {
-            "name": "Around the World (Radio Mix)",
+            "name": "Around the World",
             "artist": "Mike Candys",
             "id": 1781643
         },
@@ -1785,7 +1790,7 @@
         },
         {
             "name": "Are You With Me (CHIEFTAIN Remix)",
-            "artist": "SEWAS",
+            "artist": "Sewas",
             "id": 1301861587
         },
         {
@@ -1960,7 +1965,7 @@
         },
         {
             "name": "　斯卡拉",
-            "artist": "DJ瀚泽",
+            "artist": "说与山鬼听",
             "id": 36897083
         },
         {
@@ -2180,7 +2185,7 @@
         },
         {
             "name": "Electric Drum(Perfect Mix)",
-            "artist": "泽亦龙",
+            "artist": "xxx Cr3",
             "id": 1378881233
         },
         {
@@ -2260,7 +2265,7 @@
         },
         {
             "name": "This is good (Perfect Mix)",
-            "artist": "泽亦龙",
+            "artist": "xxx Cr3",
             "id": 1378876332
         },
         {
@@ -2310,7 +2315,7 @@
         },
         {
             "name": "You Gotta Lick It (DJ抖音版)",
-            "artist": "泽亦龙",
+            "artist": "xxx Cr3",
             "id": 1386946546
         },
         {
@@ -2377,11 +2382,6 @@
             "name": "Get High, Live Life",
             "artist": "Platinum Doug",
             "id": 496871009
-        },
-        {
-            "name": "Don't Touch Anything-Don't Touch（Krystal / Dan Farber remix）",
-            "artist": "Krystal",
-            "id": 1356309192
         },
         {
             "name": "Various Artists-Style sax 萨克斯（音乐人祖力皮卡尔 Remix）",
@@ -2469,7 +2469,7 @@
             "id": 1363228294
         },
         {
-            "name": "Về nhà ăn tết（翻自 群星） ",
+            "name": "Về nhà ăn tết（翻自 群星）",
             "artist": "aEZi",
             "id": 1388004788
         },
@@ -2509,7 +2509,7 @@
             "id": 1368001385
         },
         {
-            "name": "Cyka Blyat",
+            "name": "Сука блядь",
             "artist": "DJ Blyatman",
             "id": 1368324900
         },
@@ -2524,7 +2524,7 @@
             "id": 530526048
         },
         {
-            "name": "Зың",
+            "name": "Зын",
             "artist": "Болат Нуримов",
             "id": 1296523395
         },
@@ -2550,7 +2550,7 @@
         },
         {
             "name": "贝斯哒哒哒 (DJ版)",
-            "artist": "新旭",
+            "artist": "xxx Cr3",
             "id": 1353163840
         },
         {
@@ -2660,13 +2660,8 @@
         },
         {
             "name": "你牵了别人的手",
-            "artist": "新旭",
+            "artist": "xxx Cr3",
             "id": 1391470899
-        },
-        {
-            "name": "电音任瑶-抖音蹦迪神曲（Remix）（电音任瑶 remix）",
-            "artist": "电音任瑶",
-            "id": 1348232471
         },
         {
             "name": "Dog off (VESK GREEN Giaoleg)",
@@ -2729,11 +2724,6 @@
             "id": 532572369
         },
         {
-            "name": "EA7",
-            "artist": "我也不知道叫什么喔",
-            "id": 1320873950
-        },
-        {
             "name": "错过别回头.回头不完美 (DJ版)",
             "artist": "青海龙泽",
             "id": 1392985919
@@ -2760,7 +2750,7 @@
         },
         {
             "name": "咬手机蹦迪 (DJ版)",
-            "artist": "新旭",
+            "artist": "xxx Cr3",
             "id": 1353163848
         },
         {
@@ -2780,7 +2770,7 @@
         },
         {
             "name": "这节奏要飘了 (DJ版)",
-            "artist": "新旭",
+            "artist": "xxx Cr3",
             "id": 1353163846
         },
         {
@@ -2915,7 +2905,7 @@
         },
         {
             "name": "断了乱了 (DJ抖音版)",
-            "artist": "泽亦龙",
+            "artist": "xxx Cr3",
             "id": 1399837875
         },
         {
@@ -2955,7 +2945,7 @@
         },
         {
             "name": "洗脑神曲 (俄语)",
-            "artist": "新旭",
+            "artist": "xxx Cr3",
             "id": 1300632922
         },
         {
@@ -2965,12 +2955,12 @@
         },
         {
             "name": "故事有始有终",
-            "artist": "新旭",
+            "artist": "xxx Cr3",
             "id": 1392990134
         },
         {
             "name": "我的自卑都源于生活",
-            "artist": "新旭",
+            "artist": "xxx Cr3",
             "id": 1396568386
         },
         {

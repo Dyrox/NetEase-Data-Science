@@ -1,13 +1,43 @@
 {
     "playlist_info": {
         "name": "至臻版Bose音响专用（经常更新）",
-        "trackcount": 346,
-        "playcount": 1602418,
+        "trackcount": 355,
+        "playcount": 2084181,
         "creator": "超杰大大",
         "createDate": "2018-12-04",
-        "heat": 960.0
+        "heat": 1184.0
     },
     "songs": [
+        {
+            "name": "Kate Bush-Running Up That Hill",
+            "artist": "LINGZEA",
+            "id": 2047985543
+        },
+        {
+            "name": "Deep",
+            "artist": "RAYANO",
+            "id": 501798884
+        },
+        {
+            "name": "Say You Love Me",
+            "artist": "Max Oazo",
+            "id": 1899368291
+        },
+        {
+            "name": "Atomic Bomb (feat. Juan Alcasar)",
+            "artist": "Dubdogz",
+            "id": 1449539197
+        },
+        {
+            "name": "Moth To a Flame x After Hours (TikTok Edit) (Remix)",
+            "artist": "Xanemusic",
+            "id": 2028733422
+        },
+        {
+            "name": "Sea Of Problems",
+            "artist": "Glichery",
+            "id": 2025457557
+        },
         {
             "name": "Do It（Orginal Max）",
             "artist": "DJ阿诺",
@@ -29,6 +59,11 @@
             "id": 1434013155
         },
         {
+            "name": "Vibe",
+            "artist": "Fly By Midnight",
+            "id": 533017528
+        },
+        {
             "name": "The Best Of Me",
             "artist": "Dion Timmer",
             "id": 1329938686
@@ -37,6 +72,11 @@
             "name": "Midnight City",
             "artist": "M83",
             "id": 16957723
+        },
+        {
+            "name": "Funny",
+            "artist": "Zedd",
+            "id": 1462389947
         },
         {
             "name": "Own Way",
@@ -449,7 +489,7 @@
             "id": 1396365414
         },
         {
-            "name": "Feel The Fire (Egzod Remix)",
+            "name": "Feel the Fire (Egzod Remix)",
             "artist": "Pluto",
             "id": 444324932
         },
@@ -775,13 +815,8 @@
         },
         {
             "name": "Go through fire and water",
-            "artist": "民浩",
+            "artist": "魯帥",
             "id": 1406574338
-        },
-        {
-            "name": "Inainte Sa Ne Fi Nascut (Dirty Nano Remix)",
-            "artist": "The Motans",
-            "id": 1324662981
         },
         {
             "name": "She's Not Me (Yannik Fischer Remix)",
@@ -1200,7 +1235,7 @@
         },
         {
             "name": "Fearless Pt. II",
-            "artist": "Tule",
+            "artist": "Lost Sky",
             "id": 529391087
         },
         {
@@ -1214,7 +1249,7 @@
             "id": 534067078
         },
         {
-            "name": "Cyka Blyat",
+            "name": "Сука блядь",
             "artist": "DJ Blyatman",
             "id": 1368324900
         },

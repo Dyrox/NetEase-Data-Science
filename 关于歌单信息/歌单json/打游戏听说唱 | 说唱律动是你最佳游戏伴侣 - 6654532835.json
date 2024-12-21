@@ -2,136 +2,16 @@
     "playlist_info": {
         "name": "打游戏听说唱 | 说唱律动是你最佳游戏伴侣",
         "trackcount": 30,
-        "playcount": 7453592,
+        "playcount": 7663639,
         "creator": "云音乐官方歌单",
         "createDate": "2021-03-11",
-        "heat": 8878.0
+        "heat": 8228.0
     },
     "songs": [
         {
-            "name": "Cold",
-            "artist": "French Montana",
-            "id": 1444308021
-        },
-        {
-            "name": "Bailar",
-            "artist": "Day Sulan",
-            "id": 1820008372
-        },
-        {
-            "name": "I Do It",
-            "artist": "Lil Wayne",
-            "id": 1419720078
-        },
-        {
-            "name": "Link Up",
-            "artist": "Lil Loaded",
-            "id": 1501620891
-        },
-        {
-            "name": "Lets Link (feat. Tyga & Lil Mosey)",
-            "artist": "WhoHeem",
-            "id": 1490443141
-        },
-        {
-            "name": "Personal Favorite",
-            "artist": "Trippie Redd",
-            "id": 1491112896
-        },
-        {
-            "name": "SKYBOX",
-            "artist": "Gunna",
-            "id": 1428728226
-        },
-        {
-            "name": "Arriba",
-            "artist": "Spence Lee",
-            "id": 1424231724
-        },
-        {
-            "name": "In My Ways",
-            "artist": "Desiigner",
-            "id": 1466449363
-        },
-        {
-            "name": "Hit Em Up",
-            "artist": "Lil Loaded",
-            "id": 1433691512
-        },
-        {
-            "name": "Just Wanna",
-            "artist": "Iggy Azalea",
-            "id": 1374552585
-        },
-        {
-            "name": "Alkaline",
-            "artist": "KOTA The Friend",
-            "id": 1336866455
-        },
-        {
-            "name": "Vibes",
-            "artist": "Blueface",
-            "id": 1430553730
-        },
-        {
-            "name": "Sauce All on Me",
-            "artist": "Coca Vango",
-            "id": 1338431850
-        },
-        {
-            "name": "Options",
-            "artist": "NF",
-            "id": 1380239197
-        },
-        {
-            "name": "over!",
-            "artist": "hauhwii",
-            "id": 1423032368
-        },
-        {
-            "name": "Young & Humble",
-            "artist": "Spence Lee",
-            "id": 1811382425
-        },
-        {
-            "name": "Gucci Gucci",
-            "artist": "Lil Durk",
-            "id": 1446765906
-        },
-        {
-            "name": "No Flag",
-            "artist": "London On Da Track",
-            "id": 501133525
-        },
-        {
-            "name": "Legend (feat. Rick Ross)",
-            "artist": "Joyner Lucas",
-            "id": 1488918976
-        },
-        {
-            "name": "Clinton Hill",
-            "artist": "KOTA The Friend",
-            "id": 1809936529
-        },
-        {
-            "name": "Zim Zimma",
-            "artist": "Joyner Lucas",
-            "id": 1488918973
-        },
-        {
-            "name": "Sin",
-            "artist": "Young Thug",
-            "id": 1311918479
-        },
-        {
-            "name": "Brand New Booty",
-            "artist": "Lil Gnar",
-            "id": 1449949759
-        },
-        {
-            "name": "Burn The Hoods",
-            "artist": "Ski Mask the Slump God",
-            "id": 1465261623
+            "name": "Masterpiece",
+            "artist": "DaBaby",
+            "id": 1812126638
         },
         {
             "name": "Wave",
@@ -139,24 +19,144 @@
             "id": 459954067
         },
         {
-            "name": "Lip Service 6",
-            "artist": "FXXXXY",
-            "id": 459720871
+            "name": "Hold My Sauce",
+            "artist": "Ayo & Teo",
+            "id": 548890258
         },
         {
-            "name": "F**kin' Love Songs",
-            "artist": "AWA",
-            "id": 1452575490
+            "name": "FCUKIZYOUDOIN",
+            "artist": "Kid Ink",
+            "id": 1415345114
         },
         {
-            "name": "Not Me",
-            "artist": "Lil Wayne",
-            "id": 1419720080
+            "name": "Girls Have Fun",
+            "artist": "Tyga",
+            "id": 1341509171
         },
         {
-            "name": "When I Grow Up",
-            "artist": "NF",
-            "id": 1374552057
+            "name": "Your Love",
+            "artist": "Drama Relax",
+            "id": 1351702312
+        },
+        {
+            "name": "slatt",
+            "artist": "TyFontaine",
+            "id": 1414782746
+        },
+        {
+            "name": "Fly N Ghetto",
+            "artist": "Ayo & Teo",
+            "id": 1408883757
+        },
+        {
+            "name": "Leaked",
+            "artist": "Lil Tjay",
+            "id": 1313104057
+        },
+        {
+            "name": "Out Of This Ili (A$AP Rocky X Troyboi)",
+            "artist": "AVSTIN JAMES",
+            "id": 36198789
+        },
+        {
+            "name": "Go Stupid",
+            "artist": "Polo G",
+            "id": 1421716060
+        },
+        {
+            "name": "All In You",
+            "artist": "Luh Kel",
+            "id": 1473031060
+        },
+        {
+            "name": "Jelly",
+            "artist": "Andre Nickatina",
+            "id": 27776912
+        },
+        {
+            "name": "I NEVA GO HARD",
+            "artist": "Maru Nara",
+            "id": 1353376669
+        },
+        {
+            "name": "PTSD",
+            "artist": "G Herbo",
+            "id": 1426269981
+        },
+        {
+            "name": "NO HALO",
+            "artist": "BROCKHAMPTON",
+            "id": 1385763412
+        },
+        {
+            "name": "ZTFO",
+            "artist": "Big Sean",
+            "id": 1476436331
+        },
+        {
+            "name": "E.T.",
+            "artist": "Yung Gravy",
+            "id": 1368704649
+        },
+        {
+            "name": "Foreplay",
+            "artist": "Jalen Santoy",
+            "id": 491757685
+        },
+        {
+            "name": "I Stand On That",
+            "artist": "E-40",
+            "id": 1489218612
+        },
+        {
+            "name": "Blueberry Faygo",
+            "artist": "Lil Mosey",
+            "id": 1421434285
+        },
+        {
+            "name": "Sky Walker",
+            "artist": "Miguel",
+            "id": 501133405
+        },
+        {
+            "name": "Cravin",
+            "artist": "DaniLeigh",
+            "id": 1397620019
+        },
+        {
+            "name": "OUT WEST",
+            "artist": "JACKBOYS",
+            "id": 1412468947
+        },
+        {
+            "name": "10 Freaky Girls",
+            "artist": "Metro Boomin",
+            "id": 1322229104
+        },
+        {
+            "name": "Update",
+            "artist": "Audio Push",
+            "id": 536629401
+        },
+        {
+            "name": "BRAVOTEAM",
+            "artist": "Last Call",
+            "id": 431826014
+        },
+        {
+            "name": "Ain't Nothing",
+            "artist": "Juicy J",
+            "id": 458270106
+        },
+        {
+            "name": "Cant Sit With Us",
+            "artist": "Honey Cocaine",
+            "id": 33469348
+        },
+        {
+            "name": "Welcome to Chilis",
+            "artist": "Baby Gravy",
+            "id": 1410364201
         }
     ]
 }

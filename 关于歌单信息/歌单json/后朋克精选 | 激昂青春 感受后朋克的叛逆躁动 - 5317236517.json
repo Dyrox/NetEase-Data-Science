@@ -2,146 +2,26 @@
     "playlist_info": {
         "name": "后朋克精选 | 激昂青春 感受后朋克的叛逆躁动",
         "trackcount": 30,
-        "playcount": 4390507,
+        "playcount": 4410447,
         "creator": "云音乐官方歌单",
         "createDate": "2020-11-03",
-        "heat": 4536.0
+        "heat": 4162.0
     },
     "songs": [
         {
-            "name": "Cartesian Bodies",
-            "artist": "The KVB",
-            "id": 28693240
+            "name": "N & N",
+            "artist": "Snapline",
+            "id": 1329493220
         },
         {
-            "name": "Mary Soul Damage",
-            "artist": "Mary Goes Round",
-            "id": 30148382
+            "name": "Eisbär",
+            "artist": "Grauzone",
+            "id": 26286621
         },
         {
-            "name": "Reflection",
-            "artist": "Motorama",
-            "id": 436487345
-        },
-        {
-            "name": "The Boxer",
-            "artist": "Editors",
-            "id": 27115580
-        },
-        {
-            "name": "No1 Mafioso",
-            "artist": "Lebanon Hanover",
-            "id": 4170266
-        },
-        {
-            "name": "A Company",
-            "artist": "Human Tetris",
-            "id": 1810052081
-        },
-        {
-            "name": "Lola",
-            "artist": "The Raincoats",
-            "id": 19374056
-        },
-        {
-            "name": "No Harm",
-            "artist": "Editors",
-            "id": 34916001
-        },
-        {
-            "name": "Factory",
-            "artist": "Siglo Xx",
-            "id": 29709688
-        },
-        {
-            "name": "Dreamy Eyes",
-            "artist": "Azure Blue",
-            "id": 16414126
-        },
-        {
-            "name": "第五次高潮的来临",
-            "artist": "走了",
-            "id": 396630
-        },
-        {
-            "name": "Golden Child",
-            "artist": "Lebanon Hanover",
-            "id": 1476465060
-        },
-        {
-            "name": "Typical Girls",
-            "artist": "The Slits",
-            "id": 3607055
-        },
-        {
-            "name": "我已习惯用各种方式去爱你",
-            "artist": "走了",
-            "id": 396628
-        },
-        {
-            "name": "The Funeral Party",
-            "artist": "The Cure",
-            "id": 21970597
-        },
-        {
-            "name": "Colony",
-            "artist": "Joy Division",
-            "id": 18860350
-        },
-        {
-            "name": "Air-空气",
-            "artist": "雨国Kingdomofrain",
-            "id": 1378093026
-        },
-        {
-            "name": "窗格里的乐园",
-            "artist": "空加太",
-            "id": 1872066914
-        },
-        {
-            "name": "Total Recall",
-            "artist": "The Sound",
-            "id": 4345876
-        },
-        {
-            "name": "Pictorial Girl",
-            "artist": "SONICAVE",
-            "id": 1396210187
-        },
-        {
-            "name": "足球赛",
-            "artist": "海朋森",
-            "id": 562597049
-        },
-        {
-            "name": "瞳醉（A Boy And His Drunken Dog）",
-            "artist": "疯医",
-            "id": 862099949
-        },
-        {
-            "name": "Northern Seaside",
-            "artist": "Motorama",
-            "id": 4195024
-        },
-        {
-            "name": "埃及的雨",
-            "artist": "P.K.14",
-            "id": 27681717
-        },
-        {
-            "name": "我讨厌寒冬，新年和闯红灯的人",
-            "artist": "麻兹妈（Muzzy Mum)",
-            "id": 1461127987
-        },
-        {
-            "name": "Three Girl Rhumba (2006 Remastered Version)",
-            "artist": "Wire",
-            "id": 19841486
-        },
-        {
-            "name": "Hummer",
-            "artist": "Foals",
-            "id": 17893798
+            "name": "Left Myself Behind",
+            "artist": "Toy",
+            "id": 21973995
         },
         {
             "name": "Happy House",
@@ -149,14 +29,134 @@
             "id": 4281221
         },
         {
+            "name": "Shadowplay",
+            "artist": "Joy Division",
+            "id": 4133368
+        },
+        {
+            "name": "L'Heure D'Hiver",
+            "artist": "Little Nemo",
+            "id": 29717929
+        },
+        {
+            "name": "The Funeral Party",
+            "artist": "The Cure",
+            "id": 21970597
+        },
+        {
+            "name": "Spellbound",
+            "artist": "Siouxsie and the Banshees",
+            "id": 4281829
+        },
+        {
+            "name": "Die World II",
+            "artist": "Lebanon Hanover",
+            "id": 4170273
+        },
+        {
+            "name": "掩埋",
+            "artist": "麻兹妈（Muzzy Mum)",
+            "id": 1459485600
+        },
+        {
+            "name": "-",
+            "artist": "Lebanon Hanover",
+            "id": 4170274
+        },
+        {
+            "name": "校外恋人",
+            "artist": "明天的盐",
+            "id": 1401300248
+        },
+        {
+            "name": "Radiant Door",
+            "artist": "Crystal Stilts",
+            "id": 3997944
+        },
+        {
+            "name": "Catch You Low",
+            "artist": "Snapline",
+            "id": 376778
+        },
+        {
             "name": "噬梦者",
             "artist": "A公馆",
             "id": 27931884
         },
         {
-            "name": "I Will Follow",
-            "artist": "U2",
-            "id": 4408841
+            "name": "Bear",
+            "artist": "Motorama",
+            "id": 4195054
+        },
+        {
+            "name": "Winter At Night",
+            "artist": "Motorama",
+            "id": 28059198
+        },
+        {
+            "name": "Talk About the Weather",
+            "artist": "Red Lorry Yellow Lorry",
+            "id": 3363681
+        },
+        {
+            "name": "Cool Guy",
+            "artist": "Double X",
+            "id": 352720
+        },
+        {
+            "name": "早间新闻",
+            "artist": "智齿",
+            "id": 865214840
+        },
+        {
+            "name": "The Token Man",
+            "artist": "Modern English",
+            "id": 21241720
+        },
+        {
+            "name": "Academic",
+            "artist": "New Order",
+            "id": 34880015
+        },
+        {
+            "name": "Eighties",
+            "artist": "Killing Joke",
+            "id": 22564424
+        },
+        {
+            "name": "惊魂记",
+            "artist": "驚蟲（Panic Worm）",
+            "id": 1294910436
+        },
+        {
+            "name": "伯明罕",
+            "artist": "少年维持的烦恼",
+            "id": 379794
+        },
+        {
+            "name": "Haze",
+            "artist": "飛去來",
+            "id": 1317335680
+        },
+        {
+            "name": "Digital",
+            "artist": "Joy Division",
+            "id": 4133333
+        },
+        {
+            "name": "Play For Today",
+            "artist": "The Cure",
+            "id": 21970483
+        },
+        {
+            "name": "P**SON",
+            "artist": "Lur:",
+            "id": 1450529033
+        },
+        {
+            "name": "埃及的雨",
+            "artist": "P.K.14",
+            "id": 27681717
         }
     ]
 }

@@ -2,12 +2,27 @@
     "playlist_info": {
         "name": "女alpha专用歌单|论如何成为渣女",
         "trackcount": 301,
-        "playcount": 1357714,
+        "playcount": 1498233,
         "creator": "当我玩狼人杀才发现没朋友",
         "createDate": "2018-12-08",
-        "heat": 814.0
+        "heat": 853.0
     },
     "songs": [
+        {
+            "name": "Yes & No",
+            "artist": "XYLØ",
+            "id": 1370901308
+        },
+        {
+            "name": "Bandit",
+            "artist": "DJ七七",
+            "id": 2065669099
+        },
+        {
+            "name": "No",
+            "artist": "MADILYN",
+            "id": 412187944
+        },
         {
             "name": "Who Says",
             "artist": "Selena Gomez",
@@ -29,14 +44,14 @@
             "id": 1858811971
         },
         {
+            "name": "Up",
+            "artist": "Cardi B",
+            "id": 1817995541
+        },
+        {
             "name": "TOMBOY",
             "artist": "(G)I-DLE",
             "id": 1927421969
-        },
-        {
-            "name": "Bonnie & Clyde",
-            "artist": "宋雨琦",
-            "id": 1844442265
         },
         {
             "name": "DICTATOR",
@@ -44,19 +59,9 @@
             "id": 1399010459
         },
         {
-            "name": "Same Old Love",
-            "artist": "Selena Gomez",
-            "id": 34578250
-        },
-        {
             "name": "Slow Down",
             "artist": "Madnap",
             "id": 1356658022
-        },
-        {
-            "name": "Up",
-            "artist": "Cardi B",
-            "id": 1817995541
         },
         {
             "name": "Do It",
@@ -169,6 +174,11 @@
             "id": 1436372487
         },
         {
+            "name": "All Night",
+            "artist": "(G)I-DLE",
+            "id": 2046817470
+        },
+        {
             "name": "Desire",
             "artist": "Meg Myers",
             "id": 28283304
@@ -219,11 +229,6 @@
             "id": 1371378988
         },
         {
-            "name": "Lip & Hip",
-            "artist": "泫雅",
-            "id": 522351083
-        },
-        {
             "name": "她",
             "artist": "无限火力",
             "id": 1457782823
@@ -252,11 +257,6 @@
             "name": "PSYCHO",
             "artist": "AViVA",
             "id": 1396930659
-        },
-        {
-            "name": "Addict",
-            "artist": "Silva Hound",
-            "id": 1442764907
         },
         {
             "name": "Like a Glove",
@@ -1080,7 +1080,7 @@
         },
         {
             "name": "Sold Out",
-            "artist": "Hawk Nelson",
+            "artist": "Jonathan Steingard",
             "id": 31010566
         },
         {

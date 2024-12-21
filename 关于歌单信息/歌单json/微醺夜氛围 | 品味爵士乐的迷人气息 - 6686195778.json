@@ -2,31 +2,81 @@
     "playlist_info": {
         "name": "微醺夜氛围 | 品味爵士乐的迷人气息",
         "trackcount": 60,
-        "playcount": 551475,
+        "playcount": 601220,
         "creator": "云音乐官方歌单",
         "createDate": "2021-03-30",
-        "heat": 671.0
+        "heat": 658.0
     },
     "songs": [
+        {
+            "name": "My Funny Valentine",
+            "artist": "Chet Baker",
+            "id": 1142809
+        },
+        {
+            "name": "I Love You Porgy",
+            "artist": "Nina Simone",
+            "id": 1457780740
+        },
+        {
+            "name": "Creep",
+            "artist": "Karen Souza",
+            "id": 5165666
+        },
+        {
+            "name": "Two Sleepy People",
+            "artist": "Carsie Blanton",
+            "id": 28728996
+        },
+        {
+            "name": "Dream A Little Dream",
+            "artist": "Silje Nergaard",
+            "id": 19132396
+        },
+        {
+            "name": "Autumn In New York",
+            "artist": "Louis Armstrong",
+            "id": 21153462
+        },
+        {
+            "name": "Stardust",
+            "artist": "Curtis Stigers",
+            "id": 17033618
+        },
+        {
+            "name": "Both Sides Now",
+            "artist": "Todd Gordon",
+            "id": 27060412
+        },
+        {
+            "name": "Body And Soul",
+            "artist": "Chantal Chamberland",
+            "id": 2326390
+        },
+        {
+            "name": "April In Paris",
+            "artist": "Ella Fitzgerald",
+            "id": 25388864
+        },
         {
             "name": "Sinkin' Soon",
             "artist": "Norah Jones",
             "id": 22456626
         },
         {
-            "name": "That's All",
-            "artist": "Dina Blade",
-            "id": 5191921
+            "name": "Angel Eyes",
+            "artist": "Dee Dee Bridgewater",
+            "id": 5201513
         },
         {
-            "name": "Sorry seems to be the hardest word",
-            "artist": "Lydia Gray",
-            "id": 5103062
+            "name": "Manhattan",
+            "artist": "Blossom Dearie",
+            "id": 471566079
         },
         {
-            "name": "Everything",
-            "artist": "Lisa Ekdahl",
-            "id": 29600242
+            "name": "The Way You Look Tonight",
+            "artist": "Tony Bennett",
+            "id": 5056382
         },
         {
             "name": "Moonbeam",
@@ -34,19 +84,34 @@
             "id": 3548725
         },
         {
+            "name": "Willow Weep For Me",
+            "artist": "Eddie Higgins Trio",
+            "id": 462857286
+        },
+        {
+            "name": "That's All",
+            "artist": "Dina Blade",
+            "id": 5191921
+        },
+        {
+            "name": "Everything",
+            "artist": "Lisa Ekdahl",
+            "id": 29600242
+        },
+        {
             "name": "Que Reste-T-Il De Nos Amours ?",
             "artist": "Stacey Kent",
             "id": 3409100
         },
         {
+            "name": "The Story",
+            "artist": "Norah Jones",
+            "id": 5044717
+        },
+        {
             "name": "So Nice",
             "artist": "Jim Tomlinson",
             "id": 5094255
-        },
-        {
-            "name": "Cry Me a River",
-            "artist": "Julie London",
-            "id": 2775139
         },
         {
             "name": "Breakfast in America",
@@ -59,24 +124,19 @@
             "id": 5166331
         },
         {
-            "name": "The Story",
-            "artist": "Norah Jones",
-            "id": 5044717
-        },
-        {
             "name": "I Don't Miss You Anymore",
             "artist": "Lisa Ekdahl",
             "id": 20994001
         },
         {
-            "name": "I Only Want To Be With You",
-            "artist": "Shelby Lynne",
-            "id": 19144617
-        },
-        {
             "name": "Close Your Eyes",
             "artist": "Saskia Bruin",
             "id": 3555022
+        },
+        {
+            "name": "Goodnight Julia",
+            "artist": "菅野よう子",
+            "id": 22767261
         },
         {
             "name": "So Nice",
@@ -99,49 +159,9 @@
             "id": 3404520
         },
         {
-            "name": "Till It HappensYou",
-            "artist": "Corinne Bailey Rae",
-            "id": 5167314
-        },
-        {
-            "name": "When Will I See You Again",
-            "artist": "Tata",
-            "id": 5155804
-        },
-        {
-            "name": "Baby Baby All The Time",
-            "artist": "Diana Krall",
-            "id": 17416799
-        },
-        {
             "name": "One Good Song",
             "artist": "Emi Meyer",
             "id": 17627698
-        },
-        {
-            "name": "A Love That Will Last",
-            "artist": "Reneé Olstead",
-            "id": 5122361
-        },
-        {
-            "name": "Dreams Come True",
-            "artist": "Willie Nelson",
-            "id": 20750903
-        },
-        {
-            "name": "Solitude",
-            "artist": "Billie Holiday",
-            "id": 473210870
-        },
-        {
-            "name": "I'm In The Mood For Love",
-            "artist": "Rod Stewart",
-            "id": 35737244
-        },
-        {
-            "name": "Loving You",
-            "artist": "Bobby Caldwell",
-            "id": 2207085
         },
         {
             "name": "Embraceable You",
@@ -149,9 +169,9 @@
             "id": 26588388
         },
         {
-            "name": "Rock Away Baby",
-            "artist": "Chantal Chamberland",
-            "id": 2326410
+            "name": "Dreams Come True",
+            "artist": "Willie Nelson",
+            "id": 20750903
         },
         {
             "name": "It's You",
@@ -164,9 +184,9 @@
             "id": 17416996
         },
         {
-            "name": "Jardin d'hiver",
-            "artist": "Stacey Kent",
-            "id": 22358359
+            "name": "Solitude",
+            "artist": "Billie Holiday",
+            "id": 473210870
         },
         {
             "name": "Love",
@@ -174,24 +194,19 @@
             "id": 5176206
         },
         {
-            "name": "I Wish I Could Go Travelling Again",
-            "artist": "Stacey Kent",
-            "id": 22490363
-        },
-        {
             "name": "Sympathique",
             "artist": "Pink Martini",
             "id": 18212755
         },
         {
-            "name": "Candy Street",
-            "artist": "Elsa Kopf",
-            "id": 17617368
-        },
-        {
             "name": "Every Breath You Take",
             "artist": "Karen Souza",
             "id": 19027628
+        },
+        {
+            "name": "Baby Baby All The Time",
+            "artist": "Diana Krall",
+            "id": 17416799
         },
         {
             "name": "Mariana",
@@ -204,9 +219,9 @@
             "id": 18214753
         },
         {
-            "name": "Perhaps, Perhaps, Perhaps",
-            "artist": "Halie Loren",
-            "id": 18214772
+            "name": "Jardin d'hiver",
+            "artist": "Stacey Kent",
+            "id": 22358359
         },
         {
             "name": "Waltz for Debby (Monica Vals)",
@@ -219,14 +234,14 @@
             "id": 18214761
         },
         {
-            "name": "The Girl From Ipanema",
-            "artist": "Stan Getz",
-            "id": 21693174
-        },
-        {
             "name": "Hang on Little Tomato",
             "artist": "Pink Martini",
             "id": 18212778
+        },
+        {
+            "name": "I Wish I Could Go Travelling Again",
+            "artist": "Stacey Kent",
+            "id": 22490363
         },
         {
             "name": "Someone To Watch Over Me",
@@ -234,14 +249,14 @@
             "id": 16738814
         },
         {
-            "name": "Nashville",
-            "artist": "Rachael Yamagata",
-            "id": 1316562704
-        },
-        {
             "name": "You Are The Sunshine Of My Life(feat. Inuzuka Saeko)",
             "artist": "Olivia Ong",
             "id": 26118387
+        },
+        {
+            "name": "I Only Want To Be With You",
+            "artist": "Shelby Lynne",
+            "id": 19144617
         },
         {
             "name": "Desafinado",
@@ -254,14 +269,9 @@
             "id": 24230601
         },
         {
-            "name": "Larmes de caramel",
-            "artist": "Elsa Kopf",
-            "id": 17617362
-        },
-        {
-            "name": "Creep",
-            "artist": "Karen Souza",
-            "id": 5165666
+            "name": "Perhaps, Perhaps, Perhaps",
+            "artist": "Halie Loren",
+            "id": 18214772
         },
         {
             "name": "When Lights Are Low",
@@ -274,14 +284,9 @@
             "id": 5171539
         },
         {
-            "name": "Comment Te Dire Adieu?",
-            "artist": "Allice Carreri & String Swing",
-            "id": 5094776
-        },
-        {
-            "name": "J'ai deux amours",
-            "artist": "Chantal Chamberland",
-            "id": 29578288
+            "name": "The Girl From Ipanema",
+            "artist": "Stan Getz",
+            "id": 21693174
         },
         {
             "name": "Sunday Breakfast",
@@ -289,24 +294,19 @@
             "id": 1831039709
         },
         {
+            "name": "Alone Together",
+            "artist": "Chet Baker",
+            "id": 25679597
+        },
+        {
+            "name": "Moon Love",
+            "artist": "Chet Baker",
+            "id": 1142845
+        },
+        {
             "name": "Close To You",
             "artist": "noon",
             "id": 5191924
-        },
-        {
-            "name": "Summer Is for Falling in Love",
-            "artist": "Sarah Kang",
-            "id": 1463615238
-        },
-        {
-            "name": "Put Your Head On My Shoulder",
-            "artist": "The Macarons Project",
-            "id": 1812426170
-        },
-        {
-            "name": "quand la pluie tombe",
-            "artist": "Nymano",
-            "id": 431096357
         }
     ]
 }

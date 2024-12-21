@@ -2,16 +2,21 @@
     "playlist_info": {
         "name": "垃圾摇滚 | 粗粝内省的西雅图之声",
         "trackcount": 50,
-        "playcount": 808452,
+        "playcount": 837810,
         "creator": "云音乐官方歌单",
         "createDate": "2021-01-06",
-        "heat": 894.0
+        "heat": 841.0
     },
     "songs": [
         {
             "name": "Come As You Are",
             "artist": "Nirvana",
             "id": 21303927
+        },
+        {
+            "name": "Alive",
+            "artist": "Pearl Jam",
+            "id": 18193297
         },
         {
             "name": "Sleeping Bag (Album Version)",
@@ -47,11 +52,6 @@
             "name": "Boris",
             "artist": "Melvins",
             "id": 21218084
-        },
-        {
-            "name": "The Pretender",
-            "artist": "Foo Fighters",
-            "id": 17832293
         },
         {
             "name": "Stumblin' Man",

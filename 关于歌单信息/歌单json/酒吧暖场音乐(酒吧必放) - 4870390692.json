@@ -1,13 +1,63 @@
 {
     "playlist_info": {
         "name": "酒吧暖场音乐(酒吧必放)",
-        "trackcount": 397,
-        "playcount": 965024,
+        "trackcount": 407,
+        "playcount": 1042048,
         "creator": "网易丁久",
         "createDate": "2020-02-18",
-        "heat": 786.0
+        "heat": 790.0
     },
     "songs": [
+        {
+            "name": "Blossom (Lenno Remix)",
+            "artist": "Lenno",
+            "id": 1299570462
+        },
+        {
+            "name": "Groovejet (Andrey Exx & Fomichev Radio Edit)",
+            "artist": "Lissat & Voltaxx",
+            "id": 27939136
+        },
+        {
+            "name": "Hollywood",
+            "artist": "La Vision",
+            "id": 1451645298
+        },
+        {
+            "name": "Horseride",
+            "artist": "BRELAND",
+            "id": 1444322302
+        },
+        {
+            "name": "Hate Me",
+            "artist": "Sam Feldt",
+            "id": 1956401193
+        },
+        {
+            "name": "Call Me Now",
+            "artist": "Michael Calfan",
+            "id": 1485309632
+        },
+        {
+            "name": "Sky High (feat. Nonô)",
+            "artist": "Alok",
+            "id": 1908151164
+        },
+        {
+            "name": "History",
+            "artist": "88rising",
+            "id": 1294889061
+        },
+        {
+            "name": "Give You What You Want（YKB Migg remix）",
+            "artist": "Migg",
+            "id": 2004802647
+        },
+        {
+            "name": "Tell Me If You Need Me",
+            "artist": "Kyden",
+            "id": 1815906566
+        },
         {
             "name": "Disco Inferno",
             "artist": "50 Cent",

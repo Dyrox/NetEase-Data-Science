@@ -1,13 +1,18 @@
 {
     "playlist_info": {
         "name": "[BGM]超带感欧美良曲（典藏版）",
-        "trackcount": 129,
-        "playcount": 13309793,
+        "trackcount": 130,
+        "playcount": 13678871,
         "creator": "夏日小臣",
         "createDate": "2019-08-16",
-        "heat": 9416.0
+        "heat": 9092.0
     },
     "songs": [
+        {
+            "name": "This Far (Rudelies Radio Remix)",
+            "artist": "Raven & Kreyn",
+            "id": 1450158244
+        },
         {
             "name": "Changes",
             "artist": "No Hopes",
@@ -310,7 +315,7 @@
         },
         {
             "name": "Sold Out",
-            "artist": "Hawk Nelson",
+            "artist": "Jonathan Steingard",
             "id": 31010566
         },
         {
@@ -370,7 +375,7 @@
         },
         {
             "name": "Hurricane (Arty Remix)",
-            "artist": "Arty",
+            "artist": "ARTY",
             "id": 31245089
         },
         {

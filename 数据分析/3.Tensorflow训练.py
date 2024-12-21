@@ -21,5 +21,5 @@ model.compile(optimizer='adam', loss='mean_squared_error')
 model.fit(X, y, epochs=50)
 
 # Save the trained model
-model.save('relationship_prediction_model')
+model.save('relationship_prediction_model_dense')
 

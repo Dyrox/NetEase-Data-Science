@@ -1,13 +1,23 @@
 {
     "playlist_info": {
         "name": "超级温柔的英文歌单",
-        "trackcount": 144,
-        "playcount": 3481392,
+        "trackcount": 146,
+        "playcount": 3571623,
         "creator": "提赋-_",
         "createDate": "2019-02-17",
-        "heat": 2180.0
+        "heat": 2120.0
     },
     "songs": [
+        {
+            "name": "Frozen (feat. Ashley Alisha & prettyhappy)",
+            "artist": "Dept",
+            "id": 1909667926
+        },
+        {
+            "name": "Hard To Be Human",
+            "artist": "Anson Seabra",
+            "id": 1990259912
+        },
         {
             "name": "Losing Me (Piano Version)",
             "artist": "Gabrielle Aplin",
@@ -164,7 +174,7 @@
             "id": 476987164
         },
         {
-            "name": "Psycho（英文版）（翻自 Red Velvet） ",
+            "name": "Psycho（英文版）（翻自 Red Velvet）",
             "artist": "SWAGGER",
             "id": 1422461666
         },
@@ -440,7 +450,7 @@
         },
         {
             "name": "Isn't She Lovely",
-            "artist": "不插电兮",
+            "artist": "冯晔",
             "id": 421137242
         },
         {
@@ -534,7 +544,7 @@
             "id": 1354632802
         },
         {
-            "name": "Just The Same",
+            "name": "Just the Same",
             "artist": "Charlotte Lawrence",
             "id": 533455199
         },

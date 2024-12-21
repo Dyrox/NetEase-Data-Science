@@ -1,13 +1,58 @@
 {
     "playlist_info": {
         "name": "上班不犯困，全靠音乐振",
-        "trackcount": 90,
-        "playcount": 790825,
+        "trackcount": 99,
+        "playcount": 913931,
         "creator": "老皮蓋被被",
         "createDate": "2016-06-29",
-        "heat": 308.0
+        "heat": 345.0
     },
     "songs": [
+        {
+            "name": "You're So Annoying",
+            "artist": "Tep No",
+            "id": 1840876239
+        },
+        {
+            "name": "Bandit",
+            "artist": "DJ七七",
+            "id": 2065669099
+        },
+        {
+            "name": "Lovefool (Orginal mix )",
+            "artist": "Zara-Music",
+            "id": 2052116731
+        },
+        {
+            "name": "Early to Bed",
+            "artist": "Morphine",
+            "id": 4176043
+        },
+        {
+            "name": "Midnight City",
+            "artist": "M83",
+            "id": 16957723
+        },
+        {
+            "name": "Polozhenie",
+            "artist": "T3nzu",
+            "id": 1890256410
+        },
+        {
+            "name": "Bongos (feat. Megan Thee Stallion)",
+            "artist": "Cardi B",
+            "id": 2080265554
+        },
+        {
+            "name": "Bored",
+            "artist": "Torine",
+            "id": 1823210482
+        },
+        {
+            "name": "Drive Forever",
+            "artist": "T3nzu",
+            "id": 1869031258
+        },
         {
             "name": "My Type",
             "artist": "Saweetie",

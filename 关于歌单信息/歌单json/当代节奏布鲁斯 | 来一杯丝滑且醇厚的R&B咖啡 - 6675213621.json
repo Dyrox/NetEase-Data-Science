@@ -2,126 +2,36 @@
     "playlist_info": {
         "name": "当代节奏布鲁斯 | 来一杯丝滑且醇厚的R&B咖啡",
         "trackcount": 30,
-        "playcount": 2224073,
+        "playcount": 2326387,
         "creator": "云音乐官方歌单",
         "createDate": "2021-03-23",
-        "heat": 2687.0
+        "heat": 2530.0
     },
     "songs": [
         {
-            "name": "Those Were The Days",
-            "artist": "Aaliyah",
-            "id": 16431583
+            "name": "Threatened",
+            "artist": "Michael Jackson",
+            "id": 21178387
         },
         {
-            "name": "The Way That I Love You (Main Version)",
-            "artist": "Ashanti",
-            "id": 16424646
+            "name": "Lesson Learned",
+            "artist": "Alicia Keys",
+            "id": 16432958
         },
         {
-            "name": "My Life",
-            "artist": "TLC",
-            "id": 21917273
+            "name": "Broken",
+            "artist": "Leona Lewis",
+            "id": 28254618
         },
         {
-            "name": "Yo (Excuse Me Miss) (Main)",
-            "artist": "Chris Brown",
-            "id": 20553977
+            "name": "Break of Dawn",
+            "artist": "Michael Jackson",
+            "id": 21178375
         },
         {
-            "name": "Easy As 1, 2, 3",
-            "artist": "Jay Sean",
-            "id": 1482114
-        },
-        {
-            "name": "If Your Girl Only Knew",
-            "artist": "Aaliyah",
-            "id": 2120402
-        },
-        {
-            "name": "He Wasn't Man Enough",
-            "artist": "Toni Braxton",
-            "id": 19453183
-        },
-        {
-            "name": "Breaks My Heart",
-            "artist": "Monica",
-            "id": 3034356
-        },
-        {
-            "name": "Red Dress",
-            "artist": "Babyface",
-            "id": 1077930
-        },
-        {
-            "name": "I Knew You Were Waiting (For Me)",
-            "artist": "Aretha Franklin",
-            "id": 16450352
-        },
-        {
-            "name": "On It",
-            "artist": "Jazmine Sullivan",
-            "id": 1809258979
-        },
-        {
-            "name": "What If",
-            "artist": "Jason Derulo",
-            "id": 1517331
-        },
-        {
-            "name": "First Class",
-            "artist": "Jeff Bernat",
-            "id": 28068292
-        },
-        {
-            "name": "The Heat",
-            "artist": "Toni Braxton",
-            "id": 19453184
-        },
-        {
-            "name": "Into You",
-            "artist": "Tamia",
-            "id": 19453430
-        },
-        {
-            "name": "Stay With You",
-            "artist": "John Legend",
-            "id": 18615521
-        },
-        {
-            "name": "That Girl",
-            "artist": "Marques Houston",
-            "id": 3048953
-        },
-        {
-            "name": "My Bad",
-            "artist": "Khalid",
-            "id": 1350477870
-        },
-        {
-            "name": "We Ride",
-            "artist": "Rihanna",
-            "id": 3314372
-        },
-        {
-            "name": "What a Girl Wants",
-            "artist": "Christina Aguilera",
-            "id": 17059172
-        },
-        {
-            "name": "I Turn to You",
-            "artist": "Christina Aguilera",
-            "id": 17059173
-        },
-        {
-            "name": "Back at One",
-            "artist": "Brian McKnight",
-            "id": 26673298
-        },
-        {
-            "name": "Exhale (Shoop Shoop)",
-            "artist": "Whitney Houston",
-            "id": 3819361
+            "name": "I Get Lonely",
+            "artist": "Janet Jackson",
+            "id": 22284124
         },
         {
             "name": "Underdog",
@@ -129,19 +39,69 @@
             "id": 1479473975
         },
         {
-            "name": "Because You Loved Me",
-            "artist": "Céline Dion",
-            "id": 2309992
-        },
-        {
-            "name": "Cry",
-            "artist": "Michael Jackson",
-            "id": 21178384
-        },
-        {
-            "name": "Countdown",
+            "name": "Me, Myself and I",
             "artist": "Beyoncé",
-            "id": 19550157
+            "id": 19550021
+        },
+        {
+            "name": "I Care 4 U",
+            "artist": "Aaliyah",
+            "id": 16431576
+        },
+        {
+            "name": "First Class",
+            "artist": "Jeff Bernat",
+            "id": 28068292
+        },
+        {
+            "name": "I'll Make Love to You",
+            "artist": "Boyz II Men",
+            "id": 16846506
+        },
+        {
+            "name": "One In A Million",
+            "artist": "Aaliyah",
+            "id": 2120396
+        },
+        {
+            "name": "Love for All Seasons",
+            "artist": "Christina Aguilera",
+            "id": 17059177
+        },
+        {
+            "name": "What Hurts the Most",
+            "artist": "Monica",
+            "id": 3034366
+        },
+        {
+            "name": "Say Goodbye",
+            "artist": "Chris Brown",
+            "id": 20553987
+        },
+        {
+            "name": "Baby",
+            "artist": "Ashanti",
+            "id": 1863303719
+        },
+        {
+            "name": "Take a Bow",
+            "artist": "Madonna",
+            "id": 1325847082
+        },
+        {
+            "name": "Haven't Told You",
+            "artist": "Kelly Rowland",
+            "id": 19033667
+        },
+        {
+            "name": "Please Me",
+            "artist": "Cardi B",
+            "id": 1346069277
+        },
+        {
+            "name": "I Do (Cherish You)",
+            "artist": "98º",
+            "id": 5054920
         },
         {
             "name": "Let Me Love You",
@@ -149,9 +109,49 @@
             "id": 21165668
         },
         {
-            "name": "Soldier",
-            "artist": "Destiny's Child",
-            "id": 17380172
+            "name": "Go On Girl",
+            "artist": "Ne-Yo",
+            "id": 1786893
+        },
+        {
+            "name": "Lay It Down",
+            "artist": "Lloyd",
+            "id": 1653357
+        },
+        {
+            "name": "I Cry Real Tears (Album Version)",
+            "artist": "Tonya Mitchell",
+            "id": 3560466
+        },
+        {
+            "name": "My Love Is Your Love",
+            "artist": "Whitney Houston",
+            "id": 19827079
+        },
+        {
+            "name": "I Turn to You",
+            "artist": "Christina Aguilera",
+            "id": 17059173
+        },
+        {
+            "name": "1, 2 Step",
+            "artist": "Ciara",
+            "id": 2308988
+        },
+        {
+            "name": "Ignition",
+            "artist": "R. Kelly",
+            "id": 21534568
+        },
+        {
+            "name": "Cry Me a River",
+            "artist": "Justin Timberlake",
+            "id": 18672611
+        },
+        {
+            "name": "Put It Up (feat. Rihanna)",
+            "artist": "Chris Brown",
+            "id": 36586553
         },
         {
             "name": "Good Love",

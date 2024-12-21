@@ -1,13 +1,163 @@
 {
     "playlist_info": {
         "name": "开车听我的 | 就算堵车 还可以开心听歌",
-        "trackcount": 60,
-        "playcount": 839687,
+        "trackcount": 90,
+        "playcount": 1098702,
         "creator": "云音乐官方歌单",
         "createDate": "2023-03-03",
-        "heat": 7149.0
+        "heat": 5249.0
     },
     "songs": [
+        {
+            "name": "Los Angeles",
+            "artist": "HAIM",
+            "id": 1821465253
+        },
+        {
+            "name": "Good Day",
+            "artist": "Bombay Bicycle Club",
+            "id": 1417057332
+        },
+        {
+            "name": "Light and Love",
+            "artist": "The Lemon Twigs",
+            "id": 496517116
+        },
+        {
+            "name": "IknowhowIfeel",
+            "artist": "Parcels",
+            "id": 1316776200
+        },
+        {
+            "name": "Somebody Loving You",
+            "artist": "The Lemon Twigs",
+            "id": 1474751711
+        },
+        {
+            "name": "Carrie",
+            "artist": "PREP",
+            "id": 1483979922
+        },
+        {
+            "name": "Manastra",
+            "artist": "Summer Salt",
+            "id": 530801073
+        },
+        {
+            "name": "West Coast",
+            "artist": "Lana Del Rey",
+            "id": 28409169
+        },
+        {
+            "name": "Blank Space",
+            "artist": "Taylor Swift",
+            "id": 29713617
+        },
+        {
+            "name": "Summertime Sadness",
+            "artist": "Lana Del Rey",
+            "id": 16593589
+        },
+        {
+            "name": "She Will Be Loved",
+            "artist": "Maroon 5",
+            "id": 21253949
+        },
+        {
+            "name": "Lover",
+            "artist": "Taylor Swift",
+            "id": 1382778514
+        },
+        {
+            "name": "Can't Take My Eyes off You",
+            "artist": "Muse",
+            "id": 21256124
+        },
+        {
+            "name": "Alright",
+            "artist": "Supergrass",
+            "id": 21699467
+        },
+        {
+            "name": "After the Moment",
+            "artist": "Craft Spells",
+            "id": 17121111
+        },
+        {
+            "name": "Song 2",
+            "artist": "Blur",
+            "id": 3951467
+        },
+        {
+            "name": "The Beat Goes On",
+            "artist": "Beady Eye",
+            "id": 16821632
+        },
+        {
+            "name": "Dreams Tonite",
+            "artist": "Alvvays",
+            "id": 493631448
+        },
+        {
+            "name": "Warwick Avenue",
+            "artist": "Duffy",
+            "id": 17368769
+        },
+        {
+            "name": "Heads Will Roll",
+            "artist": "Yeah Yeah Yeahs",
+            "id": 20787471
+        },
+        {
+            "name": "Mr. Brightside",
+            "artist": "The Killers",
+            "id": 27928548
+        },
+        {
+            "name": "One Eye Shut",
+            "artist": "Tribes",
+            "id": 26393873
+        },
+        {
+            "name": "Let Go",
+            "artist": "Frou Frou",
+            "id": 17852791
+        },
+        {
+            "name": "47 Millionaires (Radio Edit)",
+            "artist": "77 Bombay Street",
+            "id": 4447406
+        },
+        {
+            "name": "Viva la Vida",
+            "artist": "Coldplay",
+            "id": 3986040
+        },
+        {
+            "name": "Poplar St",
+            "artist": "Glass Animals",
+            "id": 427373604
+        },
+        {
+            "name": "Have a Nice Day",
+            "artist": "Stereophonics",
+            "id": 4279440
+        },
+        {
+            "name": "Unstoppable",
+            "artist": "Sia",
+            "id": 400876320
+        },
+        {
+            "name": "Girl On Fire",
+            "artist": "Alicia Keys",
+            "id": 25657539
+        },
+        {
+            "name": "Criminal",
+            "artist": "Fiona Apple",
+            "id": 17823131
+        },
         {
             "name": "The Sound",
             "artist": "The 1975",

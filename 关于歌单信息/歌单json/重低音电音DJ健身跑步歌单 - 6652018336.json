@@ -1,13 +1,28 @@
 {
     "playlist_info": {
         "name": "重低音电音DJ健身跑步歌单",
-        "trackcount": 328,
-        "playcount": 3664327,
+        "trackcount": 318,
+        "playcount": 4039190,
         "creator": "平民百姓一枚",
         "createDate": "2021-03-09",
-        "heat": 4350.0
+        "heat": 4328.0
     },
     "songs": [
+        {
+            "name": "CMon",
+            "artist": "DJ Sok",
+            "id": 437250569
+        },
+        {
+            "name": "一笑江湖 (DJ弹鼓版)",
+            "artist": "闻人听書_",
+            "id": 2058688293
+        },
+        {
+            "name": "Void (Radio Edit)",
+            "artist": "Prog Monster",
+            "id": 2048700343
+        },
         {
             "name": "Moonlight 0.8x",
             "artist": "晊恦",
@@ -589,13 +604,8 @@
             "id": 1312932836
         },
         {
-            "name": "letting go（DJ版）",
-            "artist": "xH2",
-            "id": 1923992213
-        },
-        {
             "name": "月亮惹的祸（DJ版）",
-            "artist": "民浩",
+            "artist": "魯帥",
             "id": 1416416427
         },
         {
@@ -622,11 +632,6 @@
             "name": "EA7重低音",
             "artist": "YarSiz",
             "id": 1808007955
-        },
-        {
-            "name": "西游记DJ版（翻自 tusunbigim）",
-            "artist": "Mamatjian~ Yalikun",
-            "id": 1826835853
         },
         {
             "name": "Astronaut In The Ocean (Remix) [feat. G-Eazy & DDG]",
@@ -682,11 +687,6 @@
             "name": "Black silk",
             "artist": "DEITIES",
             "id": 1809393471
-        },
-        {
-            "name": "大不了从头再来 (DJ版)",
-            "artist": "DJ多多",
-            "id": 1839173964
         },
         {
             "name": "Alone, Pt. II",
@@ -905,7 +905,7 @@
         },
         {
             "name": "来自天堂的魔鬼",
-            "artist": "鸡汤",
+            "artist": "暴躁鸡汤",
             "id": 1375757556
         },
         {
@@ -932,11 +932,6 @@
             "name": "海底旋律 (DJ版)",
             "artist": "69",
             "id": 1481643224
-        },
-        {
-            "name": "贝斯贝斯上官婉儿",
-            "artist": "鑫鑫",
-            "id": 1820594152
         },
         {
             "name": "辛巴巴巴噜比啦（抖音热搜版）",
@@ -1139,11 +1134,6 @@
             "id": 552145020
         },
         {
-            "name": "I Wanna Do",
-            "artist": "Chemical Surf",
-            "id": 1438038739
-        },
-        {
             "name": "Want Me",
             "artist": "Dazers",
             "id": 522353191
@@ -1152,11 +1142,6 @@
             "name": "Run Free",
             "artist": "Deep Chills",
             "id": 500410102
-        },
-        {
-            "name": "VINCENZO CAIRA",
-            "artist": "DruGTRaffickerS",
-            "id": 1345778121
         },
         {
             "name": "Drown",
@@ -1169,7 +1154,7 @@
             "id": 1466931525
         },
         {
-            "name": "Battle Epic Song 战曲",
+            "name": "战曲 Battle Epic Song",
             "artist": "笑白Ermy",
             "id": 552433256
         },
@@ -1230,28 +1215,13 @@
         },
         {
             "name": "Candy Shop (DJ版)",
-            "artist": "新旭",
+            "artist": "xxx Cr3",
             "id": 1386946638
         },
         {
             "name": "Stand by Me",
             "artist": "Camishe",
             "id": 1311826926
-        },
-        {
-            "name": "第七区",
-            "artist": "Lucas7",
-            "id": 1381739223
-        },
-        {
-            "name": "EA7满怀希望 (DJ版)",
-            "artist": "肖琴",
-            "id": 1398452463
-        },
-        {
-            "name": "Starset",
-            "artist": "Cody Sorenson",
-            "id": 455502171
         },
         {
             "name": "BOOMboom",
@@ -1315,7 +1285,7 @@
         },
         {
             "name": "ProgHouse (DJ版)",
-            "artist": "泽亦龙",
+            "artist": "xxx Cr3",
             "id": 1397288794
         },
         {
@@ -1350,7 +1320,7 @@
         },
         {
             "name": "bboy danny",
-            "artist": "新旭",
+            "artist": "xxx Cr3",
             "id": 1391281654
         },
         {
@@ -1397,21 +1367,6 @@
             "name": "White Angels",
             "artist": "Emre Kabak",
             "id": 1454130024
-        },
-        {
-            "name": "Wakanda",
-            "artist": "Aini",
-            "id": 1809852319
-        },
-        {
-            "name": "Who Face",
-            "artist": "Morello Malt",
-            "id": 1452530290
-        },
-        {
-            "name": "Bugatti (AGLORY Vision)",
-            "artist": "Aglory",
-            "id": 1369791981
         },
         {
             "name": "Opr (Original Mix)",
@@ -1637,11 +1592,6 @@
             "name": "Night to Remember (Original Mix)",
             "artist": "Klaas",
             "id": 27946723
-        },
-        {
-            "name": "Get Bass",
-            "artist": "KOLYNIS",
-            "id": 1417799620
         },
         {
             "name": "Little Swing",

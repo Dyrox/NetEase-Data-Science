@@ -1,13 +1,18 @@
 {
     "playlist_info": {
         "name": "宝藏电子女声：绝离尘世的空灵之美",
-        "trackcount": 141,
-        "playcount": 2430555,
+        "trackcount": 142,
+        "playcount": 2455037,
         "creator": "mayuko然",
         "createDate": "2020-02-20",
-        "heat": 1983.0
+        "heat": 1865.0
     },
     "songs": [
+        {
+            "name": "DANDELION",
+            "artist": "钱润玉",
+            "id": 2074145754
+        },
         {
             "name": "Love Me Better",
             "artist": "Sugar Jesus",
@@ -124,7 +129,7 @@
             "id": 1478047684
         },
         {
-            "name": "Nightlight (Kaivon Remix)",
+            "name": "Nightlight (feat. Annika Wells) [Kaivon Remix]",
             "artist": "ILLENIUM",
             "id": 1481664747
         },
@@ -625,7 +630,7 @@
         },
         {
             "name": "Falling Down (Night Mix)",
-            "artist": "Arty",
+            "artist": "ARTY",
             "id": 461858723
         },
         {
@@ -669,7 +674,7 @@
             "id": 1348939361
         },
         {
-            "name": "So Cold",
+            "name": "So Cold (feat. Lily Denning)",
             "artist": "Mahalo",
             "id": 1350187829
         },

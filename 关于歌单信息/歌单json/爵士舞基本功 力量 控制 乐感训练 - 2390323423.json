@@ -1,0 +1,567 @@
+{
+    "playlist_info": {
+        "name": "爵士舞基本功 力量 控制 乐感训练",
+        "trackcount": 111,
+        "playcount": 1696940,
+        "creator": "AM76DANCE-路路",
+        "createDate": "2018-08-27",
+        "heat": 913.0
+    },
+    "songs": [
+        {
+            "name": "New York",
+            "artist": "Baptiste Giabiconi",
+            "id": 26270153
+        },
+        {
+            "name": "Lone Ranger",
+            "artist": "Rachel Platten",
+            "id": 32317211
+        },
+        {
+            "name": "快乐崇拜",
+            "artist": "张韶涵",
+            "id": 5253738
+        },
+        {
+            "name": "Blow",
+            "artist": "Kesha",
+            "id": 2918883
+        },
+        {
+            "name": "Say So",
+            "artist": "Doja Cat",
+            "id": 1401302504
+        },
+        {
+            "name": "PAPI",
+            "artist": "Isabela Merced",
+            "id": 1399067123
+        },
+        {
+            "name": "All Designer",
+            "artist": "Hedegaard",
+            "id": 1842033421
+        },
+        {
+            "name": "Better Than Her",
+            "artist": "Matisse",
+            "id": 3161878
+        },
+        {
+            "name": "The Weekend",
+            "artist": "88rising",
+            "id": 1886090296
+        },
+        {
+            "name": "Starships",
+            "artist": "Nicki Minaj",
+            "id": 27040064
+        },
+        {
+            "name": "Shut Up",
+            "artist": "Mia Rodriguez",
+            "id": 1924245696
+        },
+        {
+            "name": "International Love",
+            "artist": "Pitbull",
+            "id": 1822378
+        },
+        {
+            "name": "Alone Again (Extended Version)",
+            "artist": "Capcha One",
+            "id": 436633278
+        },
+        {
+            "name": "Down On My Knees",
+            "artist": "Jennifer Rush",
+            "id": 18728252
+        },
+        {
+            "name": "Disturbia",
+            "artist": "Rihanna",
+            "id": 5141657
+        },
+        {
+            "name": "Fever",
+            "artist": "Adam Lambert",
+            "id": 25890396
+        },
+        {
+            "name": "Dangerous",
+            "artist": "Kardinal Offishall",
+            "id": 1958346248
+        },
+        {
+            "name": "Get It Out Me",
+            "artist": "Janet Jackson",
+            "id": 18589016
+        },
+        {
+            "name": "Boys",
+            "artist": "Lizzo",
+            "id": 1817312314
+        },
+        {
+            "name": "Booty Music",
+            "artist": "Deep Side",
+            "id": 2526625
+        },
+        {
+            "name": "Rock With U",
+            "artist": "Janet Jackson",
+            "id": 26884701
+        },
+        {
+            "name": "Feel the Same",
+            "artist": "Olly Murs",
+            "id": 1322356404
+        },
+        {
+            "name": "BECAUSE OF YOU",
+            "artist": "Ne-Yo",
+            "id": 5249237
+        },
+        {
+            "name": "Le lac",
+            "artist": "Julien Doré",
+            "id": 420482701
+        },
+        {
+            "name": "Superstar",
+            "artist": "Jamelia",
+            "id": 22302088
+        },
+        {
+            "name": "Ooh Ooh Baby",
+            "artist": "Britney Spears",
+            "id": 1319855260
+        },
+        {
+            "name": "Don't Love You Anymore ft.44",
+            "artist": "DEXTER KING",
+            "id": 538352529
+        },
+        {
+            "name": "Greedy",
+            "artist": "Ariana Grande",
+            "id": 1846213652
+        },
+        {
+            "name": "Stuck On a Feeling",
+            "artist": "Prince Royce",
+            "id": 32897206
+        },
+        {
+            "name": "Breathe",
+            "artist": "Jax Jones",
+            "id": 1810634218
+        },
+        {
+            "name": "Break Your Heart",
+            "artist": "Taio Cruz",
+            "id": 21925462
+        },
+        {
+            "name": "The Way I Like it",
+            "artist": "Mandy Capristo",
+            "id": 26786201
+        },
+        {
+            "name": "Rude Boy",
+            "artist": "Rihanna",
+            "id": 5103630
+        },
+        {
+            "name": "The One That Got Away",
+            "artist": "Katy Perry",
+            "id": 5079636
+        },
+        {
+            "name": "Part Of Me",
+            "artist": "Katy Perry",
+            "id": 27139516
+        },
+        {
+            "name": "How R U Doin?",
+            "artist": "Aqua",
+            "id": 3881646
+        },
+        {
+            "name": "Only Girl (in the world)",
+            "artist": "Rihanna",
+            "id": 27193319
+        },
+        {
+            "name": "No Gravity",
+            "artist": "Shontelle",
+            "id": 19169866
+        },
+        {
+            "name": "Alive",
+            "artist": "Blue",
+            "id": 22494904
+        },
+        {
+            "name": "Overcomer",
+            "artist": "Mandisa",
+            "id": 27683337
+        },
+        {
+            "name": "All Around The World",
+            "artist": "Justin Bieber",
+            "id": 18637981
+        },
+        {
+            "name": "We Love",
+            "artist": "Sneaky Sound System",
+            "id": 19156755
+        },
+        {
+            "name": "Troublemaker",
+            "artist": "Akon",
+            "id": 16375115
+        },
+        {
+            "name": "Ready Or Not",
+            "artist": "Bridgit Mendler",
+            "id": 26491094
+        },
+        {
+            "name": "Love You Like A Love Song",
+            "artist": "Selena Gomez & The Scene",
+            "id": 26376423
+        },
+        {
+            "name": "Friends",
+            "artist": "Justin Bieber",
+            "id": 524290988
+        },
+        {
+            "name": "Go Head",
+            "artist": "Ali & Gipp",
+            "id": 565422311
+        },
+        {
+            "name": "I Am Not A Whore",
+            "artist": "LMFAO",
+            "id": 16648202
+        },
+        {
+            "name": "SA-MY-D",
+            "artist": "Hedegaard",
+            "id": 1349198586
+        },
+        {
+            "name": "DADDY",
+            "artist": "PSY",
+            "id": 36867958
+        },
+        {
+            "name": "So I Cry",
+            "artist": "JbDubs",
+            "id": 1611197
+        },
+        {
+            "name": "S&M",
+            "artist": "Rihanna",
+            "id": 21562994
+        },
+        {
+            "name": "The Beat Rolls",
+            "artist": "Tom Reason",
+            "id": 512094376
+        },
+        {
+            "name": "My Head Is A Jungle (Gui Boratto Remix - Short Edit)",
+            "artist": "Wankelmut",
+            "id": 26154799
+        },
+        {
+            "name": "Jealous",
+            "artist": "J-Hype",
+            "id": 29803228
+        },
+        {
+            "name": "Hello",
+            "artist": "Barbara Opsomer",
+            "id": 33166086
+        },
+        {
+            "name": "Call You Tonight",
+            "artist": "Whitney Houston",
+            "id": 19827042
+        },
+        {
+            "name": "Misbehaving",
+            "artist": "Dawin",
+            "id": 1401831843
+        },
+        {
+            "name": "Just Follow",
+            "artist": "泫雅",
+            "id": 5348856
+        },
+        {
+            "name": "Thunder (Tiger Jz & Grakk Remix)",
+            "artist": "Tiger JZ",
+            "id": 555004907
+        },
+        {
+            "name": "Born To Do",
+            "artist": "Steven Cooper",
+            "id": 514216257
+        },
+        {
+            "name": "Dreams",
+            "artist": "Nana",
+            "id": 21274643
+        },
+        {
+            "name": "Bassline",
+            "artist": "GotSome",
+            "id": 28598116
+        },
+        {
+            "name": "Let it dance",
+            "artist": "橙汁_Morange",
+            "id": 458927270
+        },
+        {
+            "name": "Booty (Original Mix)",
+            "artist": "Hyzan",
+            "id": 458496599
+        },
+        {
+            "name": "Private",
+            "artist": "JLS",
+            "id": 18858437
+        },
+        {
+            "name": "Seabox",
+            "artist": "Discodeine",
+            "id": 28030059
+        },
+        {
+            "name": "Fall In Love",
+            "artist": "Ramzi",
+            "id": 1884993
+        },
+        {
+            "name": "Do It",
+            "artist": "Ilkay Sencan",
+            "id": 1819889668
+        },
+        {
+            "name": "Akon feat. Kardinal Offishall - Dangerous(Instrumental)(Remix by C-moon)",
+            "artist": "阿曹C-moon",
+            "id": 40249767
+        },
+        {
+            "name": "Strip",
+            "artist": "Brooke Hogan",
+            "id": 16709723
+        },
+        {
+            "name": "Calling",
+            "artist": "Part Six",
+            "id": 4250011
+        },
+        {
+            "name": "Welcome to New York (Big Apple Version)",
+            "artist": "A.M.7.",
+            "id": 488876810
+        },
+        {
+            "name": "Twist your fingers",
+            "artist": "Mr Criminal",
+            "id": 24979594
+        },
+        {
+            "name": "Bienvenue chez moi",
+            "artist": "Dogg Master",
+            "id": 484795812
+        },
+        {
+            "name": "Mood",
+            "artist": "MorganBeatz",
+            "id": 1373906980
+        },
+        {
+            "name": "Lot To Learn",
+            "artist": "Luke Christopher",
+            "id": 410802679
+        },
+        {
+            "name": "小可爱与小领带",
+            "artist": "G.G张思源",
+            "id": 544000206
+        },
+        {
+            "name": "Snipes Funkin Stylez 2016 FINAL Dandy vs Satoci",
+            "artist": "DJHoli",
+            "id": 570309028
+        },
+        {
+            "name": "Time Machine",
+            "artist": "Ingrid Michaelson",
+            "id": 28402345
+        },
+        {
+            "name": "The Secret",
+            "artist": "Astronomyy",
+            "id": 403710510
+        },
+        {
+            "name": "Intergalactic Love",
+            "artist": "Bironnex",
+            "id": 29771629
+        },
+        {
+            "name": "Dj Got Us Fallin' In Love",
+            "artist": "Usher",
+            "id": 27130297
+        },
+        {
+            "name": "Reality",
+            "artist": "Lost Frequencies",
+            "id": 32835377
+        },
+        {
+            "name": "Sexual Healing",
+            "artist": "Elize",
+            "id": 2538549
+        },
+        {
+            "name": "Boys Like Me",
+            "artist": "Courtney Act",
+            "id": 34204436
+        },
+        {
+            "name": "Locked Away",
+            "artist": "OutaMatic",
+            "id": 406072193
+        },
+        {
+            "name": "Hello",
+            "artist": "Martin Solveig",
+            "id": 1750531
+        },
+        {
+            "name": "Black Gun (Russian Version)",
+            "artist": "Happy People",
+            "id": 1307932152
+        },
+        {
+            "name": "Colorful World",
+            "artist": "Vinida (万妮达)",
+            "id": 405253317
+        },
+        {
+            "name": "Gangsta Walk",
+            "artist": "Illusionize",
+            "id": 451981574
+        },
+        {
+            "name": "Attention",
+            "artist": "Charlie Puth",
+            "id": 473817398
+        },
+        {
+            "name": "Moon Girl (Play & Win Radio Version)",
+            "artist": "INNA",
+            "id": 25956581
+        },
+        {
+            "name": "Friendships",
+            "artist": "Pascal Letoublon",
+            "id": 505449407
+        },
+        {
+            "name": "Scratch",
+            "artist": "The Beach Girl 5",
+            "id": 27949132
+        },
+        {
+            "name": "Crazy Law",
+            "artist": "Kazaky",
+            "id": 26609448
+        },
+        {
+            "name": "Except For Us",
+            "artist": "Austin Mahone",
+            "id": 449818962
+        },
+        {
+            "name": "No Limit",
+            "artist": "G-Eazy",
+            "id": 504425722
+        },
+        {
+            "name": "Girl Like Me",
+            "artist": "Queensberry",
+            "id": 4259835
+        },
+        {
+            "name": "Pull the Trigger",
+            "artist": "Adam Tyler",
+            "id": 1069332
+        },
+        {
+            "name": "Don't Call",
+            "artist": "Lost Kings",
+            "id": 522444290
+        },
+        {
+            "name": "Enrique Iglesias - Ring my",
+            "artist": "阿曹C-moon",
+            "id": 40249778
+        },
+        {
+            "name": "Rump Shaker",
+            "artist": "Wreckx-N-Effect",
+            "id": 20489831
+        },
+        {
+            "name": "Disturbia",
+            "artist": "Rihanna",
+            "id": 5142091
+        },
+        {
+            "name": "Lemme Get Some",
+            "artist": "Amanda Blank",
+            "id": 2121956
+        },
+        {
+            "name": "Superlove",
+            "artist": "Tinashe",
+            "id": 421203208
+        },
+        {
+            "name": "-宇多田光 - merry christmas mr. lawrence fyi(Remix by C-moon)（阿曹C-moon Remix）",
+            "artist": "阿曹C-moon",
+            "id": 40249772
+        },
+        {
+            "name": "Rock the House",
+            "artist": "Kat DeLuna",
+            "id": 2877787
+        },
+        {
+            "name": "Dangerous",
+            "artist": "Jennifer Hudson",
+            "id": 28953393
+        },
+        {
+            "name": "Hi-Yah",
+            "artist": "Trish",
+            "id": 33035653
+        },
+        {
+            "name": "Terminal Sex",
+            "artist": "Shakewell",
+            "id": 426291020
+        }
+    ]
+}

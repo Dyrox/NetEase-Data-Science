@@ -2,121 +2,36 @@
     "playlist_info": {
         "name": "60年代摇滚 | 1960年代摇滚精选作品",
         "trackcount": 30,
-        "playcount": 2387754,
+        "playcount": 2421549,
         "creator": "云音乐官方歌单",
         "createDate": "2021-03-09",
-        "heat": 2837.0
+        "heat": 2593.0
     },
     "songs": [
         {
-            "name": "Badge",
-            "artist": "Cream",
-            "id": 17131344
-        },
-        {
-            "name": "2120 South Michigan Avenue",
-            "artist": "The Rolling Stones",
-            "id": 21968346
-        },
-        {
-            "name": "We Can Talk (2000 Digital Remaster)",
-            "artist": "The Band",
-            "id": 21809909
-        },
-        {
-            "name": "Long Tall Shorty",
-            "artist": "The Kinks",
-            "id": 3561689
-        },
-        {
-            "name": "Your Summer Dream (Stereo)",
+            "name": "Moon Dawg",
             "artist": "The Beach Boys",
-            "id": 1306124295
+            "id": 21913084
         },
         {
-            "name": "I Took My Baby Home",
+            "name": "All I Have To Do Is Dream (R.Bryant)",
+            "artist": "Bob Dylan",
+            "id": 1084251
+        },
+        {
+            "name": "Stop Your Sobbing",
             "artist": "The Kinks",
-            "id": 3561695
+            "id": 3561739
         },
         {
-            "name": "Rollin' And Tumblin'",
+            "name": "I'm So Glad",
             "artist": "Cream",
-            "id": 17131156
+            "id": 17131157
         },
         {
-            "name": "You're Gonna Miss Me",
-            "artist": "13th Floor Elevators",
-            "id": 3874316
-        },
-        {
-            "name": "I Know There's An Answer",
+            "name": "Let's Go Away For Awhile",
             "artist": "The Beach Boys",
-            "id": 3559467
-        },
-        {
-            "name": "I Shall Be Released (2000 Digital Remaster)",
-            "artist": "The Band",
-            "id": 21809914
-        },
-        {
-            "name": "I Heard Her Call My Name",
-            "artist": "The Velvet Underground",
-            "id": 19537502
-        },
-        {
-            "name": "Let's Get Together",
-            "artist": "Jefferson Airplane",
-            "id": 2778215
-        },
-        {
-            "name": "Chauffeur Blues",
-            "artist": "Jefferson Airplane",
-            "id": 2778218
-        },
-        {
-            "name": "Splash 1",
-            "artist": "13th Floor Elevators",
-            "id": 3874324
-        },
-        {
-            "name": "White Light/White Heat",
-            "artist": "The Velvet Underground",
-            "id": 19537496
-        },
-        {
-            "name": "Joshua Fit the Battle",
-            "artist": "Elvis Presley",
-            "id": 20842768
-        },
-        {
-            "name": "Let Me Go",
-            "artist": "The Moody Blues",
-            "id": 4349058
-        },
-        {
-            "name": "It's Easy Child",
-            "artist": "The Moody Blues",
-            "id": 4349044
-        },
-        {
-            "name": "Wicked Annabella",
-            "artist": "The Kinks",
-            "id": 3561214
-        },
-        {
-            "name": "Sweet Wine",
-            "artist": "Cream",
-            "id": 17131152
-        },
-        {
-            "name": "Dreaming",
-            "artist": "Cream",
-            "id": 17131151
-        },
-        {
-            "name": "Confessin' the Blues",
-            "artist": "The Rolling Stones",
-            "id": 21968341
+            "id": 3559454
         },
         {
             "name": "Phenomenal Cat",
@@ -124,19 +39,89 @@
             "id": 3561208
         },
         {
-            "name": "Don't Talk (Put Your Head On My Shoulder)",
-            "artist": "The Beach Boys",
-            "id": 3559447
+            "name": "Swing Down Sweet Chariot",
+            "artist": "Elvis Presley",
+            "id": 1405068348
         },
         {
-            "name": "I Just Wasn't Made For These Times",
-            "artist": "The Beach Boys",
-            "id": 3559475
+            "name": "I Shall Be Released (2000 Digital Remaster)",
+            "artist": "The Band",
+            "id": 21809914
         },
         {
-            "name": "Big Sky",
-            "artist": "The Kinks",
-            "id": 3561183
+            "name": "My Best Friend (Mono Version)",
+            "artist": "Jefferson Airplane",
+            "id": 469998582
+        },
+        {
+            "name": "Kingdom of Heaven",
+            "artist": "13th Floor Elevators",
+            "id": 3874352
+        },
+        {
+            "name": "Tears Of Rage (2000 Digital Remaster)",
+            "artist": "The Band",
+            "id": 21809904
+        },
+        {
+            "name": "Have You Ever Seen the Rain?",
+            "artist": "Creedence Clearwater Revival",
+            "id": 1142600
+        },
+        {
+            "name": "The Murder Mystery",
+            "artist": "The Velvet Underground",
+            "id": 541658173
+        },
+        {
+            "name": "I Heard Her Call My Name",
+            "artist": "The Velvet Underground",
+            "id": 19537502
+        },
+        {
+            "name": "Go Now",
+            "artist": "The Moody Blues",
+            "id": 4349039
+        },
+        {
+            "name": "Reverberation (Doubt)",
+            "artist": "13th Floor Elevators",
+            "id": 3874328
+        },
+        {
+            "name": "And We Bid You Goodnight (2001 Remaster)",
+            "artist": "Grateful Dead",
+            "id": 2645864
+        },
+        {
+            "name": "Everybody's Wrong",
+            "artist": "Buffalo Springfield",
+            "id": 421362094
+        },
+        {
+            "name": "St. Stephen (Remastered LP Version)",
+            "artist": "Grateful Dead",
+            "id": 18068857
+        },
+        {
+            "name": "Little Deuce Coupe",
+            "artist": "The Beach Boys",
+            "id": 3560017
+        },
+        {
+            "name": "Cotton Fields (The Cotton Song)",
+            "artist": "The Beach Boys",
+            "id": 3559063
+        },
+        {
+            "name": "Today (Stereo Version)",
+            "artist": "Jefferson Airplane",
+            "id": 2778170
+        },
+        {
+            "name": "Chug-A-Lug",
+            "artist": "The Beach Boys",
+            "id": 1457228644
         },
         {
             "name": "If You Need Me",
@@ -144,19 +129,34 @@
             "id": 21968350
         },
         {
-            "name": "You Still Believe In Me",
-            "artist": "The Beach Boys",
-            "id": 3559437
+            "name": "Mama You Been",
+            "artist": "Bob Dylan",
+            "id": 1084276
         },
         {
-            "name": "Empty Heart",
-            "artist": "The Rolling Stones",
-            "id": 21968342
+            "name": "Badge",
+            "artist": "Cream",
+            "id": 17131344
         },
         {
-            "name": "Let's Go Away For Awhile",
+            "name": "True Love (Tradicional)",
+            "artist": "Bob Dylan",
+            "id": 1084266
+        },
+        {
+            "name": "Please Let Me Wonder",
             "artist": "The Beach Boys",
-            "id": 3559454
+            "id": 3559675
+        },
+        {
+            "name": "Joshua Fit the Battle",
+            "artist": "Elvis Presley",
+            "id": 20842768
+        },
+        {
+            "name": "High Flying Bird",
+            "artist": "Jefferson Airplane",
+            "id": 2778222
         }
     ]
 }

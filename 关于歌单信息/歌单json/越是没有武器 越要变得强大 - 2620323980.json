@@ -1,13 +1,48 @@
 {
     "playlist_info": {
         "name": "越是没有武器 越要变得强大",
-        "trackcount": 210,
-        "playcount": 3252497,
+        "trackcount": 216,
+        "playcount": 3624242,
         "creator": "l裴l",
         "createDate": "2019-01-12",
-        "heat": 1995.0
+        "heat": 2105.0
     },
     "songs": [
+        {
+            "name": "KLEIN BLUE",
+            "artist": "Nine Band",
+            "id": 1964744004
+        },
+        {
+            "name": "Evil Eyes",
+            "artist": "DJ七七",
+            "id": 2075821153
+        },
+        {
+            "name": "Bandit",
+            "artist": "DJ七七",
+            "id": 2065669099
+        },
+        {
+            "name": "DARK RAVE",
+            "artist": "l19u1d",
+            "id": 2025337662
+        },
+        {
+            "name": "Running Up That Hill（Remix）",
+            "artist": "LinRc",
+            "id": 2051618802
+        },
+        {
+            "name": "Sea Of Problems",
+            "artist": "Glichery",
+            "id": 2025457557
+        },
+        {
+            "name": "雾 隐 之 • 术",
+            "artist": "HOPERUI",
+            "id": 1441081104
+        },
         {
             "name": "Hear My Call (feat. Tyler Graves)",
             "artist": "Trivecta",
@@ -17,16 +52,6 @@
             "name": "GigaChad Theme (Phonk House Version)",
             "artist": "g3ox_em",
             "id": 1974460387
-        },
-        {
-            "name": "Running Up That Hill（Remix）",
-            "artist": "LingRc",
-            "id": 2051618802
-        },
-        {
-            "name": "Ferrari",
-            "artist": "Jayvine Ramma",
-            "id": 2020576962
         },
         {
             "name": "Stronger（X0.85）",
@@ -150,7 +175,7 @@
         },
         {
             "name": "Ass Like That",
-            "artist": "Psaxxx",
+            "artist": "அலாதீன் இசை",
             "id": 1948083890
         },
         {
@@ -239,7 +264,7 @@
             "id": 557583842
         },
         {
-            "name": "Feel The Fire (Egzod Remix)",
+            "name": "Feel the Fire (Egzod Remix)",
             "artist": "Pluto",
             "id": 444324932
         },
@@ -347,6 +372,11 @@
             "name": "Criminals",
             "artist": "F.O.O.L",
             "id": 1450889933
+        },
+        {
+            "name": "Ferrari",
+            "artist": "Jayvine Ramma",
+            "id": 2020576962
         },
         {
             "name": "Color (İlkan Günüç & Osman Altun Remix)",
@@ -530,7 +560,7 @@
         },
         {
             "name": "Club Remix（DJ版）",
-            "artist": "新旭",
+            "artist": "xxx Cr3",
             "id": 1401433415
         },
         {
@@ -755,7 +785,7 @@
         },
         {
             "name": "R.I.O.-Like I Love You（DJ版）",
-            "artist": "民浩",
+            "artist": "魯帥",
             "id": 1466242414
         },
         {
@@ -785,7 +815,7 @@
         },
         {
             "name": "One Day（DJ版）",
-            "artist": "民浩",
+            "artist": "魯帥",
             "id": 1466215198
         },
         {
@@ -845,7 +875,7 @@
         },
         {
             "name": "Sound of my Dream (DJ版)",
-            "artist": "新旭",
+            "artist": "xxx Cr3",
             "id": 1399839595
         },
         {
@@ -859,7 +889,7 @@
             "id": 1450445206
         },
         {
-            "name": "Wrap Me in plastic（翻自 CHROMANCE） ",
+            "name": "Wrap Me in plastic（翻自 CHROMANCE）",
             "artist": "koka",
             "id": 1392580896
         },
@@ -970,7 +1000,7 @@
         },
         {
             "name": "Sold Out",
-            "artist": "Hawk Nelson",
+            "artist": "Jonathan Steingard",
             "id": 31010566
         },
         {
@@ -1044,7 +1074,7 @@
             "id": 1365398014
         },
         {
-            "name": "Cyka Blyat",
+            "name": "Сука блядь",
             "artist": "DJ Blyatman",
             "id": 1368324900
         },

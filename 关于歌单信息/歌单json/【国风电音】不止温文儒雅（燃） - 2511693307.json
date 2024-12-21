@@ -1,13 +1,43 @@
 {
     "playlist_info": {
         "name": "【国风电音】不止温文儒雅（燃）",
-        "trackcount": 74,
-        "playcount": 1751929,
+        "trackcount": 80,
+        "playcount": 1817405,
         "creator": "李化禹",
         "createDate": "2018-11-13",
-        "heat": 1036.0
+        "heat": 1020.0
     },
     "songs": [
+        {
+            "name": "赛博中秋",
+            "artist": "LZX千鹤",
+            "id": 2085424278
+        },
+        {
+            "name": "神海玟",
+            "artist": "PTReX",
+            "id": 2041283274
+        },
+        {
+            "name": "E R O I C A",
+            "artist": "EXCILLEX",
+            "id": 1949353253
+        },
+        {
+            "name": "牛",
+            "artist": "Anti-General",
+            "id": 2075790867
+        },
+        {
+            "name": "螳螂捕蝉",
+            "artist": "聲無哀樂",
+            "id": 1952521938
+        },
+        {
+            "name": "Ash",
+            "artist": "Kirara Magic",
+            "id": 1907498364
+        },
         {
             "name": "Dragonflame",
             "artist": "Kirara Magic",
@@ -244,7 +274,7 @@
             "id": 425008319
         },
         {
-            "name": "史诗中国 ",
+            "name": "史诗中国",
             "artist": "路南",
             "id": 1313052443
         },

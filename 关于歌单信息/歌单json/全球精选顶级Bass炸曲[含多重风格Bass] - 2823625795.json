@@ -1,13 +1,73 @@
 {
     "playlist_info": {
         "name": "全球精选顶级Bass炸曲[含多重风格Bass]",
-        "trackcount": 626,
-        "playcount": 1102067,
+        "trackcount": 638,
+        "playcount": 1117160,
         "creator": "lilcotts21",
         "createDate": "2019-06-01",
-        "heat": 739.0
+        "heat": 706.0
     },
     "songs": [
+        {
+            "name": "Jungle",
+            "artist": "Alok",
+            "id": 2079346307
+        },
+        {
+            "name": "Real Love",
+            "artist": "Martin Garrix",
+            "id": 2079343374
+        },
+        {
+            "name": "Taped Up Heart",
+            "artist": "KREAM",
+            "id": 435417785
+        },
+        {
+            "name": "RATATA",
+            "artist": "Skrillex",
+            "id": 2022863865
+        },
+        {
+            "name": "Vision",
+            "artist": "Habstrakt",
+            "id": 2023415140
+        },
+        {
+            "name": "Stack",
+            "artist": "BROHUG",
+            "id": 2050517472
+        },
+        {
+            "name": "Nostalgia",
+            "artist": "Mesto",
+            "id": 2059398693
+        },
+        {
+            "name": "Bring It Back",
+            "artist": "Mesto",
+            "id": 2018776837
+        },
+        {
+            "name": "Let You Go",
+            "artist": "Maor Levi",
+            "id": 2027697554
+        },
+        {
+            "name": "Apart",
+            "artist": "Zonderling",
+            "id": 1479677882
+        },
+        {
+            "name": "NRG",
+            "artist": "Julian Jordan",
+            "id": 2062919169
+        },
+        {
+            "name": "Dopamine Junkie",
+            "artist": "Vicetone",
+            "id": 2035357559
+        },
         {
             "name": "Fool 4 U (feat. Enisa)",
             "artist": "Galantis",
@@ -724,7 +784,7 @@
             "id": 1844821043
         },
         {
-            "name": "So Cold",
+            "name": "So Cold (feat. Lily Denning)",
             "artist": "Mahalo",
             "id": 1350187829
         },
@@ -1359,7 +1419,7 @@
             "id": 468513563
         },
         {
-            "name": "I WARE HOUSE",
+            "name": "I Ware House",
             "artist": "Joyryde",
             "id": 461518992
         },

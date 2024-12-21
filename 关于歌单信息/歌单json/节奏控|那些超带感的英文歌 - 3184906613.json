@@ -1,13 +1,158 @@
 {
     "playlist_info": {
         "name": "节奏控|那些超带感的英文歌",
-        "trackcount": 355,
-        "playcount": 7899830,
+        "trackcount": 384,
+        "playcount": 9914151,
         "creator": "如果是妳的hua",
         "createDate": "2020-01-10",
-        "heat": 6236.0
+        "heat": 7302.0
     },
     "songs": [
+        {
+            "name": "Birthday *** (up-tempo)",
+            "artist": "Jeremih",
+            "id": 26835880
+        },
+        {
+            "name": "Crystals",
+            "artist": "Isolate.exe",
+            "id": 1911807658
+        },
+        {
+            "name": "This Feeling (Slowed & Reverb)",
+            "artist": "my!lane",
+            "id": 1904700622
+        },
+        {
+            "name": "Amnesia[Slowed]",
+            "artist": "kokou",
+            "id": 2019336824
+        },
+        {
+            "name": "Shifting Gears",
+            "artist": "Jason Paris",
+            "id": 1927829515
+        },
+        {
+            "name": "MONEY IN MY POCKET",
+            "artist": "808Monster",
+            "id": 2067126532
+        },
+        {
+            "name": "Moth To a Flame x After Hours (Sped up)",
+            "artist": "Karry_b",
+            "id": 2028167900
+        },
+        {
+            "name": "NUMB",
+            "artist": "RAIZHELL",
+            "id": 2041609211
+        },
+        {
+            "name": "3 Strikes",
+            "artist": "Terror Jr",
+            "id": 436699058
+        },
+        {
+            "name": "Come Around Me",
+            "artist": "Justin Bieber",
+            "id": 1420972635
+        },
+        {
+            "name": "Lifestyle",
+            "artist": "K.Way",
+            "id": 1963591655
+        },
+        {
+            "name": "We Found Drill",
+            "artist": "AstrowBeatz",
+            "id": 2069135820
+        },
+        {
+            "name": "Killers From The Northside (Sped Up)",
+            "artist": "Kordhell",
+            "id": 1959607235
+        },
+        {
+            "name": "PLAY",
+            "artist": "Ricii Lompeurs",
+            "id": 1963132367
+        },
+        {
+            "name": "Dead Inside",
+            "artist": "АДЛИН",
+            "id": 1890128737
+        },
+        {
+            "name": "TIRED OF PROBLEMS",
+            "artist": "NUEKI",
+            "id": 2061508316
+        },
+        {
+            "name": "DARK RAVE",
+            "artist": "l19u1d",
+            "id": 2025337662
+        },
+        {
+            "name": "Night Drive",
+            "artist": "Wilee",
+            "id": 1919684213
+        },
+        {
+            "name": "SO TIRED",
+            "artist": "NUEKI",
+            "id": 2047126369
+        },
+        {
+            "name": "Sea Of Problems",
+            "artist": "Glichery",
+            "id": 2025457557
+        },
+        {
+            "name": "Void (Radio Edit)",
+            "artist": "Prog Monster",
+            "id": 2048700343
+        },
+        {
+            "name": "Night Crusing x Time to Pretend",
+            "artist": "ZsFlovexl",
+            "id": 2026872848
+        },
+        {
+            "name": "Higher",
+            "artist": "Tobu",
+            "id": 28830412
+        },
+        {
+            "name": "HEADLIGHTS FLASHES",
+            "artist": "HXVRMXN",
+            "id": 1884668957
+        },
+        {
+            "name": "nightexpress (Slowed + Reverb)",
+            "artist": "kim",
+            "id": 1937426969
+        },
+        {
+            "name": "Million Days",
+            "artist": "SABAI",
+            "id": 1417055605
+        },
+        {
+            "name": "Memory Reboot",
+            "artist": "VØJ",
+            "id": 2013880610
+        },
+        {
+            "name": "Feel Right Now",
+            "artist": "IRXD7",
+            "id": 1936551517
+        },
+        {
+            "name": "Dilemma",
+            "artist": "Nelly",
+            "id": 21273749
+        },
         {
             "name": "i walk this earth all by myself",
             "artist": "EKKSTACY",
@@ -234,7 +379,7 @@
             "id": 1896108091
         },
         {
-            "name": "Feel The Fire (Egzod Remix)",
+            "name": "Feel the Fire (Egzod Remix)",
             "artist": "Pluto",
             "id": 444324932
         },
@@ -545,7 +690,7 @@
         },
         {
             "name": "Light Particle（Original Mix）",
-            "artist": "Young Xxxg",
+            "artist": "Armagan Oruc",
             "id": 1925396823
         },
         {
@@ -894,7 +1039,7 @@
             "id": 555974147
         },
         {
-            "name": "Walk Thru Fire ",
+            "name": "Walk Thru Fire",
             "artist": "Vicetone",
             "id": 1322460396
         },
@@ -915,7 +1060,7 @@
         },
         {
             "name": "3LAU-Touch 混音 翻自 (3LAU、Carly Paige)（右耳Music remix）",
-            "artist": "右耳Music",
+            "artist": "右耳M",
             "id": 1489648209
         },
         {
@@ -1260,7 +1405,7 @@
         },
         {
             "name": "Fearless Pt. II",
-            "artist": "Tule",
+            "artist": "Lost Sky",
             "id": 529391087
         },
         {
@@ -1430,7 +1575,7 @@
         },
         {
             "name": "One Day（DJ版）",
-            "artist": "民浩",
+            "artist": "魯帥",
             "id": 1466215198
         },
         {
@@ -1469,7 +1614,7 @@
             "id": 485612576
         },
         {
-            "name": "May I see U again-I love you 3000 times（翻自 MT1990） ",
+            "name": "May I see U again-I love you 3000 times（翻自 MT1990）",
             "artist": "MappleZS",
             "id": 1386495856
         },

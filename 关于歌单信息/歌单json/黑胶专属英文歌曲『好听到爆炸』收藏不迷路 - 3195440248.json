@@ -1,13 +1,33 @@
 {
     "playlist_info": {
         "name": "黑胶专属英文歌曲『好听到爆炸』收藏不迷路",
-        "trackcount": 242,
-        "playcount": 745030,
+        "trackcount": 246,
+        "playcount": 754787,
         "creator": "雾潵-",
         "createDate": "2020-01-16",
-        "heat": 589.0
+        "heat": 558.0
     },
     "songs": [
+        {
+            "name": "Closer",
+            "artist": "The Chainsmokers",
+            "id": 423228325
+        },
+        {
+            "name": "Paris",
+            "artist": "The Chainsmokers",
+            "id": 453185808
+        },
+        {
+            "name": "Freak On (Radio Edit)",
+            "artist": "Karlyn",
+            "id": 515947800
+        },
+        {
+            "name": "Spin It (The Fidget Song)",
+            "artist": "Emoj",
+            "id": 488965395
+        },
         {
             "name": "Game Time (feat. Sage the Gemini)",
             "artist": "Flo Rida",
@@ -529,7 +549,7 @@
             "id": 442869301
         },
         {
-            "name": "Feel The Fire (Egzod Remix)",
+            "name": "Feel the Fire (Egzod Remix)",
             "artist": "Pluto",
             "id": 444324932
         },
@@ -820,7 +840,7 @@
         },
         {
             "name": "Fly Away",
-            "artist": "Anjulie",
+            "artist": "TheFatRat",
             "id": 480648424
         },
         {

@@ -1,37 +1,47 @@
 {
     "playlist_info": {
         "name": "『游戏必备』超燃战歌/高能预警/逆风翻盘",
-        "trackcount": 249,
-        "playcount": 7329006,
+        "trackcount": 251,
+        "playcount": 8020447,
         "creator": "宋欤",
         "createDate": "2019-01-05",
-        "heat": 4479.0
+        "heat": 4643.0
     },
     "songs": [
+        {
+            "name": "落在海平面的微光",
+            "artist": "范世錡",
+            "id": 2084391250
+        },
         {
             "name": "KLEIN BLUE",
             "artist": "Nine Band",
             "id": 1964744004
         },
         {
-            "name": "只是回忆加了分 （0.8x）",
-            "artist": "给猫讲故事",
-            "id": 2031796212
+            "name": "Kate Bush-Running Up That Hill",
+            "artist": "LINGZEA",
+            "id": 2047985543
         },
         {
-            "name": "Just Dance",
-            "artist": "王广允",
-            "id": 2058892047
+            "name": "嘴",
+            "artist": "赵晨唏",
+            "id": 2081196527
+        },
+        {
+            "name": "靠近我",
+            "artist": "张新成",
+            "id": 2077516623
+        },
+        {
+            "name": "危险感动",
+            "artist": "ToniChen",
+            "id": 2076684329
         },
         {
             "name": "Angel With A Shotgun",
             "artist": "The Cab",
             "id": 19291941
-        },
-        {
-            "name": "Kate Bush-Running Up That Hill",
-            "artist": "LINGZEA",
-            "id": 2047985543
         },
         {
             "name": "Wake (Live)",
@@ -125,7 +135,7 @@
         },
         {
             "name": "Ass Like That",
-            "artist": "Psaxxx",
+            "artist": "அலாதீன் இசை",
             "id": 1948083890
         },
         {
@@ -145,7 +155,7 @@
         },
         {
             "name": "#тамада (Сингл) Remix",
-            "artist": "AHao",
+            "artist": "Seven77_Hao",
             "id": 1995759563
         },
         {
@@ -184,7 +194,7 @@
             "id": 1451122329
         },
         {
-            "name": "Feel The Fire (Bronze Whale Remix)",
+            "name": "Feel the Fire (Bronze Whale Remix)",
             "artist": "Pluto",
             "id": 444324930
         },
@@ -364,7 +374,7 @@
             "id": 566295511
         },
         {
-            "name": "Feel The Fire (Egzod Remix)",
+            "name": "Feel the Fire (Egzod Remix)",
             "artist": "Pluto",
             "id": 444324932
         },
@@ -870,7 +880,7 @@
         },
         {
             "name": "Sold Out",
-            "artist": "Hawk Nelson",
+            "artist": "Jonathan Steingard",
             "id": 31010566
         },
         {
@@ -1035,7 +1045,7 @@
         },
         {
             "name": "despair",
-            "artist": "YINSHENG",
+            "artist": "Flower Kiss",
             "id": 550829288
         },
         {
@@ -1229,7 +1239,7 @@
             "id": 479717618
         },
         {
-            "name": "Battle Epic Song 战曲",
+            "name": "战曲 Battle Epic Song",
             "artist": "笑白Ermy",
             "id": 552433256
         },

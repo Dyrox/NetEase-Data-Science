@@ -1,67 +1,167 @@
 {
     "playlist_info": {
         "name": "夏日摇滚 | 漫漫夏月夜 微风吹来清凉的旋律",
-        "trackcount": 51,
-        "playcount": 1483472,
+        "trackcount": 50,
+        "playcount": 1560831,
         "creator": "云音乐官方歌单",
         "createDate": "2021-05-12",
-        "heat": 1908.0
+        "heat": 1795.0
     },
     "songs": [
         {
-            "name": "公园里",
-            "artist": "白天不亮",
-            "id": 1889726754
+            "name": "Stay with Me",
+            "artist": "The Fur.",
+            "id": 1496040961
         },
         {
-            "name": "夏がそうさせた",
-            "artist": "never young beach",
-            "id": 32069687
-        },
-        {
-            "name": "Your Summer Dream",
-            "artist": "The Beach Boys",
-            "id": 27398331
-        },
-        {
-            "name": "我从未如此期待过这个夏天的到来（our time is running out）",
-            "artist": "夏幕（Termination of Teens）",
-            "id": 1840942719
-        },
-        {
-            "name": "Manastra",
-            "artist": "Summer Salt",
-            "id": 530801073
-        },
-        {
-            "name": "夏日午睡",
-            "artist": "与少年他",
-            "id": 1481434876
-        },
-        {
-            "name": "Twilight Rush（暮色狂奔）",
-            "artist": "结冰水",
-            "id": 1373002687
+            "name": "镜中镜",
+            "artist": "林以乐",
+            "id": 1317265832
         },
         {
             "name": "夏夜晚风",
+            "artist": "伍佰 & China Blue",
+            "id": 157263
+        },
+        {
+            "name": "無以名狀",
+            "artist": "猛虎巧克力",
+            "id": 1440380957
+        },
+        {
+            "name": "Short Stay",
+            "artist": "The Fur.",
+            "id": 1305365914
+        },
+        {
+            "name": "交杂陨石",
+            "artist": "林以乐",
+            "id": 1317268389
+        },
+        {
+            "name": "下雨的垦丁",
+            "artist": "丝袜小姐",
+            "id": 376324
+        },
+        {
+            "name": "浪漫人渣",
+            "artist": "打倒三明治",
+            "id": 1393632137
+        },
+        {
+            "name": "波兰首都是上海",
+            "artist": "yourboyfriendsucks!",
+            "id": 419596181
+        },
+        {
+            "name": "You'll See",
+            "artist": "Tizzy Bac",
+            "id": 382108
+        },
+        {
+            "name": "夏天",
+            "artist": "痛仰乐队",
+            "id": 28949123
+        },
+        {
+            "name": "海浪",
             "artist": "deca joins",
-            "id": 1451856375
+            "id": 1320101152
         },
         {
-            "name": "萤火虫小夜曲",
-            "artist": "甜梅号",
-            "id": 382212
+            "name": "想去海边",
+            "artist": "夏日入侵企画",
+            "id": 1413863166
         },
         {
-            "name": "Summersong",
-            "artist": "The Decemberists",
-            "id": 22551517
+            "name": "野海",
+            "artist": "潜水大象",
+            "id": 556462734
         },
         {
-            "name": "Big Jet Plane",
-            "artist": "Angus & Julia Stone",
-            "id": 19465999
+            "name": "海鸥",
+            "artist": "丢莱卡WastedLaika",
+            "id": 1838972377
+        },
+        {
+            "name": "心要野",
+            "artist": "后海大鲨鱼",
+            "id": 406072138
+        },
+        {
+            "name": "玫瑰往事",
+            "artist": "昨夜派对（L.N Party）",
+            "id": 1340627237
+        },
+        {
+            "name": "完美夏天",
+            "artist": "高旗&超载乐队",
+            "id": 356487
+        },
+        {
+            "name": "Song F",
+            "artist": "达达乐队",
+            "id": 350830
+        },
+        {
+            "name": "夏季",
+            "artist": "逃走鮑伯",
+            "id": 1485676760
+        },
+        {
+            "name": "夏日限定女朋友",
+            "artist": "Chinese Football",
+            "id": 2010214121
+        },
+        {
+            "name": "拥抱",
+            "artist": "五月天",
+            "id": 386542
+        },
+        {
+            "name": "跳海",
+            "artist": "告五人",
+            "id": 1368754689
+        },
+        {
+            "name": "Julie (朱莉)",
+            "artist": "布朗尼",
+            "id": 1352818588
+        },
+        {
+            "name": "曲率飞行",
+            "artist": "昨夜派对（L.N Party）",
+            "id": 556995768
+        },
+        {
+            "name": "别让我孤单",
+            "artist": "猛虎巧克力",
+            "id": 26830138
+        },
+        {
+            "name": "粉红电台头",
+            "artist": "薄荷叶",
+            "id": 344591
+        },
+        {
+            "name": "白日梦蓝",
+            "artist": "刺猬",
+            "id": 348097
+        },
+        {
+            "name": "Summer Ends",
+            "artist": "THE BOOTLEGS 靴腿",
+            "id": 1389882972
+        },
+        {
+            "name": "24FPSummer",
+            "artist": "动物园钉子户",
+            "id": 549361780
+        },
+        {
+            "name": "1979",
+            "artist": "薄荷叶",
+            "id": 344598
         },
         {
             "name": "沿海公路",
@@ -79,39 +179,14 @@
             "id": 1822995786
         },
         {
-            "name": "Indian Summer",
-            "artist": "Stereophonics",
-            "id": 25730836
-        },
-        {
             "name": "Pink Car（粉红记忆）",
             "artist": "浪旅LongTravel",
             "id": 1423219255
         },
         {
-            "name": "跳上月球",
-            "artist": "康姆士COM'Z",
-            "id": 458359834
-        },
-        {
             "name": "夏天是无色的",
             "artist": "既视感",
             "id": 1465991611
-        },
-        {
-            "name": "What a Pleasure",
-            "artist": "Beach Fossils",
-            "id": 16841965
-        },
-        {
-            "name": "Plastic Panorama",
-            "artist": "Postiljonen",
-            "id": 26612933
-        },
-        {
-            "name": "Tulips",
-            "artist": "The Bilinda Butchers",
-            "id": 4396999
         },
         {
             "name": "大雁",
@@ -134,54 +209,14 @@
             "id": 1359818052
         },
         {
-            "name": "Summer Moon",
-            "artist": "The Raveonettes",
-            "id": 21965624
-        },
-        {
             "name": "夏夜日记",
             "artist": "潮池蓝",
             "id": 1468749698
         },
         {
-            "name": "fever",
-            "artist": "失速海浪",
-            "id": 1822839544
-        },
-        {
             "name": "夏季热",
             "artist": "Tizzy Bac",
             "id": 382109
-        },
-        {
-            "name": "八块钱买绿豆冰（Summer）（Demo）",
-            "artist": "温和治疗(MILDCURE)",
-            "id": 1399454038
-        },
-        {
-            "name": "CHA CHA CHA",
-            "artist": "一十三十一",
-            "id": 26110444
-        },
-        {
-            "name": "卧室跳舞计划（Loop Session）",
-            "artist": "梯雲縱",
-            "id": 1396635486
-        },
-        {
-            "name": "Under the Sun",
-            "artist": "DIIV",
-            "id": 41654648
-        },
-        {
-            "name": "No Longer Making Time",
-            "artist": "Slowdive",
-            "id": 468738015
-        },
-        {
-            "name": "37.2°",
-            "artist": "THE NOVEMBERS",
-            "id": 22821216
         },
         {
             "name": "无人的海边",
@@ -194,29 +229,9 @@
             "id": 1366467511
         },
         {
-            "name": "July",
-            "artist": "Spirit of the West",
-            "id": 3514290
-        },
-        {
-            "name": "조깅",
-            "artist": "LUCY",
-            "id": 1470732911
-        },
-        {
             "name": "海边旅馆一夜",
             "artist": "Schoolgirl byebye",
             "id": 1479510189
-        },
-        {
-            "name": "Moon Hits",
-            "artist": "Vansire",
-            "id": 567366118
-        },
-        {
-            "name": "Komorebi",
-            "artist": "Craft Spells",
-            "id": 28624258
         },
         {
             "name": "变成一只鱼",
@@ -229,39 +244,19 @@
             "id": 1435634986
         },
         {
-            "name": "Foggy Moon",
-            "artist": "She Her Her Hers",
-            "id": 1311429333
-        },
-        {
-            "name": "Long Summer Days",
-            "artist": "The Moody Blues",
-            "id": 19567112
-        },
-        {
             "name": "洋鸟消夏录",
             "artist": "万能青年旅店",
             "id": 386832
         },
         {
-            "name": "Plastic Sea",
-            "artist": "Minks",
-            "id": 27569931
-        },
-        {
-            "name": "夏末",
-            "artist": "琥珀",
-            "id": 29600655
-        },
-        {
-            "name": "드림캐처",
-            "artist": "We Are the Night",
-            "id": 1296355054
-        },
-        {
             "name": "夏夜最后的浪漫",
             "artist": "缺省",
             "id": 1472322139
+        },
+        {
+            "name": "没有名字的夜晚",
+            "artist": "夏日入侵企画",
+            "id": 1849674035
         }
     ]
 }

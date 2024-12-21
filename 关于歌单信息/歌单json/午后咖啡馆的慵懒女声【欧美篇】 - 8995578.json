@@ -1,11 +1,11 @@
 {
     "playlist_info": {
         "name": "午后咖啡馆的慵懒女声【欧美篇】",
-        "trackcount": 76,
-        "playcount": 1011131,
+        "trackcount": 77,
+        "playcount": 1013845,
         "creator": "云-卿",
         "createDate": "2014-02-20",
-        "heat": 295.0
+        "heat": 289.0
     },
     "songs": [
         {
@@ -160,7 +160,7 @@
         },
         {
             "name": "My Funny Valentine",
-            "artist": "Eddie Higgins Quartet",
+            "artist": "Eddie Higgins",
             "id": 4056617
         },
         {
@@ -237,6 +237,11 @@
             "name": "Looking Back",
             "artist": "Ruth Brown",
             "id": 5044721
+        },
+        {
+            "name": "Je T'aime... Moi Non Plus",
+            "artist": "Jane Birkin",
+            "id": 2774636
         },
         {
             "name": "No One (live)",

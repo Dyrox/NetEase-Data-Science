@@ -1,13 +1,18 @@
 {
     "playlist_info": {
         "name": "EDM Progressive House | 感受电音正能量",
-        "trackcount": 81,
-        "playcount": 4751172,
+        "trackcount": 74,
+        "playcount": 4861454,
         "creator": "云音乐电音星球",
         "createDate": "2020-08-31",
-        "heat": 4606.0
+        "heat": 4327.0
     },
     "songs": [
+        {
+            "name": "September Nights",
+            "artist": "ARMNHMR",
+            "id": 2069163624
+        },
         {
             "name": "Run",
             "artist": "Futuristic Polar Bears",
@@ -104,16 +109,6 @@
             "id": 1461069344
         },
         {
-            "name": "Now or Never (Extended Mix)",
-            "artist": "Matisse & Sadko",
-            "id": 1459938848
-        },
-        {
-            "name": "Calling (Lose My Mind) (Extended Club Mix)",
-            "artist": "Sebastian Ingrosso",
-            "id": 19196391
-        },
-        {
             "name": "All On Me",
             "artist": "Armin van Buuren",
             "id": 1442453362
@@ -144,19 +139,9 @@
             "id": 1378762448
         },
         {
-            "name": "Summer Days (Tiësto Remix)",
-            "artist": "Martin Garrix",
-            "id": 1373028149
-        },
-        {
             "name": "Hope",
             "artist": "DubVision",
             "id": 1378618280
-        },
-        {
-            "name": "Waiting",
-            "artist": "Vicetone",
-            "id": 1364530152
         },
         {
             "name": "No Regrets (feat. Krewella) [KAAZE Remix]",
@@ -169,19 +154,9 @@
             "id": 1355728885
         },
         {
-            "name": "Ups & Downs",
-            "artist": "W&W",
-            "id": 1357147128
-        },
-        {
             "name": "The King",
             "artist": "Dimitri Vangelis & Wyman",
             "id": 1371456748
-        },
-        {
-            "name": "Something Strange",
-            "artist": "Vicetone",
-            "id": 1346473066
         },
         {
             "name": "Paradise (Deniz Koyu Festival Mix)",
@@ -232,11 +207,6 @@
             "name": "Yesterday",
             "artist": "DubVision",
             "id": 1323693344
-        },
-        {
-            "name": "Glitch",
-            "artist": "Martin Garrix",
-            "id": 1333254874
         },
         {
             "name": "Magic",
@@ -292,11 +262,6 @@
             "name": "Take Away The Pain",
             "artist": "Project 46",
             "id": 33035584
-        },
-        {
-            "name": "Anywhere I Go",
-            "artist": "Vicetone",
-            "id": 420069116
         },
         {
             "name": "Waiting For Love",

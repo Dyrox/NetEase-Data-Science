@@ -1,11 +1,11 @@
 {
     "playlist_info": {
         "name": "剪辑音效3丨短音/转场/铃声/氛围/环境音",
-        "trackcount": 663,
-        "playcount": 1199864,
+        "trackcount": 668,
+        "playcount": 1221570,
         "creator": "妮可伊博格",
         "createDate": "2018-10-14",
-        "heat": 696.0
+        "heat": 674.0
     },
     "songs": [
         {
@@ -14,14 +14,49 @@
             "id": 533671177
         },
         {
+            "name": "天定·弥梦",
+            "artist": "HOYO-MiX",
+            "id": 2065948988
+        },
+        {
+            "name": "The Strut",
+            "artist": "X-Ray Dog",
+            "id": 545165078
+        },
+        {
+            "name": "覚醒",
+            "artist": "椎名豪",
+            "id": 2004731896
+        },
+        {
             "name": "Star Wars Theme (Ringtone)",
             "artist": "Platinum TV and Movie Themes Deluxe",
             "id": 1922873408
         },
         {
+            "name": "自在桃溪",
+            "artist": "lbg",
+            "id": 1378858740
+        },
+        {
+            "name": "Six Billion Dollars",
+            "artist": "X-Ray Dog",
+            "id": 544773540
+        },
+        {
+            "name": "Hey So Jungle【KUAIZERO片尾曲】",
+            "artist": "Wei-伟生",
+            "id": 1433458392
+        },
+        {
             "name": "ランタンの思い出",
             "artist": "立山秋航",
             "id": 1996901842
+        },
+        {
+            "name": "Lighter, Electronic Type (Accendisigari elettronico, 3 scatti)",
+            "artist": "Sound Effects",
+            "id": 536984190
         },
         {
             "name": "浓情美味",
@@ -74,12 +109,7 @@
             "id": 1994859516
         },
         {
-            "name": "Hey So Jungle【KUAIZERO片尾曲】",
-            "artist": "Wei-伟生",
-            "id": 1433458392
-        },
-        {
-            "name": "ブートアップ!",
+            "name": "ブートアップ！",
             "artist": "井上馨太",
             "id": 1999544935
         },
@@ -104,14 +134,9 @@
             "id": 454224877
         },
         {
-            "name": "A Region Rediscovered 重现的国度",
+            "name": "重现的国度 A Region Rediscovered",
             "artist": "HOYO-MiX",
             "id": 1973619552
-        },
-        {
-            "name": "Sexy",
-            "artist": "박재윤",
-            "id": 1983263719
         },
         {
             "name": "玉乗りリーチ -ナナシーＳＰＥＣＩＡＬ-",
@@ -335,7 +360,7 @@
         },
         {
             "name": "Happy Tree Friends",
-            "artist": "Various Artists",
+            "artist": "Ashsha Kin",
             "id": 30148444
         },
         {
@@ -534,17 +559,17 @@
             "id": 22259974
         },
         {
-            "name": "A New Summer Adventure! 夏日新冒险！",
+            "name": "夏日新冒险！ A New Summer Adventure!",
             "artist": "陈致逸",
             "id": 1861579784
         },
         {
-            "name": "Hunt for Delicacy 美食寻踪",
+            "name": "美食寻踪 Hunt for Delicacy",
             "artist": "陈致逸",
             "id": 1861577540
         },
         {
-            "name": "Hymn of the Pearl 珍珠之歌",
+            "name": "珍珠之歌 Hymn of the Pearl",
             "artist": "陈致逸",
             "id": 1861579781
         },

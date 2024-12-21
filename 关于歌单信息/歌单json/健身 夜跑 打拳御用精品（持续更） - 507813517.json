@@ -1,11 +1,11 @@
 {
     "playlist_info": {
         "name": "健身 夜跑 打拳御用精品（持续更）",
-        "trackcount": 280,
-        "playcount": 644354,
+        "trackcount": 279,
+        "playcount": 766045,
         "creator": "陆军迷彩",
         "createDate": "2016-11-12",
-        "heat": 266.0
+        "heat": 304.0
     },
     "songs": [
         {
@@ -14,9 +14,19 @@
             "id": 1840459016
         },
         {
+            "name": "Levels",
+            "artist": "JordanBeats",
+            "id": 2010668652
+        },
+        {
             "name": "Fight",
             "artist": "BeatBrothers",
             "id": 1293913379
+        },
+        {
+            "name": "Aggressive Phonk",
+            "artist": "apmtbeat",
+            "id": 1978682023
         },
         {
             "name": "Void (Radio Edit)",
@@ -159,11 +169,6 @@
             "id": 33190310
         },
         {
-            "name": "Twisted Reality",
-            "artist": "Unknown Brain",
-            "id": 513356738
-        },
-        {
             "name": "Diamonds (Iccarus Remix)",
             "artist": "Iccarus",
             "id": 1494752502
@@ -290,7 +295,7 @@
         },
         {
             "name": "Fearless Pt. II",
-            "artist": "Tule",
+            "artist": "Lost Sky",
             "id": 529391087
         },
         {
@@ -324,7 +329,7 @@
             "id": 1486924533
         },
         {
-            "name": "Feel The Fire (Egzod Remix)",
+            "name": "Feel the Fire (Egzod Remix)",
             "artist": "Pluto",
             "id": 444324932
         },
@@ -564,17 +569,12 @@
             "id": 484314461
         },
         {
-            "name": "Zombie",
-            "artist": "Besomorph",
-            "id": 1375393782
-        },
-        {
             "name": "Love The Way You Lie",
             "artist": "Jason Chen",
             "id": 106212
         },
         {
-            "name": "ALan-Octopus（DruGTRaffickerS remix）",
+            "name": "Octopus (Original Mix)",
             "artist": "DruGTRaffickerS",
             "id": 1423297895
         },
@@ -764,7 +764,7 @@
             "id": 521417643
         },
         {
-            "name": "飞 (完整版) (翻自 王恩信Est / 二胖u) ",
+            "name": "飞 (完整版) (翻自 王恩信Est / 二胖u)",
             "artist": "大神慧",
             "id": 1412030522
         },
@@ -985,7 +985,7 @@
         },
         {
             "name": "Lost",
-            "artist": "Tule",
+            "artist": "Lost Sky",
             "id": 514761669
         },
         {
@@ -1292,11 +1292,6 @@
             "name": "Faded",
             "artist": "Alan Walker",
             "id": 36990266
-        },
-        {
-            "name": "Slipping Away (Myrne Remix)",
-            "artist": "MYRNE",
-            "id": 33365020
         },
         {
             "name": "Numb/Encore (Explicit)",

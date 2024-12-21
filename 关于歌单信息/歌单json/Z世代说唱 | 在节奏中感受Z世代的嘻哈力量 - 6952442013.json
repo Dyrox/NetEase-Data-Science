@@ -2,141 +2,126 @@
     "playlist_info": {
         "name": "Z世代说唱 | 在节奏中感受Z世代的嘻哈力量",
         "trackcount": 30,
-        "playcount": 1651423,
+        "playcount": 1683033,
         "creator": "云音乐官方歌单",
         "createDate": "2021-09-03",
-        "heat": 2489.0
+        "heat": 2228.0
     },
     "songs": [
         {
-            "name": "Stay",
+            "name": "TRAGIC",
             "artist": "The Kid LAROI",
-            "id": 1862710424
+            "id": 1492485913
         },
         {
-            "name": "Love Me",
-            "artist": "Lil Tecca",
-            "id": 1346093156
+            "name": "XOXO",
+            "artist": "JUMEX",
+            "id": 1420891735
         },
         {
-            "name": "Diva",
+            "name": "Mood",
+            "artist": "Trippie Redd",
+            "id": 1491112895
+        },
+        {
+            "name": "F*CK YOU, GOODBYE",
             "artist": "The Kid LAROI",
-            "id": 1419169283
+            "id": 1492485916
         },
         {
-            "name": "All Star",
+            "name": "BAD!",
+            "artist": "XXXTENTACION",
+            "id": 1323303678
+        },
+        {
+            "name": "Ransom",
             "artist": "Lil Tecca",
-            "id": 1430482222
+            "id": 1803515469
         },
         {
-            "name": "gone girl",
-            "artist": "iann dior",
-            "id": 1375853444
+            "name": "REPEAT IT",
+            "artist": "Lil Tecca",
+            "id": 1867117328
         },
         {
-            "name": "**** Love",
-            "artist": "XXXTENTACION",
-            "id": 501133804
+            "name": "Hayati",
+            "artist": "Soolking",
+            "id": 1479674959
         },
         {
-            "name": "6locc 6a6y",
-            "artist": "Lil Loaded",
-            "id": 1382592786
+            "name": "Auf dem Weg",
+            "artist": "MERO",
+            "id": 1350423190
         },
         {
-            "name": "In The End",
-            "artist": "XXXTENTACION",
-            "id": 499673140
+            "name": "OK",
+            "artist": "smokepurpp",
+            "id": 1852213854
         },
         {
-            "name": "Somebody",
-            "artist": "Internet Money",
-            "id": 1396337156
-        },
-        {
-            "name": "Lost Me",
-            "artist": "Internet Money",
-            "id": 1474570878
-        },
-        {
-            "name": "Hate The Other Side",
-            "artist": "Juice WRLD",
-            "id": 1461609749
-        },
-        {
-            "name": "Wake Up",
-            "artist": "LIL XAN",
-            "id": 525745673
-        },
-        {
-            "name": "Betrayal",
-            "artist": "Trippie Redd",
-            "id": 1871442542
-        },
-        {
-            "name": "Scared of the Dark",
-            "artist": "Lil Wayne",
-            "id": 1333335583
-        },
-        {
-            "name": "Candy",
-            "artist": "Machine Gun Kelly",
-            "id": 1376076714
-        },
-        {
-            "name": "PILL BREAKER",
-            "artist": "Trippie Redd",
-            "id": 1821439444
-        },
-        {
-            "name": "Nowadays",
-            "artist": "Lil Skies",
-            "id": 547525066
-        },
-        {
-            "name": "Goyard Batman",
-            "artist": "The Plug",
-            "id": 1488931039
-        },
-        {
-            "name": "World Rage",
-            "artist": "Lil Skies",
-            "id": 565966097
-        },
-        {
-            "name": "Pose To Do",
+            "name": "Stripper Name (feat. YG & 2 Chainz)",
             "artist": "Lil Pump",
-            "id": 1378978801
+            "id": 1351907946
         },
         {
-            "name": "Esskeetit",
+            "name": "Désolé",
+            "artist": "MERO",
+            "id": 1501212284
+        },
+        {
+            "name": "I don't let go",
+            "artist": "XXXTENTACION",
+            "id": 1331881138
+        },
+        {
+            "name": "Nu Uh",
             "artist": "Lil Pump",
-            "id": 1351910786
+            "id": 1351907944
         },
         {
-            "name": "Swimming (feat. Trippie Redd)",
-            "artist": "IV4",
-            "id": 1479671803
-        },
-        {
-            "name": "Life Sucks",
-            "artist": "LIL XAN",
-            "id": 1849453663
-        },
-        {
-            "name": "Emotional Killer",
+            "name": "Narco",
             "artist": "Lil Loaded",
-            "id": 1483179348
+            "id": 1483177506
         },
         {
-            "name": "Without You",
-            "artist": "LAMAR",
-            "id": 1804513042
+            "name": "WAIT",
+            "artist": "6ix9ine",
+            "id": 1475719364
         },
         {
-            "name": "LANES",
-            "artist": "Lil AK",
-            "id": 1345668669
+            "name": "24 Kobe",
+            "artist": "Lil Loaded",
+            "id": 1483177518
+        },
+        {
+            "name": "Basically",
+            "artist": "LIL XAN",
+            "id": 549498713
+        },
+        {
+            "name": "Shine Hard",
+            "artist": "LIL XAN",
+            "id": 549498711
+        },
+        {
+            "name": "Captain Crunch",
+            "artist": "Trippie Redd",
+            "id": 1871079362
+        },
+        {
+            "name": "Neighborhood",
+            "artist": "30 Deep Grimeyy",
+            "id": 1409328160
+        },
+        {
+            "name": "Never Stop (feat. Lil Pump)",
+            "artist": "Danny Wolf",
+            "id": 1381236612
+        },
+        {
+            "name": "GATA",
+            "artist": "6ix9ine",
+            "id": 1475720343
         },
         {
             "name": "Think Twice (feat. Lil Skies)",
@@ -144,14 +129,29 @@
             "id": 1308025545
         },
         {
-            "name": "TUTU",
-            "artist": "6ix9ine",
-            "id": 1475719362
+            "name": "Nightmares",
+            "artist": "Yung Pinch",
+            "id": 1336871406
         },
         {
-            "name": "You Can't",
-            "artist": "G Herbo",
-            "id": 1858084530
+            "name": "Ferrari",
+            "artist": "ENO",
+            "id": 1344787181
+        },
+        {
+            "name": "OMG its Rarri",
+            "artist": "Rarri",
+            "id": 1422491088
+        },
+        {
+            "name": "Not The Same (feat. Lil Skies)",
+            "artist": "Lil Gnar",
+            "id": 1828053293
+        },
+        {
+            "name": "Speak",
+            "artist": "Internet Money",
+            "id": 1474570880
         },
         {
             "name": "Reminds Me Of You",

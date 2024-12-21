@@ -2,71 +2,51 @@
     "playlist_info": {
         "name": "70年代摇滚 | 1970年代摇滚精选作品",
         "trackcount": 30,
-        "playcount": 1667166,
+        "playcount": 1703812,
         "creator": "云音乐官方歌单",
         "createDate": "2021-03-09",
-        "heat": 1980.0
+        "heat": 1825.0
     },
     "songs": [
         {
-            "name": "Big Ten Inch Record",
-            "artist": "Aerosmith",
-            "id": 20506663
+            "name": "Dreamer's Ball",
+            "artist": "Queen",
+            "id": 472045188
         },
         {
-            "name": "Lots of Fun (Pretty Vacant)",
+            "name": "Liar",
             "artist": "Sex Pistols",
-            "id": 4334260
+            "id": 20457895
         },
         {
-            "name": "Don't Give Me No Lip Child",
+            "name": "Problems",
             "artist": "Sex Pistols",
-            "id": 4335255
+            "id": 20457898
         },
         {
-            "name": "(White Man) In Hammersmith Palais",
-            "artist": "The Clash",
-            "id": 4338569
+            "name": "Beauty and the Beast (2017 Remastered Version)",
+            "artist": "David Bowie",
+            "id": 17290495
         },
         {
-            "name": "Blue Letter",
-            "artist": "Fleetwood Mac",
-            "id": 17786202
-        },
-        {
-            "name": "Toys In The Attic",
+            "name": "One Way Street",
             "artist": "Aerosmith",
-            "id": 20506659
+            "id": 20506036
         },
         {
-            "name": "Cracked Actor (1999 Digital Remaster)",
-            "artist": "David Bowie",
-            "id": 22224445
+            "name": "The Letters",
+            "artist": "King Crimson",
+            "id": 20045598
         },
         {
-            "name": "Complete Control",
-            "artist": "The Clash",
-            "id": 4338559
+            "name": "Da Doo Ron Ron",
+            "artist": "Carpenters",
+            "id": 17141624
         },
         {
-            "name": "TVC15 (1999 Digital Remaster)",
-            "artist": "David Bowie",
-            "id": 22223781
-        },
-        {
-            "name": "Over My Head",
-            "artist": "Fleetwood Mac",
-            "id": 17786204
-        },
-        {
-            "name": "Seamus(2011 Remastered)",
-            "artist": "Pink Floyd",
-            "id": 33394065
-        },
-        {
-            "name": "Next To You (Remastered 2003)",
+            "name": "So Lonely (Remastered 2003)",
             "artist": "The Police",
-            "id": 19553358
+            "id": 19553359
         },
         {
             "name": "Heather",
@@ -74,9 +54,24 @@
             "id": 17141616
         },
         {
-            "name": "Burning Bridges",
-            "artist": "Pink Floyd",
-            "id": 4238162
+            "name": "One More Red Nightmare",
+            "artist": "King Crimson",
+            "id": 20045623
+        },
+        {
+            "name": "Mama Kin",
+            "artist": "Aerosmith",
+            "id": 20506037
+        },
+        {
+            "name": "Blue Letter",
+            "artist": "Fleetwood Mac",
+            "id": 17786202
+        },
+        {
+            "name": "The Right Profile",
+            "artist": "The Clash",
+            "id": 19578245
         },
         {
             "name": "Born In The 50's (Remastered 2003)",
@@ -84,79 +79,84 @@
             "id": 19553365
         },
         {
-            "name": "Lament",
-            "artist": "King Crimson",
-            "id": 20045614
+            "name": "Highway Star",
+            "artist": "Deep Purple",
+            "id": 17436277
         },
         {
-            "name": "Death on Two Legs",
-            "artist": "Queen",
-            "id": 27009525
+            "name": "Needles & Pins (Early Version)",
+            "artist": "Ramones",
+            "id": 3557404
         },
         {
-            "name": "Fun It",
-            "artist": "Queen",
-            "id": 472045189
-        },
-        {
-            "name": "Four Sticks (2012 Remaster)",
-            "artist": "Led Zeppelin",
-            "id": 1345856200
-        },
-        {
-            "name": "Fracture",
-            "artist": "King Crimson",
-            "id": 20045620
-        },
-        {
-            "name": "Going to California (2012 Remaster)",
-            "artist": "Led Zeppelin",
-            "id": 1345856201
-        },
-        {
-            "name": "No One Is Innocent",
-            "artist": "Sex Pistols",
-            "id": 4335292
-        },
-        {
-            "name": "Weeping Wall (2017 Remaster)",
+            "name": "Speed of Life (2017 Remaster)",
             "artist": "David Bowie",
-            "id": 22223816
+            "id": 22223807
         },
         {
-            "name": "Who Killed Bambi ?",
-            "artist": "Sex Pistols",
-            "id": 4335241
+            "name": "My Melancholy Blues",
+            "artist": "Queen",
+            "id": 471968708
         },
         {
-            "name": "Movin' Out",
+            "name": "Blackout (2017 Remastered Version)",
+            "artist": "David Bowie",
+            "id": 17290499
+        },
+        {
+            "name": "You and I",
+            "artist": "Queen",
+            "id": 472045169
+        },
+        {
+            "name": "Back In the Saddle",
             "artist": "Aerosmith",
-            "id": 20506039
+            "id": 20505963
         },
         {
-            "name": "Career Opportunities",
-            "artist": "The Clash",
-            "id": 4338585
-        },
-        {
-            "name": "Pretty Vacant",
-            "artist": "Sex Pistols",
-            "id": 20457905
-        },
-        {
-            "name": "Breaking Glass (2017 Remaster)",
+            "name": "Diamond Dogs (1999 Remastered Version)",
             "artist": "David Bowie",
-            "id": 22223808
+            "id": 22224452
         },
         {
-            "name": "Satellite",
-            "artist": "Sex Pistols",
-            "id": 4334228
+            "name": "Get Down, Make Love",
+            "artist": "Queen",
+            "id": 471969703
         },
         {
-            "name": "Johnny B. Goode",
-            "artist": "Sex Pistols",
-            "id": 4335220
+            "name": "Death On Two Legs (Dedicated to...)",
+            "artist": "Queen",
+            "id": 471968747
+        },
+        {
+            "name": "1984 (1999 Remastered Version)",
+            "artist": "David Bowie",
+            "id": 22224459
+        },
+        {
+            "name": "San Tropez",
+            "artist": "Pink Floyd",
+            "id": 33394058
+        },
+        {
+            "name": "The Great Deceiver",
+            "artist": "King Crimson",
+            "id": 20045613
+        },
+        {
+            "name": "Toys In The Attic",
+            "artist": "Aerosmith",
+            "id": 20506659
+        },
+        {
+            "name": "Somebody To Love",
+            "artist": "Queen",
+            "id": 472045170
+        },
+        {
+            "name": "Obscured by Clouds",
+            "artist": "Pink Floyd",
+            "id": 4238150
         }
     ]
 }

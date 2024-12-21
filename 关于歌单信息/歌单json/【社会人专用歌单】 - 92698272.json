@@ -1,13 +1,78 @@
 {
     "playlist_info": {
         "name": "【社会人专用歌单】",
-        "trackcount": 484,
-        "playcount": 34514992,
+        "trackcount": 497,
+        "playcount": 34587632,
         "creator": "EM227",
         "createDate": "2015-07-26",
-        "heat": 11921.0
+        "heat": 11582.0
     },
     "songs": [
+        {
+            "name": "Metropolis (Single Edit)",
+            "artist": "Schiller",
+            "id": 1817245482
+        },
+        {
+            "name": "S.T.A.Y. (Delta Heavy Tribute)",
+            "artist": "Delta Heavy",
+            "id": 477933827
+        },
+        {
+            "name": "Say You Love Me",
+            "artist": "Max Oazo",
+            "id": 1899368291
+        },
+        {
+            "name": "GIMME(Version)",
+            "artist": "VodKe",
+            "id": 2073717551
+        },
+        {
+            "name": "Rosy7",
+            "artist": "ROYYNN",
+            "id": 2055313175
+        },
+        {
+            "name": "Cheri Cheri Lady",
+            "artist": "Max Oazo",
+            "id": 2015589134
+        },
+        {
+            "name": "Rosy7(vip)",
+            "artist": "ROYYNN",
+            "id": 2063337049
+        },
+        {
+            "name": "Miss You",
+            "artist": "ғɪᴢᴏ ғᴀᴏᴜᴇᴢ",
+            "id": 2019713957
+        },
+        {
+            "name": "GANGSTER",
+            "artist": "HJFM",
+            "id": 2005783916
+        },
+        {
+            "name": "Vida Loca",
+            "artist": "Cristian Marchi",
+            "id": 1857920621
+        },
+        {
+            "name": "Leave Without Asking",
+            "artist": "Rimaru",
+            "id": 2062269902
+        },
+        {
+            "name": "Move 1t",
+            "artist": "KAARRYXXX",
+            "id": 1825297241
+        },
+        {
+            "name": "XI YOU JI(西游记)",
+            "artist": "HJFM",
+            "id": 2039194990
+        },
         {
             "name": "SA-MY-D",
             "artist": "Hedegaard",
@@ -1164,7 +1229,7 @@
             "id": 1427710174
         },
         {
-            "name": "Walk Thru Fire ",
+            "name": "Walk Thru Fire",
             "artist": "Vicetone",
             "id": 1322460396
         },
@@ -1179,7 +1244,7 @@
             "id": 1421785670
         },
         {
-            "name": "Cyka Blyat",
+            "name": "Сука блядь",
             "artist": "DJ Blyatman",
             "id": 1368324900
         },
@@ -1559,7 +1624,7 @@
             "id": 514765104
         },
         {
-            "name": "This My s**t (Original Mix)",
+            "name": "This My Shit (Original Mix)",
             "artist": "Lisitsyn",
             "id": 407889398
         },
@@ -1969,7 +2034,7 @@
             "id": 505449407
         },
         {
-            "name": "Lean On (feat. MØ & DJ Snake)",
+            "name": "Lean On",
             "artist": "MØ",
             "id": 32299560
         },

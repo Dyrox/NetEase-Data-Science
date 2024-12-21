@@ -1,13 +1,28 @@
 {
     "playlist_info": {
         "name": "[游戏必备]如果没有躺赢的命，那就站起来跑",
-        "trackcount": 199,
-        "playcount": 1311461,
+        "trackcount": 201,
+        "playcount": 1317195,
         "creator": "A所幸沒人愛我_",
         "createDate": "2019-12-22",
-        "heat": 1020.0
+        "heat": 956.0
     },
     "songs": [
+        {
+            "name": "Apologize (8D Audio)",
+            "artist": "8D Tunes",
+            "id": 1452052491
+        },
+        {
+            "name": "PYRO",
+            "artist": "Chester Young",
+            "id": 1500329071
+        },
+        {
+            "name": "Do It",
+            "artist": "Ilkay Sencan",
+            "id": 1819889668
+        },
         {
             "name": "One Kiss X I Was Never There",
             "artist": "Just Lowkey",
@@ -159,7 +174,7 @@
             "id": 1372402442
         },
         {
-            "name": "Feel The Fire (Egzod Remix)",
+            "name": "Feel the Fire (Egzod Remix)",
             "artist": "Pluto",
             "id": 444324932
         },
@@ -365,7 +380,7 @@
         },
         {
             "name": "Lost",
-            "artist": "Tule",
+            "artist": "Lost Sky",
             "id": 514761669
         },
         {
@@ -654,11 +669,6 @@
             "id": 31654455
         },
         {
-            "name": "Don't Touch Anything-Don't Touch（Krystal / Dan Farber remix）",
-            "artist": "Krystal",
-            "id": 1356309192
-        },
-        {
             "name": "Early Morning Dreams",
             "artist": "Dj Khazik",
             "id": 1303046498
@@ -719,7 +729,7 @@
             "id": 28263911
         },
         {
-            "name": "Hoaprox-PDD洪荒之力（OMZHZ Remix）",
+            "name": "Hoaprox-PDD洪荒之力（OMZING Remix）",
             "artist": "OMZING郑小天",
             "id": 1313214480
         },
@@ -835,7 +845,7 @@
         },
         {
             "name": "Sold Out",
-            "artist": "Hawk Nelson",
+            "artist": "Jonathan Steingard",
             "id": 31010566
         },
         {
@@ -924,7 +934,7 @@
             "id": 1367034768
         },
         {
-            "name": "Cyka Blyat",
+            "name": "Сука блядь",
             "artist": "DJ Blyatman",
             "id": 1368324900
         },

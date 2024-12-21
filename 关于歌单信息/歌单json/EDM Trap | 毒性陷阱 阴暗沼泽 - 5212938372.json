@@ -2,146 +2,41 @@
     "playlist_info": {
         "name": "EDM Trap | 毒性陷阱 阴暗沼泽",
         "trackcount": 30,
-        "playcount": 3271782,
+        "playcount": 3331253,
         "creator": "云音乐电音星球",
         "createDate": "2020-08-31",
-        "heat": 3171.0
+        "heat": 2965.0
     },
     "songs": [
         {
-            "name": "Without You",
-            "artist": "Yellow Claw",
-            "id": 468513703
+            "name": "Say Less (feat. G-Eazy)",
+            "artist": "Dillon Francis",
+            "id": 469699878
         },
         {
-            "name": "Let Em Drip",
-            "artist": "Hydraulix",
-            "id": 1441387952
+            "name": "Hit Em",
+            "artist": "ATLiens",
+            "id": 34497142
         },
         {
-            "name": "Make Dem",
-            "artist": "JRND",
-            "id": 440207323
+            "name": "Reflections (Original Mix)",
+            "artist": "JAMMERC",
+            "id": 1389453154
         },
         {
-            "name": "Bless",
-            "artist": "Hucci",
-            "id": 410801641
+            "name": "Close To Hell",
+            "artist": "KUURO",
+            "id": 1499735520
         },
         {
-            "name": "Gloom",
-            "artist": "Bruno Alison",
-            "id": 466332671
+            "name": "Man's First Inhibition",
+            "artist": "NGHTMRE",
+            "id": 1385676183
         },
         {
-            "name": "Brutal",
-            "artist": "KEKU",
-            "id": 474764269
-        },
-        {
-            "name": "Split",
-            "artist": "BugMan",
-            "id": 1829039744
-        },
-        {
-            "name": "Dark Wave",
-            "artist": "NextRO",
-            "id": 465921593
-        },
-        {
-            "name": "Dweller",
-            "artist": "G-REX",
-            "id": 1459170811
-        },
-        {
-            "name": "Silhouettes",
-            "artist": "Echos",
-            "id": 403012319
-        },
-        {
-            "name": "The Maniac (Original Mix)",
-            "artist": "TERRA BLVCK",
-            "id": 505451588
-        },
-        {
-            "name": "Onevia",
-            "artist": "Atlantiic",
-            "id": 487003557
-        },
-        {
-            "name": "Annie",
-            "artist": "AlanMF (GasBomb)",
-            "id": 1336195964
-        },
-        {
-            "name": "Caviar",
-            "artist": "Instant Party!",
-            "id": 31010017
-        },
-        {
-            "name": "Berserk",
-            "artist": "Riggi & Piros",
-            "id": 482796528
-        },
-        {
-            "name": "MfB",
-            "artist": "John Livre",
-            "id": 1419408546
-        },
-        {
-            "name": "I Got It",
-            "artist": "Nitti Gritti",
-            "id": 1309501793
-        },
-        {
-            "name": "Gunshot",
-            "artist": "Jackal",
-            "id": 431096456
-        },
-        {
-            "name": "Revolution",
-            "artist": "Diplo",
-            "id": 27813847
-        },
-        {
-            "name": "Journey",
-            "artist": "Leat'eq",
-            "id": 456175238
-        },
-        {
-            "name": "Original Don",
-            "artist": "Major Lazer",
-            "id": 4178454
-        },
-        {
-            "name": "Origin",
-            "artist": "JayKode",
-            "id": 404783812
-        },
-        {
-            "name": "Poison Dart (BUSTED by Herobust)",
-            "artist": "Barely Alive",
-            "id": 418708555
-        },
-        {
-            "name": "Show Me",
-            "artist": "Slippy",
-            "id": 1324011326
-        },
-        {
-            "name": "Sever the Ties (feat. Esther Sparkes)",
-            "artist": "Arman Cekin",
-            "id": 424264248
-        },
-        {
-            "name": "Hold Up",
-            "artist": "Borgeous",
-            "id": 473571912
-        },
-        {
-            "name": "Gorilla Glue",
-            "artist": "Dirty Audio",
-            "id": 431259817
+            "name": "Borderline",
+            "artist": "Vanic",
+            "id": 32046045
         },
         {
             "name": "Loko (Original Mix)",
@@ -149,14 +44,119 @@
             "id": 28875068
         },
         {
-            "name": "Hustle Hard",
-            "artist": "Dirtyphonics",
-            "id": 30780340
+            "name": "Make Dem",
+            "artist": "JRND",
+            "id": 440207323
         },
         {
-            "name": "Chicane",
-            "artist": "QUIX",
-            "id": 1463606656
+            "name": "Show You off (feat. Xuitcasecity)",
+            "artist": "Arman Cekin",
+            "id": 417247942
+        },
+        {
+            "name": "Atom Bomb",
+            "artist": "Benasis",
+            "id": 33733291
+        },
+        {
+            "name": "Mambo",
+            "artist": "Tropkillaz",
+            "id": 32405074
+        },
+        {
+            "name": "Insanity",
+            "artist": "Blvk Sheep",
+            "id": 461518676
+        },
+        {
+            "name": "One On One (Extended Mix)",
+            "artist": "Tujamo",
+            "id": 475264061
+        },
+        {
+            "name": "Corridorz",
+            "artist": "CRNKN",
+            "id": 399555390
+        },
+        {
+            "name": "Sever the Ties (feat. Esther Sparkes)",
+            "artist": "Arman Cekin",
+            "id": 424264248
+        },
+        {
+            "name": "Assassinate",
+            "artist": "RVPTR",
+            "id": 1819714306
+        },
+        {
+            "name": "Genesis",
+            "artist": "Lookas",
+            "id": 29718652
+        },
+        {
+            "name": "Bubblin'",
+            "artist": "Fabian Mazur",
+            "id": 28651949
+        },
+        {
+            "name": "EMIRATES",
+            "artist": "NextRO",
+            "id": 400690469
+        },
+        {
+            "name": "Bazaar",
+            "artist": "Dropwizz",
+            "id": 37856708
+        },
+        {
+            "name": "Waiting For You",
+            "artist": "Unlike Pluto",
+            "id": 416011656
+        },
+        {
+            "name": "In The Quest Mix",
+            "artist": "UZ",
+            "id": 29036208
+        },
+        {
+            "name": "Kintsugi",
+            "artist": "DROELOE",
+            "id": 512099185
+        },
+        {
+            "name": "Maestro",
+            "artist": "INKYZ",
+            "id": 458496763
+        },
+        {
+            "name": "Supersonic Bass",
+            "artist": "Red Hood Squad",
+            "id": 1867438337
+        },
+        {
+            "name": "Dojo (Shadow)",
+            "artist": "Sable",
+            "id": 439911150
+        },
+        {
+            "name": "Call Me",
+            "artist": "Le Malls",
+            "id": 478029350
+        },
+        {
+            "name": "Lay it Down",
+            "artist": "Aazar",
+            "id": 448144144
+        },
+        {
+            "name": "Wavy (feat. Sophie Rose)",
+            "artist": "SAM F",
+            "id": 512376405
+        },
+        {
+            "name": "Fall Apart",
+            "artist": "KRANE",
+            "id": 427614981
         }
     ]
 }

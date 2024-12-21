@@ -2,17 +2,12 @@
     "playlist_info": {
         "name": "北欧民谣 | 清新澄澈的北欧风情",
         "trackcount": 50,
-        "playcount": 3395301,
+        "playcount": 3511793,
         "creator": "云音乐官方歌单",
         "createDate": "2021-02-23",
-        "heat": 3968.0
+        "heat": 3706.0
     },
     "songs": [
-        {
-            "name": "A Fairy's Love Song",
-            "artist": "Jean Luc Lenoir",
-            "id": 1301521074
-        },
         {
             "name": "Jag haver ingen kärare",
             "artist": "Esbjörn Hazelius",
@@ -22,6 +17,11 @@
             "name": "Du Liv...",
             "artist": "Sofia Karlsson",
             "id": 19152115
+        },
+        {
+            "name": "In The Morning",
+            "artist": "First Aid Kit",
+            "id": 17904836
         },
         {
             "name": "Titanic",
@@ -162,6 +162,11 @@
             "name": "The Mermaid's Croon",
             "artist": "Jean Luc Lenoir",
             "id": 1301521079
+        },
+        {
+            "name": "Älvefärd",
+            "artist": "Folk och rackare",
+            "id": 1413316656
         },
         {
             "name": "Yhen emosen lapset",

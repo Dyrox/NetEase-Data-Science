@@ -1,17 +1,22 @@
 {
     "playlist_info": {
         "name": "[大胆、个性、自我] 风格多元的欧美说唱",
-        "trackcount": 252,
-        "playcount": 580935,
+        "trackcount": 272,
+        "playcount": 937011,
         "creator": "xxxRayi",
         "createDate": "2022-08-08",
-        "heat": 1786.0
+        "heat": 2251.0
     },
     "songs": [
         {
-            "name": "Self Love",
-            "artist": "Metro Boomin",
-            "id": 2052349052
+            "name": "Ballin’",
+            "artist": "Mustard",
+            "id": 1374617484
+        },
+        {
+            "name": "Ballin",
+            "artist": "Mike Sherm",
+            "id": 1943999669
         },
         {
             "name": "SICKO MODE",
@@ -19,9 +24,59 @@
             "id": 1298432425
         },
         {
+            "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
+            "artist": "Lil Uzi Vert",
+            "id": 2020156414
+        },
+        {
+            "name": "ROLL THE DICE (Prod. Gesaffelstein)",
+            "artist": "KayCyy",
+            "id": 2046096661
+        },
+        {
+            "name": "Sprinter",
+            "artist": "Dave",
+            "id": 2052277503
+        },
+        {
+            "name": "Paint The Town Red",
+            "artist": "Doja Cat",
+            "id": 2068309400
+        },
+        {
             "name": "Melt My Heart To Stone",
             "artist": "JAY-Z",
             "id": 5084637
+        },
+        {
+            "name": "Now Or Never (Bonus Track)",
+            "artist": "Kendrick Lamar",
+            "id": 18943527
+        },
+        {
+            "name": "Fck Boys",
+            "artist": "Blxst",
+            "id": 1825815055
+        },
+        {
+            "name": "Hello",
+            "artist": "N.W.A",
+            "id": 20189570
+        },
+        {
+            "name": "GREECE",
+            "artist": "DJ Khaled",
+            "id": 1463346953
+        },
+        {
+            "name": "Surround Sound",
+            "artist": "JID",
+            "id": 1995089745
+        },
+        {
+            "name": "ball w/o you",
+            "artist": "21 Savage",
+            "id": 1334809689
         },
         {
             "name": "Ultralight Beam",
@@ -29,14 +84,34 @@
             "id": 409736431
         },
         {
-            "name": "Me and My Brother",
-            "artist": "5ive",
-            "id": 1377467851
+            "name": "ILoveUIHateU",
+            "artist": "Playboi Carti",
+            "id": 1806940165
         },
         {
-            "name": "All Girls Are The Same",
-            "artist": "Juice WRLD",
-            "id": 548823873
+            "name": "Starry 9",
+            "artist": "$uicideboy$",
+            "id": 2044653275
+        },
+        {
+            "name": "Self Love",
+            "artist": "Metro Boomin",
+            "id": 2052349052
+        },
+        {
+            "name": "Stop Breathing",
+            "artist": "Playboi Carti",
+            "id": 1806939252
+        },
+        {
+            "name": "Jimmy Cooks",
+            "artist": "Drake",
+            "id": 1956743787
+        },
+        {
+            "name": "Money Trees",
+            "artist": "Kendrick Lamar",
+            "id": 18943532
         },
         {
             "name": "Everything I Am",
@@ -44,19 +119,79 @@
             "id": 18969076
         },
         {
+            "name": "Suicidal",
+            "artist": "YNW Melly",
+            "id": 1405042080
+        },
+        {
+            "name": "LET GO",
+            "artist": "Central Cee",
+            "id": 2002600237
+        },
+        {
+            "name": "223's",
+            "artist": "YNW Melly",
+            "id": 1382666583
+        },
+        {
+            "name": "What's It Worth?",
+            "artist": "Pat D",
+            "id": 523840048
+        },
+        {
+            "name": "3:15 (Breathe)",
+            "artist": "Russ",
+            "id": 1844109436
+        },
+        {
+            "name": "4422",
+            "artist": "Drake",
+            "id": 466343439
+        },
+        {
+            "name": "Get Back",
+            "artist": "Pop Smoke",
+            "id": 1422652903
+        },
+        {
+            "name": "Dear Summer (Make You Feel My Love)",
+            "artist": "JAY-Z",
+            "id": 5084643
+        },
+        {
+            "name": "Me and My Brother",
+            "artist": "5ive",
+            "id": 1377467851
+        },
+        {
+            "name": "You Know How We Do It",
+            "artist": "Ice Cube",
+            "id": 1461285
+        },
+        {
+            "name": "Won't Go (Wishing)",
+            "artist": "JAY-Z",
+            "id": 5084638
+        },
+        {
+            "name": "All Girls Are The Same",
+            "artist": "Juice WRLD",
+            "id": 548823873
+        },
+        {
             "name": "No Limit",
             "artist": "G-Eazy",
             "id": 504425722
         },
         {
+            "name": "Roca bye baby",
+            "artist": "Seafood Sam",
+            "id": 1431946612
+        },
+        {
             "name": "20 Min",
             "artist": "Lil Uzi Vert",
             "id": 519373710
-        },
-        {
-            "name": "Jimmy Cooks",
-            "artist": "Drake",
-            "id": 1956743787
         },
         {
             "name": "Rich Nigga Shit",
@@ -69,24 +204,9 @@
             "id": 1428834843
         },
         {
-            "name": "Stop Breathing",
-            "artist": "Playboi Carti",
-            "id": 1806939252
-        },
-        {
-            "name": "Money Trees",
-            "artist": "Kendrick Lamar",
-            "id": 18943532
-        },
-        {
-            "name": "Suicidal",
-            "artist": "YNW Melly",
-            "id": 1405042080
-        },
-        {
-            "name": "ILoveUIHateU",
-            "artist": "Playboi Carti",
-            "id": 1806940165
+            "name": "Jaded",
+            "artist": "Drake",
+            "id": 574926596
         },
         {
             "name": "Surround Sound",
@@ -295,7 +415,7 @@
         },
         {
             "name": "Slow Jamz",
-            "artist": "Twista",
+            "artist": "Kanye West",
             "id": 18969141
         },
         {
@@ -664,6 +784,11 @@
             "id": 1498629887
         },
         {
+            "name": "WAIT FOR U",
+            "artist": "Future",
+            "id": 1942540212
+        },
+        {
             "name": "I Ain't Never Been With A Baddie",
             "artist": "MysticHits",
             "id": 1897016479
@@ -697,11 +822,6 @@
             "name": "Papi’s Home",
             "artist": "Drake",
             "id": 1875235684
-        },
-        {
-            "name": "WAIT FOR U",
-            "artist": "Future",
-            "id": 1942540212
         },
         {
             "name": "Panda",
@@ -989,11 +1109,6 @@
             "id": 544553108
         },
         {
-            "name": "UFO",
-            "artist": "99 God",
-            "id": 1357775302
-        },
-        {
             "name": "HIGHEST IN THE ROOM",
             "artist": "Travis Scott",
             "id": 1394994862
@@ -1102,11 +1217,6 @@
             "name": "Edamame (ft. Rich Brian)",
             "artist": "bbno$",
             "id": 1861126812
-        },
-        {
-            "name": "3.5",
-            "artist": "99 God",
-            "id": 1851853304
         },
         {
             "name": "GDFR (feat. Sage the Gemini & Lookas)",
@@ -1230,7 +1340,7 @@
         },
         {
             "name": "Welcome to Chilis",
-            "artist": "Yung Gravy",
+            "artist": "Baby Gravy",
             "id": 1410364201
         },
         {
@@ -1247,16 +1357,6 @@
             "name": "Hotline Bling",
             "artist": "Drake",
             "id": 33599620
-        },
-        {
-            "name": "GALA",
-            "artist": "99 God",
-            "id": 1455101010
-        },
-        {
-            "name": "Get Back",
-            "artist": "Pop Smoke",
-            "id": 1422652903
         },
         {
             "name": "Moonlight",

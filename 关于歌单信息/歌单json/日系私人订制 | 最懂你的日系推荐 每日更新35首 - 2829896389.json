@@ -2,16 +2,16 @@
     "playlist_info": {
         "name": "日系私人订制 | 最懂你的日系推荐 每日更新35首",
         "trackcount": 35,
-        "playcount": 62775156,
+        "playcount": 65243664,
         "creator": "云音乐官方歌单",
         "createDate": "2019-06-05",
-        "heat": 42292.0
+        "heat": 41394.0
     },
     "songs": [
         {
-            "name": "風車の丘で",
-            "artist": "忍",
-            "id": 28556032
+            "name": "せせらぎのロンド",
+            "artist": "神山純一",
+            "id": 445543
         },
         {
             "name": "You(off vocal version)",
@@ -19,119 +19,59 @@
             "id": 672190
         },
         {
-            "name": "umi",
-            "artist": "hideyuki hashimoto",
-            "id": 28679440
+            "name": "ゆったりゆっくり",
+            "artist": "水谷広実",
+            "id": 28167042
         },
         {
-            "name": "陽のあたる場所へ",
-            "artist": "平井 大",
-            "id": 1465230223
+            "name": "花曇り",
+            "artist": "佐藤千亜妃",
+            "id": 2033878965
         },
         {
-            "name": "You and Me",
+            "name": "Yuri on ICE",
+            "artist": "梅林太郎",
+            "id": 441835088
+        },
+        {
+            "name": "託された想い",
+            "artist": "増田俊郎",
+            "id": 28411043
+        },
+        {
+            "name": "fish in the pool・花屋敷",
+            "artist": "ヘクとパスカル",
+            "id": 31861269
+        },
+        {
+            "name": "Mr.“Broken Heart” (Instrumental)",
+            "artist": "松下優也",
+            "id": 568207328
+        },
+        {
+            "name": "uzumakinoharu",
+            "artist": "sasakure.UK",
+            "id": 515337
+        },
+        {
+            "name": "鳥の詩～Classic～",
+            "artist": "TAMUSIC",
+            "id": 28411430
+        },
+        {
+            "name": "花 feat. 花譜",
+            "artist": "Guiano",
+            "id": 2048604694
+        },
+        {
+            "name": "羽根",
+            "artist": "折戸伸治",
+            "id": 28151052
+        },
+        {
+            "name": "2:23 AM",
             "artist": "しゃろう",
-            "id": 1831400558
-        },
-        {
-            "name": "あのねこの話",
-            "artist": "みゆな",
-            "id": 1472907044
-        },
-        {
-            "name": "第六感 feat.東京ゲゲゲイ",
-            "artist": "Reol",
-            "id": 1903373190
-        },
-        {
-            "name": "雲流れ",
-            "artist": "みかん箱",
-            "id": 785902
-        },
-        {
-            "name": "私以外も私",
-            "artist": "ゲスの極み乙女",
-            "id": 1444322465
-        },
-        {
-            "name": "ツギハギスタッカート",
-            "artist": "nameless",
-            "id": 38689090
-        },
-        {
-            "name": "Avid",
-            "artist": "SawanoHiroyuki[nZk]",
-            "id": 1862822901
-        },
-        {
-            "name": "Yumeji's Theme",
-            "artist": "梅林茂",
-            "id": 4878282
-        },
-        {
-            "name": "Sincerely",
-            "artist": "TRUE",
-            "id": 534065323
-        },
-        {
-            "name": "缶ビール",
-            "artist": "みゆな",
-            "id": 1387105693
-        },
-        {
-            "name": "恋のうた (feat. 由崎司)",
-            "artist": "鬼頭明里",
-            "id": 1484336476
-        },
-        {
-            "name": "花に亡霊",
-            "artist": "ヨルシカ",
-            "id": 1442466883
-        },
-        {
-            "name": "沉醉于风中",
-            "artist": "S.E.N.S.",
-            "id": 817880
-        },
-        {
-            "name": "eau",
-            "artist": "yutaka hirasaka",
-            "id": 29535887
-        },
-        {
-            "name": "狂々撫子",
-            "artist": "加藤有加利",
-            "id": 409326722
-        },
-        {
-            "name": "ヨスガノソラ メインテーマ -記憶-",
-            "artist": "市川淳",
-            "id": 477931
-        },
-        {
-            "name": "月光の雲海",
-            "artist": "久石譲",
-            "id": 442760
-        },
-        {
-            "name": "人生進行形",
-            "artist": "May'n",
-            "id": 1487502645
-        },
-        {
-            "name": "Refrain",
-            "artist": "阿南亮子",
-            "id": 22712173
-        },
-        {
-            "name": "嘘月",
-            "artist": "ヨルシカ",
-            "id": 1815109509
-        },
-        {
-            "name": "earth meal feat. asmi",
-            "artist": "Rin音",
-            "id": 1448511372
+            "id": 1831400576
         },
         {
             "name": "春夜、雨を喜ぶ - メインテーマ (Piano & Strings)",
@@ -139,49 +79,109 @@
             "id": 1331298992
         },
         {
-            "name": "ヨスガノソラ メインテーマ -遠い空へ-",
-            "artist": "市川淳",
-            "id": 477913
+            "name": "雨道",
+            "artist": "Otokaze",
+            "id": 493903
         },
         {
-            "name": "不可幸力",
-            "artist": "Vaundy",
-            "id": 1441993917
+            "name": "SPECIALZ",
+            "artist": "King Gnu",
+            "id": 2074163984
         },
         {
-            "name": "Beautiful Journey",
-            "artist": "平井 大",
-            "id": 1380113693
+            "name": "toki",
+            "artist": "hideyuki hashimoto",
+            "id": 28679443
         },
         {
-            "name": "Bad Apple!!",
-            "artist": "のみこ",
-            "id": 22645196
+            "name": "hometown",
+            "artist": "mamomo",
+            "id": 33469292
         },
         {
-            "name": "くらべられっ子",
-            "artist": "ツユ",
-            "id": 1428278494
+            "name": "「籠のなか」",
+            "artist": "増田俊郎",
+            "id": 469772
         },
         {
-            "name": "ラヴィット",
-            "artist": "ピノキオピー",
-            "id": 1859603833
+            "name": "North",
+            "artist": "Binary Haze Interactive",
+            "id": 1850441830
         },
         {
-            "name": "Arrows",
-            "artist": "She Her Her Hers",
-            "id": 1859866020
+            "name": "Harmonious",
+            "artist": "Binary Haze Interactive",
+            "id": 1850441824
         },
         {
-            "name": "いつも何度でも",
-            "artist": "伊藤サチコ",
-            "id": 584155
+            "name": "睡魔",
+            "artist": "缶缶",
+            "id": 1842537673
         },
         {
-            "name": "さよならの夏～コクリコ坂から～",
-            "artist": "手嶌葵",
-            "id": 526656
+            "name": "Alter",
+            "artist": "小瀬村晶",
+            "id": 1854373137
+        },
+        {
+            "name": "M01",
+            "artist": "梶浦由記",
+            "id": 591797
+        },
+        {
+            "name": "歳月-雲流れ-",
+            "artist": "Foxtail-Grass Studio",
+            "id": 730631
+        },
+        {
+            "name": "sweets parade",
+            "artist": "花澤香菜",
+            "id": 809268
+        },
+        {
+            "name": "eau",
+            "artist": "yutaka hirasaka",
+            "id": 29535887
+        },
+        {
+            "name": "夜に浮かぶ",
+            "artist": "Haruna",
+            "id": 1488866474
+        },
+        {
+            "name": "PAIN",
+            "artist": "DUSTCELL",
+            "id": 1480078061
+        },
+        {
+            "name": "悋気 / Rinki",
+            "artist": "Iwamizu",
+            "id": 504264248
+        },
+        {
+            "name": "ブラウニー",
+            "artist": "和ぬか",
+            "id": 1853173505
+        },
+        {
+            "name": "春を待つ (feat. 倚水)",
+            "artist": "Islet",
+            "id": 1833847964
+        },
+        {
+            "name": "夜撫でるメノウ (Ayase ver.)",
+            "artist": "Ayase",
+            "id": 1466019532
+        },
+        {
+            "name": "寄り酔い",
+            "artist": "和ぬか",
+            "id": 1820461433
+        },
+        {
+            "name": "theme of SSS",
+            "artist": "ANANT-GARDE EYES",
+            "id": 471799
         }
     ]
 }

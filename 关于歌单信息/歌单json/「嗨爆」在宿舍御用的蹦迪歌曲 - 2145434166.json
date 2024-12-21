@@ -1,22 +1,57 @@
 {
     "playlist_info": {
         "name": "「嗨爆」在宿舍御用的蹦迪歌曲",
-        "trackcount": 154,
-        "playcount": 61171696,
+        "trackcount": 158,
+        "playcount": 61380120,
         "creator": "Quanjfic",
         "createDate": "2018-03-17",
-        "heat": 31693.0
+        "heat": 30369.0
     },
     "songs": [
+        {
+            "name": "DREAM ABOUT YOU",
+            "artist": "ZHANG JUN（张俊）",
+            "id": 2043505230
+        },
+        {
+            "name": "噩梦",
+            "artist": "DreamBeach梦想海滩",
+            "id": 2065954052
+        },
+        {
+            "name": "Guns Out",
+            "artist": "Blasterjaxx",
+            "id": 2075914134
+        },
+        {
+            "name": "Soldier（防暴士兵）",
+            "artist": "Gentleman",
+            "id": 2074749091
+        },
+        {
+            "name": "NFE (Orginal mix)",
+            "artist": "NFE",
+            "id": 2075056471
+        },
+        {
+            "name": "Bloody blade",
+            "artist": "LucasTang",
+            "id": 2079415525
+        },
+        {
+            "name": "Italia e voi (Orginal mix )",
+            "artist": "Azeri",
+            "id": 2062853835
+        },
+        {
+            "name": "After Class",
+            "artist": "知晏",
+            "id": 2057277788
+        },
         {
             "name": "Knight (Orginal mix )",
             "artist": "Gentleman",
             "id": 1997624150
-        },
-        {
-            "name": "Everybody's Scared",
-            "artist": "Parah Dice",
-            "id": 1407344989
         },
         {
             "name": "Gangsta (Orginal mix )",
@@ -44,23 +79,13 @@
             "id": 2041999326
         },
         {
-            "name": "ACID",
-            "artist": "Hardwell",
-            "id": 2040987987
-        },
-        {
             "name": "Armon (Orginal mix )",
             "artist": "Gentleman",
             "id": 2033162713
         },
         {
-            "name": "DREAM ABOUT YOU",
-            "artist": "ZHANG JUN（张俊）",
-            "id": 2043505230
-        },
-        {
             "name": "Angetenarr(Orginal mix)",
-            "artist": "HLFM",
+            "artist": "ROSE",
             "id": 2012867513
         },
         {
@@ -90,7 +115,7 @@
         },
         {
             "name": "Bertual Dior(Orginal mix)",
-            "artist": "HLFM",
+            "artist": "ROSE",
             "id": 2031636260
         },
         {
@@ -100,7 +125,7 @@
         },
         {
             "name": "Fire Boom(Orginal mix)",
-            "artist": "HLFM",
+            "artist": "ROSE",
             "id": 2027895208
         },
         {
@@ -175,7 +200,7 @@
         },
         {
             "name": "Sold Out",
-            "artist": "Hawk Nelson",
+            "artist": "Jonathan Steingard",
             "id": 31010566
         },
         {
@@ -482,11 +507,6 @@
             "name": "The Hum (Original Mix)",
             "artist": "Dimitri Vegas & Like Mike",
             "id": 31517427
-        },
-        {
-            "name": "Way Back",
-            "artist": "Vicetone",
-            "id": 543987451
         },
         {
             "name": "Frontier (Extended Mix)",

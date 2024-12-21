@@ -1,13 +1,18 @@
 {
     "playlist_info": {
         "name": "『劳斯莱斯』专属车载DJ（间断更新）",
-        "trackcount": 98,
-        "playcount": 1351848,
+        "trackcount": 99,
+        "playcount": 1521827,
         "creator": "全球摇头协会女会长",
         "createDate": "2019-11-20",
-        "heat": 1026.0
+        "heat": 1080.0
     },
     "songs": [
+        {
+            "name": "PLAY",
+            "artist": "Ricii Lompeurs",
+            "id": 1963132367
+        },
         {
             "name": "2 Love (I Want You) (Delyno Deep Remix Radio)",
             "artist": "Morra",
@@ -109,7 +114,7 @@
             "id": 1377642003
         },
         {
-            "name": "Cyka Blyat",
+            "name": "Сука блядь",
             "artist": "DJ Blyatman",
             "id": 1368324900
         },
@@ -459,7 +464,7 @@
             "id": 1436069543
         },
         {
-            "name": "ALan-Octopus（DruGTRaffickerS remix）",
+            "name": "Octopus (Original Mix)",
             "artist": "DruGTRaffickerS",
             "id": 1423297895
         },

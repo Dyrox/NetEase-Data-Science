@@ -1,13 +1,18 @@
 {
     "playlist_info": {
         "name": "【精品王者战歌】 打游戏必备",
-        "trackcount": 125,
-        "playcount": 6980144,
-        "creator": "热情coldly",
+        "trackcount": 126,
+        "playcount": 7152275,
+        "creator": "整杯咖啡和iPad",
         "createDate": "2018-05-12",
-        "heat": 3723.0
+        "heat": 3638.0
     },
     "songs": [
+        {
+            "name": "Bandit",
+            "artist": "DJ七七",
+            "id": 2065669099
+        },
         {
             "name": "Don't Stop",
             "artist": "Alex Marvel",
@@ -19,7 +24,7 @@
             "id": 2005246464
         },
         {
-            "name": "Play",
+            "name": "PLAY",
             "artist": "KKK_OFFICIAL",
             "id": 2009911649
         },
@@ -349,7 +354,7 @@
             "id": 497616880
         },
         {
-            "name": "Walk Thru Fire ",
+            "name": "Walk Thru Fire",
             "artist": "Vicetone",
             "id": 1322460396
         },
@@ -370,7 +375,7 @@
         },
         {
             "name": "萧敬腾-怎么说我不爱你(弹鼓版)（苏亦枫吖 remix）",
-            "artist": "Girl Super",
+            "artist": "Hawk",
             "id": 1438282140
         },
         {
@@ -455,7 +460,7 @@
         },
         {
             "name": "Sold Out",
-            "artist": "Hawk Nelson",
+            "artist": "Jonathan Steingard",
             "id": 31010566
         },
         {
@@ -564,7 +569,7 @@
             "id": 442562229
         },
         {
-            "name": "Cyka Blyat",
+            "name": "Сука блядь",
             "artist": "DJ Blyatman",
             "id": 1368324900
         },

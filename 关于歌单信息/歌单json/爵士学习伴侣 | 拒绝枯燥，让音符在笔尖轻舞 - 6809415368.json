@@ -2,146 +2,96 @@
     "playlist_info": {
         "name": "爵士学习伴侣 | 拒绝枯燥，让音符在笔尖轻舞",
         "trackcount": 30,
-        "playcount": 3860977,
+        "playcount": 4483405,
         "creator": "云音乐官方歌单",
         "createDate": "2021-06-15",
-        "heat": 5193.0
+        "heat": 5367.0
     },
     "songs": [
         {
-            "name": "Just A Gigolo (Instrumental)",
-            "artist": "Ted Sommer",
-            "id": 5054642
+            "name": "The Star-Crossed Lovers",
+            "artist": "Claude Williamson",
+            "id": 1159565
         },
         {
-            "name": "Till",
-            "artist": "Faraò",
-            "id": 5178805
-        },
-        {
-            "name": "Soiree (Complete Take 3)",
+            "name": "My Funny Valentine",
             "artist": "Bill Evans",
-            "id": 1083170
+            "id": 22486342
         },
         {
-            "name": "Stairway to the Stars",
-            "artist": "Kenny Burrell",
-            "id": 1623762
-        },
-        {
-            "name": "All The Things You Are",
-            "artist": "Joe Pass",
-            "id": 18576645
-        },
-        {
-            "name": "Again",
-            "artist": "Erroll Garner",
-            "id": 1316460
-        },
-        {
-            "name": "Soirée",
+            "name": "Romaine (Digitally Remastered)",
             "artist": "Bill Evans",
-            "id": 1083136
+            "id": 22486345
         },
         {
-            "name": "Every Time We Say Goodbye",
+            "name": "When You Wish Upon a Star",
+            "artist": "Ulf Wakenius",
+            "id": 3794689
+        },
+        {
+            "name": "Don't Ever Leave Me",
             "artist": "Keith Jarrett",
-            "id": 28661471
+            "id": 1616705
         },
         {
-            "name": "Why Was I Born",
-            "artist": "Red Garland",
-            "id": 21527109
+            "name": "Memories of Tomorrow",
+            "artist": "Ulf Wakenius",
+            "id": 3794544
         },
         {
-            "name": "Graceful Touch - Variation",
-            "artist": "Tord Gustavsen",
-            "id": 19519062
+            "name": "I Got It Bad (And That Ain't Good)",
+            "artist": "the oscar peterson trio",
+            "id": 510897278
         },
         {
-            "name": "Moonlight Serenade",
-            "artist": "Beegie Adair",
-            "id": 2299959
-        },
-        {
-            "name": "Carinhoso",
+            "name": "We Will Be Together Again",
             "artist": "Eddie Higgins Trio",
-            "id": 19769289
+            "id": 1307925
         },
         {
-            "name": "Lament",
-            "artist": "Pat Martino",
-            "id": 21382006
-        },
-        {
-            "name": "I'm Lost",
-            "artist": "George Shearing",
-            "id": 1401390
-        },
-        {
-            "name": "The Shadow Of Your Smile",
-            "artist": "Herb Ellis",
-            "id": 27033643
-        },
-        {
-            "name": "Polka Dots And Moonbeams (Album Version)",
-            "artist": "Wes Montgomery",
-            "id": 2082331
-        },
-        {
-            "name": "Autumn in New York",
-            "artist": "Maurice Vander",
-            "id": 1769676
-        },
-        {
-            "name": "A Certain Smile",
-            "artist": "Ted Greene",
-            "id": 36586311
-        },
-        {
-            "name": "Sing Song",
-            "artist": "John Abercrombie",
-            "id": 1512299
-        },
-        {
-            "name": "It Never Entered My Mind",
-            "artist": "Gene Harris",
-            "id": 1397294
-        },
-        {
-            "name": "There Will Never Be Another You",
-            "artist": "Kenny Burrell",
-            "id": 5220559
-        },
-        {
-            "name": "I Can't Get Started",
-            "artist": "Sylvain Luc",
-            "id": 19066868
-        },
-        {
-            "name": "Don't Worry Bout Me",
-            "artist": "Erroll Garner",
-            "id": 1316649
-        },
-        {
-            "name": "Georgia On My Mind",
-            "artist": "Oscar Peterson",
-            "id": 21383873
-        },
-        {
-            "name": "Close Your Eyes",
-            "artist": "Herb Ellis",
-            "id": 1440884
-        },
-        {
-            "name": "Autumn Leaves",
+            "name": "This Always",
             "artist": "Tal Farlow",
-            "id": 28585257
+            "id": 2034165
         },
         {
-            "name": "My Old Flame",
-            "artist": "Keith Jarrett",
-            "id": 28661464
+            "name": "Edges Of Happiness",
+            "artist": "Tord Gustavsen",
+            "id": 19519085
+        },
+        {
+            "name": "Marie [Bass Solo]",
+            "artist": "John McLaughlin",
+            "id": 1514371
+        },
+        {
+            "name": "Gee Baby, Ain't I Good to You",
+            "artist": "George Shearing",
+            "id": 1401411
+        },
+        {
+            "name": "Adoro",
+            "artist": "Farao",
+            "id": 5178797
+        },
+        {
+            "name": "If I Did - Would You?, Take 1",
+            "artist": "Duke Jordan",
+            "id": 1251715
+        },
+        {
+            "name": "Over The Rainbow",
+            "artist": "John Pisano",
+            "id": 1587691
+        },
+        {
+            "name": "Winter Wonderland",
+            "artist": "George Shearing",
+            "id": 1398907
+        },
+        {
+            "name": "Ill Wind",
+            "artist": "Larry Coryell",
+            "id": 1670037
         },
         {
             "name": "The Nearness Of You",
@@ -149,14 +99,64 @@
             "id": 21527110
         },
         {
-            "name": "Do I Love You",
-            "artist": "Russell Malone",
-            "id": 563722489
+            "name": "Lonely Lonely Girl [Solo Piano]",
+            "artist": "Bob Acri",
+            "id": 25885891
         },
         {
-            "name": "In Your Own Sweet Way",
-            "artist": "Wes Montgomery",
-            "id": 492353794
+            "name": "The Things You Never Remember",
+            "artist": "Dave Brubeck",
+            "id": 1229534
+        },
+        {
+            "name": "Every Time We Say Goodbye",
+            "artist": "Keith Jarrett",
+            "id": 28661471
+        },
+        {
+            "name": "Ol' Man River",
+            "artist": "Ted Greene",
+            "id": 36587295
+        },
+        {
+            "name": "How Insensitive",
+            "artist": "Larry Coryell",
+            "id": 1670049
+        },
+        {
+            "name": "Stella By Starlight",
+            "artist": "Tuck Andress",
+            "id": 21819359
+        },
+        {
+            "name": "Anna",
+            "artist": "Chick Corea",
+            "id": 20541414
+        },
+        {
+            "name": "I Can't Get Started With You (Original Mix)",
+            "artist": "Oscar Moore",
+            "id": 569575739
+        },
+        {
+            "name": "Calder",
+            "artist": "Julian Lage",
+            "id": 532803018
+        },
+        {
+            "name": "I'm Old Fashioned",
+            "artist": "Peter Beets",
+            "id": 4251207
+        },
+        {
+            "name": "Cabiria's Dream",
+            "artist": "Enrico Pieranunzi",
+            "id": 1314127
+        },
+        {
+            "name": "Angel Eyes",
+            "artist": "Tommy Flanagan",
+            "id": 3592981
         }
     ]
 }

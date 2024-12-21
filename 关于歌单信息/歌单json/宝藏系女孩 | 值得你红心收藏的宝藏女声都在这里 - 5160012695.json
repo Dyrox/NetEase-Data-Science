@@ -2,61 +2,61 @@
     "playlist_info": {
         "name": "宝藏系女孩 | 值得你红心收藏的宝藏女声都在这里",
         "trackcount": 20,
-        "playcount": 8768125,
+        "playcount": 8786136,
         "creator": "云音乐官方歌单",
         "createDate": "2020-08-04",
-        "heat": 8283.0
+        "heat": 7637.0
     },
     "songs": [
         {
-            "name": "Firestone",
-            "artist": "Birdy",
-            "id": 36102667
+            "name": "Get Stüpid",
+            "artist": "Bülow",
+            "id": 1356668705
         },
         {
-            "name": "Like Everybody Else (Acoustic)",
-            "artist": "Lennon Stella",
-            "id": 1298775650
+            "name": "Leave Me Alone",
+            "artist": "Addict.",
+            "id": 1442190409
         },
         {
-            "name": "Burning Bridges",
+            "name": "You Don't Know About Me",
             "artist": "Ella Vos",
-            "id": 1428651009
+            "id": 477332575
         },
         {
-            "name": "Last Soul on Earth",
-            "artist": "Miriam Bryant",
-            "id": 26534131
+            "name": "Gallo Pinto",
+            "artist": "Daniela Andrade",
+            "id": 1400453311
         },
         {
-            "name": "With Love",
-            "artist": "Christina Grimmie",
-            "id": 27552324
-        },
-        {
-            "name": "Body Can't Hold",
-            "artist": "Jessie Early",
-            "id": 464674143
-        },
-        {
-            "name": "I Can't Sleep (Acoustic Version)",
-            "artist": "Olivera",
-            "id": 1396473172
-        },
-        {
-            "name": "Temporary",
+            "name": "White Noise",
             "artist": "Ella Vos",
-            "id": 1334775903
+            "id": 431534100
         },
         {
-            "name": "Sky",
-            "artist": "Tanaki Alison",
-            "id": 28684811
+            "name": "Forevermore",
+            "artist": "Katie Herzig",
+            "id": 2872438
         },
         {
-            "name": "1 Day (Acoustic)",
-            "artist": "Sophie Rose",
-            "id": 1367323745
+            "name": "Catherine Howard's Fate",
+            "artist": "Blackmore's Night",
+            "id": 16866796
+        },
+        {
+            "name": "Zimt",
+            "artist": "LissA",
+            "id": 409031374
+        },
+        {
+            "name": "Amelia",
+            "artist": "Skott",
+            "id": 431357312
+        },
+        {
+            "name": "I’m Fine",
+            "artist": "Emily Hearn",
+            "id": 2587456
         },
         {
             "name": "Into You (Acoustic Version)",
@@ -64,49 +64,49 @@
             "id": 1390728547
         },
         {
-            "name": "Rumors (Acoustic)",
-            "artist": "R3HAB",
-            "id": 1374526066
-        },
-        {
-            "name": "La Lune",
-            "artist": "Billie Marten",
-            "id": 417569803
-        },
-        {
             "name": "Mine (Acoustic)",
             "artist": "Emily Vaughn",
             "id": 1379009818
         },
         {
-            "name": "I Do (Acoustic)",
-            "artist": "Astrid S",
-            "id": 1432446834
+            "name": "Favorite Thing",
+            "artist": "Tim Legend",
+            "id": 1315694665
         },
         {
-            "name": "Hopefully We're Better Then",
-            "artist": "Paulina Palmgren",
-            "id": 32192034
+            "name": "Sunrise",
+            "artist": "Sophie Zelmani",
+            "id": 1351973195
         },
         {
-            "name": "Black & Blue",
-            "artist": "Ingrid Michaelson",
-            "id": 2747593
+            "name": "I Like U",
+            "artist": "Addict.",
+            "id": 1422537244
         },
         {
-            "name": "Any Other Way",
-            "artist": "Daniela Andrade",
-            "id": 33916528
+            "name": "JUST SAY YES",
+            "artist": "ash",
+            "id": 434974750
         },
         {
-            "name": "Without You",
-            "artist": "Emily Hearn",
-            "id": 30967932
+            "name": "Bloodshot",
+            "artist": "Lexy Panterra",
+            "id": 39224519
         },
         {
-            "name": "Red Balloon",
-            "artist": "Emily Hearn",
-            "id": 2587437
+            "name": "Radical",
+            "artist": "Emme Packer",
+            "id": 2532622
+        },
+        {
+            "name": "I Can't Sleep (Acoustic Version)",
+            "artist": "Olivera",
+            "id": 1396473172
+        },
+        {
+            "name": "Bird",
+            "artist": "Billie Marten",
+            "id": 35023480
         }
     ]
 }

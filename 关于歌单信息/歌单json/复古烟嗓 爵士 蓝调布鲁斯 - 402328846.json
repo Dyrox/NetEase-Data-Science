@@ -1,11 +1,11 @@
 {
     "playlist_info": {
         "name": "复古烟嗓 爵士 蓝调布鲁斯",
-        "trackcount": 402,
-        "playcount": 12254454,
+        "trackcount": 407,
+        "playcount": 12645986,
         "creator": "Szilvassy",
         "createDate": "2016-06-16",
-        "heat": 4762.0
+        "heat": 4753.0
     },
     "songs": [
         {
@@ -37,6 +37,11 @@
             "name": "Love Will Never Let You Down (Album Version)",
             "artist": "Brian Culbertson",
             "id": 16628142
+        },
+        {
+            "name": "Come Dance With Me",
+            "artist": "Frank Sinatra",
+            "id": 1450981662
         },
         {
             "name": "(In My) Solitude",
@@ -129,6 +134,11 @@
             "id": 1981762010
         },
         {
+            "name": "Summertime",
+            "artist": "Chantal Chamberland",
+            "id": 2326376
+        },
+        {
             "name": "Blue Champagne",
             "artist": "The Manhattan Transfer",
             "id": 21880271
@@ -207,6 +217,16 @@
             "name": "It Had To Be You",
             "artist": "Dinah Shore",
             "id": 17374675
+        },
+        {
+            "name": "Back To The Middle",
+            "artist": "India.Arie",
+            "id": 18388869
+        },
+        {
+            "name": "I've Got You Under My Skin (Remastered 2023)",
+            "artist": "Frank Sinatra",
+            "id": 2072521891
         },
         {
             "name": "Cheek To Cheek",
@@ -597,6 +617,11 @@
             "name": "Some Kind Of Wonderful",
             "artist": "Peter Cincotti",
             "id": 21407774
+        },
+        {
+            "name": "Favorite Rendezvous",
+            "artist": "大橋トリオ",
+            "id": 1482187556
         },
         {
             "name": "Love and Marriage",

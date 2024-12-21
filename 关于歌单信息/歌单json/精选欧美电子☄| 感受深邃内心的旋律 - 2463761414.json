@@ -1,13 +1,23 @@
 {
     "playlist_info": {
         "name": "精选欧美电子☄| 感受深邃内心的旋律",
-        "trackcount": 477,
-        "playcount": 3177846,
+        "trackcount": 476,
+        "playcount": 3188379,
         "creator": "倒闭的才华有限公司",
         "createDate": "2018-10-10",
-        "heat": 1844.0
+        "heat": 1757.0
     },
     "songs": [
+        {
+            "name": "Catchfire (Sun Sun Sun) (EDX’s Miami Sunset Remix)",
+            "artist": "Spada",
+            "id": 39443927
+        },
+        {
+            "name": "No Promises (Delta Jack Remix)",
+            "artist": "Delta Jack",
+            "id": 503123018
+        },
         {
             "name": "Kiss Me, Kill Me",
             "artist": "ARI HICKS",
@@ -79,7 +89,7 @@
             "id": 544247597
         },
         {
-            "name": "Lost ",
+            "name": "Lost",
             "artist": "Jai Wolf",
             "id": 1299998060
         },
@@ -199,7 +209,7 @@
             "id": 509531247
         },
         {
-            "name": "The Edge ",
+            "name": "The Edge",
             "artist": "Grant",
             "id": 1315450595
         },
@@ -277,11 +287,6 @@
             "name": "Relax Take it Easy",
             "artist": "Cdeep",
             "id": 1449539029
-        },
-        {
-            "name": "Cheat Codes-No Promises（HEYICHEN / 7unknown remix）",
-            "artist": "7ouTp",
-            "id": 1434602292
         },
         {
             "name": "Never Be (feat. AXYL)",
@@ -395,7 +400,7 @@
         },
         {
             "name": "Twin",
-            "artist": "Briet",
+            "artist": "BRÍET",
             "id": 544788691
         },
         {
@@ -689,7 +694,7 @@
             "id": 473742953
         },
         {
-            "name": "Shogun X Adara - Face In The Crowd ",
+            "name": "Shogun X Adara - Face In The Crowd",
             "artist": "Shogun",
             "id": 1377129934
         },
@@ -710,7 +715,7 @@
         },
         {
             "name": "Fearless Pt. II",
-            "artist": "Tule",
+            "artist": "Lost Sky",
             "id": 529391087
         },
         {
@@ -944,7 +949,7 @@
             "id": 563840187
         },
         {
-            "name": "Just The Same",
+            "name": "Just the Same",
             "artist": "Charlotte Lawrence",
             "id": 533455199
         },
@@ -1679,7 +1684,7 @@
             "id": 519265246
         },
         {
-            "name": "Cold Water (feat. Justin Bieber & MØ)",
+            "name": "Cold Water",
             "artist": "Major Lazer",
             "id": 422132237
         },
@@ -1979,11 +1984,6 @@
             "id": 454698776
         },
         {
-            "name": "Feel Good (Wild Cards Remix)",
-            "artist": "Wild Cards",
-            "id": 479938023
-        },
-        {
             "name": "Fever",
             "artist": "Future Duper",
             "id": 458231085
@@ -2012,11 +2012,6 @@
             "name": "The In Between",
             "artist": "Elephante",
             "id": 548999213
-        },
-        {
-            "name": "Home (Blaze U Remix)",
-            "artist": "ThimLife",
-            "id": 448317566
         },
         {
             "name": "I Don't Wanna Live Forever",

@@ -1,0 +1,577 @@
+{
+    "playlist_info": {
+        "name": "一听就燃的NBA歌曲",
+        "trackcount": 113,
+        "playcount": 1067776,
+        "creator": "云端野孩子",
+        "createDate": "2018-04-01",
+        "heat": 532.0
+    },
+    "songs": [
+        {
+            "name": "Monsters",
+            "artist": "Katie Sky",
+            "id": 28481189
+        },
+        {
+            "name": "One Kiss",
+            "artist": "Calvin Harris",
+            "id": 1318524156
+        },
+        {
+            "name": "The Best Of Me",
+            "artist": "Dion Timmer",
+            "id": 1329938686
+        },
+        {
+            "name": "Catch My Breath",
+            "artist": "Kelly Clarkson",
+            "id": 25657526
+        },
+        {
+            "name": "So Far Away",
+            "artist": "Martin Garrix",
+            "id": 521416693
+        },
+        {
+            "name": "Dancing With Your Ghost",
+            "artist": "Sasha Alex Sloan",
+            "id": 1374329431
+        },
+        {
+            "name": "Empty Love",
+            "artist": "Lulleaux",
+            "id": 1435828582
+        },
+        {
+            "name": "STAY",
+            "artist": "The Kid LAROI",
+            "id": 1859245776
+        },
+        {
+            "name": "Monsters",
+            "artist": "Timeflies",
+            "id": 28461933
+        },
+        {
+            "name": "Now Or Never (Bonus Track)",
+            "artist": "Kendrick Lamar",
+            "id": 18943527
+        },
+        {
+            "name": "HandClap",
+            "artist": "Fitz and The Tantrums",
+            "id": 407839677
+        },
+        {
+            "name": "Don't Let Me Down (Illenium Remix)",
+            "artist": "ILLENIUM",
+            "id": 405599648
+        },
+        {
+            "name": "Control",
+            "artist": "Zoe Wees",
+            "id": 1430429719
+        },
+        {
+            "name": "Outside",
+            "artist": "Calvin Harris",
+            "id": 29561077
+        },
+        {
+            "name": "Natural",
+            "artist": "Imagine Dragons",
+            "id": 1294378245
+        },
+        {
+            "name": "Wake (Studio)",
+            "artist": "Hillsong Young & Free",
+            "id": 33051312
+        },
+        {
+            "name": "Something Just Like This(Megamix)",
+            "artist": "AnDyWuMUSICLAND",
+            "id": 471565537
+        },
+        {
+            "name": "Unstoppable",
+            "artist": "LVNJ",
+            "id": 1934089100
+        },
+        {
+            "name": "Where Is Your Love",
+            "artist": "J. Lisk",
+            "id": 458725081
+        },
+        {
+            "name": "Landslide",
+            "artist": "Vicetone",
+            "id": 427542418
+        },
+        {
+            "name": "I'm Born To Run",
+            "artist": "American Authors",
+            "id": 409374302
+        },
+        {
+            "name": "King",
+            "artist": "Zayde Wølf",
+            "id": 422132112
+        },
+        {
+            "name": "Something New",
+            "artist": "Axwell Λ Ingrosso",
+            "id": 29759676
+        },
+        {
+            "name": "The Cure (Spiros Hamza Remix)",
+            "artist": "Spiros Hamza",
+            "id": 1418055805
+        },
+        {
+            "name": "Cheap Thrills",
+            "artist": "Sia",
+            "id": 39224884
+        },
+        {
+            "name": "Shivers",
+            "artist": "Rachel Platten",
+            "id": 515601126
+        },
+        {
+            "name": "Believer",
+            "artist": "Imagine Dragons",
+            "id": 1338149101
+        },
+        {
+            "name": "Fire",
+            "artist": "Gavin DeGraw",
+            "id": 29544960
+        },
+        {
+            "name": "Stronger (What Doesn't Kill You)",
+            "artist": "Kelly Clarkson",
+            "id": 2870985
+        },
+        {
+            "name": "Sing Me to Sleep",
+            "artist": "Alan Walker",
+            "id": 415792222
+        },
+        {
+            "name": "Waiting",
+            "artist": "Vicetone",
+            "id": 1364530152
+        },
+        {
+            "name": "Light It Up",
+            "artist": "Robin Hustin",
+            "id": 1301572562
+        },
+        {
+            "name": "Star Unkind (Lanfranchi & Farina Remix)",
+            "artist": "2Someone",
+            "id": 512640295
+        },
+        {
+            "name": "Infinity",
+            "artist": "Jaymes Young",
+            "id": 1335330283
+        },
+        {
+            "name": "One Last Time",
+            "artist": "Ariana Grande",
+            "id": 28977745
+        },
+        {
+            "name": "Wolves",
+            "artist": "Selena Gomez",
+            "id": 1888830450
+        },
+        {
+            "name": "On My Own",
+            "artist": "Ashes Remain",
+            "id": 16483438
+        },
+        {
+            "name": "Salt",
+            "artist": "Ava Max",
+            "id": 1480204501
+        },
+        {
+            "name": "By Your Side",
+            "artist": "Jonas Blue",
+            "id": 437909145
+        },
+        {
+            "name": "Ferrari",
+            "artist": "Bebe Rexha",
+            "id": 550936829
+        },
+        {
+            "name": "Born To Race",
+            "artist": "OneRepublic",
+            "id": 521187582
+        },
+        {
+            "name": "In Your Arms",
+            "artist": "ILLENIUM",
+            "id": 1384492898
+        },
+        {
+            "name": "Fractures",
+            "artist": "ILLENIUM",
+            "id": 507585220
+        },
+        {
+            "name": "Lone Ranger",
+            "artist": "Rachel Platten",
+            "id": 29803676
+        },
+        {
+            "name": "Free Loop",
+            "artist": "Daniel Powter",
+            "id": 5253801
+        },
+        {
+            "name": "Try",
+            "artist": "P!nk",
+            "id": 27515086
+        },
+        {
+            "name": "Hero (feat. Christina Perri) [Deep Mix]",
+            "artist": "Cash Cash",
+            "id": 1360454878
+        },
+        {
+            "name": "I Want You to Know",
+            "artist": "Zedd",
+            "id": 30706066
+        },
+        {
+            "name": "Way Back",
+            "artist": "Vicetone",
+            "id": 543987451
+        },
+        {
+            "name": "Drown (feat. Clinton Kane)",
+            "artist": "Martin Garrix",
+            "id": 1422256869
+        },
+        {
+            "name": "The Cure",
+            "artist": "Lady Gaga",
+            "id": 472045959
+        },
+        {
+            "name": "Wannabe",
+            "artist": "Why Mona",
+            "id": 501220770
+        },
+        {
+            "name": "Still Falling for You",
+            "artist": "Ellie Goulding",
+            "id": 426502151
+        },
+        {
+            "name": "Waiting For Love",
+            "artist": "Avicii",
+            "id": 1823216550
+        },
+        {
+            "name": "This Is What You Came For",
+            "artist": "Calvin Harris",
+            "id": 411314681
+        },
+        {
+            "name": "Natural",
+            "artist": "Imagine Dragons",
+            "id": 1482101374
+        },
+        {
+            "name": "The Nights",
+            "artist": "Avicii",
+            "id": 35090549
+        },
+        {
+            "name": "Immortals",
+            "artist": "Fall Out Boy",
+            "id": 30967261
+        },
+        {
+            "name": "Because of You",
+            "artist": "Josh Vietti",
+            "id": 28828074
+        },
+        {
+            "name": "Because of You",
+            "artist": "Kelly Clarkson",
+            "id": 16232697
+        },
+        {
+            "name": "Baby",
+            "artist": "Justin Bieber",
+            "id": 1869988044
+        },
+        {
+            "name": "Right Now",
+            "artist": "Rihanna",
+            "id": 25706382
+        },
+        {
+            "name": "Roar",
+            "artist": "Katy Perry",
+            "id": 27566922
+        },
+        {
+            "name": "Whistle",
+            "artist": "Flo Rida",
+            "id": 17793698
+        },
+        {
+            "name": "Hall of Fame",
+            "artist": "The Script",
+            "id": 26624703
+        },
+        {
+            "name": "All Falls Down",
+            "artist": "Alan Walker",
+            "id": 515453363
+        },
+        {
+            "name": "R.O.O.T.S",
+            "artist": "Flo Rida",
+            "id": 5041598
+        },
+        {
+            "name": "Sold Out",
+            "artist": "Jonathan Steingard",
+            "id": 31010566
+        },
+        {
+            "name": "The New Kings",
+            "artist": "Vicetone",
+            "id": 29910080
+        },
+        {
+            "name": "Walk Thru Fire",
+            "artist": "Vicetone",
+            "id": 1297498908
+        },
+        {
+            "name": "Viva La Vida",
+            "artist": "Coldplay",
+            "id": 3986017
+        },
+        {
+            "name": "Moves Like Jagger",
+            "artist": "Maroon 5",
+            "id": 21253966
+        },
+        {
+            "name": "Animals",
+            "artist": "Maroon 5",
+            "id": 1862245687
+        },
+        {
+            "name": "Nobody Knows",
+            "artist": "Darin",
+            "id": 1217457
+        },
+        {
+            "name": "Remember Our Summer",
+            "artist": "FrogMonster",
+            "id": 1384450197
+        },
+        {
+            "name": "Amazing",
+            "artist": "Kanye West",
+            "id": 5041603
+        },
+        {
+            "name": "Your Love Is My Drug",
+            "artist": "Kesha",
+            "id": 2918952
+        },
+        {
+            "name": "I Believe I Can Fly",
+            "artist": "R. Kelly",
+            "id": 21534286
+        },
+        {
+            "name": "Insomnia",
+            "artist": "Craig David",
+            "id": 463145155
+        },
+        {
+            "name": "Wavin'  Flag",
+            "artist": "K'NAAN",
+            "id": 18939901
+        },
+        {
+            "name": "Flames",
+            "artist": "David Guetta",
+            "id": 1298037209
+        },
+        {
+            "name": "Unstoppable",
+            "artist": "Sia",
+            "id": 400876320
+        },
+        {
+            "name": "Hall of Fame",
+            "artist": "The Script",
+            "id": 19542337
+        },
+        {
+            "name": "See You Again (From \"Furious 7\" Soundtrack)",
+            "artist": "Wiz Khalifa",
+            "id": 400971154
+        },
+        {
+            "name": "Move Your Body (Alan Walker Remix)",
+            "artist": "Alan Walker",
+            "id": 436487129
+        },
+        {
+            "name": "Horizon",
+            "artist": "Janji",
+            "id": 32046918
+        },
+        {
+            "name": "Sign",
+            "artist": "DEAMN",
+            "id": 440101136
+        },
+        {
+            "name": "Run Free (Radio Edit)",
+            "artist": "Deep Chills",
+            "id": 504777431
+        },
+        {
+            "name": "Send It (feat. Rich Homie Quan)",
+            "artist": "Austin Mahone",
+            "id": 426291544
+        },
+        {
+            "name": "The Spectre",
+            "artist": "Alan Walker",
+            "id": 506092035
+        },
+        {
+            "name": "The Climb",
+            "artist": "Miley Cyrus",
+            "id": 17217944
+        },
+        {
+            "name": "Go Big Or Go Home (Taylor Wise Remix)",
+            "artist": "American Authors",
+            "id": 32166698
+        },
+        {
+            "name": "My Love",
+            "artist": "Westlife",
+            "id": 26867112
+        },
+        {
+            "name": "Yeah!",
+            "artist": "Usher",
+            "id": 21974794
+        },
+        {
+            "name": "One Day",
+            "artist": "Matisyahu",
+            "id": 5041604
+        },
+        {
+            "name": "Something Just Like This",
+            "artist": "The Chainsmokers",
+            "id": 461347998
+        },
+        {
+            "name": "Feel This Moment",
+            "artist": "Pitbull",
+            "id": 26145007
+        },
+        {
+            "name": "All Of The Lights",
+            "artist": "Kanye West",
+            "id": 28936363
+        },
+        {
+            "name": "Remember The Name (feat. Styles Of Beyond)",
+            "artist": "Fort Minor",
+            "id": 1345018
+        },
+        {
+            "name": "I Believe I Can Fly",
+            "artist": "R. Kelly",
+            "id": 1872305
+        },
+        {
+            "name": "Fast Lane",
+            "artist": "Royce da 5'9",
+            "id": 1939989
+        },
+        {
+            "name": "In the End",
+            "artist": "Linkin Park",
+            "id": 4153632
+        },
+        {
+            "name": "Numb",
+            "artist": "Linkin Park",
+            "id": 4153366
+        },
+        {
+            "name": "Samsara (Jo-Mo Remix)",
+            "artist": "Tungevaag & Raaban",
+            "id": 435289749
+        },
+        {
+            "name": "Never Say Never",
+            "artist": "The Fray",
+            "id": 19558626
+        },
+        {
+            "name": "Don't Let Me Down",
+            "artist": "The Chainsmokers",
+            "id": 425828558
+        },
+        {
+            "name": "You (feat. Katelyn Tarver)",
+            "artist": "Lost Kings",
+            "id": 35955554
+        },
+        {
+            "name": "Brother",
+            "artist": "Kodaline",
+            "id": 485960410
+        },
+        {
+            "name": "Say It (Illenium Remix)",
+            "artist": "ILLENIUM",
+            "id": 428642934
+        },
+        {
+            "name": "Worth It",
+            "artist": "Fifth Harmony",
+            "id": 33916250
+        },
+        {
+            "name": "We Are the Champions",
+            "artist": "Queen",
+            "id": 1868480
+        },
+        {
+            "name": "We Will Rock You",
+            "artist": "Queen",
+            "id": 1869271
+        },
+        {
+            "name": "Battle Symphony",
+            "artist": "Linkin Park",
+            "id": 460043748
+        }
+    ]
+}

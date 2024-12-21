@@ -1,13 +1,18 @@
 {
     "playlist_info": {
         "name": "打篮球必备音乐［炸］",
-        "trackcount": 108,
-        "playcount": 1892671,
+        "trackcount": 110,
+        "playcount": 2042373,
         "creator": "舔狗不要绿帽子",
         "createDate": "2020-07-06",
-        "heat": 1732.0
+        "heat": 1731.0
     },
     "songs": [
+        {
+            "name": "Fool For You",
+            "artist": "KASTRA",
+            "id": 1817576399
+        },
         {
             "name": "Senbonzakura [SS-Extended+Bass]",
             "artist": "Lindsey Stirling",
@@ -17,6 +22,11 @@
             "name": "Shadow Of The Sun (Adventure Club Remix)",
             "artist": "Max Elto",
             "id": 28723886
+        },
+        {
+            "name": "despair",
+            "artist": "Flower Kiss",
+            "id": 550829288
         },
         {
             "name": "Right Above It",
@@ -30,7 +40,7 @@
         },
         {
             "name": "Sold Out",
-            "artist": "Hawk Nelson",
+            "artist": "Jonathan Steingard",
             "id": 31010566
         },
         {
@@ -39,7 +49,7 @@
             "id": 518904426
         },
         {
-            "name": "Promise",
+            "name": "Past Lives / Promise",
             "artist": "sapientdream",
             "id": 1308782023
         },
@@ -334,7 +344,7 @@
             "id": 491271737
         },
         {
-            "name": "Walk Thru Fire ",
+            "name": "Walk Thru Fire",
             "artist": "Vicetone",
             "id": 1322460396
         },

@@ -1,13 +1,18 @@
 {
     "playlist_info": {
         "name": "【绘画摸鱼用砖】Summer Dream",
-        "trackcount": 226,
-        "playcount": 994046,
+        "trackcount": 227,
+        "playcount": 994865,
         "creator": "niorun虹",
         "createDate": "2016-03-12",
-        "heat": 372.0
+        "heat": 360.0
     },
     "songs": [
+        {
+            "name": "Caresse sur l'océan",
+            "artist": "Bruno Coulais",
+            "id": 2033434041
+        },
         {
             "name": "L'Internationale",
             "artist": "Cherry Chérie",
@@ -115,7 +120,7 @@
         },
         {
             "name": "Александра",
-            "artist": "Various Artists",
+            "artist": "Олег Митяев",
             "id": 5224893
         },
         {
@@ -479,7 +484,7 @@
             "id": 1784031
         },
         {
-            "name": "I saw you smile today. I almost forgot that you faded away",
+            "name": "I saw you smile today. I almost forgot you faded away",
             "artist": "Xeuphoria",
             "id": 405377983
         },
@@ -814,7 +819,7 @@
             "id": 30355879
         },
         {
-            "name": "쓰레기 (Inst.)",
+            "name": "쓰레기 (inst.)",
             "artist": "河佑镇",
             "id": 29378656
         },

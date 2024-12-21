@@ -1,22 +1,162 @@
 {
     "playlist_info": {
         "name": "游戏必备丨自信即巅峰",
-        "trackcount": 211,
-        "playcount": 6549446,
+        "trackcount": 238,
+        "playcount": 6742052,
         "creator": "季夏God",
         "createDate": "2021-09-21",
-        "heat": 10126.0
+        "heat": 9138.0
     },
     "songs": [
         {
-            "name": "Secrets (Orginal mix )",
-            "artist": "Azeri",
-            "id": 2048271919
+            "name": "Bandit",
+            "artist": "DJ七七",
+            "id": 2065669099
         },
         {
-            "name": "Kar Bro (Orginal mix )",
+            "name": "Sahara (撒哈拉)",
+            "artist": "Gentleman",
+            "id": 2081092296
+        },
+        {
+            "name": "Octopus jiang (Orginal mix )",
             "artist": "Ghani",
-            "id": 2042856403
+            "id": 2021279106
+        },
+        {
+            "name": "Boiling",
+            "artist": "Caviare",
+            "id": 1439938305
+        },
+        {
+            "name": "Kate Bush-Running Up That Hill",
+            "artist": "LINGZEA",
+            "id": 2047985543
+        },
+        {
+            "name": "Move Your Body (RAIZHELL Remix)",
+            "artist": "Öwnboss",
+            "id": 1969098089
+        },
+        {
+            "name": "KLEIN BLUE",
+            "artist": "Nine Band",
+            "id": 1964744004
+        },
+        {
+            "name": "Underground",
+            "artist": "Lindsey Stirling",
+            "id": 1374221428
+        },
+        {
+            "name": "Fainted Priest",
+            "artist": "Fatrik",
+            "id": 1940057567
+        },
+        {
+            "name": "Мокрые губы(×0.8)",
+            "artist": "煜hwh",
+            "id": 2016520779
+        },
+        {
+            "name": "All For Love",
+            "artist": "Tungevaag & Raaban",
+            "id": 545947135
+        },
+        {
+            "name": "Night Crusing (But Slowed) (prod 牛尾憲輔)",
+            "artist": "XyEscape",
+            "id": 1937226721
+        },
+        {
+            "name": "Bleach",
+            "artist": "Krubb Wenkroist",
+            "id": 29498727
+        },
+        {
+            "name": "Fake Love (Orchestral Version)",
+            "artist": "MDP",
+            "id": 1988202864
+        },
+        {
+            "name": "Sold Out",
+            "artist": "Jonathan Steingard",
+            "id": 31010566
+        },
+        {
+            "name": "Wake (Live)",
+            "artist": "Hillsong Young & Free",
+            "id": 1873321491
+        },
+        {
+            "name": "Catch My Breath",
+            "artist": "Kelly Clarkson",
+            "id": 26226510
+        },
+        {
+            "name": "Lush Life",
+            "artist": "NALYRO",
+            "id": 1841908846
+        },
+        {
+            "name": "Here (Lucian Remix)",
+            "artist": "Alessia Cara",
+            "id": 33365175
+        },
+        {
+            "name": "Jar Of Love (Album Version)",
+            "artist": "Wanting",
+            "id": 1941963749
+        },
+        {
+            "name": "Take Me (Extended Mix)",
+            "artist": "Will Sparks",
+            "id": 493551129
+        },
+        {
+            "name": "This Feeling",
+            "artist": "my!lane",
+            "id": 1897255962
+        },
+        {
+            "name": "Night Crusing (Inst.)",
+            "artist": "牛尾憲輔 (agraph)",
+            "id": 1958871157
+        },
+        {
+            "name": "GigaChad Theme (Phonk House Version)",
+            "artist": "g3ox_em",
+            "id": 1974460387
+        },
+        {
+            "name": "Pump it Up",
+            "artist": "Cdeep",
+            "id": 1449537557
+        },
+        {
+            "name": "Polozhenie (TikTok Version)",
+            "artist": "t3nzunabeat",
+            "id": 1920976243
+        },
+        {
+            "name": "BABYDOLL (Speed)",
+            "artist": "Ari Abdul",
+            "id": 1932769322
+        },
+        {
+            "name": "This Far",
+            "artist": "IRXD7",
+            "id": 1943260792
+        },
+        {
+            "name": "Shootout (Sped Up)",
+            "artist": "Izzamuzzic",
+            "id": 1960740829
+        },
+        {
+            "name": "4hi(JSS)",
+            "artist": "Hard working jack",
+            "id": 1998880941
         },
         {
             "name": "Don't You Run (feat. Raja Kumari)",
@@ -45,12 +185,12 @@
         },
         {
             "name": "Ass Like That",
-            "artist": "Psaxxx",
+            "artist": "அலாதீன் இசை",
             "id": 1948083890
         },
         {
             "name": "Light Particle（Original Mix）",
-            "artist": "Young Xxxg",
+            "artist": "Armagan Oruc",
             "id": 1925396823
         },
         {
@@ -59,7 +199,7 @@
             "id": 1838081036
         },
         {
-            "name": "Bamba",
+            "name": "Bamba!",
             "artist": "Armağan Oruç",
             "id": 1892409985
         },
@@ -759,11 +899,6 @@
             "id": 519367069
         },
         {
-            "name": "Sold Out",
-            "artist": "Hawk Nelson",
-            "id": 31010566
-        },
-        {
             "name": "Power (In Your Soul)",
             "artist": "Interupt",
             "id": 1843319489
@@ -1024,7 +1159,7 @@
             "id": 1820478232
         },
         {
-            "name": "Feel The Fire (Egzod Remix)",
+            "name": "Feel the Fire (Egzod Remix)",
             "artist": "Pluto",
             "id": 444324932
         },

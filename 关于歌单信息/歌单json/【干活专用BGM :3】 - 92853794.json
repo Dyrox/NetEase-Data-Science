@@ -1,13 +1,23 @@
 {
     "playlist_info": {
         "name": "【干活专用BGM :3】",
-        "trackcount": 287,
-        "playcount": 512457,
+        "trackcount": 291,
+        "playcount": 520143,
         "creator": "Tufffy_",
         "createDate": "2015-07-27",
-        "heat": 176.0
+        "heat": 174.0
     },
     "songs": [
+        {
+            "name": "Dead Eyes",
+            "artist": "Psaxxx",
+            "id": 1935263712
+        },
+        {
+            "name": "彼岸 (DJ版）",
+            "artist": "CJ 阿力普",
+            "id": 1814311787
+        },
         {
             "name": "What It Is",
             "artist": "Mark Knopfler",
@@ -250,7 +260,7 @@
         },
         {
             "name": "Sold Out",
-            "artist": "Hawk Nelson",
+            "artist": "Jonathan Steingard",
             "id": 31010566
         },
         {
@@ -630,7 +640,7 @@
         },
         {
             "name": "世界が终わるまでは… (ASL版)",
-            "artist": "上杉升",
+            "artist": "上杉昇",
             "id": 28987657
         },
         {
@@ -1330,7 +1340,7 @@
         },
         {
             "name": "Battle Without Honor Or Humanity",
-            "artist": "Tomoyasu Hotei",
+            "artist": "布袋寅泰",
             "id": 5051245
         },
         {

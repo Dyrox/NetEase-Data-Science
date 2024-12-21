@@ -1,13 +1,48 @@
 {
     "playlist_info": {
         "name": "超炸Rap｜超酷Flow致命节奏",
-        "trackcount": 176,
-        "playcount": 4910218,
+        "trackcount": 183,
+        "playcount": 5382735,
         "creator": "oreo灵",
         "createDate": "2019-07-01",
-        "heat": 3364.0
+        "heat": 3471.0
     },
     "songs": [
+        {
+            "name": "18岁（prod. Furyl）",
+            "artist": "Pinks",
+            "id": 2074205298
+        },
+        {
+            "name": "抢蛋糕FREESTYLE",
+            "artist": "逸云",
+            "id": 2037272551
+        },
+        {
+            "name": "With U",
+            "artist": "CX Ming",
+            "id": 2081385419
+        },
+        {
+            "name": "Julie",
+            "artist": "Kaptain",
+            "id": 1915784095
+        },
+        {
+            "name": "百毒不侵",
+            "artist": "Wiz_H张子豪",
+            "id": 1400910123
+        },
+        {
+            "name": "别非要我大声说出来",
+            "artist": "弹壳Danko",
+            "id": 2071242783
+        },
+        {
+            "name": "反面教材",
+            "artist": "Kc",
+            "id": 1322261402
+        },
         {
             "name": "K.O.",
             "artist": "高天佐Trouble.Z",
@@ -29,9 +64,9 @@
             "id": 1982694513
         },
         {
-            "name": "WE DON'T PLAY",
-            "artist": "范丞丞",
-            "id": 2032173388
+            "name": "重建麻柳街",
+            "artist": "王晨宇ICECRAZ",
+            "id": 2055866776
         },
         {
             "name": "心动的旅行",
@@ -42,6 +77,11 @@
             "name": "无名 (LIVE版)",
             "artist": "杨和苏KeyNG",
             "id": 1973748101
+        },
+        {
+            "name": "WE DON'T PLAY",
+            "artist": "范丞丞",
+            "id": 2032173388
         },
         {
             "name": "吹 right now(现在吹) (LIVE版)",
@@ -157,11 +197,6 @@
             "name": "少数派报告",
             "artist": "Tizzy T",
             "id": 1844152730
-        },
-        {
-            "name": "反面教材",
-            "artist": "Kc",
-            "id": 1322261402
         },
         {
             "name": "Know My Style",
@@ -389,7 +424,7 @@
             "id": 1334295025
         },
         {
-            "name": "三思而后行 ",
+            "name": "三思而后行",
             "artist": "王以太",
             "id": 1313052961
         },

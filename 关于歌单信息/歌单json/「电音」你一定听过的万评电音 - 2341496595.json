@@ -1,11 +1,11 @@
 {
     "playlist_info": {
         "name": "「电音」你一定听过的万评电音",
-        "trackcount": 502,
-        "playcount": 64215848,
+        "trackcount": 506,
+        "playcount": 65781800,
         "creator": "HUMAN00",
         "createDate": "2018-07-31",
-        "heat": 35790.0
+        "heat": 34893.0
     },
     "songs": [
         {
@@ -29,6 +29,11 @@
             "id": 1440570723
         },
         {
+            "name": "When I Was Young",
+            "artist": "ZHANGYE",
+            "id": 1907809940
+        },
+        {
             "name": "BABYDOLL (Speed)",
             "artist": "Ari Abdul",
             "id": 1932769322
@@ -49,19 +54,14 @@
             "id": 2021343439
         },
         {
-            "name": "I Wish My Mind Would Shut Up",
-            "artist": "Ivoris",
-            "id": 1940074698
+            "name": "Bones",
+            "artist": "Imagine Dragons",
+            "id": 1927389937
         },
         {
             "name": "Stay The Night",
             "artist": "Just Kiddin",
             "id": 1376075781
-        },
-        {
-            "name": "Bones",
-            "artist": "Imagine Dragons",
-            "id": 1927389937
         },
         {
             "name": "Hero",
@@ -72,6 +72,11 @@
             "name": "Catch My Breath",
             "artist": "Kelly Clarkson",
             "id": 25657526
+        },
+        {
+            "name": "I Wish My Mind Would Shut Up",
+            "artist": "Ivoris",
+            "id": 1940074698
         },
         {
             "name": "Shots (Broiler Remix)",
@@ -107,6 +112,11 @@
             "name": "Midnight City",
             "artist": "M83",
             "id": 16957780
+        },
+        {
+            "name": "Ass Like That",
+            "artist": "அலாதீன் இசை",
+            "id": 1948083890
         },
         {
             "name": "I Really Want to Stay At Your House",
@@ -345,7 +355,7 @@
         },
         {
             "name": "Sold Out",
-            "artist": "Hawk Nelson",
+            "artist": "Jonathan Steingard",
             "id": 31010566
         },
         {
@@ -875,7 +885,7 @@
         },
         {
             "name": "Fly Away",
-            "artist": "Anjulie",
+            "artist": "TheFatRat",
             "id": 480648424
         },
         {
@@ -974,7 +984,7 @@
             "id": 29717271
         },
         {
-            "name": "Good Day",
+            "name": "Good day",
             "artist": "Lucky Stroke",
             "id": 28493605
         },
@@ -1097,6 +1107,11 @@
             "name": "Hold On (feat. Cheat Codes) [Radio Edit]",
             "artist": "Moguai",
             "id": 34749984
+        },
+        {
+            "name": "Hands in the Fire",
+            "artist": "James Carter",
+            "id": 1306497271
         },
         {
             "name": "I Am You",
@@ -1974,6 +1989,11 @@
             "id": 1327781623
         },
         {
+            "name": "Sakura",
+            "artist": "R3HAB",
+            "id": 416700305
+        },
+        {
             "name": "Tuesday",
             "artist": "Burak Yeter",
             "id": 421423245
@@ -2350,7 +2370,7 @@
         },
         {
             "name": "Wicked Wonderland (Radio Edit)",
-            "artist": "Tungevaag",
+            "artist": "Martin Tungevaag",
             "id": 28694864
         },
         {

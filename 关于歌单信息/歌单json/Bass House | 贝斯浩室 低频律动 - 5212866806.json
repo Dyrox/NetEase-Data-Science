@@ -1,13 +1,33 @@
 {
     "playlist_info": {
         "name": "Bass House | 贝斯浩室 低频律动",
-        "trackcount": 76,
-        "playcount": 3574695,
+        "trackcount": 78,
+        "playcount": 3685853,
         "creator": "云音乐电音星球",
         "createDate": "2020-08-31",
-        "heat": 3465.0
+        "heat": 3281.0
     },
     "songs": [
+        {
+            "name": "Music Control",
+            "artist": "Illegal Music",
+            "id": 2055151205
+        },
+        {
+            "name": "Gimme Bass",
+            "artist": "Moksi",
+            "id": 2053506778
+        },
+        {
+            "name": "DJ Turn It Up (€URO TRA$H Remix)",
+            "artist": "Yellow Claw",
+            "id": 2048721998
+        },
+        {
+            "name": "Waffle House",
+            "artist": "Basura Boyz",
+            "id": 2050533350
+        },
         {
             "name": "Aspirin",
             "artist": "Julian Jordan",
@@ -19,19 +39,9 @@
             "id": 2039367188
         },
         {
-            "name": "Bring It Back",
-            "artist": "No Thanks",
-            "id": 2054158359
-        },
-        {
-            "name": "All Black Everything (w/ Scrufizzer)",
-            "artist": "Wax Motif",
-            "id": 1498013446
-        },
-        {
-            "name": "DJ Turn It Up (€URO TRA$H Remix)",
-            "artist": "Yellow Claw",
-            "id": 2048721998
+            "name": "Made In France",
+            "artist": "DJ Snake",
+            "id": 1380150032
         },
         {
             "name": "Holy House",

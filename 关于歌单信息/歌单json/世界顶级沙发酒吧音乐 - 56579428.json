@@ -1,13 +1,43 @@
 {
     "playlist_info": {
         "name": "世界顶级沙发酒吧音乐",
-        "trackcount": 536,
-        "playcount": 11683900,
+        "trackcount": 542,
+        "playcount": 11738833,
         "creator": "变态克星Sam",
         "createDate": "2015-03-07",
-        "heat": 3847.0
+        "heat": 3752.0
     },
     "songs": [
+        {
+            "name": "CHERIE",
+            "artist": "Darius",
+            "id": 1928502579
+        },
+        {
+            "name": "Inhale / Exhale",
+            "artist": "Austin Millz",
+            "id": 2022844784
+        },
+        {
+            "name": "POP!",
+            "artist": "Adanna Duru",
+            "id": 1988448776
+        },
+        {
+            "name": "Gorgeous",
+            "artist": "Ash",
+            "id": 427139331
+        },
+        {
+            "name": "Benz (Orginal mix )",
+            "artist": "Zara-Music",
+            "id": 2061057460
+        },
+        {
+            "name": "Magical (Orginal mix )",
+            "artist": "Zara-Music",
+            "id": 2050852369
+        },
         {
             "name": "WHEN I GROW UP",
             "artist": "Yaeji",
@@ -485,12 +515,12 @@
         },
         {
             "name": "Sign (HYE SUNG Remix)",
-            "artist": "HYE SUNG",
+            "artist": "HYESUNG",
             "id": 463001752
         },
         {
             "name": "Knock Knock",
-            "artist": "HYE SUNG",
+            "artist": "HYESUNG",
             "id": 463268794
         },
         {
@@ -2084,7 +2114,7 @@
             "id": 17236583
         },
         {
-            "name": "Lean On (feat. MØ & DJ Snake)",
+            "name": "Lean On",
             "artist": "MØ",
             "id": 32299560
         },

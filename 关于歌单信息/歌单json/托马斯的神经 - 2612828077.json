@@ -1,13 +1,168 @@
 {
     "playlist_info": {
         "name": "托马斯的神经",
-        "trackcount": 849,
-        "playcount": 707530,
+        "trackcount": 878,
+        "playcount": 715939,
         "creator": "京城一枝花儿",
         "createDate": "2019-01-07",
-        "heat": 432.0
+        "heat": 414.0
     },
     "songs": [
+        {
+            "name": "Candy Pop",
+            "artist": "AWOLNATION",
+            "id": 2076515377
+        },
+        {
+            "name": "I Like Me Better",
+            "artist": "Lauv",
+            "id": 479223413
+        },
+        {
+            "name": "分分钟需要你",
+            "artist": "林忆莲",
+            "id": 1893256785
+        },
+        {
+            "name": "Cry Cry Cry",
+            "artist": "Coldplay",
+            "id": 1404820548
+        },
+        {
+            "name": "Seventeen",
+            "artist": "Joyner Lucas",
+            "id": 2076903439
+        },
+        {
+            "name": "Heartbreaker (碎心者)",
+            "artist": "于贞",
+            "id": 2080151060
+        },
+        {
+            "name": "candyflips!",
+            "artist": "347aidan",
+            "id": 2078571684
+        },
+        {
+            "name": "Oh My God",
+            "artist": "Chris James",
+            "id": 2074344604
+        },
+        {
+            "name": "Beside You",
+            "artist": "James Blunt",
+            "id": 2068711972
+        },
+        {
+            "name": "Hall Of Fame",
+            "artist": "Peder Elias",
+            "id": 2073603364
+        },
+        {
+            "name": "Christie Rd. (Outtake)",
+            "artist": "Green Day",
+            "id": 2079708343
+        },
+        {
+            "name": "寻找",
+            "artist": "王栎鑫",
+            "id": 1383182714
+        },
+        {
+            "name": "Paint The Town Red",
+            "artist": "Doja Cat",
+            "id": 2068310232
+        },
+        {
+            "name": "Good With Me",
+            "artist": "Walker Hayes",
+            "id": 2073989274
+        },
+        {
+            "name": "Last Time I Saw You",
+            "artist": "Nicki Minaj",
+            "id": 2078584929
+        },
+        {
+            "name": "All I Ever Wanted feat. GULF KANAWUT",
+            "artist": "BALLISTIK BOYZ from EXILE TRIBE",
+            "id": 2076148331
+        },
+        {
+            "name": "别再问我什么是迪斯科",
+            "artist": "张蔷",
+            "id": 28160039
+        },
+        {
+            "name": "Vincent (Alle Farben Remix)",
+            "artist": "Sarah Connor",
+            "id": 2068064426
+        },
+        {
+            "name": "NEW DANCE",
+            "artist": "XG",
+            "id": 2075523606
+        },
+        {
+            "name": "火车驶向云外，梦安魂于九霄",
+            "artist": "刺猬",
+            "id": 528272281
+        },
+        {
+            "name": "Bye-Bye (New Remix)",
+            "artist": "张震岳",
+            "id": 185747
+        },
+        {
+            "name": "白马",
+            "artist": "傲日格乐",
+            "id": 1454179784
+        },
+        {
+            "name": "Bow Wow (That's My Name)",
+            "artist": "Bow Wow",
+            "id": 5208438
+        },
+        {
+            "name": "No Diggity",
+            "artist": "Dr. Dre",
+            "id": 23726256
+        },
+        {
+            "name": "不爱．请闪开",
+            "artist": "萧亚轩",
+            "id": 306969
+        },
+        {
+            "name": "Is this bad b****** number?",
+            "artist": "田小娟",
+            "id": 1858811233
+        },
+        {
+            "name": "<maybe> it's my fault",
+            "artist": "WILLOW",
+            "id": 1987477468
+        },
+        {
+            "name": "Just a Friend",
+            "artist": "Biz Markie",
+            "id": 19556956
+        },
+        {
+            "name": "MASCARA",
+            "artist": "XG",
+            "id": 1958636474
+        },
+        {
+            "name": "Blue Hundreds",
+            "artist": "Holy Mattress Money",
+            "id": 1438315485
+        },
+        {
+            "name": "SOBER",
+            "artist": "BIGBANG",
+            "id": 32922451
+        },
         {
             "name": "I'm Not The Only One (Sped Up)",
             "artist": "Sam Smith",
@@ -15,7 +170,7 @@
         },
         {
             "name": "You Need Jesus",
-            "artist": "Yung Gravy",
+            "artist": "Baby Gravy",
             "id": 2045321003
         },
         {
@@ -100,7 +255,7 @@
         },
         {
             "name": "Goodness Gracious",
-            "artist": "Yung Gravy",
+            "artist": "Baby Gravy",
             "id": 2036438053
         },
         {
@@ -239,7 +394,7 @@
             "id": 1895834413
         },
         {
-            "name": "VIBE (feat. Jimin of BTS)",
+            "name": "VIBE",
             "artist": "TAEYANG",
             "id": 2014282291
         },
@@ -487,11 +642,6 @@
             "name": "FWD",
             "artist": "Marshall Jefferson",
             "id": 2009886103
-        },
-        {
-            "name": "I Won",
-            "artist": "Don·Jessie",
-            "id": 2008757666
         },
         {
             "name": "NUMB",
@@ -2209,7 +2359,7 @@
             "id": 451520805
         },
         {
-            "name": "Radical",
+            "name": "Radical (feat. Grouplove)",
             "artist": "AWOLNATION",
             "id": 1489216280
         },
@@ -2544,11 +2694,6 @@
             "id": 32683297
         },
         {
-            "name": "I'm Me",
-            "artist": "Us The Duo",
-            "id": 445666827
-        },
-        {
             "name": "Free Me",
             "artist": "Joss Stone",
             "id": 22469352
@@ -2689,7 +2834,7 @@
             "id": 1446769622
         },
         {
-            "name": "Good Day",
+            "name": "Good day",
             "artist": "Lucky Stroke",
             "id": 28493605
         },

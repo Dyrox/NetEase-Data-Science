@@ -2,101 +2,21 @@
     "playlist_info": {
         "name": "夏日冰爽电音 | 沙滩上吹海风 压力全抛空",
         "trackcount": 30,
-        "playcount": 8128329,
+        "playcount": 8247228,
         "creator": "云音乐官方歌单",
         "createDate": "2020-03-19",
-        "heat": 6793.0
+        "heat": 6401.0
     },
     "songs": [
         {
-            "name": "In the Dark",
-            "artist": "Jessica Hart",
-            "id": 480768679
+            "name": "New Days",
+            "artist": "Sappheiros",
+            "id": 424264434
         },
         {
-            "name": "Float (Original Mix)",
-            "artist": "South Pole",
-            "id": 32069137
-        },
-        {
-            "name": "Dangerous",
-            "artist": "DEAMN",
-            "id": 571336615
-        },
-        {
-            "name": "Breeze (Original Mix)",
-            "artist": "Axero",
-            "id": 29808484
-        },
-        {
-            "name": "Feelings",
-            "artist": "Deep Chills",
-            "id": 1356527766
-        },
-        {
-            "name": "Sirius",
-            "artist": "Gianni Kosta",
-            "id": 425137411
-        },
-        {
-            "name": "Who We Are",
-            "artist": "FTampa",
-            "id": 559902519
-        },
-        {
-            "name": "Future Summer",
-            "artist": "Stories",
-            "id": 554241855
-        },
-        {
-            "name": "This Is The Life",
-            "artist": "LittleKings",
-            "id": 1451057131
-        },
-        {
-            "name": "Dusk (Original Mix)",
-            "artist": "Axero",
-            "id": 33497412
-        },
-        {
-            "name": "Don't Wanna Wake Up",
-            "artist": "Capital Kings",
-            "id": 503268146
-        },
-        {
-            "name": "One More in the Crowd",
-            "artist": "Thomas Sekelius",
-            "id": 562926865
-        },
-        {
-            "name": "Summer Love",
-            "artist": "DEAMN",
-            "id": 482386216
-        },
-        {
-            "name": "Godspeed You (Charming Horses Edit)",
-            "artist": "Francesco Rossi",
-            "id": 33332181
-        },
-        {
-            "name": "Cut Your Teeth (Kygo Radio Edit)",
-            "artist": "Kyla La Grange",
-            "id": 35739380
-        },
-        {
-            "name": "A Good Day (Original Mix)",
-            "artist": "DFLV",
-            "id": 32897214
-        },
-        {
-            "name": "Sugar, Honey",
-            "artist": "Eklo",
-            "id": 436488007
-        },
-        {
-            "name": "Next Escape",
-            "artist": "Viceroy",
-            "id": 410802620
+            "name": "What Is Love",
+            "artist": "Boehm",
+            "id": 436147635
         },
         {
             "name": "Happy Endings",
@@ -104,44 +24,119 @@
             "id": 28214510
         },
         {
-            "name": "Let You Go",
-            "artist": "Nightcall",
-            "id": 526883346
+            "name": "Humans",
+            "artist": "Levi",
+            "id": 34497463
         },
         {
-            "name": "Ride The Wave",
-            "artist": "Drew Gannon",
-            "id": 1306496786
+            "name": "Crumble",
+            "artist": "Fairlane",
+            "id": 1352962927
         },
         {
-            "name": "Make That Call",
-            "artist": "Ted Nights",
-            "id": 1357799854
+            "name": "Hvar (Original Mix)",
+            "artist": "Kiso",
+            "id": 33020800
         },
         {
-            "name": "Rips Into The Bone",
-            "artist": "July Child",
-            "id": 33525712
+            "name": "Somebody That You Loved",
+            "artist": "Bruno Martini",
+            "id": 1381704370
         },
         {
-            "name": "Stars",
-            "artist": "Vijay & Sofia",
-            "id": 504685317
+            "name": "Until The End(Original Mix)",
+            "artist": "Alex Brandt",
+            "id": 37853581
         },
         {
-            "name": "Outta Mind",
-            "artist": "Angelika Vee",
-            "id": 1321722298
+            "name": "Toluca Lake",
+            "artist": "Tep No",
+            "id": 515223310
         },
         {
-            "name": "Jubel",
-            "artist": "Klingande",
-            "id": 26350246
+            "name": "Don't Forget",
+            "artist": "LIZOT",
+            "id": 1391790131
         },
         {
-            "name": "Seventeen(Original Mix)",
-            "artist": "Sterkøl",
-            "id": 34383432
+            "name": "Want You",
+            "artist": "Erkki.R",
+            "id": 1383257166
+        },
+        {
+            "name": "Going Crazy",
+            "artist": "Flip Capella",
+            "id": 1428893756
+        },
+        {
+            "name": "Let Me Go",
+            "artist": "Ryan Dwane",
+            "id": 474574069
+        },
+        {
+            "name": "Mild Blood",
+            "artist": "Broken Back",
+            "id": 31134214
+        },
+        {
+            "name": "Next Escape",
+            "artist": "Viceroy",
+            "id": 410802620
+        },
+        {
+            "name": "I Can't Believe",
+            "artist": "Sander W.",
+            "id": 422094214
+        },
+        {
+            "name": "Collide",
+            "artist": "Chromak",
+            "id": 458231108
+        },
+        {
+            "name": "Anga (Original Mix)",
+            "artist": "Mozambo",
+            "id": 34916467
+        },
+        {
+            "name": "A Land So Far (Original Mix)",
+            "artist": "Jawster",
+            "id": 35807051
+        },
+        {
+            "name": "Sea",
+            "artist": "Axero",
+            "id": 399353211
+        },
+        {
+            "name": "Chances",
+            "artist": "Nector",
+            "id": 534781574
+        },
+        {
+            "name": "Losing You",
+            "artist": "offrami",
+            "id": 494093412
+        },
+        {
+            "name": "Take Back My Love",
+            "artist": "Frank Pole",
+            "id": 864420484
+        },
+        {
+            "name": "Lullaby (Original Mix)",
+            "artist": "Cella",
+            "id": 458995422
+        },
+        {
+            "name": "When I Said Goodbye (feat. KIKI)",
+            "artist": "Lost Knights",
+            "id": 1372723849
+        },
+        {
+            "name": "Dangerous",
+            "artist": "DEAMN",
+            "id": 571336615
         },
         {
             "name": "Golden Youth",
@@ -154,9 +149,14 @@
             "id": 463352597
         },
         {
-            "name": "Dance With Me (Original Mix)",
-            "artist": "Thallie Ann Seenyen",
-            "id": 29807330
+            "name": "Nevermind",
+            "artist": "Wisp X",
+            "id": 32717338
+        },
+        {
+            "name": "Meet Again",
+            "artist": "Axel",
+            "id": 516819102
         }
     ]
 }

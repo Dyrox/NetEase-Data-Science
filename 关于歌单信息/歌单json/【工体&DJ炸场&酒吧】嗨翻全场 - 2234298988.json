@@ -1,22 +1,42 @@
 {
     "playlist_info": {
         "name": "【工体&DJ炸场&酒吧】嗨翻全场",
-        "trackcount": 54,
-        "playcount": 972382,
+        "trackcount": 57,
+        "playcount": 1033379,
         "creator": "麦序Kmo歌单合作私",
         "createDate": "2018-05-20",
-        "heat": 521.0
+        "heat": 527.0
     },
     "songs": [
         {
-            "name": "Mirage (Orginal mix )",
-            "artist": "Qora",
-            "id": 2052783297
+            "name": "Bandit",
+            "artist": "DJ七七",
+            "id": 2065669099
         },
         {
-            "name": "Girl (Orginal mix )",
-            "artist": "Qora",
-            "id": 1981292805
+            "name": "Lovefool (Orginal mix )",
+            "artist": "Zara-Music",
+            "id": 2052116731
+        },
+        {
+            "name": "Benz (Orginal mix )",
+            "artist": "Zara-Music",
+            "id": 2061057460
+        },
+        {
+            "name": "Lenox",
+            "artist": "Fontaine",
+            "id": 2083538805
+        },
+        {
+            "name": "Raise Your Hands",
+            "artist": "Ummet Ozcan",
+            "id": 28937992
+        },
+        {
+            "name": "Party Till The Daylight (D3FAI Remix)",
+            "artist": "Hardwell",
+            "id": 476245676
         },
         {
             "name": "Cake Face",
@@ -74,19 +94,14 @@
             "id": 419594479
         },
         {
-            "name": "Hit The Road (Radio Mix)",
-            "artist": "Juicy M",
-            "id": 417250083
+            "name": "Prayer In C (Robin Schulz Remix)",
+            "artist": "Lilly Wood & The Prick",
+            "id": 29364808
         },
         {
             "name": "What We Started",
             "artist": "Don Diablo",
             "id": 420069067
-        },
-        {
-            "name": "Prayer In C (Robin Schulz Remix)",
-            "artist": "Lilly Wood & The Prick",
-            "id": 29364808
         },
         {
             "name": "Levels (Radio Edit)",
@@ -204,7 +219,7 @@
             "id": 540253253
         },
         {
-            "name": "Deja-Vu",
+            "name": "Déjà-Vu",
             "artist": "Timmy Trumpet",
             "id": 520458061
         },

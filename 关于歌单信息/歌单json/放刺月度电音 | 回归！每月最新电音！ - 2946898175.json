@@ -1,152 +1,112 @@
 {
     "playlist_info": {
         "name": "放刺月度电音 | 回归！每月最新电音！",
-        "trackcount": 28,
-        "playcount": 8771051,
+        "trackcount": 20,
+        "playcount": 8822405,
         "creator": "网易电音品牌放刺FEVER",
         "createDate": "2019-08-20",
-        "heat": 6227.0
+        "heat": 5880.0
     },
     "songs": [
         {
-            "name": "Steppin'",
-            "artist": "Mad.Again",
-            "id": 2044637292
+            "name": "Indelible Memory",
+            "artist": "ALIGASH",
+            "id": 2070912776
         },
         {
-            "name": "Closer (Hedex Remix)",
-            "artist": "Bou",
-            "id": 2056100806
+            "name": "牛",
+            "artist": "Anti-General",
+            "id": 2075790867
         },
         {
-            "name": "Heavy Drop",
-            "artist": "L-Side",
-            "id": 2053083571
+            "name": "Before You Leave",
+            "artist": "Au5",
+            "id": 2071113488
         },
         {
-            "name": "Gonna Be Good",
-            "artist": "Madeon",
-            "id": 2057766702
+            "name": "Pump",
+            "artist": "Pegboard Nerds",
+            "id": 2067665979
         },
         {
-            "name": "Where You Are",
+            "name": "Ray Of Solar",
+            "artist": "Swedish House Mafia",
+            "id": 2070264736
+        },
+        {
+            "name": "Never Give Up On You (with Elle Vee)",
+            "artist": "SLANDER",
+            "id": 2068389603
+        },
+        {
+            "name": "The Call",
+            "artist": "SABAI",
+            "id": 2069793628
+        },
+        {
+            "name": "Serpent of Old (feat. Nostalghia) (Caster Remix)",
+            "artist": "Seven Lions",
+            "id": 2077689842
+        },
+        {
+            "name": "Play With You",
+            "artist": "JVNA",
+            "id": 2055994545
+        },
+        {
+            "name": "You See Me",
+            "artist": "Last Heroes",
+            "id": 2063086532
+        },
+        {
+            "name": "Femle",
+            "artist": "JOKER",
+            "id": 2076902893
+        },
+        {
+            "name": "Fade Out",
             "artist": "John Summit",
-            "id": 2027178505
+            "id": 2076680707
         },
         {
-            "name": "The Rapture Pt.III",
-            "artist": "&ME",
-            "id": 2047883112
+            "name": "ROMANY ADVENTURES",
+            "artist": "DJ Diesel",
+            "id": 2068341454
         },
         {
-            "name": "TAKE IT OFF",
+            "name": "In The Cold",
+            "artist": "Dabin",
+            "id": 2071432322
+        },
+        {
+            "name": "Nirvana",
+            "artist": "Crystal Skies",
+            "id": 2064540069
+        },
+        {
+            "name": "Mind Pluck",
+            "artist": "Subtronics",
+            "id": 2064216535
+        },
+        {
+            "name": "Atmosphere",
             "artist": "Fisher",
-            "id": 2058093903
+            "id": 2071419560
         },
         {
-            "name": "(It Goes Like) Nanana (Edit)",
-            "artist": "Peggy Gou",
-            "id": 2053770592
+            "name": "Zurna",
+            "artist": "TroyBoi",
+            "id": 2065436773
         },
         {
-            "name": "Aspirin",
-            "artist": "Julian Jordan",
-            "id": 2046969047
+            "name": "The Home We Built",
+            "artist": "EMBRZ",
+            "id": 2069187114
         },
         {
-            "name": "Someone To Forget",
-            "artist": "ARMNHMR",
-            "id": 2039078265
-        },
-        {
-            "name": "When Daylight Strikes (Intents Kingdom of Unity 2023 Anthem)",
-            "artist": "Brennan Heart",
-            "id": 2046873165
-        },
-        {
-            "name": "AMERICA HAS A PROBLEM",
-            "artist": "Beyoncé",
-            "id": 2049057057
-        },
-        {
-            "name": "Bando (FAST X Remix)",
-            "artist": "ANNA",
-            "id": 2048760846
-        },
-        {
-            "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE]",
+            "name": "Don't Look Down (feat. BANKS)",
             "artist": "Jai Wolf",
-            "id": 2047158142
-        },
-        {
-            "name": "Missing You (Ben Gold Remix)",
-            "artist": "Gareth Emery",
-            "id": 2038891913
-        },
-        {
-            "name": "Friends",
-            "artist": "Meduza",
-            "id": 2046271134
-        },
-        {
-            "name": "Don't Look Down (Hold On)",
-            "artist": "Excision",
-            "id": 2049703796
-        },
-        {
-            "name": "Hero",
-            "artist": "Alan Walker",
-            "id": 2042074095
-        },
-        {
-            "name": "Spin Off",
-            "artist": "Above & Beyond",
-            "id": 2049458849
-        },
-        {
-            "name": "Time Stood Still VIP",
-            "artist": "Excision",
-            "id": 2046065807
-        },
-        {
-            "name": "Love Is A Highway",
-            "artist": "Nurko",
-            "id": 2045041767
-        },
-        {
-            "name": "Leviathan",
-            "artist": "Trivecta",
-            "id": 2044146061
-        },
-        {
-            "name": "Neck Snap",
-            "artist": "Kompany",
-            "id": 2043336768
-        },
-        {
-            "name": "Out Of Options",
-            "artist": "San Holo",
-            "id": 2046256065
-        },
-        {
-            "name": "Signal",
-            "artist": "Rezz",
-            "id": 2048761425
-        },
-        {
-            "name": "Vai Sentando",
-            "artist": "Skrillex",
-            "id": 2048760845
-        },
-        {
-            "name": "Gangster",
-            "artist": "W&W",
-            "id": 2044928707
-        },
-        {
-            "name": "ACID",
-            "artist": "Hardwell",
-            "id": 2040987987
+            "id": 2068900903
         }
     ]
 }

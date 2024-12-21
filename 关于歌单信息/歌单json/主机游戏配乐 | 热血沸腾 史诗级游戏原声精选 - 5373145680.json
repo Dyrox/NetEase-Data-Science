@@ -2,101 +2,21 @@
     "playlist_info": {
         "name": "主机游戏配乐 | 热血沸腾 史诗级游戏原声精选",
         "trackcount": 30,
-        "playcount": 4005106,
+        "playcount": 4068137,
         "creator": "云音乐官方歌单",
         "createDate": "2020-12-10",
-        "heat": 4304.0
+        "heat": 3979.0
     },
     "songs": [
         {
-            "name": "The Abysmal Region 重渊之深",
-            "artist": "HOYO-MiX",
-            "id": 1937111392
+            "name": "前进群山",
+            "artist": "SIGONO",
+            "id": 1874648726
         },
         {
-            "name": "Stories Untold 待诉说的传说",
-            "artist": "HOYO-MiX",
-            "id": 1937114248
-        },
-        {
-            "name": "The Path Of A Kingslayer",
-            "artist": "Adam Skorupa",
-            "id": 1942390
-        },
-        {
-            "name": "Bonus Material - Andaman Sea - Rituals Old [Extended]",
-            "artist": "Crystal Dynamics",
-            "id": 1214398
-        },
-        {
-            "name": "An Audience with Cronos",
-            "artist": "Ron Fish",
-            "id": 5046054
-        },
-        {
-            "name": "On the Horizon",
-            "artist": "Brian Tyler",
-            "id": 28162966
-        },
-        {
-            "name": "Jodie's Suite",
-            "artist": "Hans Zimmer",
-            "id": 27837375
-        },
-        {
-            "name": "A Glass Would Be a Start",
-            "artist": "Harry Gregson-Williams",
-            "id": 29836926
-        },
-        {
-            "name": "ARK Genesis Part One Main Theme",
-            "artist": "Gareth Coker",
-            "id": 1848300572
-        },
-        {
-            "name": "Emhyr var Emreis",
-            "artist": "Marcin Przybyłowicz",
-            "id": 32063369
-        },
-        {
-            "name": "Blood on the Cobblestones",
-            "artist": "Marcin Przybyłowicz",
-            "id": 32063392
-        },
-        {
-            "name": "BF Menu Music",
-            "artist": "Rupert Gregson-Williams",
-            "id": 28936661
-        },
-        {
-            "name": "Exodus (feat. Alexey Omelchuk)",
-            "artist": "Metro Exodus",
-            "id": 1372953093
-        },
-        {
-            "name": "Pride & Honour",
+            "name": "Under No Flag",
             "artist": "Johan Soderqvist",
-            "id": 1325905486
-        },
-        {
-            "name": "Unbearable Pressure",
-            "artist": "鈴木幸太",
-            "id": 1353159952
-        },
-        {
-            "name": "Echoes of the Eye",
-            "artist": "Andrew Prahlow",
-            "id": 1879098276
-        },
-        {
-            "name": "龙问",
-            "artist": "瞳乐团",
-            "id": 1858166154
-        },
-        {
-            "name": "Dream",
-            "artist": "眞鍋昭大",
-            "id": 1433537609
+            "id": 1341520969
         },
         {
             "name": "我明明答应他的",
@@ -104,14 +24,54 @@
             "id": 1874648728
         },
         {
-            "name": "The Way of the Ghost",
-            "artist": "Ilan Eshkeri",
-            "id": 1459672575
+            "name": "哀致渊永 Tales of Woe",
+            "artist": "HOYO-MiX",
+            "id": 1937114396
         },
         {
-            "name": "Legacy Of Rome",
-            "artist": "Andreas Waldetoft",
-            "id": 1365032936
+            "name": "常世之国 The Realm of Tokoyo",
+            "artist": "HOYO-MiX",
+            "id": 1937114376
+        },
+        {
+            "name": "Opening Titles",
+            "artist": "Hans Zimmer",
+            "id": 1427081
+        },
+        {
+            "name": "Bonus Material - Andaman Sea - Rituals Old [Extended]",
+            "artist": "Crystal Dynamics",
+            "id": 1214398
+        },
+        {
+            "name": "Helghan Jungle - Helghast Spotted",
+            "artist": "Joris de Man",
+            "id": 1597729
+        },
+        {
+            "name": "Trial of Archimedes",
+            "artist": "Tyler Bates",
+            "id": 26251898
+        },
+        {
+            "name": "Skeleton Crew",
+            "artist": "陣内一真",
+            "id": 36190878
+        },
+        {
+            "name": "生命ある者へ",
+            "artist": "小見山優子",
+            "id": 25897622
+        },
+        {
+            "name": "To Arms (Rebellion)",
+            "artist": "Adam Skorupa",
+            "id": 1072879
+        },
+        {
+            "name": "Snowy Mountains (Edit)",
+            "artist": "Mikael Karlsson",
+            "id": 1775222
         },
         {
             "name": "织梦行云",
@@ -119,44 +79,84 @@
             "id": 1425838802
         },
         {
-            "name": "花",
-            "artist": "SIGONO",
-            "id": 1874643093
+            "name": "The Way of the Samurai",
+            "artist": "Ilan Eshkeri",
+            "id": 1459672576
         },
         {
-            "name": "覚えていますか？",
-            "artist": "岩田恭明",
-            "id": 1309814673
+            "name": "The Way Of The Dragon",
+            "artist": "Audinity",
+            "id": 1365036120
         },
         {
-            "name": "117",
-            "artist": "Kazuma Jinnouchi",
-            "id": 27364029
+            "name": "Terminal Escape",
+            "artist": "Borislav Slavov",
+            "id": 28258672
         },
         {
-            "name": "Memories of Mother",
-            "artist": "Bear McCreary",
-            "id": 552084829
+            "name": "地風水 ~風水霊殿 ガンエン廟~",
+            "artist": "祖堅正慶",
+            "id": 864489062
         },
         {
-            "name": "The Crusade Starts",
-            "artist": "Andreas Waldetoft",
-            "id": 1472138351
+            "name": "The Swindle",
+            "artist": "Johan Soderqvist",
+            "id": 443876747
         },
         {
-            "name": "Dockside",
-            "artist": "Jack Wall",
-            "id": 28914905
+            "name": "狩猟の大地へ",
+            "artist": "甲田雅人",
+            "id": 37095219
         },
         {
-            "name": "The Trials",
-            "artist": "陣内一真",
-            "id": 36190891
+            "name": "Atlas",
+            "artist": "Harry Gregson-Williams",
+            "id": 29836911
         },
         {
-            "name": "Skeleton Crew",
-            "artist": "陣内一真",
-            "id": 36190878
+            "name": "Opening",
+            "artist": "菅野祐悟",
+            "id": 462612921
+        },
+        {
+            "name": "Geralt of Rivia",
+            "artist": "Marcin Przybyłowicz",
+            "id": 32063364
+        },
+        {
+            "name": "The Beginning of the End",
+            "artist": "石元丈晴",
+            "id": 31191582
+        },
+        {
+            "name": "Anthropic Universe",
+            "artist": "Sarah Schachner",
+            "id": 445703106
+        },
+        {
+            "name": "The Farewell",
+            "artist": "Alexey Omelchuk",
+            "id": 1432162789
+        },
+        {
+            "name": "Deadman's Gun",
+            "artist": "Ashtar Command",
+            "id": 5040239
+        },
+        {
+            "name": "Azai Nagamasa",
+            "artist": "眞鍋昭大",
+            "id": 1433533594
+        },
+        {
+            "name": "隻狼 - Sekiro, The One Armed Wolf",
+            "artist": "北村友香",
+            "id": 1356109721
+        },
+        {
+            "name": "Fallout 4 Main Theme ('Spinner' mix)",
+            "artist": "Inon Zur",
+            "id": 36872990
         }
     ]
 }

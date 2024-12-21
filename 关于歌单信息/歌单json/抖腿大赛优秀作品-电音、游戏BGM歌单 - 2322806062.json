@@ -1,13 +1,28 @@
 {
     "playlist_info": {
         "name": "抖腿大赛优秀作品-电音、游戏BGM歌单",
-        "trackcount": 164,
-        "playcount": 1948542,
+        "trackcount": 166,
+        "playcount": 1949955,
         "creator": "lylnq",
         "createDate": "2018-07-19",
-        "heat": 1078.0
+        "heat": 1027.0
     },
     "songs": [
+        {
+            "name": "SexyBack",
+            "artist": "Clara Stegall",
+            "id": 1828237438
+        },
+        {
+            "name": "Rosy7(vip)",
+            "artist": "ROYYNN",
+            "id": 2063337049
+        },
+        {
+            "name": "TIRED OF PROBLEMS",
+            "artist": "NUEKI",
+            "id": 2061508316
+        },
         {
             "name": "MAD DEVIL(狂魔鬼)",
             "artist": "HJFM",
@@ -280,7 +295,7 @@
         },
         {
             "name": "Sold Out",
-            "artist": "Hawk Nelson",
+            "artist": "Jonathan Steingard",
             "id": 31010566
         },
         {
@@ -497,11 +512,6 @@
             "name": "Sandstorm (Didrick Remix)",
             "artist": "Darude",
             "id": 33054275
-        },
-        {
-            "name": "Zombie(Remix)",
-            "artist": "我也不知道叫什么喔",
-            "id": 1322512180
         },
         {
             "name": "Alkaline",

@@ -1,13 +1,18 @@
 {
     "playlist_info": {
         "name": "【电子】入耳收藏的经典旋律",
-        "trackcount": 176,
-        "playcount": 43469248,
+        "trackcount": 177,
+        "playcount": 43701636,
         "creator": "烈雨",
         "createDate": "2015-11-04",
-        "heat": 15555.0
+        "heat": 15145.0
     },
     "songs": [
+        {
+            "name": "Way Back",
+            "artist": "Vicetone",
+            "id": 543987451
+        },
         {
             "name": "Away",
             "artist": "Bronx Wang",
@@ -339,12 +344,12 @@
             "id": 1371069945
         },
         {
-            "name": "devotion",
+            "name": "Devotion",
             "artist": "FrogMonster",
             "id": 1348553537
         },
         {
-            "name": " Alone",
+            "name": "Alone",
             "artist": "FrogMonster",
             "id": 1364751214
         },

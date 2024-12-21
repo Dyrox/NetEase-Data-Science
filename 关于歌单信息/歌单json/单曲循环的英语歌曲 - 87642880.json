@@ -1,13 +1,18 @@
 {
     "playlist_info": {
         "name": "单曲循环的英语歌曲",
-        "trackcount": 255,
-        "playcount": 1600684,
+        "trackcount": 256,
+        "playcount": 1604168,
         "creator": "carl_zhao",
         "createDate": "2015-07-08",
-        "heat": 548.0
+        "heat": 533.0
     },
     "songs": [
+        {
+            "name": "Shadow of the Sun",
+            "artist": "Max Elto",
+            "id": 28411642
+        },
         {
             "name": "In the eyes",
             "artist": "江映东",
@@ -119,13 +124,13 @@
             "id": 400876320
         },
         {
-            "name": "Promise",
+            "name": "Past Lives / Promise",
             "artist": "sapientdream",
             "id": 1308782023
         },
         {
             "name": "Past Lives",
-            "artist": "Slushii",
+            "artist": "sapientdream",
             "id": 1384482575
         },
         {
@@ -175,7 +180,7 @@
         },
         {
             "name": "Sold Out",
-            "artist": "Hawk Nelson",
+            "artist": "Jonathan Steingard",
             "id": 31010566
         },
         {
@@ -734,7 +739,7 @@
             "id": 18614153
         },
         {
-            "name": "In The End",
+            "name": "In the End",
             "artist": "Linkin Park",
             "id": 4153632
         },
@@ -1154,7 +1159,7 @@
             "id": 2529311
         },
         {
-            "name": "Cry On My Shoulder",
+            "name": "Cry on My Shoulder",
             "artist": "Deutschland sucht den Superstar",
             "id": 17194024
         },

@@ -1,13 +1,23 @@
 {
     "playlist_info": {
         "name": "节奏音乐｜超级带感的欧美音乐",
-        "trackcount": 176,
-        "playcount": 7328506,
+        "trackcount": 177,
+        "playcount": 8147154,
         "creator": "迟到得到",
         "createDate": "2019-04-21",
-        "heat": 4789.0
+        "heat": 5025.0
     },
     "songs": [
+        {
+            "name": "Fool For You",
+            "artist": "KASTRA",
+            "id": 1817576399
+        },
+        {
+            "name": "All Night [Radio Edit]",
+            "artist": "Icona Pop",
+            "id": 27717147
+        },
         {
             "name": "Insomnia",
             "artist": "Craig David",
@@ -260,7 +270,7 @@
         },
         {
             "name": "Tears of The Sun",
-            "artist": "YINSHENG",
+            "artist": "Flower Kiss",
             "id": 547728059
         },
         {
@@ -272,11 +282,6 @@
             "name": "Count The Hours (Extended Mix)",
             "artist": "BEAUZ",
             "id": 1386040072
-        },
-        {
-            "name": "角色",
-            "artist": "murat",
-            "id": 1915818156
         },
         {
             "name": "Let Me Love You- DJ Snake 萨克斯(一个大G bootleg)",
@@ -475,7 +480,7 @@
         },
         {
             "name": "Sold Out",
-            "artist": "Hawk Nelson",
+            "artist": "Jonathan Steingard",
             "id": 31010566
         },
         {
@@ -805,7 +810,7 @@
         },
         {
             "name": "Sunrise",
-            "artist": "Arty",
+            "artist": "ARTY",
             "id": 531295947
         },
         {
@@ -815,7 +820,7 @@
         },
         {
             "name": "Wicked Wonderland (Radio Edit)",
-            "artist": "Tungevaag",
+            "artist": "Martin Tungevaag",
             "id": 28694864
         },
         {

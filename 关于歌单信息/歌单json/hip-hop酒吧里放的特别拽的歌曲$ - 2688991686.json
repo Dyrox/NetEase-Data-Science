@@ -1,13 +1,53 @@
 {
     "playlist_info": {
         "name": "hip-hop酒吧里放的特别拽的歌曲$",
-        "trackcount": 173,
-        "playcount": 4376372,
+        "trackcount": 181,
+        "playcount": 4989980,
         "creator": "2-5R",
         "createDate": "2019-03-01",
-        "heat": 2766.0
+        "heat": 2982.0
     },
     "songs": [
+        {
+            "name": "You Know How We Do It",
+            "artist": "Ice Cube",
+            "id": 18353552
+        },
+        {
+            "name": "Propaganda",
+            "artist": "Dax",
+            "id": 1871061289
+        },
+        {
+            "name": "Big Poppa",
+            "artist": "The Notorious B.I.G.",
+            "id": 21799569
+        },
+        {
+            "name": "Hail Mary",
+            "artist": "2Pac",
+            "id": 19375081
+        },
+        {
+            "name": "Bad News",
+            "artist": "YCK",
+            "id": 1948606963
+        },
+        {
+            "name": "Affirmative Action",
+            "artist": "Nas",
+            "id": 21268924
+        },
+        {
+            "name": "Realest",
+            "artist": "Ez Mil",
+            "id": 2070260901
+        },
+        {
+            "name": "LOVE (feat. Trippie Redd)",
+            "artist": "Shordie Shordie",
+            "id": 1822725831
+        },
         {
             "name": "Ghetto Rmx",
             "artist": "Akon",

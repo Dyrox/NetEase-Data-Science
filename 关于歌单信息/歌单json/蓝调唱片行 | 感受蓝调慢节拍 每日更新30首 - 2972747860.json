@@ -2,61 +2,111 @@
     "playlist_info": {
         "name": "蓝调唱片行 | 感受蓝调慢节拍 每日更新30首",
         "trackcount": 30,
-        "playcount": 8656352,
+        "playcount": 8732570,
         "creator": "云音乐官方歌单",
         "createDate": "2019-09-06",
-        "heat": 6221.0
+        "heat": 5887.0
     },
     "songs": [
         {
-            "name": "Yes Man",
+            "name": "Black Night",
+            "artist": "James Cotton",
+            "id": 1539547
+        },
+        {
+            "name": "I'd Rather Go Blind",
+            "artist": "Etta James",
+            "id": 27329511
+        },
+        {
+            "name": "Paris Blues",
+            "artist": "Jean-Jacques Milteau",
+            "id": 2864748
+        },
+        {
+            "name": "All Night Long",
+            "artist": "Skip James",
+            "id": 1969448
+        },
+        {
+            "name": "Wayfaring Pilgrim",
+            "artist": "Roy Buchanan",
+            "id": 26754425
+        },
+        {
+            "name": "Hummingbird",
             "artist": "B.B. King",
-            "id": 22103350
+            "id": 1079764
         },
         {
-            "name": "Miss You",
-            "artist": "Alabama Shakes",
-            "id": 31421499
+            "name": "Smokestack Lightnin'",
+            "artist": "Howlin' Wolf",
+            "id": 18184351
         },
         {
-            "name": "Talk to Me, Talk to Me",
-            "artist": "Little Willie John",
-            "id": 491026300
+            "name": "Running Away From Love",
+            "artist": "Coco Montoya",
+            "id": 2328924
         },
         {
-            "name": "Where Did You Sleep Last Night",
-            "artist": "Lead Belly",
-            "id": 26684674
+            "name": "Today I Started Loving You",
+            "artist": "Lavelle White",
+            "id": 3009094
         },
         {
-            "name": "Hang Me, Oh Hang Me",
-            "artist": "Dave Van Ronk",
-            "id": 2483291
+            "name": "White Sugar",
+            "artist": "Joanne Shaw Taylor",
+            "id": 18579825
         },
         {
-            "name": "Le temps de l'amour",
-            "artist": "Françoise Hardy",
-            "id": 2590153
+            "name": "Talkin' to You Eye to Eye",
+            "artist": "Roomful of Blues",
+            "id": 21556854
         },
         {
-            "name": "Monday Woman",
-            "artist": "Willie Mabon",
-            "id": 3831899
+            "name": "Computer Blues",
+            "artist": "Lavelle White",
+            "id": 3009100
         },
         {
-            "name": "You Were Never Mine (Album Version)",
-            "artist": "Delbert McClinton",
-            "id": 2447140
+            "name": "Hit The Road Jack",
+            "artist": "Ray Charles",
+            "id": 26827718
         },
         {
-            "name": "In the Clouds",
-            "artist": "Tom Principato",
-            "id": 3595884
+            "name": "Let Me Go Home, Whiskey",
+            "artist": "Amos Milburn",
+            "id": 5187410
         },
         {
-            "name": "The Clock",
-            "artist": "Preston Shannon",
-            "id": 26559221
+            "name": "Too Sweet For Me",
+            "artist": "Tab Benoit",
+            "id": 3675713
+        },
+        {
+            "name": "She's Dynamite",
+            "artist": "William Clarke",
+            "id": 2090781
+        },
+        {
+            "name": "How Long Can A Fool Go Wrong (Previously Unreleased)",
+            "artist": "Muddy Waters",
+            "id": 16843718
+        },
+        {
+            "name": "All Over Again",
+            "artist": "B.B. King",
+            "id": 1079768
+        },
+        {
+            "name": "The Sun Shine Down My Way",
+            "artist": "Doug MacLeod",
+            "id": 2522529
+        },
+        {
+            "name": "Pain In The Streets",
+            "artist": "Luther Allison",
+            "id": 16397354
         },
         {
             "name": "Messing With The Kid",
@@ -64,99 +114,49 @@
             "id": 1514497
         },
         {
-            "name": "I Don't Care",
-            "artist": "Long John Hunter",
-            "id": 608348
+            "name": "Blue Guitar",
+            "artist": "Earl Hooker",
+            "id": 27073071
         },
         {
-            "name": "Drowning on Dry Land",
-            "artist": "Mike Henderson",
-            "id": 3123961
+            "name": "There's a Moon out Tonight",
+            "artist": "The Capris",
+            "id": 521786358
         },
         {
-            "name": "Dharma Blues",
-            "artist": "Peter Rowan",
-            "id": 28804290
+            "name": "Every Day I Have the Blues",
+            "artist": "Otis Rush",
+            "id": 26824507
         },
         {
-            "name": "That's Why I Play the Blues",
-            "artist": "Gary Moore",
-            "id": 17970242
+            "name": "Walkin' On Me",
+            "artist": "Big House",
+            "id": 26281742
         },
         {
-            "name": "Why Blues",
-            "artist": "Chris Thomas King",
-            "id": 1211260
+            "name": "Slabo Day",
+            "artist": "Peter Green",
+            "id": 17950430
         },
         {
-            "name": "My Home Is in the Delta",
-            "artist": "Muddy Waters",
-            "id": 1705612
+            "name": "Hug You, Kiss You, Squeeze You",
+            "artist": "Duke Robillard",
+            "id": 225950
         },
         {
-            "name": "A Memo",
-            "artist": "Robert Cray",
-            "id": 18533520
+            "name": "Baby You Don't Know",
+            "artist": "Duke Robillard",
+            "id": 225948
         },
         {
-            "name": "Chill Out (Things Gonna Change) feat. Carlos Santana",
-            "artist": "John Lee Hooker",
-            "id": 18744093
+            "name": "Johnny Guitar",
+            "artist": "Johnny Winter",
+            "id": 18673313
         },
         {
-            "name": "It's A Blues Thing",
-            "artist": "Luther Allison",
-            "id": 16397353
-        },
-        {
-            "name": "Wolf Dance",
-            "artist": "Ronnie Earl",
-            "id": 3334381
-        },
-        {
-            "name": "Brick",
-            "artist": "Albert Collins",
-            "id": 16319061
-        },
-        {
-            "name": "Why Don't You Do Right?",
-            "artist": "Karen Souza",
-            "id": 1478007696
-        },
-        {
-            "name": "You're So Sweet",
-            "artist": "Jimmy Rogers",
-            "id": 18777812
-        },
-        {
-            "name": "Hey, Hey",
-            "artist": "Muddy Waters",
-            "id": 1293876983
-        },
-        {
-            "name": "I'll Play The Blues For You",
-            "artist": "Jeff Golub",
-            "id": 1592371
-        },
-        {
-            "name": "At Last",
-            "artist": "Lavelle White",
-            "id": 3009101
-        },
-        {
-            "name": "Did Somebody Make a Fool out of You",
-            "artist": "Tony Joe White",
-            "id": 21774601
-        },
-        {
-            "name": "Foul Play",
-            "artist": "Robert Cray",
-            "id": 1890527
-        },
-        {
-            "name": "Heavy Heart",
-            "artist": "Joanne Shaw Taylor",
-            "id": 18579827
+            "name": "Rockin' Pneumonia",
+            "artist": "Jimmy Barnes",
+            "id": 2865422
         }
     ]
 }

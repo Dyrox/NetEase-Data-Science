@@ -1,27 +1,57 @@
 {
     "playlist_info": {
         "name": "逆燃神曲，怠惰退散（燃向BGM）",
-        "trackcount": 276,
-        "playcount": 3028235,
+        "trackcount": 294,
+        "playcount": 3175527,
         "creator": "vaeliebow",
         "createDate": "2017-08-17",
-        "heat": 1411.0
+        "heat": 1421.0
     },
     "songs": [
+        {
+            "name": "Good Thing",
+            "artist": "Barns Courtney",
+            "id": 1954285801
+        },
+        {
+            "name": "Mad devil (狂魔鬼)",
+            "artist": "Qora",
+            "id": 2081508878
+        },
+        {
+            "name": "Soldier（防暴士兵）",
+            "artist": "Gentleman",
+            "id": 2074749091
+        },
+        {
+            "name": "Evolve",
+            "artist": "Ki:Theory",
+            "id": 1468619020
+        },
+        {
+            "name": "Me, Myself & I",
+            "artist": "G-Eazy",
+            "id": 35447075
+        },
         {
             "name": "Stand Up",
             "artist": "The Cab",
             "id": 28465000
         },
         {
-            "name": "Obsession (Orginal mix )",
-            "artist": "Gentleman",
-            "id": 2049493790
+            "name": "Here I Am",
+            "artist": "Tommee Profitt",
+            "id": 1386002705
         },
         {
-            "name": "Octopus jiang (Orginal mix )",
-            "artist": "Ghani",
-            "id": 2021279106
+            "name": "Jet Lag",
+            "artist": "Simple Plan",
+            "id": 27080349
+        },
+        {
+            "name": "Ghosts",
+            "artist": "Mike Shinoda",
+            "id": 1444201569
         },
         {
             "name": "Dreamin",
@@ -29,9 +59,34 @@
             "id": 1343458349
         },
         {
+            "name": "Statement",
+            "artist": "NEFFEX",
+            "id": 1917950683
+        },
+        {
+            "name": "Immortals",
+            "artist": "Fall Out Boy",
+            "id": 30064351
+        },
+        {
+            "name": "Love Runs Out",
+            "artist": "OneRepublic",
+            "id": 28406990
+        },
+        {
             "name": "I Dare You",
             "artist": "Bea Miller",
             "id": 33410933
+        },
+        {
+            "name": "Tongue Tied",
+            "artist": "Marshmello",
+            "id": 1403407841
+        },
+        {
+            "name": "Lone Ranger",
+            "artist": "Rachel Platten",
+            "id": 29803676
         },
         {
             "name": "The Champion",
@@ -39,9 +94,24 @@
             "id": 1830630189
         },
         {
+            "name": "What's Up Danger",
+            "artist": "Blackway",
+            "id": 1347617197
+        },
+        {
             "name": "At My Best",
             "artist": "Machine Gun Kelly",
             "id": 465973457
+        },
+        {
+            "name": "Faint",
+            "artist": "Linkin Park",
+            "id": 16686593
+        },
+        {
+            "name": "Is Anybody Listening?",
+            "artist": "Built On Secrets",
+            "id": 1382060375
         },
         {
             "name": "Stay Strong (Sophia's Song)",
@@ -49,12 +119,17 @@
             "id": 2025069879
         },
         {
+            "name": "Forgive Me",
+            "artist": "Group 1 Crew",
+            "id": 2646570
+        },
+        {
             "name": "Never Give Up",
             "artist": "NEFFEX",
             "id": 1446709125
         },
         {
-            "name": "飞 (完整版) (翻自 王恩信Est / 二胖u) ",
+            "name": "飞 (完整版) (翻自 王恩信Est / 二胖u)",
             "artist": "大神慧",
             "id": 1412030522
         },
@@ -62,6 +137,11 @@
             "name": "La gloire à mes genoux",
             "artist": "Le Rouge Et Le Noir",
             "id": 1901181003
+        },
+        {
+            "name": "Angel With A Shotgun",
+            "artist": "The Cab",
+            "id": 19291941
         },
         {
             "name": "Renegades",
@@ -109,7 +189,7 @@
             "id": 27037491
         },
         {
-            "name": "Antidote",
+            "name": "Antidote (feat. Heather Sommer)",
             "artist": "Sinner's Heist",
             "id": 533455454
         },
@@ -217,6 +297,11 @@
             "name": "火炎",
             "artist": "女王蜂",
             "id": 1341323866
+        },
+        {
+            "name": "紅蓮華",
+            "artist": "LiSA",
+            "id": 1375305989
         },
         {
             "name": "洗脳",
@@ -415,7 +500,7 @@
         },
         {
             "name": "Sold Out",
-            "artist": "Hawk Nelson",
+            "artist": "Jonathan Steingard",
             "id": 31010566
         },
         {
@@ -452,6 +537,11 @@
             "name": "德玛西亚",
             "artist": "陈政文JV(你打不倒我)",
             "id": 29562183
+        },
+        {
+            "name": "Silver Scrapes",
+            "artist": "英雄联盟",
+            "id": 27946894
         },
         {
             "name": "RE:I AM",
@@ -654,7 +744,7 @@
             "id": 4195988
         },
         {
-            "name": "呼救（翻自 心华） ",
+            "name": "呼救（翻自 心华）",
             "artist": "漆柚",
             "id": 1373292164
         },
@@ -784,7 +874,7 @@
             "id": 1989367
         },
         {
-            "name": "晨昏线【2019bilibili拜年祭 极夜地平线】（翻自 呦猫UNEKO） ",
+            "name": "晨昏线【2019bilibili拜年祭 极夜地平线】（翻自 呦猫UNEKO）",
             "artist": "梁笙LS",
             "id": 1345807128
         },
@@ -1069,7 +1159,7 @@
             "id": 440239045
         },
         {
-            "name": "冠世一战（翻自 言和） ",
+            "name": "冠世一战（翻自 言和）",
             "artist": "漆柚",
             "id": 1344690371
         },

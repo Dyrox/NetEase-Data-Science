@@ -1,17 +1,22 @@
 {
     "playlist_info": {
         "name": "今夜857蹦迪战术",
-        "trackcount": 182,
-        "playcount": 3121170,
+        "trackcount": 185,
+        "playcount": 3157201,
         "creator": "Ak-張老7",
         "createDate": "2017-12-09",
-        "heat": 1538.0
+        "heat": 1489.0
     },
     "songs": [
         {
             "name": "Remember Our Summer",
             "artist": "FrogMonster",
             "id": 1384450197
+        },
+        {
+            "name": "All Of The Lights",
+            "artist": "Coone",
+            "id": 2014094943
         },
         {
             "name": "Closer",
@@ -22,6 +27,11 @@
             "name": "Final Song (Quintino Remix)",
             "artist": "Quintino",
             "id": 451981205
+        },
+        {
+            "name": "Scarborough Fair (Extended Version)",
+            "artist": "Timmy Trumpet",
+            "id": 862100668
         },
         {
             "name": "Wonder",
@@ -175,7 +185,7 @@
         },
         {
             "name": "Ola Ola Ola",
-            "artist": "APRIL",
+            "artist": "APRIL(CN)",
             "id": 1439650672
         },
         {
@@ -224,7 +234,7 @@
             "id": 1377019226
         },
         {
-            "name": "Big big big big big（翻自 FFAG） ",
+            "name": "Big big big big big（翻自 FFAG）",
             "artist": "小汪",
             "id": 1408554402
         },
@@ -237,6 +247,11 @@
             "name": "Like A ***** (Slushii & Volt Edit)",
             "artist": "Slushii",
             "id": 529834020
+        },
+        {
+            "name": "Everytime We Touch (Hardwell & Maurice West Remix)",
+            "artist": "Cascada",
+            "id": 1297743861
         },
         {
             "name": "Clap Your Hands",
@@ -335,7 +350,7 @@
         },
         {
             "name": "Miracles (Club Mix)",
-            "artist": "Maury",
+            "artist": "Mike Candys",
             "id": 570918885
         },
         {
@@ -369,7 +384,7 @@
             "id": 865021919
         },
         {
-            "name": "God Save the Rave",
+            "name": "God Save The Rave",
             "artist": "Scooter",
             "id": 1368219740
         },
@@ -839,7 +854,7 @@
             "id": 542259173
         },
         {
-            "name": "Deja-Vu",
+            "name": "Déjà-Vu",
             "artist": "Timmy Trumpet",
             "id": 520458061
         },

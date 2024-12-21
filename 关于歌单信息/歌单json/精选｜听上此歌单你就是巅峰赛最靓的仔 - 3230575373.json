@@ -1,13 +1,43 @@
 {
     "playlist_info": {
         "name": "精选｜听上此歌单你就是巅峰赛最靓的仔",
-        "trackcount": 134,
-        "playcount": 4860267,
+        "trackcount": 140,
+        "playcount": 4867593,
         "creator": "Wanqix",
         "createDate": "2020-02-06",
-        "heat": 3920.0
+        "heat": 3658.0
     },
     "songs": [
+        {
+            "name": "Underground",
+            "artist": "Lindsey Stirling",
+            "id": 1374221428
+        },
+        {
+            "name": "Montagem Amedrontadora(Remix)",
+            "artist": ".49",
+            "id": 2047571635
+        },
+        {
+            "name": "Sea Of Problems (Slowed + Reverb)",
+            "artist": "Glichery",
+            "id": 2044592046
+        },
+        {
+            "name": "Graveyard Phonk",
+            "artist": "DeadJxhn",
+            "id": 1878429485
+        },
+        {
+            "name": "TIRED OF PROBLEMS",
+            "artist": "NUEKI",
+            "id": 2061508316
+        },
+        {
+            "name": "Yubik-The Runner",
+            "artist": "ZsFlovexl",
+            "id": 2005246464
+        },
         {
             "name": "周大侠",
             "artist": "周杰伦",
@@ -34,7 +64,7 @@
             "id": 1293913379
         },
         {
-            "name": "Feel The Fire (Egzod Remix)",
+            "name": "Feel the Fire (Egzod Remix)",
             "artist": "Pluto",
             "id": 444324932
         },
@@ -265,7 +295,7 @@
         },
         {
             "name": "Wicked Wonderland (Radio Edit)",
-            "artist": "Tungevaag",
+            "artist": "Martin Tungevaag",
             "id": 28694864
         },
         {
@@ -295,7 +325,7 @@
         },
         {
             "name": "Fearless Pt. II",
-            "artist": "Tule",
+            "artist": "Lost Sky",
             "id": 529391087
         },
         {
@@ -630,7 +660,7 @@
         },
         {
             "name": "Sold Out",
-            "artist": "Hawk Nelson",
+            "artist": "Jonathan Steingard",
             "id": 31010566
         },
         {

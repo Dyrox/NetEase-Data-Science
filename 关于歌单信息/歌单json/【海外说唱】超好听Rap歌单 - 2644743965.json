@@ -1,22 +1,27 @@
 {
     "playlist_info": {
         "name": "【海外说唱】超好听Rap歌单",
-        "trackcount": 165,
-        "playcount": 1519875,
+        "trackcount": 166,
+        "playcount": 1559712,
         "creator": "棉花糖Edm",
         "createDate": "2019-01-29",
-        "heat": 942.0
+        "heat": 915.0
     },
     "songs": [
+        {
+            "name": "Barbie World (with Aqua) [From Barbie The Album]",
+            "artist": "Nicki Minaj",
+            "id": 2057705503
+        },
+        {
+            "name": "Realest",
+            "artist": "Ez Mil",
+            "id": 2070260901
+        },
         {
             "name": "Won't Back Down",
             "artist": "Youngboy Never Broke Again",
             "id": 2044964390
-        },
-        {
-            "name": "Alive",
-            "artist": "张艺兴",
-            "id": 2047743493
         },
         {
             "name": "Got Your Money",

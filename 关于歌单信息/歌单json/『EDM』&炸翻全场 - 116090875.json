@@ -1,17 +1,72 @@
 {
     "playlist_info": {
         "name": "『EDM』&炸翻全场",
-        "trackcount": 135,
-        "playcount": 13341172,
+        "trackcount": 146,
+        "playcount": 13433332,
         "creator": "S2U_Music",
         "createDate": "2015-10-14",
-        "heat": 4739.0
+        "heat": 4622.0
     },
     "songs": [
         {
-            "name": "Daisuki",
-            "artist": "BeMax",
-            "id": 2040067962
+            "name": "The Motto",
+            "artist": "Tiësto",
+            "id": 1930540718
+        },
+        {
+            "name": "Tequilla Por Favor",
+            "artist": "AEILO",
+            "id": 1861093526
+        },
+        {
+            "name": "Million Places",
+            "artist": "R3HAB",
+            "id": 2072273475
+        },
+        {
+            "name": "Vibe",
+            "artist": "Mike Candys",
+            "id": 1846110214
+        },
+        {
+            "name": "One Two",
+            "artist": "Cuee",
+            "id": 1397803392
+        },
+        {
+            "name": "All Around The World (La La La)",
+            "artist": "R3HAB",
+            "id": 1354378746
+        },
+        {
+            "name": "Empty Love",
+            "artist": "Lulleaux",
+            "id": 1435828582
+        },
+        {
+            "name": "Fool For You",
+            "artist": "KASTRA",
+            "id": 1897685644
+        },
+        {
+            "name": "Snakes",
+            "artist": "Sikdope",
+            "id": 409931583
+        },
+        {
+            "name": "Freak (The Otherside Series, Vol.2)",
+            "artist": "Le Castle Vania",
+            "id": 1345494163
+        },
+        {
+            "name": "Another Day",
+            "artist": "Rnbstylerz",
+            "id": 1855545728
+        },
+        {
+            "name": "Apex",
+            "artist": "Far Out",
+            "id": 1333144056
         },
         {
             "name": "Bigroom Never Dies",

@@ -1,13 +1,48 @@
 {
     "playlist_info": {
         "name": "|Audi奥迪专用| 超重低音 环绕B&O音质",
-        "trackcount": 94,
-        "playcount": 5913120,
-        "creator": "奥迪S车主",
+        "trackcount": 100,
+        "playcount": 6963940,
+        "creator": "郝刘阳",
         "createDate": "2019-09-28",
-        "heat": 4315.0
+        "heat": 4765.0
     },
     "songs": [
+        {
+            "name": "Italia e voi (Orginal mix )",
+            "artist": "Azeri",
+            "id": 2062853835
+        },
+        {
+            "name": "Bandit",
+            "artist": "DJ七七",
+            "id": 2065669099
+        },
+        {
+            "name": "Sahara (撒哈拉)",
+            "artist": "Gentleman",
+            "id": 2081092296
+        },
+        {
+            "name": "Believer",
+            "artist": "Imagine Dragons",
+            "id": 455311479
+        },
+        {
+            "name": "Oh Yeah (Prod. Noria)",
+            "artist": "K.O.R",
+            "id": 1427160525
+        },
+        {
+            "name": "Players",
+            "artist": "Coi Leray",
+            "id": 2002926115
+        },
+        {
+            "name": "Bamba!（0.8x）",
+            "artist": "羊仔",
+            "id": 1996312116
+        },
         {
             "name": "DAWAI",
             "artist": "ДЕТИ RAVE",
@@ -27,11 +62,6 @@
             "name": "开车时请抓紧你的方向盘",
             "artist": "听风人",
             "id": 1399705832
-        },
-        {
-            "name": "Колыбельная",
-            "artist": "SAFER",
-            "id": 1809970449
         },
         {
             "name": "You Bring Me Joy （浴血黑帮）",
@@ -104,7 +134,7 @@
             "id": 1938970274
         },
         {
-            "name": "Cyka Blyat",
+            "name": "Сука блядь",
             "artist": "DJ Blyatman",
             "id": 1368324900
         },
@@ -124,7 +154,7 @@
             "id": 1810264325
         },
         {
-            "name": "Bullsh*t",
+            "name": "BullShit",
             "artist": "DaniLeigh",
             "id": 1494986963
         },

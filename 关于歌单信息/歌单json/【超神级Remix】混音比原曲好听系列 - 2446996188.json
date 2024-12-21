@@ -1,27 +1,42 @@
 {
     "playlist_info": {
         "name": "【超神级Remix】混音比原曲好听系列",
-        "trackcount": 101,
-        "playcount": 3089523,
+        "trackcount": 104,
+        "playcount": 3250084,
         "creator": "蛋糕岛在逃卡塔库栗",
         "createDate": "2018-10-01",
-        "heat": 1783.0
+        "heat": 1782.0
     },
     "songs": [
+        {
+            "name": "Soldier（防暴士兵）",
+            "artist": "Gentleman",
+            "id": 2074749091
+        },
+        {
+            "name": "Sahara (撒哈拉)",
+            "artist": "Gentleman",
+            "id": 2081092296
+        },
+        {
+            "name": "Memory Reboot (Slowed)",
+            "artist": "VØJ",
+            "id": 2013896177
+        },
+        {
+            "name": "Sea Of Problems (Slowed + Reverb)",
+            "artist": "Glichery",
+            "id": 2044592046
+        },
+        {
+            "name": "Ride It（Deep House）",
+            "artist": "DJRUSTAM",
+            "id": 1810186168
+        },
         {
             "name": "Something Just Like This (Tokyo Remix)",
             "artist": "The Chainsmokers",
             "id": 485068831
-        },
-        {
-            "name": "Gangsta (Orginal mix )",
-            "artist": "Sara",
-            "id": 2054719554
-        },
-        {
-            "name": "Octopus jiang (Orginal mix )",
-            "artist": "Ghani",
-            "id": 2021279106
         },
         {
             "name": "Running Up That Hill (A Deal With God)",

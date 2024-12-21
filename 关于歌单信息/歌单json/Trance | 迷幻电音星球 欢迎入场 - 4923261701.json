@@ -1,13 +1,28 @@
 {
     "playlist_info": {
         "name": "Trance | 迷幻电音星球 欢迎入场",
-        "trackcount": 82,
-        "playcount": 12204465,
+        "trackcount": 85,
+        "playcount": 12319716,
         "creator": "云音乐电音星球",
         "createDate": "2020-03-19",
-        "heat": 10200.0
+        "heat": 9562.0
     },
     "songs": [
+        {
+            "name": "Power of Now (Extended Mix)",
+            "artist": "John O'Callaghan",
+            "id": 2063556358
+        },
+        {
+            "name": "Kiss The Night (Extended Mix)",
+            "artist": "MurZo",
+            "id": 2062370100
+        },
+        {
+            "name": "Black Magic",
+            "artist": "Steve Dekay",
+            "id": 2064436240
+        },
         {
             "name": "Miracle (Ben Nicky Extended Remix)",
             "artist": "Calvin Harris",
@@ -315,7 +330,7 @@
         },
         {
             "name": "What About Us",
-            "artist": "Standerwick",
+            "artist": "STANDERWICK",
             "id": 1472226667
         },
         {

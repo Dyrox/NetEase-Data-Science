@@ -2,10 +2,10 @@
     "playlist_info": {
         "name": "关于篮球的一切",
         "trackcount": 265,
-        "playcount": 1370993,
+        "playcount": 1376612,
         "creator": "小西超人",
         "createDate": "2015-12-18",
-        "heat": 497.0
+        "heat": 484.0
     },
     "songs": [
         {
@@ -44,6 +44,11 @@
             "id": 26524156
         },
         {
+            "name": "ひとりじゃないのよ feat.SONOMI",
+            "artist": "KREVA",
+            "id": 22827526
+        },
+        {
             "name": "Past Lives (feat. Martin Arteta)",
             "artist": "Martin Arteta",
             "id": 1481705135
@@ -59,7 +64,7 @@
             "id": 1373444265
         },
         {
-            "name": "See You Again（Piano Demo Version）（翻自 Charlie Puth） ",
+            "name": "See You Again（Piano Demo Version）（翻自 Charlie Puth）",
             "artist": "Mllano",
             "id": 1418865944
         },
@@ -237,11 +242,6 @@
             "name": "Heart of the City (Ain't No Love)",
             "artist": "JAY-Z",
             "id": 1475528
-        },
-        {
-            "name": "ひとりじゃないのよ feat.SONOMI",
-            "artist": "KREVA",
-            "id": 22827526
         },
         {
             "name": "힙합 (Anthem Version)",

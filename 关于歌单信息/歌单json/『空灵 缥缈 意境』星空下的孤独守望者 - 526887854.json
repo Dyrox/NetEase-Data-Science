@@ -2,12 +2,17 @@
     "playlist_info": {
         "name": "『空灵 缥缈 意境』星空下的孤独守望者",
         "trackcount": 70,
-        "playcount": 29323314,
+        "playcount": 29662922,
         "creator": "樱井莜木",
         "createDate": "2016-12-04",
-        "heat": 12225.0
+        "heat": 11914.0
     },
     "songs": [
+        {
+            "name": "Daylight",
+            "artist": "Seredris",
+            "id": 1372188635
+        },
         {
             "name": "Afar, We Stand",
             "artist": "Vexaic",
@@ -87,11 +92,6 @@
             "name": "In the Shadows... Looking For a Light",
             "artist": "Jacoo",
             "id": 29737648
-        },
-        {
-            "name": "Fireflies",
-            "artist": "Enzalla",
-            "id": 401249750
         },
         {
             "name": "Lights Frightened The Captain",

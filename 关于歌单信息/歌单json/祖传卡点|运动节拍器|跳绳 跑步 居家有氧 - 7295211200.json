@@ -1,13 +1,23 @@
 {
     "playlist_info": {
         "name": "祖传卡点|运动节拍器|跳绳 跑步 居家有氧",
-        "trackcount": 100,
-        "playcount": 985264,
+        "trackcount": 102,
+        "playcount": 1016692,
         "creator": "菠萝甜心_Beth",
         "createDate": "2022-02-16",
-        "heat": 1977.0
+        "heat": 1725.0
     },
     "songs": [
+        {
+            "name": "Hype",
+            "artist": "Dizzee Rascal",
+            "id": 418602094
+        },
+        {
+            "name": "Rush",
+            "artist": "Troye Sivan",
+            "id": 2063535663
+        },
         {
             "name": "Pump It Louder",
             "artist": "Tiësto",
@@ -15,7 +25,7 @@
         },
         {
             "name": "Up All Night",
-            "artist": "Arty",
+            "artist": "ARTY",
             "id": 28747101
         },
         {

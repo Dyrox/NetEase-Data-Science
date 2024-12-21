@@ -1,17 +1,27 @@
 {
     "playlist_info": {
         "name": "玩游戏必听歌曲，节奏抖腿停不下来！！",
-        "trackcount": 176,
-        "playcount": 2177699,
+        "trackcount": 178,
+        "playcount": 2406472,
         "creator": "风潍",
         "createDate": "2017-06-11",
-        "heat": 985.0
+        "heat": 1046.0
     },
     "songs": [
         {
             "name": "Time to Pretend",
             "artist": "Lazer Boomerang",
             "id": 1377642003
+        },
+        {
+            "name": "Kate Bush-Running Up That Hill",
+            "artist": "LINGZEA",
+            "id": 2047985543
+        },
+        {
+            "name": "Memory Reboot",
+            "artist": "VØJ",
+            "id": 2013880610
         },
         {
             "name": "Мокрые губы(×0.8)",
@@ -59,7 +69,7 @@
             "id": 864099298
         },
         {
-            "name": "Feel The Fire (Egzod Remix)",
+            "name": "Feel the Fire (Egzod Remix)",
             "artist": "Pluto",
             "id": 444324932
         },

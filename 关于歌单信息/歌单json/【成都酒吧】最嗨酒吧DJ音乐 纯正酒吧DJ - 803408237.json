@@ -1,13 +1,33 @@
 {
     "playlist_info": {
         "name": "【成都酒吧】最嗨酒吧DJ音乐 纯正酒吧DJ",
-        "trackcount": 239,
-        "playcount": 1979957,
+        "trackcount": 243,
+        "playcount": 2160165,
         "creator": "炸场音乐榜",
         "createDate": "2017-07-08",
-        "heat": 907.0
+        "heat": 950.0
     },
     "songs": [
+        {
+            "name": "Haggard-佛山EDM SUPER HARD BOUNCE SET（DjShevin谢天铧 remix）",
+            "artist": "DjShevin谢天铧",
+            "id": 1458313665
+        },
+        {
+            "name": "Sok - Awa With Mdy Rededrum（Sok remix）",
+            "artist": "DJ Sok",
+            "id": 536212981
+        },
+        {
+            "name": "Sok - T Pain FtNe Yo Turn All The Lights On（Sok remix）",
+            "artist": "DJ Sok",
+            "id": 536218603
+        },
+        {
+            "name": "EA7好马不吃回头草(DJ版)",
+            "artist": "在忠",
+            "id": 1840748799
+        },
         {
             "name": "OVER U",
             "artist": "DoubleON",
@@ -265,7 +285,7 @@
         },
         {
             "name": "Fatrik,Epiik-wong土嗨（王佳电音）（KidWu remix）",
-            "artist": "KIDWU",
+            "artist": "KidWuSound",
             "id": 1394731586
         },
         {
@@ -1024,7 +1044,7 @@
             "id": 400579414
         },
         {
-            "name": "Deja-Vu",
+            "name": "Déjà-Vu",
             "artist": "Timmy Trumpet",
             "id": 520458061
         },

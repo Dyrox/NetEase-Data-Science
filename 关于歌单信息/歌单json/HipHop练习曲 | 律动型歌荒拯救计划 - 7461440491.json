@@ -2,101 +2,21 @@
     "playlist_info": {
         "name": "HipHop练习曲 | 律动型歌荒拯救计划",
         "trackcount": 30,
-        "playcount": 2251741,
+        "playcount": 2402863,
         "creator": "云音乐官方歌单",
         "createDate": "2022-05-30",
-        "heat": 5705.0
+        "heat": 4938.0
     },
     "songs": [
         {
-            "name": "Soft Lips",
-            "artist": "BlankCh3ck",
-            "id": 1490987790
+            "name": "Playing For You",
+            "artist": "Joe Hertz",
+            "id": 426501086
         },
         {
-            "name": "Psycho, Pt. 2",
-            "artist": "Russ",
-            "id": 440208643
-        },
-        {
-            "name": "Leave Em Alone",
-            "artist": "Quality Control",
-            "id": 1384496555
-        },
-        {
-            "name": "Must Be",
-            "artist": "Rockie Fresh",
-            "id": 1334623962
-        },
-        {
-            "name": "What's It Worth (feat Melodiq)",
-            "artist": "Pat D & Lady Paradox",
-            "id": 1834649
-        },
-        {
-            "name": "Wonder",
-            "artist": "Jay Prince",
-            "id": 1339699766
-        },
-        {
-            "name": "Isn't it Lovely",
-            "artist": "Karamel Kel",
-            "id": 29045976
-        },
-        {
-            "name": "He's Good",
-            "artist": "Kate Stewart",
-            "id": 1325042852
-        },
-        {
-            "name": "Kream",
-            "artist": "Iggy Azalea",
-            "id": 574935156
-        },
-        {
-            "name": "Dilemma (Remake)",
-            "artist": "Vedo",
-            "id": 574921778
-        },
-        {
-            "name": "saturdaycartoons",
-            "artist": "geerad",
-            "id": 447280749
-        },
-        {
-            "name": "Lick",
-            "artist": "Offset",
-            "id": 1347702308
-        },
-        {
-            "name": "Fomalhaut",
-            "artist": "Shin-Ski",
-            "id": 503223
-        },
-        {
-            "name": "C'est La Vie",
-            "artist": "Tinashe",
-            "id": 439110044
-        },
-        {
-            "name": "Location",
-            "artist": "Khalid",
-            "id": 417250724
-        },
-        {
-            "name": "Whip A Tesla",
-            "artist": "Yung Gravy",
-            "id": 1368704646
-        },
-        {
-            "name": "UFO",
-            "artist": "99 God",
-            "id": 1357775302
-        },
-        {
-            "name": "Pomegranate",
-            "artist": "KOTA The Friend",
-            "id": 1809935175
+            "name": "Step Up",
+            "artist": "Pete Rock",
+            "id": 3234771
         },
         {
             "name": "pure imagination (dotan negrin x prismatic mantis flip)",
@@ -104,14 +24,109 @@
             "id": 454435553
         },
         {
-            "name": "Drops",
-            "artist": "FKJ",
-            "id": 33544627
+            "name": "Time goes by",
+            "artist": "DJ Ezasscul",
+            "id": 17216732
         },
         {
-            "name": "Battlecry (saib. Mix)",
-            "artist": "saib.",
-            "id": 481537371
+            "name": "Location",
+            "artist": "Khalid",
+            "id": 417250724
+        },
+        {
+            "name": "Number One",
+            "artist": "R. Kelly",
+            "id": 21534371
+        },
+        {
+            "name": "Spring Break",
+            "artist": "AJ Mitchell",
+            "id": 1428158131
+        },
+        {
+            "name": "Floatin in da Lean Like",
+            "artist": "NxxxxxS",
+            "id": 29565671
+        },
+        {
+            "name": "Ex Player (feat. Blac Boi)",
+            "artist": "Stevie Hoang",
+            "id": 29133014
+        },
+        {
+            "name": "Luv Sic, Pt. 3",
+            "artist": "Funky DL",
+            "id": 525300266
+        },
+        {
+            "name": "Lick",
+            "artist": "Offset",
+            "id": 1347702308
+        },
+        {
+            "name": "Cool Girls",
+            "artist": "Jeff Bernat",
+            "id": 1610983
+        },
+        {
+            "name": "[adult swim]",
+            "artist": "VΛLKYRIE",
+            "id": 433681979
+        },
+        {
+            "name": "'Til You Do Me Right",
+            "artist": "After 7",
+            "id": 1021215
+        },
+        {
+            "name": "When I Die",
+            "artist": "Arizona Zervas",
+            "id": 1407933542
+        },
+        {
+            "name": "Dilemma (Remake)",
+            "artist": "Vedo",
+            "id": 574921778
+        },
+        {
+            "name": "Damselfly",
+            "artist": "Loyle Carner",
+            "id": 454698271
+        },
+        {
+            "name": "Girls Like",
+            "artist": "Tinie Tempah",
+            "id": 405080007
+        },
+        {
+            "name": "The World Is Ours",
+            "artist": "Funky DL",
+            "id": 32432523
+        },
+        {
+            "name": "Freaky Friday",
+            "artist": "Lil Dicky",
+            "id": 545350864
+        },
+        {
+            "name": "Counting Stars",
+            "artist": "Nujabes",
+            "id": 405485948
+        },
+        {
+            "name": "Freak",
+            "artist": "Marteen",
+            "id": 1398835946
+        },
+        {
+            "name": "Let's Party",
+            "artist": "Mr. Criminal",
+            "id": 26592451
+        },
+        {
+            "name": "Midnight Lucy",
+            "artist": "18+",
+            "id": 29732400
         },
         {
             "name": "I'm the One",
@@ -119,44 +134,29 @@
             "id": 475207448
         },
         {
-            "name": "Cravin",
-            "artist": "DaniLeigh",
-            "id": 1397620019
+            "name": "Remember The Time",
+            "artist": "Michael Jackson",
+            "id": 1697636
         },
         {
-            "name": "B***h (Bonus Track)",
-            "artist": "Honey Cocaine",
-            "id": 39122683
+            "name": "Primadonna (with Marc E. Bassy & Skizzy Mars)",
+            "artist": "PLVTINUM",
+            "id": 1482364056
         },
         {
-            "name": "Goddamn",
-            "artist": "Tyga",
-            "id": 1358388348
+            "name": "Rich Niggaz",
+            "artist": "J. Cole",
+            "id": 26524134
         },
         {
-            "name": "Wait for You (feat. Sam Ock)",
-            "artist": "gowe",
-            "id": 29091871
+            "name": "Luh Kel you did me wrong",
+            "artist": "Luh Kel",
+            "id": 1350485275
         },
         {
-            "name": "Like a Feather (Nujabes Tribute)",
-            "artist": "Thomas Prime",
-            "id": 28360697
-        },
-        {
-            "name": "Love Mode",
-            "artist": "Joakim Karud",
-            "id": 429482300
-        },
-        {
-            "name": "Birthday Boy",
-            "artist": "tobi lou",
-            "id": 1313661954
-        },
-        {
-            "name": "Down",
-            "artist": "Marian Hill",
-            "id": 405226741
+            "name": "Check the Vibe",
+            "artist": "Dred Scott",
+            "id": 1266922
         }
     ]
 }

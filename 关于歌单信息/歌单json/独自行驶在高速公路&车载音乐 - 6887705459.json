@@ -1,17 +1,22 @@
 {
     "playlist_info": {
         "name": "独自行驶在高速公路&车载音乐",
-        "trackcount": 80,
-        "playcount": 8037436,
+        "trackcount": 81,
+        "playcount": 8900786,
         "creator": "ChiakiXD",
         "createDate": "2021-07-29",
-        "heat": 11470.0
+        "heat": 11242.0
     },
     "songs": [
         {
             "name": "Scopin",
             "artist": "Kordhell",
             "id": 1930107573
+        },
+        {
+            "name": "TIRED OF PROBLEMS",
+            "artist": "NUEKI",
+            "id": 2061508316
         },
         {
             "name": "Tokyo Rain",
@@ -22,6 +27,21 @@
             "name": "Devil Eyes",
             "artist": "zodivk",
             "id": 1914852214
+        },
+        {
+            "name": "LAND OF FIRE",
+            "artist": "Kordhell",
+            "id": 1966025205
+        },
+        {
+            "name": "Murder In My Mind",
+            "artist": "Kordhell",
+            "id": 1911350678
+        },
+        {
+            "name": "NEON BLADE",
+            "artist": "MoonDeity",
+            "id": 1953493837
         },
         {
             "name": "Night Drive",
@@ -70,7 +90,7 @@
         },
         {
             "name": "Light Particle（Original Mix）",
-            "artist": "Young Xxxg",
+            "artist": "Armagan Oruc",
             "id": 1925396823
         },
         {
@@ -89,9 +109,24 @@
             "id": 1985112078
         },
         {
+            "name": "Close Eyes",
+            "artist": "DVRST",
+            "id": 1847721719
+        },
+        {
+            "name": "Live Another Day",
+            "artist": "Kordhell",
+            "id": 1873200293
+        },
+        {
             "name": "MUDD",
             "artist": "$WERVE",
             "id": 1974709395
+        },
+        {
+            "name": "Automotivo Bibi Fogosa",
+            "artist": "Bibi Babydoll",
+            "id": 2042504259
         },
         {
             "name": "Liberty Walk",
@@ -105,7 +140,7 @@
         },
         {
             "name": "Ass Like That",
-            "artist": "Psaxxx",
+            "artist": "அலாதீன் இசை",
             "id": 1948083890
         },
         {
@@ -144,11 +179,6 @@
             "id": 1477721509
         },
         {
-            "name": "GANG GANG",
-            "artist": "DEITIES",
-            "id": 1816099067
-        },
-        {
             "name": "Drown (feat. Clinton Kane) (Alle Farben Remix)",
             "artist": "Martin Garrix",
             "id": 1444426834
@@ -174,11 +204,6 @@
             "id": 486837237
         },
         {
-            "name": "《 Hit my heart 》",
-            "artist": "Edison-ETD",
-            "id": 1858811787
-        },
-        {
             "name": "Disaster",
             "artist": "KSLV Noh",
             "id": 1855398597
@@ -194,16 +219,6 @@
             "id": 1487914980
         },
         {
-            "name": "Dance",
-            "artist": "TangTian",
-            "id": 1429424264
-        },
-        {
-            "name": "Say Something (Sebastien Remix)",
-            "artist": "Sebastien",
-            "id": 35617718
-        },
-        {
             "name": "Bandito",
             "artist": "WYR GEMI",
             "id": 1434518736
@@ -214,7 +229,7 @@
             "id": 1872000017
         },
         {
-            "name": "Feel The Fire (Egzod Remix)",
+            "name": "Feel the Fire (Egzod Remix)",
             "artist": "Pluto",
             "id": 444324932
         },
@@ -287,11 +302,6 @@
             "name": "Từ Chối Nhẹ Nhàng (Prog Mix)",
             "artist": "GneHHHc",
             "id": 1853975042
-        },
-        {
-            "name": "Ablaikan-Mask Off（Xirali-3 remix）",
-            "artist": "Xirali-3",
-            "id": 1464142549
         },
         {
             "name": "Lana Del Rey-Summertime Sadness & Una Mattina（ночная вилка/Nick Kech / Lana Del Rey Remix）",
@@ -382,11 +392,6 @@
             "name": "Plain Jane (Mix Version)",
             "artist": "GRABOTE",
             "id": 1332461204
-        },
-        {
-            "name": "Lalala",
-            "artist": "aEZi",
-            "id": 1398451663
         },
         {
             "name": "Angetenar (Emre Kabak Remix)",

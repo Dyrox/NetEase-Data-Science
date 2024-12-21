@@ -1,11 +1,11 @@
 {
     "playlist_info": {
         "name": "【游戏】Carry全场",
-        "trackcount": 995,
-        "playcount": 2403384,
+        "trackcount": 997,
+        "playcount": 2424520,
         "creator": "恰似黄昏好似黎明",
         "createDate": "2019-05-10",
-        "heat": 1590.0
+        "heat": 1513.0
     },
     "songs": [
         {
@@ -40,18 +40,23 @@
         },
         {
             "name": "Work 2014",
-            "artist": "Andrey Exx, Hot Hotels, Diva Vocal",
+            "artist": "Andrey Exx",
             "id": 512080803
         },
         {
             "name": "Lost",
-            "artist": "Tule",
+            "artist": "Lost Sky",
             "id": 514761669
         },
         {
             "name": "Riot",
             "artist": "Far Out",
             "id": 1444704132
+        },
+        {
+            "name": "#ТАМАДА (DJ Mexx & DJ Dikson Remix)",
+            "artist": "EA7",
+            "id": 1811133274
         },
         {
             "name": "Close Eyes (Slowed + Reverb)",
@@ -94,12 +99,22 @@
             "id": 1498023684
         },
         {
+            "name": "A vibrant summer",
+            "artist": "Vicyova",
+            "id": 2074454666
+        },
+        {
+            "name": "LETHAL LURES (Extended Mix)",
+            "artist": "LENTIS",
+            "id": 2068410005
+        },
+        {
             "name": "Turn Up",
             "artist": "Dimitri Vegas & Like Mike",
             "id": 1379959218
         },
         {
-            "name": "Bamba",
+            "name": "Bamba!",
             "artist": "Armağan Oruç",
             "id": 1892409985
         },
@@ -679,7 +694,7 @@
             "id": 1476579403
         },
         {
-            "name": "Feel The Fire (Egzod Remix)",
+            "name": "Feel the Fire (Egzod Remix)",
             "artist": "Pluto",
             "id": 444324932
         },
@@ -895,7 +910,7 @@
         },
         {
             "name": "3LAU-Touch 混音 翻自 (3LAU、Carly Paige)（右耳Music remix）",
-            "artist": "右耳Music",
+            "artist": "右耳M",
             "id": 1489648209
         },
         {
@@ -1235,7 +1250,7 @@
         },
         {
             "name": "One Day（DJ版）",
-            "artist": "民浩",
+            "artist": "魯帥",
             "id": 1466215198
         },
         {
@@ -1384,8 +1399,8 @@
             "id": 1473560238
         },
         {
-            "name": "Abelvolks-失败作品1（XsGYn remix）",
-            "artist": "SongJJJ",
+            "name": "失败作品abelvolks",
+            "artist": "GZVZ",
             "id": 1428290795
         },
         {
@@ -1924,7 +1939,7 @@
             "id": 1360411961
         },
         {
-            "name": "We Burn（Faster Than Light）SanJin Remake（翻自 Avicii） ",
+            "name": "We Burn（Faster Than Light）SanJin Remake（翻自 Avicii）",
             "artist": "SanJin",
             "id": 1364197184
         },
@@ -2295,7 +2310,7 @@
         },
         {
             "name": "bboy danny",
-            "artist": "新旭",
+            "artist": "xxx Cr3",
             "id": 1391281654
         },
         {
@@ -2365,7 +2380,7 @@
         },
         {
             "name": "Hard DJ",
-            "artist": "新旭",
+            "artist": "xxx Cr3",
             "id": 1399839594
         },
         {
@@ -2639,7 +2654,7 @@
             "id": 514053624
         },
         {
-            "name": "史诗中国 ",
+            "name": "史诗中国",
             "artist": "路南",
             "id": 1313052443
         },
@@ -2685,7 +2700,7 @@
         },
         {
             "name": "Fearless Pt. II",
-            "artist": "Tule",
+            "artist": "Lost Sky",
             "id": 529391087
         },
         {
@@ -2949,7 +2964,7 @@
             "id": 1387591255
         },
         {
-            "name": "Wrap Me in plastic（翻自 CHROMANCE） ",
+            "name": "Wrap Me in plastic（翻自 CHROMANCE）",
             "artist": "koka",
             "id": 1392580896
         },
@@ -2990,7 +3005,7 @@
         },
         {
             "name": "ProgHouse (DJ版)",
-            "artist": "泽亦龙",
+            "artist": "xxx Cr3",
             "id": 1397288794
         },
         {
@@ -3015,7 +3030,7 @@
         },
         {
             "name": "Candy Shop (DJ版)",
-            "artist": "新旭",
+            "artist": "xxx Cr3",
             "id": 1386946638
         },
         {
@@ -3025,7 +3040,7 @@
         },
         {
             "name": "口哨战歌 (Perfect Mix)",
-            "artist": "泽亦龙",
+            "artist": "xxx Cr3",
             "id": 1396568160
         },
         {
@@ -3140,7 +3155,7 @@
         },
         {
             "name": "故事有始有终",
-            "artist": "新旭",
+            "artist": "xxx Cr3",
             "id": 1392990134
         },
         {
@@ -3165,7 +3180,7 @@
         },
         {
             "name": "Trend (DJ)",
-            "artist": "新旭",
+            "artist": "xxx Cr3",
             "id": 1392986529
         },
         {
@@ -3180,7 +3195,7 @@
         },
         {
             "name": "Be Your Sun (DJ版)",
-            "artist": "新旭",
+            "artist": "xxx Cr3",
             "id": 1386946637
         },
         {
@@ -3384,7 +3399,7 @@
             "id": 29498741
         },
         {
-            "name": "Just The Same",
+            "name": "Just the Same",
             "artist": "Charlotte Lawrence",
             "id": 533455199
         },
@@ -3639,7 +3654,7 @@
             "id": 555430256
         },
         {
-            "name": "Về nhà ăn tết（翻自 群星） ",
+            "name": "Về nhà ăn tết（翻自 群星）",
             "artist": "aEZi",
             "id": 1388004788
         },
@@ -3659,7 +3674,7 @@
             "id": 562926865
         },
         {
-            "name": "Cyka Blyat",
+            "name": "Сука блядь",
             "artist": "DJ Blyatman",
             "id": 1368324900
         },
@@ -4064,11 +4079,6 @@
             "id": 1376653715
         },
         {
-            "name": "电音任瑶-哪吒闹海（Remix）（电音任瑶 remix）",
-            "artist": "电音任瑶",
-            "id": 1349398955
-        },
-        {
             "name": "Cradles",
             "artist": "Sub Urban",
             "id": 1338490248
@@ -4300,7 +4310,7 @@
         },
         {
             "name": "Wicked Wonderland (Radio Edit)",
-            "artist": "Tungevaag",
+            "artist": "Martin Tungevaag",
             "id": 28694864
         },
         {
@@ -4674,7 +4684,7 @@
             "id": 35331692
         },
         {
-            "name": "Deja-Vu",
+            "name": "Déjà-Vu",
             "artist": "Timmy Trumpet",
             "id": 520458061
         },

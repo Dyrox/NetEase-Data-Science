@@ -1,11 +1,11 @@
 {
     "playlist_info": {
         "name": "Deep House｜迷人旋律，深邃鼓点",
-        "trackcount": 53,
-        "playcount": 2813180,
+        "trackcount": 52,
+        "playcount": 2829447,
         "creator": "烈雨",
         "createDate": "2020-03-22",
-        "heat": 2355.0
+        "heat": 2201.0
     },
     "songs": [
         {
@@ -267,11 +267,6 @@
             "name": "Something New",
             "artist": "Faul",
             "id": 29713703
-        },
-        {
-            "name": "Inainte Sa Ne Fi Nascut (Dirty Nano Remix)",
-            "artist": "The Motans",
-            "id": 1324662981
         }
     ]
 }

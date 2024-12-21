@@ -1,13 +1,18 @@
 {
     "playlist_info": {
         "name": "【节奏控】一秒入魂，美妙绝伦。",
-        "trackcount": 150,
-        "playcount": 6818350,
+        "trackcount": 149,
+        "playcount": 6991282,
         "creator": "D帝尤",
         "createDate": "2017-12-29",
-        "heat": 3395.0
+        "heat": 3330.0
     },
     "songs": [
+        {
+            "name": "Bandit",
+            "artist": "DJ七七",
+            "id": 2065669099
+        },
         {
             "name": "All In My Head",
             "artist": "Nadia Ali",
@@ -144,11 +149,6 @@
             "id": 1449539029
         },
         {
-            "name": "SexyBack (Tolga Aslan Remix)",
-            "artist": "Tolga Aslan",
-            "id": 1501715164
-        },
-        {
             "name": "Whisper",
             "artist": "Boombox Cartel",
             "id": 541499408
@@ -214,7 +214,7 @@
             "id": 420154391
         },
         {
-            "name": "Walk Thru Fire ",
+            "name": "Walk Thru Fire",
             "artist": "Vicetone",
             "id": 1322460396
         },
@@ -300,7 +300,7 @@
         },
         {
             "name": "Sold Out",
-            "artist": "Hawk Nelson",
+            "artist": "Jonathan Steingard",
             "id": 31010566
         },
         {
@@ -442,11 +442,6 @@
             "name": "Umbrella(Meow Remix)",
             "artist": "RT",
             "id": 520928254
-        },
-        {
-            "name": "Home (Blaze U Remix)",
-            "artist": "ThimLife",
-            "id": 448317566
         },
         {
             "name": "The Ocean",
@@ -752,11 +747,6 @@
             "name": "How You Love Me (Radio Edit)",
             "artist": "3LAU",
             "id": 28315618
-        },
-        {
-            "name": "Kanye",
-            "artist": "The Chainsmokers",
-            "id": 28883411
         },
         {
             "name": "SHIVA (Sunburn 2017 Anthem)",

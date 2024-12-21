@@ -1,0 +1,612 @@
+{
+    "playlist_info": {
+        "name": "满级人类必备歌单",
+        "trackcount": 120,
+        "playcount": 11458512,
+        "creator": "清秀超级秀",
+        "createDate": "2021-09-18",
+        "heat": 15478.0
+    },
+    "songs": [
+        {
+            "name": "Fainted Priest",
+            "artist": "Fatrik",
+            "id": 1940057567
+        },
+        {
+            "name": "Dead Inside",
+            "artist": "АДЛИН",
+            "id": 1890128737
+        },
+        {
+            "name": "Arigato",
+            "artist": "Julie Bergan",
+            "id": 417043707
+        },
+        {
+            "name": "We Won't Be Alone",
+            "artist": "Feint",
+            "id": 36307046
+        },
+        {
+            "name": "Talk Dirty (feat. 2 Chainz)",
+            "artist": "Jason Derulo",
+            "id": 27731486
+        },
+        {
+            "name": "#тамада (Сингл)",
+            "artist": "Wooshendoo",
+            "id": 1360740756
+        },
+        {
+            "name": "BABYDOLL (Speed)",
+            "artist": "Ari Abdul",
+            "id": 1932769322
+        },
+        {
+            "name": "Melody (Original mix)",
+            "artist": "Ash",
+            "id": 36921285
+        },
+        {
+            "name": "The Best Of Me",
+            "artist": "Dion Timmer",
+            "id": 1329938686
+        },
+        {
+            "name": "Into You",
+            "artist": "Matisse & Sadko",
+            "id": 523042017
+        },
+        {
+            "name": "Go Again (feat. ELYSA)",
+            "artist": "King CAAN",
+            "id": 1952112969
+        },
+        {
+            "name": "Landslide",
+            "artist": "Oh Wonder",
+            "id": 33190605
+        },
+        {
+            "name": "Sweet Dreams",
+            "artist": "Breathe Carolina",
+            "id": 550297837
+        },
+        {
+            "name": "Illusion",
+            "artist": "Matilda",
+            "id": 480516046
+        },
+        {
+            "name": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",
+            "artist": "David Guetta",
+            "id": 29747517
+        },
+        {
+            "name": "Catch My Breath (Suprafive Remix)",
+            "artist": "Suprafive",
+            "id": 458238609
+        },
+        {
+            "name": "Apex",
+            "artist": "Far Out",
+            "id": 1333144056
+        },
+        {
+            "name": "whoa (mind in awe)",
+            "artist": "XXXTENTACION",
+            "id": 1331880361
+        },
+        {
+            "name": "This Far (Rudelies Radio Remix)",
+            "artist": "Raven & Kreyn",
+            "id": 1450158244
+        },
+        {
+            "name": "Start Again",
+            "artist": "OVSKY",
+            "id": 1842286746
+        },
+        {
+            "name": "Dusk Till Dawn",
+            "artist": "ZAYN",
+            "id": 504265014
+        },
+        {
+            "name": "Unstoppable",
+            "artist": "Sia",
+            "id": 400876320
+        },
+        {
+            "name": "Empty Love",
+            "artist": "Lulleaux",
+            "id": 1435828582
+        },
+        {
+            "name": "Drink About",
+            "artist": "SeeB",
+            "id": 550169452
+        },
+        {
+            "name": "Asphalt 8: Airborne – “Bleach”",
+            "artist": "Gameloft",
+            "id": 1896108091
+        },
+        {
+            "name": "Slow Down",
+            "artist": "Madnap",
+            "id": 1356658022
+        },
+        {
+            "name": "Ticking",
+            "artist": "TIN",
+            "id": 410519534
+        },
+        {
+            "name": "Time to Pretend",
+            "artist": "Lazer Boomerang",
+            "id": 1377642003
+        },
+        {
+            "name": "Nothing New",
+            "artist": "Dropgun",
+            "id": 519367069
+        },
+        {
+            "name": "Angetenar",
+            "artist": "Rompasso",
+            "id": 1875893672
+        },
+        {
+            "name": "Superstar (Dirty Rush & Gregor Es Remix)",
+            "artist": "Mandee",
+            "id": 472219715
+        },
+        {
+            "name": "Nobody Compares To You",
+            "artist": "Gryffin",
+            "id": 1398831854
+        },
+        {
+            "name": "Enemy (from the series Arcane League of Legends)",
+            "artist": "Imagine Dragons",
+            "id": 1890494798
+        },
+        {
+            "name": "Love Me No More",
+            "artist": "LinG",
+            "id": 1453308606
+        },
+        {
+            "name": "I'll Be Waiting...",
+            "artist": "Pearl",
+            "id": 404184492
+        },
+        {
+            "name": "Holding On",
+            "artist": "Dabin",
+            "id": 1415581032
+        },
+        {
+            "name": "Fade Away",
+            "artist": "Sam Feldt",
+            "id": 475264125
+        },
+        {
+            "name": "Fight",
+            "artist": "BeatBrothers",
+            "id": 1293913379
+        },
+        {
+            "name": "#Lov3 #Ngẫu Hứng",
+            "artist": "Hoaprox",
+            "id": 440353010
+        },
+        {
+            "name": "Middle Of The Night",
+            "artist": "TAIGA",
+            "id": 1461637594
+        },
+        {
+            "name": "Sober",
+            "artist": "INNA",
+            "id": 1444326036
+        },
+        {
+            "name": "The Cure",
+            "artist": "Lady Gaga",
+            "id": 472045959
+        },
+        {
+            "name": "All We Know",
+            "artist": "The Chainsmokers",
+            "id": 432698441
+        },
+        {
+            "name": "Over That",
+            "artist": "Emily Vaughn",
+            "id": 525239104
+        },
+        {
+            "name": "California Vibes",
+            "artist": "Alex Skrindo",
+            "id": 1447696197
+        },
+        {
+            "name": "Lake Arrowhead (Radio Mix)",
+            "artist": "Nora En Pure",
+            "id": 563129860
+        },
+        {
+            "name": "From You, For me",
+            "artist": "Frank Pierce",
+            "id": 1418112141
+        },
+        {
+            "name": "My Sunset (Original Mix)",
+            "artist": "Feint",
+            "id": 17867241
+        },
+        {
+            "name": "Come Back For You",
+            "artist": "Matluck",
+            "id": 563058284
+        },
+        {
+            "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
+            "artist": "Kungs",
+            "id": 438801554
+        },
+        {
+            "name": "Touch",
+            "artist": "3LAU",
+            "id": 534228257
+        },
+        {
+            "name": "Renaissance",
+            "artist": "Steve James",
+            "id": 39324743
+        },
+        {
+            "name": "Flowers",
+            "artist": "Dirty Palm",
+            "id": 1375586740
+        },
+        {
+            "name": "Stay The Night",
+            "artist": "Just Kiddin",
+            "id": 1376075781
+        },
+        {
+            "name": "Roses",
+            "artist": "The Chainsmokers",
+            "id": 32639368
+        },
+        {
+            "name": "Turn All the Lights On",
+            "artist": "T-Pain",
+            "id": 21792987
+        },
+        {
+            "name": "Lose Control",
+            "artist": "Hedley",
+            "id": 36307815
+        },
+        {
+            "name": "Five Hours",
+            "artist": "Deorro",
+            "id": 28263911
+        },
+        {
+            "name": "Nemesis",
+            "artist": "RYLLZ",
+            "id": 1323301741
+        },
+        {
+            "name": "Ain't My Fault (R3HAB Remix)",
+            "artist": "Zara Larsson",
+            "id": 433018366
+        },
+        {
+            "name": "Let You Go",
+            "artist": "Vanished",
+            "id": 550946717
+        },
+        {
+            "name": "Children Of A Miracle",
+            "artist": "Don Diablo",
+            "id": 466122582
+        },
+        {
+            "name": "Walk Thru Fire",
+            "artist": "Vicetone",
+            "id": 1297498908
+        },
+        {
+            "name": "Sold Out",
+            "artist": "Jonathan Steingard",
+            "id": 31010566
+        },
+        {
+            "name": "Scars To Your Beautiful",
+            "artist": "Alessia Cara",
+            "id": 36587834
+        },
+        {
+            "name": "So Far Away",
+            "artist": "Martin Garrix",
+            "id": 521416693
+        },
+        {
+            "name": "Cutting Shapes",
+            "artist": "Don Diablo",
+            "id": 427542143
+        },
+        {
+            "name": "Horizon",
+            "artist": "Janji",
+            "id": 32046918
+        },
+        {
+            "name": "Run Free (with HUTS) (Original Mix)",
+            "artist": "Deep Chills",
+            "id": 1469151632
+        },
+        {
+            "name": "L.I.F.E.",
+            "artist": "Remady",
+            "id": 439037024
+        },
+        {
+            "name": "Umbrella(Remix)",
+            "artist": "宋善恩",
+            "id": 1831812103
+        },
+        {
+            "name": "Temple",
+            "artist": "Zerky",
+            "id": 1456677611
+        },
+        {
+            "name": "Lovefool",
+            "artist": "twocolors",
+            "id": 1478322298
+        },
+        {
+            "name": "Black Magic",
+            "artist": "Jonasu",
+            "id": 1805317558
+        },
+        {
+            "name": "We’re The Same‬‬",
+            "artist": "Vigiland",
+            "id": 1364333108
+        },
+        {
+            "name": "Lone Ranger",
+            "artist": "Rachel Platten",
+            "id": 29803676
+        },
+        {
+            "name": "Numb",
+            "artist": "Arc North",
+            "id": 1472538276
+        },
+        {
+            "name": "Move Your Body (Alan Walker Remix)",
+            "artist": "Alan Walker",
+            "id": 436487129
+        },
+        {
+            "name": "Angels",
+            "artist": "Vicetone",
+            "id": 31566626
+        },
+        {
+            "name": "Sky High",
+            "artist": "Elektronomia",
+            "id": 451126088
+        },
+        {
+            "name": "Ensemble",
+            "artist": "Vicetone",
+            "id": 28593175
+        },
+        {
+            "name": "Vagrant",
+            "artist": "Feint",
+            "id": 34613621
+        },
+        {
+            "name": "Animals",
+            "artist": "Martin Garrix",
+            "id": 26565006
+        },
+        {
+            "name": "Coming Home",
+            "artist": "Dash Berlin",
+            "id": 475072054
+        },
+        {
+            "name": "Maga-Such a Whore（Maga remix）",
+            "artist": "Maga",
+            "id": 1465665964
+        },
+        {
+            "name": "Flowers",
+            "artist": "Dirty Palm",
+            "id": 1369828361
+        },
+        {
+            "name": "Hey Mama",
+            "artist": "Monk",
+            "id": 1830799856
+        },
+        {
+            "name": "C U Again",
+            "artist": "Mikk Mäe",
+            "id": 1313035063
+        },
+        {
+            "name": "Body",
+            "artist": "Loud Luxury",
+            "id": 515816187
+        },
+        {
+            "name": "Blame",
+            "artist": "Calvin Harris",
+            "id": 29129632
+        },
+        {
+            "name": "Lullaby",
+            "artist": "R3HAB",
+            "id": 529557738
+        },
+        {
+            "name": "Morsmordre",
+            "artist": "Crazy Donkey",
+            "id": 1441860073
+        },
+        {
+            "name": "Drunk Groove",
+            "artist": "MARUV",
+            "id": 1312714167
+        },
+        {
+            "name": "C U Again",
+            "artist": "Cartoon",
+            "id": 447281375
+        },
+        {
+            "name": "Falling Down",
+            "artist": "Wild Cards",
+            "id": 1493077219
+        },
+        {
+            "name": "Bad Boy",
+            "artist": "Tungevaag & Raaban",
+            "id": 1320067242
+        },
+        {
+            "name": "Middle Of The Night (Extended Mix)",
+            "artist": "TAIGA",
+            "id": 1461637595
+        },
+        {
+            "name": "Seasons (Futuristik & Whogaux Remix)",
+            "artist": "Cadmium",
+            "id": 1313044099
+        },
+        {
+            "name": "Fractures",
+            "artist": "ILLENIUM",
+            "id": 507585220
+        },
+        {
+            "name": "Holy Grail (Adieu Remix)",
+            "artist": "Adieu",
+            "id": 37092830
+        },
+        {
+            "name": "Light It Up",
+            "artist": "Robin Hustin",
+            "id": 1301572562
+        },
+        {
+            "name": "Beautiful Now",
+            "artist": "Zedd",
+            "id": 32019002
+        },
+        {
+            "name": "Senbonzakura [SS-Extended+Bass]",
+            "artist": "Lindsey Stirling",
+            "id": 32139848
+        },
+        {
+            "name": "Lost Control (Original Mix)",
+            "artist": "Tyron Hapi",
+            "id": 417859039
+        },
+        {
+            "name": "Survive",
+            "artist": "Vanze",
+            "id": 445144239
+        },
+        {
+            "name": "Stronger (What Doesn't Kill You)",
+            "artist": "Kelly Clarkson",
+            "id": 2870985
+        },
+        {
+            "name": "Angels (Radio Edit)",
+            "artist": "Vicetone",
+            "id": 31477895
+        },
+        {
+            "name": "Billie Eilish- Lovely (Remix)",
+            "artist": "林怿",
+            "id": 1829059571
+        },
+        {
+            "name": "Relax Take it Easy",
+            "artist": "Cdeep",
+            "id": 1449539029
+        },
+        {
+            "name": "Easy Come",
+            "artist": "Antoine Chambe",
+            "id": 1369930486
+        },
+        {
+            "name": "Stray",
+            "artist": "Feint",
+            "id": 30394495
+        },
+        {
+            "name": "Redbone (DJ版)",
+            "artist": "six nine",
+            "id": 1499817937
+        },
+        {
+            "name": "By Your Side",
+            "artist": "Jonas Blue",
+            "id": 437909145
+        },
+        {
+            "name": "Drown (Alle Farben Remix)",
+            "artist": "Martin Garrix",
+            "id": 1437031748
+        },
+        {
+            "name": "Remember Our Summer",
+            "artist": "FrogMonster",
+            "id": 1384450197
+        },
+        {
+            "name": "Rather Be",
+            "artist": "Clean Bandit",
+            "id": 28095742
+        },
+        {
+            "name": "Power (In Your Soul)",
+            "artist": "Interupt",
+            "id": 1843319489
+        },
+        {
+            "name": "Want U More (Radio Edit)",
+            "artist": "Hi Noise",
+            "id": 1868207326
+        },
+        {
+            "name": "Sound of Walking Away",
+            "artist": "ILLENIUM",
+            "id": 473940907
+        },
+        {
+            "name": "Something Just Like This(Megamix)",
+            "artist": "AnDyWuMUSICLAND",
+            "id": 471565537
+        }
+    ]
+}

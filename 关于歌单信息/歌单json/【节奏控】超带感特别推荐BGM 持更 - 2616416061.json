@@ -1,17 +1,22 @@
 {
     "playlist_info": {
         "name": "【节奏控】超带感特别推荐BGM 持更",
-        "trackcount": 165,
-        "playcount": 54999016,
+        "trackcount": 166,
+        "playcount": 55410812,
         "creator": "南方安某人",
         "createDate": "2019-01-09",
-        "heat": 33690.0
+        "heat": 32150.0
     },
     "songs": [
         {
-            "name": "Bamba",
+            "name": "Bamba!",
             "artist": "Armağan Oruç",
             "id": 1892409985
+        },
+        {
+            "name": "See You Again",
+            "artist": "Vicetone",
+            "id": 2077871462
         },
         {
             "name": "Umbrella(Remix)",
@@ -54,8 +59,8 @@
             "id": 1825988546
         },
         {
-            "name": "WAIT",
-            "artist": "X-GANG",
+            "name": "Wait",
+            "artist": "WIB3X",
             "id": 1824197238
         },
         {
@@ -250,7 +255,7 @@
         },
         {
             "name": "despair",
-            "artist": "YINSHENG",
+            "artist": "Flower Kiss",
             "id": 550829288
         },
         {
@@ -369,7 +374,7 @@
             "id": 1371069945
         },
         {
-            "name": " Alone",
+            "name": "Alone",
             "artist": "FrogMonster",
             "id": 1364751214
         },
@@ -389,7 +394,7 @@
             "id": 550946717
         },
         {
-            "name": "devotion",
+            "name": "Devotion",
             "artist": "FrogMonster",
             "id": 1348553537
         },

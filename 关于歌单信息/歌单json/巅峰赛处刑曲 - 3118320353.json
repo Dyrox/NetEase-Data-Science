@@ -1,11 +1,11 @@
 {
     "playlist_info": {
         "name": "巅峰赛/处刑曲",
-        "trackcount": 95,
-        "playcount": 3248872,
+        "trackcount": 93,
+        "playcount": 3930169,
         "creator": "木兰log",
         "createDate": "2019-12-14",
-        "heat": 2511.0
+        "heat": 2838.0
     },
     "songs": [
         {
@@ -14,44 +14,79 @@
             "id": 1964744004
         },
         {
+            "name": "Kalle (卡莱)",
+            "artist": "Radio",
+            "id": 2081496652
+        },
+        {
+            "name": "Secrets (Orginal mix )",
+            "artist": "Azeri",
+            "id": 2048271919
+        },
+        {
+            "name": "Memory Reboot",
+            "artist": "VØJ",
+            "id": 2013880610
+        },
+        {
+            "name": "Shifting Gears",
+            "artist": "Jason Paris",
+            "id": 1927829515
+        },
+        {
+            "name": "Crystals (Slowed)",
+            "artist": "Isolate.exe",
+            "id": 1926324797
+        },
+        {
+            "name": "Nullifier (Slowed)",
+            "artist": "xxx Cr3",
+            "id": 2026795864
+        },
+        {
+            "name": "Death Lotto (Instrumental)",
+            "artist": "ovg!",
+            "id": 1959323027
+        },
+        {
+            "name": "PRINCE OF DARKNESS",
+            "artist": "HAMZA INC.",
+            "id": 1952888334
+        },
+        {
+            "name": "SEA OF PROBLEMS (slowed + reverb)",
+            "artist": "GLICHERRY",
+            "id": 2044465320
+        },
+        {
+            "name": "SO TIRED",
+            "artist": "对爱的执念从不是海",
+            "id": 2060772278
+        },
+        {
+            "name": "DARK RAVE(x.8)",
+            "artist": "DANGYANG",
+            "id": 2055306852
+        },
+        {
+            "name": "Shootout X Yes to Heaven",
+            "artist": "Benatora",
+            "id": 1993119056
+        },
+        {
+            "name": "Move Your Body",
+            "artist": "Öwnboss",
+            "id": 1948293252
+        },
+        {
             "name": "Fainted Priest",
             "artist": "Fatrik",
             "id": 1940057567
         },
         {
-            "name": "SO TIRED",
-            "artist": "NUEKI",
-            "id": 2047126369
-        },
-        {
-            "name": "Sea Of Problems",
-            "artist": "Glichery",
-            "id": 2025457557
-        },
-        {
-            "name": "Kate Bush-Running Up That Hill",
-            "artist": "LINGZEA",
-            "id": 2047985543
-        },
-        {
-            "name": "Dan Bălan-Funny Love（Savior remix）",
-            "artist": "Savior",
-            "id": 1475841939
-        },
-        {
-            "name": "Move Your Body",
-            "artist": "Öwnboss",
-            "id": 1890011744
-        },
-        {
             "name": "Chasing the Dragon",
             "artist": "Getsix",
             "id": 1390414308
-        },
-        {
-            "name": "GigaChad Theme (Phonk House Version)",
-            "artist": "g3ox_em",
-            "id": 1974460387
         },
         {
             "name": "Мокрые губы (Relanium, Prezzplay, Deen West Radio Remix)",
@@ -74,34 +109,9 @@
             "id": 1962732807
         },
         {
-            "name": "Move Your Body (RAIZHELL Remix)",
-            "artist": "Öwnboss",
-            "id": 1969098089
-        },
-        {
-            "name": "PRINCE OF DARKNESS (Slowed + Reverb)",
-            "artist": "SHADXWBXRN",
-            "id": 1919085896
-        },
-        {
             "name": "Night Drive",
             "artist": "Wilee",
             "id": 1919684213
-        },
-        {
-            "name": "FATALITY",
-            "artist": "Kordhell",
-            "id": 1943523171
-        },
-        {
-            "name": "Death Lotto",
-            "artist": "ovg!",
-            "id": 1959324681
-        },
-        {
-            "name": "Nullifier",
-            "artist": "TRVNSPORTER",
-            "id": 1962738828
         },
         {
             "name": "The Best Of Me",
@@ -110,7 +120,7 @@
         },
         {
             "name": "Night Crusing (But Slowed) (prod 牛尾憲輔)",
-            "artist": "Alexanbra",
+            "artist": "XyEscape",
             "id": 1937226721
         },
         {
@@ -124,29 +134,14 @@
             "id": 1847721719
         },
         {
-            "name": "Maps（0.8X）",
-            "artist": "xxxCr3",
-            "id": 1910183601
-        },
-        {
             "name": "Tengi（Slowed）",
             "artist": "7NpcTt",
             "id": 1942194856
         },
         {
-            "name": "Scared to Be Lonely",
-            "artist": "Martin Garrix",
-            "id": 456175020
-        },
-        {
             "name": "Empty Love",
             "artist": "Lulleaux",
             "id": 1435828582
-        },
-        {
-            "name": "So Far Away",
-            "artist": "Martin Garrix",
-            "id": 521416693
         },
         {
             "name": "Do It(Remix)",
@@ -267,11 +262,6 @@
             "name": "Rolling in the Deep",
             "artist": "Adele",
             "id": 16435051
-        },
-        {
-            "name": "Seve",
-            "artist": "Tez Cadey",
-            "id": 30394891
         },
         {
             "name": "Remember The Name (feat. Styles Of Beyond)",

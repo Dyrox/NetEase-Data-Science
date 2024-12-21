@@ -1,17 +1,32 @@
 {
     "playlist_info": {
         "name": "【女声电音】 来自柔美＋动感的灵魂冲击",
-        "trackcount": 154,
-        "playcount": 6194340,
+        "trackcount": 157,
+        "playcount": 6240462,
         "creator": "Medicine丶",
         "createDate": "2016-02-02",
-        "heat": 2290.0
+        "heat": 2232.0
     },
     "songs": [
+        {
+            "name": "Polaris",
+            "artist": "Asia D",
+            "id": 1824513851
+        },
+        {
+            "name": "Dream Big",
+            "artist": "Biometrix",
+            "id": 1832458988
+        },
         {
             "name": "PLAY",
             "artist": "Ricii Lompeurs",
             "id": 1963132367
+        },
+        {
+            "name": "Paskui Tave",
+            "artist": "Gjan",
+            "id": 1294910445
         },
         {
             "name": "Broken Pieces",

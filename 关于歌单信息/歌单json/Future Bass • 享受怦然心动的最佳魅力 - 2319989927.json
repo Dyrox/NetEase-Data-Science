@@ -2,16 +2,21 @@
     "playlist_info": {
         "name": "Future Bass • 享受怦然心动的最佳魅力",
         "trackcount": 133,
-        "playcount": 4735299,
-        "creator": "音凛酱",
+        "playcount": 4771913,
+        "creator": "iu_ui6",
         "createDate": "2018-07-18",
-        "heat": 2619.0
+        "heat": 2512.0
     },
     "songs": [
         {
             "name": "Polaris",
             "artist": "Asia D",
             "id": 1824513851
+        },
+        {
+            "name": "Heart Of Peace",
+            "artist": "ZHANGYE",
+            "id": 2041447431
         },
         {
             "name": "So What",
@@ -55,7 +60,7 @@
         },
         {
             "name": "箐华",
-            "artist": "Grand",
+            "artist": "一罐樱桃琴",
             "id": 1455067570
         },
         {
@@ -104,18 +109,13 @@
             "id": 1397812306
         },
         {
-            "name": "Blooming",
-            "artist": "AFA",
-            "id": 1420014173
-        },
-        {
-            "name": "Just A Moment（翻自 Cymatics公司的vocalist） ",
+            "name": "Just A Moment（翻自 Cymatics公司的vocalist）",
             "artist": "pink dream",
             "id": 1418457357
         },
         {
             "name": "Think About You",
-            "artist": "QK",
+            "artist": "Kk",
             "id": 1394176692
         },
         {
@@ -514,7 +514,7 @@
             "id": 493283657
         },
         {
-            "name": "Cold Water (feat. Justin Bieber & MØ)",
+            "name": "Cold Water",
             "artist": "Major Lazer",
             "id": 422132237
         },

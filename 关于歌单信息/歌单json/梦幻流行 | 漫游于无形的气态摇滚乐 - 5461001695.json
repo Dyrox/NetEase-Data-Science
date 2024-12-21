@@ -1,13 +1,188 @@
 {
     "playlist_info": {
         "name": "梦幻流行 | 漫游于无形的气态摇滚乐",
-        "trackcount": 57,
-        "playcount": 947753,
+        "trackcount": 80,
+        "playcount": 982076,
         "creator": "云音乐官方歌单",
         "createDate": "2021-01-12",
-        "heat": 1055.0
+        "heat": 992.0
     },
     "songs": [
+        {
+            "name": "Fade Into You",
+            "artist": "Mazzy Star",
+            "id": 17276014
+        },
+        {
+            "name": "Bluebird",
+            "artist": "Beach House",
+            "id": 33075103
+        },
+        {
+            "name": "Light From A Dead Star",
+            "artist": "Lush",
+            "id": 21041607
+        },
+        {
+            "name": "Space Song",
+            "artist": "Beach House",
+            "id": 33075107
+        },
+        {
+            "name": "Pandora (For Cindy)",
+            "artist": "Cocteau Twins",
+            "id": 17124734
+        },
+        {
+            "name": "Strange",
+            "artist": "Galaxie 500",
+            "id": 26661235
+        },
+        {
+            "name": "Cherry-coloured Funk",
+            "artist": "Cocteau Twins",
+            "id": 17124750
+        },
+        {
+            "name": "Blue Thunder",
+            "artist": "Galaxie 500",
+            "id": 26661232
+        },
+        {
+            "name": "Live in Dreams",
+            "artist": "Wild Nothing",
+            "id": 20720678
+        },
+        {
+            "name": "Flowers",
+            "artist": "Galaxie 500",
+            "id": 4087047
+        },
+        {
+            "name": "You Can Have It All",
+            "artist": "Yo La Tengo",
+            "id": 20787116
+        },
+        {
+            "name": "When We Fall",
+            "artist": "Grouper",
+            "id": 2641643
+        },
+        {
+            "name": "Tears In The Typing Pool",
+            "artist": "Broadcast",
+            "id": 16812659
+        },
+        {
+            "name": "Song to the Siren",
+            "artist": "This Mortal Coil",
+            "id": 19398544
+        },
+        {
+            "name": "Myth",
+            "artist": "Beach House",
+            "id": 16649799
+        },
+        {
+            "name": "Falling",
+            "artist": "Julee Cruise",
+            "id": 18839182
+        },
+        {
+            "name": "If I Were with Her Now",
+            "artist": "Spiritualized",
+            "id": 19169409
+        },
+        {
+            "name": "We Own the Sky",
+            "artist": "M83",
+            "id": 16957750
+        },
+        {
+            "name": "Into The Black",
+            "artist": "Chromatics",
+            "id": 3996230
+        },
+        {
+            "name": "Sunflower",
+            "artist": "Low",
+            "id": 21038572
+        },
+        {
+            "name": "Here's Where the Story Ends",
+            "artist": "The Sundays",
+            "id": 19383057
+        },
+        {
+            "name": "Tugboat",
+            "artist": "Galaxie 500",
+            "id": 4087073
+        },
+        {
+            "name": "Love Songs on the Radio",
+            "artist": "Mojave 3",
+            "id": 17319307
+        },
+        {
+            "name": "Clearing",
+            "artist": "Grouper",
+            "id": 29713146
+        },
+        {
+            "name": "Carolyn's Fingers",
+            "artist": "Cocteau Twins",
+            "id": 17124810
+        },
+        {
+            "name": "Walkabout",
+            "artist": "Atlas Sound",
+            "id": 16343199
+        },
+        {
+            "name": "Joseph Cornell",
+            "artist": "The Clientele",
+            "id": 21910451
+        },
+        {
+            "name": "Words",
+            "artist": "Low",
+            "id": 21038693
+        },
+        {
+            "name": "Everybody Daylight",
+            "artist": "Brightblack Morning Light",
+            "id": 2256557
+        },
+        {
+            "name": "Heaven's on Fire",
+            "artist": "The Radio Dept.",
+            "id": 19288278
+        },
+        {
+            "name": "Chinatown",
+            "artist": "Wild Nothing",
+            "id": 20720692
+        },
+        {
+            "name": "Doused",
+            "artist": "DIIV",
+            "id": 17417075
+        },
+        {
+            "name": "Young Adult Friction",
+            "artist": "The Pains of Being Pure at Heart",
+            "id": 3566832
+        },
+        {
+            "name": "Halah",
+            "artist": "Mazzy Star",
+            "id": 22472672
+        },
+        {
+            "name": "The Best Summer Ever",
+            "artist": "A Sunny Day in Glasgow",
+            "id": 16330537
+        },
         {
             "name": "Rave On",
             "artist": "Cults",
@@ -22,11 +197,6 @@
             "name": "Drunk In LA",
             "artist": "Beach House",
             "id": 557936184
-        },
-        {
-            "name": "有暖气 (You Nuan Chi)",
-            "artist": "橘子海 (Orange Ocean)",
-            "id": 1359815264
         },
         {
             "name": "Amy",
@@ -44,11 +214,6 @@
             "id": 27041909
         },
         {
-            "name": "凌晨三点钟",
-            "artist": "桃子假象",
-            "id": 1323265727
-        },
-        {
             "name": "4Am",
             "artist": "The Fauns",
             "id": 28072133
@@ -64,24 +229,9 @@
             "id": 22294961
         },
         {
-            "name": "My Jinji",
-            "artist": "落日飞车",
-            "id": 438462713
-        },
-        {
             "name": "forget her.",
             "artist": "girl in red",
             "id": 1323574016
-        },
-        {
-            "name": "Summer Tobacco",
-            "artist": "缺省",
-            "id": 1349035528
-        },
-        {
-            "name": "散去的时候",
-            "artist": "deca joins",
-            "id": 1398899125
         },
         {
             "name": "Does Your Brain Ever Get This Loud?",
@@ -94,11 +244,6 @@
             "id": 26462797
         },
         {
-            "name": "I Know You Know I Love You",
-            "artist": "落日飞车",
-            "id": 344157
-        },
-        {
             "name": "Seven",
             "artist": "Men I Trust",
             "id": 1308081109
@@ -107,11 +252,6 @@
             "name": "Neverlands",
             "artist": "Night Flowers",
             "id": 28392188
-        },
-        {
-            "name": "夏日漱石 (Summer Cozy Rock)",
-            "artist": "橘子海 (Orange Ocean)",
-            "id": 1359818052
         },
         {
             "name": "Farfisa Song",
@@ -149,29 +289,14 @@
             "id": 427595465
         },
         {
-            "name": "Can You Hear The Whistle Blow",
-            "artist": "缺省",
-            "id": 1469875631
-        },
-        {
             "name": "Father's Ramble",
             "artist": "Vansire",
             "id": 519909202
         },
         {
-            "name": "花火",
-            "artist": "桃子假象",
-            "id": 1399129416
-        },
-        {
             "name": "All in My Head",
             "artist": "winter",
             "id": 545947424
-        },
-        {
-            "name": "Midnight Canyon",
-            "artist": "The Cheers Cheers",
-            "id": 427609827
         },
         {
             "name": "Keep Her Closer",
@@ -194,11 +319,6 @@
             "id": 27563579
         },
         {
-            "name": "So Long",
-            "artist": "The Cheers Cheers",
-            "id": 427609829
-        },
-        {
             "name": "Tides",
             "artist": "Swimming Tapes",
             "id": 562243482
@@ -212,11 +332,6 @@
             "name": "Polly",
             "artist": "Whitney",
             "id": 415904861
-        },
-        {
-            "name": "HoydeA",
-            "artist": "傻子与白痴",
-            "id": 1371378364
         },
         {
             "name": "Myth",

@@ -1,13 +1,18 @@
 {
     "playlist_info": {
         "name": "這 個 歌 單 有 點 嗨",
-        "trackcount": 227,
-        "playcount": 1757344,
+        "trackcount": 228,
+        "playcount": 1767247,
         "creator": "露娜超可爱",
         "createDate": "2019-06-24",
-        "heat": 1198.0
+        "heat": 1134.0
     },
     "songs": [
+        {
+            "name": "The Minimal Beat",
+            "artist": "Strong R.",
+            "id": 1426075426
+        },
         {
             "name": "Capper,罗言 - 雪 Distance(Xizzy Bootleg)",
             "artist": "Xizzy",
@@ -64,7 +69,7 @@
             "id": 1907179308
         },
         {
-            "name": "Bamba",
+            "name": "Bamba!",
             "artist": "Armağan Oruç",
             "id": 1892409985
         },
@@ -734,7 +739,7 @@
             "id": 414979759
         },
         {
-            "name": "Pon De Time ",
+            "name": "Pon De Time",
             "artist": "Wuki",
             "id": 1300595595
         },
@@ -775,11 +780,11 @@
         },
         {
             "name": "Fatrik,Epiik-wong土嗨（王佳电音）（KidWu remix）",
-            "artist": "KIDWU",
+            "artist": "KidWuSound",
             "id": 1394731586
         },
         {
-            "name": "Cyka Blyat",
+            "name": "Сука блядь",
             "artist": "DJ Blyatman",
             "id": 1368324900
         },

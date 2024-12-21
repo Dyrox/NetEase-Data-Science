@@ -1,17 +1,22 @@
 {
     "playlist_info": {
         "name": "浪潮美学Synthwave| 梦幻霓虹，温情时光",
-        "trackcount": 102,
-        "playcount": 1309032,
+        "trackcount": 108,
+        "playcount": 1479653,
         "creator": "夕日向暖",
         "createDate": "2020-12-24",
-        "heat": 1427.0
+        "heat": 1467.0
     },
     "songs": [
         {
-            "name": "In The Night",
-            "artist": "Fly By Midnight",
-            "id": 1972532365
+            "name": "Heartbeat",
+            "artist": "The Midnight",
+            "id": 1954558679
+        },
+        {
+            "name": "Heartstrings",
+            "artist": "LeBrock",
+            "id": 1834243182
         },
         {
             "name": "Midnight 1980",
@@ -19,14 +24,24 @@
             "id": 1983851619
         },
         {
-            "name": "don't let me 80s",
-            "artist": "Annapurnaz",
-            "id": 2014316695
+            "name": "黑洞",
+            "artist": "1ilisCandy",
+            "id": 2023210447
         },
         {
-            "name": "照耀 Outro",
-            "artist": "1ilisCandy",
-            "id": 2023210448
+            "name": "In The Night",
+            "artist": "Fly By Midnight",
+            "id": 1972532365
+        },
+        {
+            "name": "Faded Memory",
+            "artist": "Jessie Frye",
+            "id": 1359699011
+        },
+        {
+            "name": "Los Angeles",
+            "artist": "The Midnight",
+            "id": 28999945
         },
         {
             "name": "Tokyo",
@@ -49,6 +64,21 @@
             "id": 1344292306
         },
         {
+            "name": "Borrow Your Time",
+            "artist": "Fly By Midnight",
+            "id": 1871068989
+        },
+        {
+            "name": "A Place of Her Own",
+            "artist": "The Midnight",
+            "id": 1978372608
+        },
+        {
+            "name": "照耀 Outro",
+            "artist": "1ilisCandy",
+            "id": 2023210448
+        },
+        {
             "name": "Ghosts",
             "artist": "Scavenger Hunt",
             "id": 526081106
@@ -59,11 +89,6 @@
             "id": 411907930
         },
         {
-            "name": "Los Angeles",
-            "artist": "The Midnight",
-            "id": 28999945
-        },
-        {
             "name": "Different Lives",
             "artist": "Fly By Midnight",
             "id": 2025563160
@@ -72,6 +97,11 @@
             "name": "Take Me Back",
             "artist": "Josh Dally",
             "id": 1936166637
+        },
+        {
+            "name": "America 2",
+            "artist": "The Midnight",
+            "id": 1299563899
         },
         {
             "name": "Deep Burn Blue",
@@ -94,14 +124,14 @@
             "id": 1347617340
         },
         {
-            "name": "Heartbeat",
-            "artist": "The Midnight",
-            "id": 1954558679
-        },
-        {
             "name": "Just Drive",
             "artist": "W O L F C L U B",
             "id": 1487738849
+        },
+        {
+            "name": "Memory Reboot",
+            "artist": "VØJ",
+            "id": 2013880610
         },
         {
             "name": "One Way Dream",

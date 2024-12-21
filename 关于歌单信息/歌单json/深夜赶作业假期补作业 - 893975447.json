@@ -1,13 +1,58 @@
 {
     "playlist_info": {
         "name": "深夜赶作业/假期补作业",
-        "trackcount": 522,
-        "playcount": 9954986,
-        "creator": "TneHei",
+        "trackcount": 536,
+        "playcount": 9971297,
+        "creator": "黑川卓羽",
         "createDate": "2017-08-25",
-        "heat": 4657.0
+        "heat": 4481.0
     },
     "songs": [
+        {
+            "name": "EveryTimeWeTouch (旋律完整版)",
+            "artist": "吉野一郎",
+            "id": 1973866985
+        },
+        {
+            "name": "野火 Wildfire",
+            "artist": "HOYO-MiX",
+            "id": 2045806409
+        },
+        {
+            "name": "让风告诉你",
+            "artist": "林宝馨",
+            "id": 2053099516
+        },
+        {
+            "name": "最好的安排",
+            "artist": "曲婉婷",
+            "id": 421203948
+        },
+        {
+            "name": "最后一页",
+            "artist": "范倪Liu",
+            "id": 1930288629
+        },
+        {
+            "name": "Komorebi",
+            "artist": "m-taku",
+            "id": 29803287
+        },
+        {
+            "name": "春娇与志明（0.9x变速降调）",
+            "artist": "SongLong",
+            "id": 1986771025
+        },
+        {
+            "name": "悬溺",
+            "artist": "葛东琪",
+            "id": 1397345903
+        },
+        {
+            "name": "Wake (Live)",
+            "artist": "Hillsong Young & Free",
+            "id": 1873321491
+        },
         {
             "name": "无数",
             "artist": "薛之谦",
@@ -32,11 +77,6 @@
             "name": "ハルジオン",
             "artist": "YOASOBI",
             "id": 1444071945
-        },
-        {
-            "name": "Komorebi",
-            "artist": "m-taku",
-            "id": 29803287
         },
         {
             "name": "如果爱忘了",
@@ -449,7 +489,7 @@
             "id": 29760006
         },
         {
-            "name": "太阳 (完整版) (翻自 邱振哲) ",
+            "name": "太阳 (完整版) (翻自 邱振哲)",
             "artist": "程佳佳",
             "id": 1387178379
         },
@@ -560,7 +600,7 @@
         },
         {
             "name": "Sold Out",
-            "artist": "Hawk Nelson",
+            "artist": "Jonathan Steingard",
             "id": 31010566
         },
         {
@@ -764,7 +804,7 @@
             "id": 1297742771
         },
         {
-            "name": "无心（吉他版）（翻自 GUMI） ",
+            "name": "无心（吉他版）（翻自 GUMI）",
             "artist": "黑崎子",
             "id": 1320705041
         },
@@ -1610,7 +1650,7 @@
         },
         {
             "name": "Fly Away",
-            "artist": "Anjulie",
+            "artist": "TheFatRat",
             "id": 480648424
         },
         {
@@ -1707,11 +1747,6 @@
             "name": "華陽炎-Hana Kagerou-(original extend)",
             "artist": "Kuroa*",
             "id": 32717973
-        },
-        {
-            "name": "九九八十一【柔情版】",
-            "artist": "倪莫问",
-            "id": 442030089
         },
         {
             "name": "Shape of You",

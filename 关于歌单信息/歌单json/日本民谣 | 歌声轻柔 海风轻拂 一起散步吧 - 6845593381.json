@@ -2,36 +2,26 @@
     "playlist_info": {
         "name": "日本民谣 | 歌声轻柔 海风轻拂 一起散步吧",
         "trackcount": 30,
-        "playcount": 4829324,
+        "playcount": 5020029,
         "creator": "云音乐官方歌单",
         "createDate": "2021-07-06",
-        "heat": 6684.0
+        "heat": 6164.0
     },
     "songs": [
         {
-            "name": "moonlight-Binaural recording ver.- (acoustic selection -ACOMOON-)",
-            "artist": "moumoon",
-            "id": 509726460
+            "name": "ゆめうつつ",
+            "artist": "Lamp",
+            "id": 22666070
         },
         {
-            "name": "からあげ",
-            "artist": "福原希己江",
-            "id": 22779941
+            "name": "呼吸",
+            "artist": "kyooo",
+            "id": 607869
         },
         {
-            "name": "いつかはまた",
-            "artist": "里帰り",
-            "id": 833669
-        },
-        {
-            "name": "秘密",
-            "artist": "日向文",
-            "id": 484249934
-        },
-        {
-            "name": "ありがとう···",
-            "artist": "KOKIA",
-            "id": 543798303
+            "name": "风をあつめて",
+            "artist": "Happy End",
+            "id": 742219
         },
         {
             "name": "夏がくれば",
@@ -39,29 +29,29 @@
             "id": 29273895
         },
         {
-            "name": "冲绳民谣",
-            "artist": "程璧",
-            "id": 30870616
-        },
-        {
-            "name": "waltz for hulot",
-            "artist": "mamerico",
-            "id": 26131191
-        },
-        {
-            "name": "青の時間",
-            "artist": "南波志帆",
-            "id": 27694154
-        },
-        {
-            "name": "レースのむこう",
+            "name": "Dawn in the Adan",
             "artist": "青葉市子",
-            "id": 22716686
+            "id": 1499829264
         },
         {
-            "name": "明日の朝には",
-            "artist": "ハンバート ハンバート",
-            "id": 740611
+            "name": "二十歳の恋",
+            "artist": "Lamp",
+            "id": 22666074
+        },
+        {
+            "name": "Sagu Palmʼs Song",
+            "artist": "青葉市子",
+            "id": 1499829262
+        },
+        {
+            "name": "ゆめいろワルツ",
+            "artist": "イノトモ",
+            "id": 28049184
+        },
+        {
+            "name": "夜が明けたら",
+            "artist": "浅川マキ",
+            "id": 554219
         },
         {
             "name": "おなじ話",
@@ -69,59 +59,19 @@
             "id": 27984994
         },
         {
-            "name": "世界の約束",
-            "artist": "竹仲絵里",
-            "id": 22715759
+            "name": "木星",
+            "artist": "Canappeco",
+            "id": 701028
         },
         {
-            "name": "トウヒコウ",
-            "artist": "やなせなな",
-            "id": 673429
+            "name": "ふしあわせという名の猫",
+            "artist": "浅川マキ",
+            "id": 554221
         },
         {
-            "name": "花鳥風月",
-            "artist": "森山直太朗",
-            "id": 464790
-        },
-        {
-            "name": "涙",
-            "artist": "川嶋あい",
-            "id": 22770769
-        },
-        {
-            "name": "祭りのあと",
-            "artist": "やなせなな",
-            "id": 673450
-        },
-        {
-            "name": "五月",
-            "artist": "kyooo",
-            "id": 29273896
-        },
-        {
-            "name": "tricolore",
+            "name": "a border",
             "artist": "mamerico",
-            "id": 26131197
-        },
-        {
-            "name": "想い想われ",
-            "artist": "福原希己江",
-            "id": 33343705
-        },
-        {
-            "name": "キムガナサ",
-            "artist": "やなわらばー",
-            "id": 866643
-        },
-        {
-            "name": "Do you wanna see it?",
-            "artist": "ハンバート ハンバート",
-            "id": 740401
-        },
-        {
-            "name": "たとえばぼくが死んだら",
-            "artist": "森田童子",
-            "id": 609974
+            "id": 26131196
         },
         {
             "name": "望郷",
@@ -129,34 +79,84 @@
             "id": 22727870
         },
         {
-            "name": "童神",
-            "artist": "古謝美佐子",
-            "id": 603499
+            "name": "Perfect",
+            "artist": "羊毛とおはな",
+            "id": 865311
         },
         {
-            "name": "彼方からの手纸(アコースティック version)",
-            "artist": "木下美紗都",
-            "id": 600569
+            "name": "girlfriend",
+            "artist": "ちびた",
+            "id": 730683
         },
         {
-            "name": "会いたい言葉",
-            "artist": "BEGIN",
-            "id": 694106
+            "name": "情熱と残響[Acoustic ver]",
+            "artist": "ちびた",
+            "id": 38358165
         },
         {
-            "name": "海の声",
-            "artist": "Softly",
-            "id": 430297644
+            "name": "トウヒコウ",
+            "artist": "やなせなな",
+            "id": 673429
         },
         {
-            "name": "学生时代 (ペギー叶山1964)",
-            "artist": "原由子",
-            "id": 576241
+            "name": "月虹",
+            "artist": "キクチリョウタ",
+            "id": 33715754
         },
         {
-            "name": "童神～ヤマトグチ～",
+            "name": "たとえばぼくが死んだら",
+            "artist": "森田童子",
+            "id": 609974
+        },
+        {
+            "name": "悲しみ忘れた悲しさに",
+            "artist": "南正人",
+            "id": 27974675
+        },
+        {
+            "name": "仆の梦",
+            "artist": "森 恵",
+            "id": 22694948
+        },
+        {
+            "name": "それぞれに",
+            "artist": "中孝介",
+            "id": 549912
+        },
+        {
+            "name": "岛人ぬ宝",
+            "artist": "告井延隆",
+            "id": 26303275
+        },
+        {
+            "name": "お家へ帰ろう",
+            "artist": "rain book",
+            "id": 805387
+        },
+        {
+            "name": "Alice",
+            "artist": "古川本舗",
+            "id": 730695
+        },
+        {
+            "name": "テディ",
+            "artist": "Canappeco",
+            "id": 701030
+        },
+        {
+            "name": "戻り橋思ひ川",
+            "artist": "岡林信康",
+            "id": 492822
+        },
+        {
+            "name": "涙そうそう(スペシャル・ライブ・ヴァージョン)(夏川りみ with )",
             "artist": "夏川りみ",
-            "id": 29017263
+            "id": 624650
+        },
+        {
+            "name": "君と淋しい风になる",
+            "artist": "森田童子",
+            "id": 609811
         }
     ]
 }

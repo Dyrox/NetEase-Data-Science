@@ -2,106 +2,51 @@
     "playlist_info": {
         "name": "90年代摇滚 | 1990年代摇滚精选作品",
         "trackcount": 30,
-        "playcount": 2471757,
+        "playcount": 2542031,
         "creator": "云音乐官方歌单",
         "createDate": "2021-03-09",
-        "heat": 2936.0
+        "heat": 2723.0
     },
     "songs": [
         {
-            "name": "Untitled (Remastered)",
-            "artist": "Oasis",
-            "id": 17822717
-        },
-        {
-            "name": "Coffee + TV (Radio Edit)",
-            "artist": "Blur",
-            "id": 3951581
-        },
-        {
-            "name": "My Insatiable One",
-            "artist": "Suede",
-            "id": 4279537
-        },
-        {
-            "name": "Lily (My One And Only)",
+            "name": "By Starlight",
             "artist": "The Smashing Pumpkins",
-            "id": 22469988
+            "id": 22469989
         },
         {
-            "name": "Step Out (Remastered)",
-            "artist": "Oasis",
-            "id": 432821675
-        },
-        {
-            "name": "The Big Time",
+            "name": "The Living Dead",
             "artist": "Suede",
-            "id": 4279562
+            "id": 4279192
         },
         {
-            "name": "Permanent Daylight",
-            "artist": "Radiohead",
-            "id": 29953917
-        },
-        {
-            "name": "An Ode To No One",
-            "artist": "The Smashing Pumpkins",
-            "id": 22469970
-        },
-        {
-            "name": "Polyethylene (Parts 1 & 2)",
-            "artist": "Radiohead",
-            "id": 22497490
-        },
-        {
-            "name": "Pearl Jam - Daughter (Acoustic).",
-            "artist": "Pearl Jam",
-            "id": 26766222
-        },
-        {
-            "name": "Don't You Know",
-            "artist": "Pulp",
-            "id": 18304369
-        },
-        {
-            "name": "Molly's Lips",
-            "artist": "Nirvana",
-            "id": 4209523
-        },
-        {
-            "name": "Mansun's Only Love Song",
-            "artist": "Mansun",
-            "id": 4175452
-        },
-        {
-            "name": "She Makes My Nose Bleed",
-            "artist": "Mansun",
-            "id": 4175459
-        },
-        {
-            "name": "Waking Up (Album Version)",
+            "name": "Car Song (Album Version)",
             "artist": "Elastica",
-            "id": 17698011
+            "id": 17698004
         },
         {
-            "name": "Dan Abnormal (2012 Remaster)",
-            "artist": "Blur",
-            "id": 16880815
+            "name": "Street Spirit (Fade Out)",
+            "artist": "Radiohead",
+            "id": 22497918
         },
         {
-            "name": "Starcrazy",
-            "artist": "Suede",
-            "id": 4279269
-        },
-        {
-            "name": "Champagne Supernova",
+            "name": "Acquiesce",
             "artist": "Oasis",
-            "id": 4226218
+            "id": 4226379
         },
         {
-            "name": "Cum On Feel The Noize (Remastered)",
-            "artist": "Oasis",
-            "id": 432821677
+            "name": "Annie (Album Version)",
+            "artist": "Elastica",
+            "id": 17698002
+        },
+        {
+            "name": "Dark Mavis [Hidden Track]",
+            "artist": "Mansun",
+            "id": 4175503
+        },
+        {
+            "name": "India Rubber",
+            "artist": "Radiohead",
+            "id": 22497599
         },
         {
             "name": "Europe Is Our Playground (New Version)",
@@ -109,54 +54,109 @@
             "id": 4279203
         },
         {
-            "name": "To The Birds",
-            "artist": "Suede",
-            "id": 4279543
+            "name": "Pennyroyal Tea",
+            "artist": "Nirvana",
+            "id": 27081568
         },
         {
-            "name": "(It's Good) To Be Free",
+            "name": "Morning Glory (Remastered)",
             "artist": "Oasis",
-            "id": 4226403
+            "id": 17822721
         },
         {
-            "name": "D'You Know What I Mean? (Remastered)",
-            "artist": "Oasis",
-            "id": 1316609383
+            "name": "Legacy",
+            "artist": "Mansun",
+            "id": 22322595
         },
         {
-            "name": "Underneath the Sky (Remastered)",
-            "artist": "Oasis",
-            "id": 432821676
+            "name": "Breaking Into Heaven",
+            "artist": "The Stone Roses",
+            "id": 21942046
         },
         {
-            "name": "Half The World Away",
-            "artist": "Oasis",
-            "id": 4226407
+            "name": "Gravity Grave",
+            "artist": "The Verve",
+            "id": 4333697
         },
         {
-            "name": "Jellybelly",
-            "artist": "The Smashing Pumpkins",
-            "id": 22469965
+            "name": "All Across The Sands",
+            "artist": "The Stone Roses",
+            "id": 4339115
         },
         {
-            "name": "To Forgive",
-            "artist": "The Smashing Pumpkins",
-            "id": 22469969
+            "name": "She's so Loose",
+            "artist": "Supergrass",
+            "id": 21699472
         },
         {
-            "name": "Pearly",
+            "name": "Jeremy",
+            "artist": "Pearl Jam",
+            "id": 3229003
+        },
+        {
+            "name": "Jennifer's Body (Album Version)",
+            "artist": "Hole",
+            "id": 18217291
+        },
+        {
+            "name": "Anyone Can Play Guitar",
             "artist": "Radiohead",
-            "id": 22497491
+            "id": 22605226
         },
         {
-            "name": "Yuko and Hiro (2012 Remaster)",
-            "artist": "Blur",
-            "id": 16880817
+            "name": "When I Come Around (Album Version)",
+            "artist": "Green Day",
+            "id": 26796641
         },
         {
-            "name": "Modern Boys [*]",
+            "name": "Vegetable",
+            "artist": "Radiohead",
+            "id": 22605228
+        },
+        {
+            "name": "Brass In Pocket",
             "artist": "Suede",
-            "id": 4279376
+            "id": 4279580
+        },
+        {
+            "name": "Where The Pigs Dont Fly",
+            "artist": "Suede",
+            "id": 4279554
+        },
+        {
+            "name": "Starcrazy",
+            "artist": "Suede",
+            "id": 4279269
+        },
+        {
+            "name": "Prove Yourself",
+            "artist": "Radiohead",
+            "id": 22605229
+        },
+        {
+            "name": "By the Sea",
+            "artist": "Suede",
+            "id": 4279263
+        },
+        {
+            "name": "The Masterplan (Remastered)",
+            "artist": "Oasis",
+            "id": 432821680
+        },
+        {
+            "name": "New Generation",
+            "artist": "Suede",
+            "id": 4279356
+        },
+        {
+            "name": "Love Is Blind",
+            "artist": "Pulp",
+            "id": 18304309
+        },
+        {
+            "name": "Digsy's Dinner",
+            "artist": "Oasis",
+            "id": 17822793
         }
     ]
 }

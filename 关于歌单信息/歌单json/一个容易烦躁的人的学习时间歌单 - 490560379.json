@@ -1,13 +1,18 @@
 {
     "playlist_info": {
         "name": "一个容易烦躁的人的学习时间歌单",
-        "trackcount": 147,
-        "playcount": 860536,
+        "trackcount": 149,
+        "playcount": 912179,
         "creator": "7Monsoon",
         "createDate": "2016-10-20",
-        "heat": 351.0
+        "heat": 359.0
     },
     "songs": [
+        {
+            "name": "The First Time I Saw You, I Thought You Were a Star",
+            "artist": "Dennis Kuo",
+            "id": 1375935121
+        },
         {
             "name": "Starry Winter",
             "artist": "Dennis Kuo",
@@ -69,7 +74,7 @@
             "id": 1309814583
         },
         {
-            "name": "Beehive (Original Mix)",
+            "name": "Beehive",
             "artist": "Team Astro",
             "id": 1814950677
         },
@@ -84,7 +89,7 @@
             "id": 1449953482
         },
         {
-            "name": "Lilac (Original Mix)",
+            "name": "Lilac",
             "artist": "Kainbeats",
             "id": 1806678929
         },
@@ -494,7 +499,7 @@
             "id": 18057481
         },
         {
-            "name": "人间失格~メインテーマ~",
+            "name": "人間失格～メインテーマ～",
             "artist": "中島ノブユキ",
             "id": 482823
         },
@@ -702,6 +707,11 @@
             "name": "Playing Love from The Legend of 1900",
             "artist": "马友友",
             "id": 1698069
+        },
+        {
+            "name": "Romance in F Minor, Op. 5, TH 127",
+            "artist": "Sviatoslav Richter",
+            "id": 3541092
         },
         {
             "name": "Images pour Piano, Set 1, L 110:I. Reflets dans l'eau (Reflections on the Water)",

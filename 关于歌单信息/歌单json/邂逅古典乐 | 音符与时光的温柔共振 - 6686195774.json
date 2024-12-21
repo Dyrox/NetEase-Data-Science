@@ -1,11 +1,11 @@
 {
     "playlist_info": {
         "name": "邂逅古典乐 | 音符与时光的温柔共振",
-        "trackcount": 60,
-        "playcount": 510118,
+        "trackcount": 50,
+        "playcount": 520916,
         "creator": "云音乐官方歌单",
         "createDate": "2021-03-30",
-        "heat": 621.0
+        "heat": 570.0
     },
     "songs": [
         {
@@ -39,9 +39,9 @@
             "id": 1960553049
         },
         {
-            "name": "Nostalgias de Febrero",
-            "artist": "Gerson Lizama",
-            "id": 2017711269
+            "name": "Après un rêve, Op. 7, No. 1",
+            "artist": "马友友",
+            "id": 34766085
         },
         {
             "name": "String Quartet No. 3, Op. 44 No. 1, MWV R30: II. Menuetto. Up poco allegretto",
@@ -124,11 +124,6 @@
             "id": 1060967
         },
         {
-            "name": "Les rêves orientaux",
-            "artist": "Ozymandias",
-            "id": 1808681
-        },
-        {
             "name": "7 Virtuoso Etudes on Gershwin Songs: No. 7, The Man I Love",
             "artist": "Nicholas McCarthy",
             "id": 35775057
@@ -159,11 +154,6 @@
             "id": 2034612279
         },
         {
-            "name": "River Flows in You",
-            "artist": "Yiruma",
-            "id": 26237342
-        },
-        {
             "name": "Wind Quintet in E-Flat Major, WoO 208, Hess 19:II. Adagio maestoso",
             "artist": "Otto Racz",
             "id": 465025264
@@ -184,19 +174,9 @@
             "id": 5105959
         },
         {
-            "name": "Solas",
-            "artist": "Jamie Duffy",
-            "id": 1916028884
-        },
-        {
             "name": "The Nutcracker, Op.71 a: III. Waltz of the Flowers",
             "artist": "Pyotr Ilyich Tchaikovsky",
             "id": 561423493
-        },
-        {
-            "name": "Somewhere in Time",
-            "artist": "John Barry",
-            "id": 1495579
         },
         {
             "name": "Piano Concerto No. 2 in C Minor, Op. 18: I. Moderato",
@@ -204,24 +184,9 @@
             "id": 559012463
         },
         {
-            "name": "The Four Seasons: Winter",
-            "artist": "Antonio Vivaldi",
-            "id": 531183530
-        },
-        {
-            "name": "Cornfield Chase",
-            "artist": "Dorian Marko",
-            "id": 1923667007
-        },
-        {
             "name": "Rinaldo, HWV 7, Act II: Lascia ch'io pianga",
             "artist": "Georg Friedrich Händel",
             "id": 569657021
-        },
-        {
-            "name": "La Campanella",
-            "artist": "David Garrett",
-            "id": 27898876
         },
         {
             "name": "Winter (L'Inverno) Op.8 No.4 F Minor: Allegro Non Molto",
@@ -237,11 +202,6 @@
             "name": "Orchestral Suite No. 2 in B Minor, BWV 1067:I. Ouverture",
             "artist": "William Bennett",
             "id": 2014221264
-        },
-        {
-            "name": "Passacaglia (Piano Version) (Piano Version)",
-            "artist": "Tolunay Akay",
-            "id": 1451301002
         },
         {
             "name": "Divertimento in B flat, K.240:2. Andante grazioso",
@@ -274,11 +234,6 @@
             "id": 5114000
         },
         {
-            "name": "Can You See My Heart",
-            "artist": "Shin Giwon Piano",
-            "id": 1446553568
-        },
-        {
             "name": "Swan Lake, Op.20 - Act 1:No.7 Sujet",
             "artist": "The National Philharmonic Orchestra",
             "id": 402154919
@@ -292,11 +247,6 @@
             "name": "Symphony No. 5 in C Minor, Op. 67:I. Allegro con brio",
             "artist": "Wiener Philharmoniker",
             "id": 1943299732
-        },
-        {
-            "name": "Idea 10",
-            "artist": "Gibran Alcocer",
-            "id": 1962771725
         },
         {
             "name": "Nocturne No.1 In B Flat Minor, Op.9 No.1",

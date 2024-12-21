@@ -1,13 +1,63 @@
 {
     "playlist_info": {
         "name": "和平精英主播素材曲",
-        "trackcount": 211,
-        "playcount": 1841177,
+        "trackcount": 220,
+        "playcount": 1864387,
         "creator": "瓜子新",
         "createDate": "2020-11-01",
-        "heat": 1897.0
+        "heat": 1757.0
     },
     "songs": [
+        {
+            "name": "Bandit",
+            "artist": "DJ七七",
+            "id": 2065669099
+        },
+        {
+            "name": "Graveyard Phonk（CampNouu remix）",
+            "artist": "CampNouu",
+            "id": 1916178803
+        },
+        {
+            "name": "Fainted Priest",
+            "artist": "Fatrik",
+            "id": 1940057567
+        },
+        {
+            "name": "Into You (Matvey Emerson Remix)",
+            "artist": "DubVision",
+            "id": 1449935588
+        },
+        {
+            "name": "Empty Love",
+            "artist": "Lulleaux",
+            "id": 1435828582
+        },
+        {
+            "name": "PRINCE OF DARKNESS",
+            "artist": "HAMZA INC.",
+            "id": 1952888334
+        },
+        {
+            "name": "Bet On Me (Organic Version)",
+            "artist": "Walk off the Earth",
+            "id": 1938756186
+        },
+        {
+            "name": "Roses",
+            "artist": "The Chainsmokers",
+            "id": 552991500
+        },
+        {
+            "name": "Kate Bush-Running Up That Hill",
+            "artist": "LINGZEA",
+            "id": 2047985543
+        },
+        {
+            "name": "Feel the Fire (Egzod Remix)",
+            "artist": "Pluto",
+            "id": 444324932
+        },
         {
             "name": "Dogs (Original Version)",
             "artist": "HVOB",
@@ -195,7 +245,7 @@
         },
         {
             "name": "Ass Like That",
-            "artist": "Psaxxx",
+            "artist": "அலாதீன் இசை",
             "id": 1948083890
         },
         {
@@ -217,11 +267,6 @@
             "name": "One Kiss X I Was Never There",
             "artist": "Just Lowkey",
             "id": 1967998969
-        },
-        {
-            "name": "她离开我的时候",
-            "artist": "少爷",
-            "id": 1934034504
         },
         {
             "name": "光粒（Light Particle）",
@@ -614,7 +659,7 @@
             "id": 1478124550
         },
         {
-            "name": "Cyka Blyat",
+            "name": "Сука блядь",
             "artist": "DJ Blyatman",
             "id": 1368324900
         },

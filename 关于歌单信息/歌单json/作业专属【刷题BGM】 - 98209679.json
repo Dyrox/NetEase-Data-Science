@@ -1,13 +1,23 @@
 {
     "playlist_info": {
         "name": "作业专属【刷题BGM】",
-        "trackcount": 117,
-        "playcount": 59949112,
+        "trackcount": 119,
+        "playcount": 60010900,
         "creator": "橘子可樂限定",
         "createDate": "2015-08-15",
-        "heat": 20826.0
+        "heat": 20230.0
     },
     "songs": [
+        {
+            "name": "Angel Pt. 2",
+            "artist": "JVKE",
+            "id": 2055960887
+        },
+        {
+            "name": "Die For You",
+            "artist": "The Weeknd",
+            "id": 442867526
+        },
         {
             "name": "Miss You Missing Me",
             "artist": "Jane & The Boy",
@@ -17,16 +27,6 @@
             "name": "Watch Me Work",
             "artist": "Tinashe",
             "id": 1304347114
-        },
-        {
-            "name": "Left and Right (Feat. Jung Kook of BTS)",
-            "artist": "Charlie Puth",
-            "id": 1957818892
-        },
-        {
-            "name": "Riot (feat. Mario Bosque & Lina Bosque)",
-            "artist": "Wes Harris",
-            "id": 1446938438
         },
         {
             "name": "everything i wanted",
@@ -42,6 +42,16 @@
             "name": "Landing Guy",
             "artist": "刘昊霖",
             "id": 422428548
+        },
+        {
+            "name": "2 soon",
+            "artist": "keshi",
+            "id": 1303019276
+        },
+        {
+            "name": "Left and Right (Feat. Jung Kook of BTS)",
+            "artist": "Charlie Puth",
+            "id": 1957818892
         },
         {
             "name": "idontwannabeyouanymore",
@@ -209,7 +219,7 @@
             "id": 1320185104
         },
         {
-            "name": "Just The Same",
+            "name": "Just the Same",
             "artist": "Charlotte Lawrence",
             "id": 533455199
         },

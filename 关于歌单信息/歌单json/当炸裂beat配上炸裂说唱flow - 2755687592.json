@@ -1,13 +1,58 @@
 {
     "playlist_info": {
         "name": "当炸裂beat配上炸裂说唱flow",
-        "trackcount": 730,
-        "playcount": 4419498,
+        "trackcount": 732,
+        "playcount": 4614348,
         "creator": "多写loop容易秃头",
         "createDate": "2019-04-14",
-        "heat": 2875.0
+        "heat": 2834.0
     },
     "songs": [
+        {
+            "name": "What It Is (Block Boy)",
+            "artist": "Doechii",
+            "id": 2031003603
+        },
+        {
+            "name": "Trophies",
+            "artist": "Drake",
+            "id": 28177246
+        },
+        {
+            "name": "RICH BOY",
+            "artist": "payton",
+            "id": 1897251217
+        },
+        {
+            "name": "PARTy T1M3",
+            "artist": "Tyga",
+            "id": 2076338962
+        },
+        {
+            "name": "Party",
+            "artist": "KAEF",
+            "id": 1396296183
+        },
+        {
+            "name": "If I Want You",
+            "artist": "DDG",
+            "id": 1974609714
+        },
+        {
+            "name": "SIRENS",
+            "artist": "Travis Scott",
+            "id": 2068069289
+        },
+        {
+            "name": "FE!N (feat. Playboi Carti)",
+            "artist": "Travis Scott",
+            "id": 2068069291
+        },
+        {
+            "name": "Am I Dreaming",
+            "artist": "Metro Boomin",
+            "id": 2052348232
+        },
         {
             "name": "Off The Grid",
             "artist": "Kanye West",
@@ -349,11 +394,6 @@
             "id": 1428911451
         },
         {
-            "name": "刘华强 Liu Huaqiang（prod by brokeboiishawty）",
-            "artist": "mac ova seas",
-            "id": 1885800438
-        },
-        {
             "name": "Burn The Hoods",
             "artist": "Ski Mask the Slump God",
             "id": 1465261623
@@ -687,11 +727,6 @@
             "name": "Gooba",
             "artist": "6ix9ine",
             "id": 1446630021
-        },
-        {
-            "name": "丛林之王 (feat. Melo)",
-            "artist": "PSY.P",
-            "id": 1446809125
         },
         {
             "name": "Riot",
@@ -1119,16 +1154,6 @@
             "id": 1408822919
         },
         {
-            "name": "Uncomfortable (feat. Masiwei)",
-            "artist": "KnowKnow",
-            "id": 1408944788
-        },
-        {
-            "name": "Face Power (feat. Jackson Wang)",
-            "artist": "KnowKnow",
-            "id": 1408941728
-        },
-        {
             "name": "Who Ya Gang",
             "artist": "Hardo",
             "id": 443070034
@@ -1202,11 +1227,6 @@
             "name": "恭喜发财",
             "artist": "Higher Brothers",
             "id": 1342022280
-        },
-        {
-            "name": "Like This",
-            "artist": "Sky Katz",
-            "id": 1345445921
         },
         {
             "name": "Link Up",
@@ -1309,11 +1329,6 @@
             "id": 1339699766
         },
         {
-            "name": "Higher Speed Club (feat. BABYBO)",
-            "artist": "KnowKnow",
-            "id": 1408944787
-        },
-        {
             "name": "MAMACITA",
             "artist": "Tyga",
             "id": 1399088844
@@ -1357,11 +1372,6 @@
             "name": "Big Booty (feat. Megan Thee Stallion)",
             "artist": "Gucci Mane",
             "id": 1397140986
-        },
-        {
-            "name": "DWAY!",
-            "artist": "王嘉尔",
-            "id": 1391666781
         },
         {
             "name": "Where This Flower Blooms",
@@ -1999,7 +2009,7 @@
             "id": 554200158
         },
         {
-            "name": "Hair Down",
+            "name": "Hair Down (feat. Kendrick Lamar)",
             "artist": "SiR",
             "id": 1383034413
         },
@@ -2224,7 +2234,7 @@
             "id": 1296511922
         },
         {
-            "name": "Back Out (feat. Ty Dolla $ign & Dom Kennedy)",
+            "name": "Back Out (with Ty Dolla $ign & Dom Kennedy)",
             "artist": "24hrs",
             "id": 1358178891
         },
@@ -2374,11 +2384,6 @@
             "id": 1376091996
         },
         {
-            "name": "Hate Myself",
-            "artist": "鬼卞",
-            "id": 1378715605
-        },
-        {
             "name": "92 Explorer",
             "artist": "Post Malone",
             "id": 555974045
@@ -2447,11 +2452,6 @@
             "name": "10 Bands",
             "artist": "Joyner Lucas",
             "id": 1377402588
-        },
-        {
-            "name": "MK Circus",
-            "artist": "Dough-Boy",
-            "id": 1345651478
         },
         {
             "name": "My Type",
@@ -2734,7 +2734,7 @@
             "id": 27612033
         },
         {
-            "name": "Chanel (Go Get It) ",
+            "name": "Chanel (Go Get It)",
             "artist": "Young Thug",
             "id": 1302070214
         },
@@ -3039,7 +3039,7 @@
             "id": 509480642
         },
         {
-            "name": "Shake Ya Ass (feat. P-Lo)",
+            "name": "shake ya ass (feat. P-Lo)",
             "artist": "Blackbear",
             "id": 417953365
         },
@@ -3209,7 +3209,7 @@
             "id": 27646979
         },
         {
-            "name": "LEEDLE LEEDLE LEE (prod. swvde.) ",
+            "name": "LEEDLE LEEDLE LEE (prod. swvde.)",
             "artist": "TrippyThaKid",
             "id": 1324899705
         },
@@ -3382,11 +3382,6 @@
             "name": "Start a Riot",
             "artist": "DUCKWRTH",
             "id": 1333336510
-        },
-        {
-            "name": "Red",
-            "artist": "王嘉尔",
-            "id": 1339422595
         },
         {
             "name": "One Punch Man",

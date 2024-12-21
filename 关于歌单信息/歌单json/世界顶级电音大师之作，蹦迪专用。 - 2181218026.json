@@ -1,13 +1,23 @@
 {
     "playlist_info": {
         "name": "世界顶级电音大师之作，蹦迪专用。",
-        "trackcount": 176,
-        "playcount": 987049,
+        "trackcount": 178,
+        "playcount": 1107381,
         "creator": "未忈en",
         "createDate": "2018-04-11",
-        "heat": 518.0
+        "heat": 554.0
     },
     "songs": [
+        {
+            "name": "Seven Nation Army",
+            "artist": "DMNDS",
+            "id": 1834205545
+        },
+        {
+            "name": "Scream & Shout",
+            "artist": "will.i.am",
+            "id": 25648030
+        },
         {
             "name": "Go Again (feat. ELYSA)",
             "artist": "King CAAN",
@@ -619,7 +629,7 @@
             "id": 28996325
         },
         {
-            "name": "Mandala (feat. Mitika) [Official Sunburn 2016 Anthem Extended]",
+            "name": "Mandala (feat. Mitika) [Sunburn 2016 Anthem]",
             "artist": "KSHMR",
             "id": 448916609
         },

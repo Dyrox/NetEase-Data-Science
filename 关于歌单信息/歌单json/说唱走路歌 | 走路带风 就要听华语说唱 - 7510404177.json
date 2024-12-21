@@ -2,10 +2,10 @@
     "playlist_info": {
         "name": "说唱走路歌 | 走路带风 就要听华语说唱",
         "trackcount": 99,
-        "playcount": 1526183,
+        "playcount": 1596089,
         "creator": "云音乐官方歌单",
         "createDate": "2022-06-28",
-        "heat": 4176.0
+        "heat": 3490.0
     },
     "songs": [
         {
@@ -24,6 +24,11 @@
             "id": 1466958043
         },
         {
+            "name": "Groove tonight",
+            "artist": "chinnyika成为家",
+            "id": 2083802432
+        },
+        {
             "name": "地球蓝 Aqua Blue",
             "artist": "刘柏辛Lexie",
             "id": 1411536851
@@ -35,7 +40,7 @@
         },
         {
             "name": "鲁珀特之泪做冰激凌",
-            "artist": "Sino周夏影",
+            "artist": "周夏影",
             "id": 1937702298
         },
         {
@@ -47,6 +52,11 @@
             "name": "一分钟",
             "artist": "恶梦Yk",
             "id": 1397298823
+        },
+        {
+            "name": "嘉兴平湖小调",
+            "artist": "chinnyika成为家",
+            "id": 2061011421
         },
         {
             "name": "Beautiful",
@@ -220,7 +230,7 @@
         },
         {
             "name": "SOSA",
-            "artist": "孩子应该走自己的路",
+            "artist": "KIDWAY",
             "id": 1876742600
         },
         {
@@ -382,11 +392,6 @@
             "name": "类似钻石（Run It）",
             "artist": "YTH FrFrBans",
             "id": 1804374628
-        },
-        {
-            "name": "薄荷水 (Prod.Muto)",
-            "artist": "SASIOVERLXRD",
-            "id": 1886329899
         },
         {
             "name": "Lilith 2",

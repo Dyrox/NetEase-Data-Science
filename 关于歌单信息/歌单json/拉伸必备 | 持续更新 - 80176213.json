@@ -1,13 +1,23 @@
 {
     "playlist_info": {
         "name": "拉伸必备 | 持续更新",
-        "trackcount": 406,
-        "playcount": 2852699,
+        "trackcount": 408,
+        "playcount": 2864340,
         "creator": "喵星人搬来的救兵",
         "createDate": "2015-06-10",
-        "heat": 968.0
+        "heat": 944.0
     },
     "songs": [
+        {
+            "name": "It's Quiet Uptown",
+            "artist": "Kelly Clarkson",
+            "id": 439053760
+        },
+        {
+            "name": "Angel Pt. 1",
+            "artist": "Kodak Black",
+            "id": 2048758521
+        },
         {
             "name": "Always Remember Us This Way",
             "artist": "Lady Gaga",
@@ -39,7 +49,7 @@
             "id": 1990550269
         },
         {
-            "name": "Promise",
+            "name": "Past Lives / Promise",
             "artist": "sapientdream",
             "id": 1308782023
         },
@@ -109,7 +119,7 @@
             "id": 553360124
         },
         {
-            "name": "Lost ",
+            "name": "Lost",
             "artist": "Jai Wolf",
             "id": 1299998060
         },

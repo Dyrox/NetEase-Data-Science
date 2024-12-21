@@ -1,22 +1,217 @@
 {
     "playlist_info": {
         "name": "【篮球】适合节奏感控卫的歌单",
-        "trackcount": 567,
-        "playcount": 798028,
+        "trackcount": 615,
+        "playcount": 862729,
         "creator": "Hestiaswc",
         "createDate": "2021-06-28",
-        "heat": 1091.0
+        "heat": 1049.0
     },
     "songs": [
         {
-            "name": "Players",
-            "artist": "Coi Leray",
-            "id": 2002926115
+            "name": "飞天茅台",
+            "artist": "俞天时KOZAY",
+            "id": 2014046738
         },
         {
-            "name": "Differences（Instrumental x Slowed）",
-            "artist": "As2yl",
-            "id": 1991850121
+            "name": "Burn Me Down",
+            "artist": "hanji",
+            "id": 2051980983
+        },
+        {
+            "name": "BBO (Bad ******* Only)",
+            "artist": "Migos",
+            "id": 533392778
+        },
+        {
+            "name": "Money In The Grave",
+            "artist": "Drake",
+            "id": 1371924626
+        },
+        {
+            "name": "20 Min",
+            "artist": "Schawtsa",
+            "id": 2027042103
+        },
+        {
+            "name": "INDUSTRY BABY",
+            "artist": "Lil Nas X",
+            "id": 2037048858
+        },
+        {
+            "name": "Birthday Sex (Main)",
+            "artist": "Jeremih",
+            "id": 1839410034
+        },
+        {
+            "name": "P2",
+            "artist": "Lil Uzi Vert",
+            "id": 1430591015
+        },
+        {
+            "name": "Swishhh",
+            "artist": "Dribble2much",
+            "id": 1378397466
+        },
+        {
+            "name": "Trip",
+            "artist": "Jacquees",
+            "id": 1342945970
+        },
+        {
+            "name": "Dribble2Much",
+            "artist": "Dribble2much",
+            "id": 1378397464
+        },
+        {
+            "name": "Jimmy Cooks",
+            "artist": "Drake",
+            "id": 1956743787
+        },
+        {
+            "name": "Antidote",
+            "artist": "Travis Scott",
+            "id": 34899556
+        },
+        {
+            "name": "Watch This",
+            "artist": "mikeeysmind",
+            "id": 2018551492
+        },
+        {
+            "name": "I Love You Baby",
+            "artist": "Paul Anka",
+            "id": 1406266995
+        },
+        {
+            "name": "Give You What You Want",
+            "artist": "Lil Tjay",
+            "id": 1996499957
+        },
+        {
+            "name": "It's Tricky",
+            "artist": "Run-D.M.C.",
+            "id": 29559708
+        },
+        {
+            "name": "None of Your Love",
+            "artist": "Lil Tjay",
+            "id": 1300595676
+        },
+        {
+            "name": "长城",
+            "artist": "马思唯",
+            "id": 1929065853
+        },
+        {
+            "name": "Baby Don't Cry (Keep Ya Head Up II)",
+            "artist": "2Pac",
+            "id": 19196976
+        },
+        {
+            "name": "Money Trees",
+            "artist": "Black Hippy",
+            "id": 26427522
+        },
+        {
+            "name": "family ties",
+            "artist": "Baby Keem",
+            "id": 1873248502
+        },
+        {
+            "name": "Ice On My Baby",
+            "artist": "Yung Bleu",
+            "id": 552575157
+        },
+        {
+            "name": "DNA.",
+            "artist": "Kendrick Lamar",
+            "id": 523030140
+        },
+        {
+            "name": "Lucid Dreams",
+            "artist": "Juice WRLD",
+            "id": 557557186
+        },
+        {
+            "name": "All Girls Are The Same",
+            "artist": "Juice WRLD",
+            "id": 566254172
+        },
+        {
+            "name": "OUT WEST",
+            "artist": "JACKBOYS",
+            "id": 1412468947
+        },
+        {
+            "name": "Let Go",
+            "artist": "Beau Young Prince",
+            "id": 1333336513
+        },
+        {
+            "name": "Big Shot (feat. Mustard)",
+            "artist": "O.T. Genasis",
+            "id": 1398523729
+        },
+        {
+            "name": "明天 (feat. 袁娅维TIA RAY)",
+            "artist": "马思唯",
+            "id": 2036171786
+        },
+        {
+            "name": "Yessirskiii",
+            "artist": "Lil Uzi Vert",
+            "id": 1430595634
+        },
+        {
+            "name": "She Make It Clap",
+            "artist": "Soulja Boy",
+            "id": 1829937441
+        },
+        {
+            "name": "Shut up My Moms Calling",
+            "artist": "Hotel Ugly",
+            "id": 1955978156
+        },
+        {
+            "name": "WHOOSISHYT",
+            "artist": "kkluv",
+            "id": 2061684613
+        },
+        {
+            "name": "By Your Side",
+            "artist": "RAYE",
+            "id": 456370693
+        },
+        {
+            "name": "Rich Nigga Shit",
+            "artist": "21 Savage",
+            "id": 1483967215
+        },
+        {
+            "name": "90210",
+            "artist": "Travis Scott",
+            "id": 34280327
+        },
+        {
+            "name": "After Hours",
+            "artist": "The Weeknd",
+            "id": 1993386096
+        },
+        {
+            "name": "Scared 2 Be Lonely",
+            "artist": "Lil Tjay",
+            "id": 2062751869
+        },
+        {
+            "name": "Guess Who's Back",
+            "artist": "Rakim",
+            "id": 21522503
+        },
+        {
+            "name": "It's Been A Long Time",
+            "artist": "Rakim",
+            "id": 21522499
         },
         {
             "name": "All My Life",
@@ -240,7 +435,7 @@
         },
         {
             "name": "Ass Like That",
-            "artist": "Psaxxx",
+            "artist": "அலாதீன் இசை",
             "id": 1948083890
         },
         {
@@ -1360,7 +1555,7 @@
         },
         {
             "name": "世界が终わるまでは… (ASL版)",
-            "artist": "上杉升",
+            "artist": "上杉昇",
             "id": 28987657
         },
         {
@@ -1374,7 +1569,7 @@
             "id": 1380100797
         },
         {
-            "name": "Promise",
+            "name": "Past Lives / Promise",
             "artist": "sapientdream",
             "id": 1308782023
         },
@@ -2310,7 +2505,7 @@
         },
         {
             "name": "少数派报告",
-            "artist": "抖音热歌DJ",
+            "artist": "Kag Chuu",
             "id": 1847286538
         },
         {
@@ -2575,7 +2770,7 @@
         },
         {
             "name": "SHE",
-            "artist": "谭成锋（老坛胡说）",
+            "artist": "Cled",
             "id": 1428303017
         },
         {
@@ -2874,7 +3069,7 @@
             "id": 1380277390
         },
         {
-            "name": "Superstar Sh*t",
+            "name": "Superstar Shit",
             "artist": "Dominic Fike",
             "id": 1466180492
         },

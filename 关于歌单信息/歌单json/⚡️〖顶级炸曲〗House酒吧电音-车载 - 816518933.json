@@ -1,13 +1,18 @@
 {
     "playlist_info": {
         "name": "⚡️〖顶级炸曲〗House酒吧电音-车载",
-        "trackcount": 111,
-        "playcount": 1325588,
+        "trackcount": 112,
+        "playcount": 1549868,
         "creator": "ValMmm",
         "createDate": "2017-07-19",
-        "heat": 610.0
+        "heat": 685.0
     },
     "songs": [
+        {
+            "name": "МАГНИТОЛА",
+            "artist": "ДЕТИ RAVE",
+            "id": 1501587268
+        },
         {
             "name": "Rotten",
             "artist": "YROR?",
@@ -209,7 +214,7 @@
             "id": 862731506
         },
         {
-            "name": "Cyka Blyat",
+            "name": "Сука блядь",
             "artist": "DJ Blyatman",
             "id": 1368324900
         },
@@ -484,7 +489,7 @@
             "id": 435552610
         },
         {
-            "name": "Camper (Radio mix)",
+            "name": "Camper (Radio Mix)",
             "artist": "Albert Kick",
             "id": 36924481
         },

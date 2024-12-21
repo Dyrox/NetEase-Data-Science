@@ -1,13 +1,18 @@
 {
     "playlist_info": {
         "name": "[电音]纯音乐，动感强[建议耳机播放]",
-        "trackcount": 184,
-        "playcount": 1230017,
+        "trackcount": 180,
+        "playcount": 1255102,
         "creator": "不再是这个",
         "createDate": "2019-08-23",
-        "heat": 874.0
+        "heat": 838.0
     },
     "songs": [
+        {
+            "name": "Bandit",
+            "artist": "DJ七七",
+            "id": 2065669099
+        },
         {
             "name": "Lake Arrowhead (Radio Mix)",
             "artist": "Nora En Pure",
@@ -24,17 +29,12 @@
             "id": 32192216
         },
         {
-            "name": "Time diary",
-            "artist": "咔什么咔",
-            "id": 1830283772
-        },
-        {
             "name": "Draconis",
             "artist": "Starlyte",
             "id": 1337009230
         },
         {
-            "name": "Crash(坠落)",
+            "name": "Crash",
             "artist": "Pacos",
             "id": 1474400084
         },
@@ -57,11 +57,6 @@
             "name": "Far Away",
             "artist": "Vindu",
             "id": 413834888
-        },
-        {
-            "name": "笑意(lnstrumental)",
-            "artist": "咔什么咔",
-            "id": 1415812682
         },
         {
             "name": "Forever",
@@ -284,11 +279,6 @@
             "id": 1459249537
         },
         {
-            "name": "竹",
-            "artist": "橙汁本色",
-            "id": 1456863256
-        },
-        {
             "name": "Edge",
             "artist": "Rezz",
             "id": 401246013
@@ -482,11 +472,6 @@
             "name": "Senbonzakura",
             "artist": "Lindsey Stirling",
             "id": 31273131
-        },
-        {
-            "name": "Vally",
-            "artist": "马丁的披萨PizzA_",
-            "id": 1434404610
         },
         {
             "name": "Horizon",
@@ -817,11 +802,6 @@
             "name": "Peaks Dawn",
             "artist": "Brecci",
             "id": 437608814
-        },
-        {
-            "name": "Glance Back",
-            "artist": "ELE SHEEP",
-            "id": 506688329
         },
         {
             "name": "The Colour Of My Dreams",

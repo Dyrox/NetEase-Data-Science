@@ -1,13 +1,33 @@
 {
     "playlist_info": {
         "name": "Dubstep | 回响贝斯的低频轰炸",
-        "trackcount": 81,
-        "playcount": 1880004,
+        "trackcount": 85,
+        "playcount": 1955511,
         "creator": "云音乐电音星球",
         "createDate": "2020-08-31",
-        "heat": 1822.0
+        "heat": 1740.0
     },
     "songs": [
+        {
+            "name": "Where You Are (GRiZ Remix)",
+            "artist": "John Summit",
+            "id": 2052335752
+        },
+        {
+            "name": "POETIC PIT",
+            "artist": "HOL!",
+            "id": 2058378396
+        },
+        {
+            "name": "Shook",
+            "artist": "MVRDA",
+            "id": 2059676436
+        },
+        {
+            "name": "Shade of Morswood",
+            "artist": "Midnight Tyrannosaurus",
+            "id": 2052299892
+        },
         {
             "name": "I'm A Dragon (VIP)",
             "artist": "Apashe",

@@ -1,0 +1,587 @@
+{
+    "playlist_info": {
+        "name": "那些『很炸很嗨』的英文歌",
+        "trackcount": 115,
+        "playcount": 1593385,
+        "creator": "凌风iiii",
+        "createDate": "2018-01-07",
+        "heat": 762.0
+    },
+    "songs": [
+        {
+            "name": "中华人民共和国国歌",
+            "artist": "中国广播之友合唱团",
+            "id": 398052
+        },
+        {
+            "name": "Мимими",
+            "artist": "Dramma",
+            "id": 464373438
+        },
+        {
+            "name": "Ride It (Regard Remix)",
+            "artist": "Regard",
+            "id": 497616880
+        },
+        {
+            "name": "Dancin (KRONO Remix)",
+            "artist": "Aaron Smith",
+            "id": 29095653
+        },
+        {
+            "name": "Way Back",
+            "artist": "Vicetone",
+            "id": 543987451
+        },
+        {
+            "name": "Home (Blaze U Remix)",
+            "artist": "ThimLife",
+            "id": 448317566
+        },
+        {
+            "name": "Why Would I Ever",
+            "artist": "Paula DeAnda",
+            "id": 3305969
+        },
+        {
+            "name": "Wake Me Up",
+            "artist": "Avicii",
+            "id": 27713920
+        },
+        {
+            "name": "False Alarm",
+            "artist": "The Weeknd",
+            "id": 432792363
+        },
+        {
+            "name": "Summer",
+            "artist": "Calvin Harris",
+            "id": 28306554
+        },
+        {
+            "name": "Right Now (Na Na Na)",
+            "artist": "Am1r",
+            "id": 463352828
+        },
+        {
+            "name": "Right Now (Remix)",
+            "artist": "二狗村高富帅",
+            "id": 552485087
+        },
+        {
+            "name": "Try",
+            "artist": "P!nk",
+            "id": 27515086
+        },
+        {
+            "name": "Flames",
+            "artist": "David Guetta",
+            "id": 545947179
+        },
+        {
+            "name": "Monster (DotEXE Remix)",
+            "artist": "Meg & Dia",
+            "id": 26978189
+        },
+        {
+            "name": "Blue Sky",
+            "artist": "Feenixpawl",
+            "id": 32807699
+        },
+        {
+            "name": "Against The Sun",
+            "artist": "Rootkit",
+            "id": 29562296
+        },
+        {
+            "name": "Send It (feat. Rich Homie Quan)",
+            "artist": "Austin Mahone",
+            "id": 426291544
+        },
+        {
+            "name": "Apologize (OutaMatic Remix)",
+            "artist": "OutaMatic",
+            "id": 409647285
+        },
+        {
+            "name": "Coco Jamboo (Calippo Remix Edit)",
+            "artist": "Angelika Vee",
+            "id": 481535757
+        },
+        {
+            "name": "Nëntori (Bess Remix)",
+            "artist": "Bess",
+            "id": 463001636
+        },
+        {
+            "name": "Are You With Me (Christmas Mix)",
+            "artist": "Christmas",
+            "id": 399340150
+        },
+        {
+            "name": "Walk Away (feat. Kaptan)",
+            "artist": "Lvndscape",
+            "id": 469243036
+        },
+        {
+            "name": "Waiting For Love",
+            "artist": "Avicii",
+            "id": 32196550
+        },
+        {
+            "name": "Fire",
+            "artist": "Gavin DeGraw",
+            "id": 28923579
+        },
+        {
+            "name": "Hold On (feat. Cheat Codes)",
+            "artist": "Moguai",
+            "id": 34999489
+        },
+        {
+            "name": "Mi Gente (Henry Fong Remix)",
+            "artist": "Henry Fong",
+            "id": 491295065
+        },
+        {
+            "name": "Universe (feat. Emeni) [Radio Edit]",
+            "artist": "Don Diablo",
+            "id": 36089522
+        },
+        {
+            "name": "Me and My Broken Heart",
+            "artist": "Push Baby",
+            "id": 28308080
+        },
+        {
+            "name": "Centuries",
+            "artist": "Fall Out Boy",
+            "id": 29307038
+        },
+        {
+            "name": "Here With You",
+            "artist": "Asher Monroe",
+            "id": 27583305
+        },
+        {
+            "name": "Till the World Ends",
+            "artist": "Britney Spears",
+            "id": 20515814
+        },
+        {
+            "name": "Moves Like Jagger",
+            "artist": "Maroon 5",
+            "id": 21253966
+        },
+        {
+            "name": "Marry You",
+            "artist": "Bruno Mars",
+            "id": 25657282
+        },
+        {
+            "name": "Pop Danthology 2012",
+            "artist": "DJ Daniel Kim",
+            "id": 28577876
+        },
+        {
+            "name": "Stronger (What Doesn't Kill You)",
+            "artist": "Kelly Clarkson",
+            "id": 2870985
+        },
+        {
+            "name": "Your Body",
+            "artist": "Christina Aguilera",
+            "id": 25731730
+        },
+        {
+            "name": "Counting Stars",
+            "artist": "OneRepublic",
+            "id": 26060065
+        },
+        {
+            "name": "Wrecking Ball",
+            "artist": "Frankmusik",
+            "id": 17721274
+        },
+        {
+            "name": "Only One",
+            "artist": "Alex Band",
+            "id": 29401930
+        },
+        {
+            "name": "Es rappelt im Karton",
+            "artist": "Pixie Paris",
+            "id": 29750825
+        },
+        {
+            "name": "Hello",
+            "artist": "Barbara Opsomer",
+            "id": 33166086
+        },
+        {
+            "name": "Maps",
+            "artist": "Maroon 5",
+            "id": 28661564
+        },
+        {
+            "name": "One More Night",
+            "artist": "Maroon 5",
+            "id": 21253958
+        },
+        {
+            "name": "Animals",
+            "artist": "Maroon 5",
+            "id": 28987626
+        },
+        {
+            "name": "Vivi nell aria (Manian Video Mix)",
+            "artist": "Gabry Ponte",
+            "id": 1414841
+        },
+        {
+            "name": "Relax, Take It Easy",
+            "artist": "MIKA",
+            "id": 21151698
+        },
+        {
+            "name": "The Final Countdown",
+            "artist": "Europe",
+            "id": 17646724
+        },
+        {
+            "name": "Runaway (U & I)",
+            "artist": "Galantis",
+            "id": 30569420
+        },
+        {
+            "name": "Soldier",
+            "artist": "Samantha Jade",
+            "id": 27969800
+        },
+        {
+            "name": "East of Eden",
+            "artist": "Zella Day",
+            "id": 29009655
+        },
+        {
+            "name": "Alone",
+            "artist": "Alan Walker",
+            "id": 444269135
+        },
+        {
+            "name": "Sing Me to Sleep",
+            "artist": "Alan Walker",
+            "id": 415792222
+        },
+        {
+            "name": "Faded",
+            "artist": "Alan Walker",
+            "id": 36990266
+        },
+        {
+            "name": "Bad",
+            "artist": "David Guetta",
+            "id": 28852648
+        },
+        {
+            "name": "No Heroes (Original Mix)",
+            "artist": "Firebeatz",
+            "id": 28996325
+        },
+        {
+            "name": "Never Go Away",
+            "artist": "C-BooL",
+            "id": 412016389
+        },
+        {
+            "name": "Hymn For The Weekend [Remix]",
+            "artist": "Alan Walker",
+            "id": 419594258
+        },
+        {
+            "name": "Move Your Body (Alan Walker Remix)",
+            "artist": "Alan Walker",
+            "id": 436487129
+        },
+        {
+            "name": "Supernova (R.I.O. Radio Edit)",
+            "artist": "Miami Club",
+            "id": 26365340
+        },
+        {
+            "name": "Je Ne Sais Pas (R.I.O. Video Edit)",
+            "artist": "Azuro",
+            "id": 26365350
+        },
+        {
+            "name": "Party Shaker (Video Edit)",
+            "artist": "R.I.O.",
+            "id": 1923483
+        },
+        {
+            "name": "Ready Or Not (Video Edit)",
+            "artist": "R.I.O.",
+            "id": 26365325
+        },
+        {
+            "name": "Summer Jam (Video Edit)",
+            "artist": "R.I.O.",
+            "id": 26389060
+        },
+        {
+            "name": "On The Floor",
+            "artist": "Jennifer Lopez",
+            "id": 18803200
+        },
+        {
+            "name": "Nevada",
+            "artist": "Vicetone",
+            "id": 418602088
+        },
+        {
+            "name": "The Power of Now",
+            "artist": "Steve Aoki",
+            "id": 35288209
+        },
+        {
+            "name": "Boom Clap (From the Motion Picture Das Schicksal ist ein mieser Verräter)",
+            "artist": "Charli XCX",
+            "id": 28566210
+        },
+        {
+            "name": "Come And Get It (Razihel Remix)",
+            "artist": "Krewella",
+            "id": 26193501
+        },
+        {
+            "name": "Aftershock (Original Mix)",
+            "artist": "Cash Cash",
+            "id": 402070039
+        },
+        {
+            "name": "Lights",
+            "artist": "Ellie Goulding",
+            "id": 17654232
+        },
+        {
+            "name": "On My Own",
+            "artist": "Ashes Remain",
+            "id": 16483438
+        },
+        {
+            "name": "How You Love U & I (3LAU Mashup)",
+            "artist": "3LAU",
+            "id": 399552256
+        },
+        {
+            "name": "Born Alive (Mashup Remix)",
+            "artist": "MitiS",
+            "id": 33765301
+        },
+        {
+            "name": "Don't Let Me Down (3LAU Remix)",
+            "artist": "3LAU",
+            "id": 409872509
+        },
+        {
+            "name": "Five Voices (3LAU Mashup)",
+            "artist": "3LAU",
+            "id": 29533303
+        },
+        {
+            "name": "The Phoenix",
+            "artist": "Fall Out Boy",
+            "id": 26199445
+        },
+        {
+            "name": "Samsara",
+            "artist": "Tungevaag & Raaban",
+            "id": 33291435
+        },
+        {
+            "name": "How You Love Me (Radio Edit)",
+            "artist": "3LAU",
+            "id": 28315618
+        },
+        {
+            "name": "Stuttering",
+            "artist": "Fefe Dobson",
+            "id": 17783969
+        },
+        {
+            "name": "Numb",
+            "artist": "Linkin Park",
+            "id": 4153366
+        },
+        {
+            "name": "Hero",
+            "artist": "Skillet",
+            "id": 26510101
+        },
+        {
+            "name": "Are You With Me",
+            "artist": "Lost Frequencies",
+            "id": 29806043
+        },
+        {
+            "name": "Miracles (Radio Edit)",
+            "artist": "Mike Candys",
+            "id": 29732106
+        },
+        {
+            "name": "Save Me",
+            "artist": "DEAMN",
+            "id": 460476510
+        },
+        {
+            "name": "Winds",
+            "artist": "Joey Dale",
+            "id": 404784028
+        },
+        {
+            "name": "The Ocean",
+            "artist": "Mike Perry",
+            "id": 436514221
+        },
+        {
+            "name": "BOOM",
+            "artist": "Tiësto",
+            "id": 474581010
+        },
+        {
+            "name": "See It Again",
+            "artist": "Loud Luxury",
+            "id": 447076645
+        },
+        {
+            "name": "DOAR CU TINE",
+            "artist": "Activ",
+            "id": 25862810
+        },
+        {
+            "name": "New Thang",
+            "artist": "Redfoo",
+            "id": 28959074
+        },
+        {
+            "name": "Little Swing",
+            "artist": "AronChupa",
+            "id": 404716896
+        },
+        {
+            "name": "Heathens (DISTO Remix)",
+            "artist": "DISTO",
+            "id": 424262559
+        },
+        {
+            "name": "Sex Apeal [Max Farenthide Edit]",
+            "artist": "Bueno Clinic",
+            "id": 27691911
+        },
+        {
+            "name": "Counting Down To Christmas",
+            "artist": "Campsite Dream",
+            "id": 442991820
+        },
+        {
+            "name": "Shape of You",
+            "artist": "Ed Sheeran",
+            "id": 451703096
+        },
+        {
+            "name": "Walk Away",
+            "artist": "Dia Frampton",
+            "id": 2529311
+        },
+        {
+            "name": "HandClap",
+            "artist": "Fitz and The Tantrums",
+            "id": 407839677
+        },
+        {
+            "name": "Beautiful Now",
+            "artist": "Zedd",
+            "id": 32019002
+        },
+        {
+            "name": "Time Machine",
+            "artist": "Ingrid Michaelson",
+            "id": 28402345
+        },
+        {
+            "name": "I Got You",
+            "artist": "Bebe Rexha",
+            "id": 437480940
+        },
+        {
+            "name": "Breathe into Me",
+            "artist": "Angelika Vee",
+            "id": 458711880
+        },
+        {
+            "name": "Twerk It Like Miley (Dawin Remix)",
+            "artist": "Dawin",
+            "id": 407459441
+        },
+        {
+            "name": "My Dilemma 2.0",
+            "artist": "Selena Gomez",
+            "id": 29747527
+        },
+        {
+            "name": "Take Me to Infinity (Radio Edit)",
+            "artist": "Consoul Trainin",
+            "id": 431855270
+        },
+        {
+            "name": "Stereo Love",
+            "artist": "Edward Maya",
+            "id": 5109858
+        },
+        {
+            "name": "Hideaway",
+            "artist": "Kiesza",
+            "id": 28337092
+        },
+        {
+            "name": "In the End",
+            "artist": "Linkin Park",
+            "id": 4153632
+        },
+        {
+            "name": "Still Waiting",
+            "artist": "Sum 41",
+            "id": 4278394
+        },
+        {
+            "name": "Heroes Tonight",
+            "artist": "Janji",
+            "id": 32640115
+        },
+        {
+            "name": "What Do You Mean (JANJI REMIX)",
+            "artist": "Janji",
+            "id": 35956764
+        },
+        {
+            "name": "Summertime Sadness",
+            "artist": "Lana Del Rey",
+            "id": 3025202
+        },
+        {
+            "name": "Despacito (Remix)",
+            "artist": "Luis Fonsi",
+            "id": 472361096
+        },
+        {
+            "name": "This Life (Janji Bootleg)",
+            "artist": "Janji",
+            "id": 404744065
+        },
+        {
+            "name": "On & On",
+            "artist": "Cartoon",
+            "id": 33579224
+        }
+    ]
+}

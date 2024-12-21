@@ -1,13 +1,73 @@
 {
     "playlist_info": {
         "name": "好听好跳！中英跳绳卡点歌单",
-        "trackcount": 101,
-        "playcount": 1306116,
+        "trackcount": 113,
+        "playcount": 1354635,
         "creator": "Hi-妙妙酱",
         "createDate": "2020-12-03",
-        "heat": 1392.0
+        "heat": 1315.0
     },
     "songs": [
+        {
+            "name": "青少年俱乐部",
+            "artist": "花儿乐队",
+            "id": 357381
+        },
+        {
+            "name": "闪着泪光的决定",
+            "artist": "吴佩慈",
+            "id": 298795
+        },
+        {
+            "name": "彩虹的微笑",
+            "artist": "王心凌",
+            "id": 1480378513
+        },
+        {
+            "name": "许愿池的希腊少女",
+            "artist": "蔡依林",
+            "id": 209803
+        },
+        {
+            "name": "野蛮游戏",
+            "artist": "蔡依林",
+            "id": 209801
+        },
+        {
+            "name": "看我72变",
+            "artist": "蔡依林",
+            "id": 5257198
+        },
+        {
+            "name": "爱情36计",
+            "artist": "蔡依林",
+            "id": 400161745
+        },
+        {
+            "name": "舞娘",
+            "artist": "蔡依林",
+            "id": 209718
+        },
+        {
+            "name": "你的微笑",
+            "artist": "F.I.R.",
+            "id": 354601
+        },
+        {
+            "name": "钻石糖",
+            "artist": "萧亚轩",
+            "id": 306973
+        },
+        {
+            "name": "饿狼传说",
+            "artist": "张学友",
+            "id": 190270
+        },
+        {
+            "name": "野猫之恋",
+            "artist": "张学友",
+            "id": 190150
+        },
         {
             "name": "Twist the Knife",
             "artist": "Leslie Clio",

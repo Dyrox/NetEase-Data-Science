@@ -26,61 +26,66 @@ playlists = [jsonfile for jsonfile in os.listdir(folder_path) if jsonfile.endswi
 # Create the output folder if it doesn't exist
 os.makedirs(output_folder, exist_ok=True)
 
-for MYSONGID, MYSONGNAME in MYSONGS_DICT.items():
-    print(f'正在处理{MYSONGNAME}')
-    filename = f'{MYSONGNAME}.csv'
-    file_path = os.path.join(output_folder, filename)
+# for MYSONGID, MYSONGNAME in MYSONGS_DICT.items():
+#     print(f'正在处理{MYSONGNAME}')
+#     filename = f'{MYSONGNAME}.csv'
+#     file_path = os.path.join(output_folder, filename)
 
-    with open(file_path, 'w', newline='', encoding='utf-8') as csvfile:
-        writer = csv.writer(csvfile)
-        writer.writerow(["playlist_name", "playlist_contributing_factor", "song_ranking", "playlist_heat", "trackcount", "playlist_playcount"])
+#     with open(file_path, 'w', newline='', encoding='utf-8') as csvfile:
+#         writer = csv.writer(csvfile)
+#         writer.writerow(["playlist_name", "playlist_contributing_factor", "song_ranking", "playlist_heat", "trackcount", "playlist_playcount"])
 
-        for playlist in playlists:
-            file_path = os.path.join(folder_path, playlist)
+#         for playlist in playlists:
+#             file_path = os.path.join(folder_path, playlist)
 
-            with open(file_path, 'r') as f:
-                playlist_data = json.load(f)
+#             with open(file_path, 'r') as f:
+#                 playlist_data = json.load(f)
 
-                for song in playlist_data['songs']:
-                    if song['id'] == MYSONGID:
-                        playlist_name = playlist_data['playlist_info']['name']
-                        song_ranking = playlist_data['songs'].index(song) + 1
-                        playlist_heat = round(playlist_data['playlist_info']['heat'])
-                        trackcount = playlist_data['playlist_info']['trackcount']
-                        playlist_playcount = playlist_data['playlist_info']['playcount']
-                        playlist_contributing_factor = round((1 - song_ranking / trackcount) * playlist_heat)
-                        writer.writerow([playlist_name, playlist_contributing_factor, song_ranking, playlist_heat, trackcount, playlist_playcount])
-                        break
+#                 for song in playlist_data['songs']:
+#                     if song['id'] == MYSONGID:
+#                         playlist_name = playlist_data['playlist_info']['name']
+#                         song_ranking = playlist_data['songs'].index(song) + 1
+#                         playlist_heat = round(playlist_data['playlist_info']['heat'])
+#                         trackcount = playlist_data['playlist_info']['trackcount']
+#                         playlist_playcount = playlist_data['playlist_info']['playcount']
+#                         playlist_contributing_factor = round((1 - song_ranking / trackcount) * playlist_heat)
+#                         writer.writerow([playlist_name, playlist_contributing_factor, song_ranking, playlist_heat, trackcount, playlist_playcount])
+#                         break
 
 
-print(f'\033[92m歌单处理完毕\033[0m')
+# print(f'\033[92m歌单处理完毕\033[0m')
 
-# Sort the CSV files by the "playlist_contributing_factor" column
-for MYSONGNAME in MYSONGS_DICT.values():
-    filename = f'{MYSONGNAME}.csv'
-    file_path = os.path.join(output_folder, filename)
+# # Sort the CSV files by the "playlist_contributing_factor" column
+# for MYSONGNAME in MYSONGS_DICT.values():
+#     filename = f'{MYSONGNAME}.csv'
+#     file_path = os.path.join(output_folder, filename)
 
-    rows = []
-    with open(file_path, 'r', encoding='utf-8') as csvfile:
-        reader = csv.reader(csvfile)
-        rows = list(reader)
+#     rows = []
+#     with open(file_path, 'r', encoding='utf-8') as csvfile:
+#         reader = csv.reader(csvfile)
+#         rows = list(reader)
 
-    sorted_rows = sorted(rows[1:], key=lambda row: int(row[1]), reverse=True)
-    sorted_rows.insert(0, rows[0])
+#     sorted_rows = sorted(rows[1:], key=lambda row: int(row[1]), reverse=True)
+#     sorted_rows.insert(0, rows[0])
 
-    with open(file_path, 'w', newline='', encoding='utf-8') as csvfile:
-        writer = csv.writer(csvfile)
-        writer.writerows(sorted_rows)
+#     with open(file_path, 'w', newline='', encoding='utf-8') as csvfile:
+#         writer = csv.writer(csvfile)
+#         writer.writerows(sorted_rows)
 
 
 contained_playlists = []
-ARTIST = 'PHONO RECORDS'
+ARTIST = '8bite'
 for playlist in playlists:
     file_path = os.path.join(folder_path, playlist)
 
     with open(file_path, 'r') as f:
         fileStr = f.read()
+        fileStr = fileStr.lower()
+        
         if ARTIST in fileStr:
             contained_playlists.append(playlist)
+
+for i in contained_playlists:
+    print(i)
 
 print(f'\033[92m{ARTIST}创作的歌曲被包含在{len(contained_playlists)}个歌单内\033[0m')

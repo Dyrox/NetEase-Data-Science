@@ -1,11 +1,11 @@
 {
     "playlist_info": {
         "name": "『中文说唱』直接燃起来 拽的走路带风",
-        "trackcount": 63,
-        "playcount": 11620171,
+        "trackcount": 62,
+        "playcount": 11621371,
         "creator": "AAA专业肯德基代吃小廖",
         "createDate": "2022-08-29",
-        "heat": 38170.0
+        "heat": 29387.0
     },
     "songs": [
         {
@@ -14,44 +14,54 @@
             "id": 2045103153
         },
         {
-            "name": "Night city(夜之城）",
-            "artist": "Mr.秋石",
-            "id": 2059026724
+            "name": "埃文塔多",
+            "artist": "秋石Autumn.ST",
+            "id": 2075951876
         },
         {
-            "name": "吐",
-            "artist": "Tiwwp",
-            "id": 2058674340
+            "name": "伤心汤米线",
+            "artist": "泳恩Joannne",
+            "id": 2072239354
         },
         {
-            "name": "DOOR",
-            "artist": "AFA",
-            "id": 2059192975
+            "name": "Downside",
+            "artist": "何杰瑞BabyJ",
+            "id": 2074544556
         },
         {
-            "name": "亚瑟王之死",
-            "artist": "K.WANG",
-            "id": 1985563433
+            "name": "自白part.1 （PROD BY XVIBE）",
+            "artist": "三田",
+            "id": 2072755227
         },
         {
-            "name": "千帆过",
-            "artist": "Zpeacedontpeace",
-            "id": 2054341575
+            "name": "普罗米修斯",
+            "artist": "Bling7Move",
+            "id": 2065780402
         },
         {
-            "name": "鹤",
-            "artist": "Zpeacedontpeace",
-            "id": 2054344672
+            "name": "咋个嘛",
+            "artist": "BoiLing",
+            "id": 2068708807
         },
         {
-            "name": "十字路口 (LIVE版)",
-            "artist": "西奥Sio",
-            "id": 2048370169
+            "name": "捕风",
+            "artist": "BoiLing",
+            "id": 2068707255
         },
         {
-            "name": "LOVE FM",
-            "artist": "西奥Sio",
-            "id": 2048336477
+            "name": "荷包",
+            "artist": "BoiLing",
+            "id": 2068707236
+        },
+        {
+            "name": "FEEL.REMIX",
+            "artist": "BoiLing",
+            "id": 2068709047
+        },
+        {
+            "name": "You Know How I Love",
+            "artist": "BoiLing",
+            "id": 2068707321
         },
         {
             "name": "SLASH",
@@ -59,22 +69,7 @@
             "id": 520046972
         },
         {
-            "name": "十字路口",
-            "artist": "西奥Sio",
-            "id": 2049502613
-        },
-        {
-            "name": "I came,I saw",
-            "artist": "Lil Pink",
-            "id": 2048553077
-        },
-        {
-            "name": "Burn up",
-            "artist": "西奥Sio",
-            "id": 2045550036
-        },
-        {
-            "name": "卡通 (CARTOON) ",
+            "name": "卡通 (CARTOON)",
             "artist": "GALI",
             "id": 1921262347
         },
@@ -82,11 +77,6 @@
             "name": "GO!",
             "artist": "刘炫廷",
             "id": 1415148798
-        },
-        {
-            "name": "CHEKI",
-            "artist": "那奇沃夫",
-            "id": 1972975002
         },
         {
             "name": "刘玉玲 Lucy Liu (feat. Bohan Phoenix)",
@@ -107,11 +97,6 @@
             "name": "血统",
             "artist": "Capper",
             "id": 1908083432
-        },
-        {
-            "name": "我是朴宰范",
-            "artist": "AA",
-            "id": 1964491656
         },
         {
             "name": "RAVEN",
@@ -214,11 +199,6 @@
             "id": 1969940533
         },
         {
-            "name": "BadkidsClub 20'A/W",
-            "artist": "BadKidsClub",
-            "id": 1492351032
-        },
-        {
             "name": "Face Power (feat. Jackson Wang)",
             "artist": "KnowKnow",
             "id": 1408941728
@@ -227,6 +207,11 @@
             "name": "芬里尔",
             "artist": "那奇沃夫",
             "id": 1922362038
+        },
+        {
+            "name": "CHEKI",
+            "artist": "那奇沃夫",
+            "id": 1972975002
         },
         {
             "name": "Isabellae (Prod. Charlie Heat)",
@@ -244,11 +229,6 @@
             "id": 1921262342
         },
         {
-            "name": "Successful",
-            "artist": "马思唯",
-            "id": 1426032472
-        },
-        {
             "name": "HOTEL",
             "artist": "Oliver Jiang",
             "id": 1923203220
@@ -257,6 +237,11 @@
             "name": "Map",
             "artist": "八口8uck",
             "id": 1462097900
+        },
+        {
+            "name": "我是朴宰范",
+            "artist": "AA",
+            "id": 1964491656
         },
         {
             "name": "小李飞刀",
@@ -304,14 +289,24 @@
             "id": 1970528609
         },
         {
+            "name": "70%",
+            "artist": "GALI",
+            "id": 1376125188
+        },
+        {
+            "name": "Successful",
+            "artist": "马思唯",
+            "id": 1426032472
+        },
+        {
             "name": "候鸟",
             "artist": "马思唯",
             "id": 1929065856
         },
         {
-            "name": "70%",
-            "artist": "GALI",
-            "id": 1376125188
+            "name": "BadkidsClub 20'A/W",
+            "artist": "BadKidsClub",
+            "id": 1492351032
         },
         {
             "name": "BONG BONG",

@@ -2,56 +2,86 @@
     "playlist_info": {
         "name": "80年代摇滚 | 1980年代摇滚精选作品",
         "trackcount": 30,
-        "playcount": 2736403,
+        "playcount": 2800154,
         "creator": "云音乐官方歌单",
         "createDate": "2021-03-09",
-        "heat": 3251.0
+        "heat": 2999.0
     },
     "songs": [
         {
-            "name": "Beauty Lies in the Eye",
+            "name": "I Dreamed I Dream",
             "artist": "Sonic Youth",
-            "id": 19189398
+            "id": 19189283
         },
         {
-            "name": "Small Talk Stinks",
+            "name": "Harry",
             "artist": "Bauhaus",
-            "id": 3954725
+            "id": 16844096
         },
         {
-            "name": "Hot Wire My Heart",
+            "name": "In the Flat Field",
+            "artist": "Bauhaus",
+            "id": 3954709
+        },
+        {
+            "name": "The One I Love",
+            "artist": "R.E.M.",
+            "id": 20282632
+        },
+        {
+            "name": "Strange",
+            "artist": "R.E.M.",
+            "id": 20282629
+        },
+        {
+            "name": "Slip It In",
+            "artist": "Black Flag",
+            "id": 2189688
+        },
+        {
+            "name": "Since You're Gone (LP Version)",
+            "artist": "The Cars",
+            "id": 21795173
+        },
+        {
+            "name": "A Promise",
+            "artist": "Echo & the Bunnymen",
+            "id": 1332041101
+        },
+        {
+            "name": "Schizophrenia",
             "artist": "Sonic Youth",
-            "id": 19189403
+            "id": 19188898
         },
         {
-            "name": "Third Uncle",
-            "artist": "Bauhaus",
-            "id": 16844161
+            "name": "Leave in Silence",
+            "artist": "Depeche Mode",
+            "id": 1219715
         },
         {
-            "name": "Silent Hedges",
-            "artist": "Bauhaus",
-            "id": 3954516
+            "name": "If She Would Have Been Faithful (Album Version)",
+            "artist": "Chicago",
+            "id": 17089999
         },
         {
-            "name": "Happy House",
+            "name": "Spray Paint",
+            "artist": "Black Flag",
+            "id": 16789696
+        },
+        {
+            "name": "Dear Prudence",
             "artist": "Siouxsie and the Banshees",
-            "id": 21720847
+            "id": 27282119
         },
         {
-            "name": "Bastard in Love",
-            "artist": "Black Flag",
-            "id": 2189385
+            "name": "The Cutter",
+            "artist": "Echo & the Bunnymen",
+            "id": 406489594
         },
         {
-            "name": "What I See",
-            "artist": "Black Flag",
-            "id": 16789698
-        },
-        {
-            "name": "Big Thing",
-            "artist": "Duran Duran",
-            "id": 22459244
+            "name": "Backwoods",
+            "artist": "Red Hot Chili Peppers",
+            "id": 1870773
         },
         {
             "name": "All We Ever Wanted Was Everything",
@@ -64,34 +94,24 @@
             "id": 26826245
         },
         {
+            "name": "Hollow Hills",
+            "artist": "Bauhaus",
+            "id": 3954507
+        },
+        {
             "name": "Catholic School Girls Rule",
             "artist": "Red Hot Chili Peppers",
             "id": 1870774
         },
         {
-            "name": "Backwoods",
-            "artist": "Red Hot Chili Peppers",
-            "id": 1870773
-        },
-        {
-            "name": "Save A Prayer (Night Version)",
-            "artist": "Duran Duran",
-            "id": 27243382
-        },
-        {
-            "name": "1,000,000",
-            "artist": "R.E.M.",
-            "id": 21494995
-        },
-        {
-            "name": "Nothing to Fear (Remastered)",
+            "name": "See You",
             "artist": "Depeche Mode",
-            "id": 17261047
+            "id": 1219732
         },
         {
-            "name": "The Man Whose Head Expanded",
-            "artist": "The Fall",
-            "id": 3569053
+            "name": "Over And Over (Album Version)",
+            "artist": "Chicago",
+            "id": 17090002
         },
         {
             "name": "Totally Wired",
@@ -99,64 +119,44 @@
             "id": 3569483
         },
         {
-            "name": "Intro",
-            "artist": "Sonic Youth",
-            "id": 19189325
+            "name": "Who Makes the Nazis?",
+            "artist": "The Fall",
+            "id": 21906464
         },
         {
-            "name": "Thieves like Us (Instrumental)",
-            "artist": "New Order",
-            "id": 21308345
+            "name": "I Travel",
+            "artist": "Simple Minds",
+            "id": 22488170
         },
         {
-            "name": "Nowhere Fast",
+            "name": "I Want The One I Can't Have",
             "artist": "The Smiths",
-            "id": 19576338
+            "id": 19576334
         },
         {
-            "name": "Spirit",
+            "name": "Of Lilies and Remains",
             "artist": "Bauhaus",
-            "id": 16844173
+            "id": 16844086
         },
         {
-            "name": "Silver Rocket",
-            "artist": "Sonic Youth",
-            "id": 1435340302
-        },
-        {
-            "name": "The Spy In The Cab",
+            "name": "Rosegarden Funeral Of Sores",
             "artist": "Bauhaus",
-            "id": 3954718
+            "id": 3954748
         },
         {
-            "name": "Confused (Instrumental)",
+            "name": "Lonesome Tonight",
             "artist": "New Order",
-            "id": 21308342
+            "id": 21308343
         },
         {
-            "name": "Mask",
-            "artist": "Bauhaus",
-            "id": 16844093
+            "name": "Touched By The Hand of God (Twelve Inch Mix)",
+            "artist": "New Order",
+            "id": 27322853
         },
         {
-            "name": "Pacific Coast Highway",
-            "artist": "Sonic Youth",
-            "id": 19189402
-        },
-        {
-            "name": "Rain King",
-            "artist": "Sonic Youth",
-            "id": 1435339954
-        },
-        {
-            "name": "Kill Yr. Idols",
-            "artist": "Sonic Youth",
-            "id": 19189028
-        },
-        {
-            "name": "Master-Dik",
-            "artist": "Sonic Youth",
-            "id": 19189406
+            "name": "1,000,000",
+            "artist": "R.E.M.",
+            "id": 22484267
         }
     ]
 }

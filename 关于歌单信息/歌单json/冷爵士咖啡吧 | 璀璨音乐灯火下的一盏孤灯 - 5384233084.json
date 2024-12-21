@@ -2,111 +2,111 @@
     "playlist_info": {
         "name": "冷爵士咖啡吧 | 璀璨音乐灯火下的一盏孤灯",
         "trackcount": 20,
-        "playcount": 4845163,
+        "playcount": 4977624,
         "creator": "云音乐官方歌单",
         "createDate": "2020-12-17",
-        "heat": 5246.0
+        "heat": 4902.0
     },
     "songs": [
         {
-            "name": "I Can't Get Started",
-            "artist": "Sidney Bechet",
-            "id": 1968280
+            "name": "Miles Ahead",
+            "artist": "Miles Davis",
+            "id": 408503484
         },
         {
-            "name": "I Loves You, Porgy",
-            "artist": "Nina Simone",
-            "id": 3164644
+            "name": "I Guess I'll Have To Change My Plan",
+            "artist": "Lester Young",
+            "id": 1659168
         },
         {
-            "name": "When I Dream of You",
-            "artist": "Billy Strayhorn",
-            "id": 1115065
-        },
-        {
-            "name": "In a Sentimental Mood",
-            "artist": "Eddie Higgins",
-            "id": 1307037
-        },
-        {
-            "name": "A Nightingale Sang in Barkeley Square",
-            "artist": "Eddie Higgins",
-            "id": 1307017
-        },
-        {
-            "name": "How Deep Is the Ocean?",
-            "artist": "Chet Baker",
-            "id": 22126197
-        },
-        {
-            "name": "The Way Of The World",
-            "artist": "Mose Allison",
-            "id": 21117513
-        },
-        {
-            "name": "Don't Go To Strangers",
-            "artist": "Gene Ammons",
-            "id": 17987795
-        },
-        {
-            "name": "Cry Me A River",
-            "artist": "Dexter Gordon",
-            "id": 17287273
-        },
-        {
-            "name": "The Thrill Is Gone",
-            "artist": "Chet Baker",
-            "id": 22126721
-        },
-        {
-            "name": "Under Paris Skies",
-            "artist": "Lou Levy",
-            "id": 1665766
-        },
-        {
-            "name": "On a Clear Day (You Can See Forever)",
-            "artist": "Beegie Adair",
-            "id": 16759571
-        },
-        {
-            "name": "In The Wee Small Hours Of The Morning",
-            "artist": "Gerry Mulligan",
-            "id": 1383922
-        },
-        {
-            "name": "What Is This Thing Called Love",
-            "artist": "Erroll Garner",
-            "id": 1316454
-        },
-        {
-            "name": "Stevie",
-            "artist": "Duke Ellington",
-            "id": 1227385
-        },
-        {
-            "name": "Autumn Leaves",
-            "artist": "Beegie Adair",
-            "id": 16759517
-        },
-        {
-            "name": "The Shadow Of Your Smile (feat. Beegie Adair)",
-            "artist": "Jack Jezzro And Friends",
-            "id": 22210177
-        },
-        {
-            "name": "The Dolphin - Before (Master Edited)",
-            "artist": "Bill Evans",
-            "id": 1083140
-        },
-        {
-            "name": "The Purest Heart (For Lady)",
-            "artist": "Red Mitchell",
-            "id": 1894841
-        },
-        {
-            "name": "Like Someone In Love",
+            "name": "Mighty Like a Rose",
             "artist": "Coleman Hawkins",
-            "id": 20606268
+            "id": 513943017
+        },
+        {
+            "name": "I'm All Smiles",
+            "artist": "Bill Evans",
+            "id": 1083127
+        },
+        {
+            "name": "過ぎし夏の想い出",
+            "artist": "New York Trio",
+            "id": 1793877
+        },
+        {
+            "name": "Ruby My Dear",
+            "artist": "Thelonious Monk",
+            "id": 22581157
+        },
+        {
+            "name": "Lush Life",
+            "artist": "John Coltrane",
+            "id": 1486207
+        },
+        {
+            "name": "Beyond The Sea",
+            "artist": "Beegie Adair",
+            "id": 2299355
+        },
+        {
+            "name": "I Am a Fool to Want You",
+            "artist": "Chet Baker",
+            "id": 1145846
+        },
+        {
+            "name": "My Romance",
+            "artist": "Ben Webster",
+            "id": 16633318
+        },
+        {
+            "name": "Waltz for Debby (Monica Vals)",
+            "artist": "Bill Evans",
+            "id": 22084120
+        },
+        {
+            "name": "'Round Midnight",
+            "artist": "Arturo Sandoval",
+            "id": 16306713
+        },
+        {
+            "name": "I'm Confessin'",
+            "artist": "Lester Young",
+            "id": 1658977
+        },
+        {
+            "name": "Bill",
+            "artist": "Oscar Peterson",
+            "id": 21383781
+        },
+        {
+            "name": "It Never Entered My Mind",
+            "artist": "Miles Davis Quintet",
+            "id": 21182124
+        },
+        {
+            "name": "When Joanna Loved Me",
+            "artist": "Paul Desmond",
+            "id": 1835745
+        },
+        {
+            "name": "Misty",
+            "artist": "Ella Fitzgerald",
+            "id": 17888356
+        },
+        {
+            "name": "I Can't See For Looking",
+            "artist": "Red Garland",
+            "id": 1880351
+        },
+        {
+            "name": "The Last Time I Saw Paris",
+            "artist": "Beegie Adair",
+            "id": 16759215
+        },
+        {
+            "name": "In The Sign Of Libra",
+            "artist": "Dusko Goykovich",
+            "id": 2515661
         }
     ]
 }

@@ -1,0 +1,962 @@
+{
+    "playlist_info": {
+        "name": "雷·查尔斯，灵魂歌王！ ☆☆☆",
+        "trackcount": 190,
+        "playcount": 728774,
+        "creator": "影幽如夢",
+        "createDate": "2014-12-06",
+        "heat": 226.0
+    },
+    "songs": [
+        {
+            "name": "Sorry Seems To Be The Hardest Word",
+            "artist": "Ray Charles",
+            "id": 21635639
+        },
+        {
+            "name": "Do I Ever Cross Your Mind",
+            "artist": "Ray Charles",
+            "id": 21635641
+        },
+        {
+            "name": "Here We Go Again",
+            "artist": "Ray Charles",
+            "id": 21635636
+        },
+        {
+            "name": "You Don't Know Me",
+            "artist": "Ray Charles",
+            "id": 21635638
+        },
+        {
+            "name": "Fever",
+            "artist": "Ray Charles",
+            "id": 21635640
+        },
+        {
+            "name": "Crazy Love (Live)",
+            "artist": "Ray Charles",
+            "id": 21635647
+        },
+        {
+            "name": "It Was A Very Good Year",
+            "artist": "Ray Charles",
+            "id": 21635642
+        },
+        {
+            "name": "Over The Rainbow",
+            "artist": "Ray Charles",
+            "id": 21635646
+        },
+        {
+            "name": "Sweet Potato Pie",
+            "artist": "Ray Charles",
+            "id": 21635637
+        },
+        {
+            "name": "Hey Girl",
+            "artist": "Ray Charles",
+            "id": 21635643
+        },
+        {
+            "name": "Heaven Help Us All",
+            "artist": "Ray Charles",
+            "id": 21635645
+        },
+        {
+            "name": "Sinner's Prayer",
+            "artist": "Ray Charles",
+            "id": 21635644
+        },
+        {
+            "name": "Hit The Road Jack",
+            "artist": "Ray Charles",
+            "id": 26827718
+        },
+        {
+            "name": "Yesterday",
+            "artist": "Ray Charles",
+            "id": 26827737
+        },
+        {
+            "name": "Here We Go Again",
+            "artist": "Ray Charles",
+            "id": 26827736
+        },
+        {
+            "name": "I Can't Stop Loving You",
+            "artist": "Ray Charles",
+            "id": 26827721
+        },
+        {
+            "name": "You Are My Sunshine",
+            "artist": "Ray Charles",
+            "id": 26827727
+        },
+        {
+            "name": "What'd I Say (Part 1)",
+            "artist": "Ray Charles",
+            "id": 26827719
+        },
+        {
+            "name": "I've Got A Woman",
+            "artist": "Ray Charles",
+            "id": 26827726
+        },
+        {
+            "name": "You Don't Know Me",
+            "artist": "Ray Charles",
+            "id": 26981474
+        },
+        {
+            "name": "I Can't Stop Loving You",
+            "artist": "Ray Charles",
+            "id": 26981471
+        },
+        {
+            "name": "Friendship",
+            "artist": "Ray Charles",
+            "id": 21637614
+        },
+        {
+            "name": "Touch",
+            "artist": "Ray Charles",
+            "id": 21635550
+        },
+        {
+            "name": "Shout",
+            "artist": "Ray Charles",
+            "id": 21635551
+        },
+        {
+            "name": "Imagine",
+            "artist": "Ray Charles",
+            "id": 21635545
+        },
+        {
+            "name": "Big Bad Love",
+            "artist": "Ray Charles",
+            "id": 21635547
+        },
+        {
+            "name": "All I Want To Do",
+            "artist": "Ray Charles",
+            "id": 21635541
+        },
+        {
+            "name": "I Will Be There",
+            "artist": "Ray Charles",
+            "id": 21635548
+        },
+        {
+            "name": "Compared To What",
+            "artist": "Ray Charles",
+            "id": 21635546
+        },
+        {
+            "name": "You Are My Sunshine",
+            "artist": "Ray Charles",
+            "id": 21635542
+        },
+        {
+            "name": "You Were There",
+            "artist": "Ray Charles",
+            "id": 21635544
+        },
+        {
+            "name": "Over the Rainbow",
+            "artist": "Ray Charles",
+            "id": 1873658
+        },
+        {
+            "name": "Mess Around",
+            "artist": "Ray Charles",
+            "id": 28738977
+        },
+        {
+            "name": "I've Got a Woman (2005 Remaster)",
+            "artist": "Ray Charles",
+            "id": 28738979
+        },
+        {
+            "name": "Hit The Road Jack",
+            "artist": "Ray Charles",
+            "id": 28739036
+        },
+        {
+            "name": "Roll with My Baby (2005 Remaster)",
+            "artist": "Ray Charles",
+            "id": 28738981
+        },
+        {
+            "name": "What'd I Say, Pt. 1 & 2 (2005 Stereo Remaster)",
+            "artist": "Ray Charles",
+            "id": 28739035
+        },
+        {
+            "name": "Greenbacks (2005 Remaster)",
+            "artist": "Ray Charles",
+            "id": 28738982
+        },
+        {
+            "name": "It Should Have Been Me (2005 Remaster)",
+            "artist": "Ray Charles",
+            "id": 28738990
+        },
+        {
+            "name": "Don't You Know (2005 Remaster)",
+            "artist": "Ray Charles",
+            "id": 28738994
+        },
+        {
+            "name": "This Little Girl of Mine (2005 Remaster)",
+            "artist": "Ray Charles",
+            "id": 28738993
+        },
+        {
+            "name": "Sinner's Prayer (2005 Remaster)",
+            "artist": "Ray Charles",
+            "id": 28738985
+        },
+        {
+            "name": "Mary Ann (2005 Remaster)",
+            "artist": "Ray Charles",
+            "id": 28739001
+        },
+        {
+            "name": "The Sun's Gonna Shine Again (2005 Remaster)",
+            "artist": "Ray Charles",
+            "id": 28738988
+        },
+        {
+            "name": "You Won't Let Me Go (2005 Remaster)",
+            "artist": "Ray Charles",
+            "id": 28739048
+        },
+        {
+            "name": "Lonely Avenue (2005 Remaster)",
+            "artist": "Ray Charles",
+            "id": 28739013
+        },
+        {
+            "name": "What'd I Say",
+            "artist": "Ray Charles",
+            "id": 1871738
+        },
+        {
+            "name": "Drown in My Own Tears",
+            "artist": "Ray Charles",
+            "id": 1871789
+        },
+        {
+            "name": "I Got a Woman",
+            "artist": "Ray Charles",
+            "id": 1871762
+        },
+        {
+            "name": "Night Time Is the Right Time",
+            "artist": "Ray Charles",
+            "id": 1871759
+        },
+        {
+            "name": "What'd I Say",
+            "artist": "Ray Charles",
+            "id": 21637855
+        },
+        {
+            "name": "Georgia On My Mind",
+            "artist": "Ray Charles",
+            "id": 21637841
+        },
+        {
+            "name": "Come Rain or Come Shine",
+            "artist": "Ray Charles",
+            "id": 21623879
+        },
+        {
+            "name": "Bye Bye Love",
+            "artist": "Ray Charles",
+            "id": 21623856
+        },
+        {
+            "name": "I Can't Stop Loving You",
+            "artist": "Ray Charles",
+            "id": 21623875
+        },
+        {
+            "name": "Born to Lose",
+            "artist": "Ray Charles",
+            "id": 21623865
+        },
+        {
+            "name": "You Don't Know Me",
+            "artist": "Ray Charles",
+            "id": 21623857
+        },
+        {
+            "name": "A Song for You",
+            "artist": "Ray Charles",
+            "id": 1872136
+        },
+        {
+            "name": "Crab Man - Ray Charles, The Orchestra",
+            "artist": "Ray Charles",
+            "id": 1872813
+        },
+        {
+            "name": "Summertime - Ray Charles, Cleo Laine, The Orchestra",
+            "artist": "Ray Charles",
+            "id": 1872783
+        },
+        {
+            "name": "Ain't That Love",
+            "artist": "Ray Charles",
+            "id": 21632758
+        },
+        {
+            "name": "Come Back Baby",
+            "artist": "Ray Charles",
+            "id": 21632760
+        },
+        {
+            "name": "Isn't It Wonderful",
+            "artist": "Ray Charles",
+            "id": 1870796
+        },
+        {
+            "name": "She's Gone",
+            "artist": "Ray Charles",
+            "id": 1870802
+        },
+        {
+            "name": "Wheel Of Fortune",
+            "artist": "Ray Charles",
+            "id": 1870793
+        },
+        {
+            "name": "Love's Gonna Bite You Back",
+            "artist": "Ray Charles",
+            "id": 1870791
+        },
+        {
+            "name": "I Don't Want No One But You",
+            "artist": "Ray Charles",
+            "id": 1870798
+        },
+        {
+            "name": "Why Me Lord?",
+            "artist": "Ray Charles",
+            "id": 1870804
+        },
+        {
+            "name": "There'll Be Some Changes Made",
+            "artist": "Ray Charles",
+            "id": 1870795
+        },
+        {
+            "name": "A Little Bitty Tear",
+            "artist": "Ray Charles",
+            "id": 1870800
+        },
+        {
+            "name": "It Hurts To Be In Love",
+            "artist": "Ray Charles",
+            "id": 1870792
+        },
+        {
+            "name": "I'm Gonna Keep On Singin'",
+            "artist": "Ray Charles",
+            "id": 1870794
+        },
+        {
+            "name": "Georgia on My Mind",
+            "artist": "Ray Charles",
+            "id": 1871399
+        },
+        {
+            "name": "Hit the Road Jack",
+            "artist": "Ray Charles",
+            "id": 1871403
+        },
+        {
+            "name": "Unchain My Heart",
+            "artist": "Ray Charles",
+            "id": 1871408
+        },
+        {
+            "name": "Mess Around",
+            "artist": "Ray Charles",
+            "id": 1871370
+        },
+        {
+            "name": "I Got a Woman",
+            "artist": "Ray Charles",
+            "id": 1871374
+        },
+        {
+            "name": "Mary Ann",
+            "artist": "Ray Charles",
+            "id": 1871388
+        },
+        {
+            "name": "You Don't Know Me [live]",
+            "artist": "Ray Charles",
+            "id": 1871418
+        },
+        {
+            "name": "Hallelujah, I Love Her So [live]",
+            "artist": "Ray Charles",
+            "id": 1871377
+        },
+        {
+            "name": "I Can't Stop Loving You [live]",
+            "artist": "Ray Charles",
+            "id": 1871411
+        },
+        {
+            "name": "(Night Time Is) The Right Time",
+            "artist": "Ray Charles",
+            "id": 1871384
+        },
+        {
+            "name": "Georgia on My Mind [live]",
+            "artist": "Ray Charles",
+            "id": 1871426
+        },
+        {
+            "name": "What'd I Say [live]",
+            "artist": "Ray Charles",
+            "id": 1871395
+        },
+        {
+            "name": "Hard Times (No One Knows Better Than I)",
+            "artist": "Ray Charles",
+            "id": 1871391
+        },
+        {
+            "name": "Bye Bye Love",
+            "artist": "Ray Charles",
+            "id": 1871416
+        },
+        {
+            "name": "Drown in My Own Tears",
+            "artist": "Ray Charles",
+            "id": 1871381
+        },
+        {
+            "name": "Baby, It's Cold Outside",
+            "artist": "Ray Charles",
+            "id": 21628927
+        },
+        {
+            "name": "Just You, Just Me",
+            "artist": "Ray Charles",
+            "id": 21628937
+        },
+        {
+            "name": "Two Old Cats Like Us (Album Version)",
+            "artist": "Hank Williams",
+            "id": 21637883
+        },
+        {
+            "name": "I've Got a Woman",
+            "artist": "Ray Charles",
+            "id": 1874729
+        },
+        {
+            "name": "Hit the Road Jack",
+            "artist": "Ray Charles",
+            "id": 21630694
+        },
+        {
+            "name": "Losing Hand",
+            "artist": "Ray Charles",
+            "id": 21630696
+        },
+        {
+            "name": "I Can't Stop Loving You",
+            "artist": "Ray Charles",
+            "id": 1870965
+        },
+        {
+            "name": "The Long and Winding Road",
+            "artist": "Ray Charles",
+            "id": 1870973
+        },
+        {
+            "name": "Georgia on My Mind",
+            "artist": "Ray Charles",
+            "id": 1870978
+        },
+        {
+            "name": "Busted",
+            "artist": "Ray Charles",
+            "id": 1870959
+        },
+        {
+            "name": "How Long Blues",
+            "artist": "Ray Charles",
+            "id": 1870886
+        },
+        {
+            "name": "Busted",
+            "artist": "Ray Charles",
+            "id": 1871861
+        },
+        {
+            "name": "Hit The Road Jack",
+            "artist": "Ray Charles",
+            "id": 1871846
+        },
+        {
+            "name": "Georgia On My Mind",
+            "artist": "Ray Charles",
+            "id": 1871838
+        },
+        {
+            "name": "What'd I Say, Pts. 1 & 2",
+            "artist": "Ray Charles",
+            "id": 1871831
+        },
+        {
+            "name": "You Are My Sunshine",
+            "artist": "Ray Charles",
+            "id": 1871857
+        },
+        {
+            "name": "I've Got A Woman",
+            "artist": "Ray Charles",
+            "id": 1871813
+        },
+        {
+            "name": "Hallelujah I Love Her So",
+            "artist": "Ray Charles",
+            "id": 1871825
+        },
+        {
+            "name": "Drown In My Own Tears",
+            "artist": "Ray Charles",
+            "id": 1871821
+        },
+        {
+            "name": "Georgia On My Mind",
+            "artist": "Ray Charles",
+            "id": 27246108
+        },
+        {
+            "name": "You Are My Sunshine",
+            "artist": "Ray Charles",
+            "id": 26779126
+        },
+        {
+            "name": "Crying Time",
+            "artist": "Ray Charles",
+            "id": 26779139
+        },
+        {
+            "name": "I Can't Stop Loving You",
+            "artist": "Ray Charles",
+            "id": 26779122
+        },
+        {
+            "name": "I Don't Need No Doctor",
+            "artist": "Ray Charles",
+            "id": 26779143
+        },
+        {
+            "name": "Hit The Road Jack",
+            "artist": "Ray Charles",
+            "id": 26779117
+        },
+        {
+            "name": "Ain't That Love",
+            "artist": "Ray Charles",
+            "id": 27473053
+        },
+        {
+            "name": "What'd I Say, Pt. 1 & 2",
+            "artist": "Ray Charles",
+            "id": 1874494
+        },
+        {
+            "name": "Rockhouse, Pt. 1 & 2",
+            "artist": "Ray Charles",
+            "id": 1874516
+        },
+        {
+            "name": "Ellie, My Love",
+            "artist": "Ray Charles",
+            "id": 1872406
+        },
+        {
+            "name": "I Had a Dream",
+            "artist": "Ray Charles",
+            "id": 1874603
+        },
+        {
+            "name": "America the Beautiful",
+            "artist": "Ray Charles",
+            "id": 1872954
+        },
+        {
+            "name": "Hit The Road Jack",
+            "artist": "Ray Charles",
+            "id": 27303844
+        },
+        {
+            "name": "A Fool For You",
+            "artist": "Ray Charles",
+            "id": 26927281
+        },
+        {
+            "name": "What'd I Say",
+            "artist": "Ray Charles",
+            "id": 1870987
+        },
+        {
+            "name": "Georgia On My Mind",
+            "artist": "Ray Charles",
+            "id": 1871033
+        },
+        {
+            "name": "I Got A Woman",
+            "artist": "Ray Charles",
+            "id": 1871086
+        },
+        {
+            "name": "Hit the Road Jack",
+            "artist": "Ray Charles",
+            "id": 27454480
+        },
+        {
+            "name": "What'd I Say",
+            "artist": "Ray Charles",
+            "id": 27028613
+        },
+        {
+            "name": "I Got A Woman",
+            "artist": "Ray Charles",
+            "id": 1873803
+        },
+        {
+            "name": "Hallelujah I Love Her So",
+            "artist": "Ray Charles",
+            "id": 1873791
+        },
+        {
+            "name": "Hit The Road Jack",
+            "artist": "Ray Charles",
+            "id": 21635259
+        },
+        {
+            "name": "Am I Blue",
+            "artist": "Ray Charles",
+            "id": 21635219
+        },
+        {
+            "name": "Just For A Thrill",
+            "artist": "Ray Charles",
+            "id": 21637723
+        },
+        {
+            "name": "Am I Blue",
+            "artist": "Ray Charles",
+            "id": 21637730
+        },
+        {
+            "name": "You Won't Let Me Go",
+            "artist": "Ray Charles",
+            "id": 21637724
+        },
+        {
+            "name": "Let The Good Times Roll",
+            "artist": "Ray Charles",
+            "id": 21637715
+        },
+        {
+            "name": "Ray Charles Blues",
+            "artist": "Ray Charles",
+            "id": 26909980
+        },
+        {
+            "name": "Ain't That Love",
+            "artist": "Ray Charles",
+            "id": 1872310
+        },
+        {
+            "name": "Hallelujah, I Love Her So",
+            "artist": "Ray Charles",
+            "id": 1872287
+        },
+        {
+            "name": "What'd I Say, Pt. 1 & 2",
+            "artist": "Ray Charles",
+            "id": 1872376
+        },
+        {
+            "name": "Tell Me How Do You Feel",
+            "artist": "Ray Charles",
+            "id": 1872372
+        },
+        {
+            "name": "Blackjack",
+            "artist": "Ray Charles",
+            "id": 1872242
+        },
+        {
+            "name": "That's Enough",
+            "artist": "Ray Charles",
+            "id": 1872329
+        },
+        {
+            "name": "It Should Have Been Me",
+            "artist": "Ray Charles",
+            "id": 1872199
+        },
+        {
+            "name": "Lonely Avenue",
+            "artist": "Ray Charles",
+            "id": 1872295
+        },
+        {
+            "name": "I've Got a Woman",
+            "artist": "Ray Charles",
+            "id": 1872246
+        },
+        {
+            "name": "Drown in My Own Tears",
+            "artist": "Ray Charles",
+            "id": 1872282
+        },
+        {
+            "name": "Jumpin' in the Mornin'",
+            "artist": "Ray Charles",
+            "id": 1872194
+        },
+        {
+            "name": "The Sun's Gonna Shine Again",
+            "artist": "Ray Charles",
+            "id": 1872182
+        },
+        {
+            "name": "Roll with My Baby",
+            "artist": "Ray Charles",
+            "id": 1872186
+        },
+        {
+            "name": "Mr. Charles' Blues",
+            "artist": "Ray Charles",
+            "id": 1872239
+        },
+        {
+            "name": "Heartbreaker",
+            "artist": "Ray Charles",
+            "id": 1872209
+        },
+        {
+            "name": "My Bonnie",
+            "artist": "Ray Charles",
+            "id": 1872360
+        },
+        {
+            "name": "What Would I Do Without You",
+            "artist": "Ray Charles",
+            "id": 1872291
+        },
+        {
+            "name": "What Kind of Man Are You",
+            "artist": "Ray Charles",
+            "id": 1872335
+        },
+        {
+            "name": "I Had a Dream",
+            "artist": "Ray Charles",
+            "id": 1872348
+        },
+        {
+            "name": "Mary Ann",
+            "artist": "Ray Charles",
+            "id": 1872277
+        },
+        {
+            "name": "Sinner's Prayer",
+            "artist": "Ray Charles",
+            "id": 1872213
+        },
+        {
+            "name": "Sorry Seems To Be The Hardest Word (feat. Elton John)",
+            "artist": "Ray Charles",
+            "id": 27806698
+        },
+        {
+            "name": "I Can't Stop Loving You",
+            "artist": "Ray Charles",
+            "id": 27806703
+        },
+        {
+            "name": "Georgia On My Mind",
+            "artist": "Ray Charles",
+            "id": 27806693
+        },
+        {
+            "name": "A Song For You",
+            "artist": "Ray Charles",
+            "id": 27806700
+        },
+        {
+            "name": "Hit The Road Jack",
+            "artist": "Ray Charles",
+            "id": 27806709
+        },
+        {
+            "name": "If I Could.",
+            "artist": "Ray Charles",
+            "id": 27806694
+        },
+        {
+            "name": "Ellie My Love",
+            "artist": "Ray Charles",
+            "id": 27806702
+        },
+        {
+            "name": "Over The Rainbow",
+            "artist": "Ray Charles",
+            "id": 27806695
+        },
+        {
+            "name": "Yesterday",
+            "artist": "Ray Charles",
+            "id": 27806718
+        },
+        {
+            "name": "Unchain My Heart",
+            "artist": "Ray Charles",
+            "id": 27806699
+        },
+        {
+            "name": "Imagine (feat. Ruben Studdard and the Harlem Gospel Singers)",
+            "artist": "Ray Charles",
+            "id": 27806710
+        },
+        {
+            "name": "Baby Grand (feat. Billy Joel)",
+            "artist": "Ray Charles",
+            "id": 27806708
+        },
+        {
+            "name": "What'd I Say, Part I",
+            "artist": "Ray Charles",
+            "id": 27806701
+        },
+        {
+            "name": "Take These Chains From My Heart",
+            "artist": "Ray Charles",
+            "id": 27806697
+        },
+        {
+            "name": "Thanks for Bringing Love Around Again",
+            "artist": "Ray Charles",
+            "id": 27806696
+        },
+        {
+            "name": "Say No More",
+            "artist": "Ray Charles",
+            "id": 27806704
+        },
+        {
+            "name": "Ruby",
+            "artist": "Ray Charles",
+            "id": 27806705
+        },
+        {
+            "name": "None Of Us Are Free",
+            "artist": "Ray Charles",
+            "id": 27806714
+        },
+        {
+            "name": "You Don't Know Me (feat. Diana Krall)",
+            "artist": "Ray Charles",
+            "id": 27806716
+        },
+        {
+            "name": "Mother",
+            "artist": "Ray Charles",
+            "id": 27806706
+        },
+        {
+            "name": "My Baby (I Love Her, Yes I Do)",
+            "artist": "Ray Charles",
+            "id": 27806728
+        },
+        {
+            "name": "Mess Around",
+            "artist": "Ray Charles",
+            "id": 27806727
+        },
+        {
+            "name": "It Had To Be You",
+            "artist": "Ray Charles",
+            "id": 27806713
+        },
+        {
+            "name": "Alone Together",
+            "artist": "Ray Charles",
+            "id": 27806715
+        },
+        {
+            "name": "Seven Spanish Angels",
+            "artist": "Ray Charles",
+            "id": 27806726
+        },
+        {
+            "name": "It Ain't Gonna Worry My Mind",
+            "artist": "Ray Charles",
+            "id": 27806722
+        },
+        {
+            "name": "Something's Wrong",
+            "artist": "Ray Charles",
+            "id": 27806725
+        },
+        {
+            "name": "You Feel Good All Over",
+            "artist": "Ray Charles",
+            "id": 27806724
+        },
+        {
+            "name": "That Lucky Old Sun",
+            "artist": "Ray Charles",
+            "id": 27806711
+        },
+        {
+            "name": "Where Can I Go",
+            "artist": "Ray Charles",
+            "id": 27806717
+        },
+        {
+            "name": "Eleanor Rigby",
+            "artist": "Ray Charles",
+            "id": 27806719
+        },
+        {
+            "name": "Separate Ways",
+            "artist": "Ray Charles",
+            "id": 27806720
+        },
+        {
+            "name": "Baby, It's Cold Outside [*]",
+            "artist": "Ray Charles",
+            "id": 1872555
+        },
+        {
+            "name": "Christmas in My Heart",
+            "artist": "Ray Charles",
+            "id": 1872546
+        },
+        {
+            "name": "The Little Drummer Boy",
+            "artist": "Ray Charles",
+            "id": 1872530
+        }
+    ]
+}

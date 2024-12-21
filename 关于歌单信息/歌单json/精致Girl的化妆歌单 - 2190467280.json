@@ -1,13 +1,208 @@
 {
     "playlist_info": {
         "name": "精致Girl的化妆歌单",
-        "trackcount": 293,
-        "playcount": 5686910,
+        "trackcount": 331,
+        "playcount": 5971142,
         "creator": "锅包肉杀手M",
         "createDate": "2018-04-18",
-        "heat": 2990.0
+        "heat": 3001.0
     },
     "songs": [
+        {
+            "name": "The Hills",
+            "artist": "SVSH",
+            "id": 1961694241
+        },
+        {
+            "name": "4:55",
+            "artist": "CREAM",
+            "id": 1309915266
+        },
+        {
+            "name": "Paint The Town Red (Sped Up)",
+            "artist": "Doja Cat",
+            "id": 2078502782
+        },
+        {
+            "name": "Later *****es",
+            "artist": "The Prince Karma",
+            "id": 567098859
+        },
+        {
+            "name": "Groovejet (Andrey Exx & Fomichev Radio Edit)",
+            "artist": "Lissat & Voltaxx",
+            "id": 27939136
+        },
+        {
+            "name": "Gorgeous",
+            "artist": "Ash",
+            "id": 427139331
+        },
+        {
+            "name": "Dilemma",
+            "artist": "Lika Morgan",
+            "id": 1920339932
+        },
+        {
+            "name": "Dance The Night",
+            "artist": "Dua Lipa",
+            "id": 2065100107
+        },
+        {
+            "name": "My Humps",
+            "artist": "Black Eyed Peas",
+            "id": 24825392
+        },
+        {
+            "name": "Showgirl",
+            "artist": "Bluey Robinson",
+            "id": 31260601
+        },
+        {
+            "name": "BABYDOLL (Speed)",
+            "artist": "Ari Abdul",
+            "id": 1995673566
+        },
+        {
+            "name": "Change Your Mind (No Seas Cortes)",
+            "artist": "Britney Spears",
+            "id": 427416504
+        },
+        {
+            "name": "Die Young",
+            "artist": "Kesha",
+            "id": 26233098
+        },
+        {
+            "name": "My Humps",
+            "artist": "Black Eyed Peas",
+            "id": 28387608
+        },
+        {
+            "name": "Break My Heart",
+            "artist": "Dua Lipa",
+            "id": 1479683880
+        },
+        {
+            "name": "Shower",
+            "artist": "Becky G",
+            "id": 29751306
+        },
+        {
+            "name": "Get Ugly (Radio Edit)",
+            "artist": "Zane Jason Johns",
+            "id": 1436036970
+        },
+        {
+            "name": "Be Alright",
+            "artist": "Ariana Grande",
+            "id": 1846212931
+        },
+        {
+            "name": "Treasure",
+            "artist": "Bruno Mars",
+            "id": 1422447630
+        },
+        {
+            "name": "Mind Games",
+            "artist": "Seeped",
+            "id": 1957833553
+        },
+        {
+            "name": "24K Magic",
+            "artist": "Bruno Mars",
+            "id": 1356926007
+        },
+        {
+            "name": "Whisper",
+            "artist": "Able Heart",
+            "id": 1861330324
+        },
+        {
+            "name": "Ayo",
+            "artist": "Chris Brown & Tyga",
+            "id": 31961578
+        },
+        {
+            "name": "Right Now",
+            "artist": "Rihanna",
+            "id": 26362202
+        },
+        {
+            "name": "Pretty Girls Walk",
+            "artist": "Big Boss Vette",
+            "id": 1989323136
+        },
+        {
+            "name": "Everyday",
+            "artist": "Ariana Grande",
+            "id": 1846213654
+        },
+        {
+            "name": "That's What I Like（Slowed）",
+            "artist": "CampNouu",
+            "id": 1920929568
+        },
+        {
+            "name": "That's What I Like（降调）（手背 remix）",
+            "artist": "可以亲吻你的手背吗",
+            "id": 1933920033
+        },
+        {
+            "name": "M.I.L.F. $",
+            "artist": "Fergie",
+            "id": 419254882
+        },
+        {
+            "name": "(Drop Dead) Beautiful",
+            "artist": "Britney Spears",
+            "id": 20515596
+        },
+        {
+            "name": "Show It",
+            "artist": "Chris Brown",
+            "id": 1958269749
+        },
+        {
+            "name": "Shiver (Club Edit)",
+            "artist": "Sian",
+            "id": 1474001376
+        },
+        {
+            "name": "Mad Love",
+            "artist": "Sean Paul",
+            "id": 1470923551
+        },
+        {
+            "name": "BURNITUP!",
+            "artist": "Janet Jackson",
+            "id": 34986146
+        },
+        {
+            "name": "679",
+            "artist": "Fetty Wap",
+            "id": 30612816
+        },
+        {
+            "name": "Feeling",
+            "artist": "BB Diamond",
+            "id": 405566042
+        },
+        {
+            "name": "Yeah!",
+            "artist": "Usher",
+            "id": 34497296
+        },
+        {
+            "name": "Freaky Deaky",
+            "artist": "Tyga",
+            "id": 1922779061
+        },
+        {
+            "name": "SloMo (Eurovision's Dancebreak Edit)",
+            "artist": "Chanel",
+            "id": 1946260993
+        },
         {
             "name": "Promise",
             "artist": "Kid Ink",
@@ -160,7 +355,7 @@
         },
         {
             "name": "Hurt",
-            "artist": "BradJeans",
+            "artist": "NewJeans",
             "id": 1998568947
         },
         {
@@ -349,7 +544,7 @@
             "id": 1920340527
         },
         {
-            "name": "Freal Luv",
+            "name": "Freal Luv (feat. Marshmello, Chanyeol & Tinashe)",
             "artist": "Far East Movement",
             "id": 436487102
         },
@@ -367,11 +562,6 @@
             "name": "Formula",
             "artist": "Labrinth",
             "id": 1394155884
-        },
-        {
-            "name": "679",
-            "artist": "Fetty Wap",
-            "id": 30612816
         },
         {
             "name": "Domino",
@@ -740,7 +930,7 @@
         },
         {
             "name": "魔动闪霸：对手（翻自 Smelly D）",
-            "artist": "李承陽",
+            "artist": "一口神探",
             "id": 1456278270
         },
         {
@@ -844,7 +1034,7 @@
             "id": 1436637020
         },
         {
-            "name": "Lose Control（翻自 Meduza） ",
+            "name": "Lose Control（翻自 Meduza）",
             "artist": "段弋",
             "id": 1431336379
         },

@@ -1,13 +1,38 @@
 {
     "playlist_info": {
         "name": "Drum&Bass | 鼓和贝斯的节奏冲击",
-        "trackcount": 60,
-        "playcount": 2282250,
+        "trackcount": 65,
+        "playcount": 2344119,
         "creator": "云音乐电音星球",
         "createDate": "2020-10-28",
-        "heat": 2344.0
+        "heat": 2200.0
     },
     "songs": [
+        {
+            "name": "Balling (S.P.Y Remix)",
+            "artist": "Vibe Chemistry",
+            "id": 2064950967
+        },
+        {
+            "name": "F Minor Simulator",
+            "artist": "MUZZ",
+            "id": 2056325446
+        },
+        {
+            "name": "In The City",
+            "artist": "Basstripper",
+            "id": 2063072869
+        },
+        {
+            "name": "So Much In Love (Sub Focus Remix)",
+            "artist": "D.O.D",
+            "id": 2062537828
+        },
+        {
+            "name": "Rhythm",
+            "artist": "Tantrum Desire",
+            "id": 2055037776
+        },
         {
             "name": "Alive (feat. Poppy Baskcomb)",
             "artist": "Dimension",
@@ -70,7 +95,7 @@
         },
         {
             "name": "Let Me Hold You",
-            "artist": "Netsky",
+            "artist": "Hybrid Minds",
             "id": 1475708629
         },
         {

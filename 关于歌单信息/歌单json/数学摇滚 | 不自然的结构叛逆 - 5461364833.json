@@ -1,22 +1,47 @@
 {
     "playlist_info": {
         "name": "数学摇滚 | 不自然的结构叛逆",
-        "trackcount": 50,
-        "playcount": 725510,
+        "trackcount": 55,
+        "playcount": 762844,
         "creator": "云音乐官方歌单",
         "createDate": "2021-01-12",
-        "heat": 808.0
+        "heat": 771.0
     },
     "songs": [
+        {
+            "name": "界门纲目科属种",
+            "artist": "鬼否",
+            "id": 1906029847
+        },
+        {
+            "name": "银河",
+            "artist": "大象体操",
+            "id": 26484762
+        },
+        {
+            "name": "Pills",
+            "artist": "鬼否",
+            "id": 29843264
+        },
+        {
+            "name": "Nap",
+            "artist": "Standards",
+            "id": 1454087554
+        },
+        {
+            "name": "Curry (JP)",
+            "artist": "cotoba",
+            "id": 1815851023
+        },
         {
             "name": "电动少女",
             "artist": "Chinese Football",
             "id": 509312402
         },
         {
-            "name": "银河",
-            "artist": "大象体操",
-            "id": 26484762
+            "name": "Smile",
+            "artist": "Standards",
+            "id": 1933760078
         },
         {
             "name": "The Summer Ends",
@@ -69,7 +94,7 @@
             "id": 27723354
         },
         {
-            "name": "グッドバイ Goodbye　Album Version feat. Toki Asako 土岐麻子",
+            "name": "グッドバイ -album version-",
             "artist": "toe",
             "id": 22664748
         },

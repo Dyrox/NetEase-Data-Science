@@ -1,13 +1,23 @@
 {
     "playlist_info": {
         "name": "电音 压迫感拉满",
-        "trackcount": 164,
-        "playcount": 6440166,
+        "trackcount": 166,
+        "playcount": 6744916,
         "creator": "倚佩",
         "createDate": "2020-08-21",
-        "heat": 6180.0
+        "heat": 5948.0
     },
     "songs": [
+        {
+            "name": "All Designer",
+            "artist": "Hedegaard",
+            "id": 1842033421
+        },
+        {
+            "name": "Infinity 0.75X",
+            "artist": "Young Music House",
+            "id": 1958683818
+        },
         {
             "name": "Diamond",
             "artist": "Florian Cassiede",
@@ -69,13 +79,13 @@
             "id": 1878429485
         },
         {
-            "name": "Bamba",
+            "name": "Bamba!",
             "artist": "Armağan Oruç",
             "id": 1892409985
         },
         {
             "name": "Ass Like That",
-            "artist": "Psaxxx",
+            "artist": "அலாதீன் இசை",
             "id": 1948083890
         },
         {
@@ -164,8 +174,8 @@
             "id": 1822399912
         },
         {
-            "name": "WAIT",
-            "artist": "X-GANG",
+            "name": "Wait",
+            "artist": "WIB3X",
             "id": 1824197238
         },
         {
@@ -594,7 +604,7 @@
             "id": 1323301875
         },
         {
-            "name": "p***y Pop",
+            "name": "pSexy Pop",
             "artist": "GRABOTE",
             "id": 1321476315
         },
@@ -824,7 +834,7 @@
             "id": 504016381
         },
         {
-            "name": "Cyka Blyat",
+            "name": "Сука блядь",
             "artist": "DJ Blyatman",
             "id": 1368324900
         }

@@ -1,13 +1,23 @@
 {
     "playlist_info": {
         "name": "花店营业歌单florist花艺师必备",
-        "trackcount": 107,
-        "playcount": 1405084,
+        "trackcount": 109,
+        "playcount": 1441608,
         "creator": "花工汉钠",
         "createDate": "2018-04-30",
-        "heat": 743.0
+        "heat": 728.0
     },
     "songs": [
+        {
+            "name": "Goldfish memory",
+            "artist": "kidult.",
+            "id": 1915296918
+        },
+        {
+            "name": "Swim and Sleep (Like a Shark)",
+            "artist": "Unknown Mortal Orchestra",
+            "id": 25779169
+        },
         {
             "name": "森の小さなレストラン",
             "artist": "手嶌葵",

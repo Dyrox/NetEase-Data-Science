@@ -1,0 +1,932 @@
+{
+    "playlist_info": {
+        "name": "起床/健身/洗澡/通勤/开车/跑步/醒脑",
+        "trackcount": 184,
+        "playcount": 10567092,
+        "creator": "三韦三",
+        "createDate": "2018-10-25",
+        "heat": 5871.0
+    },
+    "songs": [
+        {
+            "name": "Lavender Haze",
+            "artist": "Taylor Swift",
+            "id": 1990192689
+        },
+        {
+            "name": "Say My Name",
+            "artist": "NIKI",
+            "id": 565841054
+        },
+        {
+            "name": "靠近我",
+            "artist": "张新成",
+            "id": 2077516623
+        },
+        {
+            "name": "取经",
+            "artist": "宁桓宇",
+            "id": 2083765947
+        },
+        {
+            "name": "I Don’t Think That I Like Her",
+            "artist": "Charlie Puth",
+            "id": 1986884302
+        },
+        {
+            "name": "Rich *****",
+            "artist": "Bankrol Hayden",
+            "id": 1446219771
+        },
+        {
+            "name": "Every Second",
+            "artist": "Mina Okabe",
+            "id": 1846467132
+        },
+        {
+            "name": "Ooo La La (feat. Luh Kel)",
+            "artist": "Rozei",
+            "id": 1483638985
+        },
+        {
+            "name": "Drive Safe",
+            "artist": "Rich Brian",
+            "id": 1380104337
+        },
+        {
+            "name": "Straight A's",
+            "artist": "Connor Price",
+            "id": 1979382551
+        },
+        {
+            "name": "The Race",
+            "artist": "Chris James",
+            "id": 2017118831
+        },
+        {
+            "name": "Say So",
+            "artist": "Doja Cat",
+            "id": 1444606082
+        },
+        {
+            "name": "12 Hours",
+            "artist": "Chris James",
+            "id": 1944869617
+        },
+        {
+            "name": "La La Lost You",
+            "artist": "88rising",
+            "id": 1396162009
+        },
+        {
+            "name": "Calculator",
+            "artist": "88rising",
+            "id": 1396162008
+        },
+        {
+            "name": "Left and Right (Feat. Jung Kook of BTS)",
+            "artist": "Charlie Puth",
+            "id": 1986885026
+        },
+        {
+            "name": "Thank Me Later",
+            "artist": "Anna of the North",
+            "id": 1370378324
+        },
+        {
+            "name": "Bulletproof",
+            "artist": "Griffin Oskar",
+            "id": 457761714
+        },
+        {
+            "name": "Past Lives",
+            "artist": "sapientdream",
+            "id": 1384482575
+        },
+        {
+            "name": "With You",
+            "artist": "Mokita",
+            "id": 1318620393
+        },
+        {
+            "name": "urs",
+            "artist": "NIKI",
+            "id": 1365468656
+        },
+        {
+            "name": "If I Can't Have You",
+            "artist": "Shawn Mendes",
+            "id": 1362857141
+        },
+        {
+            "name": "for him.",
+            "artist": "Troye Sivan",
+            "id": 37955044
+        },
+        {
+            "name": "Peach Jam",
+            "artist": "88rising",
+            "id": 1293904024
+        },
+        {
+            "name": "Eyes Blue Like The Atlantic, Pt. 2",
+            "artist": "Sista Prod",
+            "id": 1470852363
+        },
+        {
+            "name": "West Coast",
+            "artist": "OneRepublic",
+            "id": 1923385373
+        },
+        {
+            "name": "Cruel Summer",
+            "artist": "Taylor Swift",
+            "id": 1382576173
+        },
+        {
+            "name": "Sober",
+            "artist": "G-Eazy",
+            "id": 522511677
+        },
+        {
+            "name": "Bad Habits",
+            "artist": "Ed Sheeran",
+            "id": 1855475139
+        },
+        {
+            "name": "Easily",
+            "artist": "Bruno Major",
+            "id": 449577802
+        },
+        {
+            "name": "Light Switch",
+            "artist": "Charlie Puth",
+            "id": 1913421961
+        },
+        {
+            "name": "34+35",
+            "artist": "Ariana Grande",
+            "id": 1490999365
+        },
+        {
+            "name": "7 rings (Remix)",
+            "artist": "Ariana Grande",
+            "id": 1343492095
+        },
+        {
+            "name": "Save Your Tears (Remix)",
+            "artist": "The Weeknd",
+            "id": 1839418993
+        },
+        {
+            "name": "Levitating",
+            "artist": "Dua Lipa",
+            "id": 1433934518
+        },
+        {
+            "name": "Kiss Me More",
+            "artist": "Doja Cat",
+            "id": 1835514122
+        },
+        {
+            "name": "Peaches",
+            "artist": "Justin Bieber",
+            "id": 1830419924
+        },
+        {
+            "name": "STAY",
+            "artist": "The Kid LAROI",
+            "id": 1859245776
+        },
+        {
+            "name": "10,000 Hours",
+            "artist": "Dan + Shay",
+            "id": 1394494933
+        },
+        {
+            "name": "Mad at Disney",
+            "artist": "salem ilese",
+            "id": 1454317928
+        },
+        {
+            "name": "Childhood Dreams",
+            "artist": "Gaminl",
+            "id": 1473552803
+        },
+        {
+            "name": "Shivers",
+            "artist": "Ed Sheeran",
+            "id": 1876212794
+        },
+        {
+            "name": "Girl",
+            "artist": "Alexander 23",
+            "id": 1399054581
+        },
+        {
+            "name": "Title",
+            "artist": "Dawin",
+            "id": 1401831840
+        },
+        {
+            "name": "Warm (feat. Mia)",
+            "artist": "Dre'es",
+            "id": 524148990
+        },
+        {
+            "name": "100 Degrees",
+            "artist": "Rich Brian",
+            "id": 1380100797
+        },
+        {
+            "name": "Chosen (feat. Ty Dolla $ign)",
+            "artist": "Blxst",
+            "id": 1491535096
+        },
+        {
+            "name": "No Blueberries",
+            "artist": "CL",
+            "id": 1803886229
+        },
+        {
+            "name": "Midsummer Madness",
+            "artist": "88rising",
+            "id": 571339219
+        },
+        {
+            "name": "Mood",
+            "artist": "24kGoldn",
+            "id": 1464325108
+        },
+        {
+            "name": "History",
+            "artist": "88rising",
+            "id": 1293953338
+        },
+        {
+            "name": "Whip A Tesla",
+            "artist": "Yung Gravy",
+            "id": 1368704646
+        },
+        {
+            "name": "Couch Potato",
+            "artist": "Jakubi",
+            "id": 29394065
+        },
+        {
+            "name": "Marmalade",
+            "artist": "Macklemore",
+            "id": 493275349
+        },
+        {
+            "name": "Drowning",
+            "artist": "N i G H T S",
+            "id": 1360802806
+        },
+        {
+            "name": "Lalala",
+            "artist": "Y2K",
+            "id": 1373835581
+        },
+        {
+            "name": "Pray 4 Love",
+            "artist": "Travis Scott",
+            "id": 34280328
+        },
+        {
+            "name": "Knockin' On My Door",
+            "artist": "B.Reith",
+            "id": 28188471
+        },
+        {
+            "name": "Paradise",
+            "artist": "George Ezra",
+            "id": 528864711
+        },
+        {
+            "name": "bighouse pyromaniac",
+            "artist": "Fool's Garden",
+            "id": 17673966
+        },
+        {
+            "name": "La Vida Seguirá",
+            "artist": "Álvaro Soler",
+            "id": 34033985
+        },
+        {
+            "name": "In Your Eyes",
+            "artist": "The Weeknd",
+            "id": 1432459913
+        },
+        {
+            "name": "Heartless",
+            "artist": "The Weeknd",
+            "id": 1406230561
+        },
+        {
+            "name": "The Nights",
+            "artist": "Avicii",
+            "id": 33717754
+        },
+        {
+            "name": "Bad Intentions",
+            "artist": "mishlawi",
+            "id": 1331812809
+        },
+        {
+            "name": "Real Friends",
+            "artist": "Camila Cabello",
+            "id": 522511239
+        },
+        {
+            "name": "Juicy",
+            "artist": "Doja Cat",
+            "id": 1384420814
+        },
+        {
+            "name": "Someone You Loved",
+            "artist": "Lewis Capaldi",
+            "id": 1323911406
+        },
+        {
+            "name": "100 Ways",
+            "artist": "王嘉尔",
+            "id": 1431866827
+        },
+        {
+            "name": "Toosie Slide",
+            "artist": "Drake",
+            "id": 1437204419
+        },
+        {
+            "name": "BOP",
+            "artist": "DaBaby",
+            "id": 1393575498
+        },
+        {
+            "name": "Ballin’",
+            "artist": "Mustard",
+            "id": 1374617484
+        },
+        {
+            "name": "hot girl bummer",
+            "artist": "Blackbear",
+            "id": 1386012293
+        },
+        {
+            "name": "Blinding Lights",
+            "artist": "The Weeknd",
+            "id": 1406633327
+        },
+        {
+            "name": "The Bones",
+            "artist": "Maren Morris",
+            "id": 1347439894
+        },
+        {
+            "name": "Tequila Sunrise (feat. AUGUST 08 & GoldLink)",
+            "artist": "88rising",
+            "id": 1396163566
+        },
+        {
+            "name": "ROXANNE",
+            "artist": "Arizona Zervas",
+            "id": 1396347452
+        },
+        {
+            "name": "Memories",
+            "artist": "Maroon 5",
+            "id": 1392089153
+        },
+        {
+            "name": "아무노래",
+            "artist": "Zico",
+            "id": 1416378346
+        },
+        {
+            "name": "Circles",
+            "artist": "Post Malone",
+            "id": 1387574419
+        },
+        {
+            "name": "No Guidance",
+            "artist": "Chris Brown",
+            "id": 1370462487
+        },
+        {
+            "name": "Magic In The Hamptons",
+            "artist": "Social House",
+            "id": 572032429
+        },
+        {
+            "name": "Everyday, Everyday",
+            "artist": "Manila Killa",
+            "id": 532776335
+        },
+        {
+            "name": "Real Friends",
+            "artist": "Camila Cabello",
+            "id": 1302132104
+        },
+        {
+            "name": "Normal",
+            "artist": "Sasha Alex Sloan",
+            "id": 534544522
+        },
+        {
+            "name": "Unfortunate Soul",
+            "artist": "Kailee Morgue",
+            "id": 531672176
+        },
+        {
+            "name": "Close To Me",
+            "artist": "Ellie Goulding",
+            "id": 1320269066
+        },
+        {
+            "name": "Señorita",
+            "artist": "Shawn Mendes",
+            "id": 1373168742
+        },
+        {
+            "name": "Bad Ideas",
+            "artist": "Tessa Violet",
+            "id": 1326439375
+        },
+        {
+            "name": "Crush",
+            "artist": "Tessa Violet",
+            "id": 572166420
+        },
+        {
+            "name": "Hit the Rhyme",
+            "artist": "蛋堡",
+            "id": 76875
+        },
+        {
+            "name": "Dawn of us",
+            "artist": "王嘉尔",
+            "id": 553813030
+        },
+        {
+            "name": "Let's Fall in Love for the Night",
+            "artist": "FINNEAS",
+            "id": 1314353013
+        },
+        {
+            "name": "GQ",
+            "artist": "Lola Coca",
+            "id": 410654865
+        },
+        {
+            "name": "my boy",
+            "artist": "Billie Eilish",
+            "id": 493448422
+        },
+        {
+            "name": "Girls",
+            "artist": "Rita Ora",
+            "id": 557635108
+        },
+        {
+            "name": "Swervin",
+            "artist": "A Boogie Wit da Hoodie",
+            "id": 1334329149
+        },
+        {
+            "name": "Sweet but Psycho",
+            "artist": "Ava Max",
+            "id": 1300528275
+        },
+        {
+            "name": "Tequila",
+            "artist": "Dan + Shay",
+            "id": 525734371
+        },
+        {
+            "name": "YOSEMITE",
+            "artist": "Travis Scott",
+            "id": 1298432428
+        },
+        {
+            "name": "Psycho, Pt. 2",
+            "artist": "Russ",
+            "id": 440208643
+        },
+        {
+            "name": "a lot",
+            "artist": "21 Savage",
+            "id": 1334811366
+        },
+        {
+            "name": "Old Town Road (Remix)",
+            "artist": "Lil Nas X",
+            "id": 1356795124
+        },
+        {
+            "name": "Bad Liar",
+            "artist": "Selena Gomez",
+            "id": 478920958
+        },
+        {
+            "name": "Better",
+            "artist": "Khalid",
+            "id": 1309689297
+        },
+        {
+            "name": "In My Feelings",
+            "artist": "Drake",
+            "id": 574926602
+        },
+        {
+            "name": "Young Dumb & Broke",
+            "artist": "Khalid",
+            "id": 462895657
+        },
+        {
+            "name": "Lean On",
+            "artist": "Major Lazer",
+            "id": 30854130
+        },
+        {
+            "name": "ME! (feat. Brendon Urie of Panic! At The Disco)",
+            "artist": "Taylor Swift",
+            "id": 1361348080
+        },
+        {
+            "name": "Drip Too Hard",
+            "artist": "Lil Baby",
+            "id": 1308737094
+        },
+        {
+            "name": "Wow.",
+            "artist": "Post Malone",
+            "id": 1335483321
+        },
+        {
+            "name": "Talk",
+            "artist": "Khalid",
+            "id": 1343696979
+        },
+        {
+            "name": "Love Lies",
+            "artist": "Khalid",
+            "id": 537407217
+        },
+        {
+            "name": "Trip",
+            "artist": "Ella Mai",
+            "id": 1317380441
+        },
+        {
+            "name": "Speechless",
+            "artist": "Dan + Shay",
+            "id": 560032384
+        },
+        {
+            "name": "Starboy",
+            "artist": "The Weeknd",
+            "id": 431610014
+        },
+        {
+            "name": "Envy Me",
+            "artist": "Calboy",
+            "id": 1333366888
+        },
+        {
+            "name": "Sucker",
+            "artist": "Jonas Brothers",
+            "id": 1349254088
+        },
+        {
+            "name": "Look Back At It",
+            "artist": "A Boogie Wit da Hoodie",
+            "id": 1331845314
+        },
+        {
+            "name": "Leave Me Alone",
+            "artist": "Flipp Dinero",
+            "id": 544673196
+        },
+        {
+            "name": "bad guy",
+            "artist": "Billie Eilish",
+            "id": 1355147933
+        },
+        {
+            "name": "Congratulations",
+            "artist": "Post Malone",
+            "id": 439076170
+        },
+        {
+            "name": "Getaway",
+            "artist": "Syn Cole",
+            "id": 1321916480
+        },
+        {
+            "name": "Woman Like Me",
+            "artist": "Little Mix",
+            "id": 1317251063
+        },
+        {
+            "name": "Final Song",
+            "artist": "MØ",
+            "id": 412902094
+        },
+        {
+            "name": "hotline bling",
+            "artist": "Billie Eilish",
+            "id": 863481066
+        },
+        {
+            "name": "&burn",
+            "artist": "Billie Eilish",
+            "id": 524272601
+        },
+        {
+            "name": "Old Friend(prod. by Eddie  Beatz)",
+            "artist": "马思唯",
+            "id": 1299563494
+        },
+        {
+            "name": "The Cure",
+            "artist": "Lady Gaga",
+            "id": 472045959
+        },
+        {
+            "name": "Eastside",
+            "artist": "Benny Blanco",
+            "id": 574963920
+        },
+        {
+            "name": "Sunflower (Spider-Man: Into the Spider-Verse)",
+            "artist": "Post Malone",
+            "id": 1318733599
+        },
+        {
+            "name": "High Hopes",
+            "artist": "Panic! At The Disco",
+            "id": 562181972
+        },
+        {
+            "name": "Sorry Not Sorry",
+            "artist": "Demi Lovato",
+            "id": 489970199
+        },
+        {
+            "name": "Freaky Friday",
+            "artist": "Lil Dicky",
+            "id": 545350864
+        },
+        {
+            "name": "Nonstop",
+            "artist": "Drake",
+            "id": 574926583
+        },
+        {
+            "name": "Back to You",
+            "artist": "Selena Gomez",
+            "id": 557584451
+        },
+        {
+            "name": "Pray For Me",
+            "artist": "The Weeknd",
+            "id": 534952158
+        },
+        {
+            "name": "I Like Me Better",
+            "artist": "Lauv",
+            "id": 479223413
+        },
+        {
+            "name": "Let You Down",
+            "artist": "NF",
+            "id": 505828865
+        },
+        {
+            "name": "Taste",
+            "artist": "Tyga",
+            "id": 562494194
+        },
+        {
+            "name": "Bad At Love",
+            "artist": "Halsey",
+            "id": 481691622
+        },
+        {
+            "name": "Yes Indeed",
+            "artist": "Lil Baby",
+            "id": 561279085
+        },
+        {
+            "name": "Mine",
+            "artist": "Bazzi",
+            "id": 517901535
+        },
+        {
+            "name": "Better Now",
+            "artist": "Post Malone",
+            "id": 555974038
+        },
+        {
+            "name": "Lucid Dreams",
+            "artist": "Juice WRLD",
+            "id": 557557186
+        },
+        {
+            "name": "Perfect",
+            "artist": "Ed Sheeran",
+            "id": 460043703
+        },
+        {
+            "name": "Without Me",
+            "artist": "Halsey",
+            "id": 1315367060
+        },
+        {
+            "name": "New Rules",
+            "artist": "Dua Lipa",
+            "id": 481535731
+        },
+        {
+            "name": "Feel It Still",
+            "artist": "Portugal. The Man",
+            "id": 463197560
+        },
+        {
+            "name": "LOVE.",
+            "artist": "Kendrick Lamar",
+            "id": 472045056
+        },
+        {
+            "name": "Happier",
+            "artist": "Marshmello",
+            "id": 1302290019
+        },
+        {
+            "name": "Girls Have Fun",
+            "artist": "Tyga",
+            "id": 1341509171
+        },
+        {
+            "name": "FRIENDS",
+            "artist": "Marshmello",
+            "id": 535024262
+        },
+        {
+            "name": "Wolves",
+            "artist": "Selena Gomez",
+            "id": 515269424
+        },
+        {
+            "name": "Dip",
+            "artist": "Tyga",
+            "id": 1321382251
+        },
+        {
+            "name": "Everybody Dies In Their Nightmares",
+            "artist": "XXXTENTACION",
+            "id": 501133800
+        },
+        {
+            "name": "Something Just Like This",
+            "artist": "The Chainsmokers",
+            "id": 461347998
+        },
+        {
+            "name": "The Middle",
+            "artist": "Zedd",
+            "id": 531051690
+        },
+        {
+            "name": "Nice For What",
+            "artist": "Drake",
+            "id": 550684496
+        },
+        {
+            "name": "Hotline Bling",
+            "artist": "Drake",
+            "id": 33599620
+        },
+        {
+            "name": "Counting Stars",
+            "artist": "OneRepublic",
+            "id": 26060065
+        },
+        {
+            "name": "The Monster",
+            "artist": "Eminem",
+            "id": 27902187
+        },
+        {
+            "name": "I'm the One",
+            "artist": "Justin Bieber",
+            "id": 475207448
+        },
+        {
+            "name": "I Like It",
+            "artist": "Cardi B",
+            "id": 550566633
+        },
+        {
+            "name": "God's Plan",
+            "artist": "Drake",
+            "id": 531777461
+        },
+        {
+            "name": "thank u, next",
+            "artist": "Ariana Grande",
+            "id": 1322780845
+        },
+        {
+            "name": "Never Be the Same",
+            "artist": "Camila Cabello",
+            "id": 522510699
+        },
+        {
+            "name": "Coming Home",
+            "artist": "Diddy-Dirty Money",
+            "id": 4038411
+        },
+        {
+            "name": "Viva La Vida",
+            "artist": "Coldplay",
+            "id": 3986017
+        },
+        {
+            "name": "Closer",
+            "artist": "The Chainsmokers",
+            "id": 423228325
+        },
+        {
+            "name": "Runaway Baby",
+            "artist": "Bruno Mars",
+            "id": 25657277
+        },
+        {
+            "name": "Catch a Grenade (The Hooligans Remix)",
+            "artist": "Bruno Mars",
+            "id": 27514865
+        },
+        {
+            "name": "Same Old Love",
+            "artist": "Selena Gomez",
+            "id": 34578250
+        },
+        {
+            "name": "Treasure",
+            "artist": "Bruno Mars",
+            "id": 25657233
+        },
+        {
+            "name": "Kill Em With Kindness",
+            "artist": "Selena Gomez",
+            "id": 35307062
+        },
+        {
+            "name": "Hands To Myself",
+            "artist": "Selena Gomez",
+            "id": 35307063
+        },
+        {
+            "name": "Friends",
+            "artist": "Justin Bieber",
+            "id": 499274178
+        },
+        {
+            "name": "Love Yourself",
+            "artist": "Justin Bieber",
+            "id": 36496695
+        },
+        {
+            "name": "Let Me Love You",
+            "artist": "DJ Snake",
+            "id": 420922950
+        },
+        {
+            "name": "You'll Never Know",
+            "artist": "Ariana Grande",
+            "id": 27671156
+        },
+        {
+            "name": "Be My Baby",
+            "artist": "Ariana Grande",
+            "id": 28971280
+        },
+        {
+            "name": "One Last Time",
+            "artist": "Ariana Grande",
+            "id": 28977745
+        },
+        {
+            "name": "Side To Side",
+            "artist": "Ariana Grande",
+            "id": 456370701
+        },
+        {
+            "name": "It Ain't Me",
+            "artist": "Kygo",
+            "id": 460043372
+        }
+    ]
+}

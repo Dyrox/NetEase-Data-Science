@@ -1,13 +1,28 @@
 {
     "playlist_info": {
         "name": "欢迎来到对抗路",
-        "trackcount": 101,
-        "playcount": 9454272,
+        "trackcount": 104,
+        "playcount": 10419328,
         "creator": "无心可赠",
         "createDate": "2020-06-20",
-        "heat": 8560.0
+        "heat": 8716.0
     },
     "songs": [
+        {
+            "name": "FAKE LOVE (Orchestral)",
+            "artist": "VLHS",
+            "id": 1950897620
+        },
+        {
+            "name": "Kate Bush-Running Up That Hill",
+            "artist": "LINGZEA",
+            "id": 2047985543
+        },
+        {
+            "name": "Void (Radio Edit)",
+            "artist": "Prog Monster",
+            "id": 2048700343
+        },
         {
             "name": "Call your name ＜Gv＞",
             "artist": "Shmily",
@@ -109,7 +124,7 @@
             "id": 1470657694
         },
         {
-            "name": "Feel The Fire (Egzod Remix)",
+            "name": "Feel the Fire (Egzod Remix)",
             "artist": "Pluto",
             "id": 444324932
         },
@@ -410,7 +425,7 @@
         },
         {
             "name": "Fearless Pt. II",
-            "artist": "Tule",
+            "artist": "Lost Sky",
             "id": 529391087
         },
         {
@@ -460,7 +475,7 @@
         },
         {
             "name": "Sold Out",
-            "artist": "Hawk Nelson",
+            "artist": "Jonathan Steingard",
             "id": 31010566
         },
         {

@@ -1,22 +1,22 @@
 {
     "playlist_info": {
         "name": "Glitch Hop | 毛刺脉冲",
-        "trackcount": 53,
-        "playcount": 1485144,
+        "trackcount": 51,
+        "playcount": 1528342,
         "creator": "云音乐电音星球",
         "createDate": "2020-10-12",
-        "heat": 1500.0
+        "heat": 1413.0
     },
     "songs": [
+        {
+            "name": "Cyber Sex",
+            "artist": "Blonde Banger",
+            "id": 2073690410
+        },
         {
             "name": "Spiders",
             "artist": "No Etiquette",
             "id": 1403461669
-        },
-        {
-            "name": "启",
-            "artist": "KYO",
-            "id": 1477284986
         },
         {
             "name": "Sacrificial",
@@ -42,11 +42,6 @@
             "name": "Puzzle Box",
             "artist": "Rezz",
             "id": 1925321794
-        },
-        {
-            "name": "S Y N T H E T I K",
-            "artist": "1788-L",
-            "id": 1361335110
         },
         {
             "name": "Mortem",
@@ -82,11 +77,6 @@
             "name": "ACTIVATION",
             "artist": "N2V",
             "id": 1409294134
-        },
-        {
-            "name": "京都の曲 (Original Mix)",
-            "artist": "ZHANG JUN（张俊）",
-            "id": 1449051024
         },
         {
             "name": "Annihilation",

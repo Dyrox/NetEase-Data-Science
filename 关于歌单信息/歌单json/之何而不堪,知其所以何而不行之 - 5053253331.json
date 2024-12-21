@@ -1,13 +1,308 @@
 {
     "playlist_info": {
         "name": "之何而不堪,知其所以何而不行之",
-        "trackcount": 282,
-        "playcount": 994823,
+        "trackcount": 341,
+        "playcount": 996490,
         "creator": "膦云",
         "createDate": "2020-06-06",
-        "heat": 889.0
+        "heat": 824.0
     },
     "songs": [
+        {
+            "name": "Ne-Yo - Because Of You Slowed 3D",
+            "artist": "AD_概",
+            "id": 1869137422
+        },
+        {
+            "name": "Sia & The Weeknd-After Hours vs Titanium(Mashup)",
+            "artist": "Hzooo",
+            "id": 2068712090
+        },
+        {
+            "name": "one more shot（speed up）",
+            "artist": "double i",
+            "id": 2041127760
+        },
+        {
+            "name": "Stronger（X0.85）",
+            "artist": "Star Light",
+            "id": 2045700020
+        },
+        {
+            "name": "利世处刑曲",
+            "artist": "夜巴黎",
+            "id": 2035522302
+        },
+        {
+            "name": "Take Me Hand慢速降调",
+            "artist": "罗密欧",
+            "id": 2011591025
+        },
+        {
+            "name": "Give Me Everything",
+            "artist": "MiracleK-9",
+            "id": 503425280
+        },
+        {
+            "name": "Night Drive (Sped Up)",
+            "artist": "Wilee",
+            "id": 1990760846
+        },
+        {
+            "name": "Gigachad Theme Phonk",
+            "artist": "Lembsy",
+            "id": 2030847974
+        },
+        {
+            "name": "SEA OF PROBLEMS (slowed + reverb)",
+            "artist": "GLICHERRY",
+            "id": 2044465320
+        },
+        {
+            "name": "Are you still depressed",
+            "artist": "Unicorn",
+            "id": 1942079808
+        },
+        {
+            "name": "慕名而来的人 (新版)",
+            "artist": "软玉梓梓",
+            "id": 2063010037
+        },
+        {
+            "name": "GIMME(Version)",
+            "artist": "VodKe",
+            "id": 2073717551
+        },
+        {
+            "name": "payphone ( slowed + reverb )",
+            "artist": "MSiC",
+            "id": 2080111430
+        },
+        {
+            "name": "All For Love.(慢摇版)",
+            "artist": "高.明远_",
+            "id": 2022194943
+        },
+        {
+            "name": "Hold On（Slowed）",
+            "artist": "7NpcTt",
+            "id": 1936014532
+        },
+        {
+            "name": "ALL MY PEOPLE",
+            "artist": "Ichigo",
+            "id": 1917363820
+        },
+        {
+            "name": "☻",
+            "artist": "XXXDAION",
+            "id": 1918130489
+        },
+        {
+            "name": "novocaine",
+            "artist": "GenriX",
+            "id": 2006693987
+        },
+        {
+            "name": "Fractures慢速降调",
+            "artist": "罗密欧",
+            "id": 2001297171
+        },
+        {
+            "name": "SO TIRED",
+            "artist": "对爱的执念从不是海",
+            "id": 2060772278
+        },
+        {
+            "name": "Moonlight（slowed）",
+            "artist": "Peach",
+            "id": 2069595972
+        },
+        {
+            "name": "Симпа小宝贝（Slow）",
+            "artist": "LoneyZ",
+            "id": 2026799758
+        },
+        {
+            "name": "After Hours",
+            "artist": "87 ℃",
+            "id": 2063018690
+        },
+        {
+            "name": "Breathe(Slow)",
+            "artist": "Lin7",
+            "id": 1980476064
+        },
+        {
+            "name": "Time(×0.9)",
+            "artist": "PlumBlossom",
+            "id": 1958654447
+        },
+        {
+            "name": "归零",
+            "artist": "魔鬼花园",
+            "id": 2000845246
+        },
+        {
+            "name": "Novocaine 2",
+            "artist": "Cloke",
+            "id": 2036149619
+        },
+        {
+            "name": "Track in Time (Piano Version)",
+            "artist": "Dennis Kuo",
+            "id": 1811909303
+        },
+        {
+            "name": "DeadInside(медленность)",
+            "artist": "VK-The Joker",
+            "id": 2039504654
+        },
+        {
+            "name": "Odyssey",
+            "artist": "Hi-Finesse",
+            "id": 29844835
+        },
+        {
+            "name": "Gorgeous",
+            "artist": "Ash",
+            "id": 427139331
+        },
+        {
+            "name": "凄美地",
+            "artist": "郭顶",
+            "id": 436346833
+        },
+        {
+            "name": "蓄势 ~GEAR UP~",
+            "artist": "采风乐坊",
+            "id": 4920985
+        },
+        {
+            "name": "Sprint",
+            "artist": "Yonetro",
+            "id": 494164183
+        },
+        {
+            "name": "Infinity",
+            "artist": "Limon Ahmed",
+            "id": 1960032059
+        },
+        {
+            "name": "Miss(feat.J1nX)",
+            "artist": "MrxUED",
+            "id": 1413432525
+        },
+        {
+            "name": "Knight (Orginal mix )",
+            "artist": "Gentleman",
+            "id": 1997624150
+        },
+        {
+            "name": "Born to Fly (Slowed + Reverb)",
+            "artist": "7vvch",
+            "id": 1950784119
+        },
+        {
+            "name": "DARK RAVE (Slowed+Reverb)",
+            "artist": "ZsFlovexl",
+            "id": 2052933578
+        },
+        {
+            "name": "WORTH NOTHING",
+            "artist": "TWISTED",
+            "id": 1985112078
+        },
+        {
+            "name": "Alone",
+            "artist": "Rentz",
+            "id": 1992859765
+        },
+        {
+            "name": "NEON BLADE",
+            "artist": "MoonDeity",
+            "id": 1953493837
+        },
+        {
+            "name": "#тамада (Сингл)",
+            "artist": "Wooshendoo",
+            "id": 1360740756
+        },
+        {
+            "name": "还是会想你",
+            "artist": "林达浪",
+            "id": 1827600686
+        },
+        {
+            "name": "再等冬天(Memories)",
+            "artist": "h3R3",
+            "id": 1927693793
+        },
+        {
+            "name": "Drive Forever - Slowed",
+            "artist": "T3nzu",
+            "id": 1951084010
+        },
+        {
+            "name": "PLAY",
+            "artist": "Ricii Lompeurs",
+            "id": 1963132367
+        },
+        {
+            "name": "Step Back!",
+            "artist": "1nonly",
+            "id": 1977106849
+        },
+        {
+            "name": "Dehors(纯音乐)",
+            "artist": "从和文",
+            "id": 2009974513
+        },
+        {
+            "name": "Killers From The Northside (Sped Up)",
+            "artist": "Kordhell",
+            "id": 1959607235
+        },
+        {
+            "name": "Shadow of the Sun",
+            "artist": "离の离",
+            "id": 1949606307
+        },
+        {
+            "name": "METAMORPHOSIS",
+            "artist": "Master CC",
+            "id": 2043218731
+        },
+        {
+            "name": "BG",
+            "artist": "Falamensia",
+            "id": 1399891888
+        },
+        {
+            "name": "青丝",
+            "artist": "等什么君(邓寓君)",
+            "id": 1412672813
+        },
+        {
+            "name": "琵琶行",
+            "artist": "奇然",
+            "id": 476513774
+        },
+        {
+            "name": "Shadow of the Sun",
+            "artist": "Max Elto",
+            "id": 28411642
+        },
+        {
+            "name": "One More Light (Originally Performed by Linkin Park) (Instrumental Version)",
+            "artist": "Hit The Button Karaoke",
+            "id": 558124455
+        },
+        {
+            "name": "精卫琵琶版",
+            "artist": "Jakub狗子哥",
+            "id": 2007733647
+        },
         {
             "name": "I'll Do It",
             "artist": "Heidi Montag",
@@ -49,8 +344,8 @@
             "id": 2011888619
         },
         {
-            "name": "Galaxy (Original Mix)",
-            "artist": "Sergius",
+            "name": "Galaxy",
+            "artist": "MusicBySergius",
             "id": 1391185352
         },
         {
@@ -75,7 +370,7 @@
         },
         {
             "name": "Night Work",
-            "artist": "sione",
+            "artist": "Sione",
             "id": 1986143657
         },
         {
@@ -134,7 +429,7 @@
             "id": 33579224
         },
         {
-            "name": "Play",
+            "name": "PLAY",
             "artist": "KKK_OFFICIAL",
             "id": 2009911649
         },
@@ -220,7 +515,7 @@
         },
         {
             "name": "Night Crusing (But Slowed) (prod 牛尾憲輔)",
-            "artist": "Alexanbra",
+            "artist": "XyEscape",
             "id": 1937226721
         },
         {
@@ -274,7 +569,7 @@
             "id": 3305969
         },
         {
-            "name": "Promise",
+            "name": "Past Lives / Promise",
             "artist": "sapientdream",
             "id": 1308782023
         },
@@ -1289,7 +1584,7 @@
             "id": 427542256
         },
         {
-            "name": "Fallin Flower钢琴版（翻自 SEVENTEEN） ",
+            "name": "Fallin Flower钢琴版（翻自 SEVENTEEN）",
             "artist": "Lauren Chen",
             "id": 1436270458
         },

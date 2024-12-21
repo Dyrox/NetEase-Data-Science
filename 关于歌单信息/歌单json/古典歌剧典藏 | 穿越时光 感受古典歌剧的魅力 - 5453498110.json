@@ -2,21 +2,71 @@
     "playlist_info": {
         "name": "古典歌剧典藏 | 穿越时光 感受古典歌剧的魅力",
         "trackcount": 30,
-        "playcount": 2400123,
+        "playcount": 2412719,
         "creator": "云音乐古典星球",
         "createDate": "2021-01-08",
-        "heat": 2661.0
+        "heat": 2428.0
     },
     "songs": [
         {
-            "name": "Die Zauberflöte, K.620 / Act 1:Zu Hilfe! Zu Hilfe! (Tamino, Die drei Damen)",
-            "artist": "Herbert von Karajan",
-            "id": 18280343
+            "name": "Una furtiva lagrima (from l'elisir d'amore)",
+            "artist": "RCA Victor Orchestra",
+            "id": 1343137425
         },
         {
-            "name": "Norma, Act 2 - Scene 3:In mia man alfin tu sei",
-            "artist": "Vincenzo Salvatore Carmelo Francesco Bellini",
-            "id": 26936879
+            "name": "Alfonso & Estrella D. 732: Act II: Lass dir als Erinn'rungszeichen",
+            "artist": "Peter Schreier",
+            "id": 574612660
+        },
+        {
+            "name": "I puritani:Act I Scene 2: Ferma. Invan rapir pretendi (Riccardo, Arturo, Enrichetta, Chorus)",
+            "artist": "Giuseppe Di Stefano",
+            "id": 464730702
+        },
+        {
+            "name": "Robert Bruce:Act I Scene 6: Moi te perdre! arret funeste! (Marie, Arthur, Chorus)",
+            "artist": "Paolo Arrivabeni",
+            "id": 465801512
+        },
+        {
+            "name": "The Rake's Progress - Opera in 3 Acts - Highlights:Act II, Scene 2: How Strange - O Heart Be Stronger",
+            "artist": "Igor Stravinsky",
+            "id": 408499631
+        },
+        {
+            "name": "L'Inganno Felice: VI. Aria",
+            "artist": "Gioachino Rossini",
+            "id": 535570347
+        },
+        {
+            "name": "Lohengrin (2000 Digital Remaster): Dank, König, dir, daß du zu richten kamst! (Friedrich/Chor)",
+            "artist": "Rudolf Kempe",
+            "id": 22257293
+        },
+        {
+            "name": "Il turco in Italia (The Turk in Italy):Act I Scene 2: No, mia vita, mio tesoro (Fiorilla, Geronio)",
+            "artist": "Gianandrea Gavazzeni",
+            "id": 464740823
+        },
+        {
+            "name": "L'enfant et les sortileges:Part II: Il est bon, l'enfant, il est sage (The Beasts, L'enfant)",
+            "artist": "Helene Hebrard",
+            "id": 465553483
+        },
+        {
+            "name": "Lucie de Lammermoor:Act II Scene 2: Quand mon coeur se desespere (Lucie, Asthon)",
+            "artist": "Patrizia Ciofi",
+            "id": 465780056
+        },
+        {
+            "name": "Il Trionfo d'Amore:Part I: Aria: Pallidetta rosa e smorta (Nerina)",
+            "artist": "Ana Quintans",
+            "id": 465479248
+        },
+        {
+            "name": "Orlando:Act 1 \"Se fedel vuoi ch'io ti creda\" [Angelica] \"T'ubbidirò\" [Orlando]",
+            "artist": "William Christie",
+            "id": 406140116
         },
         {
             "name": "Euryanthe, Act III: No. 16. Arioso und Szene \"Schirmende Engelschar\" (Euryanthe, Adolar)",
@@ -29,24 +79,19 @@
             "id": 465780057
         },
         {
-            "name": "Le Villi: Act I - Non esser, Anna mia, mesta sì tanto... Tu dell'infanzia mia",
-            "artist": "Lorin Maazel",
-            "id": 421246571
+            "name": "La gazza ladra (The Thieving Magpie): Act II Scene 15: Infelice, sventurata (Chorus, Ninetta)",
+            "artist": "Maria Jose Moreno",
+            "id": 501458416
         },
         {
-            "name": "I puritani:Act I Scene 2: Ferma. Invan rapir pretendi (Riccardo, Arturo, Enrichetta, Chorus)",
-            "artist": "Giuseppe Di Stefano",
-            "id": 464730702
+            "name": "The Nightingale - Musical Fairy Tale in 3 Acts after Hans Christian Andersen:Song of the Nightingale",
+            "artist": "Igor Stravinsky",
+            "id": 408499652
         },
         {
             "name": "La bohème:Act III: Addio...Donde lieta usci",
             "artist": "Alberto Erede",
             "id": 464730559
-        },
-        {
-            "name": "The Rake's Progress - Opera in 3 Acts - Highlights:Act II, Scene 2: How Strange - O Heart Be Stronger",
-            "artist": "Igor Stravinsky",
-            "id": 408499631
         },
         {
             "name": "Cherevichki, Act I, Scene I: Scene \"Ой, как светит месяц ясный\"",
@@ -64,99 +109,54 @@
             "id": 465539834
         },
         {
+            "name": "Ascanio in Alba, K. 111, Act I: Aria. \"Per la gioia\" (Aceste)",
+            "artist": "Musica Ad Rhenum",
+            "id": 570924641
+        },
+        {
             "name": "Il Pirata: Act I, \"Più temuto, più splendido nome\" (Chorus)",
             "artist": "Montserrat Caballé",
             "id": 559832741
         },
         {
-            "name": "L'Inganno Felice: XVI. Finale",
-            "artist": "Gioachino Rossini",
-            "id": 535570353
+            "name": "Ermione:Act 1 \"Ah! come nascondere\" (Oreste, Pilade)",
+            "artist": "Claudio Scimone",
+            "id": 406204491
         },
         {
-            "name": "Il turco in Italia (The Turk in Italy):Act I Scene 2: No, mia vita, mio tesoro (Fiorilla, Geronio)",
-            "artist": "Gianandrea Gavazzeni",
-            "id": 464740823
+            "name": "Aureliano in Palmira:Act II Scene 13: Duet: Mille sospiri e lagrime (Zenobia, Arsace)",
+            "artist": "Silvia Dalla Benetta",
+            "id": 1317163960
         },
         {
-            "name": "La gazza ladra (The Thieving Magpie):Act I: Stringhe e ferri da calzette (Isacco)",
-            "artist": "Stefan Cifolelli",
-            "id": 465829422
+            "name": "Don Giovanni:Act 1 \"Notte e giorne faticar\" [Leporello, Donna Anna, Don Giovanni, Il Commendarore]",
+            "artist": "Berliner Philharmoniker",
+            "id": 1343308072
         },
         {
-            "name": "Il Pirata: Act I, \"Io vivo ancor!\" (Gualtiero, Hermit, Itublo)",
-            "artist": "Chorus of the Florence May Festival",
-            "id": 559832739
+            "name": "L'Italiana in Algeri, Act I: Cruda sorte! Amor tiranno!",
+            "artist": "Giulietta Simionato",
+            "id": 559113373
+        },
+        {
+            "name": "Gianni Schicchi: No. 4 'Ai miei cugini Zita e Simone'",
+            "artist": "Giacomo Puccini",
+            "id": 560540288
+        },
+        {
+            "name": "L'Italiana in Algeri, Act I: Se inclinassi a prender moglie",
+            "artist": "Carlo Maria Giulini",
+            "id": 559113372
+        },
+        {
+            "name": "Vier letzte Lieder, TrV 296:2. September",
+            "artist": "Lise Davidsen",
+            "id": 1368708001
         },
         {
             "name": "Malven, TrV 297 (Arr. Rihm)",
             "artist": "Lise Davidsen",
             "id": 1368709163
-        },
-        {
-            "name": "Pierrot lunaire, Op. 21: Part III - 20 Heimfahrt",
-            "artist": "Pierre Boulez",
-            "id": 491237495
-        },
-        {
-            "name": "Paride ed Elena:Act IV Scene 4: Lo temei: non mi sento (Elena)",
-            "artist": "Ileana Cotrubas",
-            "id": 465635857
-        },
-        {
-            "name": "Don Pasquale - original version / Act 3:\"Quel guardo il cavaliere\"",
-            "artist": "Kathleen Battle",
-            "id": 1418386488
-        },
-        {
-            "name": "Euryanthe, Act I: Rezitativ \"So einsam bangend find' ich dich?\" (Eglantine, Euryanthe)",
-            "artist": "Staatskapelle Dresden",
-            "id": 572187590
-        },
-        {
-            "name": "L'elisir d'amore, Act I:\"Benedette queste carte!\"",
-            "artist": "Kathleen Battle",
-            "id": 1418386485
-        },
-        {
-            "name": "La Cenerentola / Act 2:Della Fortuna instabile...Sposa - Signor perdona...",
-            "artist": "Cecilia Bartoli",
-            "id": 399356792
-        },
-        {
-            "name": "Turandot / Act 3:La tua gloria risplende nell'incanto (Calaf Turandot)",
-            "artist": "Katia Ricciarelli",
-            "id": 426881138
-        },
-        {
-            "name": "La Cenerentola / Act 1:\"Noi Don Magnifico...\"",
-            "artist": "Enzo Dara",
-            "id": 399356773
-        },
-        {
-            "name": "I puritani:Act I Scene 1: T'appellan le schiere ... Bel sogno beato (Bruno, Riccardo)",
-            "artist": "Rolando Panerai",
-            "id": 464730692
-        },
-        {
-            "name": "La bohème:Act I: Che gelida manina",
-            "artist": "Alberto Erede",
-            "id": 464730547
-        },
-        {
-            "name": "Norma, Acte 1 - Scene 2:Adalgisa!...Alma, costanza",
-            "artist": "Vincenzo Salvatore Carmelo Francesco Bellini",
-            "id": 26936857
-        },
-        {
-            "name": "The Nightingale - Musical Fairy Tale in 3 Acts after Hans Christian Andersen:Song of the Nightingale",
-            "artist": "Igor Stravinsky",
-            "id": 408499652
-        },
-        {
-            "name": "L'Elisir D'Amore/Scene 5 - Udite- udite",
-            "artist": "Plácido Domingo",
-            "id": 1833159
         }
     ]
 }

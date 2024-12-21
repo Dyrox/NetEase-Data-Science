@@ -1,11 +1,11 @@
 {
     "playlist_info": {
         "name": "『骑行必备』极速电音| 症状超速",
-        "trackcount": 154,
-        "playcount": 1356825,
+        "trackcount": 156,
+        "playcount": 1408498,
         "creator": "HUMAN00",
         "createDate": "2018-07-30",
-        "heat": 755.0
+        "heat": 746.0
     },
     "songs": [
         {
@@ -17,6 +17,11 @@
             "name": "Shots (Broiler Remix)",
             "artist": "Broiler",
             "id": 31789010
+        },
+        {
+            "name": "Lifeline",
+            "artist": "ARMNHMR",
+            "id": 2054133374
         },
         {
             "name": "NEON BLADE",
@@ -117,6 +122,11 @@
             "name": "Time to Pretend",
             "artist": "Lazer Boomerang",
             "id": 1377642003
+        },
+        {
+            "name": "Hands in the Fire",
+            "artist": "James Carter",
+            "id": 1306497271
         },
         {
             "name": "Time (Official)",

@@ -1,17 +1,27 @@
 {
     "playlist_info": {
         "name": "Deep House | 深邃鼓点 性感律动",
-        "trackcount": 78,
-        "playcount": 3355835,
+        "trackcount": 64,
+        "playcount": 3451667,
         "creator": "云音乐电音星球",
         "createDate": "2020-08-31",
-        "heat": 3253.0
+        "heat": 3072.0
     },
     "songs": [
         {
-            "name": "Nothing Can Come Between Us (feat. Rozie Gyems)",
-            "artist": "Kevin McKay",
-            "id": 1492676782
+            "name": "Ooh Baby",
+            "artist": "Discosteps",
+            "id": 2049554018
+        },
+        {
+            "name": "King Of My Castle (feat. Kali Mija)",
+            "artist": "beatsbyhand",
+            "id": 2053441311
+        },
+        {
+            "name": "Turnover",
+            "artist": "Sidney Charles",
+            "id": 2048569953
         },
         {
             "name": "I Do What I Do (Original Mix)",
@@ -24,9 +34,19 @@
             "id": 1490269808
         },
         {
-            "name": "Dilo S'tfong (Original Mix)",
-            "artist": "Zito Mowa",
-            "id": 1489360588
+            "name": "Juno Love",
+            "artist": "Nico Morano",
+            "id": 2053772703
+        },
+        {
+            "name": "Nothing Can Come Between Us",
+            "artist": "Kevin McKay",
+            "id": 1492676782
+        },
+        {
+            "name": "I'm Not Crazy (Original Mix)",
+            "artist": "Mallin",
+            "id": 1416744081
         },
         {
             "name": "Alive (Noise Cans Remix)",
@@ -37,11 +57,6 @@
             "name": "Slow Down (feat. Jorja Smith) [Vintage Culture & Slow Motion Remix]",
             "artist": "Maverick Sabre",
             "id": 1436396510
-        },
-        {
-            "name": "Giving up on Love",
-            "artist": "Elliot Bradley",
-            "id": 1476027935
         },
         {
             "name": "The Business",
@@ -69,11 +84,6 @@
             "id": 1451898497
         },
         {
-            "name": "The Shape",
-            "artist": "Nico de Andrea",
-            "id": 547707048
-        },
-        {
             "name": "Lift Me Up (FlyBoy Remix)",
             "artist": "FlyBoy",
             "id": 35955099
@@ -92,16 +102,6 @@
             "name": "Away",
             "artist": "Deep2Tech",
             "id": 1409624169
-        },
-        {
-            "name": "Over the Sea (Extended Mix)",
-            "artist": "Alfred Beck",
-            "id": 1451361265
-        },
-        {
-            "name": "I'm Not Crazy (Original Mix)",
-            "artist": "Mallin",
-            "id": 1416744081
         },
         {
             "name": "Where's My Love (Sam Feldt Edit)",
@@ -159,19 +159,9 @@
             "id": 475264159
         },
         {
-            "name": "Stop The Music",
-            "artist": "ANOTR",
-            "id": 36395011
-        },
-        {
             "name": "You're Never Gonna Hurt Me Again",
             "artist": "Mikkelrev",
             "id": 1401024073
-        },
-        {
-            "name": "Whatudo",
-            "artist": "Chris Stussy",
-            "id": 1374026878
         },
         {
             "name": "Little Babylon",
@@ -184,18 +174,13 @@
             "id": 1410652449
         },
         {
-            "name": "Don't Leave Me",
-            "artist": "Iceleak",
-            "id": 507134118
-        },
-        {
             "name": "Maia",
             "artist": "Oliver Schories",
             "id": 1354578463
         },
         {
             "name": "Dizzy Rhythm (Mihai Popoviciu Remix)",
-            "artist": "Mihai Popoviciu",
+            "artist": "Sous Sol",
             "id": 1371690562
         },
         {
@@ -254,21 +239,6 @@
             "id": 1406681349
         },
         {
-            "name": "We Can't Give Up",
-            "artist": "EDX",
-            "id": 493551158
-        },
-        {
-            "name": "Sky (Kolter Interpretation 1)",
-            "artist": "Alex Ranerro",
-            "id": 1386711392
-        },
-        {
-            "name": "Monday",
-            "artist": "Vintage Culture",
-            "id": 493551180
-        },
-        {
             "name": "Something We All Adore",
             "artist": "Solomun",
             "id": 26982396
@@ -299,16 +269,6 @@
             "id": 34852857
         },
         {
-            "name": "Bella Ciao",
-            "artist": "Jetlag Music",
-            "id": 557275345
-        },
-        {
-            "name": "Feels Right (Original Mix)",
-            "artist": "Rony Seikaly",
-            "id": 1450221889
-        },
-        {
             "name": "Hey Now (Sasha Remix)",
             "artist": "London Grammar",
             "id": 497529541
@@ -324,29 +284,14 @@
             "id": 31384171
         },
         {
-            "name": "Get It Together",
-            "artist": "Drake",
-            "id": 466343436
-        },
-        {
             "name": "Clocks",
             "artist": "Mark Tarmonea",
             "id": 29850198
         },
         {
-            "name": "Bad And Boujee (ZHU Remix)",
-            "artist": "ZHU",
-            "id": 461518554
-        },
-        {
             "name": "64 Ways (Original Mix)",
             "artist": "Detroit Swindle",
             "id": 28740125
-        },
-        {
-            "name": "Phoenix",
-            "artist": "Funkin Matt",
-            "id": 427542495
         },
         {
             "name": "How Deep Is Your Love (Liva K Remix)",
@@ -374,16 +319,6 @@
             "id": 28736242
         },
         {
-            "name": "The Love You Bring Me (Just Us & Wolves By Night Remix)",
-            "artist": "Carl Kennedy",
-            "id": 1294732321
-        },
-        {
-            "name": "Creep",
-            "artist": "Gamper & Dadoni",
-            "id": 485612576
-        },
-        {
             "name": "Bigger Than Prince (Hot Since 82 Remix)",
             "artist": "Green Velvet",
             "id": 545341130
@@ -392,11 +327,6 @@
             "name": "Somebody's Story",
             "artist": "Solomun",
             "id": 27121697
-        },
-        {
-            "name": "Say You’re Mine (Original Mix)",
-            "artist": "Saison",
-            "id": 422790318
         }
     ]
 }

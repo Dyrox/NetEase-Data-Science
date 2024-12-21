@@ -2,61 +2,31 @@
     "playlist_info": {
         "name": "宝藏系男孩 | 都是值得你循环播放的宝藏系男孩",
         "trackcount": 20,
-        "playcount": 7690671,
+        "playcount": 7712344,
         "creator": "云音乐官方歌单",
         "createDate": "2020-07-03",
-        "heat": 7051.0
+        "heat": 6522.0
     },
     "songs": [
         {
-            "name": "Explosions",
-            "artist": "Jhameel",
-            "id": 1378234637
+            "name": "this is how you fall in love",
+            "artist": "Jeremy Zucker",
+            "id": 1812168782
         },
         {
-            "name": "I Don't Think About You",
-            "artist": "HRVY",
-            "id": 1331812678
-        },
-        {
-            "name": "Hoping for Home",
-            "artist": "Trent Dabbs",
-            "id": 2057287
-        },
-        {
-            "name": "less of you",
+            "name": "2 soon",
             "artist": "keshi",
-            "id": 1433431606
+            "id": 1325451152
         },
         {
-            "name": "just friends",
-            "artist": "keshi",
-            "id": 524148577
+            "name": "Sinister",
+            "artist": "Midnight",
+            "id": 33872347
         },
         {
-            "name": "Back To You [Acoustic]",
-            "artist": "Adam Rom",
-            "id": 1406980817
-        },
-        {
-            "name": "Silver Linings",
-            "artist": "Leo Kalyan",
-            "id": 33419043
-        },
-        {
-            "name": "Unrequited",
-            "artist": "Totem",
-            "id": 34383253
-        },
-        {
-            "name": "Your Biggest Fan",
-            "artist": "Never Shout Never",
-            "id": 1791453
-        },
-        {
-            "name": "Not Into U",
-            "artist": "Astronomyy",
-            "id": 31861594
+            "name": "Cruel",
+            "artist": "ASTN",
+            "id": 1334836121
         },
         {
             "name": "Burn It Down",
@@ -64,24 +34,9 @@
             "id": 484638586
         },
         {
-            "name": "Lose Control",
-            "artist": "Barcelona",
-            "id": 28306877
-        },
-        {
-            "name": "Clouds",
-            "artist": "Before You Exit",
-            "id": 448147038
-        },
-        {
-            "name": "Sons and Daughters",
-            "artist": "Allman Brown",
-            "id": 28872624
-        },
-        {
-            "name": "The Moss",
-            "artist": "Cosmo Sheldrake",
-            "id": 28432684
+            "name": "Hindenburg Lover",
+            "artist": "Anson Seabra",
+            "id": 1440687084
         },
         {
             "name": "not ur friend",
@@ -89,24 +44,69 @@
             "id": 1426814861
         },
         {
-            "name": "Trying My Best",
-            "artist": "Anson Seabra",
-            "id": 1371121803
-        },
-        {
-            "name": "Wherever You're Going",
+            "name": "We're Gonna Be Okay",
             "artist": "Cody Francis",
-            "id": 1406146721
+            "id": 1340072471
         },
         {
-            "name": "Gone",
-            "artist": "Blake Rose",
-            "id": 1416470610
+            "name": "Love Me Like a Friend",
+            "artist": "Fly By Midnight",
+            "id": 1398622038
         },
         {
-            "name": "Getting Closer (Acoustic)",
-            "artist": "Justin Jesso",
-            "id": 1337306596
+            "name": "UpFall",
+            "artist": "Blakey",
+            "id": 1403208940
+        },
+        {
+            "name": "Touch",
+            "artist": "Barcelona",
+            "id": 28258466
+        },
+        {
+            "name": "Rockabye",
+            "artist": "Sam Tsui",
+            "id": 473571110
+        },
+        {
+            "name": "u only call me when it's raining out",
+            "artist": "gnash",
+            "id": 41636789
+        },
+        {
+            "name": "betterman",
+            "artist": "Virginia To Vegas",
+            "id": 1423158621
+        },
+        {
+            "name": "I Want You to Stay",
+            "artist": "Dayon",
+            "id": 1397152124
+        },
+        {
+            "name": "Chasing The Wind",
+            "artist": "Josiah James",
+            "id": 1596241
+        },
+        {
+            "name": "IDK You Yet",
+            "artist": "Alexander 23",
+            "id": 1439043673
+        },
+        {
+            "name": "Bigcitydreams",
+            "artist": "Never Shout Never",
+            "id": 1791431
+        },
+        {
+            "name": "Young at Heart",
+            "artist": "Golden Coast",
+            "id": 445666833
+        },
+        {
+            "name": "Midnight",
+            "artist": "Barcelona",
+            "id": 28193020
         }
     ]
 }

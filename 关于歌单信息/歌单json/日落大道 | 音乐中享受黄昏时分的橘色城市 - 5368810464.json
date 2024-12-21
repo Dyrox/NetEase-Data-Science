@@ -2,131 +2,46 @@
     "playlist_info": {
         "name": "日落大道 | 音乐中享受黄昏时分的橘色城市",
         "trackcount": 30,
-        "playcount": 7526974,
+        "playcount": 7767374,
         "creator": "云音乐官方歌单",
         "createDate": "2020-12-07",
-        "heat": 8062.0
+        "heat": 7575.0
     },
     "songs": [
         {
-            "name": "quand la pluie tombe",
-            "artist": "Nymano",
-            "id": 450048239
+            "name": "birds and bees",
+            "artist": "Kayou.",
+            "id": 1442258591
         },
         {
-            "name": "Auras",
-            "artist": "Pueblo Vista",
-            "id": 1851231768
+            "name": "d a y l i g h t",
+            "artist": "bbbluelee",
+            "id": 1406743782
         },
         {
-            "name": "Evening Tide (Original Mix)",
-            "artist": "Kupla",
-            "id": 518895180
+            "name": "ocean wind",
+            "artist": "a l e x",
+            "id": 493663197
         },
         {
-            "name": "30 Years from Now",
-            "artist": "Team Astro",
-            "id": 1881816720
+            "name": "Serenity",
+            "artist": "kinissue",
+            "id": 1912031798
         },
         {
-            "name": "Springtime",
-            "artist": "j^p^n",
-            "id": 1483769668
+            "name": "After August",
+            "artist": "Mr.KiD",
+            "id": 41662891
         },
         {
-            "name": "Pacific",
-            "artist": "enluv",
-            "id": 1888260930
+            "name": "I See You In Slow Motion",
+            "artist": "Blue Wednesday",
+            "id": 1824345244
         },
         {
-            "name": "The Rooftop",
-            "artist": "Gregory David",
-            "id": 1852444202
-        },
-        {
-            "name": "No Idea's Unoriginal",
-            "artist": "Funky DL",
-            "id": 32432525
-        },
-        {
-            "name": "With Purpose",
-            "artist": "jinsang",
-            "id": 1320833700
-        },
-        {
-            "name": "Seasons.",
-            "artist": "subdaio",
-            "id": 445144598
-        },
-        {
-            "name": "Loungin",
-            "artist": "Aso",
-            "id": 479422047
-        },
-        {
-            "name": "Canals",
-            "artist": "Joakim Karud",
-            "id": 424477951
-        },
-        {
-            "name": "Cozy Day",
-            "artist": "Bequem",
-            "id": 1957649827
-        },
-        {
-            "name": "Low Tide",
-            "artist": "chromonicci",
-            "id": 1954854411
-        },
-        {
-            "name": "Night Drive",
-            "artist": "Linearwave",
-            "id": 1447034845
-        },
-        {
-            "name": "Like the Wind",
-            "artist": "Refeeld",
-            "id": 1902783384
-        },
-        {
-            "name": "Holding On",
-            "artist": "Pandrezz",
-            "id": 1933800692
-        },
-        {
-            "name": "Blossom",
-            "artist": "Makzo",
-            "id": 1913096941
-        },
-        {
-            "name": "Morning Stretch",
-            "artist": "Timothy Infinite",
-            "id": 1924325533
-        },
-        {
-            "name": "The Process",
-            "artist": "LAKEY INSPIRED",
-            "id": 521416704
-        },
-        {
-            "name": "sunday am",
-            "artist": "SLKBTS",
-            "id": 1887092241
-        },
-        {
-            "name": "Coral",
-            "artist": "Mwuah",
-            "id": 1803894410
-        },
-        {
-            "name": "Go Time (Original Mix)",
-            "artist": "C4C",
-            "id": 1811272444
-        },
-        {
-            "name": "Chihiro",
-            "artist": "卿Mittens",
-            "id": 444524448
+            "name": "glance",
+            "artist": "Slipfunc",
+            "id": 1365219057
         },
         {
             "name": "how",
@@ -134,29 +49,114 @@
             "id": 473440567
         },
         {
-            "name": "have fun",
-            "artist": "Stardog Lofi",
-            "id": 1944847485
+            "name": "rookie",
+            "artist": "a l e x",
+            "id": 520458829
         },
         {
-            "name": "Hario",
-            "artist": "iamalex",
-            "id": 1953973490
+            "name": "Enjoy",
+            "artist": "C4C",
+            "id": 1811271543
         },
         {
-            "name": "Lounging in Blue",
-            "artist": "Dpsht",
-            "id": 1921004384
+            "name": "Reflections",
+            "artist": "badsummer",
+            "id": 446728153
         },
         {
-            "name": "firework",
-            "artist": "Frad",
-            "id": 1857535965
+            "name": "Canals",
+            "artist": "Joakim Karud",
+            "id": 424477951
         },
         {
-            "name": "Sunsets",
+            "name": "Before Chill",
+            "artist": "Yomoti",
+            "id": 1300712094
+        },
+        {
+            "name": "Brushed Away",
+            "artist": "Favor",
+            "id": 28155407
+        },
+        {
+            "name": "ＦＯＲＧＥＴ",
+            "artist": "TRA$H",
+            "id": 509106736
+        },
+        {
+            "name": "quand la pluie tombe",
+            "artist": "Nymano",
+            "id": 450048239
+        },
+        {
+            "name": "Blue Skys",
+            "artist": "Mr. Käfer",
+            "id": 1401018391
+        },
+        {
+            "name": "amare",
+            "artist": "furino",
+            "id": 500325097
+        },
+        {
+            "name": "who cares",
+            "artist": "enzo ☭",
+            "id": 475072636
+        },
+        {
+            "name": "Loungin",
             "artist": "Aso",
-            "id": 1363677425
+            "id": 479422047
+        },
+        {
+            "name": "thoughts",
+            "artist": "Eevee",
+            "id": 418593011
+        },
+        {
+            "name": "nagashi",
+            "artist": "idealism",
+            "id": 1929266367
+        },
+        {
+            "name": "Bicycle",
+            "artist": "Refeeld",
+            "id": 1849609560
+        },
+        {
+            "name": "never forget",
+            "artist": "Enkae",
+            "id": 1374400173
+        },
+        {
+            "name": "Sunshine",
+            "artist": "a boy with a balloon",
+            "id": 1472455488
+        },
+        {
+            "name": "Lake",
+            "artist": "dryhope",
+            "id": 1387659185
+        },
+        {
+            "name": "Ask for Love",
+            "artist": "Joey Pecoraro",
+            "id": 518894934
+        },
+        {
+            "name": "days with you",
+            "artist": "Slipfunc",
+            "id": 1336866856
+        },
+        {
+            "name": "egyptian pools",
+            "artist": "jinsang",
+            "id": 442867023
+        },
+        {
+            "name": "With U",
+            "artist": "idealism",
+            "id": 1348792262
         }
     ]
 }

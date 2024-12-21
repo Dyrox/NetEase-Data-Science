@@ -1,13 +1,63 @@
 {
     "playlist_info": {
         "name": "Hard Techno | 硬核科技的冰冷重击",
-        "trackcount": 50,
-        "playcount": 2231533,
+        "trackcount": 60,
+        "playcount": 2306807,
         "creator": "云音乐电音星球",
         "createDate": "2019-12-03",
-        "heat": 1711.0
+        "heat": 1653.0
     },
     "songs": [
+        {
+            "name": "Free Your Mind",
+            "artist": "Sopik",
+            "id": 2063870661
+        },
+        {
+            "name": "**** This",
+            "artist": "Holy Priest",
+            "id": 2059550587
+        },
+        {
+            "name": "Shivaya",
+            "artist": "Byorn",
+            "id": 2063123894
+        },
+        {
+            "name": "Just A Dream",
+            "artist": "F I I S H I R",
+            "id": 2066822019
+        },
+        {
+            "name": "Dance With Me (Original Mix)",
+            "artist": "Lestrange",
+            "id": 2067521386
+        },
+        {
+            "name": "Sky Walker",
+            "artist": "PISAPIA (IT)",
+            "id": 2057297637
+        },
+        {
+            "name": "Dance MF",
+            "artist": "CARV",
+            "id": 2067532245
+        },
+        {
+            "name": "Blend And Stop",
+            "artist": "IGDA",
+            "id": 2069668058
+        },
+        {
+            "name": "Pop That",
+            "artist": "Tucker (UK)",
+            "id": 2064522115
+        },
+        {
+            "name": "Drop Me (SveTec Remix)",
+            "artist": "Twins Project",
+            "id": 2061924159
+        },
         {
             "name": "Punk Wave (Original Mix)",
             "artist": "Hanubis",
@@ -155,7 +205,7 @@
         },
         {
             "name": "Sleep Is The Cousin Of Death (Original Mix)",
-            "artist": "CANCEL",
+            "artist": "Cancel",
             "id": 2020471746
         },
         {

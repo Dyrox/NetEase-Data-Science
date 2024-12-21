@@ -1,13 +1,38 @@
 {
     "playlist_info": {
         "name": "deep house酒吧前场实用歌路",
-        "trackcount": 92,
-        "playcount": 1340292,
-        "creator": "是熱狗i",
+        "trackcount": 97,
+        "playcount": 1363730,
+        "creator": "天亮說晚安une",
         "createDate": "2015-11-11",
-        "heat": 480.0
+        "heat": 473.0
     },
     "songs": [
+        {
+            "name": "Over & Over (Ian Tosel Remix)",
+            "artist": "Studio Deep",
+            "id": 417859741
+        },
+        {
+            "name": "Real Love (Original Mix)",
+            "artist": "Ian Tosel",
+            "id": 404784823
+        },
+        {
+            "name": "Coming Back",
+            "artist": "Paul Lock",
+            "id": 1981163354
+        },
+        {
+            "name": "In And Out Of Love (Ian Tosel & Arthur M Remix)",
+            "artist": "Ian Tosel",
+            "id": 422419011
+        },
+        {
+            "name": "Sorry I Missed Your Call",
+            "artist": "R3HAB",
+            "id": 1831910375
+        },
         {
             "name": "My Homies (Original Mix)",
             "artist": "Dubdogz",
@@ -129,7 +154,7 @@
             "id": 476324541
         },
         {
-            "name": "This My s**t (Original Mix)",
+            "name": "This My Shit (Original Mix)",
             "artist": "Lisitsyn",
             "id": 407889398
         },

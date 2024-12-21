@@ -1,13 +1,23 @@
 {
     "playlist_info": {
         "name": "当kawaii遇上电音｜Sweetの糖果❤",
-        "trackcount": 882,
-        "playcount": 2201273,
+        "trackcount": 884,
+        "playcount": 2205988,
         "creator": "浅羽蓝野",
         "createDate": "2018-12-13",
-        "heat": 1326.0
+        "heat": 1259.0
     },
     "songs": [
+        {
+            "name": "cresselia 2",
+            "artist": "G Sounds",
+            "id": 2072742272
+        },
+        {
+            "name": "FlavorScape!",
+            "artist": "SuggestedCopy7",
+            "id": 2081994464
+        },
         {
             "name": "Rainbow Flavor!",
             "artist": "SuggestedCopy7",
@@ -1095,7 +1105,7 @@
         },
         {
             "name": "Push",
-            "artist": "PLSM",
+            "artist": "陳俊龍",
             "id": 1304045208
         },
         {
@@ -2130,7 +2140,7 @@
         },
         {
             "name": "Knock Knock",
-            "artist": "HYE SUNG",
+            "artist": "HYESUNG",
             "id": 463268794
         },
         {
@@ -2200,7 +2210,7 @@
         },
         {
             "name": "Pixel Sweet",
-            "artist": "Derailed.",
+            "artist": "YukiNeko",
             "id": 1379315114
         },
         {
@@ -2420,7 +2430,7 @@
         },
         {
             "name": "Summer",
-            "artist": "ZYXMusic",
+            "artist": "ZYX",
             "id": 1386512089
         },
         {
@@ -2435,7 +2445,7 @@
         },
         {
             "name": "Albee",
-            "artist": "Colin典典",
+            "artist": "ColinDD",
             "id": 1373865600
         },
         {
@@ -3099,7 +3109,7 @@
             "id": 477215044
         },
         {
-            "name": "Marble Soda [Explicit]",
+            "name": "Marble Soda",
             "artist": "Shawn Wasabi",
             "id": 400876011
         },

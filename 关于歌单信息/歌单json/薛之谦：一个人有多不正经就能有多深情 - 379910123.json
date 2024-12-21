@@ -1,13 +1,23 @@
 {
     "playlist_info": {
         "name": "薛之谦：一个人有多不正经就能有多深情",
-        "trackcount": 79,
-        "playcount": 6281777,
+        "trackcount": 81,
+        "playcount": 6357763,
         "creator": "AIDENGUO24",
         "createDate": "2016-05-12",
-        "heat": 2409.0
+        "heat": 2358.0
     },
     "songs": [
+        {
+            "name": "念",
+            "artist": "薛之谦",
+            "id": 2064033095
+        },
+        {
+            "name": "崇拜",
+            "artist": "薛之谦",
+            "id": 2055887708
+        },
         {
             "name": "Nothing",
             "artist": "薛之谦",

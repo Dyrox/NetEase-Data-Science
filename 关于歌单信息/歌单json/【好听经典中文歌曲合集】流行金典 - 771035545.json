@@ -2,10 +2,10 @@
     "playlist_info": {
         "name": "【好听经典中文歌曲合集】流行金典",
         "trackcount": 133,
-        "playcount": 591225,
+        "playcount": 682562,
         "creator": "coderlzq",
         "createDate": "2017-06-21",
-        "heat": 268.0
+        "heat": 297.0
     },
     "songs": [
         {
@@ -79,11 +79,6 @@
             "id": 66842
         },
         {
-            "name": "痴心绝对",
-            "artist": "李圣杰",
-            "id": 5250078
-        },
-        {
             "name": "夏天",
             "artist": "李玖哲",
             "id": 109125
@@ -112,6 +107,11 @@
             "name": "富士山下",
             "artist": "陈奕迅",
             "id": 65766
+        },
+        {
+            "name": "痴心绝对",
+            "artist": "李圣杰",
+            "id": 5250078
         },
         {
             "name": "飘向北方 (Live)",

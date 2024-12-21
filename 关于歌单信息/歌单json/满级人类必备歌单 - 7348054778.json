@@ -1,13 +1,33 @@
 {
     "playlist_info": {
         "name": "满级人类必备歌单",
-        "trackcount": 96,
-        "playcount": 5551155,
+        "trackcount": 100,
+        "playcount": 6208677,
         "creator": "红粒儿阿",
         "createDate": "2022-03-24",
-        "heat": 11997.0
+        "heat": 11213.0
     },
     "songs": [
+        {
+            "name": "Moth To a Flame x After Hours (Sped up)",
+            "artist": "Karry_b",
+            "id": 2028167900
+        },
+        {
+            "name": "Close Eyes",
+            "artist": "DVRST",
+            "id": 1847721719
+        },
+        {
+            "name": "TIRED OF PROBLEMS",
+            "artist": "NUEKI",
+            "id": 2061508316
+        },
+        {
+            "name": "Sea Of Problems",
+            "artist": "Glichery",
+            "id": 2025457557
+        },
         {
             "name": "METAMORPHOSIS (Sped Up)",
             "artist": "INTERWORLD",
@@ -240,7 +260,7 @@
         },
         {
             "name": "Sold Out",
-            "artist": "Hawk Nelson",
+            "artist": "Jonathan Steingard",
             "id": 31010566
         },
         {

@@ -1,13 +1,18 @@
 {
     "playlist_info": {
         "name": "健身房力量训练必备歌单",
-        "trackcount": 181,
-        "playcount": 2966612,
+        "trackcount": 182,
+        "playcount": 3247394,
         "creator": "邶台新风",
         "createDate": "2019-02-05",
-        "heat": 1847.0
+        "heat": 1913.0
     },
     "songs": [
+        {
+            "name": "Punjabi",
+            "artist": "BAD NINJA",
+            "id": 1462715442
+        },
         {
             "name": "Shadows",
             "artist": "it's different",
@@ -615,7 +620,7 @@
         },
         {
             "name": "Lost",
-            "artist": "Tule",
+            "artist": "Lost Sky",
             "id": 514761669
         },
         {
@@ -895,7 +900,7 @@
         },
         {
             "name": "Fearless Pt. II",
-            "artist": "Tule",
+            "artist": "Lost Sky",
             "id": 529391087
         },
         {

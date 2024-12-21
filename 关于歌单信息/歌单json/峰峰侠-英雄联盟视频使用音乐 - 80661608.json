@@ -1,23 +1,13 @@
 {
     "playlist_info": {
         "name": "峰峰侠-英雄联盟视频使用音乐",
-        "trackcount": 130,
-        "playcount": 735855,
+        "trackcount": 126,
+        "playcount": 736271,
         "creator": "峰峰侠",
         "createDate": "2015-06-12",
-        "heat": 250.0
+        "heat": 242.0
     },
     "songs": [
-        {
-            "name": "我的天空",
-            "artist": "南征北战NZBZ",
-            "id": 28892408
-        },
-        {
-            "name": "Victory",
-            "artist": "Two Steps From Hell",
-            "id": 31654455
-        },
         {
             "name": "Angel ( Radio Edit )",
             "artist": "Dogena",
@@ -147,11 +137,6 @@
             "name": "Falling",
             "artist": "AndyM",
             "id": 409931826
-        },
-        {
-            "name": "Here We Are Again",
-            "artist": "CAGNET",
-            "id": 27876900
         },
         {
             "name": "Spectre",
@@ -477,11 +462,6 @@
             "name": "Bye Bye Beautiful",
             "artist": "Nightwish",
             "id": 21312234
-        },
-        {
-            "name": "英雄",
-            "artist": "周杰伦",
-            "id": 407679169
         },
         {
             "name": "Heroes (we could be)",

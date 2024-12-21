@@ -1,13 +1,53 @@
 {
     "playlist_info": {
         "name": "【节奏｜欧美｜旋律】总有一首你的单曲循环",
-        "trackcount": 386,
-        "playcount": 2130706,
+        "trackcount": 392,
+        "playcount": 2139377,
         "creator": "我本该就属于大海",
         "createDate": "2018-08-12",
-        "heat": 1195.0
+        "heat": 1141.0
     },
     "songs": [
+        {
+            "name": "Stray",
+            "artist": "Feint",
+            "id": 30394495
+        },
+        {
+            "name": "ILLENIUM-Sound Of Walking Away（Bootleg）",
+            "artist": "YeGer",
+            "id": 1822620962
+        },
+        {
+            "name": "Starboy(Deep House Edit)",
+            "artist": "Grimmmz",
+            "id": 1859907075
+        },
+        {
+            "name": "Close Eyes",
+            "artist": "DVRST",
+            "id": 1847721719
+        },
+        {
+            "name": "MAD DEVIL(狂魔鬼)",
+            "artist": "HJFM",
+            "id": 2014720276
+        },
+        {
+            "name": "Where Is Your Love",
+            "artist": "J. Lisk",
+            "id": 458725081
+        },
+        {
+            "name": "Lush Life",
+            "artist": "NALYRO",
+            "id": 1841908846
+        },
+        {
+            "name": "Here (Lucian Remix)",
+            "artist": "Alessia Cara",
+            "id": 33365175
+        },
         {
             "name": "Blame",
             "artist": "Calvin Harris",
@@ -77,11 +117,6 @@
             "name": "Feeling Lonely",
             "artist": "Tony Greywolf",
             "id": 1407341318
-        },
-        {
-            "name": "One Kiss X I Was Never There",
-            "artist": "Just Lowkey",
-            "id": 1967998969
         },
         {
             "name": "Complicated",
@@ -515,7 +550,7 @@
         },
         {
             "name": "Ass Like That",
-            "artist": "Psaxxx",
+            "artist": "அலாதீன் இசை",
             "id": 1948083890
         },
         {
@@ -695,7 +730,7 @@
         },
         {
             "name": "Light Particle（Original Mix）",
-            "artist": "Young Xxxg",
+            "artist": "Armagan Oruc",
             "id": 1925396823
         },
         {
@@ -1025,7 +1060,7 @@
         },
         {
             "name": "Sold Out",
-            "artist": "Hawk Nelson",
+            "artist": "Jonathan Steingard",
             "id": 31010566
         },
         {
@@ -1154,7 +1189,7 @@
             "id": 1336713728
         },
         {
-            "name": "Walk Thru Fire ",
+            "name": "Walk Thru Fire",
             "artist": "Vicetone",
             "id": 1322460396
         },
@@ -1502,11 +1537,6 @@
             "name": "Disco Inferno",
             "artist": "50 Cent",
             "id": 16158404
-        },
-        {
-            "name": "Take me hand",
-            "artist": "DAISHI DANCE",
-            "id": 26092806
         },
         {
             "name": "No Cap",

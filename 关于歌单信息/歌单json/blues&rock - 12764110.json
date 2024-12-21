@@ -1,0 +1,852 @@
+{
+    "playlist_info": {
+        "name": "blues&rock",
+        "trackcount": 168,
+        "playcount": 563978,
+        "creator": "喉结滑棒",
+        "createDate": "2014-05-03",
+        "heat": 164.0
+    },
+    "songs": [
+        {
+            "name": "What Kind Of Woman Is This?",
+            "artist": "Buddy Guy",
+            "id": 16660836
+        },
+        {
+            "name": "Strange Face of Love",
+            "artist": "Tito & Tarantula",
+            "id": 5057536
+        },
+        {
+            "name": "Let's Get It On",
+            "artist": "Marvin Gaye",
+            "id": 21167700
+        },
+        {
+            "name": "Roadhouse Blues",
+            "artist": "The Doors",
+            "id": 21978533
+        },
+        {
+            "name": "Travelin' Band",
+            "artist": "Creedence Clearwater Revival",
+            "id": 1142673
+        },
+        {
+            "name": "Midnight in Harlem",
+            "artist": "Derek Trucks",
+            "id": 27106945
+        },
+        {
+            "name": "Her Mind Is Gone",
+            "artist": "Tab Benoit",
+            "id": 3675717
+        },
+        {
+            "name": "What's Wrong",
+            "artist": "Magic Slim",
+            "id": 21097714
+        },
+        {
+            "name": "Sweet Dreams",
+            "artist": "Roy Buchanan",
+            "id": 5047037
+        },
+        {
+            "name": "Gimme Shelter (Live)",
+            "artist": "The Rolling Stones",
+            "id": 27494061
+        },
+        {
+            "name": "Hide away",
+            "artist": "Freddie King",
+            "id": 26730179
+        },
+        {
+            "name": "Take Me To The River (Live At Blues Alley) [Audience Muted]",
+            "artist": "Eva Cassidy",
+            "id": 17642294
+        },
+        {
+            "name": "Sweet Honey Dew",
+            "artist": "Roy Buchanan",
+            "id": 3333187
+        },
+        {
+            "name": "The World Is Yours",
+            "artist": "Ty Taylor",
+            "id": 41658126
+        },
+        {
+            "name": "Rocking Daddy",
+            "artist": "Kenny Wayne Shepherd",
+            "id": 18929632
+        },
+        {
+            "name": "Couldn't Stand the Weather",
+            "artist": "Stevie Ray Vaughan",
+            "id": 33593768
+        },
+        {
+            "name": "Back To The River",
+            "artist": "Susan Tedeschi",
+            "id": 23747661
+        },
+        {
+            "name": "Gimme Shelter",
+            "artist": "The Rolling Stones",
+            "id": 4336230
+        },
+        {
+            "name": "Pipeline",
+            "artist": "Dick Dale",
+            "id": 27097857
+        },
+        {
+            "name": "Georgia",
+            "artist": "Tab Benoit",
+            "id": 3675720
+        },
+        {
+            "name": "La Bamba",
+            "artist": "Los Lobos",
+            "id": 5167413
+        },
+        {
+            "name": "Why Does a Woman Treat a Good Man So Bad",
+            "artist": "Magic Slim",
+            "id": 34169422
+        },
+        {
+            "name": "Sell My Monkey",
+            "artist": "Kenny Wayne Shepherd",
+            "id": 18929625
+        },
+        {
+            "name": "Dust My Broom_Lovestruck Baby",
+            "artist": "Stevie Ray Vaughan",
+            "id": 33593760
+        },
+        {
+            "name": "I Don't Need No Doctor",
+            "artist": "John Scofield",
+            "id": 18615294
+        },
+        {
+            "name": "Fortunate Son",
+            "artist": "Creedence Clearwater Revival",
+            "id": 1142670
+        },
+        {
+            "name": "Life Without You",
+            "artist": "Stevie Ray Vaughan",
+            "id": 33593769
+        },
+        {
+            "name": "They Call Me Guitar Hurricane (Live at The Steamboat, 1980)",
+            "artist": "Stevie Ray Vaughan",
+            "id": 1939466
+        },
+        {
+            "name": "Texas Flood",
+            "artist": "Willie Nelson",
+            "id": 20749376
+        },
+        {
+            "name": "Mustang Sally",
+            "artist": "Buddy Guy",
+            "id": 16661074
+        },
+        {
+            "name": "I'll Play The Blues For You (Parts 1 & 2)",
+            "artist": "Albert King",
+            "id": 16294239
+        },
+        {
+            "name": "Life Without You",
+            "artist": "Stevie Ray Vaughan",
+            "id": 21598553
+        },
+        {
+            "name": "Ain't Gone 'N' Give up on Love",
+            "artist": "Stevie Ray Vaughan and Double Trouble",
+            "id": 21598458
+        },
+        {
+            "name": "Texas Flood",
+            "artist": "Stevie Ray Vaughan",
+            "id": 33593764
+        },
+        {
+            "name": "Don't Stop by the Creek, Son",
+            "artist": "Stevie Ray Vaughan",
+            "id": 1939205
+        },
+        {
+            "name": "Superstition",
+            "artist": "Stevie Ray Vaughan",
+            "id": 33593765
+        },
+        {
+            "name": "Sweet Home Alabama",
+            "artist": "Lynyrd Skynyrd",
+            "id": 5057912
+        },
+        {
+            "name": "O'Clock In The Morning Blues",
+            "artist": "Ike And Tina Turner",
+            "id": 5207924
+        },
+        {
+            "name": "Give Me One Reason",
+            "artist": "Tracy Chapman",
+            "id": 5159455
+        },
+        {
+            "name": "Chicago Smokeshop",
+            "artist": "Roy Buchanan",
+            "id": 18683643
+        },
+        {
+            "name": "Runnin' Down A Dream",
+            "artist": "Tom Petty",
+            "id": 21790687
+        },
+        {
+            "name": "Iron City",
+            "artist": "Grant Green",
+            "id": 17970792
+        },
+        {
+            "name": "Gone Home",
+            "artist": "Stevie Ray Vaughan",
+            "id": 1939852
+        },
+        {
+            "name": "September",
+            "artist": "Earth, Wind & Fire",
+            "id": 4051656
+        },
+        {
+            "name": "When A Guitar Plays The Blues",
+            "artist": "Roy Buchanan",
+            "id": 18683664
+        },
+        {
+            "name": "That Road (Unplugged)",
+            "artist": "Larry Carlton",
+            "id": 26368525
+        },
+        {
+            "name": "Life by the Drop",
+            "artist": "Stevie Ray Vaughan",
+            "id": 1939546
+        },
+        {
+            "name": "Riviera Paradise",
+            "artist": "Stevie Ray Vaughan",
+            "id": 1939731
+        },
+        {
+            "name": "Nobody Knows You When You're Down And Out (remastered - 40th Anniversary version - 2010)",
+            "artist": "Derek & the Dominos",
+            "id": 17228785
+        },
+        {
+            "name": "Somebody Up There Likes Me (1999 Digital Remaster)",
+            "artist": "David Bowie",
+            "id": 22630986
+        },
+        {
+            "name": "Smokin' Cheeba Cheeba",
+            "artist": "Harlem Underground Band",
+            "id": 5049682
+        },
+        {
+            "name": "Stairway To Heaven",
+            "artist": "Led Zeppelin",
+            "id": 28065912
+        },
+        {
+            "name": "Playin' With My Friends",
+            "artist": "B.B. King",
+            "id": 22101439
+        },
+        {
+            "name": "Slow Ride",
+            "artist": "Foghat",
+            "id": 5187053
+        },
+        {
+            "name": "Comfortably Numb",
+            "artist": "Pink Floyd",
+            "id": 4237846
+        },
+        {
+            "name": "Another Brick in the Wall, Pt. 2",
+            "artist": "Pink Floyd",
+            "id": 4237803
+        },
+        {
+            "name": "Green River",
+            "artist": "Creedence Clearwater Revival",
+            "id": 1142657
+        },
+        {
+            "name": "Eminence Front",
+            "artist": "The Who",
+            "id": 5049665
+        },
+        {
+            "name": "*** Bomb",
+            "artist": "Tom Jones",
+            "id": 5166271
+        },
+        {
+            "name": "Hold the Line",
+            "artist": "TOTO",
+            "id": 5226134
+        },
+        {
+            "name": "The Truth",
+            "artist": "Prince",
+            "id": 1823386
+        },
+        {
+            "name": "Stormy Monday",
+            "artist": "B.B. King",
+            "id": 22101446
+        },
+        {
+            "name": "Texas Flood",
+            "artist": "Stevie Ray Vaughan",
+            "id": 27068517
+        },
+        {
+            "name": "The Thrill is Gone",
+            "artist": "B.B. King",
+            "id": 22106525
+        },
+        {
+            "name": "Blue Jean Blues (2005 Remaster)",
+            "artist": "ZZ Top",
+            "id": 3863368
+        },
+        {
+            "name": "Tap Dance Boogie Ellen",
+            "artist": "Lightnin' Hopkins",
+            "id": 1657040
+        },
+        {
+            "name": "Mary Had A Little Lamb (Live)",
+            "artist": "Stevie Ray Vaughan",
+            "id": 21598541
+        },
+        {
+            "name": "Travis Walk",
+            "artist": "Stevie Ray Vaughan",
+            "id": 1939710
+        },
+        {
+            "name": "If You Have To Know",
+            "artist": "Stevie Ray Vaughan",
+            "id": 1939239
+        },
+        {
+            "name": "Honky Tonk Women",
+            "artist": "The Rolling Stones",
+            "id": 4336299
+        },
+        {
+            "name": "Sympathy For The Devil",
+            "artist": "The Rolling Stones",
+            "id": 21968611
+        },
+        {
+            "name": "Sultans Of Swing",
+            "artist": "Dire Straits",
+            "id": 17449080
+        },
+        {
+            "name": "Serenata Nortena",
+            "artist": "Los Lobos",
+            "id": 21024609
+        },
+        {
+            "name": "Three O'Clock Blues (Live)",
+            "artist": "Gary Clark Jr.",
+            "id": 29412695
+        },
+        {
+            "name": "Walk This Way",
+            "artist": "Aerosmith",
+            "id": 20506662
+        },
+        {
+            "name": "La Grange",
+            "artist": "ZZ Top",
+            "id": 3863411
+        },
+        {
+            "name": "Couldn’t Stand The Weather",
+            "artist": "Stevie Ray Vaughan",
+            "id": 1938707
+        },
+        {
+            "name": "Drunken Hearted Boy (Live At The Fillmore East/1971/Second Show/Part 2)",
+            "artist": "The Allman Brothers Band",
+            "id": 28869015
+        },
+        {
+            "name": "Green Onions",
+            "artist": "Booker T. & The MGs",
+            "id": 5049684
+        },
+        {
+            "name": "Blue Sky",
+            "artist": "The Allman Brothers Band",
+            "id": 4344501
+        },
+        {
+            "name": "Born Under A Bad Sign",
+            "artist": "The Allman Brothers Band",
+            "id": 27118276
+        },
+        {
+            "name": "Done Somebody Wrong",
+            "artist": "Duane Allman",
+            "id": 1256288
+        },
+        {
+            "name": "Listen To The Music",
+            "artist": "The Doobie Brothers",
+            "id": 3613281
+        },
+        {
+            "name": "Old Friend",
+            "artist": "The Allman Brothers Band",
+            "id": 19563544
+        },
+        {
+            "name": "Ramblin' Man",
+            "artist": "The Allman Brothers Band",
+            "id": 26459459
+        },
+        {
+            "name": "Tightrope",
+            "artist": "Stevie Ray Vaughan",
+            "id": 27015170
+        },
+        {
+            "name": "Jessica (Live)",
+            "artist": "The Allman Brothers Band",
+            "id": 26459464
+        },
+        {
+            "name": "Leave My Girl Alone",
+            "artist": "Stevie Ray Vaughan and Double Trouble",
+            "id": 21598542
+        },
+        {
+            "name": "Slide Thing (Live)",
+            "artist": "Stevie Ray Vaughan and Double Trouble",
+            "id": 21598527
+        },
+        {
+            "name": "Born To Be Wild",
+            "artist": "Steppenwolf",
+            "id": 19153740
+        },
+        {
+            "name": "Tightrope",
+            "artist": "Stevie Ray Vaughan",
+            "id": 21598451
+        },
+        {
+            "name": "One Way Out (Live at the Fillmore East/1971/Second Show/Part 1)",
+            "artist": "The Allman Brothers Band",
+            "id": 28869014
+        },
+        {
+            "name": "Georgia Blues (Previously Unreleased)",
+            "artist": "Jimi Hendrix",
+            "id": 18647867
+        },
+        {
+            "name": "One Way Out",
+            "artist": "The Allman Brothers Band",
+            "id": 27962791
+        },
+        {
+            "name": "The Pusher",
+            "artist": "Steppenwolf",
+            "id": 19153774
+        },
+        {
+            "name": "Texas Flood",
+            "artist": "Whispering Smith",
+            "id": 5196886
+        },
+        {
+            "name": "Some Kind of Wonderful",
+            "artist": "Grand Funk Railroad",
+            "id": 5049660
+        },
+        {
+            "name": "Black Dog (Live: O2 Arena, London - December 10, 2007)",
+            "artist": "Led Zeppelin",
+            "id": 20065177
+        },
+        {
+            "name": "Sleeping In The Ground",
+            "artist": "Blind Faith",
+            "id": 26786070
+        },
+        {
+            "name": "Pretend We're Dead",
+            "artist": "L7",
+            "id": 5049731
+        },
+        {
+            "name": "One Way Out (Live At The Fillmore East/1971/Closing Show)",
+            "artist": "The Allman Brothers Band",
+            "id": 28869026
+        },
+        {
+            "name": "Boom Boom",
+            "artist": "John Lee Hooker",
+            "id": 18750281
+        },
+        {
+            "name": "Key to the Highway (Live)",
+            "artist": "Eric Clapton",
+            "id": 17540501
+        },
+        {
+            "name": "Don't Worry Baby",
+            "artist": "Los Lobos",
+            "id": 21024603
+        },
+        {
+            "name": "The Pusher",
+            "artist": "Blind Melon",
+            "id": 16640868
+        },
+        {
+            "name": "Rude Mood",
+            "artist": "Stevie Ray Vaughan",
+            "id": 1940003
+        },
+        {
+            "name": "Testify",
+            "artist": "Stevie Ray Vaughan",
+            "id": 1940000
+        },
+        {
+            "name": "Voodoo Child (Slight Return)",
+            "artist": "Stevie Ray Vaughan",
+            "id": 1938717
+        },
+        {
+            "name": "Play It Cool",
+            "artist": "Freddie King",
+            "id": 17746466
+        },
+        {
+            "name": "Wash Out",
+            "artist": "Freddie King",
+            "id": 1360675
+        },
+        {
+            "name": "I'll Survive",
+            "artist": "B.B. King",
+            "id": 1080640
+        },
+        {
+            "name": "Good Morning Little Schoolgirl",
+            "artist": "Muddy Waters",
+            "id": 1705618
+        },
+        {
+            "name": "I Can't Be Satisfied",
+            "artist": "Muddy Waters",
+            "id": 1704440
+        },
+        {
+            "name": "Call Me The Breeze",
+            "artist": "Lynyrd Skynyrd",
+            "id": 4153396
+        },
+        {
+            "name": "Swamp Music",
+            "artist": "Lynyrd Skynyrd",
+            "id": 4153389
+        },
+        {
+            "name": "Don't Lie To Me",
+            "artist": "Albert King",
+            "id": 989130
+        },
+        {
+            "name": "Cross the Tracks (We Better Go Back)",
+            "artist": "Maceo And The Macks",
+            "id": 5049678
+        },
+        {
+            "name": "Smokin'",
+            "artist": "Boston",
+            "id": 5049659
+        },
+        {
+            "name": "Free Bird",
+            "artist": "Lynyrd Skynyrd",
+            "id": 5049666
+        },
+        {
+            "name": "Two Tickets To Paradise",
+            "artist": "Eddie Money",
+            "id": 5049667
+        },
+        {
+            "name": "Key To The Highway",
+            "artist": "Derek & the Dominos",
+            "id": 17541041
+        },
+        {
+            "name": "Whole Lotta Love",
+            "artist": "Led Zeppelin",
+            "id": 1646233
+        },
+        {
+            "name": "Guitar Intro / Hoochie Coochie Man",
+            "artist": "The Allman Brothers Band",
+            "id": 28277005
+        },
+        {
+            "name": "Jessica",
+            "artist": "The Allman Brothers Band",
+            "id": 28277007
+        },
+        {
+            "name": "Whipping Post",
+            "artist": "The Allman Brothers Band",
+            "id": 28277017
+        },
+        {
+            "name": "I'm Leaving You (Commit a Crime)",
+            "artist": "Kenny Wayne Shepherd",
+            "id": 1622961
+        },
+        {
+            "name": "Stang's Swang",
+            "artist": "Stevie Ray Vaughan",
+            "id": 27443349
+        },
+        {
+            "name": "Tin Pan Alley",
+            "artist": "Stevie Ray Vaughan",
+            "id": 1938941
+        },
+        {
+            "name": "Rude Mood/Hide Away (live)",
+            "artist": "Stevie Ray Vaughan",
+            "id": 1938900
+        },
+        {
+            "name": "Dirty Pool",
+            "artist": "Stevie Ray Vaughan",
+            "id": 1940012
+        },
+        {
+            "name": "Lenny",
+            "artist": "Stevie Ray Vaughan",
+            "id": 1940023
+        },
+        {
+            "name": "Call It Stormy Monday",
+            "artist": "T-Bone Walker",
+            "id": 2037745
+        },
+        {
+            "name": "Lonely Man Blues",
+            "artist": "Muddy Waters",
+            "id": 21197232
+        },
+        {
+            "name": "I'm Your Hoochie Coochie Man",
+            "artist": "Muddy Waters",
+            "id": 21197225
+        },
+        {
+            "name": "Why I Sing The Blues",
+            "artist": "B.B. King",
+            "id": 27013032
+        },
+        {
+            "name": "Wonderful Tonight",
+            "artist": "Eric Clapton",
+            "id": 28040817
+        },
+        {
+            "name": "Voodoo Chile (Slight Return)",
+            "artist": "Double Trouble",
+            "id": 5213944
+        },
+        {
+            "name": "The Thrill Is Gone",
+            "artist": "B.B. King",
+            "id": 27785211
+        },
+        {
+            "name": "Texas Flood",
+            "artist": "Stevie Ray Vaughan",
+            "id": 21598438
+        },
+        {
+            "name": "Sleeping In The Ground",
+            "artist": "Blind Faith",
+            "id": 17541033
+        },
+        {
+            "name": "Seven Turns",
+            "artist": "The Allman Brothers Band",
+            "id": 27440730
+        },
+        {
+            "name": "Stormy Monday",
+            "artist": "The Allman Brothers Band",
+            "id": 27962793
+        },
+        {
+            "name": "Statesboro Blues (1971/Live At The Final Fillmore East Concert)",
+            "artist": "The Allman Brothers Band",
+            "id": 19563282
+        },
+        {
+            "name": "Sweet Sixteen",
+            "artist": "B.B. King",
+            "id": 26802380
+        },
+        {
+            "name": "Sweet Home Chicago",
+            "artist": "Eric Clapton",
+            "id": 17540895
+        },
+        {
+            "name": "Scuttle Buttin'",
+            "artist": "Stevie Ray Vaughan & Double Trouble",
+            "id": 21598453
+        },
+        {
+            "name": "Shake For Me",
+            "artist": "Howlin' Wolf",
+            "id": 27440475
+        },
+        {
+            "name": "Sunshine Of Your Love",
+            "artist": "Eric Clapton",
+            "id": 27558750
+        },
+        {
+            "name": "Reconsider Baby",
+            "artist": "Eric Clapton",
+            "id": 17541163
+        },
+        {
+            "name": "Rocking Chair",
+            "artist": "Eric Clapton",
+            "id": 17540997
+        },
+        {
+            "name": "Pride And Joy",
+            "artist": "Stevie Ray Vaughan",
+            "id": 27443326
+        },
+        {
+            "name": "Old Love (Live)",
+            "artist": "Eric Clapton",
+            "id": 26910793
+        },
+        {
+            "name": "Melissa",
+            "artist": "The Allman Brothers Band",
+            "id": 27962787
+        },
+        {
+            "name": "Midnight Rider",
+            "artist": "The Allman Brothers Band",
+            "id": 28428852
+        },
+        {
+            "name": "Mary Had a Little Lamb",
+            "artist": "Stevie Ray Vaughan & Double Trouble",
+            "id": 5057133
+        },
+        {
+            "name": "My Father's Eyes (Live)",
+            "artist": "Eric Clapton",
+            "id": 17540507
+        },
+        {
+            "name": "Little Wing",
+            "artist": "Stevie Ray Vaughan",
+            "id": 27201008
+        },
+        {
+            "name": "Key To The Highway",
+            "artist": "Eric Clapton",
+            "id": 28040805
+        },
+        {
+            "name": "Key To The Highway",
+            "artist": "Freddie King",
+            "id": 17746201
+        },
+        {
+            "name": "I Gotta Move Out of This Neighborhood/Nobody Loves Me But My Mother",
+            "artist": "B.B. King",
+            "id": 22101449
+        },
+        {
+            "name": "Hide Away",
+            "artist": "Stevie Ray Vaughan",
+            "id": 1938753
+        },
+        {
+            "name": "Have You Ever Loved a Woman",
+            "artist": "Derek",
+            "id": 5197443
+        },
+        {
+            "name": "Hide Away",
+            "artist": "Freddie King",
+            "id": 17746196
+        },
+        {
+            "name": "Crossroads (Live At The Fillmore East)",
+            "artist": "Derek & the Dominos",
+            "id": 17541043
+        },
+        {
+            "name": "Crawlin' Kingsnake",
+            "artist": "Buddy Guy",
+            "id": 16660906
+        },
+        {
+            "name": "*******",
+            "artist": "Eric Clapton",
+            "id": 28040820
+        },
+        {
+            "name": "Before You Accuse Me (Acoustic Live)",
+            "artist": "Eric Clapton",
+            "id": 17541189
+        },
+        {
+            "name": "Dust My Broom",
+            "artist": "Johnny Winter",
+            "id": 18673532
+        }
+    ]
+}

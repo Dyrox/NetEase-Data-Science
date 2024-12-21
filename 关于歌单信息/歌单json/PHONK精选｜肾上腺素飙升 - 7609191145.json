@@ -1,13 +1,98 @@
 {
     "playlist_info": {
         "name": "PHONK精选｜肾上腺素飙升",
-        "trackcount": 608,
-        "playcount": 1526494,
+        "trackcount": 624,
+        "playcount": 2171062,
         "creator": "鼠moking",
         "createDate": "2022-08-27",
-        "heat": 4972.0
+        "heat": 5456.0
     },
     "songs": [
+        {
+            "name": "Chimera",
+            "artist": "HXVRMXN",
+            "id": 1871016756
+        },
+        {
+            "name": "The Lost Soul Phonk",
+            "artist": "-Prey",
+            "id": 2078072159
+        },
+        {
+            "name": "MAD MAX",
+            "artist": "TUNDRAMANE",
+            "id": 2072009249
+        },
+        {
+            "name": "URL (火浣)",
+            "artist": "退",
+            "id": 2077741108
+        },
+        {
+            "name": "MAGNUM OPU$",
+            "artist": "eL$'e",
+            "id": 1962755611
+        },
+        {
+            "name": "Wind Of Change",
+            "artist": "MAXPVNK",
+            "id": 2051004951
+        },
+        {
+            "name": "Feel You",
+            "artist": "MAXPVNK",
+            "id": 2063009019
+        },
+        {
+            "name": "Loneliness",
+            "artist": "LXRY PXNK",
+            "id": 2030818713
+        },
+        {
+            "name": "Calm Before the Storm",
+            "artist": "DVRST",
+            "id": 2062087098
+        },
+        {
+            "name": "EASY PEAZY",
+            "artist": "Romantica",
+            "id": 2044862945
+        },
+        {
+            "name": "NeVeR sToP",
+            "artist": "The Fullxaos",
+            "id": 1974853801
+        },
+        {
+            "name": "Evolution",
+            "artist": "XXXW1",
+            "id": 2053238804
+        },
+        {
+            "name": "MONEY IN MY POCKET",
+            "artist": "808Monster",
+            "id": 2067126532
+        },
+        {
+            "name": "SLAP",
+            "artist": "CURSEDEVIL",
+            "id": 2062111672
+        },
+        {
+            "name": "ECSTASY",
+            "artist": "PlayaPhonk",
+            "id": 2062994322
+        },
+        {
+            "name": "Evil Spirit(Phonk House)",
+            "artist": "BOY",
+            "id": 2063117416
+        },
+        {
+            "name": "Angelic",
+            "artist": "Amon",
+            "id": 2053571280
+        },
         {
             "name": "†APPARITION†",
             "artist": "N2U_Beatz",
@@ -49,11 +134,6 @@
             "id": 1960738565
         },
         {
-            "name": "Evolution",
-            "artist": "XXXW1",
-            "id": 2053238804
-        },
-        {
             "name": "CHARISMA",
             "artist": "SANKANO",
             "id": 2045998242
@@ -69,19 +149,24 @@
             "id": 2047126369
         },
         {
+            "name": "【JerseyPhonk】GHOST",
+            "artist": "808Monster",
+            "id": 2048195545
+        },
+        {
             "name": "AMNESIA",
             "artist": "HXVSAGE",
             "id": 2044682167
         },
         {
-            "name": "Pheromones",
-            "artist": "Solo Made",
-            "id": 2031093589
-        },
-        {
             "name": "COLLAPSE",
             "artist": "FORGOTTENAGE",
             "id": 2040927430
+        },
+        {
+            "name": "Pheromones",
+            "artist": "Solo Made",
+            "id": 2031093589
         },
         {
             "name": "Worry",
@@ -107,6 +192,11 @@
             "name": "FRAGMENT",
             "artist": "Crazy Donkey",
             "id": 2034187206
+        },
+        {
+            "name": "Collision",
+            "artist": "时光流逝",
+            "id": 2066566408
         },
         {
             "name": "Walking Rain",
@@ -257,11 +347,6 @@
             "name": "MADE IN HEAVEN",
             "artist": "KoruSe",
             "id": 2028341823
-        },
-        {
-            "name": "NeVeR sToP",
-            "artist": "The Fullxaos",
-            "id": 1974853801
         },
         {
             "name": "First Devil",
@@ -417,11 +502,6 @@
             "name": "TRAXXXMANIA(PHONKHOUSEREMIX)",
             "artist": "VK-The Joker",
             "id": 2025430780
-        },
-        {
-            "name": "Techno-killa（slowed&reverb）",
-            "artist": "VK-The Joker",
-            "id": 2026335646
         },
         {
             "name": "NEON BLADE 2",
@@ -1899,7 +1979,7 @@
             "id": 1887187642
         },
         {
-            "name": "THUNDERSTORM (feat. EVVORTEX)",
+            "name": "THUNDERSTORM",
             "artist": "509 $icario",
             "id": 1886109290
         },
@@ -2130,7 +2210,7 @@
         },
         {
             "name": "GREENHOUSE GAS",
-            "artist": "avalonfromthe6th",
+            "artist": "$egments",
             "id": 1890325917
         },
         {

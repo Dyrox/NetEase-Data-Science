@@ -1,13 +1,38 @@
 {
     "playlist_info": {
         "name": "开头就爆炸的passion潮音",
-        "trackcount": 171,
-        "playcount": 3055382,
+        "trackcount": 176,
+        "playcount": 3360483,
         "creator": "JEx3",
         "createDate": "2018-12-11",
-        "heat": 1839.0
+        "heat": 1917.0
     },
     "songs": [
+        {
+            "name": "Dreams (梦)",
+            "artist": "Ghani",
+            "id": 2084597587
+        },
+        {
+            "name": "Sahara (撒哈拉)",
+            "artist": "Gentleman",
+            "id": 2081092296
+        },
+        {
+            "name": "Benz (Orginal mix )",
+            "artist": "Zara-Music",
+            "id": 2061057460
+        },
+        {
+            "name": "JAPAN",
+            "artist": "Anthony Keyrouz",
+            "id": 1999424486
+        },
+        {
+            "name": "Soldier（防暴士兵）",
+            "artist": "Gentleman",
+            "id": 2074749091
+        },
         {
             "name": "Killers From The Northside (Sped Up)",
             "artist": "Kordhell",
@@ -174,7 +199,7 @@
             "id": 1878791667
         },
         {
-            "name": "Atomic (Original Mix)",
+            "name": "Atomic",
             "artist": "Stefre Roland",
             "id": 1496370756
         },

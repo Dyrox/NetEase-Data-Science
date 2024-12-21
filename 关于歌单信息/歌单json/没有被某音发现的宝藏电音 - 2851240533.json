@@ -1,13 +1,28 @@
 {
     "playlist_info": {
         "name": "没有被某音发现的宝藏电音",
-        "trackcount": 723,
-        "playcount": 1356474,
+        "trackcount": 726,
+        "playcount": 1390413,
         "creator": "凉城城awa",
         "createDate": "2019-06-20",
-        "heat": 922.0
+        "heat": 890.0
     },
     "songs": [
+        {
+            "name": "Enough",
+            "artist": "Glacier",
+            "id": 1399983059
+        },
+        {
+            "name": "Back to Sleep",
+            "artist": "Miles Away",
+            "id": 1988996956
+        },
+        {
+            "name": "Hold On",
+            "artist": "Similar Outskirts",
+            "id": 1913279821
+        },
         {
             "name": "Beings",
             "artist": "Madeon",
@@ -589,7 +604,7 @@
             "id": 1421548502
         },
         {
-            "name": "Run Back to You (feat. Alisa)",
+            "name": "Run Back to You",
             "artist": "Hoang",
             "id": 1471391509
         },
@@ -984,7 +999,7 @@
             "id": 1409271942
         },
         {
-            "name": "High Days ",
+            "name": "High Days",
             "artist": "Hoved",
             "id": 1338495341
         },
@@ -2349,7 +2364,7 @@
             "id": 567145750
         },
         {
-            "name": "Don't Know Sh*t",
+            "name": "Don't Know Shit",
             "artist": "Dante Klein",
             "id": 1371441510
         },
@@ -3234,7 +3249,7 @@
             "id": 1341502587
         },
         {
-            "name": "So Cold",
+            "name": "So Cold (feat. Lily Denning)",
             "artist": "Mahalo",
             "id": 1350187829
         },

@@ -1,0 +1,952 @@
+{
+    "playlist_info": {
+        "name": "《纯电音》让人兴奋又好听的电子纯音乐",
+        "trackcount": 188,
+        "playcount": 2632030,
+        "creator": "爱止于岁月",
+        "createDate": "2016-04-24",
+        "heat": 970.0
+    },
+    "songs": [
+        {
+            "name": "Thoughts",
+            "artist": "LOCH",
+            "id": 30373292
+        },
+        {
+            "name": "Levitate",
+            "artist": "Atef",
+            "id": 446512154
+        },
+        {
+            "name": "I (Can't) See You",
+            "artist": "Wisp X",
+            "id": 30987300
+        },
+        {
+            "name": "CX",
+            "artist": "LevitateXC",
+            "id": 455692044
+        },
+        {
+            "name": "Little Star",
+            "artist": "Allfine",
+            "id": 408250464
+        },
+        {
+            "name": "Luminous",
+            "artist": "Lensko",
+            "id": 484730269
+        },
+        {
+            "name": "Oblivion",
+            "artist": "Cody Sorenson",
+            "id": 458496914
+        },
+        {
+            "name": "I Promise",
+            "artist": "Damon Empero",
+            "id": 476990598
+        },
+        {
+            "name": "斓",
+            "artist": "千坂",
+            "id": 464841478
+        },
+        {
+            "name": "Glacial",
+            "artist": "Atef",
+            "id": 443277519
+        },
+        {
+            "name": "Chasing Lights",
+            "artist": "千坂",
+            "id": 491222808
+        },
+        {
+            "name": "Santa Monica",
+            "artist": "Dripice",
+            "id": 445450067
+        },
+        {
+            "name": "Memory",
+            "artist": "Damon Empero",
+            "id": 453176528
+        },
+        {
+            "name": "Fire",
+            "artist": "Elektronomia",
+            "id": 496619840
+        },
+        {
+            "name": "Popsicle",
+            "artist": "LFZ",
+            "id": 501214792
+        },
+        {
+            "name": "Sun",
+            "artist": "LJY",
+            "id": 456310194
+        },
+        {
+            "name": "No Longer(Original Mix)",
+            "artist": "Ellivs",
+            "id": 426832134
+        },
+        {
+            "name": "Devotion",
+            "artist": "Vexento",
+            "id": 542667073
+        },
+        {
+            "name": "Pluto (Drop Tower Remix)",
+            "artist": "Drop Tower",
+            "id": 33418878
+        },
+        {
+            "name": "Adventure Awaits",
+            "artist": "We Are One",
+            "id": 412187263
+        },
+        {
+            "name": "Time",
+            "artist": "CASE（呆萌K）",
+            "id": 466839324
+        },
+        {
+            "name": "Fairytales",
+            "artist": "Ennex",
+            "id": 421423496
+        },
+        {
+            "name": "Dreams",
+            "artist": "Tobu",
+            "id": 35283615
+        },
+        {
+            "name": "L'Amour Toujours 2012 (Dreamers Cut)",
+            "artist": "Gigi D'Agostino",
+            "id": 27364034
+        },
+        {
+            "name": "Forward(Original Mix)",
+            "artist": "CLARE",
+            "id": 450986159
+        },
+        {
+            "name": "Sweet",
+            "artist": "DcAlvis",
+            "id": 484278264
+        },
+        {
+            "name": "Stray",
+            "artist": "Damon Empero",
+            "id": 453176587
+        },
+        {
+            "name": "SkyCity(天空之城)",
+            "artist": "Forwe兰斯",
+            "id": 456658875
+        },
+        {
+            "name": "Time Runner",
+            "artist": "Keega",
+            "id": 470981092
+        },
+        {
+            "name": "旋律之森",
+            "artist": "Thunse",
+            "id": 470975897
+        },
+        {
+            "name": "Cross the Line",
+            "artist": "Jiaye",
+            "id": 465218328
+        },
+        {
+            "name": "Axero-River（Keega Remix）",
+            "artist": "Keega",
+            "id": 456855165
+        },
+        {
+            "name": "Tony Igy-Astronomia（Jiaye remix）",
+            "artist": "Jiaye",
+            "id": 446154202
+        },
+        {
+            "name": "Turn around",
+            "artist": "Worezh",
+            "id": 466695764
+        },
+        {
+            "name": "Glow",
+            "artist": "千坂",
+            "id": 469889836
+        },
+        {
+            "name": "Fragments",
+            "artist": "千坂",
+            "id": 453130276
+        },
+        {
+            "name": "Frontier",
+            "artist": "Doctor Vox",
+            "id": 30987703
+        },
+        {
+            "name": "Return",
+            "artist": "CelDro",
+            "id": 447076661
+        },
+        {
+            "name": "Euphoria",
+            "artist": "Dogena",
+            "id": 443876175
+        },
+        {
+            "name": "Horizon",
+            "artist": "Dripice",
+            "id": 423406646
+        },
+        {
+            "name": "Melomania",
+            "artist": "Tobu",
+            "id": 497937781
+        },
+        {
+            "name": "Astronomia 2014 (Radio Edit)",
+            "artist": "Vicetone",
+            "id": 29922416
+        },
+        {
+            "name": "Lightning",
+            "artist": "Distrion",
+            "id": 482395021
+        },
+        {
+            "name": "Infinity",
+            "artist": "Ahxello",
+            "id": 30621620
+        },
+        {
+            "name": "The Journey",
+            "artist": "TomLeevis",
+            "id": 30854965
+        },
+        {
+            "name": "Moments",
+            "artist": "Stahl!",
+            "id": 35920504
+        },
+        {
+            "name": "Verve",
+            "artist": "Vexento",
+            "id": 485347409
+        },
+        {
+            "name": "Our Story",
+            "artist": "Pilton",
+            "id": 39436798
+        },
+        {
+            "name": "Spirits",
+            "artist": "Axel Wernberg",
+            "id": 36496195
+        },
+        {
+            "name": "Heaven (Radio Edit)",
+            "artist": "Gson & Abley",
+            "id": 408522823
+        },
+        {
+            "name": "Tremble (Original Mix)",
+            "artist": "Vicetone",
+            "id": 27553170
+        },
+        {
+            "name": "Energy Drink",
+            "artist": "Virtual Riot",
+            "id": 27542857
+        },
+        {
+            "name": "Bring Back The Summer",
+            "artist": "TomLeevis",
+            "id": 431096925
+        },
+        {
+            "name": "Away",
+            "artist": "Class-x",
+            "id": 31452407
+        },
+        {
+            "name": "Infinite",
+            "artist": "Luke Bergs",
+            "id": 1400313332
+        },
+        {
+            "name": "Clarity",
+            "artist": "Dripice",
+            "id": 33984842
+        },
+        {
+            "name": "Another Day",
+            "artist": "Kestutis K",
+            "id": 33785139
+        },
+        {
+            "name": "Running Away (Instrumental)",
+            "artist": "Tobu",
+            "id": 30569019
+        },
+        {
+            "name": "Visions",
+            "artist": "Acreix",
+            "id": 34040716
+        },
+        {
+            "name": "Hope (Original Mix)",
+            "artist": "Tobu",
+            "id": 28921655
+        },
+        {
+            "name": "Candyland",
+            "artist": "Tobu",
+            "id": 30621706
+        },
+        {
+            "name": "Sweety",
+            "artist": "Allfine",
+            "id": 36117084
+        },
+        {
+            "name": "Trip",
+            "artist": "HOPE-T",
+            "id": 450489668
+        },
+        {
+            "name": "Betray（JiaoYanpears Remix）",
+            "artist": "JiaoYanpears",
+            "id": 441617512
+        },
+        {
+            "name": "Tobu -  Seven [左右合轨]",
+            "artist": "RYLIA",
+            "id": 423058911
+        },
+        {
+            "name": "锦里",
+            "artist": "HOPE-T",
+            "id": 441617611
+        },
+        {
+            "name": "Seven (Jiaye Reboot)",
+            "artist": "Jiaye",
+            "id": 423015272
+        },
+        {
+            "name": "Dream of the late",
+            "artist": "Worezh",
+            "id": 421870195
+        },
+        {
+            "name": "Summer Carnival (Carnival 3rd)",
+            "artist": "Elecprok",
+            "id": 417594623
+        },
+        {
+            "name": "Everything",
+            "artist": "Allfine",
+            "id": 35032120
+        },
+        {
+            "name": "Unity",
+            "artist": "Axero",
+            "id": 29759407
+        },
+        {
+            "name": "Sunrise",
+            "artist": "Tobu",
+            "id": 29392895
+        },
+        {
+            "name": "Wizard",
+            "artist": "Vindu",
+            "id": 412902433
+        },
+        {
+            "name": "Sky (Radio Edit)",
+            "artist": "Steerner",
+            "id": 29553031
+        },
+        {
+            "name": "Nostalgia",
+            "artist": "Tobu",
+            "id": 440411215
+        },
+        {
+            "name": "At The Edge",
+            "artist": "千坂",
+            "id": 448596416
+        },
+        {
+            "name": "Green Sky",
+            "artist": "Alex Skrindo",
+            "id": 30064291
+        },
+        {
+            "name": "We are the one",
+            "artist": "徐梦圆",
+            "id": 457230526
+        },
+        {
+            "name": "Entropy",
+            "artist": "Alex Skrindo",
+            "id": 33875177
+        },
+        {
+            "name": "Move",
+            "artist": "Axero",
+            "id": 30621637
+        },
+        {
+            "name": "Dusk (Original Mix)",
+            "artist": "Axero",
+            "id": 33497412
+        },
+        {
+            "name": "Trip",
+            "artist": "Axero",
+            "id": 36492599
+        },
+        {
+            "name": "PDD",
+            "artist": "徐梦圆",
+            "id": 454129387
+        },
+        {
+            "name": "Neon(Artmakers Remix)",
+            "artist": "徐梦圆",
+            "id": 422427365
+        },
+        {
+            "name": "13 Months",
+            "artist": "Raven",
+            "id": 28389677
+        },
+        {
+            "name": "Up up",
+            "artist": "徐梦圆",
+            "id": 452385604
+        },
+        {
+            "name": "一个人的歌(Original Mix)",
+            "artist": "徐梦圆",
+            "id": 440353280
+        },
+        {
+            "name": "Bambini",
+            "artist": "Mike Williams",
+            "id": 427542478
+        },
+        {
+            "name": "Jumbo",
+            "artist": "Alex Skrindo",
+            "id": 36492192
+        },
+        {
+            "name": "Return Of The Raver",
+            "artist": "Vexento",
+            "id": 31721425
+        },
+        {
+            "name": "Masked Heroes",
+            "artist": "Vexento",
+            "id": 30854966
+        },
+        {
+            "name": "We Are One",
+            "artist": "Vexento",
+            "id": 31721420
+        },
+        {
+            "name": "Emotions",
+            "artist": "Verdial",
+            "id": 33544488
+        },
+        {
+            "name": "Candy★Night",
+            "artist": "DJ Soviet",
+            "id": 31256403
+        },
+        {
+            "name": "River Flows In You (Original Mix)",
+            "artist": "Mark Pride",
+            "id": 5086081
+        },
+        {
+            "name": "Crystals",
+            "artist": "Steerner",
+            "id": 33166668
+        },
+        {
+            "name": "Escape",
+            "artist": "Dripice",
+            "id": 403012527
+        },
+        {
+            "name": "Friends",
+            "artist": "Steerner",
+            "id": 29737986
+        },
+        {
+            "name": "Sun",
+            "artist": "Steerner",
+            "id": 33166666
+        },
+        {
+            "name": "Tiny Heart，Tiny Love",
+            "artist": "DJ Soviet",
+            "id": 30153005
+        },
+        {
+            "name": "Summer Memories",
+            "artist": "Janji",
+            "id": 34766841
+        },
+        {
+            "name": "Cool",
+            "artist": "Tobu",
+            "id": 444267496
+        },
+        {
+            "name": "Hello",
+            "artist": "OMFG",
+            "id": 33211676
+        },
+        {
+            "name": "Adventures",
+            "artist": "Alex Skrindo",
+            "id": 33922813
+        },
+        {
+            "name": "Dawn",
+            "artist": "Janji",
+            "id": 30854877
+        },
+        {
+            "name": "Five Hours",
+            "artist": "Deorro",
+            "id": 28263911
+        },
+        {
+            "name": "Raising",
+            "artist": "Ahrix",
+            "id": 32317107
+        },
+        {
+            "name": "Ease (Alex Skrindo - Ease)",
+            "artist": "Alex Skrindo",
+            "id": 404783308
+        },
+        {
+            "name": "Relief",
+            "artist": "Ahrix",
+            "id": 32317101
+        },
+        {
+            "name": "Courage",
+            "artist": "Ahrix",
+            "id": 32317116
+        },
+        {
+            "name": "Evolving",
+            "artist": "Ahrix",
+            "id": 32192216
+        },
+        {
+            "name": "Left Behind",
+            "artist": "Ahrix",
+            "id": 32317104
+        },
+        {
+            "name": "Lone Walker",
+            "artist": "Nyte",
+            "id": 29759362
+        },
+        {
+            "name": "Shadows",
+            "artist": "Janji",
+            "id": 31830308
+        },
+        {
+            "name": "Disconnected",
+            "artist": "Pegboard Nerds",
+            "id": 5067896
+        },
+        {
+            "name": "Heaven",
+            "artist": "Lensko",
+            "id": 29808787
+        },
+        {
+            "name": "Lands (Original Mix)",
+            "artist": "Vicktor",
+            "id": 408522832
+        },
+        {
+            "name": "Falling",
+            "artist": "AndyM",
+            "id": 409931826
+        },
+        {
+            "name": "Endless",
+            "artist": "Natio",
+            "id": 35283390
+        },
+        {
+            "name": "NCS Style Mix",
+            "artist": "HOPE-T",
+            "id": 41653419
+        },
+        {
+            "name": "Pneumatic Tokyo",
+            "artist": "EnV",
+            "id": 33937527
+        },
+        {
+            "name": "Memory Of A Melody",
+            "artist": "SmK",
+            "id": 410710814
+        },
+        {
+            "name": "Virtual World",
+            "artist": "SmK",
+            "id": 35847618
+        },
+        {
+            "name": "True Colors",
+            "artist": "SmK",
+            "id": 39940172
+        },
+        {
+            "name": "Alive",
+            "artist": "Jordan Kelvin James",
+            "id": 36587839
+        },
+        {
+            "name": "Clouds",
+            "artist": "Metio",
+            "id": 32823727
+        },
+        {
+            "name": "夜闯秋名山（弹幕歌词版）",
+            "artist": "HOPE-T",
+            "id": 413829329
+        },
+        {
+            "name": "color",
+            "artist": "祭酒",
+            "id": 1301185760
+        },
+        {
+            "name": "Complexity",
+            "artist": "MadEye",
+            "id": 408532744
+        },
+        {
+            "name": "Life In Time (Original Mix)",
+            "artist": "Jesús​Muñoz",
+            "id": 30621643
+        },
+        {
+            "name": "Life",
+            "artist": "LOCH",
+            "id": 30373281
+        },
+        {
+            "name": "Over the Horizon",
+            "artist": "TomLeevis",
+            "id": 30854949
+        },
+        {
+            "name": "Clouds (Version 2)",
+            "artist": "TomLeevis",
+            "id": 400162938
+        },
+        {
+            "name": "Hot Breeze",
+            "artist": "TomLeevis",
+            "id": 30854947
+        },
+        {
+            "name": "Soaring (Original Mix)",
+            "artist": "TomLeevis",
+            "id": 33340727
+        },
+        {
+            "name": "J'adore",
+            "artist": "TomLeevis",
+            "id": 31311812
+        },
+        {
+            "name": "The Top (Original Mix)",
+            "artist": "TomLeevis",
+            "id": 32639096
+        },
+        {
+            "name": "Whatever",
+            "artist": "徐梦圆",
+            "id": 406000489
+        },
+        {
+            "name": "China-PiPa",
+            "artist": "徐梦圆",
+            "id": 423104116
+        },
+        {
+            "name": "Sunny day",
+            "artist": "徐梦圆",
+            "id": 423104753
+        },
+        {
+            "name": "summer",
+            "artist": "徐梦圆",
+            "id": 34779102
+        },
+        {
+            "name": "China-Change",
+            "artist": "徐梦圆",
+            "id": 439625573
+        },
+        {
+            "name": "Horizon",
+            "artist": "Janji",
+            "id": 30064175
+        },
+        {
+            "name": "You",
+            "artist": "Approaching Nirvana",
+            "id": 3932159
+        },
+        {
+            "name": "Starry",
+            "artist": "千坂",
+            "id": 436668247
+        },
+        {
+            "name": "Angel ( Radio Edit )",
+            "artist": "Dogena",
+            "id": 30496187
+        },
+        {
+            "name": "Summertime",
+            "artist": "K-391",
+            "id": 32166628
+        },
+        {
+            "name": "Solstice",
+            "artist": "K-391",
+            "id": 33479592
+        },
+        {
+            "name": "Nova",
+            "artist": "Ahrix",
+            "id": 30212889
+        },
+        {
+            "name": "Time",
+            "artist": "Dogena",
+            "id": 31587912
+        },
+        {
+            "name": "Fly",
+            "artist": "CelDro",
+            "id": 411315678
+        },
+        {
+            "name": "Skies",
+            "artist": "Dogena",
+            "id": 30352322
+        },
+        {
+            "name": "Heaven",
+            "artist": "Starix​",
+            "id": 400581414
+        },
+        {
+            "name": "Senbonzakura [SS-Extended+Bass]",
+            "artist": "Lindsey Stirling",
+            "id": 32139848
+        },
+        {
+            "name": "Times",
+            "artist": "Itro",
+            "id": 399347060
+        },
+        {
+            "name": "Dream",
+            "artist": "徐梦圆",
+            "id": 41500995
+        },
+        {
+            "name": "For You",
+            "artist": "Itro",
+            "id": 32574997
+        },
+        {
+            "name": "One Day (Original Mix)",
+            "artist": "Antrux",
+            "id": 30621635
+        },
+        {
+            "name": "Fly",
+            "artist": "Andelon",
+            "id": 409060501
+        },
+        {
+            "name": "Tenko",
+            "artist": "Oorora",
+            "id": 30780452
+        },
+        {
+            "name": "What's Up Suckaz",
+            "artist": "TJR",
+            "id": 27492533
+        },
+        {
+            "name": "Infectious",
+            "artist": "Tobu",
+            "id": 28830409
+        },
+        {
+            "name": "Mesmerize",
+            "artist": "Tobu",
+            "id": 29379951
+        },
+        {
+            "name": "Magic",
+            "artist": "Tobu",
+            "id": 29379953
+        },
+        {
+            "name": "Miracle",
+            "artist": "Tobu",
+            "id": 412175362
+        },
+        {
+            "name": "Vibrance",
+            "artist": "Wisp X",
+            "id": 30780431
+        },
+        {
+            "name": "EuroDancer",
+            "artist": "Klave",
+            "id": 32639078
+        },
+        {
+            "name": "Unity",
+            "artist": "TheFatRat",
+            "id": 29534449
+        },
+        {
+            "name": "Sunburst",
+            "artist": "Tobu",
+            "id": 28830411
+        },
+        {
+            "name": "Life",
+            "artist": "Tobu",
+            "id": 28830410
+        },
+        {
+            "name": "Home",
+            "artist": "Itro",
+            "id": 30352345
+        },
+        {
+            "name": "Seven",
+            "artist": "Tobu",
+            "id": 29379952
+        },
+        {
+            "name": "Higher",
+            "artist": "Tobu",
+            "id": 28830412
+        },
+        {
+            "name": "Cloud 9",
+            "artist": "Tobu",
+            "id": 29797443
+        },
+        {
+            "name": "Up",
+            "artist": "Itro",
+            "id": 31311837
+        },
+        {
+            "name": "Fantasy",
+            "artist": "Tobu",
+            "id": 36924723
+        },
+        {
+            "name": "Morning Energy",
+            "artist": "Tobu",
+            "id": 29747649
+        },
+        {
+            "name": "Obstacles",
+            "artist": "Tobu",
+            "id": 29392902
+        },
+        {
+            "name": "Waves",
+            "artist": "Axero",
+            "id": 29759408
+        },
+        {
+            "name": "Colors",
+            "artist": "Tobu",
+            "id": 28921656
+        },
+        {
+            "name": "True Stories",
+            "artist": "Axero",
+            "id": 35314106
+        },
+        {
+            "name": "Stars",
+            "artist": "Ahxello",
+            "id": 36308122
+        },
+        {
+            "name": "Fade",
+            "artist": "Alan Walker",
+            "id": 29947420
+        },
+        {
+            "name": "Spectre",
+            "artist": "Alan Walker",
+            "id": 30064263
+        },
+        {
+            "name": "Ascendance",
+            "artist": "Lindsey Stirling",
+            "id": 28461164
+        },
+        {
+            "name": "Waves",
+            "artist": "Steerner",
+            "id": 26521799
+        },
+        {
+            "name": "Hypnotized(迷惑)",
+            "artist": "XDONE亦辰",
+            "id": 1346817943
+        },
+        {
+            "name": "Levitate",
+            "artist": "FEWZ",
+            "id": 406737893
+        }
+    ]
+}

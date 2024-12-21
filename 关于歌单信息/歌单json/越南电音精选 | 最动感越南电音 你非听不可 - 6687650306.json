@@ -2,21 +2,36 @@
     "playlist_info": {
         "name": "越南电音精选 | 最动感越南电音 你非听不可",
         "trackcount": 30,
-        "playcount": 6877347,
+        "playcount": 6960535,
         "creator": "云音乐官方歌单",
         "createDate": "2021-03-31",
-        "heat": 8389.0
+        "heat": 7635.0
     },
     "songs": [
         {
-            "name": "Di Vang Cuoc Tinh",
-            "artist": "Lemon2k",
-            "id": 1813706255
+            "name": "Big City Boiz (TiLo Mix.)",
+            "artist": "Nhạc Sàn",
+            "id": 1811874893
         },
         {
-            "name": "Tập Quên Em (Vinahouse)",
-            "artist": "Vu Duy Khanh",
-            "id": 1829925188
+            "name": "BoneyM x Rasputin (TiLo Mix.)",
+            "artist": "Nhạc Sàn",
+            "id": 1811874885
+        },
+        {
+            "name": "Khóc Nỗi Đau Này",
+            "artist": "Vũ Kem",
+            "id": 1816398269
+        },
+        {
+            "name": "Xua",
+            "artist": "33Hz",
+            "id": 1305028622
+        },
+        {
+            "name": "Em Mây",
+            "artist": "Hạnh Sino",
+            "id": 1443964039
         },
         {
             "name": "Lovers",
@@ -24,114 +39,9 @@
             "id": 1491830578
         },
         {
-            "name": "Nhớ Về Em (TiLo Mix.)",
-            "artist": "Nhạc Sàn",
-            "id": 1811874891
-        },
-        {
-            "name": "Xuan Hop Mat",
-            "artist": "TRAMOM",
-            "id": 1440452160
-        },
-        {
-            "name": "Quá Bảnh (TiLo Mix.)",
-            "artist": "Nhạc Sàn",
-            "id": 1811872491
-        },
-        {
-            "name": "Sau Khi Chia Tay Thi Phai Lam Gi",
-            "artist": "Trang Pháp",
-            "id": 513699436
-        },
-        {
-            "name": "Post That Shzzz",
-            "artist": "Deye",
-            "id": 1414058104
-        },
-        {
-            "name": "Áo Cũ Tình Mới (Vinahouse)",
-            "artist": "Lê Minh Thuận",
-            "id": 1826005165
-        },
-        {
-            "name": "Cát Bụi",
-            "artist": "Huy Anhh",
-            "id": 1501331325
-        },
-        {
-            "name": "Chúng Ta Từng Rất Đẹp",
-            "artist": "Bạc Cầm Diễm My",
-            "id": 1472859605
-        },
-        {
-            "name": "Forever Young Forever Yan",
-            "artist": "Vũ Cát Tường",
-            "id": 1302336614
-        },
-        {
-            "name": "Thuoing Hai",
-            "artist": "Felaver",
-            "id": 1436931360
-        },
-        {
-            "name": "The Model",
-            "artist": "Quỳnh Như",
-            "id": 1440336166
-        },
-        {
-            "name": "Pink King",
-            "artist": "Adam Lam",
-            "id": 1295532770
-        },
-        {
-            "name": "Thật Lòng Yêu (Vinahouse)",
-            "artist": "Nhật Phong",
-            "id": 1825996296
-        },
-        {
-            "name": "Ngày Chưa Giông Bão - Deep Mix (feat. Huy Anhh)",
-            "artist": "ICONIC.",
-            "id": 1824892337
-        },
-        {
-            "name": "Bắc Ninh Quẩy Lên (Extended)",
-            "artist": "Kcv In Da House",
-            "id": 1823214672
-        },
-        {
-            "name": "À Thế Làm Sao Mà À",
-            "artist": "DJ Tom2k",
-            "id": 1468998553
-        },
-        {
-            "name": "Hon Em Di",
-            "artist": "Linh Ku",
-            "id": 1501631630
-        },
-        {
-            "name": "Em Có Nghe",
-            "artist": "Orim",
-            "id": 1436926879
-        },
-        {
-            "name": "Hôm Nay Em Vu Quy (G House)",
-            "artist": "Nguyen Dinh Vu",
-            "id": 1829927584
-        },
-        {
-            "name": "Nonstop Vinahouse Tướng Quân",
-            "artist": "Nhật Phong",
-            "id": 1490891330
-        },
-        {
-            "name": "Năm Tháng Ấy",
-            "artist": "Kenny Prod",
-            "id": 1473715654
-        },
-        {
-            "name": "Yeu (EDM Version)",
-            "artist": "Min st.319",
-            "id": 514680262
+            "name": "Chuẩn Gu",
+            "artist": "NXT",
+            "id": 1806597251
         },
         {
             "name": "Sang Nha Em Choi",
@@ -139,24 +49,114 @@
             "id": 1810447022
         },
         {
+            "name": "Đêm Đen",
+            "artist": "HEU",
+            "id": 1431448994
+        },
+        {
+            "name": "Hít Một Line Sao Phê Được Ba",
+            "artist": "Tài Muzik",
+            "id": 1827408237
+        },
+        {
+            "name": "Yeu (EDM Version)",
+            "artist": "Min st.319",
+            "id": 514680262
+        },
+        {
+            "name": "Ghen Cô Vy",
+            "artist": "EXABiOS",
+            "id": 1442097201
+        },
+        {
+            "name": "Thuoing Hai",
+            "artist": "Felaver",
+            "id": 1436931360
+        },
+        {
+            "name": "Ông Trời Tạo Ra Địa Chấn - Đầu Anh Là Điểm Nhấn",
+            "artist": "DJ Tom2k",
+            "id": 1445194160
+        },
+        {
+            "name": "Thả Thính (VinaHouse - DJ Khang Chivas)",
+            "artist": "Hoàng Rapper",
+            "id": 1458984245
+        },
+        {
+            "name": "On the Next Level (feat. Namnam)",
+            "artist": "Bác sĩ Hải",
+            "id": 1479365214
+        },
+        {
+            "name": "Sai Gon Dep Lam",
+            "artist": "TRAMOM",
+            "id": 1435806938
+        },
+        {
+            "name": "Ngủ Ngon Em Nhé",
+            "artist": "M-A",
+            "id": 1446344944
+        },
+        {
+            "name": "This Is Giz House",
+            "artist": "Shenlongz",
+            "id": 1458181175
+        },
+        {
+            "name": "À Thế Làm Sao Mà À",
+            "artist": "AnSMOKE",
+            "id": 1468788924
+        },
+        {
+            "name": "My Kandy",
+            "artist": "Marutron",
+            "id": 1479340583
+        },
+        {
+            "name": "The Model",
+            "artist": "Quỳnh Như",
+            "id": 1440333155
+        },
+        {
+            "name": "Em Sai Rồi, Anh Xin Lỗi Em Đi",
+            "artist": "Chi Pu",
+            "id": 523667296
+        },
+        {
             "name": "Em Nói Dối Đấy (Tropical)",
             "artist": "NLy",
             "id": 1826005420
         },
         {
-            "name": "PAP PAP PAP",
-            "artist": "K-ICM",
-            "id": 1828766995
+            "name": "Forever Young Forever Yan",
+            "artist": "Vũ Cát Tường",
+            "id": 1302336614
         },
         {
-            "name": "Ben Cắt Đầu Moi (Extended)",
-            "artist": "Ben Heineken",
-            "id": 1830368266
+            "name": "Um Xi La Bum",
+            "artist": "TRAMOM",
+            "id": 1440447699
         },
         {
-            "name": "Lập Hạ (Vip Mix)",
-            "artist": "Halee Royal",
-            "id": 1825831535
+            "name": "2 Phút Hơn (Remake)",
+            "artist": "Pháo",
+            "id": 1450990279
+        },
+        {
+            "name": "Ke Cap Gap Ba Gia",
+            "artist": "United Idol",
+            "id": 1829984136
+        },
+        {
+            "name": "Tình bạn diệu kỳ",
+            "artist": "Arx",
+            "id": 1826347148
+        },
+        {
+            "name": "Not A One Night Stand",
+            "artist": "Double Noize",
+            "id": 1479340322
         }
     ]
 }

@@ -1,11 +1,11 @@
 {
     "playlist_info": {
         "name": "21世纪最具有生命力的现代爵士乐",
-        "trackcount": 160,
-        "playcount": 604378,
+        "trackcount": 162,
+        "playcount": 606831,
         "creator": "夕阳下的盛宴",
         "createDate": "2016-10-01",
-        "heat": 245.0
+        "heat": 237.0
     },
     "songs": [
         {
@@ -524,6 +524,11 @@
             "id": 28374071
         },
         {
+            "name": "For all the Other Times",
+            "artist": "Dave Liebman",
+            "id": 555699777
+        },
+        {
             "name": "Bop About",
             "artist": "Fredrik Ljungkvist Quartet",
             "id": 465878123
@@ -777,6 +782,11 @@
             "name": "Isn't It Over?",
             "artist": "Ches Smith",
             "id": 404543736
+        },
+        {
+            "name": "Clarinet Concerto",
+            "artist": "François Houle",
+            "id": 532994886
         },
         {
             "name": "Fletch Pot",

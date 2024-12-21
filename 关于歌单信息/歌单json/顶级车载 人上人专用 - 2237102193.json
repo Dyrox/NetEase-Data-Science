@@ -1,13 +1,83 @@
 {
     "playlist_info": {
         "name": "顶级车载 人上人专用",
-        "trackcount": 728,
-        "playcount": 2816960,
+        "trackcount": 740,
+        "playcount": 2926858,
         "creator": "VK-冈斯特",
         "createDate": "2018-05-22",
-        "heat": 1511.0
+        "heat": 1497.0
     },
     "songs": [
+        {
+            "name": "Bandit",
+            "artist": "DJ七七",
+            "id": 2065669099
+        },
+        {
+            "name": "Mi Gente (instrumental)",
+            "artist": "Zeedi",
+            "id": 1979060193
+        },
+        {
+            "name": "Bring it back",
+            "artist": "uravnabeshen",
+            "id": 2048936653
+        },
+        {
+            "name": "FREE（解脱）",
+            "artist": "SAKE",
+            "id": 2043304704
+        },
+        {
+            "name": "Fly",
+            "artist": "HM-NFAR",
+            "id": 2025414218
+        },
+        {
+            "name": "Halloween",
+            "artist": "KILLTEQ",
+            "id": 1990259928
+        },
+        {
+            "name": "Gangsta (Orginal mix )",
+            "artist": "Sara",
+            "id": 2054719554
+        },
+        {
+            "name": "Octopus jiang (Orginal mix )",
+            "artist": "Ghani",
+            "id": 2021279106
+        },
+        {
+            "name": "EDVRI",
+            "artist": "EIILAO",
+            "id": 2051779695
+        },
+        {
+            "name": "Sipping",
+            "artist": "XiaYu",
+            "id": 2030538190
+        },
+        {
+            "name": "Night Sky",
+            "artist": "DEITIES",
+            "id": 2052914242
+        },
+        {
+            "name": "Never",
+            "artist": "DEITIES",
+            "id": 2052911540
+        },
+        {
+            "name": "He1l Na",
+            "artist": "777Sc",
+            "id": 2048347783
+        },
+        {
+            "name": "LIKE THE WAY",
+            "artist": "ReddCross",
+            "id": 2053609452
+        },
         {
             "name": "Days",
             "artist": "TBT Prod.",
@@ -480,7 +550,7 @@
         },
         {
             "name": "EA7 MUZ",
-            "artist": "xxxCr3",
+            "artist": "xxx Cr3",
             "id": 1969320327
         },
         {
@@ -565,7 +635,7 @@
         },
         {
             "name": "Dirty War（EA7）",
-            "artist": "比特丧",
+            "artist": "Govi",
             "id": 1923159434
         },
         {
@@ -575,7 +645,7 @@
         },
         {
             "name": "POLICE",
-            "artist": "HacKerML",
+            "artist": "HECKLKER",
             "id": 1948881791
         },
         {
@@ -774,11 +844,6 @@
             "id": 1943363570
         },
         {
-            "name": "NUMB",
-            "artist": "DJMUZ",
-            "id": 1942298236
-        },
-        {
             "name": "Such a",
             "artist": "MFE",
             "id": 1944199235
@@ -839,7 +904,7 @@
             "id": 1933126265
         },
         {
-            "name": "Angetenar x Babel ",
+            "name": "Angetenar x Babel",
             "artist": "Alif",
             "id": 1937701628
         },
@@ -970,7 +1035,7 @@
         },
         {
             "name": "I Got Love(Remix)",
-            "artist": "YHYU",
+            "artist": "AHUY",
             "id": 1920118090
         },
         {
@@ -1054,11 +1119,6 @@
             "id": 1918164190
         },
         {
-            "name": "Cool (Orginal Mix)",
-            "artist": "Kadir Official",
-            "id": 1839070977
-        },
-        {
             "name": "TLE",
             "artist": "GHOST",
             "id": 1892423390
@@ -1100,7 +1160,7 @@
         },
         {
             "name": "HARD SONG BOSS (Original Mix)",
-            "artist": "SLOWED DEEP HOUSE REMIX",
+            "artist": "BLACK-ATLASS",
             "id": 1911920650
         },
         {
@@ -1144,7 +1204,7 @@
             "id": 1908380343
         },
         {
-            "name": "Can We Kiss Forever ",
+            "name": "Can We Kiss Forever",
             "artist": "GHOST",
             "id": 1907931828
         },
@@ -1440,7 +1500,7 @@
         },
         {
             "name": "Iamdoechii-Iamdoechii - Yucky Blucky Fruitcake（方丈 remix）",
-            "artist": "FZ1XX",
+            "artist": "难抉择",
             "id": 1860541688
         },
         {
@@ -1635,7 +1695,7 @@
         },
         {
             "name": "M.I.A./YSMUZ-Moring（YSMUZ Remix）",
-            "artist": "Daylight",
+            "artist": "EXVE",
             "id": 1438093796
         },
         {
@@ -2314,7 +2374,7 @@
             "id": 1466327598
         },
         {
-            "name": "Atomic (Original Mix)",
+            "name": "Atomic",
             "artist": "Stefre Roland",
             "id": 1496370756
         },
@@ -2760,7 +2820,7 @@
         },
         {
             "name": "Out Of Time（YSMUZ remix）",
-            "artist": "Daylight",
+            "artist": "EXVE",
             "id": 1449417689
         },
         {
@@ -2869,7 +2929,7 @@
             "id": 1415739551
         },
         {
-            "name": "Chica Loca ( Remix )（翻自 Tony Ray） ",
+            "name": "Chica Loca ( Remix )（翻自 Tony Ray）",
             "artist": "Bater official",
             "id": 1398262555
         },
@@ -3080,7 +3140,7 @@
         },
         {
             "name": "Klub-Klub（YSMUZ remix）",
-            "artist": "Daylight",
+            "artist": "EXVE",
             "id": 1474157062
         },
         {
@@ -3155,12 +3215,12 @@
         },
         {
             "name": "Rot（Original Mix）",
-            "artist": "Daylight",
+            "artist": "EXVE",
             "id": 1446121736
         },
         {
             "name": "FAST & FURIOUS [Chase Scene]-LAY LAY（YSMUZ remix）",
-            "artist": "Daylight",
+            "artist": "EXVE",
             "id": 1449420352
         },
         {
@@ -3185,7 +3245,7 @@
         },
         {
             "name": "Dr. Dre-Dr. Dre & Snoop Dogg（YSMUZ remix）",
-            "artist": "Daylight",
+            "artist": "EXVE",
             "id": 1448216202
         },
         {
@@ -3514,7 +3574,7 @@
             "id": 1400261373
         },
         {
-            "name": "Milkshake（翻自 AEZI） ",
+            "name": "Milkshake（翻自 AEZI）",
             "artist": "aEZi",
             "id": 1398505359
         },
@@ -3644,7 +3704,7 @@
             "id": 1426546024
         },
         {
-            "name": "ALan-Octopus（DruGTRaffickerS remix）",
+            "name": "Octopus (Original Mix)",
             "artist": "DruGTRaffickerS",
             "id": 1423297895
         }

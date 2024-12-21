@@ -1,13 +1,18 @@
 {
     "playlist_info": {
         "name": "开火车专用歌曲有毒勿听",
-        "trackcount": 63,
-        "playcount": 7145859,
+        "trackcount": 64,
+        "playcount": 7240419,
         "creator": "DoRfanminGo丶",
         "createDate": "2016-10-28",
-        "heat": 2934.0
+        "heat": 2865.0
     },
     "songs": [
+        {
+            "name": "Crazy",
+            "artist": "BBX",
+            "id": 1413227682
+        },
         {
             "name": "Love 2 Party (Goldsylver Radio Edit)",
             "artist": "Gabry Ponte",

@@ -1,17 +1,27 @@
 {
     "playlist_info": {
         "name": "极致女声:快车道上的人生是有些孤独",
-        "trackcount": 186,
-        "playcount": 1429456,
+        "trackcount": 188,
+        "playcount": 1431002,
         "creator": "百龄容与",
         "createDate": "2020-01-15",
-        "heat": 1133.0
+        "heat": 1058.0
     },
     "songs": [
         {
-            "name": "Lost ",
+            "name": "Lost",
             "artist": "Jai Wolf",
             "id": 1299998060
+        },
+        {
+            "name": "Round Hole",
+            "artist": "Song House",
+            "id": 1927061467
+        },
+        {
+            "name": "Do You Ever",
+            "artist": "Alex Vaughn",
+            "id": 1987512903
         },
         {
             "name": "Trip",
@@ -765,7 +775,7 @@
         },
         {
             "name": "Fly Away",
-            "artist": "Anjulie",
+            "artist": "TheFatRat",
             "id": 480648424
         },
         {

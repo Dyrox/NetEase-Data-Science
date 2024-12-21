@@ -1,17 +1,32 @@
 {
     "playlist_info": {
         "name": "LOL超燃BGM丨听完一打九",
-        "trackcount": 211,
-        "playcount": 5924770,
+        "trackcount": 214,
+        "playcount": 6270792,
         "creator": "何须锢上枷锁",
         "createDate": "2019-06-25",
-        "heat": 4041.0
+        "heat": 4027.0
     },
     "songs": [
+        {
+            "name": "Bandit",
+            "artist": "DJ七七",
+            "id": 2065669099
+        },
         {
             "name": "KLEIN BLUE",
             "artist": "Nine Band",
             "id": 1964744004
+        },
+        {
+            "name": "Ass like that",
+            "artist": "KILLU",
+            "id": 1947713187
+        },
+        {
+            "name": "Fool For You",
+            "artist": "KASTRA",
+            "id": 1897685644
         },
         {
             "name": "Apex",
@@ -380,7 +395,7 @@
         },
         {
             "name": "Fearless Pt. II",
-            "artist": "Tule",
+            "artist": "Lost Sky",
             "id": 529391087
         },
         {
@@ -430,7 +445,7 @@
         },
         {
             "name": "Sold Out",
-            "artist": "Hawk Nelson",
+            "artist": "Jonathan Steingard",
             "id": 31010566
         },
         {
@@ -519,7 +534,7 @@
             "id": 1862639819
         },
         {
-            "name": "Feel The Fire (Egzod Remix)",
+            "name": "Feel the Fire (Egzod Remix)",
             "artist": "Pluto",
             "id": 444324932
         },
@@ -614,7 +629,7 @@
             "id": 423104752
         },
         {
-            "name": "Walk Thru Fire ",
+            "name": "Walk Thru Fire",
             "artist": "Vicetone",
             "id": 1322460396
         },
@@ -675,7 +690,7 @@
         },
         {
             "name": "despair",
-            "artist": "YINSHENG",
+            "artist": "Flower Kiss",
             "id": 550829288
         },
         {
@@ -780,7 +795,7 @@
         },
         {
             "name": "Set Me Free",
-            "artist": "J Harrison",
+            "artist": "Fumos",
             "id": 557521562
         },
         {
@@ -1024,7 +1039,7 @@
             "id": 1296410418
         },
         {
-            "name": "In The End",
+            "name": "In the End",
             "artist": "Linkin Park",
             "id": 4153632
         },

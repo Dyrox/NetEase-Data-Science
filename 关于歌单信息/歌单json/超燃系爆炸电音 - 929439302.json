@@ -1,13 +1,18 @@
 {
     "playlist_info": {
         "name": "超燃系爆炸电音",
-        "trackcount": 283,
-        "playcount": 675543,
+        "trackcount": 284,
+        "playcount": 689655,
         "creator": "大运华附彭于晏",
         "createDate": "2017-09-23",
-        "heat": 320.0
+        "heat": 313.0
     },
     "songs": [
+        {
+            "name": "Crown (feat. Tyler Graves)",
+            "artist": "Bijou",
+            "id": 1461687888
+        },
         {
             "name": "Chasing the Dragon",
             "artist": "Getsix",
@@ -424,7 +429,7 @@
             "id": 1318033490
         },
         {
-            "name": "Lordly(DJ GLinnfast Remix)（翻自 笑匠） ",
+            "name": "Lordly(DJ GLinnfast Remix)（翻自 笑匠）",
             "artist": "笑匠",
             "id": 1375530667
         },

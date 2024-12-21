@@ -1,11 +1,11 @@
 {
     "playlist_info": {
         "name": "开启学霸模式 | 精选古典音乐 伴你看书学习",
-        "trackcount": 72,
-        "playcount": 3924173,
+        "trackcount": 70,
+        "playcount": 4070935,
         "creator": "云音乐古典星球",
         "createDate": "2019-05-30",
-        "heat": 2632.0
+        "heat": 2572.0
     },
     "songs": [
         {
@@ -67,6 +67,11 @@
             "name": "Violin Concerto No. 2 - The American Four Seasons:Movement II",
             "artist": "Kremerata Baltica",
             "id": 473207213
+        },
+        {
+            "name": "Children's Corner (arr. P. Galbraith):IV. The Snow is Dancing",
+            "artist": "Paul Galbraith",
+            "id": 552418584
         },
         {
             "name": "Water under snow is weary [Vesi väsyy lumen alle]",
@@ -254,6 +259,11 @@
             "id": 401820617
         },
         {
+            "name": "Symphony No. 96 in D Major, Hob.I:96, \"The Miracle\":III. Menuetto: Allegretto",
+            "artist": "Gerard Schwarz",
+            "id": 552410077
+        },
+        {
             "name": "Eugene Onegin, Op.24 / Act 3:(Scene 1) Polonaise",
             "artist": "Orchestra of the Royal Opera House, Covent Garden",
             "id": 399348182
@@ -314,6 +324,11 @@
             "id": 521726469
         },
         {
+            "name": "String Quartet in E-Flat Major, Op. 58, No. 2, G. 243:IV. Finale: Allegro vivo assai",
+            "artist": "Revolutionary Drawing Room",
+            "id": 532910027
+        },
+        {
             "name": "Introduction et Rondo Capriccioso, Op.28",
             "artist": "Itzhak Perlman",
             "id": 403785748
@@ -342,31 +357,6 @@
             "name": "Guillaume Tell: Overture (Instrumental)",
             "artist": "Leonard Bernstein",
             "id": 26816545
-        },
-        {
-            "name": "Piano Concerto No.1 In B Flat Minor, Op.23:1. Allegro non troppo e molto maestoso - Allegro con spirito",
-            "artist": "Martha Argerich",
-            "id": 3033460
-        },
-        {
-            "name": "Piano Sonata No. 23 in F Minor, Op. 57 \"Appassionata\":III. Allegro ma non troppo; Presto",
-            "artist": "Rudolf Serkin",
-            "id": 1926602
-        },
-        {
-            "name": "Overture \"Coriolan\", Op. 62:Allegro con brio",
-            "artist": "Carlo Maria Giulini",
-            "id": 410010468
-        },
-        {
-            "name": "Allegro in A Minor, Op. 144, D. 947, \"Lebenssturme\":Allegro ma non troppo",
-            "artist": "Jeno Jando",
-            "id": 464933666
-        },
-        {
-            "name": "Sonata for Piano No. 23 in F Minor, Op. 57 \"Appassionata\": I. Allegro assai",
-            "artist": "Ludwig van Beethoven",
-            "id": 542279936
         }
     ]
 }

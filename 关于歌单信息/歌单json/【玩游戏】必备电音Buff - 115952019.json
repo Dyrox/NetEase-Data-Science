@@ -1,13 +1,38 @@
 {
     "playlist_info": {
         "name": "【玩游戏】必备电音Buff",
-        "trackcount": 411,
-        "playcount": 63487996,
+        "trackcount": 416,
+        "playcount": 63528304,
         "creator": "云村老司机",
         "createDate": "2015-10-14",
-        "heat": 22549.0
+        "heat": 21857.0
     },
     "songs": [
+        {
+            "name": "On Our Own",
+            "artist": "Vluarr",
+            "id": 1946510565
+        },
+        {
+            "name": "Бизнес класс",
+            "artist": "Instasamka",
+            "id": 2065848991
+        },
+        {
+            "name": "Aprender",
+            "artist": "Pao Pestana",
+            "id": 2048181868
+        },
+        {
+            "name": "Voices In My Head",
+            "artist": "Vicetone",
+            "id": 2059134447
+        },
+        {
+            "name": "Fashion Week (it's different Remix)",
+            "artist": "it's different",
+            "id": 485347162
+        },
         {
             "name": "Blow The Speakers",
             "artist": "Dr Phunk",
@@ -469,7 +494,7 @@
             "id": 35845377
         },
         {
-            "name": "史诗中国 ",
+            "name": "史诗中国",
             "artist": "路南",
             "id": 1313052443
         },
@@ -1825,7 +1850,7 @@
         },
         {
             "name": "Wicked Wonderland (Radio Edit)",
-            "artist": "Tungevaag",
+            "artist": "Martin Tungevaag",
             "id": 28694864
         },
         {

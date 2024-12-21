@@ -1,13 +1,18 @@
 {
     "playlist_info": {
         "name": "【电音】听了会上瘾的复古Synthwave",
-        "trackcount": 103,
-        "playcount": 1528686,
+        "trackcount": 104,
+        "playcount": 1556395,
         "creator": "风之君临",
         "createDate": "2019-02-20",
-        "heat": 961.0
+        "heat": 925.0
     },
     "songs": [
+        {
+            "name": "Twisted Getaway",
+            "artist": "Neon Nox",
+            "id": 1351963709
+        },
         {
             "name": "Los Angeles",
             "artist": "The Midnight",

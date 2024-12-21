@@ -1,27 +1,22 @@
 {
     "playlist_info": {
         "name": "燃破天际！那些荡漾在激战中的BGM！",
-        "trackcount": 118,
-        "playcount": 3992974,
+        "trackcount": 117,
+        "playcount": 4106365,
         "creator": "Lin-feng",
         "createDate": "2014-03-24",
-        "heat": 1179.0
+        "heat": 1181.0
     },
     "songs": [
+        {
+            "name": "Whataya Want from Me",
+            "artist": "Adam Lambert",
+            "id": 16343632
+        },
         {
             "name": "Fractures",
             "artist": "ILLENIUM",
             "id": 507585220
-        },
-        {
-            "name": "Octopus jiang (Orginal mix )",
-            "artist": "Ghani",
-            "id": 2021279106
-        },
-        {
-            "name": "Viele (Orginal mix )",
-            "artist": "Ghani",
-            "id": 2045194409
         },
         {
             "name": "Still Worth Fighting For",
@@ -535,7 +530,7 @@
         },
         {
             "name": "Battle Without Honor Or Humanity",
-            "artist": "Tomoyasu Hotei",
+            "artist": "布袋寅泰",
             "id": 5051245
         },
         {

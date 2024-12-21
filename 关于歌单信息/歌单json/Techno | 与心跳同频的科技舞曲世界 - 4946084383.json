@@ -1,13 +1,33 @@
 {
     "playlist_info": {
         "name": "Techno | 与心跳同频的科技舞曲世界",
-        "trackcount": 87,
-        "playcount": 3513930,
+        "trackcount": 91,
+        "playcount": 3584333,
         "creator": "云音乐电音星球",
         "createDate": "2020-04-01",
-        "heat": 2969.0
+        "heat": 2810.0
     },
     "songs": [
+        {
+            "name": "The Unexpected",
+            "artist": "Mha Iri",
+            "id": 2075925858
+        },
+        {
+            "name": "Vois sur ton chemin (Techno Mix)",
+            "artist": "Bennett",
+            "id": 2069408863
+        },
+        {
+            "name": "Robotic Arms",
+            "artist": "Adam Beyer",
+            "id": 2067099898
+        },
+        {
+            "name": "Metamorphosis (Marie Vaunt Remix)",
+            "artist": "Belocca",
+            "id": 2048436870
+        },
         {
             "name": "I Want to See",
             "artist": "Drunken Kong",

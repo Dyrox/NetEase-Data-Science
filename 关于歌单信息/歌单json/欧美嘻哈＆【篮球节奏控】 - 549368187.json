@@ -1,13 +1,43 @@
 {
     "playlist_info": {
         "name": "欧美嘻哈＆【篮球节奏控】",
-        "trackcount": 200,
-        "playcount": 7863707,
+        "trackcount": 206,
+        "playcount": 7925347,
         "creator": "毒克文",
         "createDate": "2016-12-27",
-        "heat": 3310.0
+        "heat": 3213.0
     },
     "songs": [
+        {
+            "name": "Want Me Dead (feat. 21 Savage)",
+            "artist": "Young Thug",
+            "id": 2058108131
+        },
+        {
+            "name": "JEALOUSY",
+            "artist": "Offset",
+            "id": 2068076464
+        },
+        {
+            "name": "Superhero (Heroes & Villains)",
+            "artist": "Metro Boomin",
+            "id": 2003576547
+        },
+        {
+            "name": "F My BM",
+            "artist": "Moneybagg Yo",
+            "id": 2052352344
+        },
+        {
+            "name": "U Played",
+            "artist": "Moneybagg Yo",
+            "id": 1415736749
+        },
+        {
+            "name": "fukumean",
+            "artist": "Gunna",
+            "id": 2056074913
+        },
         {
             "name": "What's Next",
             "artist": "Drake",

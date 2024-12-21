@@ -2,10 +2,10 @@
     "playlist_info": {
         "name": "孤独心事 | 一个人听的寂寞独白",
         "trackcount": 60,
-        "playcount": 726980,
+        "playcount": 764348,
         "creator": "云音乐官方歌单",
         "createDate": "2021-03-30",
-        "heat": 885.0
+        "heat": 837.0
     },
     "songs": [
         {
@@ -152,6 +152,11 @@
             "name": "So:Lo",
             "artist": "Kate Havnevik",
             "id": 2872271
+        },
+        {
+            "name": "let me hold you",
+            "artist": "lofi.samurai",
+            "id": 1300198352
         },
         {
             "name": "Help Me Out",

@@ -1,18 +1,13 @@
 {
     "playlist_info": {
         "name": "工作学术丨论文背单词看书画图加班 纯音乐",
-        "trackcount": 414,
-        "playcount": 2780413,
+        "trackcount": 412,
+        "playcount": 2804181,
         "creator": "_鹿知山",
         "createDate": "2017-11-22",
-        "heat": 1357.0
+        "heat": 1312.0
     },
     "songs": [
-        {
-            "name": "Sunny Mornings",
-            "artist": "Peder B. Helland",
-            "id": 1456445892
-        },
         {
             "name": "The Campfire",
             "artist": "Peder B. Helland",
@@ -27,11 +22,6 @@
             "name": "晴天 (钢琴版) [原唱: 周杰伦]",
             "artist": "纪钧瀚 (Bryan Chi)",
             "id": 1945894789
-        },
-        {
-            "name": "Corporate Sentimental",
-            "artist": "studiomaxmusic",
-            "id": 1426296731
         },
         {
             "name": "Only You (Original)",
@@ -129,7 +119,7 @@
             "id": 487680021
         },
         {
-            "name": "I saw you smile today. I almost forgot that you faded away",
+            "name": "I saw you smile today. I almost forgot you faded away",
             "artist": "Xeuphoria",
             "id": 405377983
         },
@@ -345,7 +335,7 @@
         },
         {
             "name": "下个路口见【纯音乐版】",
-            "artist": "Leon不太冷",
+            "artist": "邓壬鑫",
             "id": 560305138
         },
         {
@@ -689,7 +679,7 @@
             "id": 28692665
         },
         {
-            "name": "Vision 　",
+            "name": "Visions",
             "artist": "Tom Barabas",
             "id": 3571921
         },
@@ -1097,6 +1087,11 @@
             "name": "As She Passes",
             "artist": "Levi Patel",
             "id": 470759019
+        },
+        {
+            "name": "Sunny Mornings",
+            "artist": "Peder B. Helland",
+            "id": 1456445892
         },
         {
             "name": "Auld Lang Syne",
@@ -1559,8 +1554,8 @@
             "id": 1334614029
         },
         {
-            "name": "Take Me To Infinity （纯音乐治愈版）（翻自 Consoul Trainin） ",
-            "artist": "Leon不太冷",
+            "name": "Take Me To Infinity （纯音乐治愈版）（翻自 Consoul Trainin）",
+            "artist": "邓壬鑫",
             "id": 1323848247
         },
         {
@@ -1694,7 +1689,7 @@
             "id": 519870772
         },
         {
-            "name": "大鱼 钢琴版",
+            "name": "大鱼钢琴版",
             "artist": "昼夜",
             "id": 414706265
         },
@@ -1782,11 +1777,6 @@
             "name": "Atlantic",
             "artist": "Sleeping at Last",
             "id": 28405261
-        },
-        {
-            "name": "Fireflies",
-            "artist": "Enzalla",
-            "id": 401249750
         },
         {
             "name": "Initialize",

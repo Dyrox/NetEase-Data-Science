@@ -2,106 +2,151 @@
     "playlist_info": {
         "name": "金属唱片行 | 在情绪中燃烧的凛冽乐句",
         "trackcount": 30,
-        "playcount": 1731955,
+        "playcount": 1751176,
         "creator": "云音乐官方歌单",
         "createDate": "2021-01-25",
-        "heat": 1958.0
+        "heat": 1793.0
     },
     "songs": [
         {
-            "name": "I'll Make It on My Own",
-            "artist": "Doro",
-            "id": 2427681
+            "name": "Away",
+            "artist": "Plini",
+            "id": 27849685
         },
         {
-            "name": "No Reflection",
-            "artist": "Marilyn Manson",
-            "id": 533560545
-        },
-        {
-            "name": "Dawn Awaits",
-            "artist": "Cliff Lin",
-            "id": 1215273
-        },
-        {
-            "name": "Nur In Der Nacht",
-            "artist": "Nachtblut",
-            "id": 1468116270
-        },
-        {
-            "name": "Killing in the Name",
-            "artist": "Rage Against the Machine",
-            "id": 5049725
+            "name": "The Swan Song",
+            "artist": "Within Temptation",
+            "id": 28442165
         },
         {
             "name": "Memories",
             "artist": "Within Temptation",
-            "id": 4424930
+            "id": 20715604
         },
         {
-            "name": "The Crow, the Owl and the Dove (Radio Edit)",
-            "artist": "Nightwish",
-            "id": 21312222
-        },
-        {
-            "name": "Madhouse",
-            "artist": "Anthrax",
-            "id": 5199417
-        },
-        {
-            "name": "Passion And The Opera",
-            "artist": "Nightwish",
-            "id": 21312309
-        },
-        {
-            "name": "Jillian (I'd Give My Heart)",
-            "artist": "Within Temptation",
-            "id": 4424927
-        },
-        {
-            "name": "82nd All the Way",
-            "artist": "Sabaton",
-            "id": 1359991681
-        },
-        {
-            "name": "In the Dead of Night",
-            "artist": "Krokus",
-            "id": 4146954
-        },
-        {
-            "name": "After Party",
-            "artist": "Scarlet Horizon",
-            "id": 1402868811
-        },
-        {
-            "name": "My Own Grave",
-            "artist": "As I Lay Dying",
-            "id": 572321183
-        },
-        {
-            "name": "Seemann",
-            "artist": "Rammstein",
-            "id": 4262164
-        },
-        {
-            "name": "Infectious",
-            "artist": "Imminence",
-            "id": 1347845152
-        },
-        {
-            "name": "Kein Weg zu weit",
-            "artist": "Mono Inc.",
-            "id": 27570028
-        },
-        {
-            "name": "Into the Fire",
+            "name": "This Is The New ****",
             "artist": "Marilyn Manson",
-            "id": 21256243
+            "id": 472987968
         },
         {
-            "name": "Still Loving You",
-            "artist": "Scorpions",
-            "id": 4280800
+            "name": "Links 2,3,4!",
+            "artist": "Radio Tapok",
+            "id": 1461338776
+        },
+        {
+            "name": "Lost in a Wave",
+            "artist": "LANDMVRKS",
+            "id": 1490523530
+        },
+        {
+            "name": "Will My Soul Ever Rest in Peace?",
+            "artist": "Stratovarius",
+            "id": 19089348
+        },
+        {
+            "name": "在黑暗中前行",
+            "artist": "Parasitic-Eve",
+            "id": 545487128
+        },
+        {
+            "name": "The End",
+            "artist": "Dream Evil",
+            "id": 17224437
+        },
+        {
+            "name": "The Mephistopheles Of Los Angeles",
+            "artist": "Marilyn Manson",
+            "id": 569505318
+        },
+        {
+            "name": "End Leaving",
+            "artist": "Be Persecuted",
+            "id": 346937
+        },
+        {
+            "name": "Tears Don'T Fall",
+            "artist": "Bullet for My Valentine",
+            "id": 16842891
+        },
+        {
+            "name": "Blut im Auge",
+            "artist": "Equilibrium",
+            "id": 17646051
+        },
+        {
+            "name": "ARMOUR",
+            "artist": "Instinct of Sight",
+            "id": 1307406927
+        },
+        {
+            "name": "My Walden",
+            "artist": "Nightwish",
+            "id": 31053368
+        },
+        {
+            "name": "Fallen Angel (Digitally Remastered 96)",
+            "artist": "Poison",
+            "id": 22208823
+        },
+        {
+            "name": "Isn't It All Worth Fighting For",
+            "artist": "Cliff Lin",
+            "id": 1215277
+        },
+        {
+            "name": "不复再来",
+            "artist": "The Will On Kill",
+            "id": 1400046437
+        },
+        {
+            "name": "Lethean Tears",
+            "artist": "Solution .45",
+            "id": 19181340
+        },
+        {
+            "name": "Élan",
+            "artist": "Nightwish",
+            "id": 30612290
+        },
+        {
+            "name": "Toxic",
+            "artist": "Attila",
+            "id": 1338160759
+        },
+        {
+            "name": "Night Of Passion",
+            "artist": "The Poodles",
+            "id": 19526122
+        },
+        {
+            "name": "Tears of a Clown",
+            "artist": "U.D.O.",
+            "id": 19644630
+        },
+        {
+            "name": "Waldschrein",
+            "artist": "Equilibrium",
+            "id": 28648596
+        },
+        {
+            "name": "Hard Rock Hallelujah",
+            "artist": "Lordi",
+            "id": 1647722
+        },
+        {
+            "name": "Tears To Cry",
+            "artist": "Gotthard",
+            "id": 18093879
+        },
+        {
+            "name": "Forever",
+            "artist": "Stratovarius",
+            "id": 1306160380
+        },
+        {
+            "name": "Just Like Me",
+            "artist": "The Amity Affliction",
+            "id": 1412797514
         },
         {
             "name": "Symphony No.9",
@@ -109,54 +154,9 @@
             "id": 5085898
         },
         {
-            "name": "B4NGB4NG!! (feat. TYOSiN & Kamiyada+)",
-            "artist": "Within Destruction",
-            "id": 1454557867
-        },
-        {
-            "name": "Feuer Frei",
-            "artist": "Rammstein",
-            "id": 5052468
-        },
-        {
-            "name": "Gem",
-            "artist": "Eric Johnson",
-            "id": 22243374
-        },
-        {
-            "name": "Don't Talk To Strangers",
-            "artist": "Dio",
-            "id": 1240384
-        },
-        {
-            "name": "Глас Сумеречных Озёр",
-            "artist": "Bastarth",
-            "id": 3983451
-        },
-        {
-            "name": "The Call Of The Mountains (MFIT)",
-            "artist": "Eluveitie",
-            "id": 28864860
-        },
-        {
-            "name": "Tragedienne",
-            "artist": "Sirenia",
-            "id": 32032999
-        },
-        {
-            "name": "Beyond the Realms of Death",
-            "artist": "Judas Priest",
-            "id": 1489204
-        },
-        {
-            "name": "Love Will Find a Way",
-            "artist": "Shakra",
-            "id": 1962118
-        },
-        {
-            "name": "Lai Lai Hei",
-            "artist": "Ensiferum",
-            "id": 17662729
+            "name": "Star Of The County Down (Bonus Track)",
+            "artist": "Lyriel",
+            "id": 4161731
         }
     ]
 }

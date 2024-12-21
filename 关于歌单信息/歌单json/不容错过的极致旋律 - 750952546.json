@@ -1,13 +1,53 @@
 {
     "playlist_info": {
         "name": "不容错过的极致旋律",
-        "trackcount": 144,
-        "playcount": 2210560,
+        "trackcount": 152,
+        "playcount": 2233060,
         "creator": "苹果UFO库克",
         "createDate": "2017-06-04",
-        "heat": 997.0
+        "heat": 967.0
     },
     "songs": [
+        {
+            "name": "Want to compare?",
+            "artist": "DJ七七",
+            "id": 2082701271
+        },
+        {
+            "name": "Up at Night",
+            "artist": "Sineself",
+            "id": 1860653161
+        },
+        {
+            "name": "Last Night",
+            "artist": "Morgan Wallen",
+            "id": 2018696607
+        },
+        {
+            "name": "13PRO",
+            "artist": "WORTH KREW",
+            "id": 1975680248
+        },
+        {
+            "name": "All Stars",
+            "artist": "Martin Solveig",
+            "id": 484700147
+        },
+        {
+            "name": "What U Wanted",
+            "artist": "Wiberg",
+            "id": 1454868789
+        },
+        {
+            "name": "saturday.",
+            "artist": "8bite",
+            "id": 2057318547
+        },
+        {
+            "name": "Taking Over",
+            "artist": "Edwin Klift",
+            "id": 1363548740
+        },
         {
             "name": "what i like about u",
             "artist": "Jantine",
@@ -727,11 +767,6 @@
             "name": "I Like Me Better (Ruhde Remix)",
             "artist": "Ruhde",
             "id": 496869889
-        },
-        {
-            "name": "Made In China (Special Edition)",
-            "artist": "DJ Snake",
-            "id": 550138047
         }
     ]
 }

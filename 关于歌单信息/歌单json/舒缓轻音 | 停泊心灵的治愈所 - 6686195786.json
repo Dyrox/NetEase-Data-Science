@@ -1,17 +1,17 @@
 {
     "playlist_info": {
         "name": "舒缓轻音 | 停泊心灵的治愈所",
-        "trackcount": 40,
-        "playcount": 12818474,
+        "trackcount": 80,
+        "playcount": 13695555,
         "creator": "云音乐官方歌单",
         "createDate": "2021-03-30",
-        "heat": 15622.0
+        "heat": 15008.0
     },
     "songs": [
         {
-            "name": "Opus",
-            "artist": "坂本龍一",
-            "id": 500014
+            "name": "The Wind Wings",
+            "artist": "Goldmund",
+            "id": 5064939
         },
         {
             "name": "天空の城ラピュタ",
@@ -19,9 +19,194 @@
             "id": 442682
         },
         {
-            "name": "High Above",
+            "name": "Follow Me to the Moon",
+            "artist": "Daigo Hanada",
+            "id": 1384560036
+        },
+        {
+            "name": "Disappear in Light",
+            "artist": "Equal Stones",
+            "id": 29406314
+        },
+        {
+            "name": "Wonderland",
+            "artist": "David Nevue",
+            "id": 1237366
+        },
+        {
+            "name": "Used to Be",
+            "artist": "Jurrivh",
+            "id": 1452504602
+        },
+        {
+            "name": "Quiet",
+            "artist": "小瀬村晶",
+            "id": 408140415
+        },
+        {
+            "name": "New Home",
+            "artist": "Frozen Silence",
+            "id": 1917465387
+        },
+        {
+            "name": "pure heart",
+            "artist": "松田彬人",
+            "id": 4946902
+        },
+        {
+            "name": "Felicity",
+            "artist": "Isaac Shepard",
+            "id": 19934757
+        },
+        {
+            "name": "Majesty of the Lake",
+            "artist": "Dan Gibson",
+            "id": 1220827
+        },
+        {
+            "name": "Cage of Shadows",
+            "artist": "Robert Haigh",
+            "id": 27740975
+        },
+        {
+            "name": "Continua metamorfosi",
+            "artist": "Fabrizio Paterlini",
+            "id": 1369999
+        },
+        {
+            "name": "Air from Orchestral Suite No. 3 in D major, BWV 1068",
+            "artist": "Hamish Milne",
+            "id": 26012224
+        },
+        {
+            "name": "First Love",
+            "artist": "Michael Dulin",
+            "id": 1771679
+        },
+        {
+            "name": "Sign",
+            "artist": "小瀬村晶",
+            "id": 399232
+        },
+        {
+            "name": "有哉と美月",
+            "artist": "中西亮輔",
+            "id": 30870642
+        },
+        {
+            "name": "bathroom",
+            "artist": "松田光由",
+            "id": 475552
+        },
+        {
+            "name": "A Song For The Morning Star",
+            "artist": "Endless Melancholy",
+            "id": 4064275
+        },
+        {
+            "name": "You Are so Beautiful",
+            "artist": "Dan Gibson",
+            "id": 5022522
+        },
+        {
+            "name": "Moon-Silvered Clouds",
+            "artist": "Deuter",
+            "id": 17304436
+        },
+        {
+            "name": "Singur",
+            "artist": "Oskar Schuster",
+            "id": 468882321
+        },
+        {
+            "name": "Comptine D'un Autre Été, L'après-Midi",
+            "artist": "Yann Tiersen",
+            "id": 26635189
+        },
+        {
+            "name": "Viote",
+            "artist": "Saiakoup",
+            "id": 1370771358
+        },
+        {
+            "name": "들리나요",
+            "artist": "Lemonjam",
+            "id": 5318680
+        },
+        {
+            "name": "A Game of Croquet",
+            "artist": "Jóhann Jóhannsson",
+            "id": 29774788
+        },
+        {
+            "name": "Born a Stranger（slow）",
+            "artist": "Lerge",
+            "id": 455634241
+        },
+        {
+            "name": "Sea & Silence",
+            "artist": "Deuter",
+            "id": 5158471
+        },
+        {
+            "name": "Nuvole Bianche",
+            "artist": "Ludovico Einaudi",
+            "id": 28465109
+        },
+        {
+            "name": "In A Notebook",
+            "artist": "Goldmund",
+            "id": 18057481
+        },
+        {
+            "name": "Lullaby",
+            "artist": "Enzalla",
+            "id": 1939751157
+        },
+        {
+            "name": "Dance You Pretty",
+            "artist": "Chad Lawson",
+            "id": 1215166
+        },
+        {
+            "name": "Cherry Wood Paddle",
+            "artist": "Dan Gibson",
+            "id": 1217186
+        },
+        {
+            "name": "I Will Stand By You",
+            "artist": "Sunny Choi",
+            "id": 3552454
+        },
+        {
+            "name": "夜的钢琴曲五",
+            "artist": "石进",
+            "id": 149297
+        },
+        {
+            "name": "Deep Breaths",
             "artist": "Austin Farwell",
-            "id": 1479693635
+            "id": 1926268493
+        },
+        {
+            "name": "New Home",
+            "artist": "Austin Farwell",
+            "id": 1844252894
+        },
+        {
+            "name": "Kiss The Rain 비를 맞다",
+            "artist": "Yiruma",
+            "id": 22829933
+        },
+        {
+            "name": "Do You?",
+            "artist": "Yiruma",
+            "id": 22829926
+        },
+        {
+            "name": "Opus",
+            "artist": "坂本龍一",
+            "id": 500014
         },
         {
             "name": "風の詩",
@@ -29,14 +214,14 @@
             "id": 28577340
         },
         {
-            "name": "Je te veux",
-            "artist": "Erik Satie",
-            "id": 5299077
-        },
-        {
             "name": "River Flows in You",
             "artist": "Yiruma",
             "id": 22829932
+        },
+        {
+            "name": "High Above",
+            "artist": "Austin Farwell",
+            "id": 1479693635
         },
         {
             "name": "Samarcande",
@@ -49,34 +234,14 @@
             "id": 31680704
         },
         {
-            "name": "My Memory ~“冬のソナタ”より",
-            "artist": "広橋真紀子",
-            "id": 578064
-        },
-        {
             "name": "Piano Sonata No. 11, K 331 /Andante Grazioso [Looped with Nature Sounds]",
             "artist": "Dan Gibson",
             "id": 1218793
         },
         {
-            "name": "Rise",
-            "artist": "郑晟河",
-            "id": 1910861277
-        },
-        {
-            "name": "Adrift",
-            "artist": "Geeder",
-            "id": 2007248500
-        },
-        {
             "name": "To Me",
             "artist": "Shin Giwon Piano",
             "id": 2035109991
-        },
-        {
-            "name": "I'm All Smiles",
-            "artist": "Bill Evans",
-            "id": 1083127
         },
         {
             "name": "Songbird (Solo Piano Version)",
@@ -99,11 +264,6 @@
             "id": 1507239
         },
         {
-            "name": "Magic Waltz",
-            "artist": "Jacob Koller",
-            "id": 1475054546
-        },
-        {
             "name": "いのちの名前",
             "artist": "広橋真紀子",
             "id": 578090
@@ -112,11 +272,6 @@
             "name": "The Right Path",
             "artist": "Thomas Greenberg",
             "id": 2061452
-        },
-        {
-            "name": "風の住む街",
-            "artist": "磯村由紀子",
-            "id": 586299
         },
         {
             "name": "Dusk",
@@ -129,19 +284,14 @@
             "id": 32337030
         },
         {
-            "name": "Coming Home",
-            "artist": "Paul Cardall",
-            "id": 3301912
+            "name": "被时光移动的城市",
+            "artist": "石进",
+            "id": 26524326
         },
         {
             "name": "Shelter (Piano version)",
             "artist": "Porter Robinson",
             "id": 461347460
-        },
-        {
-            "name": "あなたと一緒に夏を過ごしたい",
-            "artist": "春野杉卉",
-            "id": 1445342841
         },
         {
             "name": "New Life",
@@ -152,11 +302,6 @@
             "name": "卡农（木吉他独奏版）",
             "artist": "Various Artists",
             "id": 34532273
-        },
-        {
-            "name": "クリスタル",
-            "artist": "三凰姬",
-            "id": 1461835896
         },
         {
             "name": "运命(さだめ)(piano version)",
@@ -179,19 +324,9 @@
             "id": 1219977
         },
         {
-            "name": "Like A Star (Piano Version)",
-            "artist": "Youngso Kim",
-            "id": 1956462195
-        },
-        {
             "name": "ハナミズキ (Originally Performed by 一青窈)",
             "artist": "広橋真紀子",
             "id": 26128303
-        },
-        {
-            "name": "Yumeji's Theme (harmonica Version)",
-            "artist": "Chikara Tsuzukii",
-            "id": 5044724
         },
         {
             "name": "Gymnopedie No. 1",
@@ -199,14 +334,79 @@
             "id": 1496189911
         },
         {
-            "name": "Sweet Remembrance Of You",
-            "artist": "William Joseph",
-            "id": 22006548
+            "name": "小さきもの",
+            "artist": "まらしぃ",
+            "id": 29774283
         },
         {
-            "name": "黄昏",
-            "artist": "押尾コータロー",
-            "id": 22822610
+            "name": "Standing Still",
+            "artist": "Polaranica",
+            "id": 1467985762
+        },
+        {
+            "name": "かたわれ時",
+            "artist": "RADWIMPS",
+            "id": 426881502
+        },
+        {
+            "name": "hometown",
+            "artist": "mamomo",
+            "id": 33469292
+        },
+        {
+            "name": "1981",
+            "artist": "石进",
+            "id": 149247
+        },
+        {
+            "name": "あなたと一緒に夏を過ごしたい",
+            "artist": "春野杉卉",
+            "id": 1445342841
+        },
+        {
+            "name": "夢",
+            "artist": "Greyscale",
+            "id": 2021457334
+        },
+        {
+            "name": "Starry Sky(满天星河)",
+            "artist": "dylanf",
+            "id": 1812282112
+        },
+        {
+            "name": "阵雨",
+            "artist": "Sophis",
+            "id": 1317736524
+        },
+        {
+            "name": "桜の廊下のあなた",
+            "artist": "春野杉卉",
+            "id": 1417540948
+        },
+        {
+            "name": "静かな夏",
+            "artist": "春野杉卉",
+            "id": 1380556360
+        },
+        {
+            "name": "kokyu",
+            "artist": "延近輝之",
+            "id": 4894838
+        },
+        {
+            "name": "Pink roses",
+            "artist": "winter sweet",
+            "id": 2000415398
+        },
+        {
+            "name": "Parting",
+            "artist": "Perseids",
+            "id": 1846568891
+        },
+        {
+            "name": "海底、月明かり",
+            "artist": "ヨルシカ",
+            "id": 1387098939
         }
     ]
 }

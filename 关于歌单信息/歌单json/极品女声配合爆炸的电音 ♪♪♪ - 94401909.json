@@ -1,11 +1,11 @@
 {
     "playlist_info": {
         "name": "极品女声配合爆炸的电音 ♪♪♪",
-        "trackcount": 335,
-        "playcount": 12810471,
+        "trackcount": 346,
+        "playcount": 12920243,
         "creator": "零生",
         "createDate": "2015-08-01",
-        "heat": 4433.0
+        "heat": 4335.0
     },
     "songs": [
         {
@@ -14,19 +14,49 @@
             "id": 1981032174
         },
         {
+            "name": "Stay (feat. Betsy Blue)",
+            "artist": "Yves V",
+            "id": 519367019
+        },
+        {
+            "name": "Ocean Hill",
+            "artist": "Trinix",
+            "id": 460413211
+        },
+        {
+            "name": "Slip Away",
+            "artist": "Sineself",
+            "id": 1382623484
+        },
+        {
+            "name": "Make A Move",
+            "artist": "EMMA WAHLIN",
+            "id": 1344438011
+        },
+        {
+            "name": "Colors (Audien Remix)",
+            "artist": "Halsey",
+            "id": 409020985
+        },
+        {
+            "name": "We Came to Party",
+            "artist": "Basixx",
+            "id": 1387110551
+        },
+        {
             "name": "It Don’t Matter",
             "artist": "Alok",
             "id": 1893103652
         },
         {
+            "name": "Scared",
+            "artist": "SABAI",
+            "id": 1862975508
+        },
+        {
             "name": "Love the Way You Lie",
             "artist": "BROHM",
             "id": 1483672581
-        },
-        {
-            "name": "Faded X Summerburst (Sash_S Edit)",
-            "artist": "Sash_S",
-            "id": 404784891
         },
         {
             "name": "Release Me",
@@ -37,6 +67,11 @@
             "name": "After Midnight",
             "artist": "KLYMVX",
             "id": 447926434
+        },
+        {
+            "name": "Falling Again",
+            "artist": "Nurko",
+            "id": 565841089
         },
         {
             "name": "Sorry",
@@ -64,11 +99,6 @@
             "id": 1449668615
         },
         {
-            "name": "You Need to Know",
-            "artist": "Axel Johansson",
-            "id": 2001426425
-        },
-        {
             "name": "溯 (Reverse)",
             "artist": "CORSAK胡梦周",
             "id": 1294951288
@@ -79,12 +109,17 @@
             "id": 1482104722
         },
         {
+            "name": "No Promises (feat. Demi Lovato)",
+            "artist": "Cheat Codes",
+            "id": 467952465
+        },
+        {
             "name": "Not My Baby",
             "artist": "INNA",
             "id": 1434309751
         },
         {
-            "name": "So Cold",
+            "name": "So Cold (feat. Lily Denning)",
             "artist": "Mahalo",
             "id": 1350187829
         },
@@ -97,6 +132,11 @@
             "name": "Another You",
             "artist": "ThimLife",
             "id": 1329164029
+        },
+        {
+            "name": "Feel Right Now (feat. Nonô)",
+            "artist": "Parx",
+            "id": 1451122329
         },
         {
             "name": "Changes",
@@ -117,6 +157,11 @@
             "name": "Give Me Wings",
             "artist": "Jerome",
             "id": 32640251
+        },
+        {
+            "name": "Take Me To Church",
+            "artist": "ZVS",
+            "id": 1855961011
         },
         {
             "name": "Into You",
@@ -269,7 +314,12 @@
             "id": 417833611
         },
         {
-            "name": "God Save the Rave",
+            "name": "Faded X Summerburst (Sash_S Edit)",
+            "artist": "Sash_S",
+            "id": 404784891
+        },
+        {
+            "name": "God Save The Rave",
             "artist": "Scooter",
             "id": 1368219740
         },
@@ -549,7 +599,7 @@
             "id": 459062906
         },
         {
-            "name": "High Days ",
+            "name": "High Days",
             "artist": "Hoved",
             "id": 1338495341
         },
@@ -604,7 +654,7 @@
             "id": 1304517647
         },
         {
-            "name": " Alone",
+            "name": "Alone",
             "artist": "FrogMonster",
             "id": 1364751214
         },
@@ -767,6 +817,11 @@
             "name": "Milk & Honey",
             "artist": "G Girls",
             "id": 463352535
+        },
+        {
+            "name": "Wake (Live)",
+            "artist": "Hillsong Young & Free",
+            "id": 1873321491
         },
         {
             "name": "Breathe",
@@ -1085,7 +1140,7 @@
         },
         {
             "name": "Falling Down (Night Mix)",
-            "artist": "Arty",
+            "artist": "ARTY",
             "id": 461858723
         },
         {
@@ -1162,11 +1217,6 @@
             "name": "We Won't Leave You",
             "artist": "Steve Void",
             "id": 495542297
-        },
-        {
-            "name": "Planez (Neon Tribe Remix)",
-            "artist": "Neon Tribe",
-            "id": 453268471
         },
         {
             "name": "Karma",
@@ -1352,6 +1402,11 @@
             "name": "It's Over",
             "artist": "Maki Flow",
             "id": 477933011
+        },
+        {
+            "name": "Living For The Moment (Croatia Squad Remix)",
+            "artist": "Me & My Toothbrush",
+            "id": 420125428
         },
         {
             "name": "Redefined (feat. Melanie Fontana)",

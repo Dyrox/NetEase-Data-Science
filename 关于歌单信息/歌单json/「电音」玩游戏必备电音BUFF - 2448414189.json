@@ -1,11 +1,11 @@
 {
     "playlist_info": {
         "name": "「电音」玩游戏必备电音BUFF",
-        "trackcount": 214,
-        "playcount": 1674082,
+        "trackcount": 215,
+        "playcount": 1678362,
         "creator": "HUMAN00",
         "createDate": "2018-10-02",
-        "heat": 966.0
+        "heat": 920.0
     },
     "songs": [
         {
@@ -17,6 +17,11 @@
             "name": "Children of the Dark",
             "artist": "Mono Inc.",
             "id": 1434794087
+        },
+        {
+            "name": "Anybody Out There",
+            "artist": "Hardwell",
+            "id": 2056084958
         },
         {
             "name": "Come on Sexy Girl",
@@ -405,7 +410,7 @@
         },
         {
             "name": "Sold Out",
-            "artist": "Hawk Nelson",
+            "artist": "Jonathan Steingard",
             "id": 31010566
         },
         {
